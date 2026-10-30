@@ -1,0 +1,28 @@
+---
+source: "https://novayagazeta.ru/articles/2021/08/28/ovd-info-politsiia-prishla-kak-minimum-k-1312-liudiam-chi-adresa-popali-v-slitye-bazy-storonnikov-navalnogo-o-vizitakh-soobshchili-zhiteli-regionov-news"
+title: "«ОВД-Инфо»: полиция пришла как минимум к 1312 людям, чьи адреса попали в слитые базы сторонников Навального. О визитах сообщили жители регионов"
+subtitle: ""
+date: "2021-08-28T16:26:00Z"
+authors: "«Новая газета» (редакция)"
+rubric: "Общество"
+genre: "Новости"
+tags: "em , овд-инфо, полиция, москва, регионы"
+---
+
+# «ОВД-Инфо»: полиция пришла как минимум к 1312 людям, чьи адреса попали в слитые базы сторонников Навального. О визитах сообщили жители регионов
+
+Полицейские стали приходить к людям в регионах, чьи адреса указаны в слитых базах данных, собранных командой Алексея Навального. Общее число тех, к кому пришла полиция, составляет не менее 1312 человек, [сообщает](https://t.me/ovdinfo/11261) «ОВД-Инфо».
+
+По его информации, полицейские стали приходить к гражданам в регионах из-за слитых баз на этой неделе, до этого подобные визиты были только в Москве. «Мы зафиксировали случаи в Петербурге, Владивостоке, Самаре, Саранске, Туле, Ярославле, Саратовской области (Саратов и Энгельс), Ленинградской области (Кудрово) и Московской области (Подольск, Балашиха, Зарайск и Химки)», — рассказали в проекте.
+
+Пресс-секретарь «ОВД-Инфо» Константин Фомин уточнил «Новой газете», что число людей, к которым приходит полиция по поводу слитых баз, продолжает расти.
+
+Полиция [начала](https://novayagazeta.ru/articles/2021/08/17/ovd-info-politsiia-prishla-domoi-k-liudiam-chi-adresa-popali-v-slitye-bazy-umnogo-golosovaniia-i-storonnikov-navalnogo-news) приходить к москвичам, чьи адреса указаны в слитых базах, вечером 17 августа. По данным «ОВД-Инфо», силовики требуют объяснить, как человек попал в базу с персональной информацией или почему жертвовал деньги структурам Навального. Полиция в ряде случаев просила написать заявление на Навального за «незаконную передачу персональных данных».
+
+Полиция приходила, в частности, к спецкору «Новой газеты» Илье Азару, когда его не было дома, и к координатору правовой помощи «ОВД-Инфо» [Антону Тароянцу](https://novayagazeta.ru/articles/2021/08/18/politsiia-prishla-uzhe-k-130-liudiam-v-sviazi-s-publikatsiei-bazy-umnogo-golosovaniia-v-tom-chisle-k-koordinatoru-ovd-info-antonu-taroiantsu-news?utm_source=tg&utm_medium=novaya&utm_campaign=politsiya-prishla-uzhe-k-130-lyudyam-v-svyazi-s). О визите полицейских в свое отсутствие накануне вечером [сообщил](https://t.me/m_timonov/6014) также депутат Мосгордумы Михаил Тимонов.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/04/16/baza-volkova
+
+База участников митинга «Свободу Навальному» [попала](https://novayagazeta.ru/articles/2021/04/16/v-internete-poiavilas-baza-elektronnykh-adresov-zaregistrirovavshikhsia-na-aktsiiu-svobodu-navalnomu) в Сеть в апреле этого года. Команда Навального тогда[заявила](https://novayagazeta.ru/articles/2021/05/31/komanda-navalnogo-obvinila-eks-sotrudnika-v-utechke-dannykh-storonnikov-politika-on-svoiu-prichastnost-k-slivu-otritsaet), что данные за вознаграждение якобы слил их бывший коллега Федор Горожанко. Тот [отрицал](https://novayagazeta.ru/articles/2021/06/02/nekrasivaia-istoriia) причастность к утечке. В некоторых случаях сотрудников госпредприятий, попавших в базу, [увольняли](https://novayagazeta.ru/articles/2021/05/18/metropoliten-ne-nuzhdaetsia-v-takikh-rabotnikakh) с работы.
+
+Слив базы данных зарегистрированных на «Умное голосование» москвичей [произошел](https://tjournal.ru/flood/413718-sliv-bazy-dannyh-umnogo-golosovaniya) в июле. IT-энтузиасты [указывали](https://habr.com/ru/post/568842/) команде Навального, что сайт голосования имел уязвимости, через которые «украсть» данные было несложно.

@@ -1,0 +1,26 @@
+---
+source: "https://novayagazeta.ru/articles/2021/10/21/materi-i-zhene-osnovatelia-group-ib-sachkova-arestovannogo-po-delu-o-gosizmene-ne-razreshili-uvidetsia-s-nim-news"
+title: "Матери и жене основателя Group‑IB Сачкова, арестованного по делу о госизмене, не разрешили увидеться с ним"
+subtitle: ""
+date: "2021-10-21T12:33:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "сачков, group-ib, госизмена, сизо лефортово, sf"
+---
+
+# Матери и жене основателя Group‑IB Сачкова, арестованного по делу о госизмене, не разрешили увидеться с ним
+
+Следователи не дали разрешение жене и матери основателя Group-IB Ильи Сачкова, арестованного по делу о госизмене (статья 275 УК), на свидание с ним в СИЗО «Лефортово». Об этом ТАСС [рассказал](https://tass.ru/proisshestviya/12722793) адвокат Дмитрий Дихтярь.
+
+«Свидание в "Лефортово" организовать не так просто. Пока следователь не разрешил жене и матери, другим близким прийти к нему в СИЗО», — сообщил адвокат.
+
+Дихтярь уточнил, что дело Сачкова не связано с деятельностью Group-IB.
+
+Ранее члена московской Общественной наблюдательной комиссии (ОНК) Александр Хуруджи [передал](https://novayagazeta.ru/articles/2021/10/19/okazalsia-v-polnom-informatsionnom-vakuume-arestovannyi-po-delu-o-gosizmene-osnovatel-group-ib-sachkov-soobshchil-o-zaprete-chitat-pisma-news), что основатель компании не получает газеты и письма. «Оказался в полном информационном вакууме», — подчеркнул Хуруджи.
+
+По его словам, Сачков заявил, что ему в СИЗО поступило 25 писем, однако прочесть их ему не разрешили. Также он сам пытался отправить 17 писем, но их не доставляют до адресата.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/09/29/chelovek-pervogo-softa
+
+29 сентября Лефортовский суд Москвы [арестовал](https://novayagazeta.ru/articles/2021/09/29/osnovatelia-group-ib-iliu-sachkova-otpravili-v-sizo-po-delu-o-gosizmene-news) на два месяца основателя Group-IB Илью Сачкова. Он стал фигурантом дела о госизмене. В штаб-квартире его компании прошли обыски. На уголовное дело в отношении IT-бизнесмена наложен гриф «Секретно». Bloomberg [писал](https://novayagazeta.ru/articles/2021/10/03/bloomberg-ugolovnoe-delo-protiv-glavy-group-ib-sachkova-sviazano-s-ego-planami-vyvesti-biznes-za-granitsu-news), что оно может быть связано планами Сачкова вывести бизнес за границу.

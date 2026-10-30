@@ -1,0 +1,18 @@
+---
+source: "https://novayagazeta.ru/articles/2021/04/28/v-moskve-sud-arestoval-muzhchinu-po-delu-o-gosizmene"
+title: "В Москве суд арестовал мужчину по делу о госизмене"
+subtitle: ""
+date: "2021-04-28T14:04:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "ученые, госизмена"
+---
+
+# В Москве суд арестовал мужчину по делу о госизмене
+
+Лефортовский суд Москвы арестовал гражданина России Кабанова С.С. по делу о государственной измене (ст. 275 УК). Это [следует](https://mos-gorsud.ru/rs/lefortovskij/services/cases/criminal-materials/details/a6594890-a819-11eb-be93-31029791272f?respondent=%D0%BA%D0%B0%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2) из информации, опубликованной на сайте суда. РИА Новости [уточнили](https://ria.ru/20210428/gosizmena-1730346744.html) в пресс-службе суда, что мужчина останется под стражей до 28 июня. Судебное заседание прошло в закрытом режиме, подробности дела не раскрываются.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/04/13/sud-v-moskve-arestoval-valeriia-golubkina-po-delu-o-gosizmene-chelovek-s-takim-imenem-professor-mfti
+
+23 апреля Московский городской суд [приговорил](https://novayagazeta.ru/articles/2021/04/23/mosgorsud-prigovoril-dotsenta-mai-vorobeva-k-20-godam-kolonii-po-delu-o-gosizmene) к 20 годам колонии строгого режима доцента Московского Авиационного Института (МАИ) Алексея Воробьева по делу о государственной измене. Кроме того, его оштрафовали на 1 млн рублей. Ранее Лефортовский суд Москвы [арестовал](https://novayagazeta.ru/articles/2021/04/13/sud-v-moskve-arestoval-valeriia-golubkina-po-delu-o-gosizmene-chelovek-s-takim-imenem-professor-mfti) до 12 июня гражданина России Валерия Голубкина, сотрудника Центрального аэрогидродинамического института имени профессора Жуковского. В пресс-службе МФТИ «Новой» заявили, что он не участвует в научной работе. Там же отметили, что к сведениям, составляющим государственную тайну, профессор доступа не имел. В начале декабря прошлого года суд [арестовал](https://novayagazeta.ru/news/2020/12/03/166170-sud-v-moskve-arestoval-muzhchinu-po-delu-o-gosizmene-polnyy-ego-tezka-rabotaet-dotsentom-v-mfti) ученого-физика, профессора МФТИ Анатолия Губанова, который читал курс по «практической аэродинамике высокоскоростных летательных аппаратов».

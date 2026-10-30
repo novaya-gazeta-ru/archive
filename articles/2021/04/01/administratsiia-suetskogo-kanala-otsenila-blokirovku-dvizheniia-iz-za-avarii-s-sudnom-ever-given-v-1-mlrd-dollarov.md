@@ -1,0 +1,20 @@
+---
+source: "https://novayagazeta.ru/articles/2021/04/01/administratsiia-suetskogo-kanala-otsenila-blokirovku-dvizheniia-iz-za-avarii-s-sudnom-ever-given-v-1-mlrd-dollarov"
+title: "Администрация Суэцкого канала оценила блокировку движения из-за аварии с судном Ever Given в 1 млрд долларов"
+subtitle: ""
+date: "2021-04-01T05:23:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "ng, суэцкий канал, судно"
+---
+
+# Администрация Суэцкого канала оценила блокировку движения из-за аварии с судном Ever Given в 1 млрд долларов
+
+Суммарный ущерб от блокировки Суэцкого канала для ее администрации может составить около 1 млрд долларов. Об этом, как [передает](https://www.reuters.com/article/idUSKBN2BN3C2) Reuters, заявил глава администрации канала Усама Рабиамм. «Мы будем вести подсчеты, учтем все средства, которые мы использовали с первого дня инцидента, траты на работу буксиров и дноуглубительных судов, которые работали круглосуточно, это значительная сумма», — [заявил](https://youtu.be/Zs_deAg4pZE) он. По его словам, расследование аварии займет не меньше недели, 400-метровое судно Ever Given не покинет канал, пока расследование не завершится. Ранее аналитики компании Allianz [оценили](https://novayagazeta.ru/articles/2021/03/27/analitiki-otsenili-v-230-mlrd-dollarov-mirovye-ubytki-iz-za-blokirovki-suetskogo-kanala-gde-zastrial-konteinerovoz-ever-given) в 230 млрд долларов мировые убытки от блокировки движения на Суэцком канале. Эксперты отметили, что авария приведет к сбоям в цепочке поставок товаров в разные страны, и заявили, что каждый день блокировки канала может стоить мировой торговле от 6 до 10 млрд долларов. Нарушение цепочки поставок особенно сильно сказывается и на ценах на сырье в Европе, подытожили в Allianz.
+
+Контейнеровоз Ever Given [сняли](https://novayagazeta.ru/articles/2021/03/29/konteinerovoz-ever-given-sniali-s-meli-v-suetskom-kanale-on-pochti-nedeliu-blokiroval-dvizhenie-soten-sudov) с мели 29 марта. Для этого были задействованы 10 буксиров, также потребовалось вырыть 27 тысяч кубометров песка на глубину 18 метров. Уже в тот же день судно [начало](https://novayagazeta.ru/articles/2021/03/29/zablokirovavshii-suetskii-kanal-konteinerovoz-ever-given-nachal-dvizhenie-na-sever) движение на север.
+
+Ever Given, которое направлялось из Китая в нидерландский порт Роттердам, 23 марта сел на мель и заблокировал движение сотен суден. Контейнеровоз развернуло, из-за этого Ever Given уперся носом в один берег, кормой — в другой. [Сообщалось](https://novayagazeta.ru/articles/2021/03/25/na-vosstanovlenie-dvizheniia-po-suetskomu-kanalu-gde-zastrial-konteinerovoz-ever-given-mozhet-potrebovatsia-neskolko-nedel), что общая стоимость нефти из России, застрявшей из-за заблокированного движения, могла составлять 160 млн долларов.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/03/27/tanker-kotoryi-smog

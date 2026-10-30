@@ -1,0 +1,26 @@
+---
+source: "https://novayagazeta.ru/articles/2022/03/22/finskaia-tamozhnia-zaderzhala-21-rossiiskuiu-iakhtu-news"
+title: "Финская таможня задержала 21 яхту, которая может принадлежать российским бизнесменам"
+subtitle: ""
+date: "2022-03-22T06:06:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "яхта, пумпянский, санкции, гибралтар, финляндия, ep"
+---
+
+# Финская таможня задержала 21 яхту, которая может принадлежать российским бизнесменам
+
+Финская таможня задержала 21 яхту, которая может принадлежать подпавшим под санкции Евросоюза российским олигархам или их компаниям. Об этом [сообщила](https://www.hs.fi/talous/art-2000008697109.html) газета Helsingin Sanomat.
+
+Если таможня подтвердит принадлежность яхт лицам под санкциями, то местное ведомство по принудительному взысканию долгов сможет перейти к вопросам заморозки имущества.
+
+Также в Гибралтаре задержали яхту, которую связывают с миллиардером Дмитрием Пумпянским, [сообщает](https://www.reuters.com/world/europe/russian-billionaires-yacht-docks-gibraltar-detained-by-authorities-2022-03-21/) Reuters. По данным издания, яхта Axioma пришвартовалась в Гибралтаре под мальтийским флагом 21 марта.
+
+«В настоящее время судно подлежит аресту маршалом адмиралтейства до дальнейшего распоряжения», — говорится в сообщении местных властей.\
+
+**Читайте также:** https://novayagazeta.ru/articles/2022/03/11/nichego-ne-konfiskovano-no-vse-arestovano#
+
+Ранее в Испании [задержали](https://novayagazeta.ru/articles/2022/03/17/vlasti-ispanii-arestovali-135-metrovuiu-iakhtu-crescent-kotoruiu-sviazyvaiut-s-igorem-sechinym-news) 135-метровую яхту под названием «Crescent» («Полумесяц»). Агентство Reuters связывает яхту с главой «Роснефти» Игорем Сечиным, внесенным в санкционный список Евросоюза, США и Великобритании. 3 марта, министр экономики и финансов Франции Брюно Ле Мэр [сообщил](https://novayagazeta.ru/articles/2022/03/03/vlasti-frantsii-arestovali-iakhtu-amore-vero-kotoruiu-sviazyvaiut-s-igorem-sechinym-news) о конфискации яхты Amore Vero, которую также связывают с Сечиным, в порту Ла-Сьота на Лазурном берегу.
+
+Также власти Гамбурга 3 марта [конфисковали](https://novayagazeta.ru/articles/2022/03/02/forbes-soobshchil-o-konfiskatsii-vlastiami-gamburga-156-metrovoi-iakhty-usmanova-news) 156-метровую яхту Dilbar российского бизнесмена Алишера Усманова, попавшего под санкции.

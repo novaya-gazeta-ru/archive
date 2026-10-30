@@ -1,0 +1,28 @@
+---
+source: "https://novayagazeta.ru/articles/2021/11/19/v-peterburge-politsiia-zanialas-poiskom-dvukh-parnei-sfotografirovavshikhsia-naprotiv-spasa-na-krovi-bez-trusov-news"
+title: "Полиция задержала двух парней, сфотографировавшихся напротив Спаса на Крови без трусов. СК возбудил дело"
+subtitle: ""
+date: "2021-11-19T14:11:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "голые люди, храмы, подростки, полиция, sf"
+---
+
+# Полиция задержала двух парней, сфотографировавшихся напротив Спаса на Крови без трусов. СК возбудил дело
+
+В Санкт-Петербурге полиция задержала двух молодых людей, которые в июле этого года сфотографировались на фоне собора Спас на Крови, оголив интимные части тела. Об этом [сообщает](https://www.fontanka.ru/2021/11/19/70264607/?utm_source=tg) «Фонтанка» со ссылкой на главное управление МВД по городу.
+
+Фотографию юношей полицейские [обнаружили](https://www.fontanka.ru/2021/11/19/70263731/) в ходе интернет-мониторинга. На снимке двое подростков, которым 15 и 17 лет, без трусов позируют напротив Спаса на Крови: один стоит лицом к камере, другой повернулся спиной.
+
+*Фото: соцсети*
+
+Следственный комитет по Петербургу, как пишет «Фонтанка», возбудил уголовное дело по статье 148 УК (нарушение права на свободу совести и вероисповеданий). Юношей доставили в отдел полиции.
+
+Вчера полиция [начала](https://novayagazeta.ru/articles/2021/11/18/politsiia-v-kaluge-nachala-proverku-iz-za-foto-devushki-s-golymi-iagoditsami-na-fone-khrama-news) проверку из-за фотографии полуобнаженной девушки на фоне храма в Калуге. Она стояла спиной к камере, задрав юбку и показывая свое нижнее белье.
+
+За последние полтора месяца из-за полуобнаженных фотографий на фоне храмов было возбуждено несколько дел. Против вебкам-модели Lola Bunny, оголившей грудь на фоне храма Василия Блаженного, СК [возбудил](https://novayagazeta.ru/articles/2021/10/23/sk-vozbudil-ugolovnoe-delo-ob-oskorblenii-chuvstv-veruiushchikh-na-vebkam-model-ogolivshuiu-grud-na-fone-khrama-vasiliia-blazhennogo-news) уголовное дело об оскорблении чувств верующих ( ч. 1 ст. 148 УК). Ирину Волкову, оголившую ягодицы у Исаакиевского собора, [обвиняют](https://novayagazeta.ru/articles/2021/10/31/sud-otpustil-bez-izbraniia-mery-presecheniia-model-ogolivshuiu-iagoditsy-naprotiv-isaakievskogo-sobora-news) по этой же статье.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/11/05/okolotochnyi-protiv-varezhek
+
+В конце октября суд в Москве [приговорил](https://novayagazeta.ru/articles/2021/10/29/v-moskve-sud-prigovoril-parnia-s-devushkoi-k-10-mesiatsam-kolonii-za-foto-s-imitatsiei-oralnogo-seksa-na-fone-khrama-vasiliia-blazhennogo-news) блогера из Таджикистана Руслана Бобиева и его подругу Анастасию Чистову к 10 месяцам колонии за фото с имитацией орального секса на фоне храма Василия Блаженного.

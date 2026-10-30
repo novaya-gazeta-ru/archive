@@ -1,0 +1,32 @@
+---
+source: "https://novayagazeta.ru/articles/2021/05/28/chto-proizoshlo-za-den-28-maia-korotko"
+title: "Что произошло за день 28 мая. Коротко"
+subtitle: ""
+date: "2021-05-28T17:02:00Z"
+authors: "«Новая газета» (редакция)"
+rubric: "Общество"
+genre: "Новости"
+tags: "фургал, Беларусь, голунов, sn"
+---
+
+# Что произошло за день 28 мая. Коротко
+
+- **Следственный комитет возбудил еще одно уголовное дело против редактора DOXA Владимира Метелкина.** Его [заподозрили](https://novayagazeta.ru/articles/2021/05/28/protiv-redaktora-doxa-vozbudili-delo-o-klevete-na-sledovatelia) в клевете в отношении следователя. В прошлом месяце Метелкин — фигурант дела о вовлечении несовершеннолетних в опасные для жизни действия (ст. 151.2 УК) — заявил отвод своей следовательнице. Он объяснил это тем, что женщина нарушала его личное пространство, «постоянно трогала руками» и называла его «сексуальным».
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/05/28/kakoi-takoi-zakazchik
+
+- **Мосгорсуд вынес приговоры экс-полицейским по «делу Голунова».** Экс-начальника отдела по борьбе с незаконным оборотом наркотиков УВД по Западному округу столицы Игоря Ляховца приговорили к 12 годам колонии общего режима, его подчиненные Уметбаев, Сергалиев и Феофанов получили по 8 лет колонии, а признавший вину Денис Коновалов — пять лет колонии.
+
+- **Задержанной в Минске россиянке Софье Сапеге разрешили встретиться со своим защитником в изоляторе КГБ Беларуси.** Он [сообщил](https://novayagazeta.ru/articles/2021/05/28/fizicheskoe-nasilie-ne-primenialos-advokat-sofi-sapegi-vstretilsia-so-svoei-podzashchitnoi-v-izoliatore-kgb-belarusi), что девушка не жаловалась на физическое насилие и выглядит «бодрой и здоровой». Ранее суд в Минске [отклонил](https://novayagazeta.ru/articles/2021/05/28/v-minske-sud-otkazalsia-udovletvorit-zhalobu-na-zaderzhanie-rossiianki-sofi-sapegi) жалобу адвокатов и оставил в силе решение об ее аресте.
+
+- **Глава Ryanair назвал «неправдивой» и «неточной» расшифровку переговоров пилота авиакомпании с диспетчерами, опубликованную Минтрансом Беларуси**. Он [рассказал](https://novayagazeta.ru/articles/2021/05/28/gendirektor-ryanair-nazval-zakhvat-samoleta-s-romanom-protasevichem-na-bortu-prednamerennym-i-nezakonnym-ugonom), что захват самолета авиакомпании «преднамеренным» и «незаконным» угоном и «предосудительным действием». По его словам, белорусские власти не оставили пилоту шансов принять любое другое решение, кроме как посадить самолет в Минске.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/05/28/kovarnyi-plan-ne-otlichit-ot-duri
+
+- **Организаторы «Евровидения» приостановили членство Белтелерадиокомпании в EBU из-за «признательных видео» c задержанными**. Союз ++[дал](https://novayagazeta.ru/articles/2021/05/28/organizatory-evrovideniia-priostanovili-chlenstvo-belteleradiokompanii-v-ebu-iz-za-priznatelnykh-video-c-zaderzhannymi)++ БТРК две недели, чтобы объяснить свою позицию. После этого решение о приостановлении ее членства вступит в силу.
+
+- **МИД Литвы объявил двух белорусских дипломатов персонами нон грата.** В качестве причины высылки сотрудников посольства во внешнеполитическом ведомстве [назвали](https://novayagazeta.ru/articles/2021/05/28/mid-litvy-obiavil-dvukh-belorusskikh-diplomatov-personami-non-grata) «деятельность, несовместимую с дипломатическим статусом». Свое решение в МИД Литвы объяснили солидарностью с Латвией. В ответ Минск выслал из страны двух литовских дипломатов.
+
+- **Эксперты с помощью анализа речи и мимики Фургала нашли признаки «неискренности» и «лимбического бегства» от допроса**. Провести психолого-лингвистическое исследование Сергея Фургала [поручил](https://novayagazeta.ru/articles/2021/05/28/kommersant-eksperty-s-pomoshchiu-analiza-rechi-i-mimiki-furgala-nashli-priznaki-neiskrennosti-i-limbicheskogo-begstva-ot-doprosa) следователь по особо важным делам СКР Юрий Буртовой.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/05/28/belarus-golovnogo-mozga-kak-degradiruet-rezhim-lukashenko-i-kakova-v-etom-rol-rossii

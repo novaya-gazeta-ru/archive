@@ -1,0 +1,26 @@
+---
+source: "https://novayagazeta.ru/articles/2026/07/11/rossiia-chastichno-ostanovila-sudokhodstvo-v-azovskom-more-iz-za-reguliarnykh-atak-bespilotnikov-po-tankeram-reuters-news"
+title: "Россия частично остановила судоходство в Азовском море из-за регулярных атак беспилотников по танкерам — Reuters"
+subtitle: ""
+date: "2026-07-11T08:19:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: ""
+---
+
+# Россия частично остановила судоходство в Азовском море из-за регулярных атак беспилотников по танкерам — Reuters
+
+Несколько источников агентства Reuters [сообщили](https://www.reuters.com/business/rpt-russia-halts-don-azov-channel-shipping-affecting-grain-trade-after-ukraine-2026-07-10/) о приостановке всего грузового судоходства по Азово-Донскому каналу и Керченскому проливу из-за продолжающихся с июля атак Украины по судам в этой локации.
+
+Судоходные компании уже с вечера пятницы якобы получили уведомление от российской погранслужбы, что суда через Керченский пролив временно проходить не будут.
+
+Официального подтверждения этой информации со стороны России пока нет.
+
+Действительно, Россия признает атаки украинских БПЛА по судам в Таганрогском проливе, — с 8 июля губернатор Ростовской области [сообщал](https://novayagazeta.ru/articles/2026/07/11/bespilotniki-atakovali-taganrog-i-suda-v-zalive-v-tom-chisle-tanker-s-metanolom-pogib-matros-gubernator-rostovskoi-oblasti-news) о нескольких таких случаях, есть и раненые среди матросов. Последний случай атаки был этой ночью. Ранен 1 матрос, поврежден танкер с метанолом, но угрозы разлива яда нет.
+
+Морская артерия Азово-Донского канала важна для вывоза зерна. Его длительное перекрытие может затронуть до четверти нынешнего российского зернового экспорта.
+
+Украина называют своей целью танкеры «нефтяного флота». Как на логистику ГСМ повлияет временное перекрытие судоходства — Reuters не сообщает.
+
+**Читайте также:** https://novayagazeta.ru/articles/2026/07/11/bespilotniki-atakovali-taganrog-i-suda-v-zalive-v-tom-chisle-tanker-s-metanolom-pogib-matros-gubernator-rostovskoi-oblasti-news

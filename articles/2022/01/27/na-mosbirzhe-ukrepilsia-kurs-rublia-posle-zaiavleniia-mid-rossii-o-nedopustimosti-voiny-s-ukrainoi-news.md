@@ -1,0 +1,28 @@
+---
+source: "https://novayagazeta.ru/articles/2022/01/27/na-mosbirzhe-ukrepilsia-kurs-rublia-posle-zaiavleniia-mid-rossii-o-nedopustimosti-voiny-s-ukrainoi-news"
+title: "На Мосбирже укрепился курс рубля после заявления МИД России о недопустимости войны с Украиной"
+subtitle: ""
+date: "2022-01-27T15:23:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "Мосбиржа, рубль, доллар, евро, da"
+---
+
+# На Мосбирже укрепился курс рубля после заявления МИД России о недопустимости войны с Украиной
+
+На Мосбирже укрепился курс рубля после заявления МИД России о недопустимости войны с Украиной, [свидетельствуют](https://www.moex.com/ru/issue/EUR_RUB__TOM/CETS?utm_source=www.moex.com&utm_term=%D0%B5%D0%B2%D1%80%D0%BE« rel=»noopener« target=»_blank) данные торгов. На 16:49 мск доллар торговался на уровне 77,45 рублей, евро — 86,33 рублей.
+
+*Курс доллара на Мосбирже*
+
+Незадолго до этого замглавы департамента информации и печати МИД России Алексей Зайцев [заявил](https://www.youtube.com/watch?v=LKPg9jIPasE), что «наша страна ни на кого нападать не собирается», а министерство считает «неприемлемой даже мысль о войне между нашими народами».\
+ \
+ По состоянию на 16:49 мск индекс Мосбиржи поднялся до 3523,75, индекс РТС — 1432,69. К 18:00 мск индексы незначительно снизились: до 3474,72 и 1406,22 соответственно. На данный момент курс доллара остается ниже отметки в 78 рублей, курс евро не превышает 87 рублей.
+
+Днем ранее курс доллара [превысил](https://novayagazeta.ru/articles/2022/01/26/kurs-evro-prevysil-90-rublei-vpervye-s-iiulia-2021-goda-news) 80 рублей (впервые с ноября 2020 года), евро — 90 рублей (впервые с июля 2021 года).
+
+**Читайте также:** https://novayagazeta.ru/articles/2022/01/27/valiuta-voiny
+
+Рубль слабеет на фоне напряженности вокруг ситуации с Украиной, считают аналитики. Ранее Госдепартамент США [распорядился](https://novayagazeta.ru/articles/2022/01/24/gosdep-rasporiadilsia-evakuirovat-semi-amerikanskikh-diplomatov-iz-ukrainy-iz-za-ugrozy-voennykh-deistvii-so-storony-rossii-news) эвакуировать семьи американских дипломатов из Украины из-за «угрозы военных действий со стороны России». Также НАТО [объявило](https://www.nato.int/cps/en/natohq/news_191040.htm) об увеличении своего присутствия на территории Восточной Европы. На фоне ослабления российской валюты Forbes [заметил](https://novayagazeta.ru/articles/2022/01/26/forbes-rossiiskie-milliardery-za-mesiats-poteriali-28-mlrd-iz-za-napriazhennosti-vokrug-ukrainy-news), что совокупное состояние 104 российских миллиардеров с 20 декабря 2021 года по 25 января 2022 года сократилось на $27,9 млрд.
+
+**Читайте также:** https://novayagazeta.ru/articles/2022/01/20/geopoliticheskaia-neopredelennost-goda

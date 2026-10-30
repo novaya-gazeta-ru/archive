@@ -1,0 +1,26 @@
+---
+source: "https://novayagazeta.ru/articles/2021/08/31/krishtianu-ronaldu-podpisal-kontrakt-s-manchester-iunaited-news"
+title: "Криштиану Роналду подписал контракт с «Манчестер Юнайтед»"
+subtitle: ""
+date: "2021-08-31T10:25:00Z"
+authors: ""
+rubric: "Спорт"
+genre: "Новости"
+tags: ""
+---
+
+# Криштиану Роналду подписал контракт с «Манчестер Юнайтед»
+
+Португальский нападающий Криштиану Роналду подписал контракт с английским «Манчестер Юнайтед» сроком на два года с возможностью продления еще на один сезон. Об этом [сообщает](https://news.sky.com/story/cristiano-ronaldo-officially-signs-for-manchester-united-as-details-of-two-year-contract-revealed-12395697) Sky News.
+
+Клуб в течение пяти лет должен будет выплатить итальянскому «Ювентусу» 15 миллионов евро, а в случае успешного выступления Роналду — еще до 8 млн евро бонусов. Сам 36-летний футболист, по [данным](https://sport24.ru/news/football/2021-08-28-zarplata-ronaldu-v-myu-messi-v-pszh-skolko-zarabatyvayut-futbolisty-v-apl-reyting-zarplat-v-yevrope) Daily Mail, будет получать самую высокую зарплату в Английской Премьер-лиге: 480 тысяч фунтов стерлингов в неделю (на 20 тысяч фунтов стерлингов в неделю меньше, чем в «Ювентусе»).
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/08/28/esli-doroga-vedet-v-manchester
+
+На прошлой неделе Роналду [попрощался](https://novayagazeta.ru/articles/2021/08/27/krishtianu-ronaldu-poproshchalsia-s-igrokami-iuventusa-po-dannym-smi-on-perekhodit-v-manchester-siti-news) с игроками «Ювентуса», в котором играл с 2018 года, и покинул тренировочную базу футбольного клуба. СМИ писали, что игрок получит официальное предложение от другого английского клуба — «Манчестер Сити». Предполагалось, что игрок подпишет контракт до 2023 года с зарплатой 20 млн евро в год, а «Ювентусу» [заплатят](https://twitter.com/AghemoPaolo/status/1431002059617284104) 30 млн евро за трансфер. В итоге выбора пал на другую манчестерскую команду.
+
+В 2009 году Роналду ушел из «МЮ» в испанский «Реал Мадрид». В свой первый период в «Манчестер Юнайтед» нападающий забил 118 голов в 292 матчах.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/08/10/biznes-kak-idiotizm
+
+Этим летом аргентинский форвард Лионель Месси официально перешел из каталонской «Барселоны» во французский клуб «Пари-Сен-Жермен». Нападающий [подписал](https://novayagazeta.ru/articles/2021/08/10/lionel-messi-ofitsialno-podpisal-kontrakt-s-pszh-po-skheme-2-1-news) контракт на два года с возможностью продления на третий. По данным СМИ, футболист [будет получать](https://novayagazeta.ru/articles/2021/08/10/messi-dogovorilsia-o-podpisanii-kontrakta-s-pszh-news) около 35 млн евро в год.

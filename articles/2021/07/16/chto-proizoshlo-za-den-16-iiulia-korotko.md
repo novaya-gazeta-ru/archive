@@ -1,0 +1,46 @@
+---
+source: "https://novayagazeta.ru/articles/2021/07/16/chto-proizoshlo-za-den-16-iiulia-korotko"
+title: "Что произошло за день 16 июля. Коротко"
+subtitle: ""
+date: "2021-07-16T18:11:00Z"
+authors: "«Новая газета» (редакция)"
+rubric: "Общество"
+genre: "Новости"
+tags: "em , алтай, москва, QR коды, коронавирус, суды, махачкала, никита белых, уголовное дело, проект медиа, иноагенты, нежелательные организации, дети, беларусь, обыски, роскомнадзор, блокировка, команда 29, Тува"
+---
+
+# Что произошло за день 16 июля. Коротко
+
+- **Система QR-кодов в заведениях общепита Москвы и Подмосковья с 19 июля **[**станет**](https://novayagazeta.ru/articles/2021/07/16/sobianin-otmenil-sistemu-qr-kodov-v-moskve)** необязательной.** В Московской области также сняли ограничение на число зрителей при проведении массовых мероприятий, в столице — на работу по ночам для заведений общепита, которые соблюдают эпидемиологические меры, на проведение зрелищно-развлекательных мероприятий в ночных клубах и барах при условии профилактики распространения коронавируса.
+
+- **Издание «Проект» **[**сообщило**](https://novayagazeta.ru/articles/2021/07/16/proekt-obiavil-o-likvidatsii-iurlitsa-priznannogo-nezhelatelnym-izdanie-prodolzhit-rabotu)**, что компания Project Media Inc., зарегистрированная в США и внесенная накануне в список «нежелательных организаций», будет ликвидирована.** У работающих в России журналистов нет финансовых отношений с этим юрлицом. **Издание планирует продолжить работу. **
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/07/16/shest-let-za-proekt
+
+- **Роскомнадзор **[**заблокировал**](https://novayagazeta.ru/articles/2021/07/16/komanda-29-soobshchila-o-blokirovke-saita-roskomnadzorom)** сайт «Команды 29».** Это произошло **по решению Генпрокуратуры** от 15 июля, которая посчитала, что **объединение распространяло информационные материалы организации, деятельность которой признана нежелательной в России.**
+
+- Бывшему губернатору Кировской области **Никите Белых **[**предъявили**](https://novayagazeta.ru/articles/2021/07/16/eks-gubernatoru-kirovskoi-oblasti-nikite-belykh-prediavili-novoe-obvinenie-po-delu-o-prevyshenii-dolzhnostnykh-polnomochii)** новое обвинение — в превышении должностных полномочий** (п. «в» ч. 3 ст. 286 УК). По версии следствия, в 2015 году Белых, будучи главой региона, способствовал совершению крупной сделки.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/07/06/ochen-svoevremennoe-delo
+
+- **На Алтае, спустя примерно десять часов после задержания, **[**отпустили**](https://novayagazeta.ru/articles/2021/07/16/na-altae-zaderzhali-zhurnalista-petra-maniakhina-nakanune-ego-vnesli-v-spisok-smi-inoagentov)** журналиста Петра Маняхина**, которого вчера Минюст внес в список СМИ, выполняющих функцию иностранного агента. Поводом для задержания силовики назвали съемку с дрона.
+
+- **Врио главы Тувы Владислав Ховалыга **[**ввел**](https://novayagazeta.ru/articles/2021/07/16/v-tuve-iz-za-covid-19-zhiteliam-razreshili-peredvigatsia-po-ulitsam-tolko-po-neotlozhnym-delam)** в регионе локдаун из-за распространения COVID-19.** Жителям разрешили передвигаться по улицам только по неотложным делам, детям до 14 лет можно выходить из дома только в сопровождении взрослых.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu
+
+- **В Беларуси **[**продолжились**](https://novayagazeta.ru/articles/2021/07/16/v-belarusi-u-zhurnalistov-belsat-proshli-obyski)** обыски у журналистов. **Сегодня силовики пришли к сотрудникам «Радио Свобода»* и канала «Белсат».
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/07/16/pridut-ko-vsem-u-kogo-est-dver?utm_source=tg&utm_medium=novaya&utm_campaign=rodstvenniki-arestovannyh-zhurnalistov-i
+
+- **Суд в Махачкале **[**удовлетворил**](https://novayagazeta.ru/articles/2021/07/16/sud-v-makhachkale-ogranichil-v-roditelskikh-pravakh-byvshego-muzha-niny-tseretilovoi-pokhitivshego-u-nee-detei)** иск местной жительницы Нины Церетиловой об ограничении в родительских правах ее бывшего супруга Магомеда. Он не возвращал ей детей**, несмотря на решение Верховного суда Дагестана, впоследствии Церетилова заявила о похищении.
+
+- **Число погибших из-за наводнений в Западной Европе **[**достигло**](https://www.bbc.com/news/world-europe-57858829)** 120 человек,** из них по крайней мере 100 умерли в Германии, не менее 20 — в Бельгии. **Более 1,3 тысячи человек **[**числятся**](https://novayagazeta.ru/articles/2021/07/16/bolee-tysiachi-chelovek-propali-bez-vesti-posle-navodneniia-v-germanii)** пропавшими без вести. **
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/07/15/my-nikogda-ne-videli-takoi-katastrofy
+
+- **В России вновь **[**был побит**](https://novayagazeta.ru/articles/2021/07/16/v-rossii-za-sutki-skonchalis-799-chelovek-eto-maksimum-s-nachala-pandemii)** рекорд суточной смертности от коронавируса. **За этот период по стране умерли от COVID-19 **799 человек.**
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/07/16/popytki-manipuliatsii-strakhom-smerti-podlye-i-ne-rabotaiut
+
+#### **внесено Минюстом России в реестр СМИ, выполняющих функции иностранного агента*

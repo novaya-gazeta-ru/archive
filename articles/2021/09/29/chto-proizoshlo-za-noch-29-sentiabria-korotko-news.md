@@ -1,0 +1,20 @@
+---
+source: "https://novayagazeta.ru/articles/2021/09/29/chto-proizoshlo-za-noch-29-sentiabria-korotko-news"
+title: "Что произошло за ночь 29 сентября. Коротко"
+subtitle: ""
+date: "2021-09-29T05:00:00Z"
+authors: "«Новая газета» (редакция)"
+rubric: "Общество"
+genre: "Новости"
+tags: "итоги, обыски, северная корея, sn"
+---
+
+# Что произошло за ночь 29 сентября. Коротко
+
+- **Правоохранители пришли с обысками в московский офис Group-IB**. Эта компания занимается расследованием и предотвращением кибератак. По данным телеканала RTVI, следственные действия [связаны](https://novayagazeta.ru/articles/2021/09/29/rtvi-siloviki-prishli-s-obyskami-v-ofis-group-ib-osnovatel-kompanii-mozhet-byt-zaderzhan-news) с уголовным делом, по которому задержали основателя и гендиректора компании Илью Сачкова.
+- **Секретарь Совета безопасности РФ Николай Патрушев заявил о 900 кибератаках на систему электронного голосования** во время выборов депутатов Госдумы. «Ряд таких атак носил провокационный характер с использованием подмены адреса источника атаки», — отчитался он.
+- **Министерство иностранных дел России пригрозило германским СМИ «ответными мерами» после блокировки немецкоязычных каналов государственного RT **на YouTube из-за фейков. Пожизненную блокировку RT DE на YouTube российское внешнеполитическое ведомство [связало](https://novayagazeta.ru/articles/2021/09/28/mid-rf-poobeshchal-germanskim-smi-otvetnye-mery-posle-blokirovki-kanalov-rt-de-na-youtube-iz-za-feikov-o-covid-news) с неким «планом» властей Германии, хотя в Google ранее [поясняли](https://novayagazeta.ru/articles/2021/09/28/youtube-zablokiroval-kanaly-rt-de-iz-za-feikov-o-koronaviruse-simonian-potrebovala-v-otvet-nakazat-nemetskikh-zhurnalistov-news), что бан наложен из-за «ложной информации» о коронавирусе.
+- **Северная Корея впервые испытала гиперзвуковую ракету — «Хвасон-8»**. Испытания, как [заявляет](http://kcna.kp/kcna.user.article.retrieveNewsViewInfoList.kcmsf;jsessionid=AD690AB8EB291D6A0723FB0FE8D4CA32) официальное северокорейское информагентство ЦТАК, прошли успешно. До сих пор в распоряжении Пхеньяна не было оружия такого типа, [отмечает](https://www.interfax.ru/world/794191) «Интерфакс».
+- **Футбольный клуб «Шериф» из Тирасполя обыграл испанский «Реал Мадрид»** в матче группового этапа Лиги чемпионов. Встреча, проходившая в столице Испании, [завершилась](https://novayagazeta.ru/articles/2021/09/28/fk-sherif-iz-moldovy-obygral-ispanskii-real-madrid-v-matche-gruppovogo-etapa-ligi-chempionov-news) со счетом 1:2. Для «Шерифа» это второй в истории матч в группе Лиги чемпионов.
+
+\

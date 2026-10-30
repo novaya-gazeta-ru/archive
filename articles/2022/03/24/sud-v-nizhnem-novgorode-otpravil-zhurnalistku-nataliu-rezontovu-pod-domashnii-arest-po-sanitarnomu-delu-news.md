@@ -1,0 +1,26 @@
+---
+source: "https://novayagazeta.ru/articles/2022/03/24/sud-v-nizhnem-novgorode-otpravil-zhurnalistku-nataliu-rezontovu-pod-domashnii-arest-po-sanitarnomu-delu-news"
+title: "Суд в Нижнем Новгороде отправил журналистку Наталью Резонтову под домашний арест по «санитарному делу»"
+subtitle: ""
+date: "2022-03-24T14:23:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "санитарное дело, нижний новгород, резонтова, домашний арест, запрет определенных действий, ep"
+---
+
+# Суд в Нижнем Новгороде отправил журналистку Наталью Резонтову под домашний арест по «санитарному делу»
+
+Нижегородский районный суд отправил под домашний арест на два месяца журналистку Наталью Резонтову по «санитарному делу». Об этом [сообщается](https://t.me/rezontova/847) в ее телеграм-канале.\
+ \
+ Ранее Резонтовой было запрещено использовать интернет, общаться с другими подозреваемыми и посещать несогласованные митинги. ФСИН потребовала изменить меру пресечения после того, как обвиняемая отказалась носить электронный браслет.\
+ \
+ Лето 2021 года избирком Нижегородской области [отказал](https://novayagazeta.ru/articles/2021/07/30/izbirkom-nizhegorodskoi-oblasti-otkazal-v-registratsii-zhurnalistke-natale-rezontovoi-iz-za-sviazei-s-ekstremistskimi-organizatsiiami) Резонтовой в регистрации из-за связей с «экстремистскими организациями».\
+ \
+ По версии следствия, журналистка дважды публиковала в социальных сетях «информацию о проведении и участии в публичном мероприятии 23 и 31 января». Следователи считают, что из-за ее действий была «создана реальная угроза массового заболевания новой коронавирусной инфекции».
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/08/06/sanitarnaia-rubka
+
+Всего по «санитарному делу» проходили сначала 10, а потом (после того, как СК [прекратил](https://novayagazeta.ru/articles/2021/07/14/sud-prekratil-presledovanie-moskovskogo-mundepa-konstantina-iankauskasa-po-sanitarnomu-delu) преследование московского мундепа Константина Янкаускаса) — девять человек.\
+ \
+ 18 февраля Люблинский районный суд Москвы [заменил](https://novayagazeta.ru/articles/2022/02/18/sud-zamenil-olegu-navalnomu-uslovnoe-nakazanie-po-sanitarnomu-delu-na-realnoe-lishenie-svobody-news) Олегу Навальному условное наказание по «санитарному делу» на реальное лишение свободы, а 3 марта ФСИН [попросила](https://novayagazeta.ru/articles/2022/03/03/fsin-poprosila-naznachit-liubovi-sobol-realnyi-srok-po-sanitarnomu-delu-news) назначить Любови Соболь реальный срок.

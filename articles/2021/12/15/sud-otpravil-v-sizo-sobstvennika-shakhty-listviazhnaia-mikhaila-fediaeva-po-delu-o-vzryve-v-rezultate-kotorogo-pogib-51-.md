@@ -1,0 +1,28 @@
+---
+source: "https://novayagazeta.ru/articles/2021/12/15/sud-otpravil-v-sizo-sobstvennika-shakhty-listviazhnaia-mikhaila-fediaeva-po-delu-o-vzryve-v-rezultate-kotorogo-pogib-51-chelovek-news"
+title: "Суд отправил в СИЗО собственника шахты «Листвяжная» Михаила Федяева по делу о взрыве, в результате которого погиб 51 человек"
+subtitle: ""
+date: "2021-12-15T17:42:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "арест, уголовное дело, листвяжная, em"
+---
+
+# Суд отправил в СИЗО собственника шахты «Листвяжная» Михаила Федяева по делу о взрыве, в результате которого погиб 51 человек
+
+Суд в Кемерове отправил под стражу одного из собственников шахты «Листвяжная» Михаила Федяева по делу о взрыве, в результате которого погиб 51 человек. Об этом [сообщает](https://ria.ru/20211215/arest-1763944560.html) РИА Новости.
+
+Федяев — совладелец и президент холдинга «СДС» (Сибирский деловой союз). Свою вину он, как и еще трое задержанных сегодня по делу, [не признает.](https://ria.ru/20211215/listvyazhnaya-1763886654.html) Последние тоже будут находиться под арестом — это руководитель компании «СДС-Уголь» [Геннадий Алексеев](https://t.me/rian_ru/135036), главный инженер «Листвяжной» [Анатолий Лобанов](https://t.me/rian_ru/135028) и техдиректор «СДС-угля» [Антон Якутов](https://t.me/rian_ru/135029).
+
+Все четверо [были задержаны](https://novayagazeta.ru/articles/2021/12/15/sobstvennika-shakhty-listviazhnaia-i-eshche-trekh-chelovek-zaderzhali-po-delu-o-vzryve-v-rezultate-kotorogo-pogib-51-chelovek-news) сегодня. Им предъявили обвинение в нарушении требований промышленной безопасности опасных производственных объектов, повлекшее по неосторожности смерть двух и более лиц (ч. 3 ст. 217 УК), и злоупотреблении полномочиями в коммерческой организации, повлекшем тяжкие последствие (ч. 2 ст. 201 УК).
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/12/02/glubinnyi-narod
+
+Трагедия на угольной шахте «Листвяжная» в городе Белове в Кемеровской области произошла утром 25 ноября. В результате взрыва и пожара на глубине 250 метров [погиб](https://novayagazeta.ru/articles/2021/11/25/v-kuzbasskoi-shakhte-pogibshimi-priznali-52-cheloveka-vyzhivshikh-net-news) 51 человек, среди которых 46 горняков и пять спасателей. Спасатели [подняли](https://novayagazeta.ru/articles/2021/12/13/spasateli-podniali-telo-poslednego-pogibshego-na-shakhte-listviazhnaia-news) тело последнего погибшего на шахте 14 декабря.
+
+Еще 99 человек пострадали в результате трагедии. Предварительно, они отравились продуктами горения. Всего на момент трагедии, по данным МЧС, в шахте находились 285 горняков.
+
+Следственное управление СКР по Кемеровской области возбудило уголовное дело о нарушении промышленной безопасности (ч. 2 ст. 217 УК). В рамках него [задержали](https://novayagazeta.ru/articles/2021/11/25/tri-spasatelia-pogibli-vo-vremia-operatsii-posle-tragedii-na-shakhte-v-kuzbasse-news) директора шахты Сергея Махракова, его первого заместителя Андрея Молоствова и начальника участка Сергея Герасименка, их [отправили](https://novayagazeta.ru/articles/2021/11/27/direktora-shakhty-listviazhnaia-otpravili-v-sizo-po-delu-o-vzryve-v-rezultate-kotorogo-pogib-51-chelovek-news) в СИЗО на два месяца.
+
+Также СК [возбудил](https://novayagazeta.ru/articles/2021/11/26/sk-vozbudil-ugolovnoe-delo-o-khalatnosti-v-otnoshenii-sotrudnikov-rostekhnadzora-posle-chp-na-shakhte-v-kuzbasse-news) дело о халатности, повлекшей по неосторожности смерть двух и более лиц (ч. 3 ст. 293 УК), в отношении главных государственных инспекторов Беловского территориального отдела Сибирского управления Ростехнадзора Вячеслава Семыкина и Сергея Винокурова, которых также [арестовали](https://novayagazeta.ru/articles/2021/11/27/inspektora-rostekhnadzora-otpravili-v-sizo-po-delu-o-khalatnosti-na-ugolnoi-shakhte-listviazhnaia-news).

@@ -1,0 +1,14 @@
+---
+source: "https://novayagazeta.ru/articles/2021/03/10/fix-price-nachala-pervye-torgi-na-londonskoi-i-moskovskoi-birzhakh"
+title: "Fix Price начала первые торги на Лондонской и Московской биржах"
+subtitle: ""
+date: "2021-03-10T12:24:00Z"
+authors: ""
+rubric: "Экономика"
+genre: "Новости"
+tags: "fix price, торги, биржа, ta"
+---
+
+# Fix Price начала первые торги на Лондонской и Московской биржах
+
+Российская сеть магазинов Fix Price начала торги глобальными депозитарными расписками на [Лондонской](https://www.londonstockexchange.com/stock/FIXP/fix-price-group-ltd/company-page) и [Московской](https://www.moex.com/n32988/?nt=106) биржах. Как [сообщает](https://www.forbes.ru/newsroom/finansy-i-investicii/423015-fix-price-nachala-pervye-torgi-v-londone-snizheniem-kotirovok) Forbes, в первые минуты торгов стоимость бумаг снижалась на 0,2% — до 9,73 долларов. Fix Price разместила бумаги по цене 9,75 долларов, что соответствует верхней границе ценового диапазона. Из-за высокого спроса компания решила увеличить объем размещения — с 170 до 178,37 миллионов бумаг. По [словам](https://www.londonstockexchange.com/news-article/market-news/fix-price-prices-ipo-on-main-market-of-london-stock-exchange-at-top-of-range/14888861) компании, инвесторы оценили сеть магазинов Fix Price в 8,3 миллиарда долларов. В случае реализации опциона на доразмещение, Fix Price [привлечет](https://www.forbes.ru/newsroom/finansy-i-investicii/423015-fix-price-nachala-pervye-torgi-v-londone-snizheniem-kotirovok) 2 миллиарда долларов, а сделка будет крупнейшим выходом на биржу для российской компании с 2010 года, [пишет](https://www.forbes.ru/newsroom/finansy-i-investicii/423015-fix-price-nachala-pervye-torgi-v-londone-snizheniem-kotirovok) Forbes. 10 марта компания начала торги и на бирже в Москве — Fix Price разместила бумаги по цене 725,7 рубля. По [информации](https://quote.rbc.ru/news/article/60486d459a794715d015a2d7) РБК, в первые минуты после старта торгов котировки Fix Price продемонстрировали небольшой рост. После выхода Fix Price на биржу, основатели компании Артем Хачатрян и Сергей Ломакин стали долларовыми миллиардерами — состояние каждого из них достигло 3,4 миллиарда долларов, [сообщает](https://www.forbes.ru/milliardery/422547-ipo-fix-price-sdelalo-ee-osnovateley-milliarderami) Forbes. По [подсчетам](https://www.bloomberg.com/news/articles/2021-03-05/founders-become-billionaires-selling-goods-for-3-40-or-less) Bloomberg, их капитал достиг 3,6 миллиарда долларов на каждого. Fix Price — [крупнейшая](https://www.interfax.ru/business/755219) в России сеть магазинов фиксированных цен. За 2020 год выручка компании составила более 190 миллиардов рублей. Fix Price [занимает](https://www.forbes.ru/rating/409143-200-krupneyshih-chastnyh-kompaniy-rossii-2020-reyting-forbes) 77 место в рейтинге крупнейших частных компании России по версии Forbes и работает в 78 из 85 регионов России.

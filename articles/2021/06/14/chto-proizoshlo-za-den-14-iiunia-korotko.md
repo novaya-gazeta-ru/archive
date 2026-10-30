@@ -1,0 +1,28 @@
+---
+source: "https://novayagazeta.ru/articles/2021/06/14/chto-proizoshlo-za-den-14-iiunia-korotko"
+title: "Что произошло за день 14 июня. Коротко"
+subtitle: ""
+date: "2021-06-14T17:50:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "россия, коронавирус, петербург, росстат, протасевич, подборка, em , чечня"
+---
+
+# Что произошло за день 14 июня. Коротко
+
+- Президент России Владимир Путин [дал](https://novayagazeta.ru/articles/2021/06/14/u-nas-net-privychki-kogo-to-ubivat-putin-ob-obvineniiakh-v-prichastnosti-k-otravleniiu-navalnogo) американскому телеканалу NBC интервью. Оно стало первым интервью российского лидера американским СМИ за три года. **«У нас нет такой привычки кого-то убивать», — ответил Путин на вопрос о причастности к отравлению политика Алексея Навального.** Он также **допустил, что на саммите с американским лидером Джо Байденом будет обсуждаться обмен заключенными между Россией и США.**
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/06/14/u-nas-net-privychki-kogo-to-ubivat
+
+- **Бывший главред телеграм-канала NEXTA Роман Протасевич** [выступил](https://novayagazeta.ru/articles/2021/06/14/ia-prekrasno-sebia-chuvstvuiu-protasevich-na-brifinge-mid-belarusi-o-svoem-sostoianii) на брифинге МИД Беларуси. Он **заявил об отсутствии жалоб на свое состояние.** По его словам, его никто **«не бил, пальцем не трогал».** Информацию о своем избиении Протасевич назвал «слухами и домыслами, которые не имеют под собой никакого подтверждения». Задержанной вместе с ним россиянке **Софье Сапеге сегодня [предъявили](https://novayagazeta.ru/articles/2021/06/14/istochnik-arestovannoi-v-belarusi-grazhdanke-rf-sofe-sapege-prediavili-obvinenie-po-state-o-razzhiganii-vrazhdy) обвинения в разжигании социальной вражды (ч. 3 ст. 130 УК РБ).**
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/06/06/kollektivnaia-taktichnost-protiv-pytok
+
+- **ЧГТРК «Грозный» [опубликовал](https://novayagazeta.ru/articles/2021/06/14/devushka-chitaet-s-listka-chgtrk-groznyi-obiasnil-rasskaz-o-poboiakh-chechenki-vozvrashchennoi-silovikami-v-semiu-posle-pobega) сюжет с участием чеченки Халимат Тарамовой**, которую вернули в семью после побега из-за побоев. Как утверждается в сюжете по поводу **ее видеообращения, «понять, что девушка говорит не своими словами, а читает с листка, можно невооруженным глазом»**. Сама она на камеру заявила, что не помнит, как попала в шелтер в Махачкале — «все было как в тумане».
+
+- **Росстат [сообщил](https://novayagazeta.ru/articles/2021/06/14/rosstat-v-srednem-po-rossii-estestvennaia-ubyl-naseleniia-v-2020-godu-vyrosla-bolee-chem-v-dva-raza), что в среднем по России в 2020 году естественная убыль населения выросла более чем в два раза по сравнению с 2019 годом** — с 317 233 до 702 072 человека. Москва стала лидером по абсолютному снижению этого показателя: в 2019 году население города выросло на 15 216 человек, а в 2020 году — сократилось на 24 638.
+
+- **В Петербурге вслед за Москвой с 17 июня [введут](https://novayagazeta.ru/articles/2021/06/14/v-peterburge-vsled-za-moskvoi-vveli-ogranicheniia-iz-za-rasprostraneniia-covid-19) новые ограничения из-за роста заболеваемости коронавирусом.** В частности, в городе запретят работу ресторанов с 2:00 до 6:00, за исключением обслуживания навынос, в номера гостиниц, доставки на дом, а также производственных столовых, временно приостановят работу детских комнат в ресторанах и кафе.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/06/11/menshe-znaesh-krepche-spish

@@ -1,0 +1,18 @@
+---
+source: "https://novayagazeta.ru/articles/2021/05/25/facebook-oshtrafovali-na-26-millionov-rublei-za-neudalenie-zapreshchennoi-informatsii"
+title: "Facebook оштрафовали на 26 миллионов рублей за неудаление «запрещенной информации»"
+subtitle: ""
+date: "2021-05-25T15:58:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "штрафы, facebook, суды, sn"
+---
+
+# Facebook оштрафовали на 26 миллионов рублей за неудаление «запрещенной информации»
+
+Мировой судья участка № 422 Таганского района оштрафовал социальную сеть Facebook на 26 миллионов рублей за отказ удалить «запрещенную информацию», размещенную на платформе. Об этом [сообщает](https://t.me/moscowcourts/336) объединенная пресс-служба московских судов. Всего на соцсеть составили 8 протоколов: по двум судья назначила штрафы по четыре миллиона рублей, по остальным шести — по три миллиона рублей. Компании вменили в вину несоблюдение статьи о нарушении порядка ограничения доступа к информации (ч. 2 ст. 13.41 КоАП). Ранее сегодня в Москве оштрафовали и компанию Google: ей придется заплатить 6 миллионов рублей за неудаление противоправного контента. Протоколы на Google [составили](https://novayagazeta.ru/articles/2021/05/25/sud-v-moskve-naznachil-google-4-mln-rublei-shtrafa-za-neudalenie-ssylok-na-zapreshchennyi-kontent) из-за ссылок на посты с «призывами» к участию в митингах.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/04/03/chashechka-russiano-za-utrennim-rutube
+
+Роскомнадзор после акций протеста 23 и 31 января стал требовать от социальных сетей удалять посты с «противоправным контентом» и «призывами» к участию в митингах. В частности, в начале мая РКН вновь направил в московский суд 16 протоколов из-за отказа Twitter, Facebook и Google удалить «запрещенную» информацию по требованию надзорного ведомства. В начале апреля суд в Москве [оштрафовал](https://novayagazeta.ru/articles/2021/04/02/sud-v-moskve-oshtrafoval-twitter-na-32-mln-rublei-za-otkaz-udalit-prizyvy-k-nesovershennoletnim-vyiti-na-aktsii-protesta) Twitter на 3,2 миллина рублей за отказ удалить «противоправный» контент, речь шла об информации с «призывами» к несовершеннолетним выйти на акции в столице. По той же причине штраф в 2,6 миллиона рублей [получил](https://novayagazeta.ru/articles/2021/04/06/sud-v-moskve-oshtrafoval-tiktok-na-25-mln-rublei-za-otkaz-udalit-prizyvy-k-podrostkam-vyiti-na-protesty) и TikTok.

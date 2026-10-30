@@ -1,0 +1,24 @@
+---
+source: "https://novayagazeta.ru/articles/2021/10/25/moskalkova-nazvala-proiavleniem-smelosti-deistviia-programmista-saveleva-peredavshego-pravozashchitnikam-video-s-pytkami-zakliuchennykh-v-saratovskoi-otb-1-news"
+title: "Москалькова назвала проявлением смелости действия программиста Савельева, передавшего правозащитникам видео с пытками заключенных в саратовской ОТБ-1"
+subtitle: ""
+date: "2021-10-25T20:03:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "em , москалькова, саратовская тюремная больница, пытки, сергей савельев"
+---
+
+# Москалькова назвала проявлением смелости действия программиста Савельева, передавшего правозащитникам видео с пытками заключенных в саратовской ОТБ-1
+
+Российский омбудсмен Татьяна Москалькова в эфире радиостанции [«Вести ФМ»](https://radiovesti.ru) назвала проявлением смелости действия бывшего заключенного программиста Сергея Савельева, передавшего правозащитному проекту gulagu.net видеоархив пыток в тюремной больнице под Саратовом ОТБ-1.
+
+*Фото из соцсетей*
+
+«Этот человек [Сергей Савельев] нужен для расследования, потому что он является <…> главным свидетелем, который фиксировал эти факты, он может обладать той информацией, которая будет полезна для глубокого, всестороннего, объективного наказания виновных. Человек, который проявил смелость в том, чтобы противостоять вот этому уродливому явлению», — сказала она ([цитата](https://tass.ru/obschestvo/12760755) по ТАСС). При этом Савельева [объявили](https://novayagazeta.ru/articles/2021/10/23/eks-zakliuchennogo-saratovskoi-otb-1-sergeia-saveleva-obiavili-v-rozysk-news) в розыск в России.
+
+В начале октября правозащитный проект Владимира Осечкина Gulagu.net [начал публиковать](https://novayagazeta.ru/articles/2021/10/05/fsin-nachala-sluzhebnuiu-proverku-posle-publikatsii-video-iznasilovanii-zakliuchennykh-v-tuberkuleznoi-bolnitse-v-saratove-news) видеозаписи с пытками, полученные от Савельева. После выхода по УДО последнему удалось вынести из исправительного учреждения видеоархив с пытками заключенных. Он уехал во Францию и попросил политическое убежище.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/10/07/shvabru-vstavili-v-zadnii-prokhod-mam-prodolzhat-18
+
+Возник широкий резонанс, и ФСИН уволила начальника ОТБ-1 Гаценко, его заместителя Сергея Салова, а также главу оперативного отдела майора внутренней службы Антона Бочкова и руководителя отдела безопасности подполковника внутренней службы Сергея Мальцева. Глава саратовского УФСИН Алексей Федотов после случившегося [подал](https://novayagazeta.ru/articles/2021/10/05/smi-glava-saratovskogo-ufsin-podal-v-otstavku-posle-publikatsii-video-s-pytkami-v-kolonii-regiona-i-nachala-proverok-news) в отставку. СК [возбудил](https://novayagazeta.ru/articles/2021/10/06/sk-vozbudil-sem-del-o-pytkakh-osuzhdennykh-v-saratovskoi-oblasti-nachalniki-ufsin-i-tiuremnoi-bolnitsy-uvoleny-news) дела о применении насилия к осужденным в регионе.

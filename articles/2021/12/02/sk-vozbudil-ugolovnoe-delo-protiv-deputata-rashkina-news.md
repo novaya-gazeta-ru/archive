@@ -1,0 +1,26 @@
+---
+source: "https://novayagazeta.ru/articles/2021/12/02/sk-vozbudil-ugolovnoe-delo-protiv-deputata-rashkina-news"
+title: "СК возбудил уголовное дело о незаконной охоте против депутата Рашкина"
+subtitle: ""
+date: "2021-12-02T07:01:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: ""
+---
+
+# СК возбудил уголовное дело о незаконной охоте против депутата Рашкина
+
+Следственный комитет РФ возбудил уголовное дело о незаконной охоте (ч. 2 ст. 258 УК) против депутата Госдумы от КПРФ Валерия Рашкина. Об этом [сообщается](https://sledcom.ru/news/item/1634686/) на сайте ведомства.
+
+По версии следствия, Рашкин застрелил лося на территории охотничьего хозяйства «Лебедка», не имея на это соответствующего разрешения. По вменяемой депутату статье предусматривается наказание в виде лишения свободы сроком до пяти лет.
+
+После того как инцидент придали огласке, Рашкина [лишили](https://novayagazeta.ru/articles/2021/11/25/deputata-gosdumy-ot-kprf-valeriia-rashkina-lishili-deputatskoi-neprikosnovennosti-news) депутатской неприкосновенности. На заседании думской комиссии по этике, принимавшей данное решение, не допустили адвоката депутата, в связи с чем он [подал](https://novayagazeta.ru/articles/2021/11/30/deputat-rashkin-podal-isk-k-gosdume-iz-za-nedopuska-advokata-na-zasedanie-o-sniatii-neprikosnovennosti-news) иск в Тверской суд Москвы.
+
+В конце октября Рашкина [задержали](https://novayagazeta.ru/articles/2021/10/29/smi-deputata-gosdumy-ot-kprf-valeriia-raikina-zaderzhali-s-mertvym-losem-v-bagazhnike-news) в Саратовской области с мертвым лосем в машине. СМИ писали со ссылкой на источники, что депутат находился за рулем в нетрезвом состоянии, а в багажнике его машины была туша лося. Депутат сначала утверждал, что просто нашел тушу в лесу, однако затем в видеообращении [признался](https://novayagazeta.ru/articles/2021/11/18/ia-okazalsia-vvedennym-v-zabluzhdenie-deputat-gosdumy-ot-kprf-valerii-rashkin-zapisal-obrashchenie-i-priznalsia-v-ubiistve-losia-news) в убийстве животного.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/11/01/rashkin-today
+
+Осенью Валерий Рашкин баллотировался на выборах в Госдуму и лидировал в своем округе без учета «электронных» голосов. После пересчета всех голосов победа была отдана кандидату от «Единой России». Тогда Рашкин организовал на Пушкинской площади в Москве встречу несогласных с результатами выборов в Госдуму, она прошла 20 сентября. По оценке корреспондента «Новой», в ней [приняли](https://novayagazeta.ru/articles/2021/09/21/vlast-poslala-kompartiiu-na-tri-bukvy-v-deg) участие около 300 человек. В пресс-службе московского управления МВД [сообщили](https://tass.ru/proisshestviya/12499625) о привлечении к административной ответственности 30 участников встречи.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/09/21/vlast-poslala-kompartiiu-na-tri-bukvy-v-deg

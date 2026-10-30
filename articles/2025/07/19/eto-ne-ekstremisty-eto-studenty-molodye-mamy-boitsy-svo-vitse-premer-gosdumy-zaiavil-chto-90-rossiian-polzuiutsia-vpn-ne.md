@@ -1,0 +1,30 @@
+---
+source: "https://novayagazeta.ru/articles/2025/07/19/eto-ne-ekstremisty-eto-studenty-molodye-mamy-boitsy-svo-vitse-premer-gosdumy-zaiavil-chto-90-rossiian-polzuiutsia-vpn-news"
+title: "«Это не экстремисты. Это студенты, молодые мамы, бойцы СВО». Вице-спикер Госдумы заявил, что 90% россиян пользуются VPN"
+subtitle: ""
+date: "2025-07-19T08:11:00Z"
+authors: ""
+rubric: "Политика"
+genre: "Новости"
+tags: ""
+---
+
+# «Это не экстремисты. Это студенты, молодые мамы, бойцы СВО». Вице-спикер Госдумы заявил, что 90% россиян пользуются VPN
+
+Вице-спикер Госдумы Владислав Даванков [рассказал](https://t.me/davankov/1563), что, по его наблюдениям, 90% россиян, приходящих на депутатские встречи, признаются, что пользуются VPN. «В общем и целом, это все страна», уверен Даванков:
+
+«Я был в 72 регионах — просил поднять руки тех, кто пользуется VPN. Поднимали руки 90% зала. Эти люди не преступники-экстремисты. Это студенты, молодые мамы, ученые, предприниматели, бойцы СВО».
+
+Депутат призвал заблокировать в третьем чтении поправки о штрафах за поиск заведомо экстремистского контента в интернете с использованием VPN (отягчающее обстоятельство, подтверждающее «заведомость» преступления), а также за рекламу VPN сервисов в частных переписках.
+
+Закон впервые предлагает штрафовать россиян не за производство и распространение, а за потребление контента — на сумму от 3 до 5 тысяч рублей (за каждый обнаруженный случай).
+
+Напомним, депутаты Госдумы [скрытно внесли на рассмотрение](https://novayagazeta.ru/articles/2025/07/16/rossiian-khotiat-shtrafovat-za-poisk-i-chtenie-materialov-v-internete-i-messendzherakh-a-takzhe-za-ssylki-na-vpn-servisy-news) сразу эти поправки ко второму чтению и в посторонний законопроект — об экспедиторской деятельности. Но журналисты обнаружили это, и поправки вызвали большой резонанс.
+
+На непроработанность законопроекта обратили внимание [даже одиозные общественные деятели](https://novayagazeta.ru/articles/2025/07/16/mizulina-soobshchila-o-paraliche-30-deiatelnosti-ligi-bezopasnogo-interneta-v-sluchae-priniatiia-popravok-o-shtrafakh-rossiian-za-internet-poisk-news) — Екатерина Мизулина и Маргарита Симоньян, заявив, что, в случае его принятия, часть их деятельности, и деятельности государственных «борцов с экстремизмом» будет парализована.
+
+В Кремле прокомментировали шум, предложив депутатам [лучше объяснить россиянам](https://novayagazeta.ru/articles/2025/07/17/kreml-opravdal-massovye-otkliucheniia-interneta-i-potreboval-ot-deputatov-luchshe-obiasnit-smysl-popravok-o-shtrafakh-za-poisk-ekstremizma-v-internete-news) смысл предлагаемых поправок и штрафов.
+
+В тот же день Госдума [приняла законопроект во втором чтении](https://novayagazeta.ru/articles/2025/07/17/gosduma-priniala-popravki-o-shtrafakh-za-poisk-zavedomo-ekstremistskikh-materialov-v-internete-srazu-v-dvukh-chteniiakh-pered-kanikulami-news), а третье — окончательное — перенесла на 22 июля. В публичных комментариях депутаты стали «успокаивать» россиян: штрафовать за поиск заведомо экстремистского контента, мол, планируется тех, [кто уже и так «находится на карандаше»](https://novayagazeta.ru/articles/2025/07/18/kreml-prizval-raskryt-rossiianam-smysl-shtrafov-za-poisk-ekstremistskikh-materialov-v-seti-v-gosdume-utochnili-shtrafovat-budut-tekh-kto-uzhe-na-karandashe-news) у спецслужб.
+
+**Читайте также:** https://novayagazeta.ru/articles/2025/07/18/kuda-zavel-vpn

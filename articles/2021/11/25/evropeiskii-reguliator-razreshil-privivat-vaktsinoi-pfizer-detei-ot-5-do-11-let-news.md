@@ -1,0 +1,32 @@
+---
+source: "https://novayagazeta.ru/articles/2021/11/25/evropeiskii-reguliator-razreshil-privivat-vaktsinoi-pfizer-detei-ot-5-do-11-let-news"
+title: "Европейский регулятор разрешил прививать вакциной Pfizer детей от 5 до 11 лет"
+subtitle: ""
+date: "2021-11-25T13:11:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "евросоюз, ЕМА, вакцина, коронавирус, pfizer , da, дети"
+---
+
+# Европейский регулятор разрешил прививать вакциной Pfizer детей от 5 до 11 лет
+
+Европейское агентство по лекарственным средствам (ЕМА) разрешило прививать детей от 5 до 12 лет вакциной от коронавируса, разработанной американской компанией Pfizer и немецкой BioNTech. Об этом [сообщается](https://www.ema.europa.eu/en/news/comirnaty-covid-19-vaccine-ema-recommends-approval-children-aged-5-11) на сайте ЕМА.
+
+Вакцинация детей препаратом под названием Comirnaty будет проводиться в два этапа с интервалом в три недели с разовой дозировкой в 10 мг. Это в три раза меньше, чем рекомендовано для взрослого человека.
+
+> «Преимущества Comirnaty для детей от 5 до 11 лет значительно преобладают над рисками, особенно для имеющих хронические заболевания, которые могут повлечь тяжелое течение болезни»,
+
+— заявили в ЕМА.
+
+Клинические испытания вакцины Comirnaty для детей [показали](https://www.reuters.com/world/europe/eu-drug-regulator-approves-first-covid-shot-5-11-year-olds-2021-11-25/) эффективность в 90.7% против коронавируса.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/11/08/svet-v-kontse-tabletki
+
+Накануне российские власти [сообщили](https://novayagazeta.ru/articles/2021/11/24/golikova-moskva-i-lipetsk-blizki-k-kollektivnomu-immunitetu-v-80-vaktsina-dlia-podrostkov-sputnik-m-postupit-v-oborot-v-dekabre-news), что в России зарегистрирована первая и единственная вакцина от COVID-19 для детей от 12 лет — «Спутник-М» отечественного производства. Подростка, начиная с 12 лет, можно будет вакцинировать с согласия его родителей, с 15 лет — с его личного согласия.
+
+В мае 2021 года европейское агентство [разрешило](https://novayagazeta.ru/articles/2021/05/28/evropeiskii-reguliator-razreshil-privivat-podrostkov-vaktsinoi-pfizer) прививать подростков от 12 до 15 лет вакциной от коронавируса, разработанной компаниями Pfizer и BioNTech. За месяц до этого разрабочики вакцины отчитались о 100%-й эффективности препарата для подростков.
+
+Тогда же компании [сообщили](https://novayagazeta.ru/articles/2021/03/31/sozdateli-vaktsiny-ot-covid-19-pfizer-i-biontech-zaiavili-o-100-i-effektivnosti-preparata-sredi-podrostkov-v-vozraste-ot-12-do-15-let), что проводят клинические испытания своего препарата среди детей в возрасте от 6 месяцев до 2 лет, а также на группах от 2 до 5 и от 5 до 11 лет.
+
+Вакцина Pfizer-BioNTech COVID-19 [вводится](https://www.fda.gov/media/144624/download) внутримышечно в два этапа с интервалом в три недели. ЕС одобрил к использованию вакцину против коронавируса производства Biontech/Pfizer в конце прошлого года. Препарат также стал первым, одобренным в США.

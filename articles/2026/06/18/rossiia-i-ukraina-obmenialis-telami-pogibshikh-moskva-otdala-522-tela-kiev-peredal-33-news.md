@@ -1,0 +1,18 @@
+---
+source: "https://novayagazeta.ru/articles/2026/06/18/rossiia-i-ukraina-obmenialis-telami-pogibshikh-moskva-otdala-522-tela-kiev-peredal-33-news"
+title: "Россия и Украина обменялись телами погибших. Москва отдала 522 тела, Киев передал 33"
+subtitle: ""
+date: "2026-06-18T12:25:00Z"
+authors: ""
+rubric: "Политика"
+genre: "Новости"
+tags: ""
+---
+
+# Россия и Украина обменялись телами погибших. Москва отдала 522 тела, Киев передал 33
+
+Депутат Госдумы Шамсаил Саралиев, член парламентской группы по вопросам СВО, подтвердил факт нового обмена телами погибших военнослужащих. Россия передала Украине 522 тела и забрала останки 33 российских военнослужащих.
+
+Ранее об обмене тел сообщало российское агентство ТАСС, [ссылаясь](https://t.me/epoddubny/27820) на сотрудника ВГТРК Евгения Поддубного.
+
+**Читайте также:** https://novayagazeta.ru/articles/2026/05/15/rossiia-i-ukraina-obmenialis-telami-voennosluzhashchikh-moskva-otdala-526-tel-kiev-peredal-41-news

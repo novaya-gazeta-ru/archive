@@ -1,0 +1,20 @@
+---
+source: "https://novayagazeta.ru/articles/2023/12/14/ia-uveren-mozhno-liubit-svoiu-stranu-no-byt-ne-soglasnym-s-gosudarstvom"
+title: "«Я уверен, можно любить свою страну, но быть не согласным с государством»"
+subtitle: "Речи Дмитрия Муратова* и подсудимого Олега Орлова в суде"
+date: "2023-12-14T17:20:00Z"
+authors: "«Новая газета» (редакция)"
+rubric: "Политика"
+genre: "Сюжеты"
+tags: ""
+---
+
+# «Я уверен, можно любить свою страну, но быть не согласным с государством»
+
+*Речи Дмитрия Муратова и подсудимого Олега Орлова в суде*
+
+**Произведено: «Новая газета»:** https://youtu.be/e6aVw26S0Ww
+
+**Читайте также:** https://novayagazeta.ru/articles/2023/12/14/sledstviiu-razreshili-peresdat
+
+#### * Минюст включил в реестр иноагентов

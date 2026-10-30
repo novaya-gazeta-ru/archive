@@ -1,0 +1,30 @@
+---
+source: "https://novayagazeta.ru/articles/2022/01/30/tennisist-nadal-pobedil-v-finale-australian-open-i-pobil-mirovoi-rekord-po-kolichestvu-nagrad-v-turnirakh-bolshogo-shlema-news"
+title: "Теннисист Надаль победил в финале Australian Open и побил мировой рекорд по количеству наград в турнирах Большого Шлема"
+subtitle: ""
+date: "2022-01-30T14:11:00Z"
+authors: ""
+rubric: "Спорт"
+genre: "Новости"
+tags: "теннис, большой теннис, медведев, надаль, джокович, ai"
+---
+
+# Теннисист Надаль победил в финале Australian Open и побил мировой рекорд по количеству наград в турнирах Большого Шлема
+
+Пятая ракетка мира, испанский теннисист Рафаэль Надаль [победил](https://ausopen.com/match/2022-rafael-nadal-vs-daniil-medvedev-ms701#!) в финале Australian Open.
+
+В финале он встретился с россиянином Даниилом Медведевым — второй ракеткой мира. Матч в Мельбурне завершился со счетом 2:6, 6:7, 6:4, 6:4, 7:5.
+
+Сегодняшняя победа для Надаля — 21-я на турнире Большого Шлема. Таким образом он становится абсолютным лидером по количеству наград. Теперь по этому показателю ему уступают швейцарец Роджер Федерер и серб Новак Джокович с 20 победами.
+
+Накануне в женском этапе Australian Open [победила](https://novayagazeta.ru/articles/2022/01/29/pervaia-raketka-mira-eshli-barti-vyigrala-v-finale-australian-open-eto-pervaia-pobeda-avstraliiki-na-chempionate-news) первая ракетка мира, австралийка Эшли Барти. В финале она сыграла с американкой Даниэль Коллинз — 30-й ракеткой мира.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/12/29/lasitskene-italiia-i-russkie-raketki
+
+В прошлом сезоне россиянин Медведев дошел до финала турнира, но уступил первой ракетке мира, Джоковичу. Принять участие в Australian Open Джокович не смог из-за отказа в австралийской визе. Его место на чемпионате занял 29-летний итальянец Сальваторе Карузо, занимающий 150-ую позицию в рейтинге ATP.
+
+Проблемы Джоковича с австралийским правительством начались 5 января, когда его [задержали](https://novayagazeta.ru/articles/2022/01/05/tennisista-dzhokovicha-ne-pustili-na-australia-open-soslavshis-na-oshibku-s-vizoi-ranee-bolelshchiki-vozmushchalis-ego-dopusku-do-turnira-bez-privivki-news) и аннулировали визу из-за ошибок в документах. Позже спортсмен [признался](https://novayagazeta.ru/articles/2022/01/12/dzhokovich-priznalsia-v-narushenii-karantina-pri-polozhitelnom-teste-na-covid-19-i-predostavlenii-lozhnykh-dannykh-news), что предоставил ложные данные в туристической декларации для въезда в Австралию. Он назвал наличие неточностей в своем заявлении ненамеренной ошибкой.
+
+Несмотря на проблемы с визой теннисисту все же разрешили остаться в стране и [включили](https://novayagazeta.ru/articles/2022/01/13/zaderzhannogo-po-prilete-v-melburn-serbskogo-tennisista-novaka-dzhokovicha-vkliuchili-v-zherebevku-australian-open-news) его в жеребьевку Открытого чемпионата Австралии. Позже его визу аннулировали повторно, так как теннисист не был вакцинирован от COVID-19.
+
+Открытый чемпионат Австралии по теннису — один из четырех турниров Большого шлема — проходил 17-30 января в Мельбурне.

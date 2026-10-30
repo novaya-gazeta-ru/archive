@@ -1,0 +1,28 @@
+---
+source: "https://novayagazeta.ru/articles/2021/08/30/moskovskogo-mundepa-dmitriia-baranovskogo-prigovorili-k-polutora-godam-ogranicheniia-svobody-po-sanitarnomu-delu-news"
+title: "Московского мундепа Дмитрия Барановского приговорили к полутора годам ограничения свободы по «санитарному делу»"
+subtitle: ""
+date: "2021-08-30T10:09:00Z"
+authors: "«Новая газета» (редакция)"
+rubric: "Общество"
+genre: "Новости"
+tags: "ng, санитарное дело, суд, навальный, мундепы"
+---
+
+# Московского мундепа Дмитрия Барановского приговорили к полутора годам ограничения свободы по «санитарному делу»
+
+Преображенский районный суд Москвы приговорил московского мундепа Дмитрия Барановского к 1 году и 6 месяцам ограничения свободы по «санитарному делу». Об этом «Новой газете» сообщили в пресс-службе суда.
+
+Гособвинение [запрашивало](https://novayagazeta.ru/articles/2021/08/27/prokuror-zaprosil-moskovskomu-mundepu-dmitriiu-baranovskomu-pochti-2-goda-ogranicheniia-svobody-po-sanitarnomu-delu-news) для Барановского 1 год и 10 месяцев ограничения свободы. Мундепу запретили менять место жительства без согласия уголовно-исполнительной инспекции, выходить из дома с 22 часов до 6 часов, посещать места проведения массовых мероприятий и участвовать в них, выезжать из Москвы и Московской области без согласия уголовно-исполнительной инспекции. Барановского также обязали два раза в месяц отмечаться в уголовно-исполнительной инспекции.
+
+Барановского, как и других фигурантов «санитарного дела», обвиняют по статье о подстрекательстве к нарушению санитарно-эпидемиологических норм (ч. 1 ст. 236 УК с применением ч. 4 ст. 33 УК) во время акции 23 января в поддержку Навального.
+
+Всего по «санитарному делу» проходили сначала 10, потом (после того, как СК [прекратил](https://novayagazeta.ru/articles/2021/07/14/sud-prekratil-presledovanie-moskovskogo-mundepa-konstantina-iankauskasa-po-sanitarnomu-delu) преследование московского мундепа Константина Янкаускаса) — 9 человек.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/07/23/svideteli-masochnogo-rezhima
+
+Пресс-секретаря Навального [Киру Ярмыш](https://novayagazeta.ru/articles/2021/08/16/sud-prigovoril-kiru-iarmysh-k-15-goda-ogranicheniia-svobody-po-sanitarnomu-delu-news) приговорили к 1,5 года ограничения свободы, брата Алексея Навального [Олега Навального](https://novayagazeta.ru/articles/2021/08/06/sud-prigovoril-olega-navalnogo-k-godu-ogranicheniia-svobody-po-sanitarnomu-delu-news) — к году условно, соратника политика [Николая Ляскина](https://novayagazeta.ru/articles/2021/08/06/soratnika-navalnogo-nikolaia-liaskina-prigovorili-k-godu-ogranicheniia-svobody-po-sanitarnomu-delu-news) — к году ограничения свободы, юриста команды Навального [Любовь Соболь](https://novayagazeta.ru/articles/2021/08/03/liubov-sobol-prigovorili-k-15-goda-ogranicheniia-svobody-po-sanitarnomu-delu-news) — к 1,5 года ограничения свободы, московского мундепа [Люсю Штейн](https://novayagazeta.ru/articles/2021/08/25/moskovskogo-mundepa-liusiu-shtein-prigovorili-k-godu-ogranicheniia-svobody-po-sanitarnomu-delu-news) — к году ограничения свободы.
+
+Приговоры участнице Pussy Riot Марии Алехиной, главе «Альянса врачей»* Анастасии Васильевой Преображенский суд пока не огласил.
+
+#### *Внесен Минюстом в список НКО, выполняющих функцию иностранного агента

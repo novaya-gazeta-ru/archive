@@ -1,0 +1,24 @@
+---
+source: "https://novayagazeta.ru/articles/2022/02/22/zoom-zaregistriroval-lichnyi-kabinet-na-saite-rkn-v-ramkakh-prizemleniia-meta-namerena-eta-sdelat-news"
+title: "Zoom зарегистрировал личный кабинет на сайте РКН в рамках «приземления». Meta намерена это сделать"
+subtitle: ""
+date: "2022-02-22T15:52:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "meta, zoom, роскомнадзор, закон о приземлении, РКН, ep"
+---
+
+# Zoom зарегистрировал личный кабинет на сайте РКН в рамках «приземления». Meta намерена это сделать
+
+Компания Meta Platforms Inc., владеющая соцсетями Facebook и Instagram, а также мессенджером WhatsApp, и компания Zoom Video Communications Inc. начали выполнять «закон о приземлении». Об этом [сообщается](https://rkn.gov.ru/news/rsoc/news74076.htm) на сайте Роскомнадзора.\
+ \
+ По данным ведомства, компания Meta направила заявление о регистрации личного кабинета на официальном сайте Роскомнадзора. Zoom уже зарегистрировал личный кабинет, а также сообщила, что рассматривает «открытие представительства» на территории РФ и создает форму обратной связи.\
+ \
+ В рамках «закон о приземлении» иностранные компании должны разместить на своих ресурсах электронную форму для обращений и зарегистрировать личный кабинет на официальном сайте Роскомнадзора.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/11/25/kosmos-dolzhen-idti-na-posadku
+
+Ранее компания Apple в рамках исполнения этого закона [завела](https://novayagazeta.ru/articles/2022/01/14/apple-pervoi-zavela-lichnyi-kabinet-na-saite-rkn-eto-nuzhno-dlia-prizemleniia-kompanii-news) личный кабинет на сайте РКН и [открыла](https://novayagazeta.ru/articles/2022/02/04/apple-otkryla-ofis-v-rossii-v-ramkakh-ispolneniia-zakona-o-prizemlenii-news) офис в России. Эти же действия выполнил музыкальный сервис Spotify. Также личный кабинет на сайте РКН завели компания Twitter, Inc., мессенджер Viber и социальная сеть Likee.
+
+Социальная сеть TikTok зарегистрировалась на сайте РКН и выполнила другое требование регулятора — создала форму для электронных обращений граждан на своем сайте.

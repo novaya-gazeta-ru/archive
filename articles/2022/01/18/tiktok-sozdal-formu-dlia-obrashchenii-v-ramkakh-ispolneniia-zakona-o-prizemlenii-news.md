@@ -1,0 +1,22 @@
+---
+source: "https://novayagazeta.ru/articles/2022/01/18/tiktok-sozdal-formu-dlia-obrashchenii-v-ramkakh-ispolneniia-zakona-o-prizemlenii-news"
+title: "TikTok создал форму для обращений в рамках исполнения «закона о приземлении»"
+subtitle: ""
+date: "2022-01-18T08:47:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "em , tiktok, закон о приземлении, россия"
+---
+
+# TikTok создал форму для обращений в рамках исполнения «закона о приземлении»
+
+В социальной сети TikTok появилась форма для обращений, как того требует российский «закон о приземлении» иностранных IT-компаний. Это [следует](https://236-fz.rkn.gov.ru/agents/list/5) из информации на сайте Роскомнадзора.
+
+Помимо формы для обращений соцсеть должна создать личный кабинет на сайте регулятора. Российское законодательство также обязывает крупные зарубежные IT-компании открыть представительство или учредить юрлицо в РФ.
+
+Накануне мессенджер Viber и социальная сеть для создания коротких видео Likee [завели](https://novayagazeta.ru/articles/2022/01/17/kompanii-viber-i-likee-vsled-za-apple-zaveli-lichnye-kabinety-na-saite-rkn-v-ramkakh-zakona-o-prizemlenii-news) личные кабинеты на сайте РКН в рамках исполнения «закона о приземлении». Ранее это [сделала](https://novayagazeta.ru/articles/2022/01/14/apple-pervoi-zavela-lichnyi-kabinet-na-saite-rkn-eto-nuzhno-dlia-prizemleniia-kompanii-news) и компания Apple.
+
+Летом 2021 года президент РФ Владимир Путин [подписал](https://sozd.duma.gov.ru/bill/1176731-7) «закон о приземлении», согласно которому IT-компании с суточной аудиторией более 500 тысяч россиян открывать офисы в стране и регистрировать на сайте Роскомнадзора для обратной связи. В ноябре РКН [опубликовал](https://236-fz.rkn.gov.ru/agents/list) список компаний, которые обязаны открыть представительства в России до 1 января 2022 года. В перечень вошли Google, Apple, Meta, Twitter, Discord, Twitch и другие.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/09/18/pereproshitaia-rossiia

@@ -1,0 +1,30 @@
+---
+source: "https://novayagazeta.ru/articles/2022/03/23/smi-anatolii-chubais-ushel-s-posta-spetspredstavitelia-prezidenta-po-voprosam-ustoichivogo-razvitiia-i-pokinul-rossiiu-news"
+title: "Анатолий Чубайс ушел с поста спецпредставителя президента по вопросам устойчивого развития и покинул Россию"
+subtitle: ""
+date: "2022-03-23T12:08:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "чубайс, роснано, отставка, отъезд, sf"
+---
+
+# Анатолий Чубайс ушел с поста спецпредставителя президента по вопросам устойчивого развития и покинул Россию
+
+Экс-глава «Роснано» Анатолий Чубайс ушел с поста специального представителя президента России по вопросам устойчивого развития и уехал из страны. Об этом [сообщает](https://www.bloomberg.com/news/articles/2022-03-23/putin-adviser-chubais-quits-over-ukraine-war-and-leaves-russia?srnd=premium-europe) Bloomberg со ссылкой на источники.\
+
+Брат Анатолия Игорь Чубайс [сообщил](https://www.rbc.ru/politics/23/03/2022/623b08e99a79474b8d9b01b1?utm_source=telegram&utm_medium=messenger) РБК, что ничего не знает о его отставке и отъезде из России. Журналистам Forbes [удалось](https://t.me/forbesrussia/37218) дозвониться до Анатолия Чубайса по телефону, однако на вопрос, действительно ли он уехал из России, он не ответил и бросил трубку.
+
+> **обновлено**
+>
+> **16:26** Представители Анатолия Чубайса подтвердили информацию об отставке, [сообщил](https://t.me/rian_ru/155205) РИА Новости спецпредставитель по климату Руслан Эдельгериев.
+>
+> **16:58** Пресс-секретарь президента России Дмитрий Песков [подтвердил](https://t.me/rian_ru/155212) РИА Новости, что Анатолий Чубайс уволился по собственному желанию. «Уехал он из России или нет — его личное дело», — добавил Песков.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/11/24/chubais-i-rok-izobiliia
+
+Владимир Путин [назначил](https://novayagazeta.ru/articles/2020/12/04/166195-putin-naznachil-chubaysa-spetspredstavitelem-prezidenta-po-svyazyam-s-mezhdunarodnymi-organizatsiyami) Анатолия Чубайса спецпредставителем президента по связям с международными организациями в декабре 2020 года.
+
+До этого в течение 12 лет руководил «Роснано».
+
+Ранее председатель фонда «Сколково» , экс вице-премьер России Аркадий Дворкович принял решение [покинуть](https://novayagazeta.ru/articles/2022/03/18/dvorkovich-ushel-s-posta-predsedatelia-fonda-skolkovo-ranee-on-vystupal-protiv-boevykh-deistvii-v-ukraine-news) пост. Он дал интервью изданию Mother Jones, в котором выступил за мирное урегулирование ситуации в Украине.

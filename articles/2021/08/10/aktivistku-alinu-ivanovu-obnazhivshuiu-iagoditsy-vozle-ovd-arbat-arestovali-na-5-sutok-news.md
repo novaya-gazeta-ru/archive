@@ -1,0 +1,22 @@
+---
+source: "https://novayagazeta.ru/articles/2021/08/10/aktivistku-alinu-ivanovu-obnazhivshuiu-iagoditsy-vozle-ovd-arbat-arestovali-na-5-sutok-news"
+title: "Активистку Алину Иванову, обнажившую ягодицы возле ОВД «Арбат», арестовали на 5 суток"
+subtitle: ""
+date: "2021-08-10T10:31:00Z"
+authors: "«Новая газета» (редакция)"
+rubric: "Общество"
+genre: "Новости"
+tags: "ng, арест, суды"
+---
+
+# Активистку Алину Иванову, обнажившую ягодицы возле ОВД «Арбат», арестовали на 5 суток
+
+Пресненский районный суд Москвы арестовал на 5 суток активистку Алину Иванову, которая 7 августа обнажила ягодицы у ОВД «Арбат» в знак протеста. Об этом «Новой газете» рассказал адвокат «Апологии протеста» Александр Альдаев.
+
+Девушку признали виновной по статье о мелком хулиганстве (ст. 20.1 КоАП). «Вину не признаем, решение суда будем обжаловать», — рассказал защитник.
+
+Иванова ночь провела в ОВД «Арбат». Полиция в сопровождении сотрудника центра по борьбе с экстремизмом [задержала](https://novayagazeta.ru/articles/2021/08/09/politsiia-zaderzhala-aktivistku-alenu-ivanovu-obnazhivshuiu-iagoditsy-vozle-ovd-arbat-tak-ona-protestovala-protiv-aresta-modeli-v-ekaterinburge-news) девушку накануне, 9 августа, через два дня после того, как она сфотографировалась с обнаженными ягодицами возле входа в отдел полиции.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/08/02/chtoby-bylo-vremia-podumat-o-chistote-dushi-sud-v-ekaterinburge-arestoval-mestnuiu-zhitelnitsu-za-pozirovanie-s-golymi-iagoditsami-vozle-otdela-politsii-news
+
+Так девушка протестовала против ареста модели Елены Никифировской и фотографа Айсель Ахмедовой, которые организовали такой же перформанс возле отдела полиции в Екатеринбурге. В начале августа суд [назначил](https://novayagazeta.ru/articles/2021/08/02/chtoby-bylo-vremia-podumat-o-chistote-dushi-sud-v-ekaterinburge-arestoval-mestnuiu-zhitelnitsu-za-pozirovanie-s-golymi-iagoditsami-vozle-otdela-politsii-news) Никифировской трое, а Ахмедовой — двое суток ареста за мелкое хулиганство.

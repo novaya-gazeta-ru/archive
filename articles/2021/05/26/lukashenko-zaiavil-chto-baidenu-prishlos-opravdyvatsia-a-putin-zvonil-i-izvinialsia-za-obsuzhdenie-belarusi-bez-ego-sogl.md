@@ -1,0 +1,26 @@
+---
+source: "https://novayagazeta.ru/articles/2021/05/26/lukashenko-zaiavil-chto-baidenu-prishlos-opravdyvatsia-a-putin-zvonil-i-izvinialsia-za-obsuzhdenie-belarusi-bez-ego-soglasiia"
+title: "Лукашенко заявил, что «Байдену пришлось оправдываться», а Путин «звонил и извинялся» за обсуждение Беларуси без его согласия"
+subtitle: ""
+date: "2021-05-26T15:03:00Z"
+authors: ""
+rubric: "Политика"
+genre: "Новости"
+tags: "лукашенко, путин, байден, Беларусь, ta"
+---
+
+# Лукашенко заявил, что «Байдену пришлось оправдываться», а Путин «звонил и извинялся» за обсуждение Беларуси без его согласия
+
+Занимающий кресло президента Беларуси Александр Лукашенко заявил, что президент России Владимир Путин извинился перед ним за то, что без его согласия обсуждал ситуацию в республике, [сообщает](https://www.belta.by/president/view/lukashenko-esli-bajden-hochet-obsudit-s-putinym-belarus-pust-priezzhajut-v-minsk-443067-2021) госагентство БелТА. По словам Лукашенко, Владимир Путин и американский лидер Джо Байден во время телефонного разговора успели обсудить Беларусь и, как пишет БелТА, «американскому лидеру пришлось оправдываться».
+
+> «В этом плане Путин очень порядочно поступил. Он мне потом звонил и извинялся, что без разрешения обсуждал Беларусь. Я говорю: "Да за это тебе спасибо, что ты ему так сказал"»,
+
+— приводит слова Лукашенко БелТА. Он также добавил, что, по его мнению, если руководители США и России хотят обсудить Беларусь, то им лучше сделать это в Минске. «Хорошо, пусть поговорят о Беларуси. Вот мы с Путиным в пятницу будем Америку обсуждать. Я только не знаю, о чем Байден (Путин-то в теме) будет говорить по Беларуси. Я за него переживаю в том плане, чтобы ему хоть карту дали и он посмотрел, где эта Беларусь находится. Они ведь абсолютно не владеют обстановкой, ситуацией», — заявил Лукашенко.
+
+Встреча Владимира Путина и Александра Лукашенко [состоится](https://ria.ru/20210526/vstrecha-1733966701.html) 28 мая в Сочи. По словам пресс-секретарь российского лидера Дмитрия Пескова, заявлений по итогам переговоров не планируется.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/05/25/kak-lukashenko-vstrechaet-svoiu-vtoruiu-molodost
+
+Во время встречи в Овальном зале с парламентариями Александр Лукашенко также [заявил](https://novayagazeta.ru/articles/2021/05/26/lukashenko-soobshchenie-o-minirovanii-samoliota-ryanair-postupilo-iz-shveitsarii-s-ip-adresov-polshi), что сообщение о минировании самолета Ryanair поступило из Швейцарии с IP[-](https://t.me/pul_1/2890)адресов Польши. Власти Швейцарии сообщили, что не знали о «минировании» самолета Ryanair. Самолет авиакомпании Ryanair 23 мая направлялся из Афин в Вильнюс, но [сел](https://novayagazeta.ru/articles/2021/05/23/soosnovatelia-telegram-kanala-nexta-protasevicha-zaderzhali-v-belarusi) в аэропорту Минска из-за сообщения о «минировании» [по требованию белорусских диспетчеров](https://novayagazeta.ru/articles/2021/05/23/ryanair-ob-ugroze-v-samolete-s-eks-glavredom-nexta-na-bortu-soobshchili-dispetchery-iz-belarusi) в сопровождении истребителя. На борту воздушного судна находился сооснователь телеграм-канала NEXTA Роман Протасевич: после посадки его задержали. Его подруга, гражданка России Софья Сапега, по данным ее родителей, летела тем же рейсом и сейчас [находится](https://novayagazeta.ru/articles/2021/05/24/roditeli-zaderzhannoi-v-minske-rossiianki-sofi-sapegi-soobshchili-chto-devushka-nakhoditsia-v-ivs-na-okrestina) в СИЗО КГБ. Сам Протасевич, по [утверждению](https://novayagazeta.ru/articles/2021/05/24/belsat-mat-romana-protasevicha-soobshchila-chto-on-mozhet-byt-v-bolnitse-minska-v-kriticheskom-sostoianii) белорусских силовиков, сейчас в минском СИЗО №1.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/05/25/otkuda-prishla-rekomendatsiia-perenapravit-nas-v-minsk

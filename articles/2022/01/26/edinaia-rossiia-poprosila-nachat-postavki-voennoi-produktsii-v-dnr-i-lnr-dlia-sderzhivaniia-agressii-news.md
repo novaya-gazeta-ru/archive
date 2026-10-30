@@ -1,0 +1,26 @@
+---
+source: "https://novayagazeta.ru/articles/2022/01/26/edinaia-rossiia-poprosila-nachat-postavki-voennoi-produktsii-v-dnr-i-lnr-dlia-sderzhivaniia-agressii-news"
+title: "«Единая Россия» попросила начать поставки военной продукции в ДНР и ЛНР «для сдерживания агрессии»"
+subtitle: ""
+date: "2022-01-26T14:54:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "военная техника, единая россия, лднр, da"
+---
+
+# «Единая Россия» попросила начать поставки военной продукции в ДНР и ЛНР «для сдерживания агрессии»
+
+Глава фракции «Единой России» в Госдуме Владимир Васильев и генсекретарь партии Андрей Турчак попросили руководство страны начать поставки военной продукции в самопровозглашенные Донецкую и Луганскую республики. Об этом [говорится](https://er.ru/activity/news/vladimir-vasilev-obrashaemsya-k-rukovodstvu-nashej-strany-s-prosboj-okazat-pomosh-lnr-i-dnr-v-vide-postavok-neobhodimoj-dlya-sderzhivaniya-agressii-voennoj-produkcii) на сайте партии.
+
+«Нас очень беспокоит вопрос защиты российских жизни граждан и соотечественников, проживающих на территориях ЛНР и ДНР. <…> В связи с этим мы обращаемся к руководству нашей страны
+
+> оказать помощь Луганской и Донецкой республикам в виде поставок необходимой для сдерживания агрессии военной продукции»,
+
+— заявил Васильев. Глава «ДНР» Денис Пушилин [сообщил](https://t.me/tass_agency/103549), что «Донецк будет приветствовать любое решение об оказании помощи».
+
+Накануне депутаты Госдумы от КПРФ [предложили](https://novayagazeta.ru/articles/2022/01/19/kprf-predlozhila-deputatam-gosdumy-poprosit-putina-priznat-dnr-i-lnr-news) другим представителям нижней палаты российского парламента попросить президента Владимира Путина признать самопровозглашенные ДНР и ЛНР. Глава МИД Украины Дмитрий Кулеба [назвал](https://ru.espreso.tv/kuleba-o-predlozhenii-v-rf-priznat-ldnr-eto-chast-bolshoy-igry-po-rasshatyvaniyu-situatsii) эту инициативу «булавкой в Минские договоренности».
+
+**Читайте также:** https://novayagazeta.ru/articles/2022/01/24/donbass-mertvetsa
+
+Накануне президент Украины Владимир Зеленский [заявил](https://novayagazeta.ru/articles/2022/01/24/prichin-dlia-paniki-net-zelenskii-zaiavil-chto-kiev-rabotaet-nad-polnoi-deeskalatsiei-situatsii-v-donbasse-news) после заседания Совета национальной безопасности и обороны, что Киев работает над полной деэскалацией ситуации в Донбассе путем мирного урегулирования. Ранее Зеленский [записал](https://novayagazeta.ru/articles/2022/01/19/ukraina-ne-khochet-voiny-vladimir-zelenskii-zapisal-obrashchenie-k-sograzhdanam-news) похожее обращение к согражданам, в котором также призвал не поддаваться панике из-за сообщений о возможности вторжения России. Президент призвал граждан успокоиться, «выдохнуть», не верить фейкам и «не бежать за гречкой».

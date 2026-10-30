@@ -1,0 +1,25 @@
+---
+source: "https://novayagazeta.ru/articles/2021/07/13/chto-proizoshlo-za-den-13-iiulia-korotko"
+title: "Что произошло за день 13 июля. Коротко"
+subtitle: ""
+date: "2021-07-13T18:34:00Z"
+authors: "«Новая газета» (редакция)"
+rubric: "Общество"
+genre: "Новости"
+tags: "итоги, аваков, Моргенштерн, sn"
+---
+
+# Что произошло за день 13 июля. Коротко
+
+**В России за сутки от коронавируса скончались 780 человек —**  это [максимум за все время пандемии](https://novayagazeta.ru/articles/2021/07/13/v-rossii-vsledstvie-covid-19-umerli-780-chelovek-za-sutki-eto-maksimum-za-vse-vremia-pandemii). Тем временем в Москве избыточная смертность за июнь [выросла](https://novayagazeta.ru/articles/2021/07/13/izbytochnaia-smertnost-za-iiun-v-moskve-vyrosla-v-dva-raza-po-sravneniiu-s-proshlym-godom-depzdrav-obiasniaet-eto-koronavirusom) в два раза по сравнению с прошлым годом. Власти объясняют это распространением COVID-19 и аномальной жарой.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/07/13/mertvaia-ochered
+
+- **Глава МВД Украины Арсен Аваков подал в отставку. **Его прошение в Раде [рассмотрят](https://novayagazeta.ru/articles/2021/07/13/glava-mvd-ukrainy-arsen-avakov-podal-v-otstavku) в ближайшие дни. Министерство чиновник возглавил в феврале 2014 года на фоне политического кризиса в стране. Два года назад он был переназначен на должность. Аваков — единственным министр, который пришел после событий 2014 года и не лишился своего поста.
+- **В Туве ограничат работу общественного транспорта из-за коронавируса**. Такое в России [происходит](https://novayagazeta.ru/articles/2021/07/13/v-tuve-ogranichat-rabotu-obshchestvennogo-transporta-iz-za-koronavirusa-takoe-v-rossii-proiskhodit-vpervye) впервые. Кроме того, власти региона разрешили предприятиям общепита работать лишь на вынос и на доставку, а регистрацию браков передвинут на более поздние даты.
+- **Кремль поддержал изъятие из магазинов книг с изображением нацистских лидеров на обложке**. По [словам](https://novayagazeta.ru/articles/2021/07/13/kreml-podderzhal-iziatie-iz-magazinov-knig-s-izobrazheniem-natsistskikh-liderov-na-oblozhke) пресс-секретаря президента Дмитрия Пескова, такая «популяризация естественно и абсолютно не нужна и недопустима по закону». Ранее Российский книжный союз опубликовал [обращение](https://bookunion.ru/news/obrashchenie_k_otraslevomu_soobshchestvu/) к отраслевому сообществу, в котором призвал книжников «проверить ассортимент на наличие изданий» с изображениями нацистов и убрать изображения этих книг с сайтов.
+- **Reuters выяснил причины задержки регистрации «Спутника V» в Европе.** По данным агентства, разработчики российской вакцины вовремя [не предоставили](https://novayagazeta.ru/articles/2021/07/13/reuters-vyiasnil-prichiny-zaderzhki-registratsii-sputnika-v-v-evrope) необходимые документы Европейскому агентству по лекарственным средствам (EMA). Теперь, предполагает Reuters, российский препарат вряд ли зарегистрируют.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/07/11/kovivak-trebuiut-nashi-serdtsa
+
+- **Полиция закрыла новое дело против Моргенштерна о пропаганде наркотиков**. Административное производство [началось](https://novayagazeta.ru/articles/2021/07/13/politsiia-zakryla-novoe-delo-morgenshterna-o-propagande-narkotikov) по факту размещения в интернете клипов рэпера «Виски на завтрак», «Smoke», «Я курю» и «Красное вино фристайл» после жалобы «некоего активного гражданина».

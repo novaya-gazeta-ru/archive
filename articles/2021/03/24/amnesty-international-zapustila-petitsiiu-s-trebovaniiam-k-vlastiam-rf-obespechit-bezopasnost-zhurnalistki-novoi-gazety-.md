@@ -1,0 +1,36 @@
+---
+source: "https://novayagazeta.ru/articles/2021/03/24/amnesty-international-zapustila-petitsiiu-s-trebovaniiam-k-vlastiam-rf-obespechit-bezopasnost-zhurnalistki-novoi-gazety-eleny-milashinoi"
+title: "Amnesty International запустила петицию с требованием к властям РФ обеспечить безопасность журналистки «Новой газеты» Елены Милашиной"
+subtitle: ""
+date: "2021-03-24T13:23:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "милашина, amnesty international, угрозы, kn"
+---
+
+# Amnesty International запустила петицию с требованием к властям РФ обеспечить безопасность журналистки «Новой газеты» Елены Милашиной
+
+Международная правозащитная организация Amnesty International [объявила](https://eurasia.amnesty.org/2021/03/24/amnesty-international-nachala-kampaniyu-globalnoj-solidarnosti-s-rossijskoj-zhurnalistkoj-elenoj-milashinoj-ej-postupayut-ugrozy-v-svyazi-s-razoblacheniyami-narushenij-prav-cheloveka-v-chechne/) о начале кампании солидарности с обозревателем «Новой газеты» Еленой Милашиной после того, как силовики Чечни выступили с угрозами в адрес издания из-за публикаций о внесудебных казнях в республике.
+
+«Так как Елена уже становилась жертвой нападения, Amnesty International считает, что есть серьёзные опасения по поводу её безопасности. Организация обращается к своим сторонникам во всём мире с просьбой присоединиться к петиции», — сказано в заявлении организации.
+
+Правозащитники подчеркивают, что правительство РФ «должно принять меры» и расследовать физическое насилие в республике, а также обеспечить безопасные условия работы для Милашиной.
+
+- **Подписать петицию можно [здесь](https://eurasia.amnesty.org/elena_milashina/).**
+
+В декабре 2020 года на журналистку «Новой» Елены Милашину и адвоката Марию Дубровину [напали](https://novayagazeta.ru/articles/2020/12/11/88331-signal-s-togo-sveta) неизвестные в Грозном, факт атаки до сих пор не расследован. В апреле 2020 года глава Чечни Рамзан Кадыров [угрожал](https://novayagazeta.ru/articles/2020/04/13/84881-ramzan-kadyrov-o-novoy-gazete-bez-kommentariev) «совершить преступление» в отношении Милашиной из-за материала о ситуации с коронавирусом в республике. После критики Кадырова Роскомнадзор [потребовал](https://novayagazeta.ru/news/2020/04/15/160725-genprokuratura-potrebovala-zablokirovat-statyu-novoy-gazety-o-situatsii-s-koronavirusom-v-chechne-po-zakonu-o-feyknyus) от «Новой газеты» удалить материал по закону о «фейках», но в итоге редакция оставила [текст](https://novayagazeta.ru/articles/2020/04/12/84851-smert-ot-koronavirusa-menshee-zlo) в открытом доступе, удалив лишь отдельные фрагменты.
+
+**Читайте также:** https://novayagazeta.ru/articles/2020/04/13/84881-ramzan-kadyrov-o-novoy-gazete-bez-kommentariev#
+
+15 марта, «Новая газета» опубликовала [показания](https://novayagazeta.ru/articles/2021/03/15/ia-sluzhil-v-chechenskoi-politsii-i-ne-khotel-ubivat-liudei-18) экс-сержанта полка им. Ахмата Кадырова Сулеймана Гезмахмаева о том, что в 2016-2017 годах он лично участвовал в задержании жителей Чечни, которых позднее казнили вне суда, и охранял их в подвале спортзала полка имени Кадырова.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/03/15/ia-sluzhil-v-chechenskoi-politsii-i-ne-khotel-ubivat-liudei-18
+
+После этого сотрудники чеченского полка полиции им. Ахмата Кадрова [попросили](https://novayagazeta.ru/articles/2021/03/18/ne-po-adresu-konechno-peskov-pro-obrashchenie-polka-im-kadyrova-k-putinu-iz-za-publikatsii-v-novoi-gazete) Владимира Путина «пресечь попытки оскорбления полка со стороны "Новой газеты"» и намекнули, что «один из них» может «взять на себя ответственность, чтобы пресечь оскорбления».
+
+Министр печати Чеченской Республики, спикер парламента ЧР, неизвестные жители Грозного, собранные на митинг в центре города, и Рамзан Кадыров также обратились к федеральным властям с просьбой «закрыть» издание. Кадыров в своем заявлении [утверждал](https://t.me/RKadyrov_95/1057), что журналисты «Новой газеты» якобы являются «агентами западных спецслужб».
+
+Вследствие угроз Европейский союз [призвал](https://novayagazeta.ru/articles/2021/03/20/evrosoiuz-prizval-vlasti-rossii-rassledovat-soobshcheniia-o-vnesudebnykh-kazniakh-v-chechne-i-prekratit-napadki-na-novuiu-gazetu) правительство РФ расследовать пытки и казни в Чечне, а также обеспечить безопасность журналситам «Новой газеты».
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/02/15/89211-kazn-posle-smerti

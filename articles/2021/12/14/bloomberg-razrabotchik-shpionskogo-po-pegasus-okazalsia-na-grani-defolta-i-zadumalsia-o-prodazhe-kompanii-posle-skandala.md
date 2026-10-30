@@ -1,0 +1,24 @@
+---
+source: "https://novayagazeta.ru/articles/2021/12/14/bloomberg-razrabotchik-shpionskogo-po-pegasus-okazalsia-na-grani-defolta-i-zadumalsia-o-prodazhe-kompanii-posle-skandala-vokrug-softa-news"
+title: "Bloomberg: разработчик шпионского ПО Pegasus оказался на грани дефолта и задумался о продаже компании после скандала вокруг софта"
+subtitle: ""
+date: "2021-12-14T11:16:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "em , компании, продажа, софт"
+---
+
+# Bloomberg: разработчик шпионского ПО Pegasus оказался на грани дефолта и задумался о продаже компании после скандала вокруг софта
+
+Руководство израильской компании NSO Group, которая оказалась на грани закрытия из-за долгов, изучает возможные варианты своих дальнейших действий, которые включают в себя в том числе расформирование подразделения Pegasus, разработавшего шпионское ПО, и продажу всей компании. Об этом [сообщили](https://www.bloomberg.com/news/articles/2021-12-13/spyware-firm-nso-mulls-shutdown-of-pegasus-unit-sale-of-company?sref=Y0jVLcFo) информированные источники Bloomberg.
+
+По их данным, NSO Group провела переговоры с несколькими инвестиционными фондами по поводу возможных вариантов развития событий — они включают в себя рефинансирование или прямую продажу. Один из собеседников агентства заявил, что среди потенциальных новых владельцев — два американских фонда, которые обсуждали получение контроля над компанией и изменение Pegasus. По этому сценарию, фонды вложат около 200 млн долларов в новый капитал, чтобы превратить Pegasus в подразделение, оказывающее услуги в области кибербезопасности и разрабатывающее дроны.
+
+В NSO информацию комментировать отказались.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/07/19/shpion-v-karmane
+
+В рамках расследования Pegasus Project, опубликованного в июле, СМИ [выяснили](https://forbiddenstories.org/pegasus-the-new-global-weapon-for-silencing-journalists/), что шпионское ПО Pegasus использовалось для слежки за журналистами, политиками, адвокатами и активистами по всему миру. В компании уверили, что соблюдают этику при работе и продолжат расследование случаев неправомерного использования программы.
+
+Газета Le Monde [сообщала](https://www.lemonde.fr/projet-pegasus/article/2021/07/20/projet-pegasus-un-telephone-portable-d-emmanuel-macron-dans-le-viseur-du-maroc_6088950_6088648.html), что в базе Pegasus мог оказаться, в частности, номер президента Франции Эммануэля Макрона, выбранный для слежки разведывательной службой Марокко. Также в списке, по данным газеты, оказались номера бывшего премьер-министра Франции Эдуарда Филиппа и еще 14 министров. По данным [The Guardian](https://www.theguardian.com/news/2021/jul/21/telegram-founder-pavel-durov-listed-spyware-targets-nso-leak-pegasus) и [Le Monde](https://www.lemonde.fr/projet-pegasus/article/2021/07/21/le-fondateur-de-la-messagerie-telegram-hote-apprecie-mais-surveille-a-dubai_6089043_6088648.html), телефонный номер основателя соцсети «ВКонтакте» и мессенджера Telegram Павла Дурова также оказался в списке потенциальных целей для слежки.

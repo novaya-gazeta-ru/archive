@@ -1,0 +1,24 @@
+---
+source: "https://novayagazeta.ru/articles/2021/10/20/stoimost-bitkoina-obnovila-istoricheskii-maksimum-prevysiv-66-tysiach-news"
+title: "Стоимость биткойна обновила исторический максимум, превысив $66 тысяч"
+subtitle: ""
+date: "2021-10-20T14:42:00Z"
+authors: ""
+rubric: "Экономика"
+genre: "Новости"
+tags: "битокин, биткойн, криптовалюта, kn"
+---
+
+# Стоимость биткойна обновила исторический максимум, превысив $66 тысяч
+
+Стоимость биткойна превысила $66 тысяч, обновив исторический максимум, [свидетельствуют](https://ru.investing.com/crypto/bitcoin/chart) данные сайта Investing.com.
+
+По данным на 17:40, криптовалюта подорожала наболее чем 6%. Максимально биткойн поднялся до $66 468.
+
+Котировки [выросли](https://www.rbc.ru/crypto/news/616fcf839a79473136251044) после того, как 19 октября в США впервые начались торги акциями биткойн-фонда Bitcoin Strategy ETF.
+
+В марте этого года биткойн впервые [превысил](https://novayagazeta.ru/articles/2021/03/13/kurs-bitkoina-vpervye-v-istorii-dostig-otmetki-v-60-tysiach-dollarov) отметку в $60 тысяч. 13 марта курс криптовалюты достигал 60,160 тысяч долларов за штуку. На долю биткоина приходится около 71,1% всего глобального рынка криптовалют.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/10/14/kriptopokorenie-sibiri
+
+Ранее [стало известно](https://novayagazeta.ru/articles/2021/10/13/rossiia-zaniala-trete-mesto-v-mire-po-mainingu-bitkoina-news), что Россия вышла на третье место в мире по добыче криптовалюты Bitcoin, увеличив долю в глобальном майнинге до 11,2%.

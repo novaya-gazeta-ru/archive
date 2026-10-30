@@ -1,0 +1,14 @@
+---
+source: "https://novayagazeta.ru/articles/2020/04/22/160910-chto-proizoshlo-za-noch-22-aprelya-korotko"
+title: "Что произошло за ночь 22 апреля. Коротко"
+subtitle: ""
+date: "2020-04-22T05:08:00Z"
+authors: "Антон Вшивцев (корреспондент)"
+rubric: "Общество"
+genre: "Новости"
+tags: "трамп, сша, нефть, коронавирус, va"
+---
+
+# Что произошло за ночь 22 апреля. Коротко
+
+- **В Москве за прошедшие сутки число летальных случаев от коронавируса [увеличилось](https://novayagazeta.ru/news/2020/04/22/160909-v-moskve-skonchalis-esche-28-patsientov-s-koronavirusom) на 28**  — до 261 погибшего. Самому младшему из них было 30 лет. В рамках режима самоизоляции москвичей с 22 апреля обязали привязывать к электронному пропуску свою транспортную карту или номер автомобиля. Иначе проездной не сработает, а водителям будут назначать штрафы с помощью камер. - **Президент США Дональд Трамп [объявил](https://twitter.com/realDonaldTrump/status/1252418369170501639) о временной приостановке иммиграции.** Въезд в страну по большей части рабочих виз прекратят на 60 дней, выдачу грин-карт также [собираются](https://www.nytimes.com/2020/04/21/us/coronavirus-live-news-updates.html?action=click&module=Spotlight&pgtype=Homepage) остановить. «Прежде всего мы должны заботиться об американских рабочих», — [сказал](https://twitter.com/WhiteHouse/status/1252714719527354368) он на брифинге. Сенат США между тем [одобрил](https://www.nytimes.com/2020/04/21/us/coronavirus-live-news-updates.html) новый пакет мер экономической поддержки почти на полтриллиона долларов, большая часть пойдет на зарплаты сотрудникам малого бизнеса. - **Cевероморская нефть Brent с ближайшими поставками в июне [упала на бирже](https://www.theice.com/products/219/Brent-Crude-Futures/data?marketId=5049363) до 16 долларов** — показателей ноября 2001 года. Схожим образом развивается ситуация и в США: июньские контракты на американскую WTI, [успев стабилизироваться](https://www.bloomberg.com/news/articles/2020-04-21/asia-stocks-to-decline-oil-collapse-deepens-markets-wrap?srnd=premium-europe) на уровне 14 долларов на фоне новых мер от коронавируса, [упали](https://www.theice.com/products/213/WTI-Crude-Futures/data?marketId=463544) до 10,5 доллара (накануне она доходила до 6,9 доллара). - **Суды Владикавказа [назначили](https://novayagazeta.ru/news/2020/04/21/160908-vo-vladikavkaze-arestovali-14-uchastnikov-shoda-protiv-rezhima-samoizolyatsii) административные аресты 13 участникам схода против режима самоизоляции** , прошедшего 20 апреля. Еще одно дело прекратили. Всего же, по данным МВД, задержаны были 69 человек из порядка двух тысяч участников схода. Его инициатора [поместили](https://novayagazeta.ru/news/2020/04/21/160883-vo-vladikavkaze-arestovali-initsiatora-aktsii-protiv-rezhima-samoizolyatsii%C2%A0) в СИЗО в рамках нового уголовного дела.

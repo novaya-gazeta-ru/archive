@@ -1,0 +1,18 @@
+---
+source: "https://novayagazeta.ru/articles/2021/04/11/video-dnia-virtualnyi-muzei-andreia-sakharova"
+title: "Видео дня: виртуальный музей Андрея Сахарова"
+subtitle: "Онлайн-проект, посвященный его жизни, научной и правозащитной деятельности"
+date: "2021-04-11T09:40:00Z"
+authors: "«Новая газета» (редакция)"
+rubric: "Общество"
+genre: "Сюжеты"
+tags: ""
+---
+
+# Видео дня: виртуальный музей Андрея Сахарова
+
+*Онлайн-проект, посвященный его жизни, научной и правозащитной деятельности*
+
+Столетие академика планируется отмечать в десятке городов по всему миру. В Москве международная конференция «Тревога и надежда» [пройдет](https://novayagazeta.ru/articles/2021/03/18/posviashchennaia-100-letiiu-sakharova-mezhdunarodnaia-konferentsiia-trevoga-i-nadezhda-proidet-v-kontse-maia) 24–25 мая в Сахаровском центре. Все новости и анонсы юбилейной программы Сахаровского центра будут доступны в специальной юбилейной [рассылке](http://www.100.sakharov-center.ru/).
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/03/31/velikie-otkrytiia-sovershaiut-inakomysliashchie

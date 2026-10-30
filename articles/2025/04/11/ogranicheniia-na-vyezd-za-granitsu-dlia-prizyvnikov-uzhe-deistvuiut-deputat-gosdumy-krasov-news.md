@@ -1,0 +1,30 @@
+---
+source: "https://novayagazeta.ru/articles/2025/04/11/ogranicheniia-na-vyezd-za-granitsu-dlia-prizyvnikov-uzhe-deistvuiut-deputat-gosdumy-krasov-news"
+title: "Ограничения на выезд за границу для призывников уже действуют — депутат Госдумы Красов"
+subtitle: ""
+date: "2025-04-11T14:33:00Z"
+authors: ""
+rubric: "Политика"
+genre: "Новости"
+tags: ""
+---
+
+# Ограничения на выезд за границу для призывников уже действуют — депутат Госдумы Красов
+
+Власти «отладили» «технический компонент» ограничений для призывников, в числе которых — запрет на вождение автомобиля, оформление кредитов и выезд за границу. Об этом сообщил первый зампред комитета Госдумы по обороне Андрей Красов.
+
+«Что касается технического компонента — да, мы его отладили. Все работает как нужно, и в этот призыв обеспечительные меры уже действуют», — сказал Красов в [интервью](https://www.pnp.ru/politics/deputat-krasov-patriotizm-nado-dokazyvat-konkretnymi-delami.html) «Парламентской газете».
+
+Как следует из закона, право призывников на выезд из России ограничивается сразу после отправки повестки. Через 20 дней после указанной в повестке даты, вступают в силу ограничения на управление транспортом, получение кредита и права на торговые и иные операции с недвижимостью.
+
+До сих пор запретительные меры для призывников в России не действовали, отметил представитель движения «Идите лесом»* Иван Чувиляев в разговоре с «Агентством»*. По его словам, о случаях ограничения прав призывников до сих пор известно не было.
+
+Нынешний весенний призыв — [крупнейший за много лет](https://novayagazeta.ru/articles/2025/03/31/putin-podpisal-ukaz-o-vesennem-prizyve-na-2025-god-krupneishem-za-14-let-povestki-v-nekotorykh-regionakh-budut-dostavliat-elektronno-a-srok-deistviia-ikh-mogut-prodlit-news). Согласно указу, на срочную службу призовут 160 тысяч человек.
+
+Госдума уже [приняла в трех чтениях](https://novayagazeta.ru/articles/2025/04/08/gosduma-priniala-zakon-kotoryi-pozvoliaet-otpravliat-prizyvnikov-v-armiiu-po-resheniiam-predydushchikh-prizyvnykh-kampanii-news) закон, который позволит призывать срочников в армию в течение года. Это значит, что если призывник получил повестку в весенний призыв и не отправился на службу, его [могут забрать по ней же осенью](https://novayagazeta.ru/articles/2025/01/27/pravitelstvo-odobrilo-izmeneniia-poriadka-prizyva-v-armiiu-rossiian-budut-otpravliat-na-sluzhbu-po-resheniiam-proshlykh-prizyvnykh-kampanii-news).
+
+#### * Минюст считает «иноагентами».
+
+**Читайте также:** https://novayagazeta.ru/articles/2025/03/31/siloviki-ustroili-oblavu-na-prizyvnikov-v-odnom-iz-fitnes-klubov-moskvy-news
+
+**Читайте также:** https://novayagazeta.ru/articles/2024/12/05/zamministra-oborony-tsivileva-nazvala-chislo-obrativshikhsia-za-poiskom-propavshikh-v-zone-svo-ee-poprosili-nigde-ne-figurirovat-s-etoi-tsifroi-news

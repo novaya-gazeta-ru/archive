@@ -1,0 +1,26 @@
+---
+source: "https://novayagazeta.ru/articles/2022/02/23/premer-latvii-zaiavil-chto-rossiiskie-voiska-uzhe-zashli-v-donbass-news"
+title: "Премьер Латвии заявил, что российские войска уже зашли в Донбасс"
+subtitle: ""
+date: "2022-02-23T16:58:00Z"
+authors: ""
+rubric: "Политика"
+genre: "Новости"
+tags: "россия, войска, днр, лнр, em"
+---
+
+# Премьер Латвии заявил, что российские войска уже зашли в Донбасс
+
+Премьер-министр Латвии Кришьянис Кариньш заявил, что российские войска уже находятся на территории Донбасса. Об этом [сообщает](https://edition.cnn.com/2022/02/23/europe/russian-troops-donbas-latvian-pm/index.html) CNN.
+
+*Фото: Krišjānis Kariņš / Facebook*
+
+«По имеющейся в моем распоряжении информации, [президент России Владимир] Путин перебрасывает дополнительные силы и танки на оккупированные территории Донбасса», — заявил Кариньш. На вопрос о том, имеет ли он в виду ввод дополнительных сил российских ВС после признания Москвой самопровозглашенных Донецкой и Луганской народных республик («ДНР» и «ЛНР»), премьер Латвии ответил: «Да, согласно имеющейся в моем распоряжении информации, именно это мы и наблюдаем».
+
+Данные Кариньша подтвердили CNN два источника, связанные с американской разведкой. Высокопоставленный американский чиновник, знакомый с последними разведданными, имя которого канал не называет, заявил, что Россия развернула от одной до двух так называемых батальонных тактических групп, в каждой из которых в среднем по 800 человек. При этом сам CNN не смог подтвердить наличие дополнительных сил российских ВС в Донбассе.
+
+**Читайте также:** https://novayagazeta.ru/articles/2022/02/23/nado-tikat-po-khodu
+
+Путин [подписал](https://novayagazeta.ru/articles/2022/02/21/putin-priznal-nezavisimost-dnr-i-lnr-news) указы о признании «ДНР» и «ЛНР» 21 февраля, накануне он [уточнил](https://novayagazeta.ru/articles/2022/02/22/putin-rossiia-priznala-dnr-i-lnr-v-granitsakh-zakreplennykh-v-ikh-konstitutsiiakh-news), что РФ признала самопровозглашенные республики в тех границах, которые закреплены в их конституциях. Также 22 февраля Совет Федерации [дал](https://novayagazeta.ru/articles/2022/02/22/sovfed-razreshil-putinu-ispolzovat-vooruzhennye-sily-rf-za-rubezhom-news) согласие российскому лидеру на использование Вооруженных сил РФ в «ЛДНР». Решение было принято единогласно. Предполагается, что Путин сам определит срок пребывания ВС РФ за пределами России, общую их численность, районы действий и задачи.
+
+Из-за признания Россией «ДНР» и «ЛНР» против РФ ввели санкции [Великобритания](https://novayagazeta.ru/articles/2022/02/22/velikobritaniia-vvodit-sanktsii-protiv-piati-rossiiskikh-bankov-news), [ЕС](https://novayagazeta.ru/articles/2022/02/22/es-vvel-sanktsii-protiv-351-deputata-gosdumy-a-takzhe-27-iuridicheskikh-i-fizlits-iz-za-priznaniia-donbassa-news), [США](https://novayagazeta.ru/articles/2022/02/22/baiden-obiavil-o-sanktsiiakh-protiv-suverennogo-dolga-rf-iz-za-priznaniia-eiu-dnr-i-lnr-news), [Канада, Япония и Австралия](https://novayagazeta.ru/articles/2022/02/23/kanada-iaponiia-i-avstraliia-vveli-sanktsii-protiv-rossii-iz-za-priznaniia-ldnr-news). Они касаются в том числе российских элит и некоторых банков.

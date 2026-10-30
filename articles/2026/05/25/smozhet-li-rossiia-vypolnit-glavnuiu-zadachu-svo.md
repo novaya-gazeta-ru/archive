@@ -1,0 +1,18 @@
+---
+source: "https://novayagazeta.ru/articles/2026/05/25/smozhet-li-rossiia-vypolnit-glavnuiu-zadachu-svo"
+title: "Сможет ли Россия выполнить главную задачу СВО"
+subtitle: "Военный обозреватель Валерий Ширяев — о ситуации на фронте"
+date: "2026-05-25T08:59:00Z"
+authors: "Валерий Ширяев (военный обозреватель «Новой газеты»)"
+rubric: "Общество"
+genre: "Сюжеты"
+tags: ""
+---
+
+# Сможет ли Россия выполнить главную задачу СВО
+
+*Военный обозреватель Валерий Ширяев — о ситуации на фронте*
+
+\
+
+**Читайте также:** https://novayagazeta.ru/articles/2026/04/24/teatr-boevykh-deistvii-prevratilsia-v-kilzonu

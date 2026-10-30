@@ -1,0 +1,32 @@
+---
+source: "https://novayagazeta.ru/articles/2021/11/23/v-belarusi-telegram-kanal-i-vse-sotsseti-izdaniia-nasha-niva-priznali-ekstremistskimi-news"
+title: "В Беларуси телеграм-канал и все соцсети издания «Наша Нива» признали экстремистскими"
+subtitle: ""
+date: "2021-11-23T15:51:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "беларусь, телеграм, телеграм-каналы, экстремизм, ai"
+---
+
+# В Беларуси телеграм-канал и все соцсети издания «Наша Нива» признали экстремистскими
+
+Власти Беларуси признали экстремистскими телеграм-канал и все социальные сети газеты «Наша Нива». Об этом само издание [сообщает](https://t.me/nashaniva/35970) в телеграме.
+
+По [информации](https://t.me/gubopRB/3126) телеграм-канала ГУБОП, соответствующее решение было принято судом Центрального района Минска на основании проверки ГУБОПиК МВД.
+
+В июле белорусское издание «Наша Нива» [прекратило](https://novayagazeta.ru/articles/2021/07/13/nasha-niva-prekratila-rabotu-v-belarusi-iz-za-davleniia-silovikov) свою работу в стране из-за возросшего давления силовиков. Директор издания Анастасия Ровдо объяснила подобный выбор соображениями безопасности. По ее словам, в редакции начали работать над возрождением издания за пределами страны, а сотрудникам предложили переехать.
+
+За несколько дней до прекращения работы «Нашей Нивы» Мининформ Беларуси [ограничил](https://novayagazeta.ru/articles/2021/07/08/mininform-belarusi-ogranichil-dostup-k-saitu-nashei-nivy-izdanie-soobshchilo-ob-otsutstvii-sviazi-s-glavredom) доступ к сайту газеты. Тогда же у сотрудников редакции прошли обыски, а главного редактора Егора Мартиновича [задержали](https://novayagazeta.ru/articles/2021/07/09/nasha-niva-glavreda-izdaniia-egora-martinovicha-izbili-pri-zaderzhanii). Он до сих пор находится в СИЗО.
+
+По [данным](https://t.me/nashaniva/30464) «Нашей Нивы», следственные действия проводились по статье 342 УК РБ (организация или подготовка действий, грубо нарушающих общественный порядок или участие в них), и по статье 293 УК РБ (массовые беспорядки). Издание активно освещало протестные акции, которые начались в Беларуси после выборов президента в августе 2020 года.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/10/28/otkroite-vam-telegram
+
+Летом МВД Беларуси [признало](https://novayagazeta.ru/articles/2021/07/27/v-belarusi-sait-i-vse-sotsseti-telekanala-belsat-priznali-ekstremistskimi) экстремистским телеканал «Белсат» и все его соцсети. Основанием для этого решения стали материалы проверки управления ГУБОПиК МВД по Гомельской области. Позже телеканал [признали](https://novayagazeta.ru/articles/2021/07/27/v-belarusi-sait-i-vse-sotsseti-telekanala-belsat-priznali-ekstremistskimi) «экстремистким формированием».
+
+В октябре прошлого года суд Минска [признал](https://novayagazeta.ru/articles/2020/10/20/165054-v-belarusi-priznali-ekstremistskimi-materialami-telegram-kanal-nexta-i-ego-logotip) телеграм-канал NEXTA и его логотип экстремистскими, так как в материалах проекта говорится об организации и публичных призывах к «массовым беспорядкам». Через год МВД Беларуси [признало](https://novayagazeta.ru/articles/2021/10/29/v-belarusi-priznali-ekstremistskim-formirovaniem-telegram-kanal-nexta-news) «экстремистским формированием» телеграм-каналы NEXTA, NEXTA-Live и LUXTA.
+
+12 октября Совет министров Беларуси [принял](https://pravo.by/document/?guid=12551&p0=C22100575&p1=1&p5=0) постановление, согласно которому подписчики «экстремистских» телеграм-каналов и чатов будут привлекаться к уголовной ответственности по статье 361-1 Уголовного кодекса как участники «экстремистского формирования». Санкция по этой статье предусматривает до семи лет лишения свободы. Позже в МВД[отчитались](https://novayagazeta.ru/articles/2021/10/14/mvd-belarusi-otchitalos-o-zavershenii-deanonimizatsii-podpischikov-telegram-kanalov-priznannykh-ekstremistskimi-news) о завершении «деанонимизации» подписчиков телеграм-каналов, признанных экстремистскими.
+
+Уже через две недели после принятия постановления стало известно, что белорусские силовики за день[задержали](https://novayagazeta.ru/articles/2021/10/26/v-belarusi-za-den-zaderzhali-24-cheloveka-za-podpisku-na-ekstremistskie-telegram-kanaly-news) 24 человека за подписку на телеграм-каналы, признанные властями экстремистскими.

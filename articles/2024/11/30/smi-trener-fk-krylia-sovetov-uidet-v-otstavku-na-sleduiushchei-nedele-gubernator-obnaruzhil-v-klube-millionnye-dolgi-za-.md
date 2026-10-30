@@ -1,0 +1,20 @@
+---
+source: "https://novayagazeta.ru/articles/2024/11/30/smi-trener-fk-krylia-sovetov-uidet-v-otstavku-na-sleduiushchei-nedele-gubernator-obnaruzhil-v-klube-millionnye-dolgi-za-vziatki-sudiam-news"
+title: "СМИ: тренер ФК «Крылья Советов» уйдет в отставку на следующей неделе. Губернатор обнаружил в клубе миллионные долги за «взятки судьям»"
+subtitle: ""
+date: "2024-11-30T09:54:00Z"
+authors: ""
+rubric: "Спорт"
+genre: "Новости"
+tags: ""
+---
+
+# СМИ: тренер ФК «Крылья Советов» уйдет в отставку на следующей неделе. Губернатор обнаружил в клубе миллионные долги за «взятки судьям»
+
+Портал «Чемпионат» со ссылкой на анонимные источники сообщил [о скорой отставке тренера](https://www.championat.com/football/news-5806778-igor-osinkin-pokinet-krylya-sovetov-na-sleduyuschej-nedele.html) самарского ФК «Крылья Советов» Игоря Осинькина. Якобы «принципиальное решение» об этом уже принято, и Осинькин покинет должность в начале декабря.
+
+Днем ранее губернатор Самарской области Вячеслав Федорищев [объявил](https://novayagazeta.ru/articles/2024/11/29/vskryvshii-millionnye-dolgi-na-vziatki-futbolnym-sudiam-gubernator-obratilsia-v-pravookhranitelnye-organy-news), что уже передал правоохранительным органам материалы о коррупции в региональном спорте, а конкретно — сведения о долгах «Крыльев» в 36 миллионов рублей якобы «на взятки судьям».
+
+Новость о долгах такого рода у клуба, который частично финансируется из областного правительства, [вызвала скандал в футбольном сообществе](https://novayagazeta.ru/articles/2024/11/26/samarskii-gubernator-krylia-sovetov-zadolzhali-36-mln-na-vziatki-sudiam-futbolnye-vlasti-prizvali-k-rassledovaniiu-ministr-sporta-v-kurse-news) — Федорищев сообщил о ней в своем телеграм-канале. Российские футбольные власти призвали к расследованию, а Федорищева — к тому, чтобы передать ценную информацию о коррупции в органы, что он и сделал.
+
+Осинькин тренирует «Крылья» с 2020 года, при нем сезон 20-21 был успешный, а затем — уже нет.

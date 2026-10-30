@@ -1,0 +1,24 @@
+---
+source: "https://novayagazeta.ru/articles/2021/12/15/prints-charlz-posviatil-semikratnogo-chempiona-formuly-1-liusa-khemiltona-v-rytsari-news"
+title: "Принц Чарльз посвятил семикратного чемпиона «Формулы-1» Льюса Хэмильтона в рыцари"
+subtitle: ""
+date: "2021-12-15T14:13:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "великобритания, принц чарльз, формула 1, рыцари, da"
+---
+
+# Принц Чарльз посвятил семикратного чемпиона «Формулы-1» Льюса Хэмильтона в рыцари
+
+Принц Уэльский Чарльз посвятил в рыцари британского автогонщика «Формулы-1», пилота команды Mercedes Льюиса Хэмильтона. Об этом [сообщает](https://www.independent.co.uk/sport/motor-racing/formula1/f1-news-live-hamilton-verstappen-mercedes-b1976365.html) британское интернет-издание The Independent.
+
+Церемония состоялась в Виндзорском замке. Гонщик посетил ее вместе со своей матерью.
+
+12 декабря [завершился](https://novayagazeta.ru/articles/2021/12/12/gonshchik-red-bulla-maks-ferstappen-stal-chempionom-formuly-1-news) сезон «Формулы-1» в Абу-Даби. Последнюю гонку выиграл пилот команды «Ред Булл», голландец Макс Ферстаппен, став чемпионом мира впервые. Его соперник Льюис Хэмильтон, который имел равное количество очков с Ферстаппеном, занял вторую позицию. Команда Mercedes подала апелляцию.
+
+**Читайте также:** https://novayagazeta.ru/articles/2020/05/21/85477-rytsar-na-hodunkah#
+
+На последнем круге Ферстаппен обогнал пилота «Мерседеса» Льюиса Хэмилтона, с которым боролся за победу в сезоне, [отмечает](https://www.sports.ru/automoto/1104134847-formula-1-gran-pri-abu-dabi-2021.html) Sports.ru. Третьим в гонке стал испанец Карлос Сайнс («Феррари»).
+
+В прошлом году Хэмилтон [стал](https://novayagazeta.ru/articles/2020/11/15/165717-britanskiy-gonschik-lyuis-hemilton-stal-semikratnym-chempionom-formuly-1-teper-on-sravnyalsya-s-mihaelem-shumaherom) семикратным чемпионом «Формулы-1» и сравнялся по числу титулов с Михаэлем Шумахером. Хэмилтон обошел Шумахера по числу побед в гонках.

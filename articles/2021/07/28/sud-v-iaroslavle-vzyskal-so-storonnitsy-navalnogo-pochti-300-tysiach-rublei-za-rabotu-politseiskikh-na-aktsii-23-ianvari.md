@@ -1,0 +1,26 @@
+---
+source: "https://novayagazeta.ru/articles/2021/07/28/sud-v-iaroslavle-vzyskal-so-storonnitsy-navalnogo-pochti-300-tysiach-rublei-za-rabotu-politseiskikh-na-aktsii-23-ianvaria"
+title: "Суд в Ярославле взыскал со сторонницы Навального почти 300 тысяч рублей за работу полицейских на акции 23 января"
+subtitle: ""
+date: "2021-07-28T15:51:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "ng, навальный, митинги"
+---
+
+# Суд в Ярославле взыскал со сторонницы Навального почти 300 тысяч рублей за работу полицейских на акции 23 января
+
+Дзержинский районный суд Ярославля взыскал 296 тысяч рублей с бывшего координатора местного штаба Навального* Елены Лекиашвили в пользу местного управления МВД. Об этом [сообщает](https://zona.media/news/2021/07/28/yar296) «Медиазона» со ссылкой на адвоката «Апологии протеста» Аркадия Шиндяпина.
+
+Изначально управление МВД по Ярославской области подало два иска общей суммой более 500 тысяч рублей из-за работы силовиков на акции протеста 23 января.
+
+В первом с нее потребовали взыскать 495 415 рублей для возмещения «затрат на обеспечение охраны общественного порядка в связи с организацией несогласованного публичного мероприятия». Во втором иске представитель Центра хозяйственного и сервисного обеспечения УМВД по той же причине потребовал взыскать с Лекиашвили еще 14 892 рублей.
+
+После этого ведомство [сократило](https://t.me/apologia/3803) сумму иска на 40%, отказавшись раскрывать данные о работниках бюро специальных технических мероприятий и оперативно-поискового бюро, так как информация о них составляет гостайну.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/04/28/za-iznos-dubinki
+
+Ранее с требованием выплатить компенсацию за работу на митингах полиция обращалась в суд в [Кемерове](https://novayagazeta.ru/articles/2021/06/18/kemerovskie-politseiskie-potrebovali-ot-organizatorov-aktsii-v-podderzhku-navalnogo-pochti-700-tysiach-rublei-za-rabotu-v-vykhodnye), [Омске](https://novayagazeta.ru/articles/2021/05/20/v-omske-politsiia-potrebovala-so-storonnikov-navalnogo-pochti-polmilliona-rublei-za-rabotu-v-vykhodnye-na-aktsii-23-ianvaria), [Пензе](https://novayagazeta.ru/articles/2021/04/12/politsiia-penzy-potrebovala-ot-glavy-mestnogo-shtaba-navalnogo-900-tysiach-rublei-za-vyplaty-silovikam-rabotavshim-v-vykhodnoi-23-ianvaria), [Челябинске](https://novayagazeta.ru/articles/2021/04/28/za-iznos-dubinki) и [Кирове](https://ovdinfo.org/express-news/2021/06/16/kirovskaya-policiya-hochet-okolo-300-tysyach-rubley-ot-aktivistov-iz-za).
+
+#### *Мосгорсуд признал сеть региональных штабов Навального экстремистскими структурами и запретил их деятельность на территории РФ

@@ -1,0 +1,26 @@
+---
+source: "https://novayagazeta.ru/articles/2022/03/24/advokat-sotrudnika-gu-mvd-arestovali-po-delu-o-voennykh-feikakh-iz-za-razgovorov-po-telefonu-news"
+title: "Адвокат: сотрудника ГУ МВД арестовали по делу о «военных фейках» из-за разговоров по телефону"
+subtitle: ""
+date: "2022-03-24T16:07:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "уголовное дело, адвокат, дискредитация ВС РФ, em"
+---
+
+# Адвокат: сотрудника ГУ МВД арестовали по делу о «военных фейках» из-за разговоров по телефону
+
+Уголовное дело о распространении «фейков» про действия Вооруженных сил РФ (п. «д» ч. 2 ст. 207.3 УК) против техника запасного пункта управления столичного главка МВД Сергея Клокова возбудили из-за телефонных разговоров, [сообщил](https://t.me/nefotografiya/40) адвокат Даниил Берман.
+
+Из опубликованных им документов следует, что 9 марта Клоков из Москвы позвонил «неустановленным лицам» в Крыму и Подмосковье. Таким образом, говорится в документе, он «публично распространил под видом достоверных сообщений заведомо ложную информацию» о действиях Вооруженных сил РФ. Защитник подчеркнул, что разрешения суда на прослушку Клокова в деле нет.
+
+Пресненский суд Москвы 22 марта [арестовал](https://novayagazeta.ru/articles/2022/03/22/sud-arestoval-na-dva-mesiatsa-obviniaemogo-v-rasprostranenii-feikov-o-deistviiakh-rossiiskoi-armii-news) Клокова на два месяца.
+
+Следственный комитет [возбудил](https://novayagazeta.ru/articles/2022/03/16/sk-vozbudil-delo-o-feikakh-pro-deistviia-rossiiskoi-armii-protiv-blogera-veroniki-belotserkovskoi-news#) уголовное дело о «фейках» про действия российской армии и против блогера Вероники Белоцерковской. Фигурантом дела по ст. 207.3 УК также [стал](https://novayagazeta.ru/articles/2022/03/22/sk-vozbudil-ugolovnoe-delo-v-otnoshenii-publitsista-aleksandra-nevzorova-news) публицист Александр Невзоров.
+
+Первые дела по аналогичной статье [возбудили](https://novayagazeta.ru/articles/2022/03/16/v-tomskoi-oblasti-vozbudili-pervye-dve-dela-o-feikakh-pro-deistviia-rossiiskikh-voennykh-news) против жителя Томска и жительницы Северска. Им избрали меру пресечения в виде запрета определенных действий.
+
+**Читайте также:** https://novayagazeta.ru/articles/2022/03/04/i-vse-ravno-15-let-eto-feik
+
+Закон о внесении в УК статьи 207.3 — о публичном распространении «фейков» о российской армии — президент России Владимир Путин [подписал](https://novayagazeta.ru/articles/2022/03/04/putin-podpisal-zakon-ob-ugolovnoi-otvetstvennosti-za-feiki-o-rossiiskoi-armii-news) в начале марта. По ней можно получить до 10 лет лишения свободы, если это повлекло «тяжкие последствия» — до 15.

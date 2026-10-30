@@ -1,0 +1,22 @@
+---
+source: "https://novayagazeta.ru/articles/2021/07/05/vpervye-s-2018-tsena-nefti-vrent-prevysila-77-dollarov-za-barrel"
+title: "Впервые с 2018 цена нефти Brent превысила 77 долларов за баррель"
+subtitle: ""
+date: "2021-07-05T17:26:00Z"
+authors: ""
+rubric: "Экономика"
+genre: "Новости"
+tags: "нефть, brent, цены, sn"
+---
+
+# Впервые с 2018 цена нефти Brent превысила 77 долларов за баррель
+
+Стоимость нефти марки Brent поднялась выше 77 долларов за баррель впервые с 2018 года. Это [следует](https://www.theice.com/index) из данных Лондонской биржи ICE.
+
+Речь идет о фьючерсе с поставкой в сентябре. На 20:15 мск баррель нефти Brent торгуется по цене 77,04 доллара — это на 1,19% выше, чем накануне при закрытии торгов.
+
+ТАСС [отмечает](https://tass.ru/ekonomika/11827997), что рост цены произошел на фоне сообщений об отмене встречи министров стран ОПЕК+ — она должна была пройти сегодня. Одновременно с этим в цене растут и другие марки. Так, WTI подорожала до 76,2 доллара за баррель — это рекорд с октября 2018 года.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/07/05/lishnie-nogi
+
+Ранее, 22 июня, цена Brent [превысила](https://novayagazeta.ru/articles/2021/06/22/stoimost-nefti-brent-podnialas-vyshe-75-dollarov-za-barrel-vpervye-za-dva-goda) 75 долларов (впервые с апреля 2019 года), а 18 мая она впервые с марта этого года [преодолела](https://novayagazeta.ru/articles/2021/05/18/tsena-nefti-marki-brent-vpervye-s-15-marta-prevysila-otmetku-v-70-dollarov-za-barrel) отметку в 70 долларов.

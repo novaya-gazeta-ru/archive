@@ -1,0 +1,22 @@
+---
+source: "https://novayagazeta.ru/articles/2021/06/26/v-ispanii-otmenili-obiazatelnoe-noshenie-masok-na-ulitse"
+title: "В Испании отменили обязательное ношение масок на улице"
+subtitle: ""
+date: "2021-06-26T10:14:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "испания, коронавирус, em"
+---
+
+# В Испании отменили обязательное ношение масок на улице
+
+В Испании с сегодняшнего дня отменяется обязательное ношение масок на улице. Об этом [пишет](https://english.elpais.com/society/2021-06-25/where-will-and-wont-it-be-mandatory-to-wear-a-face-mask-in-spain-from-saturday.html) El País.
+
+Теперь в Испании необязательно носить маски на открытом воздухе при соблюдении дистанции в 1,5 метра. При этом в оживленных местах или на крупных мероприятиях ношение масок остается обязательным. В помещениях масочный режим тоже сохраняется.
+
+По [данным](https://coronavirus.jhu.edu/map.html) университета Хопкинса, в Испании за время пандемии зарегистрировали почти 3,8 млн случаев заражения коронавирусом. Скончались от инфекции в стране свыше 80 тысяч человек.
+
+В Израиле накануне [вернули](https://novayagazeta.ru/articles/2021/06/25/v-izraile-vernuli-masochnyi-rezhim-iz-za-ukhudsheniia-situatsii-s-koronavirusom) масочный режим, отмененный 15 июня. Это произошло на фоне роста числа заражений коронавирусом в стране.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/06/18/izrail-pobedil-covid-19

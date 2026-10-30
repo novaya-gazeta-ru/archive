@@ -1,0 +1,26 @@
+---
+source: "https://novayagazeta.ru/articles/2021/11/08/sud-oshtrafoval-google-i-telegram-na-2-i-4-mln-rublei-za-neudalenie-zapreshchennoi-informatsii-news"
+title: "Суд оштрафовал Google и Telegram на 2 и 4 млн рублей за неудаление запрещенной информации"
+subtitle: ""
+date: "2021-11-08T13:55:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "суд, соцсети, штраф, da, неудаление информации"
+---
+
+# Суд оштрафовал Google и Telegram на 2 и 4 млн рублей за неудаление запрещенной информации
+
+Мировой суд Москвы оштрафовал Google и Telegram на два и четыре миллиона рублей соответственно за неудаление запрещенной информации. Об этом [сообщает](https://www.interfax.ru/russia/801799) «Интерфакс» со ссылкой на пресс-службу Таганского суда.
+
+Обе компании признали виновными по ч. 2 ст. 13.41 КоАП. Рассмотрение еще двух аналогичных протоколов по отношению к Google отложено на 29 ноября.
+
+За неудаление запрещенной информации компаниям грозит штраф от 800 тысяч до четырех миллионов рублей. За повторное нарушение установлен оборотный штраф от 1/10 до 1/5 от годовой выручки по ч. 5 ст. 13.41 КоАП.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/09/09/po-doroge-v-shatdaun
+
+По данным Роскомнадзора, суды в России с января по ноябрь [оштрафовали](https://novayagazeta.ru/articles/2021/11/01/sudy-v-rossii-s-nachala-goda-oshtrafovali-internet-kompanii-na-187-mln-rublei-za-neudalenie-kontenta-news) интернет-компании более чем на 187 млн рублей за неудаление контента. Больше всего штрафов накопилось у компании Facebook — 70 млн рублей. Twitter за 10 месяцев оштрафовали на 38,4 млн рублей, Telegram — на 35 млн рублей, а Google — на 32,5 млн рублей. TikTok, «Одноклассники» и «Вконтакте» получили штрафы на 4,1, 4 и 3 млн рублей соответственно.
+
+В сентябре Роскомнадзор [сообщал](https://novayagazeta.ru/articles/2021/10/18/roskomnadzor-s-nachala-goda-v-sotssetiakh-udaleno-bolee-400-tys-zapreshchennykh-materialov-30-iz-nikh-po-zhalobam-grazhdan-news), что за девять месяцев 2021 в соцсетях было удалено 166 тыс. запрещенных материалов в категориях «наркотики», «пропаганда самоубийства» и «детская порнография». Это на 42% больше аналогичного периода 2020 года.
+
+Ранее РКН впервые [потребовал](https://novayagazeta.ru/articles/2021/10/27/roskomnadzor-snova-potreboval-primenit-k-facebook-oborotnyi-shtraf-za-neudalenie-nezakonnogo-kontenta-news) применить к Google и [Facebook](https://novayagazeta.ru/articles/2021/10/05/roskomnadzor-vpervye-potreboval-primenit-k-facebook-oborotnyi-shtraf-news) оборотный штраф за неудаление «незаконного» контента. Новый штраф может составить в размере от 5% до 10% годовой выручки, его точную сумму определит суд.

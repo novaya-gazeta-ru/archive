@@ -1,0 +1,26 @@
+---
+source: "https://novayagazeta.ru/articles/2021/11/21/literaturnyi-kritik-marietta-chudakova-skonchalas-ot-koronavirusa-na-85-m-godu-zhizni-news"
+title: "Литературный критик Мариэтта Чудакова скончалась от коронавируса на 85-м году жизни"
+subtitle: ""
+date: "2021-11-21T09:29:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: ""
+---
+
+# Литературный критик Мариэтта Чудакова скончалась от коронавируса на 85-м году жизни
+
+Литературный критик, писательница и общественный деятель Мариэтта Чудакова скончалась от коронавируса в реанимации больницы в Коммунарке. Об этом [сообщила](https://www.facebook.com/mascia.chudakova/posts/3135011803453677) ее дочь в фейсбуке.
+
+*Фото: Илья Щуров / Wikipedia Commons*
+
+Время и место прощания с Мариэттой Чудаковой ее дочь объявит позже. Писательнице было 84 года.
+
+Литературовед находилась на лечении в коронавирусном госпитале в связи с инфекцией. Два дня назад ее дочь [сообщила](https://www.facebook.com/mascia.chudakova/posts/3133871600234364?__cft__[0]=AZUuroAqteVoy8MCVMBwgf1j6SO7xSOtwaNKCaSscitAn6kXG0dOJAvd7d9mNtHJ1aYazUnteoi6XdewyMPj-ddfcP8jjMXqeo3SINPjymlHOa5QZkgsQVLHAMI3oBEQnRQ&__tn__=%2CO%2CP-R) в фейсбуке, что состояние Чудаковой ухудшается. «Легкие справляются плохо. Детали писать не буду. И так тошно», — написала она.
+
+Мариэтта Чудакова являлась автором шести книг и 200 научных работ по истории литературы ХХ века и истории филологии. Она была доктором филологических наук, с 1985 года преподавала в Литературном институте имени Максима Горького, являлась членом Союза писателей России и Европейской академии, а также входила в Президентский совет в 1990-х годах.
+
+**Читайте также:** https://novayagazeta.ru/articles/2011/01/17/7320-marietta-chudakova-nenavist-k-postupku
+
+Также Чудакова выступала в поддержку осужденного историка Юрия Дмитриева, была одной из заявителей [шествия](https://novayagazeta.ru/articles/2019/09/26/155634-moskovskaya-meriya-ne-soglasovala-shestvie-bessmertnyy-gulag) «Бессмертный ГУЛАГ» и [акции](https://novayagazeta.ru/articles/2017/05/06/131371-v-godovschinu-aktsii-6-maya-na-bolotnoy-ploschadi-oppozitsiya-vyydet-na-prospekt-saharova), посвященной годовщине разгона демонстрации на Болотной площади, а также [подписала](https://novayagazeta.ru/articles/2016/01/20/67108-ramzan-kadyrov-dolzhen-byt-nemedlenno-otpravlen-v-otstavku) обращение о том, что глава Чечни Рамзан Кадыров должен быть отправлен в отставку.

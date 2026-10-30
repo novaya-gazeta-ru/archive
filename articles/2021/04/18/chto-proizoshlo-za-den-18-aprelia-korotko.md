@@ -1,0 +1,22 @@
+---
+source: "https://novayagazeta.ru/articles/2021/04/18/chto-proizoshlo-za-den-18-aprelia-korotko"
+title: "Что произошло за день 18 апреля. Коротко"
+subtitle: ""
+date: "2021-04-18T16:30:00Z"
+authors: "«Новая газета» (редакция)"
+rubric: "Политика"
+genre: "Новости"
+tags: "главное, навальный, pdf, чехия, мишкин и чепига, боширов и петров, kn, украина, британия, черное море"
+---
+
+# Что произошло за день 18 апреля. Коротко
+
+- **Соратники Алексея Навального анонсировали новые уличные акции на фоне ухудшения состояния политика в колонии.** Протесты решили провести без подачи уведомления **в тот же день, когда Владимир Путин запланировал прочитать послание Федеральному собранию** в Манеже. Вместе с тем врачи Навального лично [приехали](https://novayagazeta.ru/articles/2021/04/18/vrachi-navalnogo-lichno-priekhali-v-ik-2-v-pokrove-administratsiia-otkazalas-soglasovat-ikh-dopusk) в ИК-2 Покрова, но администрация отказала им в допуске к пациенту. Помимо российских медиков, [региональных депутатов](https://novayagazeta.ru/articles/2021/04/18/rossiiskie-deputaty-obratilis-k-putinu-s-trebovaniem-dopustit-k-navalnomu-vrachei) и всемирно известных деятелей культуры за Навального [вступился](https://novayagazeta.ru/articles/2021/04/18/glava-nemetskogo-obshchestva-kardiologov-potreboval-perevesti-navalnogo-v-otdelenie-intensivnoi-terapii) ведущий кардиолог Германии Штефан Бальдус. Он считает, что Алексея необходимо перевести в реанимацию.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/04/17/iaroslav-ashikhmin-nash-patsient-mozhet-umeret-v-liuboi-moment
+
+- **Власти Чехии могут [не допустить](https://novayagazeta.ru/articles/2021/04/18/vitse-premer-chekhii-rossiia-vriad-li-smozhet-uchastvovat-v-stroitelstve-aes-dukovany-posle-diplomaticheskogo-skandala) Росатом до участия в тендере на строительство нового энергоблока АЭС «Дукованы».** Вице-премьер и глава Минпромторга страны Карел Гавличек заявил, что отказ от услуг России может стать «последствием» шпионского скандала с высылкой 18 российских дипломатов, которых заподозрили в работе на разведку. Чешские власти считают, что спецслужбы РФ причастны к взрыву на военном складе в деревне Врбетице в 2014 году. По данным полиции Чехии, незадолго до взрыва в страну въехали предполагаемые сотрудники ГРУ Чепига и Мишкин, которых также обвиняют в отравлении Сергея Скрипаля в Британии. - Вице-премьер РФ Юрий Борисов [объявил](https://novayagazeta.ru/articles/2021/04/18/rossiia-reshila-otkazatsia-ot-mks-s-2025-goda-i-sozdat-sobstvennuiu-orbitalnuiu-stantsiiu) о **выходе страны из проекта МКС с 2025 года**, так как техническое состояние космической станции оставляет желать лучшего. По словам вице-премьера, Россия создаст **новую национальную орбитальную станцию**. При этом **Роскосмос заявил, что решением еще не принято**, а МКС точно проработает до 2024 года. Переговоры о выходе из проекта и новых формах взаимодействия еще не начались. - **Великобритания [запланировала](https://novayagazeta.ru/articles/2021/04/18/the-times-velikobritaniia-napravit-v-chernoe-more-voennye-korabli-v-znak-solidarnosti-s-ukrainoi-i-stranami-nato) проход миноносца и фрегата при поддержке авианосца HMS Queen Elizabeth в Черное море** на фоне напряженности у границ Украины. Источники The Sunday Times сообщили, что так Лондон выражает солидарность с Киевом. Ранее США отменили запланированный заход своих кораблей в регион.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/04/16/chto-s-voprosom-vstupleniia-ukrainy-v-nato
+
+- **Один из основателей компании Adobe и разработчик формата PDF Чарльз Гешке [умер](https://novayagazeta.ru/articles/2021/04/18/umer-odin-iz-osnovatelei-kompanii-adobe-i-razrabotchik-formata-pdf-charlz-geshke) на 82-м году жизни**. Он начал карьеру в компании Xerox, а затем, в 1982 году, с коллегой Джоном Уорноком основал компанию Adobe.

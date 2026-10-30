@@ -1,0 +1,28 @@
+---
+source: "https://novayagazeta.ru/articles/2022/01/14/vlasti-avstralii-povtorno-annulirovali-vizu-serbskogo-tennisista-novaka-dzhokovicha-news"
+title: "Власти Австралии повторно аннулировали визу сербского теннисиста Новака Джоковича"
+subtitle: ""
+date: "2022-01-14T07:20:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "теннис, большой теннис, австралия, джокович, ai"
+---
+
+# Власти Австралии повторно аннулировали визу сербского теннисиста Новака Джоковича
+
+Министр иммиграции Австралии Алекс Хоук лично принял решение повторно аннулировать визу сербского теннисиста Новака Джоковича. Об этом [сообщает](https://www.theage.com.au/sport/tennis/novak-djokovic-visa-saga-live-updates-immigration-minister-still-yet-to-make-decision-as-serbian-tennis-star-s-2022-australian-open-campaign-remains-in-limbo-20220114-p59o7i.html) издание The Age.
+
+«Для принятия этого решения я тщательно изучил информацию, предоставленную мне Министерством внутренних дел, пограничной службой Австралии и Джоковичем. Правительство твердо намерено защищать границы Австралии, особенно в связи с пандемией COVID-19», — заявил политик.
+
+Защита Джоковича планирует обжаловать решение в ближайшее время. Если дело не удастся выиграть в суде, то теннисиста депортируют из страны.
+
+Ранее спортсмен [признался](https://novayagazeta.ru/articles/2022/01/12/dzhokovich-priznalsia-v-narushenii-karantina-pri-polozhitelnom-teste-na-covid-19-i-predostavlenii-lozhnykh-dannykh-news) в том, что предоставил ложные данные в туристической декларации для въезда в Австралию. Он назвал наличие неточностей в своем заявлении ненамеренной ошибкой. Именно проблемы с документами стали причиной того, что 5 января Джоковича [задержали](https://novayagazeta.ru/articles/2022/01/05/tennisista-dzhokovicha-ne-pustili-na-australia-open-soslavshis-na-oshibku-s-vizoi-ranee-bolelshchiki-vozmushchalis-ego-dopusku-do-turnira-bez-privivki-news) и аннулировали его визу в первый раз.
+
+Несмотря на это накануне теннисиста [включили](https://novayagazeta.ru/articles/2022/01/13/zaderzhannogo-po-prilete-v-melburn-serbskogo-tennisista-novaka-dzhokovicha-vkliuchili-v-zherebevku-australian-open-news) в жеребьевку Открытого чемпионата Австралии (Australia Open). В первом круге он должен был сыграть с соотечественником Миомиром Кецмановичем.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/12/29/lasitskene-italiia-i-russkie-raketki
+
+Ранее Джокович получил разрешение участвовать в Открытом чемпионате Австралии (Australia Open) без прививки от COVID-19. Информация о том, что он поедет на соревнование без вакцины, вызвала волну негодования в соцсетях. По правилам чемпионата все участники должны быть полностью вакцинированы от коронавируса.
+
+Новак Джокович — первая ракетка мира в одиночном разряде, 20-кратный победитель турниров Большого шлема. Открытый чемпионат Австралии по теннису — один из четырех турниров Большого шлема — пройдет 17-30 января в Мельбурне.

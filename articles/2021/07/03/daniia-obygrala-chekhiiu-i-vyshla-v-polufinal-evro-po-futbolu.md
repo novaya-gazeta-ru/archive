@@ -1,0 +1,30 @@
+---
+source: "https://novayagazeta.ru/articles/2021/07/03/daniia-obygrala-chekhiiu-i-vyshla-v-polufinal-evro-po-futbolu"
+title: "Дания обыграла Чехию и вышла в полуфинал Евро по футболу"
+subtitle: ""
+date: "2021-07-03T17:55:00Z"
+authors: "«Новая газета» (редакция)"
+rubric: "Спорт"
+genre: "Новости"
+tags: ""
+---
+
+# Дания обыграла Чехию и вышла в полуфинал Евро по футболу
+
+Сборная Дании обыграла Чехию в матче 1/4 финала чемпионата Европы по футболу со счетом 2:1. Игра проходила в Баку.
+
+Счет был открыт на 5-ой минуте: после углового датчанин Томас Дилейни из центра штрафной пробил головой в левый угол.
+
+В конце первого тайма датчане увеличили свое преимущество: Мэле Дольберг отправил мяч в ворота чехов, подставив ногу после длинной передачи с левого фланга.
+
+Через несколько минут после перерыва Чехия сократила отставание: Патрик Шик касанием отправил мяч в угол, получив передачу в штрафной. Этот гол позволил нападающему сравниться по забитым мячам на турнире с португальским нападающим Криштиану Роналду, который забил пять мячей и занимал первое место в таблице бомбардиров. \
+
+Сборная Дании сыграет с победителем матча Украина-Англия.
+
+В 1/8 Дания [обыграла](https://novayagazeta.ru/articles/2021/06/26/sbornaia-danii-razgromila-uels-i-vyshla-v-1-4-evro-po-futbolu) Уэльс, [Чехия](https://novayagazeta.ru/articles/2021/06/27/chekhiia-obygrala-niderlandy-i-vyshla-v-1-4-evro-po-futbolu) — Нидерланды. Дания вышла в четвертьфинал Евро впервые с 2004 года, а в полуфинале сыграет впервые с 1992 года — тогда датчане выиграли турнир.
+
+Ранее Дания [обыграла](https://novayagazeta.ru/articles/2021/06/21/rossiiskie-futbolisty-proigrali-danii-i-ne-vyshli-v-plei-off-evro) Россию со счетом 4:1 в последнем матче группового турнира, что позволило скандинавской команде выйти в плей-офф турнира. Россия заняла последнее место в группе.
+
+Во время матча между Данией и Финляндией датский полузащитник Кристиан Эриксен [потерял](https://novayagazeta.ru/articles/2021/06/12/futbolist-sbornoi-danii-kristian-eriksen-poterial-soznanie-v-matche-evro-protiv-finliandii-ego-unesli-s-polia-match-prervan-fotografiia) сознание и был госпитализирован. Позже [выяснилось](https://novayagazeta.ru/articles/2021/06/13/datskii-futbolist-eriksen-perezhil-klinicheskuiu-smert-vo-vremia-matcha-s-finskoi-sbornoi), что Эриксен пережил клиническую смерть.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/06/12/futbolist-sbornoi-danii-kristian-eriksen-poterial-soznanie-v-matche-evro-protiv-finliandii-ego-unesli-s-polia-match-prervan-fotografiia

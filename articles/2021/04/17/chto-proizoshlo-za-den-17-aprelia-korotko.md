@@ -1,0 +1,24 @@
+---
+source: "https://novayagazeta.ru/articles/2021/04/17/chto-proizoshlo-za-den-17-aprelia-korotko"
+title: "Что произошло за день 17 апреля. Коротко"
+subtitle: ""
+date: "2021-04-17T17:00:00Z"
+authors: "«Новая газета» (редакция)"
+rubric: "Общество"
+genre: "Новости"
+tags: "nt, новосибирск, Моргенштерн, фсб, украина"
+---
+
+# Что произошло за день 17 апреля. Коротко
+
+- **Сотрудники ФСБ [задержали ](https://novayagazeta.ru/articles/2021/04/17/v-peterburge-fsb-zaderzhala-konsula-ukrainy-za-poluchenie-zakrytoi-informatsii-iz-baz-pravookhranitelnykh-organov)консула Украины в Петербурге Александра Сосонюка** по подозрению в получении закрытой информации из баз российских правоохранительных органов. Позже Россия объявила, что высылает украинского консула из-за нежелательности его пребывания в стране. В ответ Украина заявила о намерении выслать из страны сотрудника российского посольства в Киеве. - **Cупруга королевы Великобритании Елизаветы II принца Филиппа [похоронили ](https://novayagazeta.ru/articles/2021/04/17/v-vindzore-nachalas-tseremoniia-proshchaniia-s-muzhem-elizavety-ii-printsem-filippom-on-skonchalsia-9-aprelia-ne-dozhiv-dvukh-mesiatsev-do-100-let)в часовне святого Георгия в Виндзорском замке.** Из-за пандемии коронавируса на церемонии прощания присутствовали крайне ограниченный круг людей — всего 30 челове, в основном родственники принца. Принц Филипп скончался 9 апреля, не дожив двух месяцев до своего 100-летия. В стране был объявлен восьмидневный траур.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/04/11/most-v-budushchee
+
+- **Против рэпера Моргенштерна [начали ](https://novayagazeta.ru/articles/2021/04/17/tass-protiv-repera-morgenshterna-nachali-administrativnoe-proizvodstvo-o-propagande-narkotikov-v-klipe-rozovoe-vino-2)административное производство о пропаганде наркотиков в клипе «Розовое вино-2» и Family.** К силовикам с жалобой на рэпера обратился бывший депутат Госдумы от партии ЛДПР Дмитрий Носов. Теперь музыканту грозит штраф до одного миллиона рублей.
+
+**Читайте также:** https://novayagazeta.ru/articles/2020/12/18/88438-morgen-ne-guten
+
+- **Суд в Новосибирске [арестовал ](https://novayagazeta.ru/articles/2021/04/17/sud-v-novosibirske-arestoval-zhurnalista-gotovivshego-rassledovanie-o-sviaziakh-mestnykh-chinovnikov-s-kriminalom)журналиста Николая Сальникова, готовившего расследование о связях местных чиновников с криминалом**. Вместе с Сальниковым суд арестовал бизнесмена и экс-кандидата в мэры города Сергея Проничева. Обоих задержали два дня назад, против них возбудили уголовное дело о мошенничестве. - **Сборная России впервые [выиграла ](https://www.sport-interfax.ru/761783)командный Чемпионат мира по фигурному катанию**, который проходил в японской Осаке. Второе и третье места заняли сборная США и Японии.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/04/17/vziali-zoloto-organizovannoi-gruppoi-lits

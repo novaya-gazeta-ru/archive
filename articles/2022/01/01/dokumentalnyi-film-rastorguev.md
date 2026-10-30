@@ -1,0 +1,16 @@
+---
+source: "https://novayagazeta.ru/articles/2022/01/01/dokumentalnyi-film-rastorguev"
+title: "Документальный фильм «Расторгуев»"
+subtitle: "Весь день 2 января смотрите на сайте «Новой газеты». Наш новогодний фестиваль открыт"
+date: "2022-01-01T21:07:00Z"
+authors: ""
+rubric: "Культура"
+genre: "Анонс"
+tags: ""
+---
+
+# Документальный фильм «Расторгуев»
+
+*Весь день 2 января смотрите на сайте «Новой газеты». Наш новогодний фестиваль открыт*
+
+https://novayagazeta.ru/articles/2021/12/27/smotrite-dok-afisha-filmov-2-12-ianvaria-na-saite-novoi?utm_source=anons

@@ -1,0 +1,19 @@
+---
+source: "https://novayagazeta.ru/articles/2020/08/30/86890-blizkiy-vysotskiy"
+title: "Близкий Высоцкий"
+subtitle: "Подкаст «Настоящее прошлое». Гость — поэт Игорь Кохановский"
+date: "2020-08-30T16:30:00Z"
+authors: "Олег Хлебников (ведущий рубрики «Настоящее прошлое»)"
+rubric: "Культура"
+genre: "Комментарий"
+tags: "высоцкий, хлеб подкаст"
+---
+
+# Близкий Высоцкий
+
+*Подкаст «Настоящее прошлое». Гость — поэт Игорь Кохановский*
+
+> ### Слушайте, где удобно\
+>  **Apple Podcasts || Google Podcasts || VK подкасты || Soundcloud || Яндекс.Музыка || Castbox**
+
+**link:** https://novayagazeta.ru/articles/2020/07/25/86410-neuzheli-takoy-ya-vam-nuzhen-posle-smerti

@@ -1,0 +1,24 @@
+---
+source: "https://novayagazeta.ru/articles/2021/12/12/v-iaroslavle-zaderzhali-bolelshchikov-moskovskogo-tsska-vo-vremia-matcha-kkhl-news"
+title: "В Ярославле задержали болельщиков московского ЦСКА во время матча КХЛ"
+subtitle: ""
+date: "2021-12-12T17:22:00Z"
+authors: ""
+rubric: "Спорт"
+genre: "Новости"
+tags: "nt, хоккей, цска, задержания"
+---
+
+# В Ярославле задержали болельщиков московского ЦСКА во время матча КХЛ
+
+В Ярославле полиция задержала болельщиков московского ЦСКА, приехавших на матч Континентальной хоккейной лиги (КХЛ) с ярославским «Локомотивом». Об этом [пишет](https://news.sportbox.ru/Vidy_sporta/Hokkej/spbnews_NI1454932_Policija_zaderzhala_neskolkih_bolelshhikov_CSKA_na_matche_KKhL_v_Jaroslavle) Sportbox.ru со ссылкой на корреспондента «Матч ТВ» Александр Рогулев.
+
+Телеграм-канал «OFNEWS / Новости Околофутбола» пишет, что силовики вывели четырех болельщиков с трибун «абсолютно ни за что». В сообщении отмечается, что по одной из версии болельщиков задержали за «несоблюдение масочного режима», однако «на первом видео болельщик ЦСКА, которого винтят, стоит в маске».
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/11/30/borba-za-ogon
+
+28 ноября московская полиция и ОМОН задержали более 400 болельщиков ЦСКА после матча с «Зенитом» за использование пиротехники. На многих фанатов составили протоколы по ст. 20.31 КоАП (грубое нарушение правил поведения зрителей при проведении официальных спортивных соревнований). После этого суд оштрафовал десятки болельщиков и [запретил](https://novayagazeta.ru/articles/2021/12/01/sud-na-dva-goda-zapretil-eshche-20-fanatam-tsska-poseshchat-sportivnye-meropriiatiia-posle-massovykh-zaderzhanii-na-veb-arene-news) им посещать спортивные мероприятия в течение двух лет.\
+ \
+ ЦСКА [осудил](https://twitter.com/pfc_cska/status/1465078971847122950?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet) применение пиротехники на стадионе, но подчеркнул, что «невиновные страдать не должны».
+
+Через неделю футбольные и хоккейные болельщики массово [покинули](https://novayagazeta.ru/articles/2021/12/04/futbolnye-i-khokkeinye-fanaty-ushli-s-tribun-v-znak-podderzhki-zaderzhannykh-posle-matcha-tsska-zenit-v-noiabre-news) трибуны во время нескольких матчей, выразив таким образом поддержку фанатам, задержанным после матча ЦСКА — «Зенит».

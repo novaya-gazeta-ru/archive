@@ -1,0 +1,26 @@
+---
+source: "https://novayagazeta.ru/articles/2021/12/08/istorii-ne-ostavili-ravnodushnymi-nikogo-iz-senatorov"
+title: "«Истории не оставили равнодушными никого из сенаторов»"
+subtitle: "Спикер Совета Федерации Валентина Матвиенко рассказывает, как власть в дальнейшем будет помогать людям со СМА"
+date: "2021-12-08T13:47:00Z"
+authors: "«Новая газета» (редакция)"
+rubric: "Общество"
+genre: "Комментарий"
+tags: "матвиенко, письмо, сма"
+---
+
+# «Истории не оставили равнодушными никого из сенаторов»
+
+*Спикер Совета Федерации Валентина Матвиенко рассказывает, как власть в дальнейшем будет помогать людям со СМА*
+
+*\*
+
+> **Спецвыпуск «Новой» о людях, больных сма**
+>
+> [**«Я умру, когда мне исполнится 18 лет?» Катя Мисько, 17 лет **](https://novayagazeta.ru/articles/2021/11/15/ia-umru-kogda-mne-ispolnitsia-18-let)
+>
+> [**«Хочу жить. Даже если не жить, то хотя бы существовать»**](https://novayagazeta.ru/articles/2021/11/15/ia-khochu-zhit-dazhe-esli-ne-zhit-to-khotia-by-sushchestvovat) [**Игорь Вершинин, 17 лет**](https://novayagazeta.ru/articles/2021/11/15/ia-khochu-zhit-dazhe-esli-ne-zhit-to-khotia-by-sushchestvovat)
+>
+> [**«Одна рука у нас еще пока работает» Даня Шпагин, 18 лет**](https://novayagazeta.ru/articles/2021/11/15/odna-ruka-u-nas-eshche-poka-rabotaet)
+>
+> [**«Гуманность — это реклама государства» Иван Ефимчук, 18 лет **](https://novayagazeta.ru/articles/2021/11/15/gumannost-eto-reklama-gosudarstva)

@@ -1,0 +1,16 @@
+---
+source: "https://novayagazeta.ru/articles/2021/06/13/datskii-futbolist-eriksen-perezhil-klinicheskuiu-smert-vo-vremia-matcha-s-finskoi-sbornoi"
+title: "Датский футболист Эриксен пережил клиническую смерть во время матча с финской сборной"
+subtitle: ""
+date: "2021-06-13T14:30:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "футболисты, футбол, чемпионат европы, дания, финляндия"
+---
+
+# Датский футболист Эриксен пережил клиническую смерть во время матча с финской сборной
+
+Футболист сборной Дании Кристиан Эриксен пережил клиническую смерть во время вчерашнего матча с финской командой, [пишет](https://www.svt.se/sport/fotboll/beskedet-eriksens-tillstand-fortsatt-stabilt) SVT. «В какой-то момент он был мертв», — заявил врач сборной Дании по футболу Мортен Боэсен. В датской футбольной ассоциации уточнили, что сейчас состояние Эриксена стабильно. С чем связано произошедшее вчера, пока неизвестно. Дания и Финляндия почти доиграли первый тайм при счете 0:0, когда полузащитник сборной Дании Кристиан Эриксен [потерял](https://novayagazeta.ru/articles/2021/06/12/futbolist-sbornoi-danii-kristian-eriksen-poterial-soznanie-v-matche-evro-protiv-finliandii-ego-unesli-s-polia-match-prervan-fotografiia) сознание. На поле выбежали врачи и начали проводить реанимационные процедуры, затем 29-летнего футболиста унесли на носилках. Матч приостановили на несколько часов и только после того, как стало известно, что состояние Эриксена стабилизировалось, и он находится в сознании, игру решили продолжить. В итоге сборная Финляндии выиграла со счетом 1:0.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/06/12/futbolist-sbornoi-danii-kristian-eriksen-poterial-soznanie-v-matche-evro-protiv-finliandii-ego-unesli-s-polia-match-prervan-fotografiia

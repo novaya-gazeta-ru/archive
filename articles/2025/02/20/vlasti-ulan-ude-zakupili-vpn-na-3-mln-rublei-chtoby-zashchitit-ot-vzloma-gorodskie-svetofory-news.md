@@ -1,0 +1,28 @@
+---
+source: "https://novayagazeta.ru/articles/2025/02/20/vlasti-ulan-ude-zakupili-vpn-na-3-mln-rublei-chtoby-zashchitit-ot-vzloma-gorodskie-svetofory-news"
+title: "Власти Улан-Удэ закупили VPN на 3 млн рублей — чтобы защитить от взлома городские светофоры"
+subtitle: ""
+date: "2025-02-20T13:04:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: ""
+---
+
+# Власти Улан-Удэ закупили VPN на 3 млн рублей — чтобы защитить от взлома городские светофоры
+
+Администрация Улан-Удэ закупают VPN на сумму более 3 млн рублей, на госзакупку [обратило внимание](https://t.me/Baikal_People/8744) издание «Люди Байкала».
+
+В стоимость будет включено подключение центрального офиса к VPN на скорости 1000 Мбит/с. Дополнительно для него проведут интернет на скорости 150 Мбит/с стоимостью более 88 тысяч рублей.
+
+VPN нужен, чтобы защитить 87 светофоров Улан-Удэ от взлома и для удаленного управления режимом их работы.
+
+Запрет на «на «рекламу или популяризацию» средств обхода блокировок в России, к которым относятся и VPN-сервисы, вступил в силу с 1 марта 2024 года.
+
+> Роскомнадзор получил право самостоятельно принимать решение блокировать ресурсы, где описываются способы обхода ограничений.
+
+В ноябре РКН запретил любую «научную информацию» про VPN, но [разрешил](https://novayagazeta.ru/articles/2024/11/21/rkn-zapretil-nauchnuiu-informatsiiu-pro-vpn-no-razreshil-rasskazyvat-o-ego-ispolzovanii-dlia-zashchishchennogo-udalennogo-dostupa-news) такие сервисы для корпоративных целей.
+
+**Читайте также:** https://novayagazeta.ru/articles/2024/11/25/slovo-iz-trekh-bukv
+
+**Читайте также:** https://novayagazeta.ru/articles/2025/02/20/v-peterburge-ulichnye-kamery-nauchat-raspoznavat-etnicheskuiu-identichnost-lits-smolnyi-news

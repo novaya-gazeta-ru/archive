@@ -1,0 +1,24 @@
+---
+source: "https://novayagazeta.ru/articles/2022/03/16/espch-priostanovil-rassmotrenie-vsekh-zhalob-protiv-rossii-news"
+title: "ЕСПЧ приостановил рассмотрение всех жалоб против России"
+subtitle: ""
+date: "2022-03-16T17:55:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "совет европы, еспч, суды, европа, sf"
+---
+
+# ЕСПЧ приостановил рассмотрение всех жалоб против России
+
+Европейский суд по правам человека (ЕСПЧ) приостановил рассмотрение всех жалоб против России. Об этом [говорится](https://www.coe.int/en/web/portal/-/council-of-europe-suspends-russia-s-rights-of-representation#:~:text=In%20line%20with%20the%20Statute,Federation's%20armed%20attack%20on%20Ukraine.) в заявлении суда.
+
+Такое решение ЕСПЧ [принял](https://novayagazeta.ru/articles/2022/03/16/kmse-prinial-reshenie-ob-iskliuchenii-rossii-iz-soveta-evropy-v-segodniashnego-dnia-news) после того, как Комитет министров Совета Европы принял решение об исключении России из Совета Европы c сегодняшнего дня (16 марта).
+
+Глава «Агоры» Павел Чиков отметил, что Россия [стала](https://t.me/pchikov/4722) первой страной в истории Совета Европы, которую исключили из организации.
+
+15 марта глава делегации России в ПАСЕ Петр Толстой [заявил](https://t.me/petr_tolstoy/1274), что решение о выходе России из Совета Европы принято и что соответствующее письмо главы МИД Сергея Лаврова передано генсеку СЕ.
+
+**Читайте также:** https://novayagazeta.ru/articles/2022/03/16/nazad-iz-evropy
+
+На следующий день ПАСЕ единогласно [проголосовала](https://novayagazeta.ru/articles/2022/03/16/pase-edinoglasno-progolosovala-za-nemedlennyi-vykhod-rossii-iz-soveta-evropy-news) за «немедленный» выход России из Совета Европы. Как говорится в тексте заявления Ассамблеи (имеется в распоряжении «Новой газеты»), Российская Федерация «совершила грубые нарушения Устава Совета Европы, несовместимые со статусом государства-члена, и не выполняет своих обязательств перед Советом Европы».

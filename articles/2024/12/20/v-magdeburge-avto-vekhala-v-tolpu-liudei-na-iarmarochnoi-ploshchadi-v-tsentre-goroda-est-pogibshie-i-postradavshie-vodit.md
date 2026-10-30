@@ -1,0 +1,30 @@
+---
+source: "https://novayagazeta.ru/articles/2024/12/20/v-magdeburge-avto-vekhala-v-tolpu-liudei-na-iarmarochnoi-ploshchadi-v-tsentre-goroda-est-pogibshie-i-postradavshie-voditel-zaderzhan-news"
+title: "В Магдебурге авто въехала в толпу людей на ярмарочной площади в центре города. Есть погибшие и пострадавшие. Водитель задержан"
+subtitle: ""
+date: "2024-12-20T19:53:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: ""
+---
+
+# В Магдебурге авто въехала в толпу людей на ярмарочной площади в центре города. Есть погибшие и пострадавшие. Водитель задержан
+
+> **есть продолжение**
+>
+> Въехавший в толпу на ярмарке в Магдебурге уроженец Саудовской Аравии, убивший четверых, оказался сторонником немецких ультраправых — Bild. Вот, что известно о [Талебе аль-Абдулмохсене](https://novayagazeta.ru/articles/2024/12/21/vekhavshii-v-tolpu-na-iarmarke-v-magdeburge-urozhenets-saudovskoi-aravii-ubivshii-chetverykh-okazalsia-storonnikom-nemetskikh-ultrapravykh-bild-news).
+
+*Центр Магдебурга, место происшествия. Фото: dpa*
+
+Полиция не исключает, что наезд автомобиля на толпу во время вечерней рождественской ярмарки, был терактом. По неподтвержденным данным, автомобиль был темным BMW. Водитель задержан на месте происшествия, его имя неизвестно.
+
+Число пострадавших уточняется, известно, что их немало, есть и погибшие.
+
+Официальные лица, в том числе [магдебургская полиция](https://x.com/Polizei_MD/status/1870184656928219209), пока не делают заявлений о жертвах.
+
+Но со ссылкой на источники в полиции местное издание MDR говорит как минимум [об одном погибшем](https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/magdeburg/liveticker-anschlag-weihnachtsmarkt-magdeburg-100.html). А Bild все-таки [сообщил](https://www.bild.de/news/magdeburg-raste-auto-in-menschenmenge-grosseinsatz-auf-weihnachtsmarkt-6765b9fff0c2b32e8c26d02b) о более чем 20 пострадавших.
+
+Ярмарка прекратила работу, оцепленную территорию осматривает полиция, много скорых. Городские власти призвали туристов и жителей покинуть центр города.
+
+В Магдебург направился премьер-министр Саксонии Райнер Хазелофф, пишет MDR.

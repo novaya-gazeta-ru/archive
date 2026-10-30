@@ -1,0 +1,16 @@
+---
+source: "https://novayagazeta.ru/articles/2022/01/10/dokumentalnyi-film-katia-i-vasia-idut-v-shkolu"
+title: "Документальный фильм «Катя и Вася идут в школу»"
+subtitle: "Смотрите весь день 11 января в рамках новогоднего докфеста на сайте «Новой газеты»"
+date: "2022-01-10T22:34:00Z"
+authors: "«Новая газета» (редакция)"
+rubric: "Культура"
+genre: "Анонс"
+tags: ""
+---
+
+# Документальный фильм «Катя и Вася идут в школу»
+
+*Смотрите весь день 11 января в рамках новогоднего докфеста на сайте «Новой газеты»*
+
+https://novayagazeta.ru/articles/2021/12/27/smotrite-dok-afisha-filmov-2-12-ianvaria-na-saite-novoi?utm_source=anons

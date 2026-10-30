@@ -1,0 +1,25 @@
+---
+source: "https://novayagazeta.ru/articles/2025/01/31/troe-grazhdan-rossii-pogibli-v-rezultate-krusheniia-samoleta-american-airlines-v-vashingtone-mid-rf-news"
+title: "Трое граждан России погибли в результате крушения самолета American Airlines в Вашингтоне — МИД РФ"
+subtitle: ""
+date: "2025-01-31T08:03:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "авиакатастрофа, вашингтон, American Airlines, фигурное катание"
+---
+
+# Трое граждан России погибли в результате крушения самолета American Airlines в Вашингтоне — МИД РФ
+
+*Фото: ABCNews*
+
+Российские власти подтвердили смерть троих граждан страны в авиакатастрофе в столице США, [сообщила](https://t.me/MariaVladimirovnaZakharova/9710) официальный представитель МИД РФ Мария Захарова.
+
+> «В отношении еще одного человека есть понимание, что российский паспорт мог быть. Эта информация сейчас проверяется», — добавила она.
+
+Ранее СМИ [писали](https://novayagazeta.ru/articles/2025/01/30/nashi-tam-byli-na-bortu-razbivshegosia-v-vashingtone-dzheta-american-airlines-byli-figuristy-v-tom-chisle-rossiiskie-smi-news), что на борту разбившегося самолета находились чемпионы мира в составе сборной РФ в парном фигурном катании Евгения Шишкова и Вадим Наумов, а также советская фигуристка Инна Волянская.
+
+Утром в пятницу стало известно, что среди пассажиров был и бывший российский фигурист Александр Кирсанов, об этом ABC News [рассказала](https://abcnews.go.com/US/live-updates/reagan-airport-crash-live-updates-white-house-military/?id=118247845) его жена Наталья Гудина. По ее словам, она тоже должна была лететь в Национальный лагерь развития вместе с учениками своего мужа, но решила остаться в Делавере.
+
+- Александру Кирсанову было 46 лет. Он выступал в танцах на льду, представлял Россию, Азербайджан и США. После завершения карьеры в 2004 году Кирсанов сосредоточился на тренерской работе в Соединенных Штатах.
+- Самолет American Airlines [упал](https://novayagazeta.ru/articles/2025/01/30/nashi-tam-byli-na-bortu-razbivshegosia-v-vashingtone-dzheta-american-airlines-byli-figuristy-v-tom-chisle-rossiiskie-smi-news) в реку после столкновения с военным вертолетом в ночь с 29 на 30 января. На борту находились 64 человека. Президент США Дональд Трамп заявил, что в результате крушения никто не выжил.

@@ -1,0 +1,30 @@
+---
+source: "https://novayagazeta.ru/articles/2022/01/29/pervaia-raketka-mira-eshli-barti-vyigrala-v-finale-australian-open-eto-pervaia-pobeda-avstraliiki-na-chempionate-news"
+title: "Первая ракетка мира Эшли Барти выиграла в финале Australian Open. Это первая победа австралийки на чемпионате"
+subtitle: ""
+date: "2022-01-29T13:17:00Z"
+authors: ""
+rubric: "Спорт"
+genre: "Новости"
+tags: "теннис, australian open, австралия, медведев, джокович, барти, kn"
+---
+
+# Первая ракетка мира Эшли Барти выиграла в финале Australian Open. Это первая победа австралийки на чемпионате
+
+Первая ракетка мира, австралийка Эшли Барти впервые [выиграла](https://ausopen.com/match/2022-ashleigh-barty-vs-danielle-collins-ws701) Открытый чемпионат Австралии по теннису.
+
+В финале она встретилась с американкой Даниэль Коллинз — 30-й ракеткой мира. Матч в Мельбурне завершился со счетом 6:3, 7:6.
+
+До этого Барти дважды выигрывала турниры Большого шлема — Роллан Гаррос в 2018 году и Уимблдон в 2021 году.
+
+30 января в мужском финале Australian Open встретятся россиянин Даниил Медведев и испанец Рафаэль Надаль. В прошлом сезоне Медведев дошел до финала турнира, но уступил первой ракетке мира, сербу Новаку Джоковичу.
+
+В этом году Джокович проиграл суд о восстановлении австралийской визы и вынужденно покинул страну.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/12/29/lasitskene-italiia-i-russkie-raketki
+
+Место Джоковича на Australia Open занял 29-летний итальянец Сальваторе Карузо, занимающий 150-е место в рейтинге Ассоциации теннисистов-профессионалов (ATP).
+
+Проблемы Джоковича с австралийским правительством начались 5 января, когда его [задержали](https://novayagazeta.ru/articles/2022/01/05/tennisista-dzhokovicha-ne-pustili-na-australia-open-soslavshis-na-oshibku-s-vizoi-ranee-bolelshchiki-vozmushchalis-ego-dopusku-do-turnira-bez-privivki-news) и аннулировали визу из-за ошибок в документах. Позже спортсмен [признался](https://novayagazeta.ru/articles/2022/01/12/dzhokovich-priznalsia-v-narushenii-karantina-pri-polozhitelnom-teste-na-covid-19-i-predostavlenii-lozhnykh-dannykh-news), что предоставил ложные данные в туристической декларации для въезда в Австралию. Он назвал наличие неточностей в своем заявлении ненамеренной ошибкой.
+
+Несмотря на проблемы с визой теннисисту все же разрешили остаться в стране и [включили](https://novayagazeta.ru/articles/2022/01/13/zaderzhannogo-po-prilete-v-melburn-serbskogo-tennisista-novaka-dzhokovicha-vkliuchili-v-zherebevku-australian-open-news) его в жеребьевку Открытого чемпионата Австралии (Australia Open). Позже его визу аннулировали повторно, так как теннисист не был вакцинирован от COVID-19.

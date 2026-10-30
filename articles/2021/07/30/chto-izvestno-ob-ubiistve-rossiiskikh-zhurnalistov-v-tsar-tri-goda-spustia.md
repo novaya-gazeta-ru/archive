@@ -1,0 +1,30 @@
+---
+source: "https://novayagazeta.ru/articles/2021/07/30/chto-izvestno-ob-ubiistve-rossiiskikh-zhurnalistov-v-tsar-tri-goda-spustia"
+title: "Что известно об убийстве российских журналистов в ЦАР три года спустя?"
+subtitle: "Журналист «Новой газеты» Ирина Гордиенко в подкасте «Что Нового?»"
+date: "2021-07-30T16:37:00Z"
+authors: "Надежда Юрова (продюсер подкастов «Новой газеты»)"
+rubric: "Общество"
+genre: "Подкаст"
+tags: "цар, расторгуев, радченко, убийство, джемаль, пригожин, журналисты, подкаст"
+---
+
+# Что известно об убийстве российских журналистов в ЦАР три года спустя?
+
+*Журналист «Новой газеты» Ирина Гордиенко в подкасте «Что Нового?»*
+
+Три года назад, 30 июля 2018 года, в Центральноафриканской республике были убиты трое журналистов: Орхан Джемаль, Кирилл Радченко и Александр Расторгуев. ЦАР и Россия возбудили уголовные дела по факту убийств, однако результаты расследования ЦАР не опубликованы, а российский СК молчит и продлевает сроки следствия.
+
+Официальная версия — убийство бандитами с целью ограбления. Нет ни доказательств, ни результатов следствия. Зато есть два частных расследования — от РИА «ФАН» (связано со структурами Евгения Пригожина), и от центра «Досье» Михаила Ходорковского.
+
+При этом, пригожинцы утверждали, что они раскрыли дело и нашли организатора убийства, однако поймать его никак не выходит — его якобы скрывают спецслужбы. Нашему спецкору Ирине Гордиенко удалось найти этого человека и взять у него [интервью](https://novayagazeta.ru/articles/2021/07/30/besposhchadnyi-boevik).
+
+В последнем выпуске первого сезона подкаста «Что Нового?» говорим с Ириной об этой публикации, а также обо всем, что известно об убийствах на данный момент.
+
+**P.S.** Считаем важным сообщить, что Орхан Джемаль был мужем Ирины и отцом ее сына.
+
+> **Слушайте на всех платформах**
+>
+> [Soundcloud](https://soundcloud.com/novaya_gazeta/chto-izvestno-ob-ubiystve-rossiyskikh-zhurnalistov-v-tsar-tri-goda-spustya-rasskazyvaet-irina-gordienko) | [Castbox](https://castbox.fm/episode/id2805556-id409520800?) | [ВКонтакте](https://vk.com/podcast-6726778_456239683) | [Apple Podcasts](https://podcasts.apple.com/ru/podcast/%D1%87%D1%82%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE/id1510447025?i=1000530528103) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuY2FzdGJveC5mbS9ldmVyZXN0Lzc0MGZjMTc1ZDQxZjQ3ZTlhMWJmY2ViYjc0MGU0ZjAxLnhtbA/episode/YWxidW0tNzQwZmMxNzVkNDFmNDdlOWExYmZjZWJiNzQwZTRmMDEtZjdiY2RlZWQwMjA4NDFlN2I3ODE4ZjdmZTZlMzJhZjE?sa=X&ved=0CAQQ8qgGahcKEwiQrrCtkIvyAhUAAAAAHQAAAAAQAQ) | [Яндекс.Музыка](https://music.yandex.ru/album/10572799)
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/07/30/besposhchadnyi-boevik

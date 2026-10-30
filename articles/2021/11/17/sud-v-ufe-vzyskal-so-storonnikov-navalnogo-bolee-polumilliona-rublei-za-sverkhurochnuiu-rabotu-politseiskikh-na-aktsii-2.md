@@ -1,0 +1,24 @@
+---
+source: "https://novayagazeta.ru/articles/2021/11/17/sud-v-ufe-vzyskal-so-storonnikov-navalnogo-bolee-polumilliona-rublei-za-sverkhurochnuiu-rabotu-politseiskikh-na-aktsii-23-ianvaria-news"
+title: "Суд в Уфе взыскал со сторонников Навального более полумиллиона рублей за сверхурочную работу полицейских на акции 23 января"
+subtitle: ""
+date: "2021-11-17T09:11:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "ng, полицейский, мвд, акции протеста, уфа"
+---
+
+# Суд в Уфе взыскал со сторонников Навального более полумиллиона рублей за сверхурочную работу полицейских на акции 23 января
+
+Кировский районный суд Уфы удовлетворил иск местного МВД и взыскал с экс-главы штаба Навального* в Уфе Лилии Чанышевой, а также активистов Ольги Комлевой и Ильгама Янбердина 529 400,11 рублей за сверхурочную работу полицейских на акции 23 января. Об этом [сообщает](https://t.me/apologia/3875) правозащитный проект «Апология протеста».
+
+Как и в аналогичных исках, поданных полицейскими в разных городах России, суд признал активистов организаторами акции в поддержку Алексея Навального. Решение еще не вступило в законную силу и будет обжаловано.
+
+В начале этого года во многих российских городах прошли протесты в поддержку Навального. В конце сентября Демский районный суд Уфы [отказал](https://novayagazeta.ru/articles/2021/09/28/v-ufe-sud-otkazal-silovikam-v-iske-k-storonnitse-navalnogo-mvd-trebovalo-bolee-1-mln-rublei-za-rabotu-v-vykhodnye-na-aktsii-31-ianvaria-news) МВД Башкортостана в похожем иске к стороннице Навального Ольге Комлевой. Помимо Уфы, полиция потребовала выплатить компенсацию за работу на митингах в Омске, [Пензе](https://novayagazeta.ru/articles/2021/04/12/politsiia-penzy-potrebovala-ot-glavy-mestnogo-shtaba-navalnogo-900-tysiach-rublei-za-vyplaty-silovikam-rabotavshim-v-vykhodnoi-23-ianvaria), [Челябинске](https://novayagazeta.ru/articles/2021/04/28/za-iznos-dubinki), [Ярославле](https://novayagazeta.ru/articles/2021/07/28/sud-v-iaroslavle-vzyskal-so-storonnitsy-navalnogo-pochti-300-tysiach-rublei-za-rabotu-politseiskikh-na-aktsii-23-ianvaria) и других городах.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/11/15/introvert-i-ekstremist
+
+10 ноября Кировский районный суд Уфы [отправил](https://novayagazeta.ru/articles/2021/11/10/sud-otpravil-v-sizo-na-2-mesiatsa-soratnitsu-navalnogo-liliiu-chanyshevu-po-delu-ob-ekstremistskom-soobshchestve-news) соратницу Навального Лилию Чанышеву в СИЗО до 9 января по делу о создании «экстремистского сообщества» (ч. 1 ст. 282.1 УК). Чанышева в суде заявила, что у нее, «по всей видимости, ранний срок беременности». Она стала первой арестованной по «экстремистскому» делу против сторонников Навального.
+
+#### *Мосгорсуд признал «штабы Навального» экстремистской структурой и запретил их деятельность на территории РФ, внесены Минюстом в список НКО, выполняющих функцию иностранного агента

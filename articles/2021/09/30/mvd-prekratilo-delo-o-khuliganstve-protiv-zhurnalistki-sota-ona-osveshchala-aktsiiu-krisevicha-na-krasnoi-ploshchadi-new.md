@@ -1,0 +1,24 @@
+---
+source: "https://novayagazeta.ru/articles/2021/09/30/mvd-prekratilo-delo-o-khuliganstve-protiv-zhurnalistki-sota-ona-osveshchala-aktsiiu-krisevicha-na-krasnoi-ploshchadi-news"
+title: "МВД прекратило дело о хулиганстве против журналистки SOTA. Она освещала акцию Крисевича на Красной площади"
+subtitle: ""
+date: "2021-09-30T11:25:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "самусик, уголовное дело, em"
+---
+
+# МВД прекратило дело о хулиганстве против журналистки SOTA. Она освещала акцию Крисевича на Красной площади
+
+МВД прекратило уголовное дело о хулиганстве (ст. 213 УК), возбужденное против журналистки SOTA Ники Самусик после акции Павла Крисевича. Об этом [пишет](https://ovdinfo.org/express-news/2021/09/30/v-otnoshenii-zhurnalistki-sota-prekratili-ugolovnoe-delo-o-huliganstve) «ОВД-Инфо»* со ссылкой на адвоката Катерину Тертухину.
+
+Дело прекратили из-за непричастности Самусик к преступлению. Следователь МВД удовлетворил ходатайство адвоката, но отказался возвращать съемочную технику журналистки, объяснив это тем, что техника служит вещественным доказательством в процессе.
+
+Крисевич 11 июня в ходе акции против политических репрессий два раза выстрелил в воздух шумовыми патронами из охолощенного аналога пистолета Макарова на Красной площади и сымитировал выстрел в себя. Он не пострадал. Вместе с ним была задержана Самусик.
+
+После этой акции и было возбуждено дело о хулиганстве. По нему Крисевича [арестовали](https://novayagazeta.ru/articles/2021/06/13/sud-v-moskve-arestoval-aktsionista-krisevicha-iz-za-aktsii-s-pistoletom-na-krasnoi-ploshchadi) на два месяца, а Самусик [отпустили](https://novayagazeta.ru/articles/2021/06/13/v-moskve-otpustili-iz-politsii-zhurnalistku-osveshchavshuiu-aktsiiu-krisevicha-na-krasnoi-ploshchadi) без избрания меры пресечения.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/06/11/luchshe-ia-sebia-chem-oni
+
+#### **внесено Минюстом в реестр незарегистрированных объединений-«иноагентов»*

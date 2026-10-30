@@ -1,0 +1,16 @@
+---
+source: "https://novayagazeta.ru/articles/2022/01/06/dokumentalnyi-film-prazdnik"
+title: "Документальный фильм «Праздник»"
+subtitle: "Весь день 7 января смотрите на сайте «Новой газеты» в программе новогоднего фестиваля"
+date: "2022-01-06T21:06:00Z"
+authors: "«Новая газета» (редакция)"
+rubric: "Культура"
+genre: "Анонс"
+tags: ""
+---
+
+# Документальный фильм «Праздник»
+
+*Весь день 7 января смотрите на сайте «Новой газеты» в программе новогоднего фестиваля*
+
+https://novayagazeta.ru/articles/2021/12/27/smotrite-dok-afisha-filmov-2-12-ianvaria-na-saite-novoi?utm_source=anons

@@ -1,0 +1,22 @@
+---
+source: "https://novayagazeta.ru/articles/2021/09/19/rossiia-i-frantsiia-dogovorilis-o-sozdanii-rabochei-gruppy-po-sporu-o-shampanskom-news"
+title: "Россия и Франция договорились о создании рабочей группы по спору о шампанском"
+subtitle: ""
+date: "2021-09-19T07:29:00Z"
+authors: ""
+rubric: "Экономика"
+genre: "Новости"
+tags: "франция, вино, шампанское, sn"
+---
+
+# Россия и Франция договорились о создании рабочей группы по спору о шампанском
+
+Министр сельского хозяйства Франции Жюльен Денорманди и замглавы российского Минсельхоза Сергей Левин договорились о создании рабочей группы по спору о шампанском. Об этом [сообщает](https://www.reuters.com/world/europe/france-russia-plan-talks-take-fizz-out-champagne-dispute-2021-09-18/) Reuters.
+
+«Мы договорились о методах работы, чтобы прояснить новый российский винный закон и найти решение ситуации, с которой сталкивается наше шампанское», — [отчитался](https://twitter.com/J_Denormandie/status/1439211245371002881?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1439211245371002881%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https://d-40160132333173039815.ampproject.net/2109032350000/frame.html) Денорманди в своем твиттере.
+
+Спор из-за слова «шампанское» начала в начале июля, когда  президент России Владимир Путин утвердил поправки к [закон](https://novayagazeta.ru/articles/2021/07/02/moet-hennessy-predupredila-o-nevozmozhnosti-postavok-shampanskogo-v-rossiiu-iz-za-initsiativ-gosdumy-distribiutory-opasaiutsia-chto-rf-zapretit-nazyvat-vino-iz-shampani-shampanskim)у о алкогольной продукции. В нем понятие «шампанское» исключается из пунктов, в которых сейчас оно перечисляется как тождественное определению «игристое вино».
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/07/05/frantsuzskie-vinodely-shipiat-ot-negodovaniia
+
+Французские производители, в частности, из региона Шампань,  заявили, что новый закон не позволит им использовать слово «шампанское» для наименования своих напитков. После этого Межпрофессиональный комитет вин Шампани рекомендовал французским виноделам прекратить поставки в Россию. Впрочем, неделю назад эту рекомендацию отменили.

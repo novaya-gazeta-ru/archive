@@ -1,0 +1,26 @@
+---
+source: "https://novayagazeta.ru/articles/2021/12/24/figurant-moskovskogo-dela-maksim-martintsov-osvobodilsia-iz-kolonii-news"
+title: "Фигурант «московского дела» Максим Мартинцов освободился из колонии"
+subtitle: ""
+date: "2021-12-24T09:59:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "«московское дело», арестанты-212, ai"
+---
+
+# Фигурант «московского дела» Максим Мартинцов освободился из колонии
+
+Фигурант «московского дела» Максим Мартинцов вышел на свободу после двух с половиной лет колонии. Об этом [сообщает](https://t.me/case212/3585) телеграм-канал «Арестанты 212».
+
+Мартинцов и еще два фигуранта дела — Лесных и Мыльников — были задержаны в середине октября по делу о нападении на сотрудника Росгвардии во время митинга в июле 2019 года. Мыльникова [отправили](https://www.novayagazeta.ru/news/2019/10/16/156184-novogo-figuranta-moskovskogo-dela-aleksandra-mylnikova-otpravili-pod-domashniy-arest-iz-za-mitinga-27-iyulya) под домашний арест, а Лесных и Мартинцова — в СИЗО. Их дела [объединили](https://novayagazeta.ru/news/2019/11/07/156713-novyh-figurantov-moskovskogo-dela-obvinyayut-v-nasilii-nad-politseyskim-sovershennym-gruppoy-lits-ih-dela-ob-edinili-v-odno) в одно, добавив отягчающее обстоятельство: совершение преступления группой лиц.
+
+**Читайте также:** https://novayagazeta.ru/articles/2020/01/31/83718-ne-ponimayu-kak-tyurma-dolzhna-nas-perevospitat
+
+По версии следствия, во время несогласованной акции за допуск независимых кандидатов до выборов в Мосгордуму 27 июля 2019 года Мартинцовым вместе с Лесных и Мыльниковым повалили на землю росгвардейца, которого затем «стали бить ногами».
+
+Мартинцова 6 декабря 2019 года [приговорили](https://novayagazeta.ru/news/2019/12/06/157486-lesnyh-martintsova-i-mylnikova-prigovorili)к 2,5 годам колонии по делу о применении насилия к представителю власти (ч. 1 ст. 318 УК). Суд установил, что он вместе с двумя другими фигурантами дела, Лесных и Мыльниковым, применили насилие, не опасное для здоровья, в отношении росгвардейца Максима Косова.
+
+В январе 2020 года адвокат [рассказал](https://novayagazeta.ru/articles/2020/01/22/158475-advokat-rasskazal-o-chastichnoy-potere-sluha-figurantom-moskovskogo-dela-martintsovym-iz-za-plohoy-medpomoschi-v-sizo), что Мартинцов перестал слышать на одно ухо из-за того, что в СИЗО-5 Москвы ему не оказывали необходимой медицинской помощи. Защита молодого человека подала апелляцию, но, несмотря на проблемы со здоровьем Мартинцова и процессуальные нарушения в ходе дела, Мосгорсуд [оставил](https://novayagazeta.ru/articles/2020/01/31/158727-lesnyh-i-martintsov) приговор в силе.
+
+**Читайте также:** https://novayagazeta.ru/articles/2019/11/27/82892-sledstvie-na-grani-fantazii

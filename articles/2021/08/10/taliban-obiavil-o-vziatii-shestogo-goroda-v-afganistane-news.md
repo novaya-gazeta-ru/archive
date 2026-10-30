@@ -1,0 +1,24 @@
+---
+source: "https://novayagazeta.ru/articles/2021/08/10/taliban-obiavil-o-vziatii-shestogo-goroda-v-afganistane-news"
+title: "«Талибан» объявил о взятии шестой столицы провинции Афганистана"
+subtitle: ""
+date: "2021-08-10T05:59:00Z"
+authors: ""
+rubric: "Общество"
+genre: "Новости"
+tags: "ng, талибан, афганистан"
+---
+
+# «Талибан» объявил о взятии шестой столицы провинции Афганистана
+
+Боевики запрещенного в РФ террористического движения «Талибан» объявили о взятии города Айбак — столицы провинции Саманган на севере Афганистана. Замгубернатора провинции Сефатулла Самангани подтвердил, что город взят под контроль талибов, [передает](https://www.aljazeera.com/news/2021/8/9/taliban-captures-sixth-afghanistan-provincial-capital-official) Al Jazeera.
+
+Это уже шестая столица провинции Афганистана, полностью захваченная талибами. Боевики вошли в город без боя после того, как местные старейшины призвали власти избавить город от боев. Губернатор провинции согласился с этим и вывел войска из города, сообщает Al Jazeera.
+
+Ранее движение «Талибан» захватило город Зарандж (столица провинции Нимроз), город [Шибарган](https://novayagazeta.ru/articles/2021/08/07/afganistan-poterial-kontrol-nad-provintsiei-dzhauzdzhan-news) (столица провинции Джаузджан), город Талукан (провинция Тахар), город Сари-Пуль (столица одноименной провинции) и город [Кундуз](https://novayagazeta.ru/articles/2021/08/09/taliban-zakhvatil-strategicheski-vazhnyi-gorod-kunduz-na-severo-vostoke-afganistana-armiia-strany-razvernula-kontrnastuplenie-news) (столица одноименной провинции).
+
+Ситуация в Афганистане обострилась после того, как США объявили, что они начали выводить свой контингент из страны. После начала вывода войск талибы начали масштабное наступление на правительственные силы. Афганская армия объявила мобилизацию.
+
+**Читайте также:** https://novayagazeta.ru/articles/2021/07/14/ne-vlezai-ubiut
+
+В июле Таджикистан [обратился](https://novayagazeta.ru/articles/2021/07/07/tadzhikistan-obratilsia-za-pomoshchiu-k-odkb-v-sviazi-s-obostreniem-situatsii-na-granitse-s-afganistanom) к Организации Договора о коллективной безопасности (ОДКБ) за помощью в связи с эскалацией конфликта на границе с Афганистаном. Президент РФ Владимир Путин [пообещал](https://novayagazeta.ru/articles/2021/07/05/putin-poobeshchal-tadzhikistanu-podderzhku-v-sluchae-eskalatsii-na-granitse-s-afganistanom) Таджикистану помощь в двустороннем порядке или по линии ОДКБ в случае обострения ситуации.
