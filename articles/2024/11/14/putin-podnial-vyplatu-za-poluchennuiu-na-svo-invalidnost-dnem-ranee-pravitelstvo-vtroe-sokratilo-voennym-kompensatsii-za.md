@@ -23,4 +23,4 @@ tags: ""
 
 Несправедливость просила учесть и изменить недавно назначенная замминистра обороны Анна Цивилева. Она замечала: «финансово приравниваются и незначительные порезы, и ранения, которые повлекли за собой ампутацию».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/17/putin-dobavil-anne-tsivilevoi-dolzhnost-stats-sekretaria-minoborony-cherez-dva-mesiatsa-posle-predydushchego-naznacheniia-news
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/17/putin-dobavil-anne-tsivilevoi-dolzhnost-stats-sekretaria-minoborony-cherez-dva-mesiatsa-posle-predydushchego-naznacheniia-news](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/17/putin-dobavil-anne-tsivilevoi-dolzhnost-stats-sekretaria-minoborony-cherez-dva-mesiatsa-posle-predydushchego-naznacheniia-news)

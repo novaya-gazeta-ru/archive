@@ -65,7 +65,7 @@ ___
 
 ___
 
-**link:** https://novayagazeta.ru/articles/2019/06/06/80794-vosstanie-sheluponi
+**link:** [Восстание «шелупони»](2019/06/06/80794-vosstanie-sheluponi.md)
 
 ![](_assets/f6/f61c98a919c214d92c1f69401e6e9913.webp)
 

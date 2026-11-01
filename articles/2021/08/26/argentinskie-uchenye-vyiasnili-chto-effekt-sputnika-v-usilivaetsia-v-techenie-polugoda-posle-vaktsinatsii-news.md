@@ -17,8 +17,8 @@ tags: "спутник v, аргентина, исследование, da"
 
 Выдержки из исследования также [размещены](https://sputnikvaccine.com/rus/newsroom/pressreleases/novoe-issledovanie-vaktsiny-sputnik-v-v-argentine-nablyudeniya-dayut-osnovaniya-polagat-chto-zashchi/) в публикации Российского фонда прямых инвестиций (РФПИ) на сайте вакцины. В исследовании уточнили, что способность антител защищать от вируса через 4 месяца после вакцинации сильнее, чем в течение 42 дней сразу после нее.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/07/nature-rekomenduet
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/07/nature-rekomenduet](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/07/nature-rekomenduet)
 
-В июле Аргентина [заявляла](https://novayagazeta.ru/articles/2021/07/23/vlasti-argentiny-zaiavili-ob-ugroze-razryva-kontrakta-s-rfpi-iz-za-zaderzhek-postavok-sputnika-v) о готовности разорвать контракт с РФПИ из-за задержки поставок второй дозы «Спутника V». Трудности с отправкой вакцины длились семь месяцев, из-за этого официальные лица государства подверглись судебному преследованию. В августе самолет с новой партией препарата [прибыл](https://novayagazeta.ru/articles/2021/08/10/pravitelstvo-argentiny-soobshchilo-o-poluchenii-novoi-partii-vtorogo-komponenta-sputnika-v-posle-zhalob-na-zaderzhku-postavok-news) в страну.
+В июле Аргентина [заявляла](2021/07/23/vlasti-argentiny-zaiavili-ob-ugroze-razryva-kontrakta-s-rfpi-iz-za-zaderzhek-postavok-sputnika-v.md) о готовности разорвать контракт с РФПИ из-за задержки поставок второй дозы «Спутника V». Трудности с отправкой вакцины длились семь месяцев, из-за этого официальные лица государства подверглись судебному преследованию. В августе самолет с новой партией препарата [прибыл](2021/08/10/pravitelstvo-argentiny-soobshchilo-o-poluchenii-novoi-partii-vtorogo-komponenta-sputnika-v-posle-zhalob-na-zaderzhku-pos.md) в страну.
 
 Аргентина стала третьей в мире страной после России и Беларуси, которая разрешила использовать российскую вакцину «Спутник V». Ее зарегистрировали в стране в декабре 2020 года.

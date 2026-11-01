@@ -19,10 +19,10 @@ tags: "ментанол, стеклочиститель, стекломой, а�
 
 Экспертиза показала, что стеклоотмывающая жидкость содержала 30% метанола.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/15/u-nas-tut-trup-za-trupom-odnogo-kamazista-priamo-s-kamaza-snimali
+**Читайте также:** [«У нас тут труп за трупом. Одного камазиста прямо с КамАЗа снимали»](2021/10/15/u-nas-tut-trup-za-trupom-odnogo-kamazista-priamo-s-kamaza-snimali.md)
 
 ТАСС [сообщил](https://tass.ru/proisshestviya/12954979), что число пострадавших увеличилось до 14. В одну из больниц Москвы госпитализировали девушку, которая накануне на дне рождении приятеля в Казани отравилась метанолом.
 
-Следственный комитет [возбудил](https://novayagazeta.ru/articles/2021/11/16/sk-v-kazani-vozbudil-ugolovnoe-delo-posle-otravleniia-metanolom-bolee-10-chelovek-news) уголовное дело о производстве, хранении или сбыте продукции, не отвечающей требованиям безопасности здоровья потребителей (п. «в» ч. 2 ст. 238 УК).
+Следственный комитет [возбудил](2021/11/16/sk-v-kazani-vozbudil-ugolovnoe-delo-posle-otravleniia-metanolom-bolee-10-chelovek-news.md) уголовное дело о производстве, хранении или сбыте продукции, не отвечающей требованиям безопасности здоровья потребителей (п. «в» ч. 2 ст. 238 УК).
 
-В октябре из-за отравления метанолом в Свердловской области[умерли](https://www.kommersant.ru/doc/5041655) 24 человека. Изготовителей и продавцов алкоголя с содержанием метилового спирта[арестовали](https://novayagazeta.ru/articles/2021/10/21/sud-otpravil-v-sizo-eshche-dvukh-obviniaemykh-po-delu-o-smerti-zhitelei-sverdlovskoi-oblasti-otravivshikhsia-metanolom-news).
+В октябре из-за отравления метанолом в Свердловской области[умерли](https://www.kommersant.ru/doc/5041655) 24 человека. Изготовителей и продавцов алкоголя с содержанием метилового спирта[арестовали](2021/10/21/sud-otpravil-v-sizo-eshche-dvukh-obviniaemykh-po-delu-o-smerti-zhitelei-sverdlovskoi-oblasti-otravivshikhsia-metanolom-n.md).

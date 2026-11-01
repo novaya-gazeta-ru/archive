@@ -13,6 +13,6 @@ tags: ""
 
 Россия вернула Украине тела 909 погибших и получила тела 34 российских военных, рассказал депутат Шамсаил Сараливев, участник координационной парламентской группы по вопросам СВО. Его слова [приводит](https://www.rbc.ru/politics/16/05/2025/68270e559a7947766507ec37) РБК. Украинская сторона и российские военкоры подтверждают информацию об обмене телами.
 
-Обмен происходит на фоне [только что начавшихся](https://novayagazeta.ru/articles/2025/05/16/gossekretar-ssha-rubio-pribyl-v-stambul-gde-tolko-chto-nachalis-priamye-peregovory-tekhnicheskikh-delegatsii-rossii-i-ukrainy-news) первых за три года прямых переговоров технических делегаций России и Украины в Стамбуле при участии турецких и американских дипломатов.
+Обмен происходит на фоне [только что начавшихся](2025/05/16/gossekretar-ssha-rubio-pribyl-v-stambul-gde-tolko-chto-nachalis-priamye-peregovory-tekhnicheskikh-delegatsii-rossii-i-uk.md) первых за три года прямых переговоров технических делегаций России и Украины в Стамбуле при участии турецких и американских дипломатов.
 
-Предыдущий обмен телами в формате 41 на 909 [состоялся](https://novayagazeta.ru/articles/2025/04/18/41-na-909-rossiia-i-ukraina-vnov-obmenialis-telami-pogibshikh-news) 18 апреля 2025 года.
+Предыдущий обмен телами в формате 41 на 909 [состоялся](2025/04/18/41-na-909-rossiia-i-ukraina-vnov-obmenialis-telami-pogibshikh-news.md) 18 апреля 2025 года.

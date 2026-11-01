@@ -11,13 +11,13 @@ tags: "nt"
 
 # Сразу три журналиста «Новой газеты» стали лауреатами премии им. Сахарова «За журналистику как поступок» в 2018 году
 
-Среди лауреатов премии конкурса имени А. Д. Сахарова «За журналистику как поступок» в 2018 году оказалось сразу три журналиста «Новой газеты»: [Елена Масюк](https://www.novayagazeta.ru/authors/14132), [Ирина Тумакова](https://www.novayagazeta.ru/search?q=%D0%98%D1%80%D0%B8%D0%BD%D0%B0%20%D0%A2%D1%83%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0) и [Вера Челищева](https://www.novayagazeta.ru/authors/101), еще — автор «Новой газеты в Петербурге» Татьяна Лиханова и Анастасия Кириленко из The Insider. Об этом [сообщается](https://www.facebook.com/saharovprize/posts/595163620936473?__xts__[0]=68.ARCMfl1Ulgg4bspV-W0-pUALkI5CKtklAmuAEnlER3K8KUO8m9I67Gt0OWimy81kpSR8820ZfiXHuohoMALiqCIGv0KiDAOpOesEG1dbmGwRqgFoSS8JmKzc45jO01Wxygh19HA-UcCI5SAoJk2UdJY5CzZ8QoQGqW83vODFVUs7PdrQzxiiPAEw3YO92-P0Aq5xPTBsYyzjEVJUAkx--HU7JgVJXPFiLJ2xVa9bjEtr8sSqS8HLNY9RQ7a9IrUKFiFGaf-A-foG06brsJeAbQhgIuDi24tJLIrQK1nbPNpP7wZffW7LsSf1eZMb56WqPCJRqC86m0lYs_DrulFxMKg&__tn__=-R) на странице премии в фейсбуке.
+Среди лауреатов премии конкурса имени А. Д. Сахарова «За журналистику как поступок» в 2018 году оказалось сразу три журналиста «Новой газеты»: [Елена Масюк](https://web.archive.org/web/*/https://www.novayagazeta.ru/authors/14132), [Ирина Тумакова](https://web.archive.org/web/*/https://www.novayagazeta.ru/search?q=%D0%98%D1%80%D0%B8%D0%BD%D0%B0%20%D0%A2%D1%83%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0) и [Вера Челищева](https://web.archive.org/web/*/https://www.novayagazeta.ru/authors/101), еще — автор «Новой газеты в Петербурге» Татьяна Лиханова и Анастасия Кириленко из The Insider. Об этом [сообщается](https://www.facebook.com/saharovprize/posts/595163620936473?__xts__[0]=68.ARCMfl1Ulgg4bspV-W0-pUALkI5CKtklAmuAEnlER3K8KUO8m9I67Gt0OWimy81kpSR8820ZfiXHuohoMALiqCIGv0KiDAOpOesEG1dbmGwRqgFoSS8JmKzc45jO01Wxygh19HA-UcCI5SAoJk2UdJY5CzZ8QoQGqW83vODFVUs7PdrQzxiiPAEw3YO92-P0Aq5xPTBsYyzjEVJUAkx--HU7JgVJXPFiLJ2xVa9bjEtr8sSqS8HLNY9RQ7a9IrUKFiFGaf-A-foG06brsJeAbQhgIuDi24tJLIrQK1nbPNpP7wZffW7LsSf1eZMb56WqPCJRqC86m0lYs_DrulFxMKg&__tn__=-R) на странице премии в фейсбуке.
 
 В жюри отметили статьи Елены Масюк о пытках в омских колониях, у Ирины Тумаковой отметили пубикации о смерти предпринимателя Валерия Пшеничного в СИЗО Петербурга, у Веры Челищевой — серию судебных репортажей, у Татьяны Лихановой — публикации о пытках спецслужб в отношении фигурантов дела «Сети».
 
 Награждение победителей состоится в январе 2019 года.
 
-**link:** https://novayagazeta.ru/articles/2018/10/25/78347-poshivochnyy-tseh-naslednikov-dzerzhinskogo
+**link:** [Пошивочный цех наследников Дзержинского](2018/10/25/78347-poshivochnyy-tseh-naslednikov-dzerzhinskogo.md)
 
 Премия «За журналистику как поступок» присуждается с 2001 года. Второй год подряд конкурс проводился по несколько измененным правилам: в нем участвовали не только российские журналисты, как ранее, но и работающие в русскоязычных СМИ за пределами России, а также блогеры, видеоблогеры, авторы документальных фильмов и книг.
 

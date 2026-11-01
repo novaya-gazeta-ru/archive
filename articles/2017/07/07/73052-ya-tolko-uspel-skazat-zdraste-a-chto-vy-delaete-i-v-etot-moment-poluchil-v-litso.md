@@ -13,7 +13,7 @@ tags: "выборы2018, задержания, полиция, избиение,
 
 *Монолог Александра Туровского, жестоко избитого полицией в штабе Навального*
 
-**link:** https://novayagazeta.ru/news/2017/07/07/133258-izbitogo-sotrudnika-moskovskogo-shtaba-navalnogo-oshtrafovali-za-nepovinovenie-politseyskim
+**link:** [https://novayagazeta.ru/news/2017/07/07/133258-izbitogo-sotrudnika-moskovskogo-shtaba-navalnogo-oshtrafovali-za-nepovinovenie-politseyskim](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/07/07/133258-izbitogo-sotrudnika-moskovskogo-shtaba-navalnogo-oshtrafovali-za-nepovinovenie-politseyskim)
 
 — В ночь с 5 на 6 я оставался на ночь дежурным, чтобы к нам не залезли. Мы не можем закрыть штаб, потому что нам спилили замки. Пришлось установить щеколды, и кто-то каждый вечер должен закрывать штаб изнутри. С утра меня должны были сменить.
 
@@ -53,4 +53,4 @@ tags: "выборы2018, задержания, полиция, избиение,
 
 Сейчас я уже снова в ОВД, сижу тут и справляюсь с жуткой тошнотой. Еще рано утром в больнице мне сказали одеваться и уходить. Сегодня меня, возможно, еще ждет суд. Хотелось бы, чтобы все обошлось.
 
-**link:** https://novayagazeta.ru/articles/2017/07/06/73026-shtabam-zdes-ne-mesto
+**link:** [Штабам здесь не место](2017/07/06/73026-shtabam-zdes-ne-mesto.md)

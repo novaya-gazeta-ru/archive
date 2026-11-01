@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/06/25/1403714656_122431_9.png" style="width: 340px; height: 423px;"><sup>Леонид Леонов...</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/06/25/1403714656_122431_9.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/06/25/1403714656_122431_9.png)" style="width: 340px; height: 423px;"><sup>Леонид Леонов...</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -37,7 +37,7 @@ _«Видимая теперь только вверх и по вертикал�
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/06/25/1403714656_708915_21.png" style="width: 340px; height: 502px;"><sup>А таким я встретился с ним в 80-е годы – резко постаревшим, но не сломленным ударами, которые обрушивала на него судьба, работающим до последнего дыхания. Фото В. Богданова.</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/06/25/1403714656_708915_21.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/06/25/1403714656_708915_21.png)" style="width: 340px; height: 502px;"><sup>А таким я встретился с ним в 80-е годы – резко постаревшим, но не сломленным ударами, которые обрушивала на него судьба, работающим до последнего дыхания. Фото В. Богданова.</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -45,7 +45,7 @@ _«Видимая теперь только вверх и по вертикал�
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/06/25/1403714669_425477_50.png" style="width: 340px; height: 425px;"><sup>Леонов был личностью ренессансной – а если по-русски – возрожденческой. Он прекрасно рисовал (портрет жены...</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/06/25/1403714669_425477_50.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/06/25/1403714669_425477_50.png)" style="width: 340px; height: 425px;"><sup>Леонов был личностью ренессансной – а если по-русски – возрожденческой. Он прекрасно рисовал (портрет жены...</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -53,7 +53,7 @@ _«Видимая теперь только вверх и по вертикал�
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/06/25/1403714669_710641_29.png" style="width: 340px; height: 488px;"><sup>...и оформление первого листа одного из ранних его рассказов)</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/06/25/1403714669_710641_29.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/06/25/1403714669_710641_29.png)" style="width: 340px; height: 488px;"><sup>...и оформление первого листа одного из ранних его рассказов)</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -65,7 +65,7 @@ _«Видимая теперь только вверх и по вертикал�
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/06/25/1403714669_996678_62.png" style="width: 340px; height: 485px;"><sup>Леонов вырезал скульптуры из дерева («Старый китаец», берёзовый кап).</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/06/25/1403714669_996678_62.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/06/25/1403714669_996678_62.png)" style="width: 340px; height: 485px;"><sup>Леонов вырезал скульптуры из дерева («Старый китаец», берёзовый кап).</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -77,7 +77,7 @@ _«Видимая теперь только вверх и по вертикал�
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/06/25/1403714678_132314_69.png" style="width: 340px; height: 232px;"><sup>«Морской зверь» (берёзовый корень)</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/06/25/1403714678_132314_69.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/06/25/1403714678_132314_69.png)" style="width: 340px; height: 232px;"><sup>«Морской зверь» (берёзовый корень)</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -105,7 +105,7 @@ _«Видимая теперь только вверх и по вертикал�
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/06/25/1403714678_402133_28.png" style="width: 340px; height: 452px;"><sup>Фотографировал (портреты Максима Горького и ...</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/06/25/1403714678_402133_28.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/06/25/1403714678_402133_28.png)" style="width: 340px; height: 452px;"><sup>Фотографировал (портреты Максима Горького и ...</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -119,7 +119,7 @@ _«Видимая теперь только вверх и по вертикал�
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/06/25/1403714678_699226_90.png" style="width: 340px; height: 453px;"><sup>...и крестьянки из деревни Ескино.</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/06/25/1403714678_699226_90.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/06/25/1403714678_699226_90.png)" style="width: 340px; height: 453px;"><sup>...и крестьянки из деревни Ескино.</sup></td>
 		</tr>
 	</tbody>]*
 

@@ -28,10 +28,10 @@ tags: ""
 
 Топливный кризис в России начался с конца мая и связан в первую очередь со сменой тактики ВСУ. Украина стала систематически бить по объектам нефтепереработки: крупным НПЗ и портам в европейской части России, но и не только там.
 
-Отдельной целью [стал Крым](https://novayagazeta.ru/articles/2026/06/22/strashno-teper-vezde), который Киев почти что взял в топливную блокаду, получив с появлением дронов средней дальности контроль над сухопутным коридором на полуостров и выбивая с него бензовозы.
+Отдельной целью [стал Крым](2026/06/22/strashno-teper-vezde.md), который Киев почти что взял в топливную блокаду, получив с появлением дронов средней дальности контроль над сухопутным коридором на полуостров и выбивая с него бензовозы.
 
-Нефтепереработка в России год к году [рухнула на 25%](https://novayagazeta.ru/articles/2026/06/23/khroniki-toplivnogo-krizisa-pravitelstvo-gotovit-zapret-na-eksport-dizelia-proizvodstvo-benzina-v-strane-rukhnulo-na-25-po-sravneniiu-s-proshlym-godom-news) после украинских ударов, десятки регионов ввели ограничения на свободную продажу топлива, после чего свою роль начали играть и панические, и спекулятивные покупки топлива.
+Нефтепереработка в России год к году [рухнула на 25%](2026/06/23/khroniki-toplivnogo-krizisa-pravitelstvo-gotovit-zapret-na-eksport-dizelia-proizvodstvo-benzina-v-strane-rukhnulo-na-25-.md) после украинских ударов, десятки регионов ввели ограничения на свободную продажу топлива, после чего свою роль начали играть и панические, и спекулятивные покупки топлива.
 
-Факт: теперь россияне, как в 90-х, [активно гуглят фразу](https://novayagazeta.ru/articles/2026/06/23/fas-usilila-kontrol-za-prodazhei-topliva-dlia-agrariev-v-polovine-federalnykh-okrugov-a-rossiiane-stali-massovo-guglit-kak-slit-benzin-news) «как слить бензин».
+Факт: теперь россияне, как в 90-х, [активно гуглят фразу](2026/06/23/fas-usilila-kontrol-za-prodazhei-topliva-dlia-agrariev-v-polovine-federalnykh-okrugov-a-rossiiane-stali-massovo-guglit-k.md) «как слить бензин».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/22/mazut-benzin-i-pustye-pliazhi
+**Читайте также:** [Мазут, бензин и пустые пляжи](2026/06/22/mazut-benzin-i-pustye-pliazhi.md)

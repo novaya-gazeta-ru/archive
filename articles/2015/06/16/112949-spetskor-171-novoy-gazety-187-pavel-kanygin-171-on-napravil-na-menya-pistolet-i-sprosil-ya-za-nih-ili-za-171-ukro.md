@@ -25,16 +25,16 @@ tags: "днр, каныгин, провокация"
 
 **Обновлено 22:30.** Собственный корреспондент «Новой газеты» в Ростовской области встретила спецкора Каныгина. Завтра Павел будет уже в Москве.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/columns/68843.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/06/16/1434477483_854728_11.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/columns/68843.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/68843.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/06/16/1434477483_854728_11.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/06/16/1434477483_854728_11.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/columns/68843.html" target="_blank"><strong>Три вопроса «руководству ДНР» после задержания Каныгина</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/columns/68843.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/68843.html)" target="_blank"><strong>Три вопроса «руководству ДНР» после задержания Каныгина</strong></a></p>]*
 
 Напомним, представители «органов безопасности ДНР» задержали Павла Каныгина, обвинив в том, что он работает не на «Новую Газету», а «на одно из украинских изданий». Силовики ДНР заявили, что основанием для такого вывода послужила «найденная у Каныгина визитная карточка украинского журналиста по фамилии Мацуга».
 
 Главный редактор «Новой газеты» Дмитрий Муратов обратился в МИД РФ и Администрацию Президента РФ с просьбой вмешаться в ситуацию с Каныгиным.
 
 *[media: <blockquote>
-<p><strong><a href="http://www.novayagazeta.ru/columns/68841.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/06/16/1434469538_771576_90.png" style="width: 100px; height: 75px;"></a><span style="color: rgb(178, 34, 34);">Читайте также:</span></strong></p>
+<p><strong><a href="[http://www.novayagazeta.ru/columns/68841.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/68841.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/06/16/1434469538_771576_90.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/06/16/1434469538_771576_90.png)" style="width: 100px; height: 75px;"></a><span style="color: rgb(178, 34, 34);">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/columns/68841.html" target="_blank"><strong>Спецкора «Новой газеты» Павла Каныгина задержали «органы госбезопасности ДНР». Заявление редакции</strong></a></p>
+<p><a href="[http://www.novayagazeta.ru/columns/68841.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/68841.html)" target="_blank"><strong>Спецкора «Новой газеты» Павла Каныгина задержали «органы госбезопасности ДНР». Заявление редакции</strong></a></p>
 </blockquote>]*

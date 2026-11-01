@@ -27,10 +27,10 @@ Individuum основали в 2015 году медиапродюсер Алек
 
 В мае 2025-м сотрудники обоих издательств стали фигурантами так называемого «дела издателей» из-за продажи книг с ЛГБТ*-тематикой.
 
-> Руководитель Individuum и Popcorn Books Дмитрий Протопопов [утверждал](https://novayagazeta.ru/amp/articles/2026/07/16/smi-tretii-figurant-dela-izdatelei-dmitrii-protopopov-dal-pokazaniia-na-gendirektora-eksmo-evgeniia-kapeva-news) в суде, что выполнял план «Эксмо», руководство которого, по его словам, обещало сотрудникам защиту от преследования.
+> Руководитель Individuum и Popcorn Books Дмитрий Протопопов [утверждал](2026/07/16/smi-tretii-figurant-dela-izdatelei-dmitrii-protopopov-dal-pokazaniia-na-gendirektora-eksmo-evgeniia-kapeva-news.md) в суде, что выполнял план «Эксмо», руководство которого, по его словам, обещало сотрудникам защиту от преследования.
 
 -
 
-В 2026 году Протопопов и директор по продажам Павел Иванов [получили](https://novayagazeta.ru/articles/2026/08/07/delo-izdatelei-eks-direktora-popcorn-books-i-individuum-protopopova-prigovorili-k-4-godam-uslovno-news) по четыре года условно. Popcorn Books объявило о закрытии в январе этого года.
+В 2026 году Протопопов и директор по продажам Павел Иванов [получили](2026/08/07/delo-izdatelei-eks-direktora-popcorn-books-i-individuum-protopopova-prigovorili-k-4-godam-uslovno-news.md) по четыре года условно. Popcorn Books объявило о закрытии в январе этого года.
 
 **«Движение ЛГБТ» признано в РФ экстремистской организацией, деятельность запрещена*

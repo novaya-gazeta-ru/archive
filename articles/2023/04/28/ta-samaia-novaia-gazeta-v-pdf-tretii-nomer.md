@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *Культ гибели и жертвенности овладел российской идеологией — тема нового выпуска. Нас лишили свидетельств о регистрации СМИ, но читатели могут распечатать номер сами*
 
-https://novayagazeta.ru/issues/3248
+[https://novayagazeta.ru/issues/3248](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3248)

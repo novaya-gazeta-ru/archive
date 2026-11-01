@@ -18,7 +18,7 @@ tags: "боинг, расследование, россия, сепаратиз�
 
 **От редакции**
 
-Мы предположили, что эксперты, аналитики, специалисты остро прореагируют на публикацию доклада [«Это был «Бук-М1»](http://www.novayagazeta.ru/inquests/68332.html) в номере «Новой газеты» от 6 мая 2015 года.
+Мы предположили, что эксперты, аналитики, специалисты остро прореагируют на публикацию доклада [«Это был «Бук-М1»](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/68332.html) в номере «Новой газеты» от 6 мая 2015 года.
 
 *[media: <p><strong><span style="color:#696969;">Редакция не будет отвечать на обвинения в свой адрес — что мы, «безусловно, агенты ФСБ и Шойгу» и т.д. Мы оставляем без внимания утверждение одного молодого открытого ресурса, что данный доклад подготовила редакция газеты. Это все равно что упрекнуть журнал «Новая и новейшая история» в том, что, впервые опубликовав секретные протоколы к пакту Молотова—Риббентропа, они являются их авторами…</span></strong></p>]*
 
@@ -28,9 +28,9 @@ tags: "боинг, расследование, россия, сепаратиз�
 
 Мы продолжаем…
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/inquests/68332.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/05/05/1430848693_770988_45.png" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/inquests/68332.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/68332.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/05/05/1430848693_770988_45.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/05/05/1430848693_770988_45.png)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/inquests/68332.html" target="_blank"><strong>Экспертная оценка российских военных инженеров: малайзийский «Боинг» над восточной Украиной сбит ракетой класса «земля — воздух»</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/inquests/68332.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/68332.html)" target="_blank"><strong>Экспертная оценка российских военных инженеров: малайзийский «Боинг» над восточной Украиной сбит ракетой класса «земля — воздух»</strong></a></p>]*
 
 Сегодня мы публикуем первый развернутый отклик на доклад «Это был «Бук-М1», его автор — историк и авиаконструктор Марк Солонин.
 
@@ -52,7 +52,7 @@ tags: "боинг, расследование, россия, сепаратиз�
 		<tr>
 			<td>
 			<blockquote>
-			<p><strong style="color: rgb(165, 42, 42);"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/05/12/1431939036_364930_14.png" style="width: 80px; height: 77px;">Марк Солонин:</strong></p>
+			<p><strong style="color: rgb(165, 42, 42);"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/05/12/1431939036_364930_14.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/05/12/1431939036_364930_14.png)" style="width: 80px; height: 77px;">Марк Солонин:</strong></p>
 
 			<p>Российский независимый историк, автор книг, посвященных Великой Отечественной войне. По профессии — авиационный инженер-конструктор, долгое время проработал в закрытом ОКБ города Куйбышева (Самара).</p>
 			</blockquote>

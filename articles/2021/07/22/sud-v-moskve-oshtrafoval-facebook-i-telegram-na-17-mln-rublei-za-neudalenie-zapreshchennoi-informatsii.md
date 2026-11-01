@@ -21,4 +21,4 @@ Facebook суд признал виновным в совершении двух
 
 В июне суд назначил Facebook 17 млн рублей штрафа, Telegram — 10 млн. Как [отмечает](https://www.interfax.ru/russia/780190) «Интерфакс», общая сумма штрафов для первой соцсети с начала года составила 49 млн рублей, для второй — 26 млн.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/04/03/chashechka-russiano-za-utrennim-rutube
+**Читайте также:** [Чашечка руссиано за утренним RuTube](2021/04/03/chashechka-russiano-za-utrennim-rutube.md)

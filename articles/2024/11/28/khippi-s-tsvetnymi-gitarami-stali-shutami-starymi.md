@@ -74,7 +74,7 @@ tags: "сукачев, собчак, сурков, козырев, русски�
 >
 > У этого материала есть [аудиоверси](https://www.youtube.com/watch?v=2_e2Qg2Np7E)я на Youtube. Читает Ирина Петровская.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/14/oshibka-shlosberga
+**Читайте также:** [Ошибка Шлосберга*](2024/11/14/oshibka-shlosberga.md)
 
 ## **Топ-5 лучших выпусков недели на **YouTube
 

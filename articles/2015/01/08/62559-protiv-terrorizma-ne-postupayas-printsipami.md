@@ -15,19 +15,19 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/p/2015/01/08/1420725808_464784_91.png" style="width: 340px; height: 498px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/p/2015/01/08/1420725808_464784_91.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/p/2015/01/08/1420725808_464784_91.png)" style="width: 340px; height: 498px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Издание Politiken, Бельгия, 8 января</sup></td>
 		</tr>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/p/2015/01/08/1420725859_789128_42.png" style="width: 340px; height: 500px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/p/2015/01/08/1420725859_789128_42.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/p/2015/01/08/1420725859_789128_42.png)" style="width: 340px; height: 500px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Издание Aftonbladet, Швеция</sup></td>
 		</tr>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/p/2015/01/08/1420727497_039083_68.png" style="width: 340px; height: 441px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/p/2015/01/08/1420727497_039083_68.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/p/2015/01/08/1420727497_039083_68.png)" style="width: 340px; height: 441px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Издание Independent, Великобритания</sup></td>
@@ -62,9 +62,9 @@ tags: ""
 
 Он сказал, что правительства 28 стран ЕС пытаются предотвратить эту угрозу. Может быть, еврочиновник предсказал убийство в Charlie Hebdo? Значит, правительствам не удалось его предотвратить.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/society/66741.html" target="_blank"><span style="color:#B22222;"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/01/07/1420657960_735807_51.png" style="width: 100px; height: 75px;"></span></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/society/66741.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/66741.html)" target="_blank"><span style="color:#B22222;"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/01/07/1420657960_735807_51.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/01/07/1420657960_735807_51.png)" style="width: 100px; height: 75px;"></span></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/society/66741.html" target="_blank"><strong>Террористы расстреляли редакцию сатирического журнала. Подлое и бессмысленное преступление. Молчать никто не будет. Вечером на улицы вышли десятки тысяч парижан. Репортаж Юрия САФРОНОВА</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/society/66741.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/66741.html)" target="_blank"><strong>Террористы расстреляли редакцию сатирического журнала. Подлое и бессмысленное преступление. Молчать никто не будет. Вечером на улицы вышли десятки тысяч парижан. Репортаж Юрия САФРОНОВА</strong></a></p>]*
 
 В конце декабря перед очередным заседанием министров внутренних стран ЕС своими соображениями поделился с журналистами в Брюсселе союзный координатор по борьбе с терроризмом, ветеран бельгийских спецлужб Жиль де Керхове.
 

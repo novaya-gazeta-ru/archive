@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/05/27/1401187118_847967_41.jpg" style="width: 340px; height: 225px;"><sup>Фото: EPA</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/05/27/1401187118_847967_41.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/05/27/1401187118_847967_41.jpg)" style="width: 340px; height: 225px;"><sup>Фото: EPA</sup></td>
 		</tr>
 	</tbody>]*
 

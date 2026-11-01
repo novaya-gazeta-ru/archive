@@ -45,6 +45,6 @@ tags: ""
 
 Что же касается России и Украины, то их лидерам теперь интересно будет послушать, повлияют ли расходы США и Пентагона на срочную помощь Израилю на отгрузку дополнительных боеприпасов и вооружений для ВСУ. Это для них самое главное.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/07/etazhi-voiny
+**Читайте также:** [Этажи войны](2024/10/07/etazhi-voiny.md)
 
-**Слушайте также:** https://novayagazeta.ru/articles/2024/10/04/uroven-zverstv-kotoryi-prodemonstriroval-khamas-ne-poddaetsia-osmysleniiu
+**Слушайте также:** [«Уровень зверств, который продемонстрировал ХАМАС, не поддается осмыслению»](2024/10/04/uroven-zverstv-kotoryi-prodemonstriroval-khamas-ne-poddaetsia-osmysleniiu.md)

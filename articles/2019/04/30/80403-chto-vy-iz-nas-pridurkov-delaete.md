@@ -95,36 +95,36 @@ tags: "абсурд, роскомнадзор, регионы, журналис�
 
 > **Предыдущие выпуски**
 >
-> ### [Дело о карикатурной России](https://www.novayagazeta.ru/articles/2019/04/24/80338-delo-o-karikaturnoy-rossii)\
+> ### [Дело о карикатурной России](2019/04/24/80338-delo-o-karikaturnoy-rossii.md)\
 >
-> ### [Россия для Русских](https://www.novayagazeta.ru/articles/2019/03/28/79884-rossiya-dlya-russkih-komiks)\
+> ### [Россия для Русских](2019/03/28/79884-rossiya-dlya-russkih-komiks.md)\
 >
-> ### [Дело с одним доказательством](https://www.novayagazeta.ru/articles/2019/03/19/79912-delo-s-odnim-dokazatelstvom)\
+> ### [Дело с одним доказательством](2019/03/19/79912-delo-s-odnim-dokazatelstvom.md)\
 >
-> ### [Дело о булочках с маком](https://www.novayagazeta.ru/articles/2019/02/28/79709-delo-o-bulochkah-s-makom-komiks)\
+> ### [Дело о булочках с маком](2019/02/28/79709-delo-o-bulochkah-s-makom-komiks.md)\
 >
-> ### [Дело медного всадника](https://www.novayagazeta.ru/articles/2019/02/12/79511-rozhdennye-kontrrevolyutsiey)\
+> ### [Дело медного всадника](2019/02/12/79511-rozhdennye-kontrrevolyutsiey.md)\
 >
-> ### [Дело о Сталине и Роскомнадзоре](https://www.novayagazeta.ru/articles/2019/01/29/79344-delo-o-staline-i-roskomnadzore-komiks)\
+> ### [Дело о Сталине и Роскомнадзоре](2019/01/29/79344-delo-o-staline-i-roskomnadzore-komiks.md)\
 >
-> ### [Евангелисты в судебном аду](https://www.novayagazeta.ru/articles/2019/01/22/79255-evangelisty-v-sudebnom-adu-komiks)\
+> ### [Евангелисты в судебном аду](2019/01/22/79255-evangelisty-v-sudebnom-adu-komiks.md)\
 >
-> ### [Дело уличных музыкантов](https://www.novayagazeta.ru/articles/2018/12/28/79089-delo-ob-ulichnyh-muzykantah)\
+> ### [Дело уличных музыкантов](2018/12/28/79089-delo-ob-ulichnyh-muzykantah.md)\
 >
-> ### [Дело о 16 сутках и ветряных мельницах](https://www.novayagazeta.ru/articles/2018/12/21/78999-delo-o-16-sutkah-i-vetryanyh-melnitsah-komiks)\
+> ### [Дело о 16 сутках и ветряных мельницах](2018/12/21/78999-delo-o-16-sutkah-i-vetryanyh-melnitsah-komiks.md)\
 >
-> ### [Дело о черном пятне](https://www.novayagazeta.ru/articles/2018/11/27/78716-delo-o-chernom-pyatne-komiks)\
+> ### [Дело о черном пятне](2018/11/27/78716-delo-o-chernom-pyatne-komiks.md)\
 >
-> ### [Дело о «симфоническом терроризме»](https://www.novayagazeta.ru/articles/2018/11/19/78589-delo-o-simfonicheskom-terrorizme-komiks)\
+> ### [Дело о «симфоническом терроризме»](2018/11/19/78589-delo-o-simfonicheskom-terrorizme-komiks.md)\
 >
-> ### [Комикс про любовь](https://www.novayagazeta.ru/articles/2018/10/29/78386-pro-lyubov)\
+> ### [Комикс про любовь](2018/10/29/78386-pro-lyubov.md)\
 >
-> ### [Дело о двух узбеках и одном паспорте](https://www.novayagazeta.ru/articles/2018/10/09/78111-delo-o-dvuh-uzbekah-i-odnom-pasporte)\
+> ### [Дело о двух узбеках и одном паспорте](2018/10/09/78111-delo-o-dvuh-uzbekah-i-odnom-pasporte.md)\
 >
-> ### [Дело о телефоне следователя](https://www.novayagazeta.ru/articles/2018/09/24/77938-telefon-sledovatelya)\
+> ### [Дело о телефоне следователя](2018/09/24/77938-telefon-sledovatelya.md)\
 >
-> ### [Дело о вмешательстве в выборы](https://www.novayagazeta.ru/articles/2018/09/07/77727-kafka-kodeks-delo-o-vmeshatelstve-v-vybory)\
+> ### [Дело о вмешательстве в выборы](2018/09/07/77727-kafka-kodeks-delo-o-vmeshatelstve-v-vybory.md)\
 >
-> ### [Дело об ореховом фермере](https://www.novayagazeta.ru/articles/2018/08/27/77618-kafka-kodeks-delo-ob-orehovom-fermere)\
+> ### [Дело об ореховом фермере](2018/08/27/77618-kafka-kodeks-delo-ob-orehovom-fermere.md)\
 >
-> ### [Дело о Еже в Зазеркалье](https://www.novayagazeta.ru/articles/2018/08/13/77472-kafka-kodeks-delo-o-ezhe-i-zerkale)\
+> ### [Дело о Еже в Зазеркалье](2018/08/13/77472-kafka-kodeks-delo-o-ezhe-i-zerkale.md)\

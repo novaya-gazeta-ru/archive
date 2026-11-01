@@ -21,4 +21,4 @@ tags: "шлосберг, ИВС, уголовное дело"
 
 **Власти РФ считают «иноагентом»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/10/protiv-lva-shlosberga-vozbudili-ugolovnoe-delo-o-povtornoi-diskreditatsii-armii-iz-za-feikovogo-akkaunta-v-odnoklassnikakh-utrom-v-ego-kvartire-snova-proshel-obysk-news
+**Читайте также:** [Против Льва Шлосберга* возбудили уголовное дело о повторной «дискредитации армии» из-за фейкового аккаунта в «Одноклассниках». Утром в его квартире снова прошел обыск](2025/06/10/protiv-lva-shlosberga-vozbudili-ugolovnoe-delo-o-povtornoi-diskreditatsii-armii-iz-za-feikovogo-akkaunta-v-odnoklassnika.md)

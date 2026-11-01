@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *Собрали в новом выпуске истории о животных, которые помогали людям во время войны*
 
-https://novayagazeta.ru/issues/3249
+[https://novayagazeta.ru/issues/3249](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3249)

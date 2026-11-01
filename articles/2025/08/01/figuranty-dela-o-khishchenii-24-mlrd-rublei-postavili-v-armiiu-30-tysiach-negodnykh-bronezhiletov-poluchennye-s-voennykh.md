@@ -31,4 +31,4 @@ tags: ""
 
 Дело Есипова, Антоновой и Кальченко суд рассмотрит в особом порядке, они признали вину. Но могут появиться и новые фигуранты — чиновники Минобороны, которые приняли продукцию не соответствующего качества.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/04/13/semeinuiu-paru-v-primore-sudiat-za-moshennichestvo-s-grobovymi-pogibshego-na-svo-kotorogo-oni-tuda-i-otpravili-news
+**Читайте также:** [https://novayagazeta.ru/articles/2024/04/13/semeinuiu-paru-v-primore-sudiat-za-moshennichestvo-s-grobovymi-pogibshego-na-svo-kotorogo-oni-tuda-i-otpravili-news](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/04/13/semeinuiu-paru-v-primore-sudiat-za-moshennichestvo-s-grobovymi-pogibshego-na-svo-kotorogo-oni-tuda-i-otpravili-news)

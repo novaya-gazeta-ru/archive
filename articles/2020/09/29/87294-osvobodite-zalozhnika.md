@@ -21,4 +21,4 @@ tags: "охота на ведьм, тихановский, политзаклю�
 
 > Александр Григорьевич! Хотя бы назовите ваши требования.
 
-**link:** https://novayagazeta.ru/articles/2020/09/01/86917-syn-idet-v-shkolu-bez-menya
+**link:** [«Сын идет в школу без меня»](2020/09/01/86917-syn-idet-v-shkolu-bez-menya.md)

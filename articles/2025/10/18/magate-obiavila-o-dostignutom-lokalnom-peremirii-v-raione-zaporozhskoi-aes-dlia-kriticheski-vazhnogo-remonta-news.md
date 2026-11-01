@@ -21,4 +21,4 @@ tags: ""
 
 Опубликованы фотографии сотрудников, занятых ремонтом ЛЭП.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/10/18/tramp-posle-vstrechi-s-zelenskim-prizval-moskvu-i-kiev-ostanovitsia-tam-gde-vy-est-vzaimno-obiavit-o-pobede-i-pust-istoriia-rassudit-postavku-tomagavkov-ukraine-ne-kommentirovali-news
+**Читайте также:** [Трамп после встречи с Зеленским призвал Москву и Киев «остановиться там, где вы есть», взаимно объявить о победе. Поставку «Томагавков» Украине не комментировали](2025/10/18/tramp-posle-vstrechi-s-zelenskim-prizval-moskvu-i-kiev-ostanovitsia-tam-gde-vy-est-vzaimno-obiavit-o-pobede-i-pust-istor.md)

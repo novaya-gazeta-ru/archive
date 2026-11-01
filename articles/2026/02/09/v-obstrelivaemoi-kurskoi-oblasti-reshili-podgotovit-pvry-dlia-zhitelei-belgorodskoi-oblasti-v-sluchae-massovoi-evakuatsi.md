@@ -25,4 +25,4 @@ tags: ""
 
 А в результате атаки беспилотника в ночь на 7 февраля в селе Верхний Любаж Фатежского района области погиб человек, ещё трое пострадали, сообщил Хинштейн, сгорели сараи и частная баня.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/09/poltory-tysiachi-detei-iz-belgorodchiny-otpraviat-perezhidat-kholoda-v-krym-nesmotria-na-zaiavleniia-vlastei-o-vosstanovlenii-teplosnabzheniia-news
+**Читайте также:** [Полторы тысячи детей из Белгородчины отправят пережидать холода в Крым. Несмотря на заявления властей о восстановлении теплоснабжения](2026/02/09/poltory-tysiachi-detei-iz-belgorodchiny-otpraviat-perezhidat-kholoda-v-krym-nesmotria-na-zaiavleniia-vlastei-o-vosstanov.md)

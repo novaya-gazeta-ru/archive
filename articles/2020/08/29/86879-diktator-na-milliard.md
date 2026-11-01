@@ -35,4 +35,4 @@ tags: "санкции, россия, банки, лукашенко, эконо�
 
 **Алина Федорова—** специально для «Новой»
 
-**link:** https://novayagazeta.ru/articles/2020/08/18/86729-sovhoz-vysokih-tehnologiy
+**link:** [Совхоз высоких технологий](2020/08/18/86729-sovhoz-vysokih-tehnologiy.md)

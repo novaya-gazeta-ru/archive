@@ -17,6 +17,6 @@ tags: "австралия, спутник v, путешествия, sn"
 
 «Признание "Спутника" расширит возможности для возвращения иностранных студентов, поездок квалифицированных и неквалифицированных рабочих в Австралию, бизнесменов и представителей спорта»,  — заявили в пресс-службе.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/15/vycherknuli-iz-krasnoi-zony
+**Читайте также:** [Вычеркнули из «красной зоны»](2022/01/15/vycherknuli-iz-krasnoi-zony.md)
 
-В начале января въезд для вакцинированных «Спутником V» граждан открыл Израиль. Перед въездом у туристов [будут проверять](https://novayagazeta.ru/articles/2022/01/09/izrail-razreshil-vezd-v-stranu-turistam-privitym-sputnikom-v-news) подлинность выданных в России сертификатов о вакцинации. Помимо этого, привитые «Спутником» должны будут [пройти](https://corona.health.gov.il/ru/abroad/arriving-foreign-nationals/?fbclid=IwAR3P8JRdopu3ryeuspHOPrTc29hWRWD5zd3FlYscRWIZ9AJXC3eatpImT6Y#recognition) в аэропорту имени Бен-Гуриона не только дополнительное ПЦР-тестирование, как все, но и серологическое исследование.
+В начале января въезд для вакцинированных «Спутником V» граждан открыл Израиль. Перед въездом у туристов [будут проверять](2022/01/09/izrail-razreshil-vezd-v-stranu-turistam-privitym-sputnikom-v-news.md) подлинность выданных в России сертификатов о вакцинации. Помимо этого, привитые «Спутником» должны будут [пройти](https://corona.health.gov.il/ru/abroad/arriving-foreign-nationals/?fbclid=IwAR3P8JRdopu3ryeuspHOPrTc29hWRWD5zd3FlYscRWIZ9AJXC3eatpImT6Y#recognition) в аэропорту имени Бен-Гуриона не только дополнительное ПЦР-тестирование, как все, но и серологическое исследование.

@@ -29,4 +29,4 @@ tags: ""
 
 Путин и Ким Чен Ын подписали договор о всеобъемлющем партнерстве, включая военную помощь всеми имеющимися у партнера средствами, в конце 2024 года. После того, как со ссылкой на киевскую администрацию или источники в западных разведках стали появляться сведения об участии северокорейских военных в СВО против Украины, Путин публично [не стал это отрицать](https://t.me/novaya_pishet/47827).
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/01/glava-mid-severnoi-korei-rasskazala-lavrovu-o-prikaze-kim-chen-yna-ni-na-kogo-ne-ogliadyvaias-podderzhivat-rossiiu-v-ee-sviashchennoi-voine-news
+**Читайте также:** [Глава МИД Северной Кореи рассказала Лаврову о приказе Ким Чен Ына «ни на кого не оглядываясь» поддерживать Россию в ее «священной войне»](2024/11/01/glava-mid-severnoi-korei-rasskazala-lavrovu-o-prikaze-kim-chen-yna-ni-na-kogo-ne-ogliadyvaias-podderzhivat-rossiiu-v-ee-.md)

@@ -19,4 +19,4 @@ tags: ""
 
 Помимо этого, адвокат политика утверждала, что ее подзащитного допрашивали все ночь, а сам допрос шел «жёстко»
 
-Круглова [задержали](https://novayagazeta.ru/articles/2025/10/01/zampreda-iabloka-maksima-kruglova-zaderzhali-po-obvineniiu-v-rasprostranenii-voennykh-feikov-emu-vmeniaiut-post-v-telegram-kanale-news) накануне в Санкт-Петербурге, а позже доставили в Москву. Ему вменяют два поста в телеграм канале в апреле 2022 года, где, как считает обвинение, содержались «фейки» о ВС РФ.
+Круглова [задержали](2025/10/01/zampreda-iabloka-maksima-kruglova-zaderzhali-po-obvineniiu-v-rasprostranenii-voennykh-feikov-emu-vmeniaiut-post-v-telegr.md) накануне в Санкт-Петербурге, а позже доставили в Москву. Ему вменяют два поста в телеграм канале в апреле 2022 года, где, как считает обвинение, содержались «фейки» о ВС РФ.

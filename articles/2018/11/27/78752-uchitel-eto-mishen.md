@@ -67,4 +67,4 @@ tags: "травля, учителя, дети, школы"
 
 **Даша,**17 лет
 
-**link:** https://novayagazeta.ru/articles/2018/11/27/78751-my-horoshie-on-plohoy
+**link:** [Мы хорошие, он плохой](2018/11/27/78751-my-horoshie-on-plohoy.md)

@@ -107,7 +107,7 @@ tags: ""
 				<p>
 					Полянский Сергей Евгеньевич</p>
 				<p>
-					<img alt="" height="134" src="http://www.novayagazeta.ru/storage/c/2012/03/17/1332009146_421826_44.jpg" width="200"><br>
+					<img alt="" height="134" src="[http://www.novayagazeta.ru/storage/c/2012/03/17/1332009146_421826_44.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/03/17/1332009146_421826_44.jpg)" width="200"><br>
 					<em><sub>фото: <a href="http://elshanec.dreamwidth.org/">elshanec</a></sub></em></p>
 			</td>
 			<td>

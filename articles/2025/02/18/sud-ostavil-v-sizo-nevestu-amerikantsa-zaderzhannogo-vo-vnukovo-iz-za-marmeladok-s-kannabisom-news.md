@@ -23,4 +23,4 @@ tags: "мамбетова, наркотики, сизо, Байерс"
 
 **Минюст считает «иноагентом»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/17/vlasti-rf-otpustili-zaderzhannogo-iz-za-marmelada-s-kannabisom-amerikantsa-kaloba-baiersa-news
+**Читайте также:** [Власти РФ отпустили задержанного из-за мармелада с каннабисом американца Калоба Байерса](2025/02/17/vlasti-rf-otpustili-zaderzhannogo-iz-za-marmelada-s-kannabisom-amerikantsa-kaloba-baiersa-news.md)

@@ -63,7 +63,7 @@ tags: "избиение, превышение полномочий, выборы
 
 — Я лично вышла, потому что доверяю своему кандидату, — отвечает семидесятипятилетняя Клара Шуховская. — А кандидат мой — [Юлия] Галямина. Преподаватель двух вузов, честный, порядочный человек.
 
-**link:** https://novayagazeta.ru/articles/2019/07/28/81398-trebuyut-lyustratsiy-a-predlagayut-kalyany
+**link:** [Требуют люстраций, а предлагают — кальяны](2019/07/28/81398-trebuyut-lyustratsiy-a-predlagayut-kalyany.md)
 
 Евгений, сидящий на лавочке в сквере, живет в Нижнем Новгороде, а на протестную акцию вышел, «потому что мне сказали, что я не могу гулять по этой улице».
 
@@ -91,7 +91,7 @@ tags: "избиение, превышение полномочий, выборы
 
 — Посадка в автозак заканчивается, — шутит мужчина, — осталось несколько мест!
 
-**link:** https://novayagazeta.ru/articles/2019/07/27/81396-27-iyulya-fotografii
+**link:** [Как полиция и Росгвардия целый день били москвичей](2019/07/27/81396-27-iyulya-fotografii.md)
 
 # Дорога через храм
 
@@ -119,4 +119,4 @@ tags: "избиение, превышение полномочий, выборы
 
 К половине седьмого Яшина, Соболь и других кандидатов выпускают на свободу. Они зовут протестующих на Трубную площадь к 19.40. Встреча закончилась, не начавшись. Полиция и ОМОН задерживают собравшихся, выхватывая из толпы. Журналисты получают травмы. Независимые кандидаты снова оказываются в ОВД.
 
-**link:** https://novayagazeta.ru/articles/2019/07/27/81392-politsiya-obyskivaet-i-zaderzhivaet-nezavisimyh-kandidatov-v-preddverii-protestov-u-stolichnoy-merii-onlayn
+**link:** [https://novayagazeta.ru/articles/2019/07/27/81392-politsiya-obyskivaet-i-zaderzhivaet-nezavisimyh-kandidatov-v-preddverii-protestov-u-stolichnoy-merii-onlayn](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/07/27/81392-politsiya-obyskivaet-i-zaderzhivaet-nezavisimyh-kandidatov-v-preddverii-protestov-u-stolichnoy-merii-onlayn)

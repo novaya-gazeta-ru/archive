@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/11/24/1416909317_443010_39.png" style="width: 340px; height: 213px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/11/24/1416909317_443010_39.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/11/24/1416909317_443010_39.png)" style="width: 340px; height: 213px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Максим Потапчук</sup></td>

@@ -30,7 +30,7 @@ On March 4, the State Duma introduced military censorship. Media outlets are pro
 
 *Illustration by Peter Sarukhanov / Novaya Gazeta*
 
-[Nikita Kondratiev](https://novayagazeta.ru/articles/2022/03/01/o-rabote-v-usloviiakh-voennogo-vremeni) from our newsroom tells readers:
+[Nikita Kondratiev](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/01/o-rabote-v-usloviiakh-voennogo-vremeni) from our newsroom tells readers:
 
 > As soon as the military censorship laws enter into force (Vladimir Putin has yet to sign them), we will have to stop publishing reports from the front. We will no longer be able to tell the truth about the fighting in Ukraine […] We will continue to collect information but when, and in what form it will be published, we do not know. We are ashamed to take this step while our friends, acquaintances and relatives are experiencing true hell in Ukraine.
 
@@ -98,7 +98,7 @@ The hotels, hostels, and restaurants of Kyrgyzstan are now packed with Russians 
 
 > I have a strong feeling that now there will be a surge of Russophobia around the world: it is happening in Europe, America, and in other countries. This connected, in my opinion, with the fact that cancel culture developed quite strongly in the West shortly before the events in Ukraine.
 
-*Read Azar’s full report *[*here*](https://novayagazeta.ru/articles/2022/03/09/ia-bolshe-ne-khochu-pomogat-stroit-eto-gosudarstvo) *.*
+*Read Azar’s full report *[*here*](2022/03/09/ia-bolshe-ne-khochu-pomogat-stroit-eto-gosudarstvo.md) *.*
 
 # **Kremlin’s Ban on Buying Dollars, Explained**
 
@@ -118,11 +118,11 @@ On March 9, Russia’s Central Bank instituted a six- month ban on buying US dol
 
  **PROTECTING THE ELITE.** Behind this procrastination as usual, is greed. The authorities’ main concern is “How to keep the remaining foreign exchange reserve for the owners of the Russian economy [the elite]?” Prokofiev explains the situation as follows: “You have a limited resource, a surge in demand for it, and two groups of buyers. One group of buyers is ready to pay any price for this resource, but the opinion of this group is not very important to you. Another group of buyers is extremely important to you, but they are not ready to pay that kind of money for your resource. What do you do in this situation? Stop selling the resource to the first group in order to protect the interests of the second.”
 
- ***Read Prokofiev’s full analysis ***[***here***](https://novayagazeta.ru/articles/2022/03/09/pochemu-nelzia-kupit-dollary) ***.***
+ ***Read Prokofiev’s full analysis ***[***here***](2022/03/09/pochemu-nelzia-kupit-dollary.md) ***.***
 
 # **Police Beat Russians Protesting Against “What Cannot Be Named” **
 
-On Sunday, March 6, protests were held in 65 cities of Russia against “what cannot be named”. According [to](https://ovd.news/news/2022/03/06/spiski-zaderzhannyh-v-svyazi-s-akciyami-protiv-voyny-s-ukrainoy-6-marta-2022-goda) OVD-Info, more than 5,000 people were detained. Some of the young women — both protesters and passers-by — who were detained and beaten in Moscow’s Brateyevo police department — shared their testimonies with Natalia Glukhova and Alexandra Novikova. Brateyevo became infamous after 26-year-old Muscovite [Alexandra Kaluzhskikh](https://novayagazeta.ru/articles/2022/03/07/putin-na-nashei-storone-18) published a full recording of her interrogation there.
+On Sunday, March 6, protests were held in 65 cities of Russia against “what cannot be named”. According [to](https://ovd.news/news/2022/03/06/spiski-zaderzhannyh-v-svyazi-s-akciyami-protiv-voyny-s-ukrainoy-6-marta-2022-goda) OVD-Info, more than 5,000 people were detained. Some of the young women — both protesters and passers-by — who were detained and beaten in Moscow’s Brateyevo police department — shared their testimonies with Natalia Glukhova and Alexandra Novikova. Brateyevo became infamous after 26-year-old Muscovite [Alexandra Kaluzhskikh](2022/03/07/putin-na-nashei-storone-18.md) published a full recording of her interrogation there.
 
 ![](_assets/34/34ec50cd6f83565ec62c31ca5f622692.webp)
 
@@ -150,9 +150,9 @@ Just 18 years old, Anna Simonyan — one of the few interviewees comfortable wit
 
 **MURATOV SPEAKS OUT.** In response to the harrowing testimonies of these young women, Novaya’s Editor-in-Chief Dmitry Muratov penned an open letter to Vladimir Kolokoltsev, the Minister of Internal Affairs, calling on him to respond. “Novaya Gazeta has been made aware of the inhuman treatment of those detained during the uncoordinated mass action in Moscow on March 6, 2022 […] I ask you to verify these reports and reign in the actions of your subordinates.”
 
-Read Glukhova and Novikova’s full report [here](https://novayagazeta.ru/articles/2022/03/07/vy-zhe-suki-tvari-proshmandovki-za-kopeiku).
+Read Glukhova and Novikova’s full report [here](2022/03/07/vy-zhe-suki-tvari-proshmandovki-za-kopeiku.md).
 
-# **Bonus RoundOn March 4, the rectors of 700 Russian higher education institutions published an open letter in support of the “special operation” in Ukraine. The letter came amid multiple expressions of support for President Putin from universities across the country. But not everything is as it seems, writes **[**Tatiana Likhanova, **](https://novayagazeta.ru/articles/2022/03/10/zhivye-i-mertvye-pishut-putinu) **as the petition in support of Putin from his alma mater demonstrates.**
+# **Bonus RoundOn March 4, the rectors of 700 Russian higher education institutions published an open letter in support of the “special operation” in Ukraine. The letter came amid multiple expressions of support for President Putin from universities across the country. But not everything is as it seems, writes **[**Tatiana Likhanova, **](2022/03/10/zhivye-i-mertvye-pishut-putinu.md) **as the petition in support of Putin from his alma mater demonstrates.**
 
 The University of St. Petersburg launched a call for signatures on VKontakte. Among the supposed signatories were people who were not only not active employees of the university, but also those who had no connection with it at all. Moreover, many names are accompanied by bizarre descriptions such as “non-admitted student”, “no longer a student”, and “mother of a first year student.” The icing on the cake, writes Likhanova, is the supposed signature of “Dmitry Yuryevich Beridze, a graduate of the Faculty of Law in 2018” — despite the fact that this student died in a car accident one year ago. The name has now been removed from the petition. Beridze was not the only deceased person found on the list. The 650th signature is allegedly that of Professor Viktor Alexandrovich Pliss, despite the fact that he passed away in 2019. The obituary marking his death was subsequently deleted from the university website.
 
@@ -170,6 +170,6 @@ The last seven years of Russian actions in Ukraine has left approximately 13,500
 >
 > This newsletter drop is written and edited by several journalists at the Novaya Gazeta newsroom. Please, support our work by promoting our newsletter with *#RussiaExplained* hashtag on social media.
 >
-> To keep up with Novaya Gazeta’s reporting throughout the week, you can follow us on [Facebook](https://www.facebook.com/novgaz/), [Twitter](https://twitter.com/novaya_gazeta), [Instagram](https://www.instagram.com/novayagazeta/), and [Telegram](https://t.me/novaya_pishet). Our video content is available on [Youtube](https://www.youtube.com/user/novayagazeta) and don’t forget to visit our [website](https://www.novayagazeta.ru/) for the latest stories in Russian.
+> To keep up with Novaya Gazeta’s reporting throughout the week, you can follow us on [Facebook](https://www.facebook.com/novgaz/), [Twitter](https://twitter.com/novaya_gazeta), [Instagram](https://www.instagram.com/novayagazeta/), and [Telegram](https://t.me/novaya_pishet). Our video content is available on [Youtube](https://www.youtube.com/user/novayagazeta) and don’t forget to visit our [website](https://web.archive.org/web/*/https://www.novayagazeta.ru/) for the latest stories in Russian.
 >
 >  *The Novaya Gazeta Team*

@@ -59,4 +59,4 @@ tags: ""
 
 **Алексей Крижевский**
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/05/21/anonimnost-mne-kazhetsia-ee-sovsem-ne-budet
+**Читайте также:** [«Анонимность… Мне кажется, ее совсем не будет»](2025/05/21/anonimnost-mne-kazhetsia-ee-sovsem-ne-budet.md)

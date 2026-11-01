@@ -19,4 +19,4 @@ tags: ""
 
 До апреля 2026 года «Макс» еще входил в пятерку, [уверяли](https://www.mos.ru/news/item/168291073/) чиновники. Однако за конец весны и начало лето уже сдал позиции.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/02/fas-prigrozila-delom-i-krupnym-shtrafom-apple-za-udalenie-maks-i-vk-iz-appstore-news
+**Читайте также:** [ФАС пригрозила делом и крупным штрафом Apple за удаление «МАКС» и VK из AppStore](2026/07/02/fas-prigrozila-delom-i-krupnym-shtrafom-apple-za-udalenie-maks-i-vk-iz-appstore-news.md)

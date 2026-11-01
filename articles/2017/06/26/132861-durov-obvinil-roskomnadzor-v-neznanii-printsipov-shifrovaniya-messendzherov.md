@@ -19,16 +19,16 @@ tags: "роскомнадзор, блокировка"
 
 «Потенциальная блокировка Telegram никак не усложнит задачи террористов и наркодилеров – в их распоряжении останутся десятки других мессенджеров, построенных на оконечном шифровании (+VPN). Ни в одной стране мира не заблокированы все подобные мессенджеры или все сервисы VPN. Чтобы победить терроризм через блокировки, придется заблокировать интернет», — пояснил создатель мессенджера.
 
-Накануне глава Роскомнадзора Александр Жаров в эфире телеканала «НТВ» [заявил](https://www.novayagazeta.ru/news/2017/06/25/132856-glava-roskomnadzora-do-blokirovki-telegram-ostayutsya-schitannye-dni), что время до блокировки мессенджера Telegram «исчисляется днями».
+Накануне глава Роскомнадзора Александр Жаров в эфире телеканала «НТВ» [заявил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/06/25/132856-glava-roskomnadzora-do-blokirovki-telegram-ostayutsya-schitannye-dni), что время до блокировки мессенджера Telegram «исчисляется днями».
 
-Ранее в пятницу Жаров лично [потребовал](https://www.novayagazeta.ru/news/2017/06/23/132803-glava-roskomnadzora-prigrozil-durovu-blokirovkoy-telegram) Павла Дурова и администрацию мессенджера передать данные о сервисе, чтобы ведомство включило его в реестр организаторов распространения информации в интернете.
+Ранее в пятницу Жаров лично [потребовал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/06/23/132803-glava-roskomnadzora-prigrozil-durovu-blokirovkoy-telegram) Павла Дурова и администрацию мессенджера передать данные о сервисе, чтобы ведомство включило его в реестр организаторов распространения информации в интернете.
 
-**link:** https://novayagazeta.ru/articles/2017/06/24/72898-telegram-ne-ori
+**link:** [Телеграм не ОРИ](2017/06/24/72898-telegram-ne-ori.md)
 
-Сам Дуров, комментируя письмо главы Роскомнадзора по поводу необходимости зарегистрировать мессенджер в России, [назвал](https://www.novayagazeta.ru/news/2017/06/23/132821-roskomnadzor-telegram-predostavlyaet-vozmozhnosti-dlya-obscheniya-terroristam) угрозы блокировки Telegram «саботажем государственных интересов».
+Сам Дуров, комментируя письмо главы Роскомнадзора по поводу необходимости зарегистрировать мессенджер в России, [назвал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/06/23/132821-roskomnadzor-telegram-predostavlyaet-vozmozhnosti-dlya-obscheniya-terroristam) угрозы блокировки Telegram «саботажем государственных интересов».
 
-В ответ Жаров заявил, что мессенджер игнорирует безопасность простых пользователей и предоставляет возможности для общения террористам и преступникам. Дуров [отверг](https://www.novayagazeta.ru/news/2017/06/23/132827-durov-otverg-obvineniya-roskomnadzora-v-neytralnom-otnoshenii-telegram-k-terrorizmu) эти обвинения.
+В ответ Жаров заявил, что мессенджер игнорирует безопасность простых пользователей и предоставляет возможности для общения террористам и преступникам. Дуров [отверг](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/06/23/132827-durov-otverg-obvineniya-roskomnadzora-v-neytralnom-otnoshenii-telegram-k-terrorizmu) эти обвинения.
 
-**link:** https://novayagazeta.ru/articles/2017/06/24/72903-zanyat-telegram
+**link:** [Занять Телеграм](2017/06/24/72903-zanyat-telegram.md)
 
 _Вера Юрченко_

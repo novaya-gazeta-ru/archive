@@ -51,4 +51,4 @@ tags: ""
 
 И жизнь, в которой вам ничего уже не нужно, кроме раздувания «капюшона собственной значимости», оживления политических трупов и ожидания милостей от администрации президента в надежде сохранить на выборах второе место и получить вторую по толщине пачку мандатов для присутствия в Думе и единодушного одобрения всего, что скажут.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/09/sud-v-vologde-potreboval-ubrat-pamiatnik-stalinu-ustanovlennyi-s-podachi-gubernatora-posle-pretenzii-prokuratury-on-utverzhdal-chto-monument-budet-stoiat-news
+**Читайте также:** [Суд в Вологде потребовал убрать памятник Сталину, установленный с подачи губернатора. После претензий прокуратуры он утверждал, что монумент «будет стоять»](2025/07/09/sud-v-vologde-potreboval-ubrat-pamiatnik-stalinu-ustanovlennyi-s-podachi-gubernatora-posle-pretenzii-prokuratury-on-utve.md)

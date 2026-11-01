@@ -31,4 +31,4 @@ tags: "карелия, диверсия, госизмена, арест"
 
 * **Карелия* **
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/03/06/u-politicheskikh-reshenii-net-shansov-byt-izmenennymi
+**Читайте также:** [«У политических решений нет шансов быть измененными»](2023/03/06/u-politicheskikh-reshenii-net-shansov-byt-izmenennymi.md)

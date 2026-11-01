@@ -36,4 +36,4 @@ tags: ""
 
 Совместное расследование «Новой газеты» с читателями продолжается.
 
-Скачать запросы можно [здесь](https://novayagazeta.ru/politics/6453.html).
+Скачать запросы можно [здесь](https://web.archive.org/web/*/https://novayagazeta.ru/politics/6453.html).

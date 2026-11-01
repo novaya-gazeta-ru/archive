@@ -19,4 +19,4 @@ tags: "обложка, новая газета, лукашенко"
 
 Выпуск от 10 августа выйдет под такой обложкой. Ищите в киосках.
 
-**link:** https://novayagazeta.ru/articles/2020/08/09/86587-vybory-prezidenta-belarusi-online
+**link:** [https://novayagazeta.ru/articles/2020/08/09/86587-vybory-prezidenta-belarusi-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/09/86587-vybory-prezidenta-belarusi-online)

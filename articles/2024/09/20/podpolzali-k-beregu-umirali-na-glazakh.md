@@ -147,7 +147,7 @@ tags: "экология, смерть уток, химические выбро�
 
 А вот Росприроднадзор в своем ответе на запрос сообщил, что на момент проведения визуального осмотра специалистами места происшествия «гибель флоры и фауны не зафиксирована». Росприроднадзору стоит увидеть фотографии, которые мы публикуем в нашем материале.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/19/liudi-zhdali-rodstvennikov-v-supermarketakh-kto-v-trusakh-vybegal-kto-v-nochnushke
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/19/liudi-zhdali-rodstvennikov-v-supermarketakh-kto-v-trusakh-vybegal-kto-v-nochnushke](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/19/liudi-zhdali-rodstvennikov-v-supermarketakh-kto-v-trusakh-vybegal-kto-v-nochnushke)
 
 ### ***
 

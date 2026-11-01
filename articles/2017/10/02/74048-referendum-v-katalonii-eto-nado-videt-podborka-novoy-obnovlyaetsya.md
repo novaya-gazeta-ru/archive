@@ -21,4 +21,4 @@ tags: "независимость, референдум, барселона, и�
 
 *Видео: Юрий Сафронов, «Новая газета», Анна Цигима, «Громадское», специально для «Новой газеты»*
 
-**link:** https://novayagazeta.ru/articles/2017/09/30/74027-pochemu-katalontsy-hotyat-nezavisimosti
+**link:** [Почему каталонцы хотят независимости](2017/09/30/74027-pochemu-katalontsy-hotyat-nezavisimosti.md)

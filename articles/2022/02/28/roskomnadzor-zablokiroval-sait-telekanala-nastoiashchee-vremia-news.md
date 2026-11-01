@@ -13,7 +13,7 @@ tags: "настоящее время, роскомнадзор, РКН, блок
 
 Роскомнадзор заблокировал в России сайт телеканала «Настоящее время»*. Об этом [сообщается](https://t.me/currenttime/7662) в телеграм-канале СМИ.\
  \
- 27 февраля Роскомнадзор [прислал](https://novayagazeta.ru/articles/2022/02/27/nastoiashchee-vremia-poluchilo-ot-roskomnadzora-uvedomlenie-o-blokirovke-saita-news) «Настоящему времени» уведомление о блокировке сайта без объяснения причин.
+ 27 февраля Роскомнадзор [прислал](2022/02/27/nastoiashchee-vremia-poluchilo-ot-roskomnadzora-uvedomlenie-o-blokirovke-saita-news.md) «Настоящему времени» уведомление о блокировке сайта без объяснения причин.
 
 ![](_assets/2c/2c711833ea8b3a7450f503e006096232.webp)
 
@@ -23,8 +23,8 @@ tags: "настоящее время, роскомнадзор, РКН, блок
  \
  В [реестр](https://reestr.rublacklist.net/) запрещенных сайтов Роскомнадзора также попали издания New Times, «Крым. Реалии»* и русскоязычная версия «Интерфакс-Украина». Все они заблокированы. Также, по требованию Генпрокуратуры, в реестр внесли украинские издания «Гордон», «Корреспондент» и «Украинская правда».
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/21/begstvo-ot-leviafana
+**Читайте также:** [Бегство от Левиафана](2022/02/21/begstvo-ot-leviafana.md)
 
-Ранее Роскомнадзор [потребовал](https://novayagazeta.ru/articles/2022/02/26/rkn-potreboval-ot-novoi-gazety-i-drugikh-smi-udalit-materialy-gde-proiskhodiashchee-v-ukraine-nazyvalos-voinoi-news) удалить материалы «Новой газеты», «Медиазоны»*, «Дождя»* и других СМИ за то, что происходящее в Украине в них называлось войной.
+Ранее Роскомнадзор [потребовал](2022/02/26/rkn-potreboval-ot-novoi-gazety-i-drugikh-smi-udalit-materialy-gde-proiskhodiashchee-v-ukraine-nazyvalos-voinoi-news.md) удалить материалы «Новой газеты», «Медиазоны»*, «Дождя»* и других СМИ за то, что происходящее в Украине в них называлось войной.
 
 #### ** Включено Минюстом в перечень СМИ, выполняющих функцию иностранного агента*

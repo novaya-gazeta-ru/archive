@@ -39,6 +39,6 @@ tags: "яблоко, сняли яблоко с выборов, выборы в 
 
 Фактически не менее 15 процентов избирателей страны (по данным социологов) будут отстранены от выборов: теперь им просто не за кого голосовать.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/10/proiskhodiashchee-ocherednaia-popytka-gosperevorota-ili-sobliudaite-svoiu-konstitutsiiu
+**Читайте также:** [Происходящее — очередная попытка госпереворота, или Соблюдайте свою Конституцию](2026/08/10/proiskhodiashchee-ocherednaia-popytka-gosperevorota-ili-sobliudaite-svoiu-konstitutsiiu.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/11/kontseptsiia-pomenialas
+**Читайте также:** [Концепция поменялась](2026/08/11/kontseptsiia-pomenialas.md)

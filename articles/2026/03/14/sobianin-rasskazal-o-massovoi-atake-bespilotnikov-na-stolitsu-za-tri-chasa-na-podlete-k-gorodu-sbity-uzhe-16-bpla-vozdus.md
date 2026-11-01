@@ -32,4 +32,4 @@ tags: ""
 
 С атаками БПЛА российские власти системно борются, ограничивая, в том числе, и мобильную связь: БПЛА якобы могут корректировать курс, поскольку имеют в блоке управления «симку».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/14/kommersant-posle-desiati-dnei-testirovaniia-internet-v-moskve-chastichno-zarabotal-po-belym-spiskam-no-v-chasti-raionov-stabilnoi-sviazi-vse-eshche-net-news
+**Читайте также:** [«Коммерсант»: после десяти дней тестирования интернет в Москве частично заработал по «белым спискам»](2026/03/14/kommersant-posle-desiati-dnei-testirovaniia-internet-v-moskve-chastichno-zarabotal-po-belym-spiskam-no-v-chasti-raionov-.md)

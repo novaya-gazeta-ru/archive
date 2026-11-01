@@ -17,7 +17,7 @@ tags: "собянин, навальный, росгвардия, омон, за�
 
 *Комсомольская площадь. Фото: Юрий Козырев / «Новая газета»*
 
-Смотрите фотографии корреспондентов «Новой газеты» с улиц Москвы 31 января. Здесь читайте [подробный онлайн](https://novayagazeta.ru/articles/2021/01/31/88975-mitingi-31-yanvarya-online) о том, как прошел этот день в России. А вот репортажи [об акциях в Москве](https://novayagazeta.ru/articles/2021/01/31/88989-ob-ekty-zahvata-sub-ekty-svobody) [и Петербурге](https://novayagazeta.ru/articles/2021/02/01/88991-zakrytyy-gorod).
+Смотрите фотографии корреспондентов «Новой газеты» с улиц Москвы 31 января. Здесь читайте [подробный онлайн](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/01/31/88975-mitingi-31-yanvarya-online) о том, как прошел этот день в России. А вот репортажи [об акциях в Москве](2021/01/31/88989-ob-ekty-zahvata-sub-ekty-svobody.md) [и Петербурге](2021/02/01/88991-zakrytyy-gorod.md).
 
 ![](_assets/3e/3edcad3602e2d26d91a4bfa8a61f3eaf.webp)
 

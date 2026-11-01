@@ -13,7 +13,7 @@ tags: ""
 
 > 18+. НАСТОЯЩИЙ МАТЕРИАЛ (ИНФОРМАЦИЯ) ПРОИЗВЕДЕН, РАСПРОСТРАНЕН И (ИЛИ) НАПРАВЛЕН ИНОСТРАННЫМ АГЕНТОМ ИНТЕРНЕТ-ИЗДАНИЕ «НОВАЯ ГАЗЕТА» ЛИБО КАСАЕТСЯ ДЕЯТЕЛЬНОСТИ ИНОСТРАННОГО АГЕНТА ИНТЕРНЕТ-ИЗДАНИЕ «НОВАЯ ГАЗЕТА»
 
-Проживающая теперь в Берлине политик Мария Колесникова, которая четыре года провела в белорусской тюрьме в режиме самой строгой изоляции «инкоммуникадо» и [была освобождена](https://novayagazeta.ru/articles/2025/12/13/lukashenko-posle-sniatiia-sanktsii-ssha-s-belkaliia-osvobodil-iz-tiurmy-pravozashchitnika-alesia-beliatskogo-mariiu-kolesnikovu-viktora-babariko-i-eshche-120-politzakliuchennykh-news) при посредничестве американской стороны, прокомментировала деятельность спецпосланника Джона Коула, на которого Трамп [возложил миссию](https://novayagazeta.ru/articles/2026/09/29/tramp-predlozhil-dzhonu-koulu-dolzhnost-amerikanskogo-posla-po-delam-zalozhnikov-zainteresovavshis-vozmozhnostiu-osvobodit-rossiiskikh-politzakliuchennykh-news) по работе уже с российскими политзаключенными.
+Проживающая теперь в Берлине политик Мария Колесникова, которая четыре года провела в белорусской тюрьме в режиме самой строгой изоляции «инкоммуникадо» и [была освобождена](2025/12/13/lukashenko-posle-sniatiia-sanktsii-ssha-s-belkaliia-osvobodil-iz-tiurmy-pravozashchitnika-alesia-beliatskogo-mariiu-kole.md) при посредничестве американской стороны, прокомментировала деятельность спецпосланника Джона Коула, на которого Трамп [возложил миссию](2026/09/29/tramp-predlozhil-dzhonu-koulu-dolzhnost-amerikanskogo-posla-po-delam-zalozhnikov-zainteresovavshis-vozmozhnostiu-osvobod.md) по работе уже с российскими политзаключенными.
 
 Колесникова назвала Коула «спасителем белорусов» и приветствовала его назначение, добавив, что у американца должно хватать времени и на продолжение работы по освобождению политзаключенных в Беларуси.
 
@@ -33,10 +33,10 @@ tags: ""
 
 Напомним, Мария Колесникова — одна из признанных лидеров мирных протестов в Беларуси в 2020 году. В сентябре 2021 года она как глава штаба оппозиционного кандидата Виктора Бабарико на выборах президента страны была приговорена к 11 годам лишения свободы по обвинению в «заговоре с целью захвата власти».
 
-В декабре 2025 года Колесникова [была освобождена](https://novayagazeta.ru/articles/2025/12/13/lukashenko-posle-sniatiia-sanktsii-ssha-s-belkaliia-osvobodil-iz-tiurmy-pravozashchitnika-alesia-beliatskogo-mariiu-kolesnikovu-viktora-babariko-i-eshche-120-politzakliuchennykh-news) вместе со 122 другими политическими заключенными после переговоров между Лукашенко и спецпосланника Трампа Джона Коула. После освобождения Колесникова была депортирована из Беларуси.
+В декабре 2025 года Колесникова [была освобождена](2025/12/13/lukashenko-posle-sniatiia-sanktsii-ssha-s-belkaliia-osvobodil-iz-tiurmy-pravozashchitnika-alesia-beliatskogo-mariiu-kole.md) вместе со 122 другими политическими заключенными после переговоров между Лукашенко и спецпосланника Трампа Джона Коула. После освобождения Колесникова была депортирована из Беларуси.
 
-> ### «Новая газета» [рассказывала, как Джон Коул](https://novayagazeta.ru/articles/2026/09/24/okno-sluchainykh-vozmozhnostei) возглавил переговоры об освобождении белорусских политзеков.
+> ### «Новая газета» [рассказывала, как Джон Коул](2026/09/24/okno-sluchainykh-vozmozhnostei.md) возглавил переговоры об освобождении белорусских политзеков.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/30/peskov-v-rossii-net-politzakliuchennykh-poetomu-tema-ikh-obmena-ne-obsuzhdalas-news
+**Читайте также:** [Песков: в России нет политзаключенных, поэтому тема их обмена не обсуждалась](2026/09/30/peskov-v-rossii-net-politzakliuchennykh-poetomu-tema-ikh-obmena-ne-obsuzhdalas-news.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/20/dmitrii-muratov-v-efire-cnn-pokazal-foto-rossiiskikh-politzekov-i-prizval-politikov-v-mire-a-osobenno-amerikanskikh-peregovorshchikov-trampa-dobivatsia-ikh-osvobozhdeniia-news
+**Читайте также:** [Дмитрий Муратов* в эфире CNN показал фото российских политзеков и призвал политиков в мире, а особенно американских переговорщиков Трампа, добиваться их освобождения](2026/09/20/dmitrii-muratov-v-efire-cnn-pokazal-foto-rossiiskikh-politzekov-i-prizval-politikov-v-mire-a-osobenno-amerikanskikh-pere.md)

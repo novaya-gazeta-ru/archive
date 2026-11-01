@@ -213,7 +213,7 @@ tags: "новоколледж, дискредитация армии, пту, н
 
 Любого на улице спроси — все знать будут. Мой имидж от этого не пострадает, моя совесть будет чиста.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/03/khotite-li-vy-stat-obektom-v-voine-za-istoriiu
+**Читайте также:** [«Хочешь стать объектом в 'войне за историю'?»](2022/03/03/khotite-li-vy-stat-obektom-v-voine-za-istoriiu.md)
 
 ## «Эти люди зависли в 1970-х годах»
 
@@ -345,4 +345,4 @@ tags: "новоколледж, дискредитация армии, пту, н
 
  ***Новосибирск***
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/23/chasami-ottachivaiut-stroevoi-shag
+**Читайте также:** [«Часами оттачивают строевой шаг»](2022/03/23/chasami-ottachivaiut-stroevoi-shag.md)

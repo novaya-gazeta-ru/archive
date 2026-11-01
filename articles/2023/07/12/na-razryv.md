@@ -53,4 +53,4 @@ tags: "флаг, морское кладбище, владивосток, ваг
 
 **Владивосток**
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/07/11/ukrainets-taksist-khotel-voevat-za-rossiiu
+**Читайте также:** [Украинец, таксист, хотел воевать за Россию](2023/07/11/ukrainets-taksist-khotel-voevat-za-rossiiu.md)

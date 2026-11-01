@@ -29,7 +29,7 @@ tags: "тц зимняя вишня, акции протеста, Санкт-П�
 
 *Мемориал на Дворцовой площади. Фото: Елена Лукьянова / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2018/03/27/75964-deti-prostite-nas-na-pushkinskoy-ploschadi-v-moskve-proshla-aktsiya-pamyati-pogibshih-v-kemerovo
+**link:** [«Дети, простите нас». На Пушкинской площади в Москве прошла акция памяти погибших в Кемерово](2018/03/27/75964-deti-prostite-nas-na-pushkinskoy-ploschadi-v-moskve-proshla-aktsiya-pamyati-pogibshih-v-kemerovo.md)
 
 ![](_assets/0c/0c15279a4e7e1ef414f2cdb7c9efc405.webp)
 
@@ -47,7 +47,7 @@ tags: "тц зимняя вишня, акции протеста, Санкт-П�
 
 *Мемориал на Марсовом поле. Фото: Елена Лукьянова / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2018/03/27/75962-mne-vse-ravno-kto-zaper-dver-vernite-moih-detey
+**link:** [«Мне все равно, кто запер дверь, верните моих детей!»](2018/03/27/75962-mne-vse-ravno-kto-zaper-dver-vernite-moih-detey.md)
 
 ![](_assets/59/5991e0336b02aa937bc94880b845b132.webp)
 

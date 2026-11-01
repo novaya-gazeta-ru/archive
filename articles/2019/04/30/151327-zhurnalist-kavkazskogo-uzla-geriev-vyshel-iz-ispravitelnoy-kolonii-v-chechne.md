@@ -19,6 +19,6 @@ tags: "журналисты, кавказский узел, чечня, va"
 
 По словам Гериева, его обвиняли в работе против властей Чечни и заставили признаться в хранении марихуаны. Позже журналист отказался от этих показаний. «Мемориал» [признавал](https://zona.media/news/2016/17/10/geriev_politicheskiy) его политзаключенным.
 
-**link:** https://novayagazeta.ru/articles/2016/11/17/70569-kladbischenskaya-istoriya
+**link:** [https://novayagazeta.ru/articles/2016/11/17/70569-kladbischenskaya-istoriya](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2016/11/17/70569-kladbischenskaya-istoriya)
 
-В 2016 году Верховный суд Чечни[ оставил](https://www.novayagazeta.ru/news/2016/12/28/127796-verhovnyy-sud-chechni-ostavil-v-sile-prigovor-zhurnalistu-zhalaudi-gerievu) приговор Гериеву в силе, а через год он также [отменил постановление](https://www.novayagazeta.ru/articles/2018/11/11/78546-gde-kogo-za-chto) о его условно-досрочном освобождении, которое принял Наурский райсуд Чечни.
+В 2016 году Верховный суд Чечни[ оставил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2016/12/28/127796-verhovnyy-sud-chechni-ostavil-v-sile-prigovor-zhurnalistu-zhalaudi-gerievu) приговор Гериеву в силе, а через год он также [отменил постановление](2018/11/11/78546-gde-kogo-za-chto.md) о его условно-досрочном освобождении, которое принял Наурский райсуд Чечни.

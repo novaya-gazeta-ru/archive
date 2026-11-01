@@ -17,7 +17,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/07/27/1437963373_798585_75.jpg" style="width: 250px; height: 278px;"><sup>Артем Хачатурян</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/07/27/1437963373_798585_75.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/07/27/1437963373_798585_75.jpg)" style="width: 250px; height: 278px;"><sup>Артем Хачатурян</sup></td>
 		</tr>
 	</tbody>]*
 

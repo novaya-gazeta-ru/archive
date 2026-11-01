@@ -17,10 +17,10 @@ tags: "минск, протесты в Беларуси, протесты, ок�
 
 «Мы намерены поставить заботу о правах человеку во главу нашей внешней политики и подтверждаем это намерение, используя доступные инструменты <...>», — говорится в сообщении. Санкции предполагают запрет на въезд в страну для попавших в список и членов их семей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/08/14/86666-slushay-i-idi-kriki-iz-izolyatora-v-minske-zvuk
+**Читайте также:** [Слушай и иди. Крики из изолятора в Минске: ЗВУК](2020/08/14/86666-slushay-i-idi-kriki-iz-izolyatora-v-minske-zvuk.md)
 
-Летом президент США Джо Байден [утвердил](https://novayagazeta.ru/articles/2021/08/09/ssha-i-kanada-vveli-novye-sanktsii-protiv-belarusi-news) очередной пакет санкций против Беларуси в связи с действиями властей, направленными на «подавление демократии и прав человека». Всего в список вошли 23 человека и 21 компания, включая «Беларуськалий», «Белнефтегаз», «Белказтранс» и «Интер Тобакко». Тогда власти США назвали белорусский режим «включающим в себя незаконную и репрессивную деятельность» и связали это с «фальсификацией президентских выборов в Беларуси 9 августа 2020 года».
+Летом президент США Джо Байден [утвердил](2021/08/09/ssha-i-kanada-vveli-novye-sanktsii-protiv-belarusi-news.md) очередной пакет санкций против Беларуси в связи с действиями властей, направленными на «подавление демократии и прав человека». Всего в список вошли 23 человека и 21 компания, включая «Беларуськалий», «Белнефтегаз», «Белказтранс» и «Интер Тобакко». Тогда власти США назвали белорусский режим «включающим в себя незаконную и репрессивную деятельность» и связали это с «фальсификацией президентских выборов в Беларуси 9 августа 2020 года».
 
-Санкции против Беларуси также объявляли [Канада](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/belarus_regulations-reglement.aspx?lang=eng) и [Великобритания](https://novayagazeta.ru/articles/2021/08/09/velikobritaniia-vvela-novye-sanktsii-protiv-belarusi-pod-ogranicheniia-popal-i-rossiianin-mikhail-gutseriev-news). Последняя назвала недопустимым «продолжающееся подавление демократии и нарушение прав человека в стране».
+Санкции против Беларуси также объявляли [Канада](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/belarus_regulations-reglement.aspx?lang=eng) и [Великобритания](2021/08/09/velikobritaniia-vvela-novye-sanktsii-protiv-belarusi-pod-ogranicheniia-popal-i-rossiianin-mikhail-gutseriev-news.md). Последняя назвала недопустимым «продолжающееся подавление демократии и нарушение прав человека в стране».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/09/godovshchina-protestov-v-belarusi
+**Читайте также:** [Годовщина протестов в Беларуси](2021/08/09/godovshchina-protestov-v-belarusi.md)

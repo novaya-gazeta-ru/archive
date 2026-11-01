@@ -37,4 +37,4 @@ tags: ""
 
 Затем пост был отредактирован, фотографии детей у макета убраны. Но упоминания цитат и изображений [остались](https://161.ru/text/gorod/2024/10/20/74234258/) в местных СМИ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/02/leto-s-pistoletom
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/02/leto-s-pistoletom](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/02/leto-s-pistoletom)

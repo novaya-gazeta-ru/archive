@@ -31,6 +31,6 @@ tags: ""
 
 О том, как в Советском союзе подростков привлекали к ответственности с 12 лет, «Новая газета» рассказывала.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/26/voploshchenie-novogo-gumanizma
+**Читайте также:** [Воплощение «нового гуманизма»](2026/02/26/voploshchenie-novogo-gumanizma.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/05/27/che-predatelstvo
+**Читайте также:** [Чье предательство?](2026/05/27/che-predatelstvo.md)

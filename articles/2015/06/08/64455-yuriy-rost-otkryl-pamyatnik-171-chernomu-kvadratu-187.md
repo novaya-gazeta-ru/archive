@@ -15,6 +15,6 @@ tags: ""
 
 Накануне юбилея знаменитой картины Юрий Рост, обозреватель «Новой газеты», открыл в своем дворе на Чистых прудах памятник «Черному квадрату» — черный кубометр.
 
-**link:** https://novayagazeta.ru/arts/68709.html
+**link:** [https://novayagazeta.ru/arts/68709.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/68709.html)
 
-**link:** https://novayagazeta.ru/arts/68709.html
+**link:** [https://novayagazeta.ru/arts/68709.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/68709.html)

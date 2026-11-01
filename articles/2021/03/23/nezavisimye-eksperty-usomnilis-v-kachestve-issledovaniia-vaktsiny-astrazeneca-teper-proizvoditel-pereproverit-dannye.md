@@ -19,8 +19,8 @@ tags: "kn, astrazeneca, вакцинация"
 
 Вчера AstraZeneca [опубликовала](https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2021/astrazeneca-us-vaccine-trial-met-primary-endpoint.html) данные о высокой эффективности препарата. В исследовании приняли участие более 30 тысяч американцев. Производитель утверждает, что вакцина справляется с симптоматикой COVID-19 в 79% случаев. Более того, в отчете утверждается, что препарат не повышает риск тромбообразования.
 
-На прошлой неделе Европейское агентство по лекарственным средствам (EMA) [заявило](https://novayagazeta.ru/articles/2021/03/18/evropeiskii-reguliator-podtverdil-bezopasnost-vaktsiny-astrazeneca), что не выявило связи между осложнениями у привитых вакциной AstraZeneca и качеством препарата. Всемирная организация здравоохранения (ВОЗ) также рекомендовала не отказываться от вакцинации препаратом AstraZeneca.
+На прошлой неделе Европейское агентство по лекарственным средствам (EMA) [заявило](2021/03/18/evropeiskii-reguliator-podtverdil-bezopasnost-vaktsiny-astrazeneca.md), что не выявило связи между осложнениями у привитых вакциной AstraZeneca и качеством препарата. Всемирная организация здравоохранения (ВОЗ) также рекомендовала не отказываться от вакцинации препаратом AstraZeneca.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/16/gibridnaia-privivka
+**Читайте также:** [Гибридная прививка](2021/03/16/gibridnaia-privivka.md)
 
-Ранее более 10 европейских стран [приостановили](https://novayagazeta.ru/articles/2021/03/16/shvetsiia-obiavila-o-priostanovke-ispolzovaniia-vaktsiny-astrazeneca) использование вакцины AstraZeneca из–за опасений насчет смертельно опасных побочных эффектов, в том числе тромбоза.
+Ранее более 10 европейских стран [приостановили](2021/03/16/shvetsiia-obiavila-o-priostanovke-ispolzovaniia-vaktsiny-astrazeneca.md) использование вакцины AstraZeneca из–за опасений насчет смертельно опасных побочных эффектов, в том числе тромбоза.

@@ -23,8 +23,8 @@ tags: "полиция, перформанс, арбат, задержание, �
 
 В начале августа суд назначил Никифировской трое, а Ахмедовой — двое суток ареста за мелкое хулиганство. Полиция задержала задержала девушек 28 июля возле входа в ОП №5 Екатеринбурга. Никифоровская была одета в куртку с надписью «Провокация» на спине, имитирующую форму полиции.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/02/chtoby-bylo-vremia-podumat-o-chistote-dushi-sud-v-ekaterinburge-arestoval-mestnuiu-zhitelnitsu-za-pozirovanie-s-golymi-iagoditsami-vozle-otdela-politsii-news
+**Читайте также:** [«Чтобы было время подумать о чистоте души». Суд в Екатеринбурге арестовал местную жительницу за позирование с голыми ягодицами возле отдела полиции](2021/08/02/chtoby-bylo-vremia-podumat-o-chistote-dushi-sud-v-ekaterinburge-arestoval-mestnuiu-zhitelnitsu-za-pozirovanie-s-golymi-i.md)
 
-Полиция [мотивировала](https://novayagazeta.ru/articles/2021/08/02/chtoby-bylo-vremia-podumat-o-chistote-dushi-sud-v-ekaterinburge-arestoval-mestnuiu-zhitelnitsu-za-pozirovanie-s-golymi-iagoditsami-vozle-otdela-politsii-news) их задержание тем, что девушкам якобы необходимо «подумать о чистоте души и подобающем поведении в обществе».
+Полиция [мотивировала](2021/08/02/chtoby-bylo-vremia-podumat-o-chistote-dushi-sud-v-ekaterinburge-arestoval-mestnuiu-zhitelnitsu-za-pozirovanie-s-golymi-i.md) их задержание тем, что девушкам якобы необходимо «подумать о чистоте души и подобающем поведении в обществе».
 
 *Обновлено (15:59) — добавлена информация о вменяемом правонарушении*

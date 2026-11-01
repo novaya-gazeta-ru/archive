@@ -25,4 +25,4 @@ tags: ""
 
 Средства за работу россиянин, как утверждается, получил на криптокошельки, так как хотел сохранить анонимность. Удалось ли это установить только постфактум после задержания, или ФСБ смогла увидеть и связать эти переводы с вменяемым преступлением до задержания и допросов — не указывается.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/13/v-peterburge-dve-shkolnitsy-pokonchili-s-soboi-posle-obshcheniia-s-telefonnymi-moshennikami-news
+**Читайте также:** [В Петербурге две школьницы покончили с собой после общения с телефонными мошенниками](2026/02/13/v-peterburge-dve-shkolnitsy-pokonchili-s-soboi-posle-obshcheniia-s-telefonnymi-moshennikami-news.md)

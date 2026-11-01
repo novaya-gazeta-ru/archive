@@ -17,6 +17,6 @@ tags: "фсб, плесецк, госизмена, ep"
  \
  Статья о госизмене предусматривает лишение свободы на срок от 12 до 20 лет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/05/28/spisok-rossiian-osuzhdennykh-po-state-gosizmena-1997-2020-gg
+**Читайте также:** [https://novayagazeta.ru/articles/2021/05/28/spisok-rossiian-osuzhdennykh-po-state-gosizmena-1997-2020-gg](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/05/28/spisok-rossiian-osuzhdennykh-po-state-gosizmena-1997-2020-gg)
 
-По данным исследования «Новой газеты», за последние 20 лет в России [осудили](https://novayagazeta.ru/articles/2021/05/28/spisok-rossiian-osuzhdennykh-po-state-gosizmena-1997-2020-gg) за госизмену и шпионаж около 100 человек, еще 278 обвиняемым вынесли приговор за разглашение гостайны. Также впервые за последние 23 года за госизмену преследуют журналиста — бывшего сотрудника «Коммерсанта» и «Ведомостей», советника главы Роскосмоса Ивана Сафронова.
+По данным исследования «Новой газеты», за последние 20 лет в России [осудили](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/05/28/spisok-rossiian-osuzhdennykh-po-state-gosizmena-1997-2020-gg) за госизмену и шпионаж около 100 человек, еще 278 обвиняемым вынесли приговор за разглашение гостайны. Также впервые за последние 23 года за госизмену преследуют журналиста — бывшего сотрудника «Коммерсанта» и «Ведомостей», советника главы Роскосмоса Ивана Сафронова.

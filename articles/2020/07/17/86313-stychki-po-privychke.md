@@ -39,7 +39,7 @@ tags: "война, нагорный карабах, азербайджан, ар
 
 — Это демонстрация уровня ненависти, которого на самом деле нет. Это немножко нарочитая и разыгранная ненависть, но благодаря техническим средствам впечатление тотальное. Это тоже опасно, потому что люди действительно могут поверить, что они ненавидят друг друга.
 
-**link:** https://novayagazeta.ru/news/2020/07/15/163023-v-baku-proshel-miting-v-podderzhku-armii-iz-za-stolknoveniy-voennyh-na-granitse-s-armeniey
+**link:** [https://novayagazeta.ru/news/2020/07/15/163023-v-baku-proshel-miting-v-podderzhku-armii-iz-za-stolknoveniy-voennyh-na-granitse-s-armeniey](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/07/15/163023-v-baku-proshel-miting-v-podderzhku-armii-iz-za-stolknoveniy-voennyh-na-granitse-s-armeniey)
 
 **— Стоит ли тогда всерьез воспринимать митинг в Баку пятнадцатого июля? Повлияют ли настроения жителей обеих стран на развитие событий?**
 

@@ -17,6 +17,6 @@ tags: "fitch, Moody's, S&P, рейтинги, санкции"
  \
  7 марта группа компаний Fitch [объявила](https://www.fitchratings.com/research/corporate-finance/fitch-group-suspends-commercial-operations-in-russia-07-03-2022?ite=708092&ito=2639&itq=5a2f8e2c-83b4-4cdf-a8da-6cad6e252884&itx%5Bidio%5D=117280159) о приостановке своей коммерческой деятельности в России.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/18/net-eto-ne-90-e
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/18/net-eto-ne-90-e](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/18/net-eto-ne-90-e)
 
 Ранее корпорация Moody's [объявила](https://ir.moodys.com/press-releases/news-details/2022/Moodys-to-Suspend-Commercial-Operations-in-Russia/default.aspx) о приостановке коммерческих операций в России, а рейтинговое агентство S&P Global Ratings [решило](https://www.spglobal.com/ratings/en/research/articles/220321-s-p-global-ratings-to-withdraw-ratings-on-russian-entities-12317734)отозвать кредитные рейтинги всех российских компаний.

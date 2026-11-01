@@ -16,7 +16,7 @@ tags: "китайцы, россия"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/11/15/1384603588_630297_63.jpg" style="width: 340px; height: 243px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/11/15/1384603588_630297_63.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/11/15/1384603588_630297_63.jpg)" style="width: 340px; height: 243px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">

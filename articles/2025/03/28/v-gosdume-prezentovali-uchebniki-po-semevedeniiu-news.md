@@ -29,4 +29,4 @@ tags: "семьяведение, учебник, госдума, останин�
 
 Курс «Моя семья», он же «семьеведение», включает 36 внеурочных часов. Эти занятия должны «формировать в сознании обучающихся ценности крепкой семьи, брака, многодетности».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/06/26/ni-seksa-ni-deneg-odno-vozderzhanie
+**Читайте также:** [https://novayagazeta.ru/articles/2024/06/26/ni-seksa-ni-deneg-odno-vozderzhanie](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/06/26/ni-seksa-ni-deneg-odno-vozderzhanie)

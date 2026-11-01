@@ -19,16 +19,16 @@ tags: "торшин, сша, мария бутина, kb"
 
 Деньги стали собирать после того, как 19 мая [появилось](https://www.instagram.com/p/BxmAkWJBhOZ/) видеообращение Бутиной, в котором попросила помочь ей покрыть долги за услуги адвокатов.
 
-**link:** https://novayagazeta.ru/articles/2019/05/02/80416-ne-shpionka-no-navodchik
+**link:** [Не шпионка, но наводчик](2019/05/02/80416-ne-shpionka-no-navodchik.md)
 
 Фонд защиты национальных ценностей — некоммерческая организация, деятельность которой, как указано на сайте, направлена на защиту национальных интересов России, свободы слова и представителей СМИ по всему миру.
 
-Одного из основателей фонда — Петра Бычкова — журналисты издания «Проект» [называли](https://www.novayagazeta.ru/news/2019/04/11/150800-proekt-prigozhin-planiruet-sozdat-afrikanskuyu-imperiyu) политтехнологом связанного с бизнесменом Евгением Пригожиным «бэк-офиса», который работает над его африканскими проектами. Сами основатели [говорили](https://newinform.com/160769-russkie-i-afrika-fond-zashity-nacionalnykh-cennostei-rasskazal-o-svoei-rabote), что Фонд национальных ценностей помогает пострадавшим от действий США африканцам.
+Одного из основателей фонда — Петра Бычкова — журналисты издания «Проект» [называли](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/04/11/150800-proekt-prigozhin-planiruet-sozdat-afrikanskuyu-imperiyu) политтехнологом связанного с бизнесменом Евгением Пригожиным «бэк-офиса», который работает над его африканскими проектами. Сами основатели [говорили](https://newinform.com/160769-russkie-i-afrika-fond-zashity-nacionalnykh-cennostei-rasskazal-o-svoei-rabote), что Фонд национальных ценностей помогает пострадавшим от действий США африканцам.
 
 Александр Малькевич,  который является руководителем новостного агентства USA Really и возглавляет комиссию по развитию информационного сообщества, СМИ и массовых коммуникаций Общественной палаты России, [фигурирует](http://fznc.world/nashi-novosti/fond-zashhity-natsionalnyh-tsennostej-perevel-pervye-5-mln-rublej-dlya-okazaniya-pomoshhi-marii-butinoj/) в санкционном списке США из-за его связей с «фабрикой троллей».
 
-**link:** https://novayagazeta.ru/articles/2018/07/11/77123-prosnis-amerika-russkie-opyat-prishli
+**link:** [Проснись, Америка! Русские опять пришли](2018/07/11/77123-prosnis-amerika-russkie-opyat-prishli.md)
 
-Напомним, в апреле суд в Калифорнии [приговорил](https://www.novayagazeta.ru/news/2019/04/26/151242-rossiyanku-mariyu-butinu-prigovorili-k-18-mesyatsam-tyurmy-po-obvineniyu-v-sgovore-v-interesah-rossii) россиянку Марию Бутину к 18 месяцам тюрьмы по обвинению в работе иностранным агентом без лицензии. По версии следствия, Бутина по заданию бывшего сенатора и зампреда российского Центробанка Александра Торшина налаживала отношения с американскими консерваторами. Она частично признала свою вину.
+Напомним, в апреле суд в Калифорнии [приговорил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/04/26/151242-rossiyanku-mariyu-butinu-prigovorili-k-18-mesyatsam-tyurmy-po-obvineniyu-v-sgovore-v-interesah-rossii) россиянку Марию Бутину к 18 месяцам тюрьмы по обвинению в работе иностранным агентом без лицензии. По версии следствия, Бутина по заданию бывшего сенатора и зампреда российского Центробанка Александра Торшина налаживала отношения с американскими консерваторами. Она частично признала свою вину.
 
 В министерстве иностранных дел России [заявили](http://www.mid.ru/ru/foreign_policy/news/-/asset_publisher/cKNonkJE02Bw/content/id/3627130), что россиянку осудили исключительно из-за ее гражданства.

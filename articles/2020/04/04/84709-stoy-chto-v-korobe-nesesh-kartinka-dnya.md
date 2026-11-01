@@ -17,4 +17,4 @@ tags: "карантин, доставка, курьер"
 
 *Петр Саруханов / «Новая газета»*
 
-**link:** https://novayagazeta.ru/news/2020/04/03/160377-onlayn-magaziny-pozhalovalis-na-zaderzhaniya-kurierov-v-regionah
+**link:** [https://novayagazeta.ru/news/2020/04/03/160377-onlayn-magaziny-pozhalovalis-na-zaderzhaniya-kurierov-v-regionah](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/04/03/160377-onlayn-magaziny-pozhalovalis-na-zaderzhaniya-kurierov-v-regionah)

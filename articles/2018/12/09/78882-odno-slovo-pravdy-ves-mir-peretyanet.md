@@ -49,7 +49,7 @@ tags: "юбилей, солженицын"
 
 А в ноябре в «Новом мире» вышел «Один день Ивана Денисовича»…
 
-**link:** https://novayagazeta.ru/articles/2018/12/09/78881-aleksandr-solzhenitsyn-stuchit-metronom-neumolimo
+**link:** [https://novayagazeta.ru/articles/2018/12/09/78881-aleksandr-solzhenitsyn-stuchit-metronom-neumolimo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2018/12/09/78881-aleksandr-solzhenitsyn-stuchit-metronom-neumolimo)
 
 # «Архипелаг ГУЛАГ»
 
@@ -85,7 +85,7 @@ tags: "юбилей, солженицын"
 
 Помню его выступление в Государственной думе. На лицах депутатов — ​скука, снисходительные улыбки. Хотя говорил-то Александр Исаевич, в частности, о том, что злободневно и поныне — ​о самоуправлении. Не привлекли особого внимания и еженедельные авторские программы Солженицына в эфире РГТРК «Останкино» в 1994–1995 годах. Сборник публицистических статей «Россия в обвале» вышел в 1998 году тиражом… две тысячи экземпляров.
 
-**link:** https://novayagazeta.ru/articles/2018/12/09/78880-chuvstvo-doma-pod-razvalinami
+**link:** [Чувство дома под развалинами](2018/12/09/78880-chuvstvo-doma-pod-razvalinami.md)
 
 # О государстве и государственности
 

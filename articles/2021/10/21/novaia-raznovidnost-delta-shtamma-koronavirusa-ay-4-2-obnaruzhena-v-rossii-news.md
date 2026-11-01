@@ -23,4 +23,4 @@ tags: "коронавирус, корона, вакцина, ai"
 
 Накануне вариант AY.4.2. [обнаружили](https://www.cnbc.com/2021/10/20/uk-health-minister-says-covid-cases-may-hit-100000-a-day-in-winter.html) в Великобритании. Министр здравоохранения страны Саджид Джавид заявил, что за распространением AY.4.2 пристально следят, но пока не вводят новые меры.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/19/gosudarstvo-proigralo-chto-dalshe
+**Читайте также:** [«Государство проиграло». Что дальше?](2021/10/19/gosudarstvo-proigralo-chto-dalshe.md)

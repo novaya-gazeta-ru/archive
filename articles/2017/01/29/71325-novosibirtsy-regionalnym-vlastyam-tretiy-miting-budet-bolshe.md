@@ -17,7 +17,7 @@ tags: "жкх, тарифы, коммунальные услуги, протес
 
 Тогда в мороз за минус 30 у памятника Александру III собрались около трехсот новосибирцев.
 
-**link:** https://novayagazeta.ru/news/2016/12/24/127714-v-novosibirske-sostoyalsya-miting-protiv-rosta-tarifov-zhkh
+**link:** [https://novayagazeta.ru/news/2016/12/24/127714-v-novosibirske-sostoyalsya-miting-protiv-rosta-tarifov-zhkh](https://web.archive.org/web/*/https://novayagazeta.ru/news/2016/12/24/127714-v-novosibirske-sostoyalsya-miting-protiv-rosta-tarifov-zhkh)
 
 Сейчас погода больше благоприятствовала мероприятию (минус 20 — 22). Благосклонней на сей раз оказалась и мэрия: коммунист Анатолий Локоть, разрешил провести митинг у памятника Ленину.
 

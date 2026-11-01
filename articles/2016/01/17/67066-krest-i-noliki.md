@@ -47,9 +47,9 @@ tags: "рпц, фас"
 
 Этот доклад стал венцом многолетней борьбы НАИЗ против руководства ведомства, а его вдохновители и исполнители, очевидно, рассчитывали на «главное лицо», которое должно было принять серьезное кадровое решение в отношении главы антимонопольного ведомства.
 
-**link:** https://novayagazeta.ru/arts/70788.html
+**link:** [https://novayagazeta.ru/arts/70788.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/70788.html)
 
-**link:** https://novayagazeta.ru/arts/70788.html
+**link:** [https://novayagazeta.ru/arts/70788.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/70788.html)
 
 Но предшествовала этому «талмуду» мелкая, но весьма эффективная работа по дискредитации идейных противников.
 

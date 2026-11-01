@@ -83,7 +83,7 @@ tags: "яблоко, вишневский, борис вишневский, па
 
 Первое совершенно не исключено — избирательное законодательство предоставляет массу возможностей для недопуска «неправильных» конкурентов, которые потом замучаются бегать по судам вместо ведения кампании.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/20/sud-v-peterburge-priznal-ekstremistskoi-knigu-eks-deputata-borisa-vishnevskogo-khroniki-vozrozhdennogo-arkanara-news
+**Читайте также:** [Суд в Петербурге признал «экстремистской» книгу экс-депутата Бориса Вишневского* «Хроники возрожденного Арканара»**](2025/11/20/sud-v-peterburge-priznal-ekstremistskoi-knigu-eks-deputata-borisa-vishnevskogo-khroniki-vozrozhdennogo-arkanara-news.md)
 
 А если говорить о втором, то именно это мы и видим.
 

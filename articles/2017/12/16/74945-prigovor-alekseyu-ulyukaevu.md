@@ -19,4 +19,4 @@ tags: "москва, суды, приговор, улюкаев"
 
 **Надежда Мироненко,**текст
 
-**link:** https://novayagazeta.ru/articles/2017/12/15/74932-delo-ulyukaeva-glavnoe
+**link:** [Дело Алексея Улюкаева](2017/12/15/74932-delo-ulyukaeva-glavnoe.md)

@@ -25,8 +25,8 @@ tags: ""
 
 Судья Светлана Марина действовала в рамках уже опробованной в других регионах схеме: удовлетворила иск, отказывая в ходатайствах защиты.
 
-Ранее сегодня Облсуд Свердловской области [отменил](https://novayagazeta.ru/articles/2026/08/28/iabloko-sniali-s-vyborov-v-parlament-sverdlovskoi-oblasti-po-isku-ldpr-na-zasedanii-zaslushali-otryvok-iz-pesni-pust-vsegda-budet-solntse-news) регистрацию списка «Яблока». Сценарий заседания был очень похож на калининградский, а ранее — [на псковский](https://novayagazeta.ru/articles/2026/08/26/a-posle-obeda-oni-pereobulis)
+Ранее сегодня Облсуд Свердловской области [отменил](2026/08/28/iabloko-sniali-s-vyborov-v-parlament-sverdlovskoi-oblasti-po-isku-ldpr-na-zasedanii-zaslushali-otryvok-iz-pesni-pust-vse.md) регистрацию списка «Яблока». Сценарий заседания был очень похож на калининградский, а ранее — [на псковский](2026/08/26/a-posle-obeda-oni-pereobulis.md)
 
 > **смотрите также**
 >
-> ### Что у «Яблока» за «план Б» в этих условиях, в эфире «Новой» [рассказывал](https://novayagazeta.ru/articles/2026/08/27/plan-b-iabloka) председатель партии Николай Рыбаков.
+> ### Что у «Яблока» за «план Б» в этих условиях, в эфире «Новой» [рассказывал](2026/08/27/plan-b-iabloka.md) председатель партии Николай Рыбаков.

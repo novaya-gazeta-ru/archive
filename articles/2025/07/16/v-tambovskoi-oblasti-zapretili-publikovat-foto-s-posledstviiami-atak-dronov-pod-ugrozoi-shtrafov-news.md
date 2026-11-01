@@ -25,6 +25,6 @@ tags: ""
 
 Административную ответственность за публикации об атаках БПЛА российские регионы начали вводить в 2024 года. Размеры штрафов зависят от субъекта и варьируются до 1 млн рублей.
 
-В июне 2025 года [стало известно о штрафах](https://novayagazeta.ru/articles/2025/06/09/rossiian-nachali-shtrafovat-za-posty-ob-atakakh-dronov-zapret-deistvoval-i-ranshe-no-ne-primenialsia-news) в отношении россиян за посты об атаках дронов. В Калужской области насчитали 42 административных протокола, причем в двух случаях — в отношении СМИ, еще в пяти — против заснявших прилеты дронов на виде жителей. В Тульской области оштрафовали на 25 тысяч рублей жителя, который опубликовал в Telegram атаку на город Алексин.
+В июне 2025 года [стало известно о штрафах](2025/06/09/rossiian-nachali-shtrafovat-za-posty-ob-atakakh-dronov-zapret-deistvoval-i-ranshe-no-ne-primenialsia-news.md) в отношении россиян за посты об атаках дронов. В Калужской области насчитали 42 административных протокола, причем в двух случаях — в отношении СМИ, еще в пяти — против заснявших прилеты дронов на виде жителей. В Тульской области оштрафовали на 25 тысяч рублей жителя, который опубликовал в Telegram атаку на город Алексин.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/16/gubernator-rasskazal-o-pervom-za-vremia-svo-mirnom-zhitele-voronezha-pogibshem-iz-za-ataki-bespilotnika-news
+**Читайте также:** [Губернатор рассказал о первом за время СВО мирном жителе Воронежа, погибшем из-за атаки беспилотника](2025/07/16/gubernator-rasskazal-o-pervom-za-vremia-svo-mirnom-zhitele-voronezha-pogibshem-iz-za-ataki-bespilotnika-news.md)

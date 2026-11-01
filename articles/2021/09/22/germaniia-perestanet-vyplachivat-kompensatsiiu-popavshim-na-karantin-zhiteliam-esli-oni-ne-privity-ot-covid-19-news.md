@@ -21,4 +21,4 @@ tags: "германия, вакцинация, sf"
 
 Согласно данным ресурса Our World in Data, в Германии полной курс вакцинации [прошли](https://ourworldindata.org/covid-vaccinations?country=OWID_WRL) 63% жителей. Еще 3,92% получили одну дозу вакцины. \
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/02/nevaktsinirovannye-liudi-bolshoi-bioreaktor-dlia-virusov-mutantov
+**Читайте также:** [«Невакцинированные люди — большой биореактор для вирусов-мутантов»](2021/09/02/nevaktsinirovannye-liudi-bolshoi-bioreaktor-dlia-virusov-mutantov.md)

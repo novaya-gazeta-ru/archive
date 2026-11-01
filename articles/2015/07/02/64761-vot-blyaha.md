@@ -31,9 +31,9 @@ tags: "госдума, полиция, система"
 
 При всем при этом в пояснительной записке к законопроекту парламентарии указывают, что он «направлен на усиление гарантий защиты прав и законных интересов граждан».
 
-**link:** https://novayagazeta.ru/columns/69057.html
+**link:** [https://novayagazeta.ru/columns/69057.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/69057.html)
 
-**link:** https://novayagazeta.ru/columns/69057.html
+**link:** [https://novayagazeta.ru/columns/69057.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/69057.html)
 
 Руководитель исследовательских программ фонда «Общественный вердикт» **Асмик НОВИКОВА** рассказала «Новой газете», какие из этих поправок наиболее опасны:
 

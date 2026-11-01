@@ -17,6 +17,6 @@ tags: "коронавирус, заражения, sf"
 
 За день в России от COVID-19 скончались 779 человек, из них 103 — в Москве и 77 — в Петербурге. Накануне в стране за сутки от коронавируса умерли 799 человек.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu)
 
 По [данным](https://coronavirus.jhu.edu/map.html) университета Джонса Хопкинса, всего в мире зафиксировали более 193 млн случаев заражения коронавирусом. Первые четыре места по этому показателю занимают США (более 34 млн зараженных), Индия (31 млн), Бразилия (19,6 млн) и Франция (6 млн). Россия по этому показателю занимает пятое место.

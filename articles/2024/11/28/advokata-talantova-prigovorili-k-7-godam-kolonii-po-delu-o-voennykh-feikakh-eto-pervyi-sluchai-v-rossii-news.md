@@ -13,7 +13,7 @@ tags: ""
 
 Завьяловкий райсуд Удмуртии приговорил бывшего президента Удмуртской коллегии адвокатов Дмитрия Талантова к 7 годам колонии за распространение «фейков» против вооруженных сил РФ, [сообщает](https://t.me/sudUdm/1596) пресс-служба судов Удмуртии.
 
-Обвинение [запрашивало 12 лет](https://novayagazeta.ru/articles/2024/11/18/byvshemu-advokatu-zhurnalista-ivana-safronova-zaprosili-12-let-kolonii-po-delu-o-feikakh-pro-armiiu-news) колонии.
+Обвинение [запрашивало 12 лет](2024/11/18/byvshemu-advokatu-zhurnalista-ivana-safronova-zaprosili-12-let-kolonii-po-delu-o-feikakh-pro-armiiu-news.md) колонии.
 
 Вину Талантов не признал.
 
@@ -25,4 +25,4 @@ tags: ""
 
 Талантов был одним из адвокатов журналиста Ивана Сафронова, осужденного на 22 года по статье «госизмена».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/28/nikto-ne-vybiraet-zlo-no-i-samo-ono-ne-porozhdaetsia
+**Читайте также:** [Никто не выбирает зло, но и само оно не порождается](2024/11/28/nikto-ne-vybiraet-zlo-no-i-samo-ono-ne-porozhdaetsia.md)

@@ -100,9 +100,9 @@ tags: "космодром восточный, рогозин"
 
 Как раз в это время мимо нас рабочие в строительных спецовках и касках идут со своих участков в столовую.
 
-**link:** https://novayagazeta.ru/society/69120.html
+**link:** [https://novayagazeta.ru/society/69120.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/69120.html)
 
-**link:** https://novayagazeta.ru/society/69120.html
+**link:** [https://novayagazeta.ru/society/69120.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/69120.html)
 
 Почти все, кто со мной говорит, отказываются представляться — уверены, что тогда точно не получат заработанные деньги.
 

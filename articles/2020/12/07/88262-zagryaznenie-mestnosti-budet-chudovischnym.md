@@ -57,7 +57,7 @@ tags: "магатэ, днр, регионы, шахтеры, шахты, дон�
 
 Между тем провести квалифицированные исследования, по словам вице-премьера Украины, проблематично.
 
-**link:** https://novayagazeta.ru/articles/2020/06/15/85851-ne-yasna-sudba-semeryh-chelovek
+**link:** [https://novayagazeta.ru/articles/2020/06/15/85851-ne-yasna-sudba-semeryh-chelovek](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/06/15/85851-ne-yasna-sudba-semeryh-chelovek)
 
 «На сегодняшний день вопрос, пропустят ли российские прокси экспертную группу на эти территории», — заявил Резников, выступая на Специальном киевском форуме 23 октября.
 

@@ -21,4 +21,4 @@ tags: "китай, коронавирус, em"
 
 Случаи заражения COVID-19 [зафиксированы](https://www.scmp.com/news/china/society/article/3074955/why-sars-shows-china-should-not-lower-its-coronavirus-guard) уже более чем в ста странах. Число заболевших превысило 132 тысяч человек, умерших – более 4,9 тысяч, почти 70 тысяч человек медикам удалось вылечить.
 
-**link:** https://novayagazeta.ru/articles/2020/03/12/84280-pandemonium
+**link:** [Пандемониум](2020/03/12/84280-pandemonium.md)

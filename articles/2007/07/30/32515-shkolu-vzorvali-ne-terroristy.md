@@ -55,11 +55,11 @@ tags: ""
 
 Смотреть видео:
 
-**[Фрагмент 1-й](https://novayagazeta.ru/storage/d/2007/07/30/1doc.wmv)**
+**[Фрагмент 1-й](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2007/07/30/1doc.wmv)**
 
-**[Фрагмент 2-й](https://novayagazeta.ru/storage/d/2007/07/30/2doc.wmv)**
+**[Фрагмент 2-й](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2007/07/30/2doc.wmv)**
 
-**[Фрагмент 3-й](https://novayagazeta.ru/storage/d/2007/07/30/3doc.wmv)**
+**[Фрагмент 3-й](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2007/07/30/3doc.wmv)**
 
 Напомню: этот допрос проходил в 17.50 3 (!) сентября 2004 года. А 4 сентября следователи найдут материальное подтверждение показаний саперов, то есть оружие, с помощью которого были произведены «первые взрывы» — РПО и РШГ. Каковы должны быть дальнейшие действия следствия? Ну хотя бы теоретически?
 

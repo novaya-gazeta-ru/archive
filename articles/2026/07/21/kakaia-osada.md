@@ -49,4 +49,4 @@ tags: "чм-2026, мбапе, испания, месси"
 
 Ничего другого и не остается.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/20/ot-baloguna-do-balagana
+**Читайте также:** [От Балогуна до балагана](2026/07/20/ot-baloguna-do-balagana.md)

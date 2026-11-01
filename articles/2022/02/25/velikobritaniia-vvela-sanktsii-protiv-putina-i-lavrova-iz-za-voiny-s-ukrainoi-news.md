@@ -23,10 +23,10 @@ tags: "великобритания, санкции, путин, лавров, d
 
 Официальный представитель МИД России Мария Захарова, [комментируя](https://t.me/tass_agency/113310)введение санкций, заметила, что ни у Путина, ни у Лаврова нет счетов в Великобритании.
 
-Накануне Европейский союз [согласовал](https://novayagazeta.ru/articles/2022/02/25/reuters-evrosoiuz-soglasoval-sanktsii-protiv-putina-i-lavrova-iz-za-voiny-s-ukrainoi-news) введение санкций против Путина и Лаврова. По словам собеседника Reuters, представители 27 государств-членов Евросоюза договорились заморозить личные европейские активы Путина и Лаврова.
+Накануне Европейский союз [согласовал](2022/02/25/reuters-evrosoiuz-soglasoval-sanktsii-protiv-putina-i-lavrova-iz-za-voiny-s-ukrainoi-news.md) введение санкций против Путина и Лаврова. По словам собеседника Reuters, представители 27 государств-членов Евросоюза договорились заморозить личные европейские активы Путина и Лаврова.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/25/putin-nachal-voinu-s-ukrainoi-den-vtoroi-onlain
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/25/putin-nachal-voinu-s-ukrainoi-den-vtoroi-onlain](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/25/putin-nachal-voinu-s-ukrainoi-den-vtoroi-onlain)
 
-До этого премьер Великобритании Борис Джонсон [заявил](https://novayagazeta.ru/articles/2022/02/24/boris-dzhonson-obiavil-o-vvedenii-blokiruiushchikh-sanktsii-protiv-vtb-i-aeroflota-news) о санкциях против ВТБ и «Аэрофлота». В рамках санкций Лондон заморозил все активы «ВТБ» и решил ввести ограничение на размер депозита, который могут держать граждане России на своих счетах в Великобритании. «Аэрофлот» же не сможет летать в страну.
+До этого премьер Великобритании Борис Джонсон [заявил](2022/02/24/boris-dzhonson-obiavil-o-vvedenii-blokiruiushchikh-sanktsii-protiv-vtb-i-aeroflota-news.md) о санкциях против ВТБ и «Аэрофлота». В рамках санкций Лондон заморозил все активы «ВТБ» и решил ввести ограничение на размер депозита, который могут держать граждане России на своих счетах в Великобритании. «Аэрофлот» же не сможет летать в страну.
 
 *(Обновлено 23:00 — добавлен комментарий Марии Захаровой)*

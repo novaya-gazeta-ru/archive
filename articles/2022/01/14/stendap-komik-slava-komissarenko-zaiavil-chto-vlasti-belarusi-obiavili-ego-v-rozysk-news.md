@@ -23,8 +23,8 @@ tags: "стендап, беларусь, розыск, комиссаренко,
 
 Сейчас, судя по всему, комик остается в Украине — в январе у него еще запланированы киевские концерты.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/24/ruslan-khalitov-ezopov-iazyk-nikto-ne-otmenial
+**Читайте также:** [Руслан Халитов: «Эзопов язык никто не отменял»](2021/11/24/ruslan-khalitov-ezopov-iazyk-nikto-ne-otmenial.md)
 
-Россия регулярно [экстрадирует](https://novayagazeta.ru/articles/2022/01/10/vesna-iz-rossii-ekstradirovali-belorusa-nesmotria-na-zapret-espch-na-rodine-ego-obviniaiut-v-prichinenii-moralnogo-vreda-militsioneru-news) граждан Беларуси по запросу белорусских силовиков, порой невзирая на запреты ЕСПЧ. Так, например, были высланы активист Дмитрий Подлобников и боец ММА Андрей Кудин. В Москве также был [похищен](https://novayagazeta.ru/articles/2021/10/02/propal-v-moskve-nashelsia-na-okrestina) журналист «Комсомольской правды» Андрей Можейко. Спустя сутки его нашли в минском СИЗО.
+Россия регулярно [экстрадирует](2022/01/10/vesna-iz-rossii-ekstradirovali-belorusa-nesmotria-na-zapret-espch-na-rodine-ego-obviniaiut-v-prichinenii-moralnogo-vreda.md) граждан Беларуси по запросу белорусских силовиков, порой невзирая на запреты ЕСПЧ. Так, например, были высланы активист Дмитрий Подлобников и боец ММА Андрей Кудин. В Москве также был [похищен](2021/10/02/propal-v-moskve-nashelsia-na-okrestina.md) журналист «Комсомольской правды» Андрей Можейко. Спустя сутки его нашли в минском СИЗО.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/02/propal-v-moskve-nashelsia-na-okrestina
+**Читайте также:** [Пропал в Москве, нашелся на Окрестина](2021/10/02/propal-v-moskve-nashelsia-na-okrestina.md)

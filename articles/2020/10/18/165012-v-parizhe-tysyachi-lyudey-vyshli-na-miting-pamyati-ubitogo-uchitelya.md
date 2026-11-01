@@ -43,4 +43,4 @@ tags: "убийство, акции, франция, париж, em"
 
 Сегодня премьер-министр Франции Жан Кастекс в интервью газете JDD [пообещал](https://www.lejdd.fr/Politique/jean-castex-au-jdd-je-suis-plus-que-jamais-charlie-3999356) создать механизмы, которые бы позволили лучше защищать преподавателей. Сегодня вечером в Елисейском дворце пройдет заседание Совета безопасности и обороны в связи с этим терактом. В среду, 21 октября, состоится национальная церемония прощания с учителем Самюэлем Пати.
 
-**link:** https://novayagazeta.ru/articles/2020/10/17/87564-uchitelya-zverski-ubili-za-to-chto-prinizhal-proroka-muhammeda
+**link:** [Распятая республика](2020/10/17/87564-uchitelya-zverski-ubili-za-to-chto-prinizhal-proroka-muhammeda.md)

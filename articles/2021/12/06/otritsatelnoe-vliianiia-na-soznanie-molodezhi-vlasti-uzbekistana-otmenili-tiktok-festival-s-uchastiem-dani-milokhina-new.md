@@ -21,6 +21,6 @@ tags: "ng, узбекистан, блогеры, tiktok"
 
 Концерт с участием знаменитых тиктокеров должен был состояться 25 декабря в ледовом комплексе Humo Arena в Ташкенте. В фестивале планировали принять участие Даня Милохин, Анет Сай, Ваня Дмитриенко, Артур Бабич, Аня Покров и Егор Шип.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/03/neprodumanno-prezident-uzbekistana-vyrazil-nedovolstvo-blokirovkami-telegram-i-youtube-v-strane-glava-internet-reguliatora-uvolen-blokirovki-prekrashcheny-news
+**Читайте также:** [«Непродуманно»: президент Узбекистана выразил недовольство блокировками Telegram и YouTube в стране. Глава интернет-регулятора уволен, блокировки прекращены](2021/11/03/neprodumanno-prezident-uzbekistana-vyrazil-nedovolstvo-blokirovkami-telegram-i-youtube-v-strane-glava-internet-reguliato.md)
 
 В июле 2021 года Узкомнадзор (госинспекция по контролю в сфере информатизации и телекоммуникаций Узбекистана) [ограничила](https://ria.ru/20210702/uzbekistan-1739614294.html) работу социальных сетей Twitter, TikTok и «ВКонтакте» из-за нарушения закона о персональных данных. Пользователи соцсетей сообщали о перебоях в работе приложений TikTok, Skype и Twitter.

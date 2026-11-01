@@ -27,4 +27,4 @@ tags: ""
 
 В сентябре Путин посетил Монголию — страну, которая ратифицировала Римский статут МУС. Перед визитом он получил заверения, что его не арестуют, [писали](https://t.me/novaya_pishet/46882) СМИ. Кремль тогда заявил, что все аспекты визита «тщательно готовились», и «переживаний нет».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/06/25/mezhdunarodnyi-ugolovnyi-sud-v-gaage-vydal-ordery-na-arest-shoigu-i-glavy-genshtaba-rf-gerasimova-ordery-sekretnye-news
+**Читайте также:** [https://novayagazeta.ru/articles/2024/06/25/mezhdunarodnyi-ugolovnyi-sud-v-gaage-vydal-ordery-na-arest-shoigu-i-glavy-genshtaba-rf-gerasimova-ordery-sekretnye-news](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/06/25/mezhdunarodnyi-ugolovnyi-sud-v-gaage-vydal-ordery-na-arest-shoigu-i-glavy-genshtaba-rf-gerasimova-ordery-sekretnye-news)

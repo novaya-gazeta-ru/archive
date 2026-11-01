@@ -19,7 +19,7 @@ tags: "яблоко, максим круглов, Круглов, суды, фе
 
 > «нет ни телевизора, ни радио, ни холодильника, ни чайника, ни горячей воды, ни газет. Практически полный информационный вакуум».
 
-В августе семья Круглова [обратилась](https://novayagazeta.ru/articles/2026/08/25/semia-kruglova-poprosila-ombudsmena-lantratovu-pomoch-emu-s-medpomoshchiu-u-politika-v-sizo-bolit-prooperirovannoe-plecho-news) к уполномоченной по правам человека в России Яне Лантратовой, добиваясь оказания медпомощи политику. Тогда его родные рассказали, что
+В августе семья Круглова [обратилась](2026/08/25/semia-kruglova-poprosila-ombudsmena-lantratovu-pomoch-emu-s-medpomoshchiu-u-politika-v-sizo-bolit-prooperirovannoe-plech.md) к уполномоченной по правам человека в России Яне Лантратовой, добиваясь оказания медпомощи политику. Тогда его родные рассказали, что
 
 > Круглов несколько месяцев мучается от сильной боли в плече, которую обезболивающие уколы не снимают.
 
@@ -29,4 +29,4 @@ tags: "яблоко, максим круглов, Круглов, суды, фе
 
 -
 
-В июне Круглова [приговорили](https://novayagazeta.ru/articles/2026/06/24/nelzia-obiavliat-nesoglasie-prestupleniem) к 7 годам колонии по делу о «фейках» про армию — из-за двух постов в соцсетях о военных действиях в Украине, опубликованных в апреле 2022 года. Апелляция [оставила](https://novayagazeta.ru/articles/2026/08/31/sud-ostavil-v-sile-prigovor-zampredu-iabloka-maksimu-kruglovu-zasedanie-zakryli-ot-publiki-news) приговор в силе.
+В июне Круглова [приговорили](2026/06/24/nelzia-obiavliat-nesoglasie-prestupleniem.md) к 7 годам колонии по делу о «фейках» про армию — из-за двух постов в соцсетях о военных действиях в Украине, опубликованных в апреле 2022 года. Апелляция [оставила](2026/08/31/sud-ostavil-v-sile-prigovor-zampredu-iabloka-maksimu-kruglovu-zasedanie-zakryli-ot-publiki-news.md) приговор в силе.

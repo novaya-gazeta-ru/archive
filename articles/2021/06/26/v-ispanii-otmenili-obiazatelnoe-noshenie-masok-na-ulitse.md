@@ -17,6 +17,6 @@ tags: "испания, коронавирус, em"
 
 По [данным](https://coronavirus.jhu.edu/map.html) университета Хопкинса, в Испании за время пандемии зарегистрировали почти 3,8 млн случаев заражения коронавирусом. Скончались от инфекции в стране свыше 80 тысяч человек.
 
-В Израиле накануне [вернули](https://novayagazeta.ru/articles/2021/06/25/v-izraile-vernuli-masochnyi-rezhim-iz-za-ukhudsheniia-situatsii-s-koronavirusom) масочный режим, отмененный 15 июня. Это произошло на фоне роста числа заражений коронавирусом в стране.
+В Израиле накануне [вернули](2021/06/25/v-izraile-vernuli-masochnyi-rezhim-iz-za-ukhudsheniia-situatsii-s-koronavirusom.md) масочный режим, отмененный 15 июня. Это произошло на фоне роста числа заражений коронавирусом в стране.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/18/izrail-pobedil-covid-19
+**Читайте также:** [Израиль победил COVID-19](2021/06/18/izrail-pobedil-covid-19.md)

@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/08/29/1377768937_398931_38.jpg" style="width: 360px; height: 270px;"><sup>Чекист Антон Д.</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/08/29/1377768937_398931_38.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/08/29/1377768937_398931_38.jpg)" style="width: 360px; height: 270px;"><sup>Чекист Антон Д.</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -29,7 +29,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/08/29/1377768937_110074_96.jpg" style="width: 360px; height: 270px;"><sup>Полковник</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/08/29/1377768937_110074_96.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/08/29/1377768937_110074_96.jpg)" style="width: 360px; height: 270px;"><sup>Полковник</sup></td>
 		</tr>
 	</tbody>]*
 

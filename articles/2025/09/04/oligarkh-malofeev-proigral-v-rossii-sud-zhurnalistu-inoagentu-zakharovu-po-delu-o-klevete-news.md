@@ -25,8 +25,8 @@ tags: ""
 
 Сам Захаров приветствовал решение суда, отметив, что книгу все равно теперь нельзя купить в России — по новому закону о запрете на просветительскую деятельность иноагентам.
 
-**Историю взлета и падения крупнейшей биржи Wex, объединившей олигарха Малофеева, сотрудников ФСБ и человека с «черным ящиком» «Боинга» MH-17, сбитого над Украиной, «Новая газета» **[**подробно рассказывала**](https://novayagazeta.ru/articles/2023/10/09/wex-voli-ne-vidat-istoriia-kriptobirzhi-kotoraia-ne-stala-koshelkom-separatistov-vostoka-ukrainy)**.**
+**Историю взлета и падения крупнейшей биржи Wex, объединившей олигарха Малофеева, сотрудников ФСБ и человека с «черным ящиком» «Боинга» MH-17, сбитого над Украиной, «Новая газета» **[**подробно рассказывала**](2023/10/09/wex-voli-ne-vidat-istoriia-kriptobirzhi-kotoraia-ne-stala-koshelkom-separatistov-vostoka-ukrainy.md)**.**
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/10/09/wex-voli-ne-vidat-istoriia-kriptobirzhi-kotoraia-ne-stala-koshelkom-separatistov-vostoka-ukrainy
+**Читайте также:** [WEX воли не видать. История криптобиржи, которая не стала кошельком сепаратистов Востока Украины](2023/10/09/wex-voli-ne-vidat-istoriia-kriptobirzhi-kotoraia-ne-stala-koshelkom-separatistov-vostoka-ukrainy.md)
 
 #### * Минюст включил в реестр иноагентов.

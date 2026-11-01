@@ -21,4 +21,4 @@ tags: "байден, путин, конфликт"
 
 #### * Yet each man kills the thing he loves…
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/20/otnosheniia-s-amerikoi-khuzhe-ne-budet-i-luchshe-tozhe-ne-budet
+**Читайте также:** [Отношения с Америкой: хуже не будет. И лучше тоже не будет](2021/03/20/otnosheniia-s-amerikoi-khuzhe-ne-budet-i-luchshe-tozhe-ne-budet.md)

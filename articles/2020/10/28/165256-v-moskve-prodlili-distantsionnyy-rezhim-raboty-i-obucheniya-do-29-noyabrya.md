@@ -21,8 +21,8 @@ tags: "sf, ограничения, коронавирус, собянин"
 
 Собянин отметил, что «никаких послаблений не будет и в части контроля соблюдения масочного и перчаточного режима».
 
-В России за последние сутки [выявили](https://novayagazeta.ru/news/2020/10/28/165245-kor) 16 202 новых случаев заражения COVID-19. Из них в Москве — 3670 случаев.
+В России за последние сутки [выявили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/28/165245-kor) 16 202 новых случаев заражения COVID-19. Из них в Москве — 3670 случаев.
 
-Ранее столичные власти [продлили](https://novayagazeta.ru/articles/2020/10/05/87379-hronika-neob-yavlennoy-volny-kak-moskva-i-regiony-rossii-perezhivayut-novyy-pik-covid-19-online) школьные осенние каникулы до двух недель, а после обязали учеников 6-11 классов перейти на дистанционный режим обучения.
+Ранее столичные власти [продлили](2020/10/05/87379-hronika-neob-yavlennoy-volny-kak-moskva-i-regiony-rossii-perezhivayut-novyy-pik-covid-19-online.md) школьные осенние каникулы до двух недель, а после обязали учеников 6-11 классов перейти на дистанционный режим обучения.
 
-**link:** https://novayagazeta.ru/articles/2020/10/27/87722-my-prohodim-samye-tyazhelye-dni-pandemii-ili-net
+**link:** [Мы проходим самые тяжелые дни пандемии. Или нет?](2020/10/27/87722-my-prohodim-samye-tyazhelye-dni-pandemii-ili-net.md)

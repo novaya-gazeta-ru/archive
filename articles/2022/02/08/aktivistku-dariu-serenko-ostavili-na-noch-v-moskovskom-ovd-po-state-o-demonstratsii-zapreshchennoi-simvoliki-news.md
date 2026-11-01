@@ -31,9 +31,9 @@ tags: "овд, демонстрация символики, дарья сере�
 
 Сама Дарья Серенко [рассказала](https://twitter.com/Tihiipiket/status/1491029073493360643?s=20&t=jaZPX6CpBa9Wk-B58JfQ4A) в твиттере сразу после задержания, что оперативники забрали ее из кафе. Девушка также сообщила, что она болеет отитом.
 
-Кроме того, сегодня по аналогичной статье о демонстрации запрещенной символики были арестованы участница Pussy Riot Мария [Алехина](https://novayagazeta.ru/articles/2022/02/08/sud-v-moskve-arestoval-uchastnitsu-pussy-riot-mariiu-alekhinu-na-15-sutok-iz-za-publikatsii-v-instagrame-ot-2015-goda-news) и активист «Другой России» Александр [Рыбкин](https://novayagazeta.ru/articles/2022/02/08/sud-v-moskve-arestoval-aktivista-drugoi-rossii-na-15-sutok-za-tatuirovku-s-logo-gruppy-death-in-june-i-runoi-algiz-news).
+Кроме того, сегодня по аналогичной статье о демонстрации запрещенной символики были арестованы участница Pussy Riot Мария [Алехина](2022/02/08/sud-v-moskve-arestoval-uchastnitsu-pussy-riot-mariiu-alekhinu-na-15-sutok-iz-za-publikatsii-v-instagrame-ot-2015-goda-ne.md) и активист «Другой России» Александр [Рыбкин](2022/02/08/sud-v-moskve-arestoval-aktivista-drugoi-rossii-na-15-sutok-za-tatuirovku-s-logo-gruppy-death-in-june-i-runoi-algiz-news.md).
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/09/krugovorot-arestov-i-spetspriemnikov
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/09/krugovorot-arestov-i-spetspriemnikov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/09/krugovorot-arestov-i-spetspriemnikov)
 
 В начале ноября 2021 года Дарья Серенко [рассказала](https://www.facebook.com/permalink.php?story_fbid=4511576488878283&id=100000779281759&_rdc=2&_rdr%C2%AB%20rel=%C2%BBnoopener%C2%AB%20target=%C2%BB_blank), что ей поступают звонки и сообщения с угрозами. Они начались после ее поста в фейсбуке о ксенофобии и мигрантофобии. «Слили один из моих домашних адресов. Слили мой телефон. Взлом части аккаунтов. 320 звонков. Попытка оформить на меня 40 кредитов в разных банках», — написала она в фейсбуке.
 

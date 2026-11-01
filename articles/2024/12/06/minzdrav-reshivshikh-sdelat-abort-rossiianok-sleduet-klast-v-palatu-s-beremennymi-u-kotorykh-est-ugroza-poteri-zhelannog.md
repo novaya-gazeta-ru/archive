@@ -15,14 +15,14 @@ tags: ""
 
 Документ [цитирует](https://tass.ru/obschestvo/22590529) ТАСС.
 
-Ранее мы рассказывали, что в женских консультациях при обращении россиянкам с 2024 года [вручают письма](https://novayagazeta.ru/articles/2024/10/19/beremennym-rossiiankam-budut-vruchat-pismo-ne-tolko-ot-mestnogo-mitropolita-no-i-ot-patriarkha-kirilla-rpts-usilivaet-borbu-s-abortami-news) из епархии и от патриарха Кирилла, где он благословляет женщину на рождение ребенка.
+Ранее мы рассказывали, что в женских консультациях при обращении россиянкам с 2024 года [вручают письма](2024/10/19/beremennym-rossiiankam-budut-vruchat-pismo-ne-tolko-ot-mestnogo-mitropolita-no-i-ot-patriarkha-kirilla-rpts-usilivaet-bo.md) из епархии и от патриарха Кирилла, где он благословляет женщину на рождение ребенка.
 
-Представители власти и общественные деятели в России активно призывают россиянок «рожать как можно больше» детей и как можно раньше. Уже введены [денежные поощрения](https://t.me/novaya_pishet/47410) для родивших первого ребенка в студенчестве. Кол-центры по стране совершают холодный обзвон россиянок от 18 до 45 лет с предложением бесплатно [проверить свою фертильность](https://novayagazeta.ru/articles/2024/09/13/gorodskie-servisy-massovo-predlagaiut-moskvichkam-sdat-analiz-na-fertilnost-na-fone-prizyvov-vlastei-rozhat-i-rozhat-news).
+Представители власти и общественные деятели в России активно призывают россиянок «рожать как можно больше» детей и как можно раньше. Уже введены [денежные поощрения](https://t.me/novaya_pishet/47410) для родивших первого ребенка в студенчестве. Кол-центры по стране совершают холодный обзвон россиянок от 18 до 45 лет с предложением бесплатно [проверить свою фертильность](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/13/gorodskie-servisy-massovo-predlagaiut-moskvichkam-sdat-analiz-na-fertilnost-na-fone-prizyvov-vlastei-rozhat-i-rozhat-news).
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/16/rozhat-rozhat-rozhat-rozhat-rozhat
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/16/rozhat-rozhat-rozhat-rozhat-rozhat](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/16/rozhat-rozhat-rozhat-rozhat-rozhat)
 
-Недавно мы рассказывали, как студенты столкнулись с «обязательным» и неанонимным анкетированием в грубой форме, который устроили в Лысьве. Студенток опрашивали о деталях половой жизни, а это тоже оказались рекомендации Минздрава, которые администрация конкретного вуза сделала обязательными к исполнению. Руководство было «наказано», а анкетирование отменено после [вмешательства Екатерины Мизулиной](https://novayagazeta.ru/articles/2024/11/23/direktora-vuza-gde-studentok-anketirovali-obiazatelnymi-voprosami-pro-polovuiu-zhizn-nakazhut-posle-podkliucheniia-mizulinoi-news), назвавшей это «нарушением конституционных прав» студенток.
+Недавно мы рассказывали, как студенты столкнулись с «обязательным» и неанонимным анкетированием в грубой форме, который устроили в Лысьве. Студенток опрашивали о деталях половой жизни, а это тоже оказались рекомендации Минздрава, которые администрация конкретного вуза сделала обязательными к исполнению. Руководство было «наказано», а анкетирование отменено после [вмешательства Екатерины Мизулиной](2024/11/23/direktora-vuza-gde-studentok-anketirovali-obiazatelnymi-voprosami-pro-polovuiu-zhizn-nakazhut-posle-podkliucheniia-mizul.md), назвавшей это «нарушением конституционных прав» студенток.
 
 Известный демограф Алексей Ракша рассказывает, что в России сегодня происходит бум рождаемости третьего и последующих детей в семьяъ, но падает рождаемость первых и вторых.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/11/politsiia-nravov
+**Читайте также:** [Полиция нравов](2024/11/11/politsiia-nravov.md)

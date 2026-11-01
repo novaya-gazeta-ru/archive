@@ -35,8 +35,8 @@ tags: "полицейский, дознавательница, мвд, нава�
 
 Суворова проработала в МВД 15 с половиной лет. После увольнения ей придется уехать из служебной квартиры, а также она потеряет место в очереди на единовременную выплату на покупку жилья.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/02/03/89023-suki-vse-litsom-k-stenke
+**Читайте также:** [«Суки, все лицом к стенке!»](2021/02/03/89023-suki-vse-litsom-k-stenke.md)
 
-Ранее в Ульяновской области [уволили](https://novayagazeta.ru/articles/2021/10/28/sviashchennika-iz-ulianovska-uvolili-posle-posta-o-gotovnosti-pozhat-ruku-navalnomu-news) руководителя информационного-издательского отдела Мелекесской епархии Георгия Сухобокого, который написал в соцсетях, что готов «пожать руку» Навальному. Его также [отправили](https://novayagazeta.ru/articles/2021/11/13/sviashchennik-iz-ulianovska-rasskazal-chto-ego-otpravili-na-polgoda-v-monastyr-posle-posta-o-gotovnosti-pozhat-ruku-navalnomu-news) на полгода в мужской монастырь «для духовной реабилитации».
+Ранее в Ульяновской области [уволили](2021/10/28/sviashchennika-iz-ulianovska-uvolili-posle-posta-o-gotovnosti-pozhat-ruku-navalnomu-news.md) руководителя информационного-издательского отдела Мелекесской епархии Георгия Сухобокого, который написал в соцсетях, что готов «пожать руку» Навальному. Его также [отправили](2021/11/13/sviashchennik-iz-ulianovska-rasskazal-chto-ego-otpravili-na-polgoda-v-monastyr-posle-posta-o-gotovnosti-pozhat-ruku-nava.md) на полгода в мужской монастырь «для духовной реабилитации».
 
 #### **Мосгорсуд признал ФБК и «штабы Навального» экстремистскими структурами и запретил их деятельность на территории РФ*

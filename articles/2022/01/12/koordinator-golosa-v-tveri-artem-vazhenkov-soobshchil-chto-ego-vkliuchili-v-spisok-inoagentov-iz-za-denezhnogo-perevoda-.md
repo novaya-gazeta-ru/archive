@@ -17,11 +17,11 @@ tags: "ng, иностранный агент, минюст, важенков"
 
 > То есть это не перевод, а сделка, плата за продажу, и это видно из детализации моих платежей. Но Россия считает, что это серьезное основание полагать что я "нигерийский шпион"», — написал Важенков.
 
-Минюст РФ [включил](https://novayagazeta.ru/articles/2021/09/29/miniust-vnes-mediazonu-ovd-info-zonu-prava-i-sotrudnikov-golosa-v-reestry-inoagentov-news) Важенкова в список СМИ-«иностранных агентов» 29 сентября прошлого года. В тот же день в реестр попали «Медиазона»**, ее издатель Петр Верзилов**, главред Сергей Смирнов**, «Зона права»**, а также сотрудники «Голоса». Сейчас в реестре СМИ-«иноагентов» 111 человек и организаций.
+Минюст РФ [включил](2021/09/29/miniust-vnes-mediazonu-ovd-info-zonu-prava-i-sotrudnikov-golosa-v-reestry-inoagentov-news.md) Важенкова в список СМИ-«иностранных агентов» 29 сентября прошлого года. В тот же день в реестр попали «Медиазона»**, ее издатель Петр Верзилов**, главред Сергей Смирнов**, «Зона права»**, а также сотрудники «Голоса». Сейчас в реестре СМИ-«иноагентов» 111 человек и организаций.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany
+**Читайте также:** [https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany)
 
-В конце декабря минюст [объяснил](https://novayagazeta.ru/articles/2021/12/30/miniust-obiasnil-vkliuchenie-mediazony-v-reestr-inoagentov-nalichiem-na-saite-kontekstnoi-reklamy-google-news) включение «Медиазоны» в реестр иноагентов наличием на сайте контекстной рекламы Google. Еще одним основанием минюст назвал цитирование других СМИ, ранее уже включенных в список «иноагентов».
+В конце декабря минюст [объяснил](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/12/30/miniust-obiasnil-vkliuchenie-mediazony-v-reestr-inoagentov-nalichiem-na-saite-kontekstnoi-reklamy-google-news) включение «Медиазоны» в реестр иноагентов наличием на сайте контекстной рекламы Google. Еще одним основанием минюст назвал цитирование других СМИ, ранее уже включенных в список «иноагентов».
 
 #### *внесено Минюстом РФ в реестр незарегистрированных общественных объединений, выполняющих функции иностранного агента
 

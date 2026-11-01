@@ -15,7 +15,7 @@ tags: "что нового?, подкаст, беларусь, акции про
 
 **Музыка: Глеб Лиманский**
 
-**link:** https://novayagazeta.ru/articles/2020/09/08/86996-spasateli-na-vodah-i-na-sushe
+**link:** [Спасатели на водах и на суше](2020/09/08/86996-spasateli-na-vodah-i-na-sushe.md)
 
 > **слушайте, где удобно**
 >

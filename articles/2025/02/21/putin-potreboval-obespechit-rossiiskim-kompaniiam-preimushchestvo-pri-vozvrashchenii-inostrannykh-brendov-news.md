@@ -19,12 +19,12 @@ tags: ""
 
 — сказал Путин. Он упомянул, что говорил «на этот счет» с первым вице-премьером Денисом Мантуровым.
 
-На минувшей неделе появились слухи о возможном возвращении на российский рынок ряда зарубежных компаний. В Союзе торговых центров [рассказали](https://novayagazeta.ru/articles/2025/02/17/v-soiuze-torgovykh-tsentrov-rasskazali-o-peregovorakh-po-vozvrashcheniiu-uniqlo-i-hm-news) о частных переговорах с Uniqlo, H&M и Inditex (владеет брендами Zara, Massimo Dutti, Bershka, Oysho, Pull & Bear). СМИ писали о шансе на возвращение Coca-Cola, Pepsi, McDonalds, в Госдуме предположили возвращение платежных систем Visa и Mastercard.
+На минувшей неделе появились слухи о возможном возвращении на российский рынок ряда зарубежных компаний. В Союзе торговых центров [рассказали](2025/02/17/v-soiuze-torgovykh-tsentrov-rasskazali-o-peregovorakh-po-vozvrashcheniiu-uniqlo-i-hm-news.md) о частных переговорах с Uniqlo, H&M и Inditex (владеет брендами Zara, Massimo Dutti, Bershka, Oysho, Pull & Bear). СМИ писали о шансе на возвращение Coca-Cola, Pepsi, McDonalds, в Госдуме предположили возвращение платежных систем Visa и Mastercard.
 
 Но в реальности никакие из упомянутых брендов всерьез не делали заявлений о возвращении в Россию.
 
 Возврат западных компаний на российский рынок будет возможен только после снятия с России западных санкций, [заявил](https://t.me/tass_agency/301920) Мантуров. Снятие санкций часто увязывают с условиями долгосрочного перемирия между Россией и Украиной.
 
-О том, что протекционизм не обязательно помогает экономике мы недавно рассказывали в [разборе](https://novayagazeta.ru/articles/2025/02/10/protektsionizm-poslednee-pribezhishche) Дмитрия Прокофьева.
+О том, что протекционизм не обязательно помогает экономике мы недавно рассказывали в [разборе](2025/02/10/protektsionizm-poslednee-pribezhishche.md) Дмитрия Прокофьева.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/10/protektsionizm-poslednee-pribezhishche
+**Читайте также:** [Протекционизм — последнее прибежище…](2025/02/10/protektsionizm-poslednee-pribezhishche.md)

@@ -27,7 +27,7 @@ tags: ""
 
 Собравшие 100 000 и более подписей в сети общественные инициативы будут рассматриваться Думой только после их «фильтрации» Фондом эффективной демократии.
 
-**link:** https://novayagazeta.ru/politics/57084.html
+**link:** [https://novayagazeta.ru/politics/57084.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/57084.html)
 
 На 450 000 долларов был оштрафован певец Джастин Бибер за излишне долгое выступление.
 

@@ -13,7 +13,7 @@ tags: ""
 
 Сбор [ведется](https://za-odno.help/?id=rec86Lc106G5gtrBU&fbclid=IwY2xjawLh23hleHRuA2FlbQIxMQABHq5XYYnvwpXf4W37nPZjMj1ck1PKBs8DKKp--ceLHwwi94HlUO3yBalpeoxl_aem_h-KezjucQJiQFMhT7WyxyQ) на платформе взаимопомощи «Заодно».
 
-«30 лет я работал журналистом и редактором на Дальнем Востоке. В прошлом году на меня завели уголовное дело за "фейки". 10 месяцев под домашним арестом были тяжелыми. Сначала суд [назначил штраф 700 тысяч](https://novayagazeta.ru/articles/2025/02/26/zhurnalista-forbes-sergeia-mingazova-prigovorili-k-shtrafu-v-700-tys-rublei-po-delu-o-voennykh-feikakh-prokuratura-zaprashivala-dlia-nego-shest-let-news). Но в апелляции его увеличили до 2,5 миллионов. Таких денег у нас с женой, которая работает учительницей начальных классов, сейчас нет», — рассказал Мингазов.
+«30 лет я работал журналистом и редактором на Дальнем Востоке. В прошлом году на меня завели уголовное дело за "фейки". 10 месяцев под домашним арестом были тяжелыми. Сначала суд [назначил штраф 700 тысяч](2025/02/26/zhurnalista-forbes-sergeia-mingazova-prigovorili-k-shtrafu-v-700-tys-rublei-po-delu-o-voennykh-feikakh-prokuratura-zapra.md). Но в апелляции его увеличили до 2,5 миллионов. Таких денег у нас с женой, которая работает учительницей начальных классов, сейчас нет», — рассказал Мингазов.
 
 Журналисту необходимо собрать 1,8 млн рублей. Пока что собрано около 32 тысяч.
 
@@ -33,4 +33,4 @@ tags: ""
 
 Обвинение настаивало на том, что суд первой инстанции неправомерно переквалифицировал дело, исключив из обвинения в окончательном приговоре мотив ненависти и вражды.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/26/soiuz-zhurnalistov-rossii-potreboval-iskliuchit-iz-organizatsii-osuzhdennogo-za-voennye-feiki-obozrevatelia-forbes-sergeia-mingazova-news
+**Читайте также:** [Союз журналистов России потребовал исключить из организации осужденного за военные «фейки» обозревателя Forbes Сергея Мингазова&nbsp;](2025/03/26/soiuz-zhurnalistov-rossii-potreboval-iskliuchit-iz-organizatsii-osuzhdennogo-za-voennye-feiki-obozrevatelia-forbes-serge.md)

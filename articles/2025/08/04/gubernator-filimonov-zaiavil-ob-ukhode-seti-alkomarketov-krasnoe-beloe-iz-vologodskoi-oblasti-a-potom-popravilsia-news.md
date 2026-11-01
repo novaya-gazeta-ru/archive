@@ -33,4 +33,4 @@ tags: ""
 
 После этого в магазинах «К&Б» в области [запретили](https://t.me/novaya_pishet/52842) продавать спиртное, а действие лицензии приостановили из-за «нарушений» компании.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/28/v-vologodskoi-oblasti-alkomarketam-krasnoe-amp-beloe-zapretili-prodavat-spirtnoe-news
+**Читайте также:** [В Вологодской области алкомаркетам «Красное &amp;amp; Белое» запретили продавать спиртное](2025/07/28/v-vologodskoi-oblasti-alkomarketam-krasnoe-amp-beloe-zapretili-prodavat-spirtnoe-news.md)

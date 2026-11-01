@@ -37,4 +37,4 @@ tags: "Рыбарь, черногория, задержание, визы"
 
 **Власти РФ считают «иноагентом»*
 
-**ЕСТЬ ПРОДОЛЖЕНИЕ:** https://novayagazeta.ru/articles/2026/10/09/rybar-podtverdil-zaderzhanie-svoego-osnovatelia-zvinchuka-sam-on-khvastalsia-chto-vekhal-v-chernogoriiu-v-obkhod-sanktsii-news
+**ЕСТЬ ПРОДОЛЖЕНИЕ:** [«Рыбарь» подтвердил задержание своего основателя Звинчука. Сам он хвастался, что въехал в Черногорию в обход санкций](2026/10/09/rybar-podtverdil-zaderzhanie-svoego-osnovatelia-zvinchuka-sam-on-khvastalsia-chto-vekhal-v-chernogoriiu-v-obkhod-sanktsi.md)

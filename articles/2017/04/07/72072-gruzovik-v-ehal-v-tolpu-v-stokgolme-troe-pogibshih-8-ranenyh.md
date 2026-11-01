@@ -25,7 +25,7 @@ tags: "швеция, полиция, теракт"
 
 О ситуации в городе «Новой газете» рассказали русскоязычные жители Стокгольма.
 
-**link:** https://novayagazeta.ru/articles/2017/04/07/72075-u-lyudey-paniki-osoboy-net-no-esli-ryadom-proezzhayut-gruzoviki-napryag-chuvstvuetsya
+**link:** [«У людей паники особой нет. Но если рядом проезжают грузовики, напряг чувствуется»](2017/04/07/72075-u-lyudey-paniki-osoboy-net-no-esli-ryadom-proezzhayut-gruzoviki-napryag-chuvstvuetsya.md)
 
 ![](_assets/0f/0fdb1964a59b01f6a4b850bf05061426.webp)
 

@@ -13,7 +13,7 @@ tags: "задержания, госдума, митинги, реновация"
 
 *Фоторепортаж*
 
-**link:** https://novayagazeta.ru/news/2017/06/14/132497-gosduma-prinyala-zakonoproekt-o-renovatsii
+**link:** [https://novayagazeta.ru/news/2017/06/14/132497-gosduma-prinyala-zakonoproekt-o-renovatsii](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/06/14/132497-gosduma-prinyala-zakonoproekt-o-renovatsii)
 
 ![](_assets/ac/aca54e31c51171e86c843676e66570e1.webp)
 

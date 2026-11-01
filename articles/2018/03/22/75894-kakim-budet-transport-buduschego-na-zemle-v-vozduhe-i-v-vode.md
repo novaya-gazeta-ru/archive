@@ -29,7 +29,7 @@ tags: "автомобили, транспорт, будущее, илон мас
 
 Изменить представление о способе передвижения попытались и разработчики лифтов ThyssenKrupp. В компании предложили разработать лифтовую систему, которая передвигается по горизонтали. Пользователи интернета уже успели назвать эту систему **«лифтом Вилли Вонки»** .
 
-**link:** https://novayagazeta.ru/articles/2017/09/21/73922-nas-ne-nakroet-volnoy-bespilotnosti
+**link:** [https://novayagazeta.ru/articles/2017/09/21/73922-nas-ne-nakroet-volnoy-bespilotnosti](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/09/21/73922-nas-ne-nakroet-volnoy-bespilotnosti)
 
 Секция Воздух: летающие такси
 

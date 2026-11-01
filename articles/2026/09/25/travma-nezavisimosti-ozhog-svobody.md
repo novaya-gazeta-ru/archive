@@ -147,6 +147,6 @@ tags: ""
 
 **Александр Татиев,** [«Полотно» медиа](https://www.polotno.media/)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/14/pobriatsali-a-ono-vse-eshche-fonit
+**Читайте также:** [Побряцали, а оно все еще фонит](2026/08/14/pobriatsali-a-ono-vse-eshche-fonit.md)
 
 #### * Минюст включил в реестр иноагентов.

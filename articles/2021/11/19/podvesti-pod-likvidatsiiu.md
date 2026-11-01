@@ -97,7 +97,7 @@ tags: "экспертиза, экстремизм, мемориал"
 **Андрей Заякин,**\
  сооснователь «Диссернета», редактор data-отдела «Новой газеты».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/18/prizyvaem-prokuraturu-otozvat-iski-protiv-memoriala
+**Читайте также:** [«Призываем прокуратуру отозвать иски против "Мемориала"»](2021/11/18/prizyvaem-prokuraturu-otozvat-iski-protiv-memoriala.md)
 
 ## Документ
 

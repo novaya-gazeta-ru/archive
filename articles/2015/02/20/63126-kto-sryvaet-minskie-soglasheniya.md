@@ -23,9 +23,9 @@ tags: "война, дебальцево, минские соглашения, о
 
 При этом утром 17 февраля — то есть спустя двое суток после установленного соглашениями «Минск-2» времени прекращения огня — сепаратисты прорвались внутрь Дебальцева, частично удерживаемого украинскими военными, и вступили в уличные бои. Комментируя столкновения в городе, Путин отметил, что это «объяснимо и прогнозируемо».
 
-**link:** https://novayagazeta.ru/politics/67316.html
+**link:** [https://novayagazeta.ru/politics/67316.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/67316.html)
 
-**link:** https://novayagazeta.ru/politics/67316.html
+**link:** [https://novayagazeta.ru/politics/67316.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/67316.html)
 
 18 февраля.
 

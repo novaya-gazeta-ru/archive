@@ -21,9 +21,9 @@ tags: "новосибирская область, колонии, убйиств
 
 «Тайга.инфо» [обратила](https://tayga.info/172173) внимание, что в электронной картотеке суда есть только одно уголовное дело по соответствующей статье, поступившее в конце сентября 2021 года. Оно возбуждено в отношении Гамира Гзиитдинова.
 
-В ноябре 2020 года местные СМИ [сообщили](https://novayagazeta.ru/articles/2020/11/12/165634-smi-soobschili-o-bunte-v-kolonii-novosibirskoy-oblasti-sk-nazval-eto-dezinformatsiey-no-podtverdil-smert-zaklyuchennogo), что в колонии начался бунт и массовые беспорядки. В Следственном комитете региона назвали это «дезинформацией», однако подтвердили смерть одного заключенного.
+В ноябре 2020 года местные СМИ [сообщили](2020/11/12/165634-smi-soobschili-o-bunte-v-kolonii-novosibirskoy-oblasti-sk-nazval-eto-dezinformatsiey-no-podtverdil-smert-zaklyuch.md), что в колонии начался бунт и массовые беспорядки. В Следственном комитете региона назвали это «дезинформацией», однако подтвердили смерть одного заключенного.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/17/na-sizo-6-v-razrabotku-petushka-iz-tebia-sdelaem
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/17/na-sizo-6-v-razrabotku-petushka-iz-tebia-sdelaem](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/17/na-sizo-6-v-razrabotku-petushka-iz-tebia-sdelaem)
 
 Тело 39-летнего осужденного с признаками насильственной смерти обнаружили 11 ноября. Следователи возбудили уголовное дело по ч.1 ст. 105 УК (убийство). В июне 2021 года СК [завершил](https://tayga.info/168692) расследование дела.
 

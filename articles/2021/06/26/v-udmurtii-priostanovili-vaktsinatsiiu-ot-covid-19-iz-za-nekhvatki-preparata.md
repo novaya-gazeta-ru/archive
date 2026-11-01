@@ -17,6 +17,6 @@ tags: "удмуртия, вакцинация, коронавирус, em"
 
 Новую партию «Спутника V» на 17,4 тысячи доз ожидают в регионе 27 июня. Людей, записавшихся на вакцинацию до завтрашнего дня, пообещали проинформировать о новом времени записи.
 
-Накануне вакцинацию из-за нехватки препарата [приостановили](https://novayagazeta.ru/articles/2021/06/25/v-khabarovske-i-komsomolske-na-amure-priostanovili-vaktsinatsiiu-ot-covid-19-iz-za-nekhvatki-preparata) в Хабаровске и Комсомольске-на-Амуре. Там отметили, что в ближайшие два дня планируется поставка 15 тысяч доз вакцины.
+Накануне вакцинацию из-за нехватки препарата [приостановили](2021/06/25/v-khabarovske-i-komsomolske-na-amure-priostanovili-vaktsinatsiiu-ot-covid-19-iz-za-nekhvatki-preparata.md) в Хабаровске и Комсомольске-на-Амуре. Там отметили, что в ближайшие два дня планируется поставка 15 тысяч доз вакцины.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/24/nam-zhe-interesno-chtoby-chitateli-zhili
+**Читайте также:** [Нам же интересно, чтобы читатели жили!](2021/06/24/nam-zhe-interesno-chtoby-chitateli-zhili.md)

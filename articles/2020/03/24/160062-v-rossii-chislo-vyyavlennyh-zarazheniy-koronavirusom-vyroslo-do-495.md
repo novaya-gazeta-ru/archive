@@ -19,4 +19,4 @@ tags: ""
 
 На заседании Собянин заявил, что у властей сейчас нет реальных данных по зараженным коронавирусом: только за последние 10 дней из-за рубежа вернулось около миллиона человек. Он предложил распространить режим самоизоляции, действующий на москвичей старше 65 лет, на Петербург и другие мегаполисы со схожей с Москвой динамикой роста заражений.
 
-**link:** https://novayagazeta.ru/articles/2020/03/23/84471-investitsii-v-biznes-vyplaty-samozanyatym-nalogovye-kanikuly-evropa-pytaetsya-spravitsya-s-ekonomicheskimi-posledstviyami-koronavirusa
+**link:** [Инвестиции в бизнес, выплаты самозанятым, налоговые каникулы](2020/03/23/84471-investitsii-v-biznes-vyplaty-samozanyatym-nalogovye-kanikuly-evropa-pytaetsya-spravitsya-s-ekonomicheskimi-posleds.md)

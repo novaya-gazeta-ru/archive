@@ -14,7 +14,7 @@ tags: ""
 *Мы привыкли к нему, как к сказкам, и боялись не узнать, не понять, не принять и возненавидеть*
 
 *[media: <img alt="" src="https://static.novayagazeta.ru/storage/c/2014/04/11/1397169975_984467_53.png" style="width: 565px; height: 397px; "><br>
-	<em>Продолжение. Начало в <a href="http://www.novayagazeta.ru/arts/62593.html">№25 от 07.03.2014</a></em>]*
+	<em>Продолжение. Начало в <a href="[http://www.novayagazeta.ru/arts/62593.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/arts/62593.html)">№25 от 07.03.2014</a></em>]*
 
 # 1
 

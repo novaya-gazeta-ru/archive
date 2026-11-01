@@ -17,9 +17,9 @@ tags: "ng, АвтоВАЗ, автомобили"
 
 Для сохранения уровня доходов сотрудников руководство «АвтоВАЗа» обратилось за поддержкой в правительство. По словам компании, средства на поддержку уже выделены.
 
-Ранее, 21 марта, в «АвтоВАЗе» [заявили](https://novayagazeta.ru/articles/2022/03/21/avtovaz-otpravit-chast-sotrudnikov-v-prostoi-iz-za-nedostatka-postavok-elektronnykh-komponentov-news)о намерении отправить часть сотрудников в простой. 16 марта в «АвтоВАЗ» [сообщали](https://novayagazeta.ru/articles/2022/03/16/sotrudnikov-avtovaz-otpraviat-v-korporativnyi-otpusk-v-aprele-iz-za-krizisa-v-postavkakh-elektronnykh-komponentov-news), что некоторых сотрудников отправят в плановый корпоративный отпуск с 4 по 24 апреля из-за «продолжающегося кризиса в поставках электронных компонентов».
+Ранее, 21 марта, в «АвтоВАЗе» [заявили](2022/03/21/avtovaz-otpravit-chast-sotrudnikov-v-prostoi-iz-za-nedostatka-postavok-elektronnykh-komponentov-news.md)о намерении отправить часть сотрудников в простой. 16 марта в «АвтоВАЗ» [сообщали](2022/03/16/sotrudnikov-avtovaz-otpraviat-v-korporativnyi-otpusk-v-aprele-iz-za-krizisa-v-postavkakh-elektronnykh-komponentov-news.md), что некоторых сотрудников отправят в плановый корпоративный отпуск с 4 по 24 апреля из-за «продолжающегося кризиса в поставках электронных компонентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/16/menia-uvolili-iz-za-situatsii-v-mire
+**Читайте также:** [«Меня уволили из-за … ситуации в мире»](2022/03/16/menia-uvolili-iz-za-situatsii-v-mire.md)
 
 Ранее на предприятиях в Ижевске и Тольятти уже объявляли дни простоя из-за «кризиса поставок электронных компонентов» (5, 9, 10 и 11 марта).
 

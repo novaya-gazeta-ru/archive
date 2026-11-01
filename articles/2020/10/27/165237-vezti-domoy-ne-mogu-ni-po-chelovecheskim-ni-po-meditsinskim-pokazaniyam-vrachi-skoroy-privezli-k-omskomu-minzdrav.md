@@ -23,4 +23,4 @@ tags: "sf, COVID-19, скорая помощь, омск"
 
 В России за сутки [выявили](https://t.me/COVID2019_official/1845) 16 550 случаев заражения коронавирусом. Из них 191 случай зафиксирован в Омской области.
 
-**link:** https://novayagazeta.ru/articles/2020/10/27/87713-rossiya-pokrylas-kovidnymi-koykami
+**link:** [https://novayagazeta.ru/articles/2020/10/27/87713-rossiya-pokrylas-kovidnymi-koykami](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/10/27/87713-rossiya-pokrylas-kovidnymi-koykami)

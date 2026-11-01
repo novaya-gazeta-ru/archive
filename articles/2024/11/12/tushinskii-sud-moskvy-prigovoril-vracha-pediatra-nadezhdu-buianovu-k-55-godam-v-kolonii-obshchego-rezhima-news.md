@@ -17,6 +17,6 @@ tags: ""
 
 Гособвинитель запрашивал для Буяновой 6 лет. Надежда Буянова не признала вину.
 
-«Новая газета» публиковала пронзительное последнее слово 68-летнего педиатра. Читайте его [полностью тут](https://novayagazeta.ru/articles/2024/11/11/ranshe-byli-vrach-i-patsient-teper-obsluga-i-klient).
+«Новая газета» публиковала пронзительное последнее слово 68-летнего педиатра. Читайте его [полностью тут](2024/11/11/ranshe-byli-vrach-i-patsient-teper-obsluga-i-klient.md).
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/11/ranshe-byli-vrach-i-patsient-teper-obsluga-i-klient
+**Читайте также:** [«Раньше были врач и пациент, теперь — обслуга и клиент»](2024/11/11/ranshe-byli-vrach-i-patsient-teper-obsluga-i-klient.md)

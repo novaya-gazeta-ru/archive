@@ -44,7 +44,7 @@ tags: "троицкий лес, вырубка, застройка, столкн
 
 «А лес невероятно красивый, — сказал Кирилл Медведев, группа «Аркадий Коц», — надо обязательно его отстоять».
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/05/marsh-broskom-ne-idem-reagiruem-esli-kogo-to-biut
+**Читайте также:** [«Марш-броском не идем. Реагируем, если кого-то бьют»](2022/02/05/marsh-broskom-ne-idem-reagiruem-esli-kogo-to-biut.md)
 
 ![](_assets/f3/f36f9b684d570378cd3c8cae2ce9b0e2.webp)
 

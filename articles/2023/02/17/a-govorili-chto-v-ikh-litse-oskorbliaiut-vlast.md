@@ -35,4 +35,4 @@ tags: "петрозаводск, суд, осужденные, избиение,
 
 * **Петрозаводск* **
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/02/17/pri-podtverzhdenii-viny-poneset-nakazanie
+**Читайте также:** [«При подтверждении вины понесет наказание»](2023/02/17/pri-podtverzhdenii-viny-poneset-nakazanie.md)

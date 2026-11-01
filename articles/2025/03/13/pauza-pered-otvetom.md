@@ -75,4 +75,4 @@ tags: "прекращение огня, сво, трамп, путин, зеле
 
 #### * Внесен властями РФ в реестр «иноагентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/12/makron-miach-iavno-na-storone-rossii
+**Читайте также:** [Макрон: «Мяч явно на стороне России»](2025/03/12/makron-miach-iavno-na-storone-rossii.md)

@@ -21,4 +21,4 @@ tags: ""
 
 **«Новая» рассказывала документальную историю мусорщиков Андрея и Александра, которые остались работать на маршруте, хотя многие их коллеги бросили работу в опасном регионе.**
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/05/20/poka-est-musor-gorod-zhivet
+**Читайте также:** [https://novayagazeta.ru/articles/2024/05/20/poka-est-musor-gorod-zhivet](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/05/20/poka-est-musor-gorod-zhivet)

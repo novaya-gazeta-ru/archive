@@ -25,6 +25,6 @@ tags: ""
 
 Вскоре после публикации письма политзаключенных в американском агентстве стало известно о звонке между Владимиром Путиным и Дональдом Трампом. Звонок происходит и накануне подготовки к третьему раунду прямых переговоров российской и украинской делегаций в Стамбуле.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/05/dariu-kozyrevu-oshtrafovali-za-diskreditatsiiu-armii-v-poslednem-slove-na-sude-po-delu-o-diskreditatsii-armii-news
+**Читайте также:** [Дарью Козыреву оштрафовали за «дискредитацию» армии в последнем слове на суде по делу о «дискредитации» армии](2025/06/05/dariu-kozyrevu-oshtrafovali-za-diskreditatsiiu-armii-v-poslednem-slove-na-sude-po-delu-o-diskreditatsii-armii-news.md)
 
 #### * Минюст включил в реестр иноагентов.

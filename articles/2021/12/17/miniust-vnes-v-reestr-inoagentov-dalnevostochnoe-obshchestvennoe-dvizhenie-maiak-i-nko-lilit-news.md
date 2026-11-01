@@ -23,9 +23,9 @@ tags: ""
 
 В то же время Песков заявил, что закон нуждается в корректировке. Например, по словам представителя Кремля, можно сначала уведомлять СМИ о планах признать их «иноагентами» и дать возможность «исправить ситуацию». Песков также добавил, что нужно четче прописать схему «выхода из статуса иноагента».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/20/gosudarstvo-rassmatrivaet-nas-kak-ideologicheskikh-vragov-18
+**Читайте также:** [https://novayagazeta.ru/articles/2021/11/20/gosudarstvo-rassmatrivaet-nas-kak-ideologicheskikh-vragov-18](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/20/gosudarstvo-rassmatrivaet-nas-kak-ideologicheskikh-vragov-18)
 
-«Российскую ЛГБТ-сеть» Минюст [внес](https://novayagazeta.ru/articles/2021/11/08/miniust-vnes-v-reestr-smi-inoagentov-advokata-ivana-pavlova-i-eshche-chetyrekh-byvshikh-uchastnikov-komandy-29-news) в реестр незарегистрированных объединений-«иноагентов» в ноябре. В том же месяце в список СМИ-«иноагентов» [попал](https://novayagazeta.ru/articles/2021/11/12/miniust-vnes-v-reestr-smi-inoagentov-odnogo-iz-osnovatelei-rossiiskoi-lgbt-seti-igoria-kochetkova-news) один из основателей организации Игорь Кочетков**.
+«Российскую ЛГБТ-сеть» Минюст [внес](2021/11/08/miniust-vnes-v-reestr-smi-inoagentov-advokata-ivana-pavlova-i-eshche-chetyrekh-byvshikh-uchastnikov-komandy-29-news.md) в реестр незарегистрированных объединений-«иноагентов» в ноябре. В том же месяце в список СМИ-«иноагентов» [попал](2021/11/12/miniust-vnes-v-reestr-smi-inoagentov-odnogo-iz-osnovatelei-rossiiskoi-lgbt-seti-igoria-kochetkova-news.md) один из основателей организации Игорь Кочетков**.
 
 #### **Организация включена Минюстом в перечень НКО, выполняющих функцию иностранного агента*
 

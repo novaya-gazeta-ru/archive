@@ -15,10 +15,10 @@ tags: "литвинович, онк, правозащитники, тверск�
 
 Адвокат отметил, что правозащитница не согласна с данным решением и собирается его обжаловать.
 
-В апреле Общественная палата РФ [проголосовала](https://novayagazeta.ru/articles/2021/04/06/marinu-litvinovich-iskliuchili-iz-onk-teper-ona-namerena-idti-v-gosdumu)за исключение Литвинович из ОНК Москвы. Этот вопрос [поднял](https://novayagazeta.ru/articles/2021/03/05/onk-moskvy-progolosovala-za-iskliuchenie-pravozashchitnitsy-mariny-litvinovich) один из членов комиссии 5 марта. Он посчитал, что правозащитница нарушила закон, рассказав в эфире телеканала «Дождь»* условия содержания Любови Соболь в ИВС на Петровке, где она находилась по делу о «проникновении в жилище» предполагаемого сотрудника ФСБ Константина Кудрявцева.
+В апреле Общественная палата РФ [проголосовала](2021/04/06/marinu-litvinovich-iskliuchili-iz-onk-teper-ona-namerena-idti-v-gosdumu.md)за исключение Литвинович из ОНК Москвы. Этот вопрос [поднял](2021/03/05/onk-moskvy-progolosovala-za-iskliuchenie-pravozashchitnitsy-mariny-litvinovich.md) один из членов комиссии 5 марта. Он посчитал, что правозащитница нарушила закон, рассказав в эфире телеканала «Дождь»* условия содержания Любови Соболь в ИВС на Петровке, где она находилась по делу о «проникновении в жилище» предполагаемого сотрудника ФСБ Константина Кудрявцева.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/04/02/volki-v-zashchitnykh-shkurakh
+**Читайте также:** [Волки в защитных шкурах](2021/04/02/volki-v-zashchitnykh-shkurakh.md)
 
-Общественная палата [отказалась](https://novayagazeta.ru/articles/2021/04/28/obshchestvennaia-palata-otkazalas-poiasnit-litvinovich-prichinu-iskliucheniia-iz-onk-soslavshis-na-tainu) пояснить Литвинович причину исключения из ОНК, сославшись на «сведения, составляющие охраняемую законом тайну».
+Общественная палата [отказалась](2021/04/28/obshchestvennaia-palata-otkazalas-poiasnit-litvinovich-prichinu-iskliucheniia-iz-onk-soslavshis-na-tainu.md) пояснить Литвинович причину исключения из ОНК, сославшись на «сведения, составляющие охраняемую законом тайну».
 
 #### ** Включено Минюстом в перечень СМИ, выполняющих функцию иностранного агента*

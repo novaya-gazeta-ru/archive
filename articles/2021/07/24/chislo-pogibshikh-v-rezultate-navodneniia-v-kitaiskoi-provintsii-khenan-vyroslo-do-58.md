@@ -29,4 +29,4 @@ tags: "китай, потоп, наводнение, хэнань, kn"
 
 Из-за шторма Ин-Фа в аэропорту Ханчжоу в провинции Чжэцзян [отменили](https://www.aljazeera.com/news/2021/7/24/china-shuts-down-ports-cancels-flights-as-typhoon-in-fa-nears) 90% рейсов, также закрыт порт Яншань к югу от Шанхая.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/21/bolee-200-tysiach-zhitelei-kitaiskogo-chzhenchzhou-evakuirovali-iz-za-silnogo-navodneniia
+**Читайте также:** [Более 200 тысяч жителей китайского Чжэнчжоу эвакуировали из-за сильного наводнения](2021/07/21/bolee-200-tysiach-zhitelei-kitaiskogo-chzhenchzhou-evakuirovali-iz-za-silnogo-navodneniia.md)

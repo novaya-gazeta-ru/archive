@@ -51,7 +51,7 @@ tags: ""
 >
 > **Смотрю только в будущее. Да, если бы вышел из другого выхода метро или не подошел к репортерам… Но внутри горело, выплеснул пар на все происходящее.** Сейчас очень жесткие наказания и законы. Не надо геройствовать! С героями только огромные проблемы для семьи и близких. Надо ждать. Спасибо волонтерам за сумку в СИЗО-7! От души!
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/16/kak-ia-vernus-v-to-obshchestvo-kotoroe-sformirovalos-v-rossii
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/16/kak-ia-vernus-v-to-obshchestvo-kotoroe-sformirovalos-v-rossii](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/16/kak-ia-vernus-v-to-obshchestvo-kotoroe-sformirovalos-v-rossii)
 
 #### * Генпрокуратурой РФ организация признана нежелательной.
 

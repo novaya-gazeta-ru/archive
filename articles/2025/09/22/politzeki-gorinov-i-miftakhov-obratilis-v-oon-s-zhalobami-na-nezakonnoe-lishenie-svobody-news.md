@@ -21,7 +21,7 @@ tags: ""
 
 В тюремной больнице к нему подсаживали заключенных с диктофонами, которые систематически провоцировали разговоры о спецоперации. Так, в 2023 году один из сокамерников за день задал экс-депутату 137 вопросов о боевых действиях. По словам заявителей, подобные методы являются провокацией и делают доказательства недопустимыми.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/03/politzeka-gorinova-ne-smogli-rasslyshat-na-zasedanii-po-apelliatsionnoi-zhalobe-na-ego-vtoroi-prigovor-za-opravdanie-terrorizma-v-razgovore-s-podsadnymi-osuzhdennymi-news
+**Читайте также:** [Политзека Горинова не смогли расслышать на заседании по апелляционной жалобе на его второй приговор — за «оправдание терроризма» в разговоре с подсадными осужденными](2025/04/03/politzeka-gorinova-ne-smogli-rasslyshat-na-zasedanii-po-apelliatsionnoi-zhalobe-na-ego-vtoroi-prigovor-za-opravdanie-ter.md)
 
 Подчеркнуто, что и Горинов, и Мифтахов содержатся в тяжелых условиях.
 

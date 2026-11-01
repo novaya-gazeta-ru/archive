@@ -17,6 +17,6 @@ tags: "футбол, мальта, sf"
 
 В следующем матче отборочного этапа Россия сыграет с командой Словакии. Встреча пройдет 8 октября.
 
-Ранее сборная России [обыграла](https://novayagazeta.ru/articles/2021/09/04/sbornaia-rossii-obygrala-komandu-kipra-v-matche-otborochnogo-etapa-chm-po-futbolu-news) команду Кипра со счетом 2:0. Эта победа стала первой под руководством нового тренера Валерия Карпина. В первом матче отборочного этапа, который состоялся 1 сентября, Россия [сыграла](https://novayagazeta.ru/articles/2021/09/01/sbornaia-rossii-sygrala-vnichiu-s-khorvatiei-v-matche-otborochnogo-etapa-chm-po-futbolu-eto-byla-pervaia-igra-rossiian-pod-rukovodstvom-karpina-news) вничью (0:0) с командой Хорватии.
+Ранее сборная России [обыграла](2021/09/04/sbornaia-rossii-obygrala-komandu-kipra-v-matche-otborochnogo-etapa-chm-po-futbolu-news.md) команду Кипра со счетом 2:0. Эта победа стала первой под руководством нового тренера Валерия Карпина. В первом матче отборочного этапа, который состоялся 1 сентября, Россия [сыграла](2021/09/01/sbornaia-rossii-sygrala-vnichiu-s-khorvatiei-v-matche-otborochnogo-etapa-chm-po-futbolu-eto-byla-pervaia-igra-rossiian-p.md) вничью (0:0) с командой Хорватии.
 
-Карпина назначили главным тренером российской сборной 23 июля. Перед этим Российский футбольный союз [расторг](https://novayagazeta.ru/articles/2021/07/08/rfs-rastorg-kontrakt-so-stanislavom-cherchesovym) контракт со Станиславом Черчесовым.
+Карпина назначили главным тренером российской сборной 23 июля. Перед этим Российский футбольный союз [расторг](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/08/rfs-rastorg-kontrakt-so-stanislavom-cherchesovym) контракт со Станиславом Черчесовым.

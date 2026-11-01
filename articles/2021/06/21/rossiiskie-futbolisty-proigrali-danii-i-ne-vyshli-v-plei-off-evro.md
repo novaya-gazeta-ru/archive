@@ -21,12 +21,12 @@ tags: "футбол, чемпионат европы, россия, дания, 
 
 Однако вскоре Дания практически подряд забила еще два мяча: на 80-ой минуте отличился Андреас Кристенсен, а на 82-ой — Йоаким Мехле.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/19/nas-zhdet-svoboda-ot-izlishnikh-perezhivanii
+**Читайте также:** [Нас ждет свобода от излишних переживаний](2021/06/19/nas-zhdet-svoboda-ot-izlishnikh-perezhivanii.md)
 
 Матч соперников россиян по группе B между Бельгией и Финляндией закончился победой красно-желто-черных со счетом 2:0. Это позволило Бельгии занять первое место в группе, Финляндия стала третьей. Россия, Финляндия и Дания набрали по 3 очка, и места в группе определялись по разнице забитых и пропущенных мячей. Российские футболисты, пропустившие на турнире 7 мячей и забившие только два, заняли четвертое место в группе.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/12/futbolist-sbornoi-danii-kristian-eriksen-poterial-soznanie-v-matche-evro-protiv-finliandii-ego-unesli-s-polia-match-prervan-fotografiia
+**Читайте также:** [Футболист сборной Дании Кристиан Эриксен потерял сознание в матче Евро против Финляндии. Его унесли с поля, матч был прерван](2021/06/12/futbolist-sbornoi-danii-kristian-eriksen-poterial-soznanie-v-matche-evro-protiv-finliandii-ego-unesli-s-polia-match-prer.md)
 
-Ранее сборная России [проиграла](«https://novayagazeta.ru/articles/2021/06/12/rossiia-proigrala-belgii-v-pervom-matche-che-po-futbolu») Бельгии со счетом 3:0 и обыграла Финляндию, [забив](«https://novayagazeta.ru/articles/2021/06/16/rossiia-obygrala-finliandiiu-vo-vtorom-matche-evro-so-schetom-1-0») в этом матче один мяч. До этого Финляндия обыграла Данию, а затем Дания проиграла Бельгии. \
+Ранее сборная России [проиграла](2021/06/12/rossiia-proigrala-belgii-v-pervom-matche-che-po-futbolu.md) Бельгии со счетом 3:0 и обыграла Финляндию, [забив](2021/06/16/rossiia-obygrala-finliandiiu-vo-vtorom-matche-evro-so-schetom-1-0.md) в этом матче один мяч. До этого Финляндия обыграла Данию, а затем Дания проиграла Бельгии. \
  \
- Во время матча между Данией и Финляндией датский полузащитник Кристиан Эриксен [потерял](https://novayagazeta.ru/articles/2021/06/12/futbolist-sbornoi-danii-kristian-eriksen-poterial-soznanie-v-matche-evro-protiv-finliandii-ego-unesli-s-polia-match-prervan-fotografiia) сознание и был госпитализирован. Позже [выяснилось](https://novayagazeta.ru/articles/2021/06/13/datskii-futbolist-eriksen-perezhil-klinicheskuiu-smert-vo-vremia-matcha-s-finskoi-sbornoi), что Эриксен пережил клиническую смерть.
+ Во время матча между Данией и Финляндией датский полузащитник Кристиан Эриксен [потерял](2021/06/12/futbolist-sbornoi-danii-kristian-eriksen-poterial-soznanie-v-matche-evro-protiv-finliandii-ego-unesli-s-polia-match-prer.md) сознание и был госпитализирован. Позже [выяснилось](2021/06/13/datskii-futbolist-eriksen-perezhil-klinicheskuiu-smert-vo-vremia-matcha-s-finskoi-sbornoi.md), что Эриксен пережил клиническую смерть.

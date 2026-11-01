@@ -13,24 +13,24 @@ tags: ""
 
 *Патентные войны: получая авторские права на простейшие вещи, бизнесмены могут залезть в карман каждого человека. Внимание, дачники! Ваши заборы незаконны.*
 
-[](http://www.novayagazeta.ru/storage/c/2013/02/23/1361738315_083564_70.png)
+[](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/02/23/1361738315_083564_70.png)
 
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/02/23/1361631972_915700_12.jpg" style="width: 360px; height: 480px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/02/23/1361631972_915700_12.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/02/23/1361631972_915700_12.jpg)" style="width: 360px; height: 480px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/02/23/1361631973_235737_47.jpg" style="width: 360px; height: 480px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/02/23/1361631973_235737_47.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/02/23/1361631973_235737_47.jpg)" style="width: 360px; height: 480px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/02/23/1361631973_564037_6.jpg" style="width: 360px; height: 480px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/02/23/1361631973_564037_6.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/02/23/1361631973_564037_6.jpg)" style="width: 360px; height: 480px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/02/23/1361631979_798978_90.jpg" style="width: 360px; height: 480px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/02/23/1361631979_798978_90.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/02/23/1361631979_798978_90.jpg)" style="width: 360px; height: 480px;"></td>
 		</tr>
 		<tr>
 			<td>

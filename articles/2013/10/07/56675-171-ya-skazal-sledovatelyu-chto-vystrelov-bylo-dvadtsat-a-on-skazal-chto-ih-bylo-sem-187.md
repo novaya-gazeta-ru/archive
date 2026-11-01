@@ -16,7 +16,7 @@ tags: "суды, антифашисты, \"воздух\""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/10/07/1381160742_722965_28.jpg" style="width: 360px; height: 360px;"><sup>Алексей Олесинов (слева) и Алексей Сутуга. Фото автора</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/10/07/1381160742_722965_28.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/10/07/1381160742_722965_28.jpg)" style="width: 360px; height: 360px;"><sup>Алексей Олесинов (слева) и Алексей Сутуга. Фото автора</sup></td>
 		</tr>
 	</tbody>]*
 

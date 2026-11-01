@@ -17,6 +17,6 @@ tags: "em, китай, сша"
 
 Указ, запрещающий американцам инвестировать в компании, связанные с военными КНР, президент США Дональд Трамп [подписал](https://www.bloomberg.com/news/articles/2020-11-12/trump-bans-investiments-in-firms-controlled-by-china-s-military?srnd=premium) в ноябре прошлого года. Reuters cо ссылкой на источники ранее сегодня [сообщило](https://www.reuters.com/article/us-usa-china-krach/u-s-unlikely-to-add-more-chinese-firms-to-military-blacklist-until-jan-20-u-s-official-idUSKBN29J2VC), что американский лидер вряд ли расширит список до 20 января, когда истекает срок его полномочий.
 
-В прошлом году Трамп подписал указ о запрете китайского приложения TikTok, так как, по мнению президента США, оно угрожает безопасности страны. Однако в сентябре суд временно [заблокировал](https://novayagazeta.ru/news/2020/09/28/164543-sud-vremenno-zablokiroval-ukaz-trampa-o-zaprete-tiktok) документ.
+В прошлом году Трамп подписал указ о запрете китайского приложения TikTok, так как, по мнению президента США, оно угрожает безопасности страны. Однако в сентябре суд временно [заблокировал](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/09/28/164543-sud-vremenno-zablokiroval-ukaz-trampa-o-zaprete-tiktok) документ.
 
-**link:** https://novayagazeta.ru/articles/2020/07/07/86178-po-kom-tikaet-tiktok
+**link:** [По ком тикает TikTok](2020/07/07/86178-po-kom-tikaet-tiktok.md)

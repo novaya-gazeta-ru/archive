@@ -17,7 +17,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/15/1350321532_236371_59.jpg" style="width: 360px; height: 467px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/15/1350321532_236371_59.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/15/1350321532_236371_59.jpg)" style="width: 360px; height: 467px; "></p>
 				<p>
 					<sup>На вечере презентовались книга «Умри или Будь!»…</sup></p>
 			</td>
@@ -25,7 +25,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/15/1350321532_529695_10.jpg" style="width: 360px; height: 357px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/15/1350321532_529695_10.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/15/1350321532_529695_10.jpg)" style="width: 360px; height: 357px; "></p>
 				<p>
 					<sup>… и диск «Вера Лотар-Шевченко. Ф. Шопен. 24 этюда», ставший сенсацией</sup></p>
 			</td>
@@ -33,7 +33,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/15/1350321532_830128_3.jpg" style="width: 360px; height: 355px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/15/1350321532_830128_3.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/15/1350321532_830128_3.jpg)" style="width: 360px; height: 355px; "></p>
 				<p>
 					&nbsp;</p>
 				<p>
@@ -43,7 +43,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/15/1350321545_802680_54.jpg" style="width: 360px; height: 620px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/15/1350321545_802680_54.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/15/1350321545_802680_54.jpg)" style="width: 360px; height: 620px; "></p>
 				<p>
 					<sup>… и в Киеве. И ещё были концерты в Ленинграде и Одессе, Баку и Перми, Рязани и Туле, Калуге и Воронеже, Краснодаре и Майкопе, Саратове и Волгограде, Иркутске и Хабаровске, Благовещенске и Владивостоке. А ещё раньше, в молодости, —гастроли по всему миру</sup></p>
 			</td>
@@ -51,7 +51,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/15/1350321546_115060_44.jpg" style="width: 360px; height: 540px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/15/1350321546_115060_44.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/15/1350321546_115060_44.jpg)" style="width: 360px; height: 540px; "></p>
 				<p>
 					&nbsp;</p>
 				<p>
@@ -61,7 +61,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/15/1350321546_437075_90.jpg" style="width: 360px; height: 493px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/15/1350321546_437075_90.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/15/1350321546_437075_90.jpg)" style="width: 360px; height: 493px; "></p>
 				<p>
 					&nbsp;</p>
 				<p>
@@ -71,7 +71,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/15/1350321553_272233_63.jpg" style="width: 360px; height: 234px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/15/1350321553_272233_63.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/15/1350321553_272233_63.jpg)" style="width: 360px; height: 234px; "></p>
 				<p>
 					&nbsp;</p>
 				<p>

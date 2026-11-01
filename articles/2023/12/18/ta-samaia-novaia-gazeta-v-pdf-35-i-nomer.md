@@ -13,4 +13,4 @@ tags: ""
 
 *Пропаганда взламывает «Дзен», о бизнес-имперце Гергиеве, как воспитать человека, который изменит мир, и о самом болезненном для власти — яйцах*
 
-https://novayagazeta.ru/issues/3280
+[https://novayagazeta.ru/issues/3280](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3280)

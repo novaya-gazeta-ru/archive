@@ -73,4 +73,4 @@ Danon выделяет средства на производство сериа
 
 **Ян Шенкман,** «Новая»
 
-**link:** https://novayagazeta.ru/articles/2018/02/24/75600-krasnyy-medved-ob-evshiysya-geroina
+**link:** [Красный медведь, объевшийся героина](2018/02/24/75600-krasnyy-medved-ob-evshiysya-geroina.md)

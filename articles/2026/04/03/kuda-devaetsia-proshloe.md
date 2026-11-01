@@ -75,4 +75,4 @@ tags: ""
 >
 > Лариса Малюкова ведет телеграм-канал о кино и не только. [Подписывайтесь тут](https://t.me/larisamalukova).
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/24/raznoobrazie-voln
+**Читайте также:** [Разнообразие волн](2026/03/24/raznoobrazie-voln.md)

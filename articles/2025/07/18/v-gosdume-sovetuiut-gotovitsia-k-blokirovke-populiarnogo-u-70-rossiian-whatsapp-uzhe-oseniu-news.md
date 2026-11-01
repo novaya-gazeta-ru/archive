@@ -21,8 +21,8 @@ tags: ""
 
 WhatsApp должен выполнять российские законы, как и все сервисы, [заявил](https://www.kommersant.ru/doc/7905205) официальный представитель Кремля Дмитрий Песков.
 
-15 июля кабмин официально [выбрал](https://novayagazeta.ru/articles/2025/07/15/pravitelstvo-ofitsialno-poruchilo-vk-razvivat-edinyi-gosmessendzher-max-dlia-vsego-analogichnyi-kitaiskomu-wechat-news) оператором «национального мессенджера» дочернюю структуру холдинга VK. Она будет развивать MAX как приложение «для всего» — по аналогии с китайским WeChat. В нем будут как сервисы для общения, так и госуслуги вроде цифрового ID или госключа.
+15 июля кабмин официально [выбрал](2025/07/15/pravitelstvo-ofitsialno-poruchilo-vk-razvivat-edinyi-gosmessendzher-max-dlia-vsego-analogichnyi-kitaiskomu-wechat-news.md) оператором «национального мессенджера» дочернюю структуру холдинга VK. Она будет развивать MAX как приложение «для всего» — по аналогии с китайским WeChat. В нем будут как сервисы для общения, так и госуслуги вроде цифрового ID или госключа.
 
-При этом MAX после установки на смартфон [требует доступ](https://novayagazeta.ru/articles/2025/07/15/pravitelstvo-ofitsialno-poruchilo-vk-razvivat-edinyi-gosmessendzher-max-dlia-vsego-analogichnyi-kitaiskomu-wechat-news) к приватной информации пользователя через код устройства, рассказывают критики сервиса. Еще MAX предлагает подписку на каналы СМИ и популярных блогеров, которые не заводили их там и [узнали](https://t.me/oganesiani/224) о существовании своих проектов постфактум.
+При этом MAX после установки на смартфон [требует доступ](2025/07/15/pravitelstvo-ofitsialno-poruchilo-vk-razvivat-edinyi-gosmessendzher-max-dlia-vsego-analogichnyi-kitaiskomu-wechat-news.md) к приватной информации пользователя через код устройства, рассказывают критики сервиса. Еще MAX предлагает подписку на каналы СМИ и популярных блогеров, которые не заводили их там и [узнали](https://t.me/oganesiani/224) о существовании своих проектов постфактум.
 
 #### * Принадлежит Meta, которая признана экстремистской организацией и запрещена в РФ

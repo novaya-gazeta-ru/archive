@@ -13,4 +13,4 @@ tags: ""
 
 *[media: #next_pages_container { width: 5px; hight: 5px; position: absolute; top: -100px; left: -100px; z-index: 2147483647 !important; }]*
 
-*[media: <strong>Читайте также:</strong>&nbsp;<a href="http://www.novayagazeta.ru/news/61758.html">У здания Госдумы завершилась акция противников принятия закона о запрете пропаганды гомосексуализма. Более 10 человек задержаны</a>]*
+*[media: <strong>Читайте также:</strong>&nbsp;<a href="[http://www.novayagazeta.ru/news/61758.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/61758.html)">У здания Госдумы завершилась акция противников принятия закона о запрете пропаганды гомосексуализма. Более 10 человек задержаны</a>]*

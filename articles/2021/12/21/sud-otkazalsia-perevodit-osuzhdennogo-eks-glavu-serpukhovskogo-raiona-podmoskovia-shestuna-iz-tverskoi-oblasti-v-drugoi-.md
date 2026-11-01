@@ -21,8 +21,8 @@ tags: "em , шестун, перевод, тверская область, су�
 
 Сейчас Шестун находится в СИЗО-11 подмосковного Ногинска, Русина отметила, что его могут этапировать в Тверь через несколько дней.
 
-В мае экс-главу Серпуховского района [поставили](https://novayagazeta.ru/articles/2021/05/12/osuzhdennogo-na-15-let-eks-glavu-serpukhovskogo-raiona-shestuna-postavili-na-profuchet-v-kolonii-kak-sklonnogo-k-pobegu) в ИК-6 на учет как склонного к побегу. По словам Шестуна, решение внесло «огромные неудобства в виде обязательной проверки каждые 2 часа, включая ночное время». На прошлой неделе Тверской облсуд [отменил](https://novayagazeta.ru/articles/2021/12/15/osuzhdennogo-na-15-let-eks-glavu-serpukhovskogo-raiona-shestuna-sniali-s-profucheta-v-kolonii-kak-sklonnogo-k-pobegu-news) решение о постановке Шестуна на учет.
+В мае экс-главу Серпуховского района [поставили](2021/05/12/osuzhdennogo-na-15-let-eks-glavu-serpukhovskogo-raiona-shestuna-postavili-na-profuchet-v-kolonii-kak-sklonnogo-k-pobegu.md) в ИК-6 на учет как склонного к побегу. По словам Шестуна, решение внесло «огромные неудобства в виде обязательной проверки каждые 2 часа, включая ночное время». На прошлой неделе Тверской облсуд [отменил](2021/12/15/osuzhdennogo-na-15-let-eks-glavu-serpukhovskogo-raiona-shestuna-sniali-s-profucheta-v-kolonii-kak-sklonnogo-k-pobegu-new.md) решение о постановке Шестуна на учет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/20/chitatel-v-tiurme-aleksandr-shestun
+**Читайте также:** [Читатель в тюрьме: Александр Шестун](2021/08/20/chitatel-v-tiurme-aleksandr-shestun.md)
 
 Год назад Подольский городской суд приговорил экс-главу Серпуховского района Подмосковья Шестуна к 15 годам колонии строгого режима. Его арестовали в июле 2018 года и обвинили в крупном мошенничестве (ст. 159 УК), отмывании денег (ч. 4 ст. 174.1 УК), незаконной предпринимательской деятельности (ст. 289 УК) и получении взятки (ст. 290 УК). Сам Шестун свою вину не признал и заявил, что считает свое дело сфабрикованным.

@@ -15,7 +15,7 @@ tags: "боинг, украина"
 
 *[media: <tbody>
 		<tr>
-			<td><a href="/storage/c/2015/06/15/1434323928_325342_10.jpg" target="_blank"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/06/15/1434375206_315988_24.png" style="width: 570px; height: 321px;"></a></td>
+			<td><a href="/storage/c/2015/06/15/1434323928_325342_10.jpg" target="_blank"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/06/15/1434375206_315988_24.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/06/15/1434375206_315988_24.png)" style="width: 570px; height: 321px;"></a></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Авиапространство, которое&nbsp;должна была закрыть Украина&nbsp;(выделено цветом),&nbsp;после крушения АН-26</sup></td>
@@ -31,9 +31,9 @@ tags: "боинг, украина"
 \
  С моим собеседником, который имеет прямое отношение к «Украэроруху» и потому не хочет «светить» ни фамилию, ни должность, я встретилась в день выхода в «Новой» материала «17 июля в зону АТО должен был вылететь самолет с украинскими десантниками».
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/inquests/68762.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/06/10/1433930257_932912_29.png" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/inquests/68762.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/68762.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/06/10/1433930257_932912_29.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/06/10/1433930257_932912_29.png)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/inquests/68762.html" target="_blank"><strong>«17 июля в зону АТО должен был вылететь транспортный Ан-26 с украинскими десантниками»</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/inquests/68762.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/68762.html)" target="_blank"><strong>«17 июля в зону АТО должен был вылететь транспортный Ан-26 с украинскими десантниками»</strong></a></p>]*
 
 Напомню: «Украэрорух» — государственное предприятие, отвечающее за украинское небо, гиперприбыльный монополист на рынке. Мой собеседник готов объяснить, по каким причинам Украина полностью не закрыла все воздушное пространство над зоной АТО за три дня до трагедии с малайзийским «боингом». Но вначале уточняет:
 
@@ -43,7 +43,7 @@ tags: "боинг, украина"
 
 **— И сколько же падает денег?**
 
-— До катастрофы — 3 млрд гривен в год, что в долларах, по курсу, примерно 142 518 000 долларов[*](https://novayagazeta.ru/articles/2015/06/15/64520-171-gendirektor-povel-sebya-kak-tryapka-nebo-nad-territoriey-ato-ostavili-otkrytym-187?export=1#)Точную сумму «Новая» попытается определить к итоговому докладу о крушении «боинга». Стоимость пролета зависит от веса самолета, у каждой страны свои ставки.
+— До катастрофы — 3 млрд гривен в год, что в долларах, по курсу, примерно 142 518 000 долларов[*](2015/06/15/64520-171-gendirektor-povel-sebya-kak-tryapka-nebo-nad-territoriey-ato-ostavili-otkrytym-187.md)Точную сумму «Новая» попытается определить к итоговому докладу о крушении «боинга». Стоимость пролета зависит от веса самолета, у каждой страны свои ставки.
 
 В 2004-м Украину приняли в «Евроконтроль» — Европейскую организацию безопасности навигации. С нашей стороны все нормы соответствовали, требования выполнялись. Запад хотел поддержать страну таким решением, стимулировать к развитию. Можно сказать, Украина вступила в Европу небом. С полетной территорией тоже получили поддержку. Чем она больше (_полетная территория._ — **О. М.** ), тем больше получаешь денег. Именно Украине, когда у нас пошли процессы (_собеседник имеет в виду политические процессы, «становление демократии». — _ **О. М.** ), делегировали управление воздушным пространством над Черным морем. Представляете, сколько причерноморских стран претендовало? А их смогли убедить, поскольку маршрутный центр «Евроконтроля» находится в Брюсселе.
 
@@ -57,9 +57,9 @@ tags: "боинг, украина"
 
 — **То есть слова Сергея Пашинского на брифинге ** (_Пашинский исполнял обязанности руководителя администрации президента Петра Порошенко, сейчас народный депутат от «Народного фронта», фракции премьера Яценюка в Раде._ — **О. М.** ) **о том, что Чередниченко сотрудничал с сепаратистами, — блеф?**
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/inquests/68332.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/05/12/1431442785_962393_56.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/inquests/68332.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/68332.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/05/12/1431442785_962393_56.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/05/12/1431442785_962393_56.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/inquests/68332.html" target="_blank"><strong>Это был «Бук-М1». Экспертная оценка российских военных инженеров: малайзийский «Боинг» над восточной Украиной сбит ракетой класса «земля — воздух»</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/inquests/68332.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/68332.html)" target="_blank"><strong>Это был «Бук-М1». Экспертная оценка российских военных инженеров: малайзийский «Боинг» над восточной Украиной сбит ракетой класса «земля — воздух»</strong></a></p>]*
 
 — Я же говорю: стояла задача, — снисходительно машет рукой. — Министерство инфраструктуры (_в его ведении находится «Украэрорух»._ — **О. М.** ) отстранило Чередниченко своим приказом на время проверки и назначило исполняющим обязанности Здоровца. Но Чередниченко мобилизовал «титушек» и других полукриминальных элементов и заблокировал подступы к офису.
 
@@ -107,9 +107,9 @@ tags: "боинг, украина"
 
 Под чьим контролем находился населенный пункт Зарощенское, который фигурирует в докладе концерна «Алмаз-Антей» как место пуска ракеты?
 
-*[media: <p style="margin-left: 40px;"><span style="color:#B22222;"><strong><a href="http://www.novayagazeta.ru/inquests/68728.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/06/07/1433696869_203836_72.jpg" style="width: 100px; height: 75px;"></a>Читайте также:</strong></span></p>
+*[media: <p style="margin-left: 40px;"><span style="color:#B22222;"><strong><a href="[http://www.novayagazeta.ru/inquests/68728.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/68728.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/06/07/1433696869_203836_72.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/06/07/1433696869_203836_72.jpg)" style="width: 100px; height: 75px;"></a>Читайте также:</strong></span></p>
 
-<p style="margin-left: 40px;"><a href="http://www.novayagazeta.ru/inquests/68728.html" target="_blank"><strong>«На нашем поле «Бука» не было». Свидетельства жителей сел, из которых предположительно могли произвести пуск ракеты</strong></a></p>]*
+<p style="margin-left: 40px;"><a href="[http://www.novayagazeta.ru/inquests/68728.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/68728.html)" target="_blank"><strong>«На нашем поле «Бука» не было». Свидетельства жителей сел, из которых предположительно могли произвести пуск ракеты</strong></a></p>]*
 
 Как установка «Бук» и ракета попали на территорию Восточной Украины?
 

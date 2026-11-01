@@ -19,6 +19,6 @@ tags: ""
 
 В России, опустившейся в демографическую яму, власти разных уровней предпринимают меры по стимулированию рождаемости и борются с абортами. Среди вызывающих споры инициатив: жесткий секс-просвет студентов с видео реальных абортов без цензуры, и разовые денежные премии беременным школьницам.
 
-Ссылаясь на рекомендации Минздрава, российских студентов в вузах анкетируют [в неэтичной форме](https://novayagazeta.ru/articles/2024/11/23/direktora-vuza-gde-studentok-anketirovali-obiazatelnymi-voprosami-pro-polovuiu-zhizn-nakazhut-posle-podkliucheniia-mizulinoi-news) по вопросам их сексуального здоровья, а в медучреждениях решившихся на аборт россиянок [укладывают](https://novayagazeta.ru/articles/2024/12/06/minzdrav-reshivshikh-sdelat-abort-rossiianok-sleduet-klast-v-palatu-s-beremennymi-u-kotorykh-est-ugroza-poteri-zhelannogo-rebenka-news) в палаты к женщинам, старающимся сохранить своего ребенка.
+Ссылаясь на рекомендации Минздрава, российских студентов в вузах анкетируют [в неэтичной форме](2024/11/23/direktora-vuza-gde-studentok-anketirovali-obiazatelnymi-voprosami-pro-polovuiu-zhizn-nakazhut-posle-podkliucheniia-mizul.md) по вопросам их сексуального здоровья, а в медучреждениях решившихся на аборт россиянок [укладывают](2024/12/06/minzdrav-reshivshikh-sdelat-abort-rossiianok-sleduet-klast-v-palatu-s-beremennymi-u-kotorykh-est-ugroza-poteri-zhelannog.md) в палаты к женщинам, старающимся сохранить своего ребенка.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/29/kak-gosudarstvo-zaletelo
+**Читайте также:** [Как государство залетело…](2025/04/29/kak-gosudarstvo-zaletelo.md)

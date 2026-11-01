@@ -25,10 +25,10 @@ tags: "левада, украина, война, опрос, лнр, днр, в�
 
 Еще 4% респондентов заявили, что конфликт обостряет Россия, 3% назвали инициатором напряженности самопровозглашенные республики ДНР и ЛНР.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/11/putin-khochet-chtoby-sudba-ukrainy-obsuzhdalas-napriamuiu-mezhdu-vashingtonom-i-moskvoi
+**Читайте также:** [«Путин хочет, чтобы судьба Украины обсуждалась напрямую между Вашингтоном и Москвой»](2021/12/11/putin-khochet-chtoby-sudba-ukrainy-obsuzhdalas-napriamuiu-mezhdu-vashingtonom-i-moskvoi.md)
 
-В ноябре иностранные СМИ неоднократно [сообщали](https://novayagazeta.ru/articles/2021/11/22/bloomberg-soobshchil-o-podgotovke-moskvy-k-vtorzheniiu-v-ukrainu-v-kremle-eto-nazvali-vbrosom-i-kamufliazhem-dlia-agressivnykh-pomyslov-news), что Россия стягивает войска на границе с Украиной и собирается напасть на соседнее государство в 2022 году. Bloomberg писал, что около 100 тысяч военных будут наступать по трем направлениям — из центральной России, Крыма и Беларуси. В Кремле подобную информацию отрицают и называют «камуфляжем для агрессивных помыслов».
+В ноябре иностранные СМИ неоднократно [сообщали](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/22/bloomberg-soobshchil-o-podgotovke-moskvy-k-vtorzheniiu-v-ukrainu-v-kremle-eto-nazvali-vbrosom-i-kamufliazhem-dlia-agressivnykh-pomyslov-news), что Россия стягивает войска на границе с Украиной и собирается напасть на соседнее государство в 2022 году. Bloomberg писал, что около 100 тысяч военных будут наступать по трем направлениям — из центральной России, Крыма и Беларуси. В Кремле подобную информацию отрицают и называют «камуфляжем для агрессивных помыслов».
 
 #### **внесен Минюстом РФ в реестр НКО, выполняющих функции иностранного агента*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/10/kak-gremiat-kliuchi-ot-mira
+**Читайте также:** [Как гремят «ключи от мира»](2021/12/10/kak-gremiat-kliuchi-ot-mira.md)

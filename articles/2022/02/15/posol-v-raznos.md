@@ -17,7 +17,7 @@ tags: "дипломатия, мид, грубость, кузькина мать
 
 *Петр Саруханов / «Новая газета»*
 
-Не к шведскому столу будет сказано, посол России в Швеции Виктор Татаринцев, оценивая новые возможные санкции Запада, жестко заявил, что [нам на эти санкции](https://novayagazeta.ru/articles/2022/02/13/izvinite-za-iazyk-no-my-srali-na-sanktsii-zapada-posol-rf-v-shvetsii-o-vozmozhnosti-vvedeniia-novykh-ogranichenii-news)… Что [мы на эти санкции](https://novayagazeta.ru/articles/2022/02/13/izvinite-za-iazyk-no-my-srali-na-sanktsii-zapada-posol-rf-v-shvetsii-o-vozmozhnosti-vvedeniia-novykh-ogranichenii-news)…
+Не к шведскому столу будет сказано, посол России в Швеции Виктор Татаринцев, оценивая новые возможные санкции Запада, жестко заявил, что [нам на эти санкции](2022/02/13/izvinite-za-iazyk-no-my-srali-na-sanktsii-zapada-posol-rf-v-shvetsii-o-vozmozhnosti-vvedeniia-novykh-ogranichenii-news.md)… Что [мы на эти санкции](2022/02/13/izvinite-za-iazyk-no-my-srali-na-sanktsii-zapada-posol-rf-v-shvetsii-o-vozmozhnosti-vvedeniia-novykh-ogranichenii-news.md)…
 
 Нет, мы с вами все-таки культурные люди: слушаем Вивальди, читаем перед сном Экзюпери… Неудобно прямо так повторять. Тем более что возможна неточность перевода. Ведь Виктор Иванович говорил не по-нашему. Вернее, говорил он даже чересчур по-нашему. Пожалуй, у корреспондента шведского издания Aftonbladet, с которым российский посол вел задушевную беседу, при словах о нашей ответке на санкции застыла паста в авторучке. Но он все-таки уловил мысль, умело лишенную всяческого иносказания. То есть понял дипломата буквально, и его газета вынесла опорное слово в заголовок.
 

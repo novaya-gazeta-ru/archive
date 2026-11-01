@@ -17,7 +17,7 @@ tags: "болотное дело, москва, протесты, акции п�
 
 *Участник митинга с афишей спектакля Театр.doc «Болотное дело: подельники». В афише цитаты из интервью обвиняемых по болотному делу. Фото: Виктория Одиссонова / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2017/05/06/72389-pyatero-nashih-druzey-ostayutsya-v-tyurmah-istoriya-prodolzhaetsya
+**link:** [«Пятеро наших друзей остаются в тюрьмах. История продолжается»](2017/05/06/72389-pyatero-nashih-druzey-ostayutsya-v-tyurmah-istoriya-prodolzhaetsya.md)
 
 ![](_assets/78/78511e70d503dcbfdd23f968f7b20200.webp)
 

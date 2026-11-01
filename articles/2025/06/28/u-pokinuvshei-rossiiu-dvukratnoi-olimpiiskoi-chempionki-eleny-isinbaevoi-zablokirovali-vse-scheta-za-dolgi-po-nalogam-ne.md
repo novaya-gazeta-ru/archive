@@ -23,4 +23,4 @@ tags: ""
 
 До 2024 года Елена Исинбаева работала в Международном олимпийском комитете.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/01/rotenberga-posle-provala-v-ska-prochat-v-moskovskoe-dinamo-etot-klub-ska-i-razgromil-rotenberg-nazyval-dinamovtsev-sportivnymi-petukhami-news
+**Читайте также:** [Ротенберга после провала в СКА прочат в московское «Динамо» — этот клуб СКА и разгромил. Ротенберг называл динамовцев «спортивными петухами»](2025/07/01/rotenberga-posle-provala-v-ska-prochat-v-moskovskoe-dinamo-etot-klub-ska-i-razgromil-rotenberg-nazyval-dinamovtsev-sport.md)

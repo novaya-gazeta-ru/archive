@@ -27,4 +27,4 @@ tags: "казахстан, беларусь, протесты, диктатур�
 
 **Павел Латушко**, для «Новой газеты»
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/05/otmorozhennyi-kholodilnik
+**Читайте также:** [Отмороженный холодильник](2022/01/05/otmorozhennyi-kholodilnik.md)

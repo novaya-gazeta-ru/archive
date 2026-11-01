@@ -21,12 +21,12 @@ tags: "mp, конкурс, госдума, рэп, россия"
 
 По его словам, победители будут выбраны весной, их ролики покажут в Госдуме, а авторам в качестве приза вручат путевки по городам России.
 
-**link:** https://novayagazeta.ru/articles/2018/12/06/78834-repery-proporhali-nad-dumoy
+**link:** [«Ни о чем разговор, братан»](2018/12/06/78834-repery-proporhali-nad-dumoy.md)
 
 Повышенный интерес к рэпу появился в СМИ после того, как были сорваны концерты рэперов Элджея, Jah Khalib, Ганвеста, Монеточки, IC3PEAK, Matrang и группы «Френдзона» из-за давления правоохранительных органов на владельцев клубов и концертных площадок.
 
-Позже президент Владимир Путин на встрече с Советом по правам человека [попросил](https://www.novayagazeta.ru/news/2018/12/12/147542-moskalkova-putin-prizval-vyyasnit-prichiny-otmeny-kontsertov-muzykantov-po-vsey-strane) выяснить причины отмены концертов музыкантов в регионах.
+Позже президент Владимир Путин на встрече с Советом по правам человека [попросил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/12/12/147542-moskalkova-putin-prizval-vyyasnit-prichiny-otmeny-kontsertov-muzykantov-po-vsey-strane) выяснить причины отмены концертов музыкантов в регионах.
 
 При этом глава группы «Агора» Павел Чиков без указания источника информации [писал](https://t.me/pchikov/1700) в своем телеграм-канале, что «черный список» музыкантов, которых нельзя допускать до выступлений в регионах России, спускается из центрального аппарата ФСБ России.
 
-Znak.com также со ссылкой на неназванные источники [писал](https://www.znak.com/2018-11-29/istochnik_za_molodezhnyh_artistov_vzyalis_iz_za_rasstrela_v_kerchi_i_vzryva_v_arhangelske), что в создании списка принимал участия и Центр по противодействию экстремизма МВД. Их собеседники связали список со [взрывом](https://www.novayagazeta.ru/news/2018/10/31/146391-v-arhangelske-u-zdaniya-fsb-proizoshel-vzryv) в архангельском управлении ФСБ и [стрельбой](https://www.novayagazeta.ru/news/2018/11/10/146662-sk-ustroivshiy-strelbu-v-kerchenskom-kolledzhe-deystvoval-v-odinochku) в Керченском политехническом колледже.
+Znak.com также со ссылкой на неназванные источники [писал](https://www.znak.com/2018-11-29/istochnik_za_molodezhnyh_artistov_vzyalis_iz_za_rasstrela_v_kerchi_i_vzryva_v_arhangelske), что в создании списка принимал участия и Центр по противодействию экстремизма МВД. Их собеседники связали список со [взрывом](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/10/31/146391-v-arhangelske-u-zdaniya-fsb-proizoshel-vzryv) в архангельском управлении ФСБ и [стрельбой](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/11/10/146662-sk-ustroivshiy-strelbu-v-kerchenskom-kolledzhe-deystvoval-v-odinochku) в Керченском политехническом колледже.

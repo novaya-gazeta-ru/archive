@@ -167,4 +167,4 @@ tags: "перестройка, горбачев, сво"
 
 И снова выяснится, что есть и люди, способные эти перемены проводить.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/08/18/chto-ukrali-v-90-kh
+**Читайте также:** [https://novayagazeta.ru/articles/2023/08/18/chto-ukrali-v-90-kh](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/08/18/chto-ukrali-v-90-kh)

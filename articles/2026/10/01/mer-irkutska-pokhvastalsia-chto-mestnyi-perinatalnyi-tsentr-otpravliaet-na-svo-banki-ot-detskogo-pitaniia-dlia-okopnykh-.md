@@ -29,4 +29,4 @@ tags: ""
 
 «Мы хотим чтоб наши бойцы поскорее вернулись в семьи, благодарны за все, что с ними случилось, за то, что они по духу должны защищать нашу страну, большое спасибо!» — рассказывает героиня ролика, врач-методист отдела качества перинатального центра Иркутска, показывая пустые банки с детским питанием.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/10/01/v-saratovskoi-oblasti-v-10-raz-sokratili-grobovye-vyplaty-semiam-pogibshikh-na-svo-no-vveli-premii-dlia-osuzhdennykh-reshivshikh-uiti-na-front-i-pooshchrili-verbovshchikov-news
+**Читайте также:** [В Саратовской области в 10 раз сократили «гробовые» выплаты семьям погибших на СВО, но ввели премии для осужденных, решивших уйти на фронт, и поощрили вербовщиков](2026/10/01/v-saratovskoi-oblasti-v-10-raz-sokratili-grobovye-vyplaty-semiam-pogibshikh-na-svo-no-vveli-premii-dlia-osuzhdennykh-res.md)

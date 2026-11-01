@@ -23,9 +23,9 @@ tags: ""
 
 В декабре прошлого года Дымов получил благодарность и от факультета. Как [следует](https://www.hse.ru/org/persons/158485745/#teaching) из данных сайта ВШЭ, ученый имеет 19 научных публикаций и до последнего продолжал вести научную работу, курируя аспирантов «Вышки».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/05/22/sotrudnika-instituta-filosofii-ran-otpravili-pod-domashnii-arest-po-delu-o-moshennichestve-v-dele-figuriruiut-perevody-aristotelia-news
+**Читайте также:** [Сотрудника Института философии РАН отправили под домашний арест по делу о мошенничестве. В деле фигурируют переводы Аристотеля](2026/05/22/sotrudnika-instituta-filosofii-ran-otpravili-pod-domashnii-arest-po-delu-o-moshennichestve-v-dele-figuriruiut-perevody-a.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/01/29/vlasti-rekomendovali-uchenym-ne-ezdit-na-simpoziumy-v-nedruzhestvennye-strany-bez-otsenki-na-predmet-politizatsii-news
+**Читайте также:** [Власти рекомендовали ученым не ездить на симпозиумы в «недружественные» страны без «оценки на предмет политизации»](2026/01/29/vlasti-rekomendovali-uchenym-ne-ezdit-na-simpoziumy-v-nedruzhestvennye-strany-bez-otsenki-na-predmet-politizatsii-news.md)
 
 #### * Признан экстремистской, а затем и террористической организацией, деятельность запрещена в РФ.
 

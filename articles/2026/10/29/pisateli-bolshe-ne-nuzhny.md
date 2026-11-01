@@ -25,6 +25,6 @@ tags: "генис, литература, достоевский"
 
 И, конечно, поговорим о настоящей кухне. Почему русские в Америке не могут жить без солёных огурцов, зачем Генис выращивает чёрную смородину и как попугаи чуть не оставили его без солёных грибов.
 
-**смотрие также:** https://novayagazeta.ru/articles/2026/10/14/ot-dovlatova-do-khamatovoi-sudby-russkoi-emigratsii-teatr-absurda-i-pamiat-o-druziakh
+**смотрие также:** [От Довлатова до Хаматовой: судьбы русской эмиграции, театр абсурда и память о друзьях](2026/10/14/ot-dovlatova-do-khamatovoi-sudby-russkoi-emigratsii-teatr-absurda-i-pamiat-o-druziakh.md)
 
 #### * Минюст РФ внес в реестр «иноагентов».

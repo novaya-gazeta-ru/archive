@@ -21,4 +21,4 @@ tags: "Мосбиржа, евро, kn, нефть, brent"
 
 Цена декабрьского фьючерса на нефть марки Brent на бирже ICE [поднялась](https://www.moex.com/ru/contract.aspx?code=BRX1&utm_source=www.moex.com&utm_term=brent) выше $83 за баррель впервые с октября 2018 года.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/25/opiat-75
+**Читайте также:** [Опять $75](2021/06/25/opiat-75.md)

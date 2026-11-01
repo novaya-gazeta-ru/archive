@@ -29,7 +29,7 @@ tags: "идеология, школы, дети с инвалидностью, �
 
 # Деятельность Александра Невского
 
-Другие регионы подтянулись через несколько дней. 27–28 февраля по школам нескольких разных регионов стала распространяться [одна и та же методичка](https://novayagazeta.ru/articles/2022/03/01/argumentirovali-krazhei-detei-banderovtsami) для проведения классных часов.
+Другие регионы подтянулись через несколько дней. 27–28 февраля по школам нескольких разных регионов стала распространяться [одна и та же методичка](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/01/argumentirovali-krazhei-detei-banderovtsami) для проведения классных часов.
 
 В методичке содержались две разработки уроков: одна для 6–8-х классов, другая — для 9–11-х.
 
@@ -43,7 +43,7 @@ tags: "идеология, школы, дети с инвалидностью, �
 - в-четвертых, «государственный переворот на Украине в 2014 году» (Майдан, Дом профсоюзов в Одессе);
 - в-пятых, что такое НАТО; обещания не расширять НАТО на восток; отрывки из речи президента Путина на эту тему.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/01/argumentirovali-krazhei-detei-banderovtsami
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/01/argumentirovali-krazhei-detei-banderovtsami](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/01/argumentirovali-krazhei-detei-banderovtsami)
 
 Вот примеры предлагаемых детям вопросов:
 
@@ -115,7 +115,7 @@ tags: "идеология, школы, дети с инвалидностью, �
 - со стороны непризнанных на тот момент республик — 5700 человек,
 - со стороны украинских вооруженных сил — 4150.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/03/gde-avel-brat-tvoi
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/03/gde-avel-brat-tvoi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/03/gde-avel-brat-tvoi)
 
 # Умерить активность
 

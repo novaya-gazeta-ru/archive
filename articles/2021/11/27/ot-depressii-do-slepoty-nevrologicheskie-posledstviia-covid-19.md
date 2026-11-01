@@ -17,6 +17,6 @@ tags: "covid-19, коронавирус, антитела, психологич�
 
 По данным экспертов Минздрава, проблема неврологических последствий касается 99% процентов переболевших COVID-19. Герои репортажа «Новой» рассказывают, как они столкнулись со страшными постковидными синдромами.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/17/patsient-ni-zhiv-ni-mertv
+**Читайте также:** [Пациент ни жив ни мертв](2021/11/17/patsient-ni-zhiv-ni-mertv.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/25/vystavliat-napokaz-tela-umershikh-ne-mogu-naiti-slov
+**Читайте также:** [«Выставлять напоказ тела умерших… Не могу найти слов»](2021/11/25/vystavliat-napokaz-tela-umershikh-ne-mogu-naiti-slov.md)

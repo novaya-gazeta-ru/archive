@@ -27,8 +27,8 @@ tags: "коронавирус, em , QR коды, россия"
 
 Вице-премьер Татьяна Голикова [уточнила,](https://ria.ru/20211112/koronavirus-1758831004.html) что QR-коды не распространятся на подростков. Она также [сказала](https://ria.ru/20211112/qr-kod-1758834671.html?in=t), что если гражданин не выполнил требование закона о QR-кодах, перевозчик может расторгнуть договор и вернуть ему деньги за 30 дней.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/31/s-qr-kodom-chelovek
+**Читайте также:** […с QR-кодом — человек!](2021/10/31/s-qr-kodom-chelovek.md)
 
-О законопроектах [стало известно](https://novayagazeta.ru/articles/2021/11/11/pravitelstvo-podgotovilo-zakonoproekty-ob-obiazatelnykh-qr-kodakh-v-samoletakh-poezdakh-i-magazinakh-news) накануне. До этого о введении обязательных QR-кодов для авиаперелетов [объявили](https://novayagazeta.ru/articles/2021/11/03/na-kamchatke-i-v-khabarovskom-krae-potrebuiut-qr-kody-dlia-aviapereletov-news) власти Камчатки и Хабаровского края.
+О законопроектах [стало известно](2021/11/11/pravitelstvo-podgotovilo-zakonoproekty-ob-obiazatelnykh-qr-kodakh-v-samoletakh-poezdakh-i-magazinakh-news.md) накануне. До этого о введении обязательных QR-кодов для авиаперелетов [объявили](2021/11/03/na-kamchatke-i-v-khabarovskom-krae-potrebuiut-qr-kody-dlia-aviapereletov-news.md) власти Камчатки и Хабаровского края.
 
 *19:56 — добавлены слова Голиковой*

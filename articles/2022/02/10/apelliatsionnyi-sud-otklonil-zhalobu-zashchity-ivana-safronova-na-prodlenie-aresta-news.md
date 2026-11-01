@@ -15,11 +15,11 @@ tags: "сафронов, дело сафронова, госизмена, жур
 
 «Сегодня прошла апелляция на продление ареста нашему подзащитному Ивану Сафронову. Суд признал содержание в СИЗО законным и оставил журналиста под стражей», — уточнили правозащитники.
 
-В декабре прошлого года Мосгорсуд [продлил](https://novayagazeta.ru/articles/2021/12/27/mosgorsud-prodlil-arest-zhurnalistu-ivanu-safronovu-do-7-aprelia-news) Сафронову содержание под стражей до 7 апреля. В середине декабря 2021 года апелляционный суд также в очередной раз [признал](https://novayagazeta.ru/articles/2021/12/16/apelliatsionnyi-sud-priznal-zakonnym-prodlenie-aresta-ivanu-safronovu-news) законным продление ему ареста.
+В декабре прошлого года Мосгорсуд [продлил](2021/12/27/mosgorsud-prodlil-arest-zhurnalistu-ivanu-safronovu-do-7-aprelia-news.md) Сафронову содержание под стражей до 7 апреля. В середине декабря 2021 года апелляционный суд также в очередной раз [признал](2021/12/16/apelliatsionnyi-sud-priznal-zakonnym-prodlenie-aresta-ivanu-safronovu-news.md) законным продление ему ареста.
 
-В январе 2022 суд [ограничил](https://novayagazeta.ru/articles/2022/01/26/sud-ogranichil-ivana-safronova-i-ego-advokatov-v-srokakh-oznakomleniia-s-delom-oni-dolzhny-izuchit-materialy-do-11-fevralia-news) Сафронова и его адвокатов в сроках ознакомления с материалами дела до 14 дней. При этом в деле 10 тысяч страниц текста, а также 40 компакт-дисков, 4 флеш-карты, распечатки материалов иностранных СМИ, распечатка электронной книги, два сотовых телефона, жесткий диск и т.д. Жалобу защиты на такое решение суд также [отклонил](https://novayagazeta.ru/articles/2022/02/02/sud-otklonil-zhalobu-zashchity-zhurnalista-safronova-na-sledstvie-zapreshchaiushchee-advokatam-delat-vypiski-iz-ugolovnogo-dela-news).
+В январе 2022 суд [ограничил](2022/01/26/sud-ogranichil-ivana-safronova-i-ego-advokatov-v-srokakh-oznakomleniia-s-delom-oni-dolzhny-izuchit-materialy-do-11-fevra.md) Сафронова и его адвокатов в сроках ознакомления с материалами дела до 14 дней. При этом в деле 10 тысяч страниц текста, а также 40 компакт-дисков, 4 флеш-карты, распечатки материалов иностранных СМИ, распечатка электронной книги, два сотовых телефона, жесткий диск и т.д. Жалобу защиты на такое решение суд также [отклонил](2022/02/02/sud-otklonil-zhalobu-zashchity-zhurnalista-safronova-na-sledstvie-zapreshchaiushchee-advokatam-delat-vypiski-iz-ugolovno.md).
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/19/tiurma-na-oba-vashikh-doma
+**Читайте также:** [Тюрьма на оба ваших дома](2021/11/19/tiurma-na-oba-vashikh-doma.md)
 
 Накануне квалификационная комиссия адвокатской палаты Санкт-Петербурга [пришла](https://t.me/kanalsobakipavlova/613) к выводу, что адвокат Сафронова Иван Павлов* не может защищать журналиста. По мнению членов комиссии, Павлов «вводит в заблуждение» Сафронова, а его «иноагентский» статус может негативно сказать на мнении суда о журналисте.
 

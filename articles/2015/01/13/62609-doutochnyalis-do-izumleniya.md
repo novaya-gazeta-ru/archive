@@ -21,7 +21,7 @@ tags: ""
 
 Нет, я за свободу слова, но…
 
-**link:** https://novayagazeta.ru/topics/125.html
+**link:** [https://novayagazeta.ru/topics/125.html](https://web.archive.org/web/*/https://novayagazeta.ru/topics/125.html)
 
 Так вот — насчет но.
 

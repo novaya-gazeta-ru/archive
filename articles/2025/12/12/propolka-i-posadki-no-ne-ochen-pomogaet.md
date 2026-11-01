@@ -27,7 +27,7 @@ tags: "взятки, репрессии, чиновники"
 
 Вот лишь главные посадки нынешней осени.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/12/12/strogii-osheinik-strakha
+**Читайте также:** [Строгий ошейник страха](2025/12/12/strogii-osheinik-strakha.md)
 
 ![](_assets/62/628f425f6cb5b372aa0fcb25a4728c0f.webp)
 

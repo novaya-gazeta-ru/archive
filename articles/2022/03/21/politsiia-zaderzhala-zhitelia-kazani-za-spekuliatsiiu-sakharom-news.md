@@ -17,7 +17,7 @@ tags: "сахар, спекуляция, цены, казань, kn"
 
 Ранее «Ашан»[ограничил](http://amp.gs/jZXP8) продажи ряда социально значимых товаров, в том числе муки и сахара, в своих российских магазинах из-за высокого спроса. Также магазины «Магнит» и «Дикси» [установили](https://www.kommersant.ru/doc/5251818) лимит на покупку не только сахара, но и гречневой крупы, и курицы.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/17/zadacha-s-neizvestnymi
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/17/zadacha-s-neizvestnymi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/17/zadacha-s-neizvestnymi)
 
 Помимо продуктов питания из столичных магазинов [пропали](https://www.forbes.ru/biznes/458999-pocemu-s-polok-supermarketov-propali-zenskie-prokladki) женские гигиенические прокладки.
 
@@ -25,4 +25,4 @@ tags: "сахар, спекуляция, цены, казань, kn"
 
 «Тот, кто пользуется ситуацией и наживается на людях, должен быть наказан», — заявил он.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/17/kupi-menia-esli-smozhesh
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/17/kupi-menia-esli-smozhesh](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/17/kupi-menia-esli-smozhesh)

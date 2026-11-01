@@ -35,4 +35,4 @@ tags: ""
 
 Из Ирана ранее [были выведены](https://www.kommersant.ru/doc/8495792) все азербайджанские дипломаты.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/05/zaliv-gorit-udar-po-iranu-vstriakhnul-ves-mir
+**Читайте также:** [Залив горит: удар по Ирану встряхнул весь мир](2026/03/05/zaliv-gorit-udar-po-iranu-vstriakhnul-ves-mir.md)

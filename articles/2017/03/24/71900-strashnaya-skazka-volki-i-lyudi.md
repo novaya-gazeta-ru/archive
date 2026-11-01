@@ -13,7 +13,7 @@ tags: "псковская область, крестьяне, специальн
 
 *Фоторепортаж Виктории Одиссоновой*
 
-**novaya:** https://novayagazeta.ru/articles/2017/03/26/71899-volchie-mesto
+**novaya:** [Волчье место](2017/03/26/71899-volchie-mesto.md)
 
 ![](_assets/9b/9b949da3eb60793ce17eb2723cfb56dd.webp)
 

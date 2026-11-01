@@ -33,4 +33,4 @@ tags: "johnson, sf, коронавирус, сша, вакцины"
 
 Ранее Johnson & Johnson [предоставила](https://www.reuters.com/article/us-health-coronavirus-vaccines-johnson-j/johnson-johnsons-one-dose-vaccine-closes-in-on-u-s-approval-idUSKBN2AO1LS) FDA данные, которые показали, что вакцина была эффективна на 64% среди тысяч участников из Южной Африки, где распространилась новая мутация коронавируса.
 
-Препарат от Johnson & Johnson стал третьей вакциной от коронавируса, разрешенной на территории США. Ранее регулятор страны [одобрил](https://novayagazeta.ru/news/2020/12/18/166576-tramp-vlasti-ssha-odobrili-vaktsinu-protiv-covid-ot-moderna) применение двухкомпонентных препаратов компании Moderna, а также Pfizer и BioNTech.
+Препарат от Johnson & Johnson стал третьей вакциной от коронавируса, разрешенной на территории США. Ранее регулятор страны [одобрил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/12/18/166576-tramp-vlasti-ssha-odobrili-vaktsinu-protiv-covid-ot-moderna) применение двухкомпонентных препаратов компании Moderna, а также Pfizer и BioNTech.

@@ -73,4 +73,4 @@ tags: "поморье, рыбаки, мурманская область, мор
 
 > **читайте ранее**
 >
-> **[Умба. Тайное слово](https://novayagazeta.ru/articles/2021/05/03/umba-tainoe-slovo)[Умба. 19 Дедов Морозов](https://novayagazeta.ru/articles/2021/05/04/umba-19-dedov-morozov)**
+> **[Умба. Тайное слово](2021/05/03/umba-tainoe-slovo.md)[Умба. 19 Дедов Морозов](2021/05/04/umba-19-dedov-morozov.md)**

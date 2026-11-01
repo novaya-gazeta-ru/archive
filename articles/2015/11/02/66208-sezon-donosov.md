@@ -23,9 +23,9 @@ tags: "донос, экстремизм"
 
 Оба скандала толком ничем не кончились, но осадок остался. Прецедент теперь есть.
 
-**link:** https://novayagazeta.ru/columns/70562.html
+**link:** [https://novayagazeta.ru/columns/70562.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/70562.html)
 
-**link:** https://novayagazeta.ru/columns/70562.html
+**link:** [https://novayagazeta.ru/columns/70562.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/70562.html)
 
 Я обратился за комментариями в Московский городской библиотечный центр, но выяснилось, что его руководители вдруг неожиданно оказались в заграничной командировке. А пресс-служба смело, никого не опасаясь ответила: «Комментариев не даем».
 

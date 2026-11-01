@@ -16,16 +16,16 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/15/1371299968_018718_10.jpg" style="width: 340px; height: 227px; float: right;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/15/1371299968_018718_10.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/15/1371299968_018718_10.jpg)" style="width: 340px; height: 227px; float: right;"><br>
 				<sup><em>Все фото: Евгений ФЕЛЬДМАН — «Новая»</em></sup></td>
 		</tr>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/15/1371299968_599526_59.jpg" style="width: 340px; height: 227px; float: right;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/15/1371299968_599526_59.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/15/1371299968_599526_59.jpg)" style="width: 340px; height: 227px; float: right;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/15/1371299968_307356_94.jpg" style="width: 340px; height: 227px; float: right;">
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/15/1371299968_307356_94.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/15/1371299968_307356_94.jpg)" style="width: 340px; height: 227px; float: right;">
 				<p>
 					&nbsp;</p>
 				<p>

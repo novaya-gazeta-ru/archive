@@ -55,7 +55,7 @@ tags: "крым"
 
 Женщина принимает грязевые ванны. Курорт Саки, Крым, ноябрь 2014 года.
 
-**link:** https://novayagazeta.ru/articles/2017/03/16/71806-krym-prisoedinenie-fotografii
+**link:** [Как присоединяли Крым: штурм украинских баз, захват военных кораблей, битвы за флаг и отступление](2017/03/16/71806-krym-prisoedinenie-fotografii.md)
 
 ![](_assets/5d/5d0ae6005b32fde695d07b39ed1f4465.webp)
 

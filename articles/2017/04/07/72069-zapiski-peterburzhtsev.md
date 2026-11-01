@@ -59,7 +59,7 @@ tags: "петербург, теракт , метро"
 
 *Фото: Елена Лукьянова / «Новая газета в Петербурге»*
 
-**link:** https://novayagazeta.ru/articles/2017/04/07/72057-ranenyy-gorod
+**link:** [Раненый город](2017/04/07/72057-ranenyy-gorod.md)
 
 ![](_assets/41/4118a7b9714b7abcfdd22dd5494bf957.webp)
 
@@ -73,4 +73,4 @@ tags: "петербург, теракт , метро"
 
 *Фото: Елена Лукьянова / «Новая газета в Петербурге»*
 
-**link:** https://novayagazeta.ru/articles/2017/04/05/72029-my-napugany-no-my-ne-budem-menyat-svoyu-zhizn
+**link:** [«Мы напуганы. Но мы не будем менять свою жизнь»](2017/04/05/72029-my-napugany-no-my-ne-budem-menyat-svoyu-zhizn.md)

@@ -57,4 +57,4 @@ tags: "ясин, евгений ясин, памяти ясина, вышка, �
 
 #### * Внесен властями РФ в реестр «иноагентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/09/26/komandir-vyvodivshii-otriad-iz-triasiny
+**Читайте также:** [Командир, выводивший отряд из трясины](2023/09/26/komandir-vyvodivshii-otriad-iz-triasiny.md)

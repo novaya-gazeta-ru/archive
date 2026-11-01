@@ -33,4 +33,4 @@ tags: ""
 >
 > Учитель из Челябинска Павел Таланкин был видеографом в одной из российских школ и записывал на видео школьные линейки, собрания, торжественные вечера и уроки по поручению завуча. Затем покинул Россию и вывез эти видеоматериалы. Они легли в основу фильма Mr. Nobody against Putin — и теперь эта лента [номинирована](https://t.me/novaya_pishet/55749) на «Оскар» в категории «Лучший документальный фильм».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/01/30/volodin-vo-vremia-energeticheskogo-peremiriia-obiavlennogo-moskvoi-posle-lichnoi-prosby-trampa-zaiavil-deputaty-gosdumy-prosiat-udarit-po-ukraine-oruzhiem-vozmezdiia-news
+**Читайте также:** [Володин во время «энергетического перемирия», объявленного Москвой после личной просьбы Трампа, заявил: депутаты Госдумы просят ударить по Украине «оружием возмездия»](2026/01/30/volodin-vo-vremia-energeticheskogo-peremiriia-obiavlennogo-moskvoi-posle-lichnoi-prosby-trampa-zaiavil-deputaty-gosdumy-.md)

@@ -35,4 +35,4 @@ tags: "дмитриев, дело дмитриева"
 # \
  Алика Смехова — в поддержку Юрия Дмитриева
 
-**link:** https://novayagazeta.ru/articles/2020/07/02/86121-vnutrennyaya-svoboda-samoe-glavnoe-u-cheloveka
+**link:** [«Внутренняя свобода человека дороже всего»](2020/07/02/86121-vnutrennyaya-svoboda-samoe-glavnoe-u-cheloveka.md)

@@ -15,7 +15,7 @@ tags: ""
 
 *Владимир Путин комментирует итоги пасхального перемирия. Фото: пресс-служба Кремля*
 
-Владимир Путин сегодня во время пресс-подхода к журналистам кремлевского пула [прокомментировал](http://kremlin.ru/events/president/news/76736) итоги 30-часового пасхального перемирия, которое сначала Россия [объявила](https://novayagazeta.ru/articles/2025/04/19/putin-na-vstreche-s-glavoi-genshtaba-v-kremle-obiavil-paskhalnoe-peremirie-s-ukrainoi-do-00-chasov-21-aprelia-news) в одностороннем порядке, а потом и Киев заявил о поддержке такого шага, [предложив](https://novayagazeta.ru/articles/2025/04/19/zelenskii-esli-rossiia-vnezapno-gotova-prekratit-ogon-ukraina-budet-deistvovat-zerkalno-news) его продлить на 30 дней.
+Владимир Путин сегодня во время пресс-подхода к журналистам кремлевского пула [прокомментировал](http://kremlin.ru/events/president/news/76736) итоги 30-часового пасхального перемирия, которое сначала Россия [объявила](2025/04/19/putin-na-vstreche-s-glavoi-genshtaba-v-kremle-obiavil-paskhalnoe-peremirie-s-ukrainoi-do-00-chasov-21-aprelia-news.md) в одностороннем порядке, а потом и Киев заявил о поддержке такого шага, [предложив](2025/04/19/zelenskii-esli-rossiia-vnezapno-gotova-prekratit-ogon-ukraina-budet-deistvovat-zerkalno-news.md) его продлить на 30 дней.
 
 Впрочем, Путин заявил, что боевые действия после пасхального перемирия возобновились «по плану»: «Мы об этом сказали с самого начала, когда объявляли перемирие».
 
@@ -31,4 +31,4 @@ tags: ""
 
 «Сложность» этого предложения Путин объяснил на примерах ударов Москвы по объектам в украинских Сумах и под Одессой. Они, по признанию Путина, относятся к объектам гражданской инфраструктуры, но, по данным Минобороны РФ, ВСУ использовало их для своих целей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/21/sistema-nipel
+**Читайте также:** [Система нипель](2025/04/21/sistema-nipel.md)

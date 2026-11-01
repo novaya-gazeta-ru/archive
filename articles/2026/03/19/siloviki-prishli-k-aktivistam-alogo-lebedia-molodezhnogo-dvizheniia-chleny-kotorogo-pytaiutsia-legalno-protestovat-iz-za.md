@@ -33,6 +33,6 @@ tags: ""
 
 [Планировал](https://t.me/novaya_pishet/56784) подать свою и помогает другим подать заявки на проведение митинга с той же повесткой и политтехнолог Дмитрий Кисиев, лишенный приобретенного российского гражданства. Он [подчеркивал](https://t.me/kisievdt/686), что не имеет отношения к «Алому лебедю».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/18/deputata-gosdumy-svintsova-obiasniavshego-polzu-blokirovok-telegram-iskliuchili-iz-ldpr-za-zhaloby-so-storony-zhitelei-rossii-news
+**Читайте также:** [Депутата Госдумы Свинцова, объяснявшего пользу блокировок Telegram, исключили из ЛДПР — за «жалобы со стороны жителей России»](2026/03/18/deputata-gosdumy-svintsova-obiasniavshego-polzu-blokirovok-telegram-iskliuchili-iz-ldpr-za-zhaloby-so-storony-zhitelei-r.md)
 
 #### * Минюст считает «иноагентом».

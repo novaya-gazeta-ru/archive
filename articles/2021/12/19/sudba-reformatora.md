@@ -155,4 +155,4 @@ tags: "адвокаты, суды, судебная система"
 
 Сейчас Борис Золотухин живет в Израиле. Ему 91 год. Он почти не дает интервью.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/14/oni-govoriat-chto-narushaiut-zakon-potomu-chto-oni-vlast
+**Читайте также:** [«Они говорят, что нарушают закон, потому что они — власть»](2021/10/14/oni-govoriat-chto-narushaiut-zakon-potomu-chto-oni-vlast.md)

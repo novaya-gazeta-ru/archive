@@ -15,13 +15,13 @@ tags: "sf, митинги, задержания, арест, фбк, навал�
 
 Суд признал Албурова виновным в нарушении правил проведения публичных мероприятий (ч. 2 ст. 20.2 КоАП)
 
-Албурова [задержали](https://novayagazeta.ru/news/2021/01/21/167275-v-moskve-zaderzhali-sotrudnika-fbk-georgiya-alburova-i-press-sekretarya-navalnogo-kiru-yarmysh) накануне и оставили в ОВД на ночь.
+Албурова [задержали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2021/01/21/167275-v-moskve-zaderzhali-sotrudnika-fbk-georgiya-alburova-i-press-sekretarya-navalnogo-kiru-yarmysh) накануне и оставили в ОВД на ночь.
 
-Помимо него, сегодня суд на трое суток [арестовал](https://novayagazeta.ru/news/2021/01/22/167299-sud-arestoval-yurista-fbk-vladlena-losya-na-troe-sutok-ranee-emu-predpisali-pokinut-rossiyu-do-25-yanvarya) юриста ФБК Владлена Лося по статье 19.3 КоАП (неповиновение требованиям сотрудника полиции) и на девять суток [арестовал](https://novayagazeta.ru/news/2021/01/22/167289-press-sekretarya-navalnogo-kiru-yarmysh-arestovali-na-devyat-sutok) пресс-секретаря Алексея Навального Киру Ярмыш за «призывы» к акции 23 января. Юриста ФБК Любовь Соболь суд [оштрафовал](https://novayagazeta.ru/news/2021/01/22/167298-sud-oshtrafoval-sobol-na-250-tysyach-rubley) на 250 тысяч рублей по административному делу о призывах к участию в завтрашних несанкционированных протестах. Сегодня задержания сторонников Навального продолжись в ряде российских городов.
+Помимо него, сегодня суд на трое суток [арестовал](https://web.archive.org/web/*/https://novayagazeta.ru/news/2021/01/22/167299-sud-arestoval-yurista-fbk-vladlena-losya-na-troe-sutok-ranee-emu-predpisali-pokinut-rossiyu-do-25-yanvarya) юриста ФБК Владлена Лося по статье 19.3 КоАП (неповиновение требованиям сотрудника полиции) и на девять суток [арестовал](https://web.archive.org/web/*/https://novayagazeta.ru/news/2021/01/22/167289-press-sekretarya-navalnogo-kiru-yarmysh-arestovali-na-devyat-sutok) пресс-секретаря Алексея Навального Киру Ярмыш за «призывы» к акции 23 января. Юриста ФБК Любовь Соболь суд [оштрафовал](https://web.archive.org/web/*/https://novayagazeta.ru/news/2021/01/22/167298-sud-oshtrafoval-sobol-na-250-tysyach-rubley) на 250 тысяч рублей по административному делу о призывах к участию в завтрашних несанкционированных протестах. Сегодня задержания сторонников Навального продолжись в ряде российских городов.
 
 Команда Навального анонсировала несанкционированные акции в поддержку оппозиционера после того, как 17 января его сразу после возращения из Германии, где он проходил реабилитацию, задержали в аэропорту Шереметьево. На следующий день суд, заседание которого прошло в отделе полиции в Химках, арестовал Навального на 30 суток.
 
-**link:** https://novayagazeta.ru/articles/2021/01/21/88817-evroparlament-osudil-arest-navalnogo
+**link:** [Европарламент осудил арест Навального](2021/01/21/88817-evroparlament-osudil-arest-navalnogo.md)
 
 2 февраля Симоновский суд Москвы рассмотрит требование ФСИН о замене политику условного срока на реальный по делу «Ив Роше».
 

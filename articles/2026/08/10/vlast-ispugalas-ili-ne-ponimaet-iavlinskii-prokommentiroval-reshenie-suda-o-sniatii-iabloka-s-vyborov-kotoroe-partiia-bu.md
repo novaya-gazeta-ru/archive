@@ -21,10 +21,10 @@ tags: ""
 
 Мы рассчитываем, что апелляционная инстанция отменит решение о снятии «Яблока» с выборов. Мы надеемся, что власть учтет общественный запрос на мир, свободу и жизнь без страха и изменит свою политику».
 
-Сегодня Верховный суд [снял](https://novayagazeta.ru/articles/2026/08/10/verkhovnyi-sud-snial-iabloko-s-vyborov-v-gosdumu-vpervye-v-istorii-sovremennoi-rossii-sud-annuliroval-uzhe-zaregistrirovannyi-partiinyi-spisok-news) «Яблоко» с выборов в Госдуму. Впервые в истории современной России суд уже зарегистрированный партийный список был аннулирован. А утвержденный бюллетень может быть переделан.
+Сегодня Верховный суд [снял](2026/08/10/verkhovnyi-sud-snial-iabloko-s-vyborov-v-gosdumu-vpervye-v-istorii-sovremennoi-rossii-sud-annuliroval-uzhe-zaregistrirov.md) «Яблоко» с выборов в Госдуму. Впервые в истории современной России суд уже зарегистрированный партийный список был аннулирован. А утвержденный бюллетень может быть переделан.
 
-### **Комментарий главного редактора «Новой газеты» Сергея Соколова: [«Происходящее — очередная попытка госпереворота»](https://novayagazeta.ru/articles/2026/08/10/proiskhodiashchee-ocherednaia-popytka-gosperevorota-ili-sobliudaite-svoiu-konstitutsiiu).**
+### **Комментарий главного редактора «Новой газеты» Сергея Соколова: [«Происходящее — очередная попытка госпереворота»](2026/08/10/proiskhodiashchee-ocherednaia-popytka-gosperevorota-ili-sobliudaite-svoiu-konstitutsiiu.md).**
 
-### **Репортаж из штаба «Яблока» в этот судьбоносный день — [на сайте «Новой газеты»](https://novayagazeta.ru/articles/2026/08/10/rodina-protiv-iabloka).**
+### **Репортаж из штаба «Яблока» в этот судьбоносный день — [на сайте «Новой газеты»](2026/08/10/rodina-protiv-iabloka.md).**
 
 ### **Завтра в 19:00 в «Новой» **— беседа с Кириллом Гончаровым, лидером московского «Яблока». Сегодня поддержать партию к суду пришли несколько сотен молодых людей.

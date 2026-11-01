@@ -13,7 +13,7 @@ tags: ""
 
 > **есть продолжение**
 >
-> ### Писателя Бориса Акунина [приговорили к 14 годам лишения свободы](https://novayagazeta.ru/articles/2025/07/14/pisatelia-borisa-akunina-prigovorili-k-14-godam-lisheniia-svobody-i-shtrafu-v-600-tysiach-rublei-news) и штрафу в 600 тысяч рублей.
+> ### Писателя Бориса Акунина [приговорили к 14 годам лишения свободы](2025/07/14/pisatelia-borisa-akunina-prigovorili-k-14-godam-lisheniia-svobody-i-shtrafu-v-600-tysiach-rublei-news.md) и штрафу в 600 тысяч рублей.
 
 В зале 2-го Западного окружного военного суда представитель прокуратуры сегодня запросил для писателя Бориса Акунина 18 лет колонии строгого режима и штрафу в 400 тысяч рублей.
 

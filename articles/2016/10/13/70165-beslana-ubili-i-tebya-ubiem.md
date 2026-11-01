@@ -49,7 +49,7 @@ tags: "громкое дело, присяжные, суды, немцов"
 
 Больше вопросов к свидетелю не было.
 
-**link:** https://novayagazeta.ru/articles/2016/10/05/70080-dazhe-esli-rasstrelyayut-ya-budu-stoyat-na-svoem
+**link:** [«Даже если расстреляют, я буду стоять на своем»](2016/10/05/70080-dazhe-esli-rasstrelyayut-ya-budu-stoyat-na-svoem.md)
 
 Присяжных отпустили до вторника, их в этом процессе особо не нагружают, а стороны занялись любимым уже, видимо, делом — истребованием материалов и исключением доказательств.
 
@@ -93,7 +93,7 @@ tags: "громкое дело, присяжные, суды, немцов"
 
 Свидетель подтвердила, что это она составляла протокол и проводила осмотр.
 
-**link:** https://novayagazeta.ru/articles/2016/10/03/70038-pust-mne-ob-yasnyat-na-prostom-chechenskom-yazyke-v-chem-menya-obvinyayut
+**link:** [«Пусть мне объяснят на простом чеченском языке, в чем меня обвиняют»](2016/10/03/70038-pust-mne-ob-yasnyat-na-prostom-chechenskom-yazyke-v-chem-menya-obvinyayut.md)
 
 …Темерлан Эскерханов начал молиться в стеклянной клетке — время 17:00.
 

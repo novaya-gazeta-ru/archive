@@ -252,7 +252,7 @@ tags: "коррекционная школа № 68, челябинск , шко
 
 > — Вот я оттуда приехал — там враги. Не девочки, не учительница. Там враги, американцы, хохлы — все, кто это делает!
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/16/starykh-v-bolnitsy-uzhe-ne-berut
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/16/starykh-v-bolnitsy-uzhe-ne-berut](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/16/starykh-v-bolnitsy-uzhe-ne-berut)
 
 — Что делает?
 

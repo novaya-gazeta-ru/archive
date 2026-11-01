@@ -61,4 +61,4 @@ tags: "приморье, староверы, браконьеры, удэгей�
 
 **Приморье**
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/05/16/zona-vkhod-svobodnyi-vse-ushli
+**Читайте также:** [Зона. Вход свободный. Все ушли](2025/05/16/zona-vkhod-svobodnyi-vse-ushli.md)

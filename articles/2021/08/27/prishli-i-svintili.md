@@ -51,7 +51,7 @@ tags: "фургал, ленин, условия содержания, издев
 
 Только в продаже ее нет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/25/oppozitsiia-v-rossii-sushchestvuet-ne-potomu-chto-aleksei-navalnyi-komanduet
+**Читайте также:** [https://novayagazeta.ru/articles/2021/08/25/oppozitsiia-v-rossii-sushchestvuet-ne-potomu-chto-aleksei-navalnyi-komanduet](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/08/25/oppozitsiia-v-rossii-sushchestvuet-ne-potomu-chto-aleksei-navalnyi-komanduet)
 
 ### ***
 

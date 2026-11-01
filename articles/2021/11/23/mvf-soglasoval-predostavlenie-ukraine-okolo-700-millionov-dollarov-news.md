@@ -17,6 +17,6 @@ tags: "деньги, украина, зеленский, sn"
 
 В свою очередь пресс-служба МВФ [отметила](https://www.imf.org/en/News/Articles/2021/11/22/pr21342-imf-executive-board-completes-review-for-ukraine-extension-of-the-arrangement), что общий объем полученных Украиной средств в рамках механизма Stand-by составит порядка 2,8 млрд долларов. В МВФ также отметили, что действие программы Stand-by продлили до августа 2022 года.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/01/13/88679-yadernyy-plan-ukrainy
+**Читайте также:** [https://novayagazeta.ru/articles/2021/01/13/88679-yadernyy-plan-ukrainy](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/01/13/88679-yadernyy-plan-ukrainy)
 
 Общая программа поддержки Украины на 5 млрд долларов была одобрена МВФ прошлым летом, и Киев успел получить первый транш в размере 2,1 млрд. Впоследствии выделение средств было заморожено из-за отсутствия прогресса в проведении реформ.

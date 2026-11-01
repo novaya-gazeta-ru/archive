@@ -29,7 +29,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" class="g-image-align-right" src="http://www.novayagazeta.ru/storage/c/2013/10/02/1380703456_338082_75.jpg" style="width: 360px; height: 240px;"><sup>фото Will Rose/Greenpeace</sup></td>
+				<img alt="" class="g-image-align-right" src="[http://www.novayagazeta.ru/storage/c/2013/10/02/1380703456_338082_75.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/10/02/1380703456_338082_75.jpg)" style="width: 360px; height: 240px;"><sup>фото Will Rose/Greenpeace</sup></td>
 		</tr>
 	</tbody>]*
 

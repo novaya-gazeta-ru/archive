@@ -21,4 +21,4 @@ tags: "бученков, болотное дело"
 
 Адвокат Бученкова Светлана Сидоркина сказала «Граням», что, как и все, следит за ситуацией по СМИ и не была в курсе решения своего подзащитного. Адвокат Илья Новиков просто воздержался от комментариев.
 
-**link:** https://novayagazeta.ru/articles/2017/04/25/72292-esli-by-sledstvie-bylo-bolee-kritichnym-etogo-dela-voobsche-ne-bylo
+**link:** [«Будь следствие более критичным, этого дела бы не было»](2017/04/25/72292-esli-by-sledstvie-bylo-bolee-kritichnym-etogo-dela-voobsche-ne-bylo.md)

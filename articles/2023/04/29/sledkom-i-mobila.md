@@ -41,4 +41,4 @@ tags: "политсквирт, коми, кпрф, владимир уйбой"
 
 #### *Власти РФ внесли его в реестр «иноагентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/04/10/oni-eshche-i-kusaiutsia
+**Читайте также:** [https://novayagazeta.ru/articles/2023/04/10/oni-eshche-i-kusaiutsia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/04/10/oni-eshche-i-kusaiutsia)

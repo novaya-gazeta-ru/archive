@@ -26,4 +26,4 @@ tags: "румянцев, вологодская область , колония,
  \
  **Минюст признал «Фонд Бориса Немцова за свободу» нежелательной организацией, ее деятельность в России запрещена*
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/02/28/v-slozhivshikhsia-obstoiatelstvakh-sovsem-ne-khochetsia-domoi-media
+**Читайте также:** [«В сложившихся обстоятельствах совсем не хочется домой»](2023/02/28/v-slozhivshikhsia-obstoiatelstvakh-sovsem-ne-khochetsia-domoi-media.md)

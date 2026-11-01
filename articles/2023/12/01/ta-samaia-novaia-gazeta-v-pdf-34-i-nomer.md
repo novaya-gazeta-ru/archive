@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *Запрет «движения ЛГБТ», которого не существует, госидеология Русского собора, Владимир Пастухов — о будущем России, и как Сталин расстреливал подростков*
 
-https://novayagazeta.ru/issues/3279
+[https://novayagazeta.ru/issues/3279](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3279)

@@ -21,4 +21,4 @@ tags: "ракета, телескоп, запуск, вселенная, sf"
 
 James Webb разрабатывался NASA совместно с Европейским космическим агентством (ESA) и Канадским космическим агентством (CSA). По [данным](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_flies_Ariane_5_watch_the_launch_live) ESA, James Webb — крупнейший и самый мощный телескоп из всех, которые когда-либо запускали в космос. С его помощью у ученых появится возможность исследовать фазы развития космоса.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/16/sbei-svoikh-chtoby-chuzhie-boialis
+**Читайте также:** [Сбей своих, чтобы чужие боялись](2021/11/16/sbei-svoikh-chtoby-chuzhie-boialis.md)

@@ -33,9 +33,9 @@ tags: ""
 
 Многим туристическим компаниям придется перепрофилировать свой бизнес на внутренний туризм, чтобы остаться на плаву, считает аналитик «Инвесткафе» Михаил Кузьмин. Если поток туристов окажется достаточно серьезным, то прибыльность внутренних направлений резко возрастет.
 
-**link:** https://novayagazeta.ru/economy/66488.html
+**link:** [https://novayagazeta.ru/economy/66488.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/66488.html)
 
-**link:** https://novayagazeta.ru/economy/66488.html
+**link:** [https://novayagazeta.ru/economy/66488.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/66488.html)
 
 # Договор дороже денег
 

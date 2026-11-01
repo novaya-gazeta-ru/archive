@@ -32,15 +32,15 @@ tags: "кино, режиссеры, ссср"
 
 В этом фильме я очень бережно относился к тексту. Володин смотрел рабочий материал. Делал скупые замечания. Когда я показал ему лучшую, как мне казалось, сцену встречи мамы и дочки, он замахал руками: «Категорически нет! Это сентиментально!» Взяли другой, более тихий дубль.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/society/13575.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2001/05/07/1399746580_722523_89.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/society/13575.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/13575.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2001/05/07/1399746580_722523_89.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2001/05/07/1399746580_722523_89.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/society/13575.html" target="_blank"><strong>Александр Володин: «Жалость и стыд — вот что я вынес с фронта». Интервью 2001 года</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/society/13575.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/13575.html)" target="_blank"><strong>Александр Володин: «Жалость и стыд — вот что я вынес с фронта». Интервью 2001 года</strong></a></p>]*
 
 У Володина было предложение, чтобы роль скромного оркестранта Колпакова сыграл Василий Меркурьев. Огромный, вальяжный человек играл бы на крошечной флейте. Не получилось. Роль блестяще сыграл субтильный Ролан Быков. Ему мы дали трубу, получилось красиво. Казалось, сам чистый звук мелодии рвал пространство, преображал героя в нравственного человека. Володину картина понравилась. Но следующий сценарий он мне не дал. У него был принцип: никто из режиссеров не снимал у него подряд. Один из следующих сценариев — «Загадочный индус» (фильм «Фокусник») с Зиновием Гердтом прекрасно снял Петя Тодоровский. Зато мы все сохранили дружбу. Компания вообще была замечательной: уникальные, талантливые… никто никому не завидовал, все поддерживали друг друга.
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2010/11/29/1308425744_387170_84.jpg" style="width: 340px; height: 279px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2010/11/29/1308425744_387170_84.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2010/11/29/1308425744_387170_84.jpg)" style="width: 340px; height: 279px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Валерий Фрид и Юлий Дунский. 1955 г. Инта. На съемках фильма по их сценарию</sup></td>

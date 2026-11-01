@@ -31,6 +31,6 @@ tags: "репрессии, беларусь, поддержка, музыкан�
 
 Все деньги, вырученные от продажи альбома, будут перечислены в Belarus Solidarity Foundation, Фонд поддержки белорусов, пострадавших от политических репрессий.
 
-**link:** https://novayagazeta.ru/articles/2020/08/22/86777-mne-chizburger-kartoshku-i-novogo-prezidenta
+**link:** [«Мне чизбургер, картошку и нового президента»](2020/08/22/86777-mne-chizburger-kartoshku-i-novogo-prezidenta.md)
 
 Скачать альбом и перевести деньги по системе Pay What You Want (кто сколько хочет) можно здесь.

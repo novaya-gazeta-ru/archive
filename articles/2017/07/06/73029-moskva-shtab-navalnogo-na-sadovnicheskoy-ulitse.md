@@ -13,7 +13,7 @@ tags: "полиция, давление, выборы, навальный"
 
 *Фото дня*
 
-**link:** https://novayagazeta.ru/articles/2017/07/06/73026-shtabam-zdes-ne-mesto
+**link:** [Штабам здесь не место](2017/07/06/73026-shtabam-zdes-ne-mesto.md)
 
 ![](_assets/2e/2e0c01f7eb2f919d9c3dd2b7f24e4891.webp)
 

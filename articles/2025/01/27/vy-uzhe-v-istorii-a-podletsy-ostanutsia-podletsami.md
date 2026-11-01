@@ -73,7 +73,7 @@ tags: "политзаключенные, юмор, письма, отчаяни�
 >
 > Всем привет! И пусть все смеются!!! То, что я в тюрьме, — это уже чья-то злая шутка!
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/18/vy-uzhe-v-istorii-a-podletsy-ostanutsia-podletsami
+**Читайте также:** [«Вы уже в истории, а подлецы останутся подлецами»](2024/12/18/vy-uzhe-v-istorii-a-podletsy-ostanutsia-podletsami.md)
 
 ![](_assets/f2/f2b6771c32f582eb36eab926f23ae4e0.webp)
 

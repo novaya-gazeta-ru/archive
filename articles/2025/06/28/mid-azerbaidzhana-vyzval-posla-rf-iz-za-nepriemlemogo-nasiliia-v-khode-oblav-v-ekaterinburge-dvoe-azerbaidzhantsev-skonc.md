@@ -15,7 +15,7 @@ tags: ""
 
 Это цитаты из официального [заявления](https://t.me/MFA_Azerbaijan/790) МИД Азербайджана.
 
-Из СМИ сегодня [стало известно](https://novayagazeta.ru/articles/2025/06/28/v-ekaterinburge-v-khode-oblavy-na-azerbaidzhantsev-skonchalsia-podozrevaemyi-v-prestuplenii-20-letnei-davnosti-eshche-desiatki-liudei-zaderzhany-news) о масштабных облавах в Екатеринбурге, устроенных силовиками. Уголовные дела сразу по нескольким преступлениях прошлых лет возобновил особый отдел СК. Одно из этих дел — убийство предпринимателя в 2001 году.
+Из СМИ сегодня [стало известно](2025/06/28/v-ekaterinburge-v-khode-oblavy-na-azerbaidzhantsev-skonchalsia-podozrevaemyi-v-prestuplenii-20-letnei-davnosti-eshche-de.md) о масштабных облавах в Екатеринбурге, устроенных силовиками. Уголовные дела сразу по нескольким преступлениях прошлых лет возобновил особый отдел СК. Одно из этих дел — убийство предпринимателя в 2001 году.
 
 СМИ сообщали о задержании десятков человек из азербайджанской диаспоры, обысках по домашним адресам и в ТЦ «Баку Плаза».
 

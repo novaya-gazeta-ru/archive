@@ -59,4 +59,4 @@ tags: ""
 >
 > Лариса Малюкова ведет телеграм-канал о кино и не только. [Подписывайтесь тут](https://t.me/larisamalukova).
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/09/po-glavnoi-ulitse-s-kino
+**Читайте также:** [По главной улице с кино](2025/08/09/po-glavnoi-ulitse-s-kino.md)

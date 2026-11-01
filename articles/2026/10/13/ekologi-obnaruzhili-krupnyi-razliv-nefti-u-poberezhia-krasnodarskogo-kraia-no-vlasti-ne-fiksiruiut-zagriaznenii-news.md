@@ -25,4 +25,4 @@ tags: ""
 
 Наблюдатели констатируют, что после многочисленных катастроф последнего времени с нефтью и нефтепродуктами Черное море уже не будет прежним.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/10/08/v-sochi-razreshili-kupatsia-ne-vyiaviv-zagriaznenii-posle-krupnogo-pozhara-na-zapolnennom-neftiu-tankere-news
+**Читайте также:** [В Сочи разрешили купаться, не выявив загрязнений после крупного пожара на заполненном нефтью танкере](2026/10/08/v-sochi-razreshili-kupatsia-ne-vyiaviv-zagriaznenii-posle-krupnogo-pozhara-na-zapolnennom-neftiu-tankere-news.md)

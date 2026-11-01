@@ -16,22 +16,22 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/04/13/1365870321_545705_36.jpg" style="width: 360px; height: 208px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/04/13/1365870321_545705_36.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/04/13/1365870321_545705_36.jpg)" style="width: 360px; height: 208px;"><br>
 				<sup>Cтарое здание ЦВММ (Биржа) на стрелке Васильевского острова. Все фото — Михаил МАСЛЕННИКОВ («Новая»)</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/04/13/1365870321_863589_0.jpg" style="width: 360px; height: 240px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/04/13/1365870321_863589_0.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/04/13/1365870321_863589_0.jpg)" style="width: 360px; height: 240px;"><br>
 				<sup>Новое здание ЦВММ (Крюковы казармы) на площади Труда</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/04/13/1365870322_182425_70.jpg" style="width: 360px; height: 540px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/04/13/1365870322_182425_70.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/04/13/1365870322_182425_70.jpg)" style="width: 360px; height: 540px;"><br>
 				<sup>Доставка в суд 12 апреля 2013 года подозреваемого по делу о «мошенничестве в особо крупных размерах» директора ЦВММ Андрея Лялина</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/04/13/1365870327_361603_49.jpg" style="width: 360px; height: 241px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/04/13/1365870327_361603_49.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/04/13/1365870327_361603_49.jpg)" style="width: 360px; height: 241px;"><br>
 				<sup>Открытие нового здания Центрального военно-морского музея — Крюковых казарм после реставрации. Макет Крюковых казарм, в которых разместится ЦВММ, рассматривают и обсуждают будущий переезд музея (слева — направо): тогдашний Главком ВМФ Владимир Высоцкий, губернатор Петербурга Валентина Матвиенко, директор Центрального военно-морского музея Андрей Лялин, директор Эрмитажа Михаил Пиотровский и генеральный директор СК «Интарсия» Виктор Смирнов</sup><br>
 				&nbsp;</td>
 		</tr>

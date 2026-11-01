@@ -23,8 +23,8 @@ tags: ""
 
 Кремль пока не комментировал итоги переговоров, но анонсировал их час назад.
 
-Переговоры со Стуббом и Стёре — первый прямой контакт Путина с лидерами ЕС с 2025 года, когда российскому президенту [решил позвонить](https://novayagazeta.ru/articles/2025/07/01/makron-i-putin-sozvonilis-makron-otkazyvalsia-zvonit-pochti-tri-goda-news) Эмманюэль Макрон.
+Переговоры со Стуббом и Стёре — первый прямой контакт Путина с лидерами ЕС с 2025 года, когда российскому президенту [решил позвонить](2025/07/01/makron-i-putin-sozvonilis-makron-otkazyvalsia-zvonit-pochti-tri-goda-news.md) Эмманюэль Макрон.
 
 Кандидатура президента Финляндии Александра Стубба обсуждается как компромиссная фигура представителя ЕС на российско-украинских переговорах. Киев настаивает на участии Европы в обсуждении гарантий долгосрочного перемирия с Россией.
 
-Кремль недавно [подтвердил](https://novayagazeta.ru/articles/2026/10/23/putin-govorit-o-kakikh-to-territorialnykh-poteriakh-ukrainy-neumestno-kontakty-s-ukrainoi-i-ssha-vozobnovliaiutsia-moskva-gotova-obsuzhdat-arkhitekturu-vsei-evropeiskoi-bezopasnosti-news), что все-таки готов обсуждать с Европой новую конфигурацию безопасности в регионе, включив в нее и украинский вопрос.
+Кремль недавно [подтвердил](2026/10/23/putin-govorit-o-kakikh-to-territorialnykh-poteriakh-ukrainy-neumestno-kontakty-s-ukrainoi-i-ssha-vozobnovliaiutsia-moskv.md), что все-таки готов обсуждать с Европой новую конфигурацию безопасности в регионе, включив в нее и украинский вопрос.

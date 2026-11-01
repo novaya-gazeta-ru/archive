@@ -67,4 +67,4 @@ tags: ""
 
 *13 декабря 2017 г.*
 
-**link:** https://novayagazeta.ru/articles/2017/03/29/71956-lektsiya-grigoriya-yavlinskogo-rossiyskie-paralleli-1917-2017
+**link:** [«Российские параллели: 1917 — 2017». Лекция Григория Явлинского](2017/03/29/71956-lektsiya-grigoriya-yavlinskogo-rossiyskie-paralleli-1917-2017.md)

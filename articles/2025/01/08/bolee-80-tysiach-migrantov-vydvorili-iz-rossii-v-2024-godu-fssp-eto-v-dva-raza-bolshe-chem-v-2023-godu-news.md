@@ -23,10 +23,10 @@ tags: ""
 
 Одновременно российская экономика испытывает огромный кадровый голод и неспособна обслуживать себя без труда мигрантов.
 
-Известно о точечных попытках заместить мигрантов из стран Средней Азии на российских предприятиях мигрантами из Глобального Юга — [стран Африки или Индии](https://novayagazeta.ru/articles/2024/11/14/v-kaliningrade-na-rybnye-predpriiatiia-stali-zavozit-migrantov-iz-indii-potomu-chto-oni-tochno-ne-poluchat-grazhdanstva-news), но это не массовое явление.
+Известно о точечных попытках заместить мигрантов из стран Средней Азии на российских предприятиях мигрантами из Глобального Юга — [стран Африки или Индии](2024/11/14/v-kaliningrade-na-rybnye-predpriiatiia-stali-zavozit-migrantov-iz-indii-potomu-chto-oni-tochno-ne-poluchat-grazhdanstva-.md), но это не массовое явление.
 
-К концу 2024 года профессия дворника [стала дефицитной](https://novayagazeta.ru/articles/2024/11/16/dvorniki-stali-samoi-defitsitnoi-spetsialnostiu-v-rossii-na-noiabr-2024-goda-issledovanie-news) в России.
+К концу 2024 года профессия дворника [стала дефицитной](2024/11/16/dvorniki-stali-samoi-defitsitnoi-spetsialnostiu-v-rossii-na-noiabr-2024-goda-issledovanie-news.md) в России.
 
-**О том, какие сложности для российской экономики чинит такая стратегия российских властей — слушайте **[**в интервью Натальи Зубаревич**](https://novayagazeta.ru/articles/2024/12/20/tiazhelyi-god-podvodim-ekonomicheskie-itogi)**.**
+**О том, какие сложности для российской экономики чинит такая стратегия российских властей — слушайте **[**в интервью Натальи Зубаревич**](2024/12/20/tiazhelyi-god-podvodim-ekonomicheskie-itogi.md)**.**
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/22/nas-malo-rabochie-ruki-my-tolko-privetstvuem-kreml-vnov-zaiavil-o-defitsite-na-rynke-truda-pri-zashkalivaiushchei-antimigrantskoi-ritorike-news
+**Читайте также:** [«Нас мало… Рабочие руки мы только приветствуем». Кремль вновь заявил о дефиците на рынке труда — при зашкаливающей антимигрантской риторике](2024/11/22/nas-malo-rabochie-ruki-my-tolko-privetstvuem-kreml-vnov-zaiavil-o-defitsite-na-rynke-truda-pri-zashkalivaiushchei-antimi.md)

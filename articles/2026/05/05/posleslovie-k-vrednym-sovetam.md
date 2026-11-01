@@ -69,6 +69,6 @@ tags: "цензура, остер, вредные советы, илюхин, б
 
 Прокуратура тогда на строгое указание комитета по безопасности ГД должным образом не отреагировала. Или — наоборот — отреагировала единственно должным образом: пренебрегла.
 
-Сейчас система ставит эксперимент на самой себе: интересно, чем кончится проверка, которую, как утверждал [официальный пресс-релиз](https://novayagazeta.ru/articles/2026/04/21/bez-kommentariev-glava-sk-bastrykin-poruchil-proverit-proizvedeniia-detskogo-pisatelia-grigoriia-ostera-iz-za-somnitelnykh-pedagogicheskikh-ustanovok-news), глава Следственного комитета Бастрыкин поручил провести?
+Сейчас система ставит эксперимент на самой себе: интересно, чем кончится проверка, которую, как утверждал [официальный пресс-релиз](2026/04/21/bez-kommentariev-glava-sk-bastrykin-poruchil-proverit-proizvedeniia-detskogo-pisatelia-grigoriia-ostera-iz-za-somnitelny.md), глава Следственного комитета Бастрыкин поручил провести?
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/04/27/vrednye-sovety-ostera-stali-v-piat-raz-chashche-pokupat-na-marketpleise-i-v-dva-raza-bolshe-v-knizhnykh-posle-pretenzii-butinoi-i-bastrykina-news
+**Читайте также:** [«Вредные советы» Остера стали в пять раз чаще покупать на маркетплейсе и в два раза больше в книжных после претензий Бутиной и Бастрыкина](2026/04/27/vrednye-sovety-ostera-stali-v-piat-raz-chashche-pokupat-na-marketpleise-i-v-dva-raza-bolshe-v-knizhnykh-posle-pretenzii-.md)

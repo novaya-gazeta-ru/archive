@@ -29,4 +29,4 @@ tags: "навальный, врачи, колония"
 
 желательно кардиологов. Иначе это подпадает под категорию неоказания помощи. Это то, за что в России судят: если выяснилось, что человеку не была оказана помощь.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/04/17/iaroslav-ashikhmin-nash-patsient-mozhet-umeret-v-liuboi-moment
+**Читайте также:** [Ярослав Ашихмин: «Наш пациент может умереть в любой момент»](2021/04/17/iaroslav-ashikhmin-nash-patsient-mozhet-umeret-v-liuboi-moment.md)

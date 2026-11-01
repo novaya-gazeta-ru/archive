@@ -133,4 +133,4 @@ tags: "павел сюткин, дескридитация, сво, политз
 
 А я подумала, что это, наверное, очень заслуженно. Просто потому, что они — Ольга и Павел Сюткины — заражают других своей внутренней свободой. Это дорогого стоит.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/10/09/istorika-russkoi-kukhni-pavla-siutkina-otpravili-v-sizo-po-delu-o-voennykh-feikakh-news
+**Читайте также:** [Историка русской кухни Павла Сюткина отправили в СИЗО по делу о военных «фейках»](2025/10/09/istorika-russkoi-kukhni-pavla-siutkina-otpravili-v-sizo-po-delu-o-voennykh-feikakh-news.md)

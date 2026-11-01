@@ -11,9 +11,9 @@ tags: ""
 
 # Акция «Стратегии 31» прошла на Триумфальной площади в Москве (ОНЛАЙН)
 
-[](http://www.novayagazeta.ru/photos/55233.html)
+[](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/55233.html)
 
-[Фоторепортаж](http://www.novayagazeta.ru/photos/55233.html)
+[Фоторепортаж](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/55233.html)
 
 **19:30** Сотрудники полиции выстроились в живую цепочку и вытеснили людей к метро «Маяковская». Всего задержали 12 человек, среди них – член «Солидарности» Надежда Митюшкина. Акция закончилась.
 

@@ -19,8 +19,8 @@ tags: "em, полиция, бурятия, суды, иск"
 
 При этом следствие пока не установило, получил ли Баиров удар обухом топора, уточняет «МБХ медиа».
 
-Об иске МВД [стало известно](https://novayagazeta.ru/news/2020/01/13/158250-mvd-buryatii-podalo-v-sud-na-irkutskogo-senatora-marhaeva-nazvavshego-protivopravnymi-deystviya-politsii-pri-razgone-mitinga) 13 января. Бурятская полиция также требовала от сенатора сказать, что полицейские действовали в строгом соответствии с законом, а обстоятельства получения травмы Баировым «не связаны с нанесением удара обухом по голове».
+Об иске МВД [стало известно](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/01/13/158250-mvd-buryatii-podalo-v-sud-na-irkutskogo-senatora-marhaeva-nazvavshego-protivopravnymi-deystviya-politsii-pri-razgone-mitinga) 13 января. Бурятская полиция также требовала от сенатора сказать, что полицейские действовали в строгом соответствии с законом, а обстоятельства получения травмы Баировым «не связаны с нанесением удара обухом по голове».
 
-Акции против результатов выборов мэра города прошли в Улан-Удэ осенью прошлого года. На них победил самовыдвиженец Игорь Шутенков, поддержанный «Единой Россией», Вячеслав Мархаев занял второе место. Из-за митингов Баирова несколько раз [арестовывали](https://novayagazeta.ru/news/2019/11/09/156767-v-ulan-ude-arestovali-odnogo-iz-liderov-protestov-posle-popytki-zadat-meru-vopros-o-remonte-dorog).
+Акции против результатов выборов мэра города прошли в Улан-Удэ осенью прошлого года. На них победил самовыдвиженец Игорь Шутенков, поддержанный «Единой Россией», Вячеслав Мархаев занял второе место. Из-за митингов Баирова несколько раз [арестовывали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/11/09/156767-v-ulan-ude-arestovali-odnogo-iz-liderov-protestov-posle-popytki-zadat-meru-vopros-o-remonte-dorog).
 
-**link:** https://novayagazeta.ru/articles/2019/09/27/82135-po-zakonu-nado-bylo-zaderzhat-voobsche-vseh
+**link:** [«По закону надо было задержать вообще всех»](2019/09/27/82135-po-zakonu-nado-bylo-zaderzhat-voobsche-vseh.md)

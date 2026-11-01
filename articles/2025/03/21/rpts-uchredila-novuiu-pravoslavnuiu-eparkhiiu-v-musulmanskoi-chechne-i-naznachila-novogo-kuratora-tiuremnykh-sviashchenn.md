@@ -23,4 +23,4 @@ tags: ""
 
 Тот же состав синода утвердил нового главу тюремных священников РПЦ — им после смерти прежнего руководителя в конце января 2024 года стал иерей Кирилл Марковский.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/13/sestra-patriarkha-kirilla-stala-zhenshchinoi-goda-v-oblasti-kultury-i-iskusstva-v-peterburge-news
+**Читайте также:** [Сестра патриарха Кирилла стала «женщиной года» в области культуры и искусства в Петербурге](2025/03/13/sestra-patriarkha-kirilla-stala-zhenshchinoi-goda-v-oblasti-kultury-i-iskusstva-v-peterburge-news.md)

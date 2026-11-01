@@ -21,6 +21,6 @@ tags: "обыски, светов, sn, либертарианцы"
 
 Адвокат Светова Михаил Бирюков сообщил «Новой газете», что обыски проводятся по делу о развратных действиях. До этого Светов сообщал, что полицейские не хотели пускать к нему защитника.
 
-Полиция уже [приходила](https://novayagazeta.ru/news/2019/11/06/156693-v-moskve-k-libertariantsu-mihailu-svetovu-prishli-s-obyskami) с обысками к Светову, его также увозили на допрос в СК по делу о развратных действиях, фигурантом которого он стал из-за старого инстаграм-аккаунта. Позже его [отпустили](https://novayagazeta.ru/news/2019/11/07/156702-libertariantsa-mihaila-svetova-otpustili-iz-sk-posle-doprosa-v-kachestve-svidetelya) в качестве свидетеля. На его страницу в соцсети обратил внимание Роскомнадзор. Претензии регулятора вызвали фотографии бывшей девушки Светова, сделанные в 2012 году.
+Полиция уже [приходила](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/11/06/156693-v-moskve-k-libertariantsu-mihailu-svetovu-prishli-s-obyskami) с обысками к Светову, его также увозили на допрос в СК по делу о развратных действиях, фигурантом которого он стал из-за старого инстаграм-аккаунта. Позже его [отпустили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/11/07/156702-libertariantsa-mihaila-svetova-otpustili-iz-sk-posle-doprosa-v-kachestve-svidetelya) в качестве свидетеля. На его страницу в соцсети обратил внимание Роскомнадзор. Претензии регулятора вызвали фотографии бывшей девушки Светова, сделанные в 2012 году.
 
-**link:** https://novayagazeta.ru/articles/2019/11/08/82653-popytka-brosit-ten
+**link:** [«Попытка бросить тень»](2019/11/08/82653-popytka-brosit-ten.md)

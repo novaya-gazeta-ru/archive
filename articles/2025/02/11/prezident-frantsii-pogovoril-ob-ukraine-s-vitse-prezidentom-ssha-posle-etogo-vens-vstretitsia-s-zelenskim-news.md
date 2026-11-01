@@ -43,4 +43,4 @@ tags: ""
 
 Ранее пресс-секретарь президента Украины Владимира Зеленского анонсировал его встречу с вице-президентом Джей Ди Вэнсом и спецпосланником по вопросам Украины и России Китом Келлогом на Мюнхенской конференции по безопасности 14-16 февраля. Ожидается, что после этого Келлог посетит Украину. По данным Bloomberg, в Москву он приезжать пока не собирается.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/28/frantsiia-budet-gotova-otpravit-voiska-v-grenlandiiu-esli-daniia-obratitsia-za-pomoshchiu-ministr-inostrannykh-del-news
+**Читайте также:** [https://novayagazeta.ru/articles/2025/01/28/frantsiia-budet-gotova-otpravit-voiska-v-grenlandiiu-esli-daniia-obratitsia-za-pomoshchiu-ministr-inostrannykh-del-news](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2025/01/28/frantsiia-budet-gotova-otpravit-voiska-v-grenlandiiu-esli-daniia-obratitsia-za-pomoshchiu-ministr-inostrannykh-del-news)

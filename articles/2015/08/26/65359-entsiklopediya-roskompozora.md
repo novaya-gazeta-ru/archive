@@ -43,9 +43,9 @@ tags: "викимедиа, роскомнадзор, скандал"
 
 **Рожков:** Российскому отделению может пожертвовать только гражданин России. Деньги с Украины, из Белоруссии мы отправляли назад. А что делать? Такое законодательство.
 
-**link:** https://novayagazeta.ru/economy/69676.html
+**link:** [https://novayagazeta.ru/economy/69676.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/69676.html)
 
-**link:** https://novayagazeta.ru/economy/69676.html
+**link:** [https://novayagazeta.ru/economy/69676.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/69676.html)
 
 **— У вас прежде возникали столь же кризисные ситуации во взаимодействии с Роскомнадзором?**
 

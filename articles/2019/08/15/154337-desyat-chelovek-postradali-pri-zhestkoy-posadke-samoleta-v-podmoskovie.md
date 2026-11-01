@@ -14,7 +14,7 @@ tags: "самолеты, nt"
 > **есть продолжение<br>
 &nbsp;**
 >
-> [«Они сделали все быстро, штатно, вообще на пять баллов». Действующий пилот — о жесткой посадке под Жуковским](https://www.novayagazeta.ru/articles/2019/08/15/81616-oni-sdelali-vse-bystro-shtatno-voobsche-na-pyat-ballov)
+> [«Они сделали все быстро, штатно, вообще на пять баллов». Действующий пилот — о жесткой посадке под Жуковским](2019/08/15/81616-oni-sdelali-vse-bystro-shtatno-voobsche-na-pyat-ballov.md)
 
 ![](_assets/3f/3f74957717acb9a22b27b430dad09445.webp)
 

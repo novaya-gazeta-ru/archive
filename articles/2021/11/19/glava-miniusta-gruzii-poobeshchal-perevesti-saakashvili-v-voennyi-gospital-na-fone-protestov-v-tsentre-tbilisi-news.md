@@ -21,8 +21,8 @@ tags: "саакашвили, грузия, голодовка, sn"
 
 Накануне экс-президент Грузии попал в реанимацию после обморока, который случился у него на 49-й день голодовки. Уполномоченная по правам человека в Грузии Нино Ломджарии сегодня [предупредила](https://www.ombudsman.ge/geo/akhali-ambebi/sakhalkho-damtsvelis-mier-shekmnilma-spetsialisttaekspertta-jgufma-mikheil-saakashvilis-janmrtelobis-mdgomareobis-damdzimebis-gamo-n18-datsesebulebashi-damatebiti-viziti-ganakhortsiela), что политик может впасть в кому, так как у него выявили серьезное осложнение в мозгу — энцефалопатию Вернике.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/12/burnyi-mishka
+**Читайте также:** [Бурный Мишка](2021/11/12/burnyi-mishka.md)
 
 Саакашвили оказался за решеткой вскоре после своего тайного возвращения на родину накануне выборов в начале октября. После ареста он сразу же объявил голодовку. Экс-президента Грузии обвиняют в превышении полномочий за приказ правоохранительным органам жестко разогнать акцию протеста 7 ноября 2007 года и незаконном погроме по его приказу в офисах телекомпании «Имеди» 7 ноября 2007 года. В сумме ему грозит не менее девяти лет лишения свободы.
 
-Из-за ухудшения состояния здоровья его 8 ноября [доставили](https://novayagazeta.ru/articles/2021/11/08/smi-mikhaila-saakashvili-vyvezli-iz-tiurmy-v-voennyi-gospital-na-vertolete-news) из Руставской тюрьмы в Глданскую тюремную больницу. 11 ноября Михаил Саакашвили [согласился](https://novayagazeta.ru/articles/2021/11/11/eks-prezident-gruzii-mikhail-saakashvili-prekratil-golodovku-news) прекратить голодовку, если его переведут в гражданское медучреждение.
+Из-за ухудшения состояния здоровья его 8 ноября [доставили](2021/11/08/smi-mikhaila-saakashvili-vyvezli-iz-tiurmy-v-voennyi-gospital-na-vertolete-news.md) из Руставской тюрьмы в Глданскую тюремную больницу. 11 ноября Михаил Саакашвили [согласился](2021/11/11/eks-prezident-gruzii-mikhail-saakashvili-prekratil-golodovku-news.md) прекратить голодовку, если его переведут в гражданское медучреждение.

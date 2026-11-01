@@ -15,7 +15,7 @@ tags: "казахстан, протесты, газ , токаев"
 
 > **есть обновление**
 >
-> [**Протестующие ворвались в городскую администрацию Алматы после штурма**](https://novayagazeta.ru/articles/2022/01/05/protestuiushchie-v-kazakhstane-vorvalis-v-gorodskuiu-administratsiiu-almaty-posle-shturma-news)
+> [**Протестующие ворвались в городскую администрацию Алматы после штурма**](2022/01/05/protestuiushchie-v-kazakhstane-vorvalis-v-gorodskuiu-administratsiiu-almaty-posle-shturma-news.md)
 
 # Солнце встает на западе
 

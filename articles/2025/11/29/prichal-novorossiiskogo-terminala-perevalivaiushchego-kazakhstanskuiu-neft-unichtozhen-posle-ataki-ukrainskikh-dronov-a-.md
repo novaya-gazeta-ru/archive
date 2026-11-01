@@ -19,7 +19,7 @@ tags: ""
 >
 > КТК — совместный проект предприятий ТЭК России, Казахстана, США и стран Европы, он не находится под санкциями. Почти две трети казахской нефти проходит через эту систему, а кроме казахской, через Новороссийский порт идет российская нефть из Каспия.
 >
-> Предыдущая атака на инфраструктуру КТК в Новороссийске была [в ночь на среду, 25 ноября](https://novayagazeta.ru/articles/2025/11/14/gubernator-kubani-o-nochnoi-atake-bpla-na-novorossiisk-raneny-4-cheloveka-povrezhdeny-4-doma-neftebaza-transnefti-konteinernyi-terminal-i-grazhdanskoe-sudno-news). С воздуха.
+> Предыдущая атака на инфраструктуру КТК в Новороссийске была [в ночь на среду, 25 ноября](2025/11/14/gubernator-kubani-o-nochnoi-atake-bpla-na-novorossiisk-raneny-4-cheloveka-povrezhdeny-4-doma-neftebaza-transnefti-kontei.md). С воздуха.
 
 Одновременно в ночь на 29 ноября украинскими морскими дронами, а по другой версии минами, в Черном море были [атакованы два нефтетанкера](https://t.me/milinfolive/161288), порожняком идущих в Новороссийск. Это танкеры Kairos и Virat.
 

@@ -54,4 +54,4 @@ tags: "прощание, жванецкий"
 
 И счастливое множество нас, которым так неслыханно везло все эти годы.
 
-**novaya:** https://novayagazeta.ru/articles/2020/11/06/87854-odinokoe-derevo-misha
+**novaya:** [Одинокое дерево — Миша](2020/11/06/87854-odinokoe-derevo-misha.md)

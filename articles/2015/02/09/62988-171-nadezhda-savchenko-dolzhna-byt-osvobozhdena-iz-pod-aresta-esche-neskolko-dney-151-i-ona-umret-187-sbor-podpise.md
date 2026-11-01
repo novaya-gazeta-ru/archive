@@ -11,4 +11,4 @@ tags: "голодовка, савченко, сбор подписей, сизо
 
 # «Надежда Савченко должна быть освобождена из-под ареста. Еще несколько дней  и она умрет». Сбор подписей под обращением к президенту
 
-**link:** https://novayagazeta.ru/inquiries/16.html
+**link:** [https://novayagazeta.ru/inquiries/16.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquiries/16.html)

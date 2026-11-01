@@ -25,9 +25,9 @@ tags: "евросоюз, банки, цб, санкции, украина, во�
 
 Урсула фон дер Ляйен добавила, что против Кремля будут усилены санкции.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/27/posle-swift
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/27/posle-swift](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/27/posle-swift)
 
-Ранее страны Евросоюза [объявили](https://novayagazeta.ru/articles/2022/02/26/strany-es-obiavili-o-reshenii-otkliuchit-nekotorye-rossiiskie-banki-ot-swift-news) о решении отключить некоторые российские банки от SWIFT в связи с вторжением России в Украину.
+Ранее страны Евросоюза [объявили](2022/02/26/strany-es-obiavili-o-reshenii-otkliuchit-nekotorye-rossiiskie-banki-ot-swift-news.md) о решении отключить некоторые российские банки от SWIFT в связи с вторжением России в Украину.
 
 «Это эффективно заблокирует российский экспорт и импорт — банки не смогут осуществлять международные операции», — заявила Урсула фон дер Ляйен.
 

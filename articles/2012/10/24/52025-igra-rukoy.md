@@ -17,15 +17,15 @@ tags: ""
 		<tr>
 			<td class="g-justify-right" style="">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/23/1350980905_345096_65.jpg" style="width: 360px; height: 240px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/23/1350980905_345096_65.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/23/1350980905_345096_65.jpg)" style="width: 360px; height: 240px; "></p>
 				<p>
 					<sup>Первоначальный вариант плаката &nbsp;— с дорогими часами...</sup></p>
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/23/1350980905_630340_87.jpg" style="width: 360px; height: 270px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/23/1350980905_630340_87.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/23/1350980905_630340_87.jpg)" style="width: 360px; height: 270px; "></p>
 				<p>
 					<sup>...и политкорректный&nbsp;</sup></p>
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/23/1350980905_922688_79.jpg" style="width: 360px; height: 270px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/23/1350980905_922688_79.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/23/1350980905_922688_79.jpg)" style="width: 360px; height: 270px; "></p>
 				<p>
 					<sup>Он наклеен прямо поверх &nbsp;возмутившего блогеров плаката</sup></p>
 			</td>

@@ -23,4 +23,4 @@ tags: ""
 
 > **ВСЕ ЭПИЗОДЫ**
 >
-> **[«Другая сторона улицы». 1 серия.](https://novayagazeta.ru/articles/2021/02/21/89317-drugaya-storona-ulitsy)** [Маша: «Я себя каждый понедельник клала в гроб»](https://novayagazeta.ru/articles/2021/02/21/89317-drugaya-storona-ulitsy) **[«‎Другая сторона улицы». 2 серия.** Женя: миллионер из подворотни](https://novayagazeta.ru/articles/2021/02/28/89411-drugaya-storona-ulitsy-premiera-veb-seriala)
+> **[«Другая сторона улицы». 1 серия.](2021/02/21/89317-drugaya-storona-ulitsy.md)** [Маша: «Я себя каждый понедельник клала в гроб»](2021/02/21/89317-drugaya-storona-ulitsy.md) **[«‎Другая сторона улицы». 2 серия.** Женя: миллионер из подворотни](2021/02/28/89411-drugaya-storona-ulitsy-premiera-veb-seriala.md)

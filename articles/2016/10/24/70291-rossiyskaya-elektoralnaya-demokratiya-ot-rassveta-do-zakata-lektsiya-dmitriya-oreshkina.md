@@ -15,4 +15,4 @@ tags: "лекторий, лекция, вбросы, регионы, наблю�
 
 *Стенограмма готовится*
 
-**link:** https://novayagazeta.ru/articles/2016/10/13/70167-sdelat-vybory-chestnymi-ne-udalos
+**link:** [«Сделать выборы честными не удалось»](2016/10/13/70167-sdelat-vybory-chestnymi-ne-udalos.md)

@@ -25,6 +25,6 @@ tags: "госдума, кпрф, грудинин, офшоры, sf"
 
 Лидер КПРФ Геннадий Зюганов [заявил](https://tass.ru/politika/11978371), что партия подаст апелляцию в Верховный суд на решение об исключения Грудинина из списка кандидатов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/05/deputat-i-pytka-kipiatkom
+**Читайте также:** [Депутат и пытка кипятком](2021/07/05/deputat-i-pytka-kipiatkom.md)
 
-Данные о нарушениях также [поступили](http://www.novayagazeta.ru/news/2018/03/05/139973-tsik-v-shveytsarii-rasskazali-o-13-schetah-grudinina-na-moment-vydvizheniya-kandidatom-v-prezidenty) в ЦИК перед президентскими выборами 2018 года: тогда комиссия утверждала, что у Грудинина «было открыто 13 счетов в Швейцарии, из которых шесть абсолютно точно оставались открытыми на декабрь 2017 года», однако тогда комиссия [не увидела](https://www.novayagazeta.ru/news/2018/03/05/139977-tsik-ne-vidit-osnovaniy-dlya-pretenziy-k-grudininu) оснований для претензий к кандидату. На президентских выборах Грудинин занял второе место с 11,77% голосов.
+Данные о нарушениях также [поступили](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/2018/03/05/139973-tsik-v-shveytsarii-rasskazali-o-13-schetah-grudinina-na-moment-vydvizheniya-kandidatom-v-prezidenty) в ЦИК перед президентскими выборами 2018 года: тогда комиссия утверждала, что у Грудинина «было открыто 13 счетов в Швейцарии, из которых шесть абсолютно точно оставались открытыми на декабрь 2017 года», однако тогда комиссия [не увидела](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/03/05/139977-tsik-ne-vidit-osnovaniy-dlya-pretenziy-k-grudininu) оснований для претензий к кандидату. На президентских выборах Грудинин занял второе место с 11,77% голосов.

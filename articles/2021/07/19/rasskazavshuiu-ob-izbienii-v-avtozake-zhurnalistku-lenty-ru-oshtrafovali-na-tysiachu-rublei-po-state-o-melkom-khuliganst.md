@@ -15,8 +15,8 @@ tags: "ng, суд, штрафы"
 
 Комиссия СПЧ по правам человека в информационной сфере сообщила, что берет на контроль ситуацию с журналисткой. Завьялова накануне сообщила об избиении в автозаке после попытки снять задержание ребенка на Чистых прудах. Как рассказывала журналистка «Медиазоны», 17 июля, после того, как маленькую девочку отпустили, силовики [заломили](https://twitter.com/whitechurch_/status/1416478010035875840) Завьяловой руки и затащили в автозак, один из силовиков наступил на нее коленом.
 
-По [словам](https://twitter.com/whitechurch_/status/1416479227961090052%C2%AB%20title=%C2%BBhttps://twitter.com/whitechurch_/status/1416479227961090052) самой Завьяловой, ее ударили об стол в автозаке. На девушку составили протокол о мелком хулиганстве и оставили в полиции до суда. В ГУ МВД по Москве [заявили](https://novayagazeta.ru/articles/2021/07/19/gu-mvd-po-moskve-zhurnalistku-lenty-ru-zaderzhali-za-vosprepiatstvovanie-deiatelnosti-politseiskikh), что журналистку «Ленты.ру» задержали за «воспрепятствование деятельности правоохранителей».
+По [словам](https://twitter.com/whitechurch_/status/1416479227961090052%C2%AB%20title=%C2%BBhttps://twitter.com/whitechurch_/status/1416479227961090052) самой Завьяловой, ее ударили об стол в автозаке. На девушку составили протокол о мелком хулиганстве и оставили в полиции до суда. В ГУ МВД по Москве [заявили](2021/07/19/gu-mvd-po-moskve-zhurnalistku-lenty-ru-zaderzhali-za-vosprepiatstvovanie-deiatelnosti-politseiskikh.md), что журналистку «Ленты.ру» задержали за «воспрепятствование деятельности правоохранителей».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/08/rastsvet-neotsenzury
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/08/rastsvet-neotsenzury](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/08/rastsvet-neotsenzury)
 
 *Обновлено 18:20. Добавлена реакция СПЧ*

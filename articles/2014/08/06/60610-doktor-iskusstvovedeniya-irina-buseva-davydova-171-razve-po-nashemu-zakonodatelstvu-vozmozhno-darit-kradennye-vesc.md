@@ -73,7 +73,7 @@ _— Шалина и Задорожный — это очень зависимы
 
 — Икона «Преображение» появилась в Музее русской иконы в 2006 году, и я считаю ее подделкой. У меня есть статья «Экспертиза икон. Роль иконографии». Меня очень интересует, как отличить подделки XIX века и современные подделки. Я здесь беру один аспект: очень часто подделки повторяют подлинные памятники. И я доказывала, что точное копирование — это признак новодела, потому что сейчас проще скопировать фотоспособом. А в древности никогда точно не копировали, потому что воспроизвести икону буквально пятнышко в пятнышко невозможно.
 
-**[](http://www.novayagazeta.ru/storage/c/2014/08/05/1407238922_591736_18.png) [](http://www.novayagazeta.ru/storage/c/2014/08/05/1407238922_900480_28.png)**
+**[](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/08/05/1407238922_591736_18.png) [](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/08/05/1407238922_900480_28.png)**
 
 **— А настоящая икона «Преображение» какого века?**
 
@@ -170,7 +170,7 @@ _— Насколько мне известно, Задорожный вообщ
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/08/05/1407239314_511799_79.jpg" style="width: 340px; height: 403px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/08/05/1407239314_511799_79.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/08/05/1407239314_511799_79.jpg)" style="width: 340px; height: 403px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Фото:&nbsp;<a href="http://www.russikona.ru/" target="_blank">http://www.russikona.ru/</a></sup></td>

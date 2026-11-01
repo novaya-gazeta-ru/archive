@@ -21,4 +21,4 @@ tags: "коронавирус,   ng, COVID-19"
 
 Число случаев заражения COVID-19 в мире превысило 123,2 млн, следует из [данных](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) университета Джонса Хопкинса. Больше всего инфицированных коронавирусом в США (более 29,8 млн), а также в Бразилии (более 11,9 млн), Индии (более 11,6 млн) и России (она на четвертом месте в списке).
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/19/novaia-gazeta-zapustila-interaktivnyi-proekt-s-alternativnoi-statistikoi-po-vaktsinatsii-zabolevaemosti-smertnosti-i-rasprostraniaemosti-covid-19-v-rossii
+**Читайте также:** [«Новая газета» запустила интерактивный проект с альтернативной статистикой по вакцинации, заболеваемости, смертности и распространяемости COVID-19 в России](2021/03/19/novaia-gazeta-zapustila-interaktivnyi-proekt-s-alternativnoi-statistikoi-po-vaktsinatsii-zabolevaemosti-smertnosti-i-ras.md)

@@ -21,10 +21,10 @@ tags: "em, москва, уголовное дело, суррогатное м�
 >
 > **18:49 **Суд [отправил](https://t.me/moscowcourts/594) Мазура под домашний арест.
 
-Ранее фигуранткой того же дела [стала](https://novayagazeta.ru/articles/2021/07/20/moskovskii-vrach-stala-figurantkoi-dela-o-prodazhe-detei-ego-vozbudili-v-2020-godu-posle-obnaruzheniia-v-kvartire-piaterykh-mladentsev) врач Алена Дружинина. Первоначально ее допросили в качестве свидетеля, но затем — перевели в статус подозреваемой.
+Ранее фигуранткой того же дела [стала](2021/07/20/moskovskii-vrach-stala-figurantkoi-dela-o-prodazhe-detei-ego-vozbudili-v-2020-godu-posle-obnaruzheniia-v-kvartire-piater.md) врач Алена Дружинина. Первоначально ее допросили в качестве свидетеля, но затем — перевели в статус подозреваемой.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/26/mladentsa-zaderzhali-na-15-chasov-a-potom-iziali-kak-veshchdok
+**Читайте также:** [Младенца задержали на 15 часов, а потом изъяли. Как вещдок](2021/06/26/mladentsa-zaderzhali-na-15-chasov-a-potom-iziali-kak-veshchdok.md)
 
 Дело возбудили в середине июня прошлого года после того, как в квартире на Аргуновской улице в Москве [обнаружили](https://www.interfax.ru/moscow/714401« title=»https://www.interfax.ru/moscow/714401) пятерых новорожденных в возрасте от [шести дней](https://www.interfax.ru/moscow/714437« title=»https://www.interfax.ru/moscow/714437) до полугода вместе с ухаживавшими за ними двумя нянями-китаянками. К ним домой участковые [пришли](https://ren.tv/news/x/715544-prodazhu-5-mladentsev-v-knr-presekli-blagodaria-moskovskomu-vrachu« title=»https://ren.tv/news/x/715544-prodazhu-5-mladentsev-v-knr-presekli-blagodaria-moskovskomu-vrachu) по жалобе врача, обратившей внимание на то, что одного из младенцев после родов в больнице им. Юдина забирал курьер.
 
-В конце июня текущего года в Москве задержали гражданина Китая Лю Цзюня, сына которого родила суррогатная мать. Его ребенок — один из пятерых младенцев, найденных в квартире на Аргуновской улице. Цзюню вменили в вину покупку человека, «находящегося в беспомощном состоянии» (п. «з», ч. 2, ст. 127.1 УК). Суд не стал его арестовывать, впоследствии Цзюню [вернули](https://novayagazeta.ru/articles/2021/06/29/v-moskve-grazhdaninu-kitaia-vernuli-rebenka-rozhdennogo-ot-surrogatnoi-materi) ребенка.
+В конце июня текущего года в Москве задержали гражданина Китая Лю Цзюня, сына которого родила суррогатная мать. Его ребенок — один из пятерых младенцев, найденных в квартире на Аргуновской улице. Цзюню вменили в вину покупку человека, «находящегося в беспомощном состоянии» (п. «з», ч. 2, ст. 127.1 УК). Суд не стал его арестовывать, впоследствии Цзюню [вернули](2021/06/29/v-moskve-grazhdaninu-kitaia-vernuli-rebenka-rozhdennogo-ot-surrogatnoi-materi.md) ребенка.

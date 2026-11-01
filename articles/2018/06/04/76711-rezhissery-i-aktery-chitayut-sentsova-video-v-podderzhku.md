@@ -23,7 +23,7 @@ tags: "голодовка, сенцов"
 
 *Читают: Ольга Лапшина и Ксения Раппопорт*
 
-**link:** https://novayagazeta.ru/articles/2018/06/05/76721-saveolegsentsov
+**link:** [#SaveOlegSentsov!](2018/06/05/76721-saveolegsentsov.md)
 
 # «Собака»
 

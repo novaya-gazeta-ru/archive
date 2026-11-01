@@ -17,18 +17,18 @@ tags: "афганистан, мид рф, эвакуация, авиация, р
 
 Захарова подчеркнула, что организация чартерных вывозных рейсов идет в обычном режиме. «Планируется организация спецрейсов, в том числе для желающих покинуть Афганистан российских граждан», — добавила она.
 
-Посольство РФ в Кабуле в свою очередь [попросило](https://www.facebook.com/rusembafg/posts/913582362571757) граждан России до 22 августа сообщить о желании покинуть Афганистан. Захарова отметила, что дипмиссия работает в штатном режиме и не планирует эвакуироваться. При этом спецпредставитель Владимира Путина по Афганистану Замир Кабулов ранее[говорил](https://novayagazeta.ru/articles/2021/08/16/rossiia-evakuiruiut-chast-sotrudnikov-posolstva-v-kabule-news), что часть дипломатов, возможно, отправят в отпуск.
+Посольство РФ в Кабуле в свою очередь [попросило](https://www.facebook.com/rusembafg/posts/913582362571757) граждан России до 22 августа сообщить о желании покинуть Афганистан. Захарова отметила, что дипмиссия работает в штатном режиме и не планирует эвакуироваться. При этом спецпредставитель Владимира Путина по Афганистану Замир Кабулов ранее[говорил](2021/08/16/rossiia-evakuiruiut-chast-sotrudnikov-posolstva-v-kabule-news.md), что часть дипломатов, возможно, отправят в отпуск.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/16/ne-letiat-shuravi
+**Читайте также:** [Не летят шурави](2021/08/16/ne-letiat-shuravi.md)
 
-Евросоюз уже [заявил](https://novayagazeta.ru/articles/2021/08/17/evrosoiuz-zaiavil-o-priznanii-pobedy-talibov-v-afganistane-no-ne-ikh-vlasti-frg-gotova-vesti-priamye-peregovory-s-talibanom-news) о начале эвакуации не только своих дипломатов, но и афганцев, помогавших европейским дипмиссиям. Такую же эвакуацию проводят США.
+Евросоюз уже [заявил](2021/08/17/evrosoiuz-zaiavil-o-priznanii-pobedy-talibov-v-afganistane-no-ne-ikh-vlasti-frg-gotova-vesti-priamye-peregovory-s-taliba.md) о начале эвакуации не только своих дипломатов, но и афганцев, помогавших европейским дипмиссиям. Такую же эвакуацию проводят США.
 
 С 15 августа, когда боевики террористического и запрещенного в РФ движения «Талибан» захватили Кабул, в аэропорту афганской столицы не прекращается давка. Мирные жители пытаются спастись от талибов, и аэропорт остается последними «воротами» для них.
 
 Люди цеплялись за улетающие самолеты НАТО и срывались вниз, и американские войска, и талибы стреляли в воздух, чтобы разогнать толпу. По [данным](https://www.reuters.com/world/asia-pacific/taliban-urge-people-leave-airport-afghan-capital-after-12-killed-since-sunday-2021-08-19/) Reuters, в результате этого коллапса погибли по меньшей мере 12 человек.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/31/vydvorit-na-rasstrel
+**Читайте также:** [Выдворить на расстрел](2021/07/31/vydvorit-na-rasstrel.md)
 
-В августе[стало известно](https://novayagazeta.ru/articles/2021/08/18/rossiia-vydvorila-zhitelnitsu-afganistana-bezhavshuiu-s-semei-ot-talibov-na-rodine-ee-prinuzhdali-k-braku-news), что Россия выдворила в Афганистан семью Мариам Сафи, бежавшую от талибов, которые хотели принудительно выдать девушку замуж. Также Санкт-Петербургский городской суд [отложил](https://novayagazeta.ru/articles/2021/08/17/v-peterburge-sud-otlozhil-deportatsiiu-v-afganistan-futbolnykh-bolelshchikov-poprosivshikh-ubezhishcha-oni-ne-poniali-tekst-postanovleniia-news) депортацию в Афганистан четырех болельщиков, приехавших в Россию на чемпионат Европы по футболу и попросивших убежища.
+В августе[стало известно](2021/08/18/rossiia-vydvorila-zhitelnitsu-afganistana-bezhavshuiu-s-semei-ot-talibov-na-rodine-ee-prinuzhdali-k-braku-news.md), что Россия выдворила в Афганистан семью Мариам Сафи, бежавшую от талибов, которые хотели принудительно выдать девушку замуж. Также Санкт-Петербургский городской суд [отложил](2021/08/17/v-peterburge-sud-otlozhil-deportatsiiu-v-afganistan-futbolnykh-bolelshchikov-poprosivshikh-ubezhishcha-oni-ne-poniali-te.md) депортацию в Афганистан четырех болельщиков, приехавших в Россию на чемпионат Европы по футболу и попросивших убежища.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/19/terroristy-ili-stroiteli
+**Читайте также:** [Террористы или строители?](2021/08/19/terroristy-ili-stroiteli.md)

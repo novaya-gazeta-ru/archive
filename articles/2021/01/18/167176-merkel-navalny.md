@@ -17,7 +17,7 @@ tags: "kn, арест, германия, меркель, навальный"
 
 18 января Химкинский суд на заседании в УВД в Химках арестовал Навального на 30 суток по заявлению ФСИН до рассмотрения вопроса о замене ему наказания с условного на реальное по делу «Ив Роше».
 
-**link:** https://novayagazeta.ru/articles/2021/01/17/88746-aleksey-navalnyy-vozvraschaetsya-v-rossiyu-online
+**link:** [https://novayagazeta.ru/articles/2021/01/17/88746-aleksey-navalnyy-vozvraschaetsya-v-rossiyu-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/01/17/88746-aleksey-navalnyy-vozvraschaetsya-v-rossiyu-online)
 
 Сам Навальный назвал происходящее в отделе полиции произволом. Представители ГУ МВД по Подмосковью объяснили, что суд проходит в отделе полиции, так как Навальный не сдал тест на коронавирус.
 

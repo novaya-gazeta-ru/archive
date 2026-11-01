@@ -61,7 +61,7 @@ tags: "делимханов, щепихин, похищение в москве,
 
 И через эту призму история похищения блогера и возбужденные уголовные дела выглядят как попытка выбить именно Королева из кадрового резерва.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/09/chechentsev-zaderzhannykh-za-pokhishchenie-arega-shchepikhina-mogli-otpustit-pod-podpisku-o-nevyezde-samogo-biznesmena-ranee-na-dva-mesiatsa-otpravili-v-sizo-news
+**Читайте также:** [Чеченцев, задержанных за похищение Арега Щепихина, могли отпустить под подписку о невыезде. Самого бизнесмена ранее на два месяца отправили в СИЗО](2025/06/09/chechentsev-zaderzhannykh-za-pokhishchenie-arega-shchepikhina-mogli-otpustit-pod-podpisku-o-nevyezde-samogo-biznesmena-r.md)
 
 Есть в истории похищения блогера еще один щекотливый момент. По нашей информации, Управлению собственной безопасности ФСБ поручено провести расследование: прослушивал ли кто-то Адама Делимханова и кто обеспечил аудиозаписи.
 
@@ -71,4 +71,4 @@ tags: "делимханов, щепихин, похищение в москве,
 
 Мы продолжаем следить за развитием событий.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/09/vopros-vlasti
+**Читайте также:** [Вопрос власти](2025/06/09/vopros-vlasti.md)

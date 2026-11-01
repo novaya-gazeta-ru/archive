@@ -23,10 +23,10 @@ tags: "спорт, пекин-2022, олимпиада-2022, олимпийск�
 
 Произвольная программа состоится 17 февраля.\
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/14/dym-otrochestva
+**Читайте также:** [Дым отрочества](2022/02/14/dym-otrochestva.md)
 
-Участие Валиевой в личном первенстве было под вопросом из-за допинг-теста, в котором [нашли](https://novayagazeta.ru/articles/2022/02/11/mezhdunarodnoe-doping-agentstvo-zaiavlo-chto-v-probe-rossiiskoi-figuristki-kamily-valievoi-nashli-trimetazidin-news) препарат триметазидин. Пробу у воспитанницы Этери Тутберидзе взяли 25 декабря 2021 года во время чемпионата России, но результаты появились только 7 февраля.\
+Участие Валиевой в личном первенстве было под вопросом из-за допинг-теста, в котором [нашли](2022/02/11/mezhdunarodnoe-doping-agentstvo-zaiavlo-chto-v-probe-rossiiskoi-figuristki-kamily-valievoi-nashli-trimetazidin-news.md) препарат триметазидин. Пробу у воспитанницы Этери Тутберидзе взяли 25 декабря 2021 года во время чемпионата России, но результаты появились только 7 февраля.\
  \
  Валиеву временно отстранили от соревнований, но 9 февраля Дисциплинарный антидопинговый комитет РУСАДА снял ограничения со спортсменки. Все это время фигуристка продолжала тренироваться.\
  \
- 14 февраля Спортивный арбитражный суд (CAS) [решил](https://novayagazeta.ru/articles/2022/02/14/sportivnyi-arbitrazh-ne-stal-otstraniat-rossiiskuiu-figuristku-kamilu-valievoi-ot-uchastiia-v-olimpiade-news) не отстранять Валиеву от участия в Олимпиаде, но Исполком МОК [отказался](https://novayagazeta.ru/articles/2022/02/14/ispolkom-mok-otkazalsia-provodit-tseremoniiu-nagrazhdeniia-prizerov-komandnogo-turnira-figuristov-na-olimpiade-iz-za-valievoi-news) проводить церемонию награждения призеров командного турнира фигуристов на Олимпиаде, в котором российские спортсмены вместе с Камилой выиграли золото. Если Валиева будет в тройке лучших спортсменок в одиночном первенстве, церемония вручения цветов и медалей также не состоится.
+ 14 февраля Спортивный арбитражный суд (CAS) [решил](2022/02/14/sportivnyi-arbitrazh-ne-stal-otstraniat-rossiiskuiu-figuristku-kamilu-valievoi-ot-uchastiia-v-olimpiade-news.md) не отстранять Валиеву от участия в Олимпиаде, но Исполком МОК [отказался](2022/02/14/ispolkom-mok-otkazalsia-provodit-tseremoniiu-nagrazhdeniia-prizerov-komandnogo-turnira-figuristov-na-olimpiade-iz-za-val.md) проводить церемонию награждения призеров командного турнира фигуристов на Олимпиаде, в котором российские спортсмены вместе с Камилой выиграли золото. Если Валиева будет в тройке лучших спортсменок в одиночном первенстве, церемония вручения цветов и медалей также не состоится.

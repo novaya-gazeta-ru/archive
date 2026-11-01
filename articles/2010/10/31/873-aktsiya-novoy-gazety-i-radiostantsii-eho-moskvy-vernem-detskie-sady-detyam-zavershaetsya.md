@@ -15,4 +15,4 @@ tags: ""
 
 Вот мы и спросим ответственных лиц, как такое могло произойти, а главное — что можно и нужно сделать, чтобы наши дети вместе с родителями не томились в бесконечной очереди. Вот уж действительно — благодатная почва для социальной напряженности.
 
-Приглашаем читателей поучаствовать в подведении итогов акции: присылайте вопросы «по поводу», которые мы переадресуем куда следует, на сайт [www.novayagazeta.ru](https://novayagazeta.ru/articles/2010/10/31/873-aktsiya-novoy-gazety-i-radiostantsii-eho-moskvy-vernem-detskie-sady-detyam-zavershaetsya?export=1) или по электронному адресу [2010@novayagazeta.ru](mailto:2010@novayagazeta.ru)
+Приглашаем читателей поучаствовать в подведении итогов акции: присылайте вопросы «по поводу», которые мы переадресуем куда следует, на сайт [www.novayagazeta.ru](2010/10/31/873-aktsiya-novoy-gazety-i-radiostantsii-eho-moskvy-vernem-detskie-sady-detyam-zavershaetsya.md) или по электронному адресу [2010@novayagazeta.ru](mailto:2010@novayagazeta.ru)

@@ -41,4 +41,4 @@ tags: ""
 
 Российские чиновники и депутаты уже несколько лет говорят о катастрофическом дефиците врачей-специалистов, особенно в регионах, в глубинке. Решением проблемы должно было стать как раз целевое образование с последующей обязательно трехлетней отработкой.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/17/prizery-olimpiad-zaniali-vse-biudzhetnye-mesta-na-nekotorykh-fakultetakh-luchshikh-rossiiskikh-vuzov-postupit-tuda-ne-smogli-dazhe-nabravshie-maksimalnyi-ball-na-ege-news
+**Читайте также:** [Призеры олимпиад заняли все бюджетные места на некоторых факультетах лучших российских вузов. Поступить туда не смогли даже набравшие максимальный балл на ЕГЭ](2026/08/17/prizery-olimpiad-zaniali-vse-biudzhetnye-mesta-na-nekotorykh-fakultetakh-luchshikh-rossiiskikh-vuzov-postupit-tuda-ne-sm.md)

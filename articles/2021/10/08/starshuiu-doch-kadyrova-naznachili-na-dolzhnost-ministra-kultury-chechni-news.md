@@ -23,6 +23,6 @@ tags: "кадыров, чечня, минкульт, семья, sf"
 
 Год назад Рамзан Кадыров сообщил о назначении своей старшей дочери на должность первого заместителя министра культуры Чечни. Помимо этого, она руководит модным домом Firdaws. В феврале 2020 года в Париже состоялся показ ее работ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/02/27/84081-vysokaya-chechenskaya-moda-prishla-v-parizh
+**Читайте также:** [Высокая чеченская мода пришла в Париж](2020/02/27/84081-vysokaya-chechenskaya-moda-prishla-v-parizh.md)
 
-В декабре 2020 года еще одну дочь Кадырова — 20-летнюю Хадижат — [назначили](https://novayagazeta.ru/news/2020/12/11/166376-doch-kadyrova-naznachili-glavoy-departamenta-doshkolnogo-obrazovaniya-v-groznom) главой департамента дошкольного образования в Грозном.
+В декабре 2020 года еще одну дочь Кадырова — 20-летнюю Хадижат — [назначили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/12/11/166376-doch-kadyrova-naznachili-glavoy-departamenta-doshkolnogo-obrazovaniya-v-groznom) главой департамента дошкольного образования в Грозном.

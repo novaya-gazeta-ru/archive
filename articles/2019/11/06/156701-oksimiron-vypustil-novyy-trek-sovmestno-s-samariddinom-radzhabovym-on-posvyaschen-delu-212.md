@@ -17,6 +17,6 @@ tags: "sn, раджабов, «московское дело», оксимиро
 
 В описании к видео на официальном канале рэпера [говорится](https://www.youtube.com/watch?v=jBtVWbfte5s), что Оксимирон сделал это для того, чтобы голос человека, «которому ни за что ломают жизнь», услышали как можно больше людей. Он также призвал всех писать заключенным письма.
 
-Самариддин Раджабов был задержан во время акции 27 июля. Его обвиняют в том, что звук от падающей бутылки, которую он бросил в сторону полицейских, [напугал](https://www.novayagazeta.ru/news/2019/10/22/156319-ekspertiza-ustanovila-chto-broshennaya-figurantom-moskovskogo-dela-radzhabovym-butylka-ne-popala-v-politseyskogo) сотрудников МВД. Ему вменяют угрозу применения насилия представителю власти (ч. 1 ст. 318 УК).
+Самариддин Раджабов был задержан во время акции 27 июля. Его обвиняют в том, что звук от падающей бутылки, которую он бросил в сторону полицейских, [напугал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/10/22/156319-ekspertiza-ustanovila-chto-broshennaya-figurantom-moskovskogo-dela-radzhabovym-butylka-ne-popala-v-politseyskogo) сотрудников МВД. Ему вменяют угрозу применения насилия представителю власти (ч. 1 ст. 318 УК).
 
-**link:** https://novayagazeta.ru/articles/2019/10/31/82577-kak-iz-politseyskih-delayut-trusov
+**link:** [Как из полицейских делают трусов](2019/10/31/82577-kak-iz-politseyskih-delayut-trusov.md)

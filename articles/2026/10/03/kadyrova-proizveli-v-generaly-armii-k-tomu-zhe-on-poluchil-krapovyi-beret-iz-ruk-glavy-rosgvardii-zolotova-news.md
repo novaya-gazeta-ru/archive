@@ -23,6 +23,6 @@ tags: ""
 
 Ношение крапового берета в российских силах спецподразделений с 1988 года [надо заслужить](https://rosguard.gov.ru/news/article/sem-specnazovcev-rosgvardii-stali-obladatelyami-krapovyx-beretov-v-podmoskove-video), сдав специальный квалификационный экзамен на экстремальную выносливость.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/28/eks-komandira-gruppirovok-tsentr-i-sever-lapina-naznachili-vitse-premerom-tatarstana-kadyrov-nazyval-ego-bezdarem-a-prigozhin-treboval-otpravit-s-avtomatom-bosikom-na-peredovuiu-news
+**Читайте также:** [Экс-командира группировок «Центр» и «Север» Лапина назначили вице-премьером Татарстана. Кадыров называл его «бездарем», а Пригожин требовал отправить «с автоматом босиком на передовую»](2026/09/28/eks-komandira-gruppirovok-tsentr-i-sever-lapina-naznachili-vitse-premerom-tatarstana-kadyrov-nazyval-ego-bezdarem-a-prig.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/07/starshii-syn-kadyrova-20-letnii-akhmat-ko-dniu-fizkulturnika-stal-geroem-chechni-mladshii-adam-kadyrov-stal-geroem-chechni-mesiats-nazad-news
+**Читайте также:** [Старший сын Кадырова, 20-летний Ахмат, ко дню физкультурника стал героем Чечни. Младший, Адам Кадыров, стал героем Чечни месяц назад](2026/08/07/starshii-syn-kadyrova-20-letnii-akhmat-ko-dniu-fizkulturnika-stal-geroem-chechni-mladshii-adam-kadyrov-stal-geroem-chech.md)

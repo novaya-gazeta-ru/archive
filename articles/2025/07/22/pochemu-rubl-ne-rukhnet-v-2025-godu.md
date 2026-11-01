@@ -24,6 +24,6 @@ tags: ""
 
 **Произведено: «НО.Медиа из России»:** https://youtu.be/Rq1r1OU6OlU
 
-**Смотрите также:** https://novayagazeta.ru/articles/2025/07/16/demograficheskii-krizis-v-rossii-pochemu-vlasti-ne-khotiat-pokazyvat-tsifry
+**Смотрите также:** [Демографический кризис в России: почему власти не хотят показывать цифры?](2025/07/16/demograficheskii-krizis-v-rossii-pochemu-vlasti-ne-khotiat-pokazyvat-tsifry.md)
 
 #### * Внесен властями РФ в реестр «иноагентов».

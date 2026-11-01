@@ -30,6 +30,6 @@ tags: "заказчик, убийство, права человека, эсте
 
 С нами можно связаться по адресу: info@rawinwar.org
 
-**novaya:** https://novayagazeta.ru/articles/2019/07/15/81247-ne-nosila-platka-i-obhodila-prospekt-putina
+**novaya:** [Не носила платка и обходила проспект Путина](2019/07/15/81247-ne-nosila-platka-i-obhodila-prospekt-putina.md)
 
-**novaya:** https://novayagazeta.ru/articles/2019/07/15/81246-mama-tak-svetilas-v-poslednie-dni
+**novaya:** [«Мама так светилась в последние дни»](2019/07/15/81246-mama-tak-svetilas-v-poslednie-dni.md)

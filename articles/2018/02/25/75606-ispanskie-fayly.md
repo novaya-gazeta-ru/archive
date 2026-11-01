@@ -23,14 +23,14 @@ tags: "испания, геннадий петров, русская мафия"
 
 Подробности масштабного испанского уголовного дела читайте в расследованиях «Новой газеты», которые публиковались с 2008 года, когда мы впервые получили доступ к материалам следствия и выявили дополнительные любопытные связи между Петровым, Малышевым и российской деловой и политической элитой, включая людей из близкого окружения главы государства.
 
-**link:** https://novayagazeta.ru/articles/2008/07/13/37272-hermanos-de-tambov
+**link:** [Hermanos de Tambov](2008/07/13/37272-hermanos-de-tambov.md)
 
-**link:** https://novayagazeta.ru/articles/2008/10/22/36103-palma-mater
+**link:** [Пальма-матер](2008/10/22/36103-palma-mater.md)
 
-**link:** https://novayagazeta.ru/articles/2009/11/02/40585-ptentsy-gnezda-petrova
+**link:** [Птенцы гнезда Петрова-1](2009/11/02/40585-ptentsy-gnezda-petrova.md)
 
-**link:** https://novayagazeta.ru/articles/2009/11/08/40519-ptentsy-gnezda-petrova
+**link:** [Птенцы гнезда Петрова-2](2009/11/08/40519-ptentsy-gnezda-petrova.md)
 
-**link:** https://novayagazeta.ru/articles/2009/11/16/40416-ptentsy-gnezda-petrova
+**link:** [Птенцы гнезда Петрова-3](2009/11/16/40416-ptentsy-gnezda-petrova.md)
 
-**link:** https://novayagazeta.ru/articles/2015/06/04/64410-ministr-tolik-inspektor-aksimych-i-drugie-druzya-petrova-materialy-ispanskoy-171-proslushki-187
+**link:** [Министр Толик, инспектор Аксимыч и другие друзья Петрова. Материалы испанской «прослушки»](2015/06/04/64410-ministr-tolik-inspektor-aksimych-i-drugie-druzya-petrova-materialy-ispanskoy-171-proslushki-187.md)

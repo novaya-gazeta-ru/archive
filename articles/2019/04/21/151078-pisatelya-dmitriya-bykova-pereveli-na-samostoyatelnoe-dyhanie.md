@@ -19,6 +19,6 @@ tags: "быков, болезнь, больница, va"
 
 «Сегодня около 14 часов в связи с улучшением самочувствия Быков был переведен на самостоятельное дыхание, он реагирует на обращение врачей и близких», — сообщил он.
 
-**link:** https://novayagazeta.ru/articles/2019/03/23/79977-tranzitnoe
+**link:** [Транзитное](2019/03/23/79977-tranzitnoe.md)
 
-Напомним, Дмитрий Быков [почувствовал](https://www.novayagazeta.ru/news/2019/04/17/150945-v-ufe-gospitalizirovali-pisatelya-dmitriya-bykova) себя плохо в аэропорту Уфы 16 апреля, куда прилетел читать лекцию, и был доставлен в местную больницу в тяжелом, но стабильном состоянии. После его перевезли на лечение в Москву в НИИ им. Бурденко, врачи которого накануне [сообщали](https://www.novayagazeta.ru/news/2019/04/20/151059-v-sostoyanii-zdorovya-dmitriya-bykova-nablyudayutsya-polozhitelnye-izmeneniya-muratov) об улучшении в его состоянии.
+Напомним, Дмитрий Быков [почувствовал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/04/17/150945-v-ufe-gospitalizirovali-pisatelya-dmitriya-bykova) себя плохо в аэропорту Уфы 16 апреля, куда прилетел читать лекцию, и был доставлен в местную больницу в тяжелом, но стабильном состоянии. После его перевезли на лечение в Москву в НИИ им. Бурденко, врачи которого накануне [сообщали](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/04/20/151059-v-sostoyanii-zdorovya-dmitriya-bykova-nablyudayutsya-polozhitelnye-izmeneniya-muratov) об улучшении в его состоянии.

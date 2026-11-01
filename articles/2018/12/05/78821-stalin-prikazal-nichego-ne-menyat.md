@@ -21,7 +21,7 @@ tags: "ссср, вторая мировая война, история, 28 па
 
 Но главное другое: на безвестность, на забвение обрекли множество сражавшихся за Москву настоящих героев, чьи имена вовсе остались неизвестными. И теперь их уже не узнать!
 
-**link:** https://novayagazeta.ru/articles/2016/11/17/70568-pohozhe-na-gramotnuyu-voenno-istoricheskuyu-rekonstruktsiyu
+**link:** [https://novayagazeta.ru/articles/2016/11/17/70568-pohozhe-na-gramotnuyu-voenno-istoricheskuyu-rekonstruktsiyu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2016/11/17/70568-pohozhe-na-gramotnuyu-voenno-istoricheskuyu-rekonstruktsiyu)
 
 Что установила военная прокуратура?
 

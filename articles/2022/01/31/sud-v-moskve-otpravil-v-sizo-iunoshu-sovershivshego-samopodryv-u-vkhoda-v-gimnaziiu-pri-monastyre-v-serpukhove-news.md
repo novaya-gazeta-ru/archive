@@ -15,8 +15,8 @@ tags: ""
 
 Юноше избрали меру пресечения до 31 марта. Струженкову вменяется в вину приготовление к убийству двух и более лиц (ч. 3 ст. 30, п.п. «а», «е», «и» ч. 2 ст. 105 УК) и ч. 1 ст. 223.1 УК (незаконное изготовление взрывчатки).
 
-Струженков — выпускник православной гимназии в Серпухове — [совершил](https://novayagazeta.ru/articles/2021/12/13/v-serpukhovskom-zhenskom-monastyre-srabotalo-samodelnoe-vzryvnoe-ustroistvo-est-postradavshie-news) самоподрыв у ее здания 13 декабря. В результате произошедшего пострадали 12 человек, большинство из которых — школьники.
+Струженков — выпускник православной гимназии в Серпухове — [совершил](2021/12/13/v-serpukhovskom-zhenskom-monastyre-srabotalo-samodelnoe-vzryvnoe-ustroistvo-est-postradavshie-news.md) самоподрыв у ее здания 13 декабря. В результате произошедшего пострадали 12 человек, большинство из которых — школьники.
 
-Источник ТАСС [сообщал](https://tass.ru/proisshestviya/13184231), что сотрудники частной охранной организации нажали кнопку тревожной сигнализации сразу после взрыва. Однако в момент происшествия, по словам собеседника агентства, на месте вместо охранника находился лишь один вахтер. После произошедшего прокуратура Подмосковья [начала](https://novayagazeta.ru/articles/2021/12/14/prokuratura-nachala-proverku-organizatsii-okhrany-v-chastnykh-shkolakh-podmoskovia-posle-vzryva-v-serpukhovskom-monastyre-news) проверку систем охраны негосударственных образовательных учреждениях региона.
+Источник ТАСС [сообщал](https://tass.ru/proisshestviya/13184231), что сотрудники частной охранной организации нажали кнопку тревожной сигнализации сразу после взрыва. Однако в момент происшествия, по словам собеседника агентства, на месте вместо охранника находился лишь один вахтер. После произошедшего прокуратура Подмосковья [начала](2021/12/14/prokuratura-nachala-proverku-organizatsii-okhrany-v-chastnykh-shkolakh-podmoskovia-posle-vzryva-v-serpukhovskom-monastyr.md) проверку систем охраны негосударственных образовательных учреждениях региона.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/14/ne-potiagivatsia-ne-zevat-pokhodku-imet-rovnuiu
+**Читайте также:** [https://novayagazeta.ru/articles/2021/12/14/ne-potiagivatsia-ne-zevat-pokhodku-imet-rovnuiu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/12/14/ne-potiagivatsia-ne-zevat-pokhodku-imet-rovnuiu)

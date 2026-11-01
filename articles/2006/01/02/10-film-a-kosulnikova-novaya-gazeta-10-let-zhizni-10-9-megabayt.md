@@ -11,4 +11,4 @@ tags: ""
 
 # Фильм А. Косульникова "«Новая газета» – 10 лет жизни". (10,9 мегабайт)
 
-[Скачать видео](https://novayagazeta.ru/storage/d/2006/01/02/10-let.rm)
+[Скачать видео](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2006/01/02/10-let.rm)

@@ -25,8 +25,8 @@ tags: "татарстан, русские, возбуждение ненавис
 
 В прошлом году прокуратура Татарстана потребовала признать Всетатарский общественный центр экстремистской организацией. В марте 2021 года у них в офисе [прошли](https://www.kommersant.ru/doc/4713583) обыски, были изъяты документы, телефоны и компьютеры. Суд на данный момент рассматривает это дело.
 
-**Читайте также:** https://novayagazeta.ru/articles/2019/10/14/82349-ugra-kak-ideya
+**Читайте также:** [Угра как идея](2019/10/14/82349-ugra-kak-ideya.md)
 
-По статье о возбуждении ненависти к русским в августе этого года комика Идрака Мирзализаде [арестовали](https://novayagazeta.ru/articles/2021/08/09/komika-idraka-mirzalizade-arestovali-na-10-sutok-za-shutku-pro-matras-news) на десять суток. Прокурорская проверка нашла «признаки унижения группы лиц, выделенной по национальному признаку, а также пропаганды ее неполноценности» в одной из его шуток.
+По статье о возбуждении ненависти к русским в августе этого года комика Идрака Мирзализаде [арестовали](2021/08/09/komika-idraka-mirzalizade-arestovali-na-10-sutok-za-shutku-pro-matras-news.md) на десять суток. Прокурорская проверка нашла «признаки унижения группы лиц, выделенной по национальному признаку, а также пропаганды ее неполноценности» в одной из его шуток.
 
-МВД [объявило](https://novayagazeta.ru/articles/2021/09/07/komik-idrak-mirzalizade-podal-isk-k-rossiiskomu-mvd-iz-za-pozhiznennogo-zapreta-na-vezd-v-stranu-news) Мирзализаде пожизненно «нежелательным» в России, но суд [приостановил](https://novayagazeta.ru/articles/2021/09/16/sud-priostanovil-deistvie-rasporiazheniia-mvd-o-nezhelatelnosti-prebyvaniia-v-rossii-komika-idraka-mirzalizade-news) действие этого распоряжения. Позднее он предписал МВД установить «разумный» срок ограничения.
+МВД [объявило](2021/09/07/komik-idrak-mirzalizade-podal-isk-k-rossiiskomu-mvd-iz-za-pozhiznennogo-zapreta-na-vezd-v-stranu-news.md) Мирзализаде пожизненно «нежелательным» в России, но суд [приостановил](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/16/sud-priostanovil-deistvie-rasporiazheniia-mvd-o-nezhelatelnosti-prebyvaniia-v-rossii-komika-idraka-mirzalizade-news) действие этого распоряжения. Позднее он предписал МВД установить «разумный» срок ограничения.

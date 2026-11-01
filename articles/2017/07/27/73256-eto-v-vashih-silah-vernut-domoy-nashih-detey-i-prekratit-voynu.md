@@ -53,6 +53,6 @@ tags: "украина, клых, агеев виктор"
 > ### Кто такой Виктор Агеев\
 >  Ефрейтор Виктор Агеев был взят в плен военными украинской армии 24 июня 2017 года в Луганской области. Агеев заявил, что является военнослужащим вооруженных сил России.. Власти Украины обвиняет его в терроризме. Следствие ведет СБУ.
 
-**link:** https://novayagazeta.ru/articles/2017/07/23/73205-ya-hochu-chtoby-menya-vytaschili-otsyuda
+**link:** [«Я хочу, чтобы меня вытащили отсюда»](2017/07/23/73205-ya-hochu-chtoby-menya-vytaschili-otsyuda.md)
 
-**link:** https://novayagazeta.ru/articles/2017/06/30/72974-ya-verila-chto-nas-tam-net-na-ukraine
+**link:** [«Я верила, что нас там нет, на Украине» (ВИДЕО)](2017/06/30/72974-ya-verila-chto-nas-tam-net-na-ukraine.md)

@@ -41,7 +41,7 @@ tags: "чм по футболу, футбол"
 
 *Фото: @korowin69 / Twitter*
 
-**link:** https://novayagazeta.ru/articles/2018/06/20/76884-sankt-peterburg-moskva-noch-emotsiy
+**link:** [Санкт-Петербург — Москва: ночь эмоций](2018/06/20/76884-sankt-peterburg-moskva-noch-emotsiy.md)
 
 ![](_assets/56/56ccfcbd8b561d28bc78407ac379834a.webp)
 
@@ -71,4 +71,4 @@ tags: "чм по футболу, футбол"
 
 *Юрий Дудь: «Теперь понятно, почему Германия не сломалась». Фото: yurydud / Instagram*
 
-**link:** https://novayagazeta.ru/articles/2018/06/20/76870-zatartes-schastiem-vprok
+**link:** [Затарьтесь счастьем впрок](2018/06/20/76870-zatartes-schastiem-vprok.md)

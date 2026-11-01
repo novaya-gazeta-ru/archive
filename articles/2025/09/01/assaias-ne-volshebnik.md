@@ -47,4 +47,4 @@ tags: ""
 
 **Зара Абдуллаева **
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/27/dzharmush-dante-i-kremlevskie-volshebniki
+**Читайте также:** [Джармуш, Данте и «кремлевские волшебники»](2025/08/27/dzharmush-dante-i-kremlevskie-volshebniki.md)

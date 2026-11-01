@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2014/03/20/1395333304_838436_46.jpg" style="width: 346px; height: 243px;"><sup>Роман Терюшков. Фото: официальный сайт органов местного самоуправления городского округа Балашиха</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/03/20/1395333304_838436_46.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/03/20/1395333304_838436_46.jpg)" style="width: 346px; height: 243px;"><sup>Роман Терюшков. Фото: официальный сайт органов местного самоуправления городского округа Балашиха</sup></td>
 		</tr>
 	</tbody>]*
 

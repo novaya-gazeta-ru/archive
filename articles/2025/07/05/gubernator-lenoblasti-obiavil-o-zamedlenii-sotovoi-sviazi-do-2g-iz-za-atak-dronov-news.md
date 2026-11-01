@@ -15,7 +15,7 @@ tags: ""
 
 Одновременно аэропорт «Пулково» вновь [приостановил](https://t.me/pulkovo_led/4409) обслуживание рейсов.
 
-Минувшей ночью Ленобласть область [уже подвергалась](https://novayagazeta.ru/articles/2025/07/05/minoborony-soobshchilo-o-trekh-volnakh-atak-bpla-na-regiony-rf-2-bespilotnika-sbity-na-podlete-k-moskve-news) налету украинских БПЛА, и «Пулково» приостанавливал работу, были задержаны более 50 рейсов.
+Минувшей ночью Ленобласть область [уже подвергалась](2025/07/05/minoborony-soobshchilo-o-trekh-volnakh-atak-bpla-na-regiony-rf-2-bespilotnika-sbity-na-podlete-k-moskve-news.md) налету украинских БПЛА, и «Пулково» приостанавливал работу, были задержаны более 50 рейсов.
 
 До начала новой воздушной тревоги еще не все из задержанных с ночи рейсов были отправлены. А 8 рейсов были отменены совсем.
 

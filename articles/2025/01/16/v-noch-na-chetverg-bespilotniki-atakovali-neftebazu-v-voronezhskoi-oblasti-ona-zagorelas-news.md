@@ -27,6 +27,6 @@ tags: ""
 
 Гусев опубликовал фотографии горящего резервуара нефтебазы. Рассказал, что к тушению привлечены два пожарных поезда и десятки единиц техники поменьше, стянуты дополнительные силы из двух соседних регионов. «На доступность ГСМ ситуация не повлияет», — обещает чиновник.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/14/obiasnite-nakonets-chto-delat-liudiam-kogda-slyshen-voi-siren
+**Читайте также:** [«Объясните, наконец, что делать людям, когда слышен вой сирен»](2025/01/14/obiasnite-nakonets-chto-delat-liudiam-kogda-slyshen-voi-siren.md)
 
-Ранее возгорание на нефтебазе в Саратовском Энгельсе 8 января тушили [более пяти дней](https://novayagazeta.ru/articles/2025/01/13/pozhar-na-neftebaze-v-engelse-potushili-spustia-piat-dnei-news), погибли двое спасателей. А затем, после очередного налета БПЛА, нефтебаза [загорелась снова](https://novayagazeta.ru/articles/2025/01/14/rossiiskie-regiony-podverglis-krupneishei-s-nachala-goda-atake-bespilotnikov-news) 14 января. Власти ввели в области режим ЧС.
+Ранее возгорание на нефтебазе в Саратовском Энгельсе 8 января тушили [более пяти дней](2025/01/13/pozhar-na-neftebaze-v-engelse-potushili-spustia-piat-dnei-news.md), погибли двое спасателей. А затем, после очередного налета БПЛА, нефтебаза [загорелась снова](2025/01/14/rossiiskie-regiony-podverglis-krupneishei-s-nachala-goda-atake-bespilotnikov-news.md) 14 января. Власти ввели в области режим ЧС.

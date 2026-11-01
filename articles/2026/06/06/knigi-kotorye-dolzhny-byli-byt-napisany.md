@@ -84,4 +84,4 @@ tags: ""
 
 **Макс Володин**
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/05/30/normalnost-novaia-gumannost
+**Читайте также:** [Нормальность — новая гуманность](2026/05/30/normalnost-novaia-gumannost.md)

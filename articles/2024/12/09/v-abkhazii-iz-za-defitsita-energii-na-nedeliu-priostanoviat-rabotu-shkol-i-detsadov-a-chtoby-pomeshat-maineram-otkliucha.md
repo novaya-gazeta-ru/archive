@@ -31,4 +31,4 @@ tags: ""
 
 Бганба обратился к России за помощью.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/03/parlament-abkhazii-progolosoval-protiv-soglasheniia-s-rossiei-posle-shturma-zdaniia-i-otstavki-prezidenta-iz-za-etogo-dokumenta-news
+**Читайте также:** [Парламент Абхазии проголосовал против соглашения с Россией после штурма здания и отставки президента из-за этого документа](2024/12/03/parlament-abkhazii-progolosoval-protiv-soglasheniia-s-rossiei-posle-shturma-zdaniia-i-otstavki-prezidenta-iz-za-etogo-do.md)

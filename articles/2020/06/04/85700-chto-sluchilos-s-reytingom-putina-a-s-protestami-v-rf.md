@@ -17,4 +17,4 @@ tags: "как это устроено, реакция, путин, рейтин�
 
 Интервьюирует заместитель главного редактора «Новой» Андрей Липский.
 
-**link:** https://novayagazeta.ru/articles/2020/04/23/85054-prosto-my-ne-rabotaem-na-kreml
+**link:** [«Просто мы не работаем на Кремль»](2020/04/23/85054-prosto-my-ne-rabotaem-na-kreml.md)

@@ -16,18 +16,18 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/17/1371479550_884646_0.jpg" style="width: 340px; height: 255px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/17/1371479550_884646_0.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/17/1371479550_884646_0.jpg)" style="width: 340px; height: 255px;"><br>
 				<em><sup>В Плесе смотрят последний фильм Балабанова «Я тоже хочу»</sup></em><br>
 				<sup>Фото автора</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/17/1371479551_406004_46.jpg" style="width: 340px; height: 456px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/17/1371479551_406004_46.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/17/1371479551_406004_46.jpg)" style="width: 340px; height: 456px;"><br>
 				<em><sup>Файнс изучает документы архива Тарковского</sup></em></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/17/1371479551_737779_56.jpg" style="width: 340px; height: 255px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/17/1371479551_737779_56.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/17/1371479551_737779_56.jpg)" style="width: 340px; height: 255px;"><br>
 				<em><sup>Рэйф Файнс фотографирует жительниц Юрьевца. Жительницы Юрьевца танцуют для Файнса</sup></em></td>
 		</tr>
 	</tbody>]*

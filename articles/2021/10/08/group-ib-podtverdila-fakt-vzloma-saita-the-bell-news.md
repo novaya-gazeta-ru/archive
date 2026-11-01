@@ -19,18 +19,18 @@ tags: "взлом, the bell, group-ib, da"
 
 В период с 30 августа 12:40 мск по 31 августа 05:15 мск сайт The Bell активно сканировался при помощи ПО Burp Suite, предназначенного для проверки наличия ряда уязвимостей веб-приложений», — говорится в отчете Group-IB.
 
-Утром 2 сентября редакция The Bell [заявила](https://novayagazeta.ru/articles/2021/09/02/redaktsiia-the-bell-zaiavila-o-vzlome-podpischiki-izdaniia-poluchili-strannyi-provokatsionnyi-tekst-o-boikote-vyborov-v-gosdumu-news), что их взломали, и издание не имеет отношения к утренней почтовой рассылке со «странным провокационным текстом». Подписчики издания получили письма, в которых сообщается, что издание «поддерживает бойкот выборов в Государственную думу и призывает всех поступить так же». Компания Group-IB пообещала провести расследование инцидента.
+Утром 2 сентября редакция The Bell [заявила](2021/09/02/redaktsiia-the-bell-zaiavila-o-vzlome-podpischiki-izdaniia-poluchili-strannyi-provokatsionnyi-tekst-o-boikote-vyborov-v-.md), что их взломали, и издание не имеет отношения к утренней почтовой рассылке со «странным провокационным текстом». Подписчики издания получили письма, в которых сообщается, что издание «поддерживает бойкот выборов в Государственную думу и призывает всех поступить так же». Компания Group-IB пообещала провести расследование инцидента.
 
-Вскоре после взлома сайта издания «Россия 24» выпустила «разоблачающий» сюжет про рассылку якобы от The Bell. «Почерк не журналистов, но пропагандистов. Причем крайне агрессивных, объявляющих электоральный процесс заведомо нечестным», — [заявил](https://novayagazeta.ru/articles/2021/09/03/smotritsia-takoe-vesma-stranno-provokatsionno-na-rossii-24-vyshel-razoblachaiushchii-siuzhet-o-vzlome-the-bell-news) телеведущий Алексей Казаков.
+Вскоре после взлома сайта издания «Россия 24» выпустила «разоблачающий» сюжет про рассылку якобы от The Bell. «Почерк не журналистов, но пропагандистов. Причем крайне агрессивных, объявляющих электоральный процесс заведомо нечестным», — [заявил](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/03/smotritsia-takoe-vesma-stranno-provokatsionno-na-rossii-24-vyshel-razoblachaiushchii-siuzhet-o-vzlome-the-bell-news) телеведущий Алексей Казаков.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/03/kto-zvonit-v-kolokolchik
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/03/kto-zvonit-v-kolokolchik](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/03/kto-zvonit-v-kolokolchik)
 
-За неделю до взлома The Bell [сообщил](https://novayagazeta.ru/articles/2021/08/25/the-bell-soobshchil-ob-atake-na-saite-izdaniia-news), что сайт издания подвергся внешней атаке и работал с перебоями. Источник и цели атаки издание выяснить не смогло. До этого злоумышленники [попытались взломать](https://novayagazeta.ru/articles/2021/08/12/neizvestnye-popytalis-vzlomat-telefon-zhurnalistki-the-bell-pankratovoi-za-nei-mogli-sledit-fizicheski-news) телефон журналиста The Bell Ирины Панкратовой. Они заказали в офисе «Мегафона» детализацию звонков и сообщений Панкратовой по поддельным документам.
+За неделю до взлома The Bell [сообщил](2021/08/25/the-bell-soobshchil-ob-atake-na-saite-izdaniia-news.md), что сайт издания подвергся внешней атаке и работал с перебоями. Источник и цели атаки издание выяснить не смогло. До этого злоумышленники [попытались взломать](2021/08/12/neizvestnye-popytalis-vzlomat-telefon-zhurnalistki-the-bell-pankratovoi-za-nei-mogli-sledit-fizicheski-news.md) телефон журналиста The Bell Ирины Панкратовой. Они заказали в офисе «Мегафона» детализацию звонков и сообщений Панкратовой по поддельным документам.
 
-В конце сентября основателя Group-IB Илью Сачкова суд [отправил](https://novayagazeta.ru/articles/2021/09/29/osnovatelia-group-ib-iliu-sachkova-otpravili-v-sizo-po-delu-o-gosizmene-news) в СИЗО по делу о госизмене (ст. 275 УК). До этого в штаб-квартире его компании прошли обыски.
+В конце сентября основателя Group-IB Илью Сачкова суд [отправил](2021/09/29/osnovatelia-group-ib-iliu-sachkova-otpravili-v-sizo-po-delu-o-gosizmene-news.md) в СИЗО по делу о госизмене (ст. 275 УК). До этого в штаб-квартире его компании прошли обыски.
 
 35-летний предприниматель основал Group-IB в 2003 году как группу по расследованию IT-инцидентов. Сейчас его компания считается одним из ведущих разработчиков решений для детектирования и предотвращения кибератак, выявления мошенничества и защиты интеллектуальной собственности в сети.
 
 Group-IB сотрудничает с Интерполом, Европолом и ОБСЕ, оказывает помощь российским спецслужбам и правоохранительным органам в операциях против хакерских группировок.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/29/chelovek-pervogo-softa
+**Читайте также:** [Человек первого софта](2021/09/29/chelovek-pervogo-softa.md)

@@ -29,8 +29,8 @@ tags: "украина, зеленский, госпереворот, война,
 
 Пресс-секретарь президента РФ Дмитрий Песков, комментируя информацию о госперевороте, [сказал](https://tass.ru/politika/13033515), что «Россия никогда не занимается вообще такими делами».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/23/voiny-ne-budet-potomu-chto-ee-mozhno-proigrat
+**Читайте также:** [Войны не будет. Потому что ее можно проиграть](2021/11/23/voiny-ne-budet-potomu-chto-ee-mozhno-proigrat.md)
 
-Ранее Bloomberg [сообщал](https://novayagazeta.ru/articles/2021/11/22/bloomberg-soobshchil-o-podgotovke-moskvy-k-vtorzheniiu-v-ukrainu-v-kremle-eto-nazvali-vbrosom-i-kamufliazhem-dlia-agressivnykh-pomyslov-news) со ссылкой на источники, что США поделились со своими европейскими союзниками разведданными о сосредоточении российских войск и артиллерии с целью вероятного вторжения в Украину. По данным агентства, в разведке считают, что Россия, возможно, планирует напасть на Украину в начале следующего года, когда все войска соберутся у границы.
+Ранее Bloomberg [сообщал](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/22/bloomberg-soobshchil-o-podgotovke-moskvy-k-vtorzheniiu-v-ukrainu-v-kremle-eto-nazvali-vbrosom-i-kamufliazhem-dlia-agressivnykh-pomyslov-news) со ссылкой на источники, что США поделились со своими европейскими союзниками разведданными о сосредоточении российских войск и артиллерии с целью вероятного вторжения в Украину. По данным агентства, в разведке считают, что Россия, возможно, планирует напасть на Украину в начале следующего года, когда все войска соберутся у границы.
 
 В Кремле это назвали «вбросом» и «камуфляжем для агрессивных помыслов».

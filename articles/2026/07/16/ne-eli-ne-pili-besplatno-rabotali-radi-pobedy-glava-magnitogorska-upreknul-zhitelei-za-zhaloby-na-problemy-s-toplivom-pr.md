@@ -23,6 +23,6 @@ tags: ""
 
 То, что дефицит топлива в России возник из-за атак дронов, [признавал](https://tass.ru/ekonomika/27905445) и вице-премьер Александр Новак.
 
-Власти предлагали создать по России сеть мини-НПЗ — потому что «чем шире сеть, тем сложнее нанести ущерб», [говорил](https://novayagazeta.ru/articles/2026/07/08/vlasti-zapretili-eksport-dizelia-iz-rossii-iz-za-toplivnogo-krizisa-a-putin-podderzhal-ideiu-sozdat-mini-npz-chtoby-dronam-slozhnee-bylo-nanesti-ushcherb-news) Путин. Однако эксперты считают это экономически совершенно не выгодным.
+Власти предлагали создать по России сеть мини-НПЗ — потому что «чем шире сеть, тем сложнее нанести ущерб», [говорил](2026/07/08/vlasti-zapretili-eksport-dizelia-iz-rossii-iz-za-toplivnogo-krizisa-a-putin-podderzhal-ideiu-sozdat-mini-npz-chtoby-dron.md) Путин. Однако эксперты считают это экономически совершенно не выгодным.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/07/peskov-zaiavil-o-voine
+**Читайте также:** [Песков заявил о войне](2026/07/07/peskov-zaiavil-o-voine.md)

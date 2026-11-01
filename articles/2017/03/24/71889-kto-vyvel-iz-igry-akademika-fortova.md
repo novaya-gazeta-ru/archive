@@ -37,4 +37,4 @@ tags: "российская академия наук"
 
 Премьер-министр Дмитрий Медведев уже пообещал оказать организации «юридическую поддержку» и не допустить в академии «коллапса».
 
-**link:** https://novayagazeta.ru/articles/2017/03/24/71890-kakoe-otvratitelnoe-ohotnoryadskoe-zrelische
+**link:** [«Какое отвратительное охотнорядское зрелище»](2017/03/24/71890-kakoe-otvratitelnoe-ohotnoryadskoe-zrelische.md)

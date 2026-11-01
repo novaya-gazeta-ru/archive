@@ -25,9 +25,9 @@ tags: ""
 
 Моргунов был назначен главой Северодонецка после взятия города российскими военными в 2022 году.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/01/bremia-geroev-ili-zagon-dlia-elity
+**Читайте также:** [Бремя героев, или Загон для элиты](2024/11/01/bremia-geroev-ili-zagon-dlia-elity.md)
 
-А в декабре 2024 года в результате совместной операции спецслужб задержали и обезвредили членов группировки [чиновников-мародеров в ДНР](https://novayagazeta.ru/articles/2024/12/07/fsb-i-skr-obezvredila-prestupnuiu-gruppirovku-donetskikh-chinovnikov-maroderov-eto-pervyi-sluchai-v-rossii-news).
+А в декабре 2024 года в результате совместной операции спецслужб задержали и обезвредили членов группировки [чиновников-мародеров в ДНР](2024/12/07/fsb-i-skr-obezvredila-prestupnuiu-gruppirovku-donetskikh-chinovnikov-maroderov-eto-pervyi-sluchai-v-rossii-news.md).
 
 Среди задержанных были экс-зампред правительства ДНР Владимир Рущак, ранее бывший министром промышленности и торговли, его помощник Сергей Голощапов, бывший мэр Макеевки, руководитель ГУП «Торговый дом „Втормет“» Максим Солдатов и другие.
 

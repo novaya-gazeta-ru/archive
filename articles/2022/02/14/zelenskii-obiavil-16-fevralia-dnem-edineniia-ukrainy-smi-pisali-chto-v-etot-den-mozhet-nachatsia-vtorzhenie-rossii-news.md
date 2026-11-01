@@ -23,10 +23,10 @@ tags: "украина, зеленский, киев, нация, sf"
 
 Издание Politico ранее [сообщило](https://www.politico.com/news/2022/02/11/us-sending-3000-more-troops-to-poland-00008357) со ссылкой на источники, что данные разведки США указывают на 16 февраля как на «вероятную дату вторжения России в Украину».
 
-Последний раз Зеленский [обращался](https://novayagazeta.ru/articles/2022/01/24/prichin-dlia-paniki-net-zelenskii-zaiavil-chto-kiev-rabotaet-nad-polnoi-deeskalatsiei-situatsii-v-donbasse-news) к нации 24 января. Он призывал граждан сохранять спокойствие и подчеркивал, что «причин для паники нет».
+Последний раз Зеленский [обращался](2022/01/24/prichin-dlia-paniki-net-zelenskii-zaiavil-chto-kiev-rabotaet-nad-polnoi-deeskalatsiei-situatsii-v-donbasse-news.md) к нации 24 января. Он призывал граждан сохранять спокойствие и подчеркивал, что «причин для паники нет».
 
-19 января Зеленский [записал](https://novayagazeta.ru/articles/2022/01/19/ukraina-ne-khochet-voiny-vladimir-zelenskii-zapisal-obrashchenie-k-sograzhdanam-news) похожее обращение к согражданам, в котором также призвал не поддаваться панике из-за сообщений о возможности вторжения России. Президент призвал граждан успокоиться, «выдохнуть», не верить фейкам и «не бежать за гречкой».
+19 января Зеленский [записал](2022/01/19/ukraina-ne-khochet-voiny-vladimir-zelenskii-zapisal-obrashchenie-k-sograzhdanam-news.md) похожее обращение к согражданам, в котором также призвал не поддаваться панике из-за сообщений о возможности вторжения России. Президент призвал граждан успокоиться, «выдохнуть», не верить фейкам и «не бежать за гречкой».
 
-Сегодня Норвежская авиакомпания Norwegian [приостановила](https://novayagazeta.ru/articles/2022/02/14/aviakompaniia-norwegian-priostanovila-polety-nad-ukrainoi-vsled-za-klm-news) полеты над Украиной из соображений безопасности вслед за нидерландской KLM. Национальная служба гражданской авиации Италии (ENAC), как [передает](https://ria.ru/20220214/samolety-1772790974.html) РИА Новости, также рекомендовала авиакомпаниям страны избегать воздушного пространства Украины.
+Сегодня Норвежская авиакомпания Norwegian [приостановила](2022/02/14/aviakompaniia-norwegian-priostanovila-polety-nad-ukrainoi-vsled-za-klm-news.md) полеты над Украиной из соображений безопасности вслед за нидерландской KLM. Национальная служба гражданской авиации Италии (ENAC), как [передает](https://ria.ru/20220214/samolety-1772790974.html) РИА Новости, также рекомендовала авиакомпаниям страны избегать воздушного пространства Украины.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/13/tri-dnia-do-16-go
+**Читайте также:** [Три дня до 16-го](2022/02/13/tri-dnia-do-16-go.md)

@@ -13,7 +13,7 @@ tags: "сенцов, пикеты, акции протеста, админист
 
 > **Есть продолжение**
 >
-> [Двоюродная сестра режиссера Наталья Каплан и его адвокат Дмитрий Динзе приняли премию «За свободу мысли» имени Сахарова за Олега Сенцова](https://www.novayagazeta.ru/news/2018/12/12/147546-sentsovu-vruchili-premiyu-imeni-saharova-za-svobodu-mysli)
+> [Двоюродная сестра режиссера Наталья Каплан и его адвокат Дмитрий Динзе приняли премию «За свободу мысли» имени Сахарова за Олега Сенцова](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/12/12/147546-sentsovu-vruchili-premiyu-imeni-saharova-za-svobodu-mysli)
 
 ![](_assets/01/01a4c14238a997805a15aa777496ade3.webp)
 
@@ -43,8 +43,8 @@ tags: "сенцов, пикеты, акции протеста, админист
 
 По словам активистов, полиция не препятствует их сегодняшнему митингу, зато поздравила всех пришедших с днем Конституции.
 
-**link:** https://novayagazeta.ru/articles/2018/10/05/78090-oleg-sentsov-prekratil-golodovku
+**link:** [Отстояли](2018/10/05/78090-oleg-sentsov-prekratil-golodovku.md)
 
 Украинский режиссер Олег Сенцов был осужден в России на 20 лет по обвинению в подготовке терактов в Крыму. В течение 145 дней он держал голодовку с требованием освободить украинских политзаключенных, которые отбывают срок в России.
 
-За время нахождения в колонии Сенцов [стал](https://www.novayagazeta.ru/news/2018/10/23/146198-sentsov-stal-laureatom-premii-ministra-inostrannyh-del-polshi) лауреатом премии министра иностранных дел Польши Pro Dignitate Humana («За человеческое достоинство»), а также [получил](https://www.novayagazeta.ru/news/2018/10/25/146247-oleg-sentsov-stal-laureatom-premii-saharova) премию Сахарова, присуждаемую Европарламентом за вклад в борьбу за права человека. Церемония вручения премии назначена на 12 декабря.
+За время нахождения в колонии Сенцов [стал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/10/23/146198-sentsov-stal-laureatom-premii-ministra-inostrannyh-del-polshi) лауреатом премии министра иностранных дел Польши Pro Dignitate Humana («За человеческое достоинство»), а также [получил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/10/25/146247-oleg-sentsov-stal-laureatom-premii-saharova) премию Сахарова, присуждаемую Европарламентом за вклад в борьбу за права человека. Церемония вручения премии назначена на 12 декабря.

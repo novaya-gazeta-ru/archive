@@ -16,41 +16,41 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/13/1342185936_369882_24.jpg" style="width: 360px; height: 174px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/13/1342185936_369882_24.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/13/1342185936_369882_24.jpg)" style="width: 360px; height: 174px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/13/1342185936_503513_43.jpg" style="width: 360px; height: 276px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/13/1342185936_503513_43.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/13/1342185936_503513_43.jpg)" style="width: 360px; height: 276px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/13/1342185936_643438_0.jpg" style="width: 360px; height: 241px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/13/1342185936_643438_0.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/13/1342185936_643438_0.jpg)" style="width: 360px; height: 241px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/13/1342185950_107932_37.jpg" style="width: 360px; height: 271px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/13/1342185950_107932_37.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/13/1342185950_107932_37.jpg)" style="width: 360px; height: 271px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/13/1342185950_242754_54.jpg" style="width: 360px; height: 241px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/13/1342185950_242754_54.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/13/1342185950_242754_54.jpg)" style="width: 360px; height: 241px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/13/1342185950_383702_64.jpg" style="width: 360px; height: 241px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/13/1342185950_383702_64.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/13/1342185950_383702_64.jpg)" style="width: 360px; height: 241px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/13/1342186021_452831_57.jpg" style="width: 360px; height: 240px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/13/1342186021_452831_57.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/13/1342186021_452831_57.jpg)" style="width: 360px; height: 240px; "><br>
 				<sup>Куратор музея Tate Modern Николас Каллинен</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/13/1342185957_630744_80.jpg" style="width: 360px; height: 241px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/13/1342185957_630744_80.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/13/1342185957_630744_80.jpg)" style="width: 360px; height: 241px; "><br>
 				<sup>Настасья и ее мама Светлана</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/13/1342185957_492675_49.jpg" style="width: 360px; height: 241px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/13/1342185957_492675_49.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/13/1342185957_492675_49.jpg)" style="width: 360px; height: 241px; "><br>
 				<sup>Полина, смотритель музея</sup><br>
 				&nbsp;</td>
 		</tr>

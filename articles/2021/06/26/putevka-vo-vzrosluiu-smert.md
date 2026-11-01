@@ -25,7 +25,7 @@ tags: "петербург, коронавирус, пандемия, смерт�
 
 *Фото: Елена Лукьянова / «Новая газета»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/21/ledovoe-poboishche-s-kovidom
+**Читайте также:** [Ледовое побоище с ковидом](2021/06/21/ledovoe-poboishche-s-kovidom.md)
 
 ![](_assets/fb/fb33a469cc3bb35643ca232e6ec994e6.webp)
 
@@ -43,7 +43,7 @@ tags: "петербург, коронавирус, пандемия, смерт�
 
 *Фото: Елена Лукьянова / «Новая газета»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/22/kak-tolko-v-stolitse-obiavili-dopolnitelnye-vykhodnye-u-nas-poneslos
+**Читайте также:** [«Как только в столице объявили дополнительные выходные, у нас понеслось»](2021/06/22/kak-tolko-v-stolitse-obiavili-dopolnitelnye-vykhodnye-u-nas-poneslos.md)
 
 ![](_assets/57/575e944d8833b7af6cb86ab529dcafe7.webp)
 

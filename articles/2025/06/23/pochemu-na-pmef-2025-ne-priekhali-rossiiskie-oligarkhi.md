@@ -13,7 +13,7 @@ tags: ""
 
 *Подводим итоги Форума с экономистом Дмитрием Прокофьевым*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/21/chia-shapka-pod-zolotym-dozhdem
+**Читайте также:** [Чья шапка под золотым дождем](2025/06/21/chia-shapka-pod-zolotym-dozhdem.md)
 
 Читайте также
 

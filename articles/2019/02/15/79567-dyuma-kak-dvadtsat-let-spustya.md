@@ -57,4 +57,4 @@ tags: "театр, москва"
 
 Тут — высшая точка. Общий щелк ликования: зрители снимают авторов «Дюма» смартфонами.
 
-**link:** https://novayagazeta.ru/articles/2019/01/30/79365-korol-lir-rasstrelyan-v-getto
+**link:** [Король Лир расстрелян в гетто](2019/01/30/79365-korol-lir-rasstrelyan-v-getto.md)

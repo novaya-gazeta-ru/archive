@@ -37,4 +37,4 @@ tags: ""
 
 Защита Бонцлер 19 июня подала заявление о совершении преступления по части 4 ст. 286 УК РФ (превышение должностных полномочий, сопряженное с применением пыток) и, с ее согласия, приняла решение о максимальной огласке (в рамках ограничений, установленных законом) информации об ее деле и о привлечении к нему внимания международных организаций.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/05/29/advokata-mariiu-bontsler-arestovali-po-delu-o-konfidentsialnom-sotrudnichestve-s-inostrantsami-po-ee-delu-proshli-obyski-eshche-u-dvukh-advokatov-news
+**Читайте также:** [Адвоката Марию Бонцлер арестовали по делу о «конфиденциальном сотрудничестве с иностранцами». По ее делу прошли обыски еще у двух адвокатов](2025/05/29/advokata-mariiu-bontsler-arestovali-po-delu-o-konfidentsialnom-sotrudnichestve-s-inostrantsami-po-ee-delu-proshli-obyski.md)

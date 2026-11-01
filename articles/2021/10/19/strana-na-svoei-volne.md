@@ -205,7 +205,7 @@ tags: "ковид, коронавирус, регионы, россия, заб�
 
 **Павел Хаустов**
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/14/chetvertaia-volna-nakroet
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/14/chetvertaia-volna-nakroet](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/14/chetvertaia-volna-nakroet)
 
 # **Новосибирск. Глубинный народ в эпоху ковида**
 
@@ -293,7 +293,7 @@ tags: "ковид, коронавирус, регионы, россия, заб�
 
 8 октября власти Крыма ужесточили коронавирусные ограничения. Половину сотрудников госучреждений и пожилых работников отправили работать удаленно. Студентов перевели на дистанционный режим обучения. Предприятия торговли и общепита, у которых вакцинировано менее 80% работников, обяжут допускать к работе непривитых сотрудников только при наличии у них отрицательных тестов на коронавирус. Предприятия должны за свой счет проводить тестирование не реже одного раза в неделю.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/12/kovid-nepriznannyi-i-chesnok-kak-lekarstvo
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/12/kovid-nepriznannyi-i-chesnok-kak-lekarstvo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/12/kovid-nepriznannyi-i-chesnok-kak-lekarstvo)
 
 # **Кубань. В отель по справке**
 
@@ -363,7 +363,7 @@ tags: "ковид, коронавирус, регионы, россия, заб�
 
 **Александр Шестаков**
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/20/v-raskhod-idut-odni-stariki
+**Читайте также:** [В расход идут одни старики](2021/08/20/v-raskhod-idut-odni-stariki.md)
 
 # **Пермь. Врачи работают на пределе сил**
 

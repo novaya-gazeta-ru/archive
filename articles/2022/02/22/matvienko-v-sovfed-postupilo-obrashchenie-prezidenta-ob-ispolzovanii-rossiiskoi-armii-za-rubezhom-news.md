@@ -17,6 +17,6 @@ tags: "совет федерации, российские войска, пут�
 
 По этому вопросу выступила и сама Матвиенко. Она заявила, что ввод войск направлен на то, чтобы «создать нормальные условия для жизни людей и обеспечить безопасность».
 
-Депутаты Госдумы и члены Совфеда сегодня единогласно [ратифицировали](https://novayagazeta.ru/articles/2022/02/22/gosduma-edinoglasno-ratifitsirovala-dogovory-o-druzhbe-i-vzaimopomoshchi-mezhdu-rossiei-i-ldnr-news) договоры о дружбе, сотрудничестве и взаимной помощи между Россией и «ДНР» и «ЛНР». После этого соответствующие законы [подписал](https://novayagazeta.ru/articles/2022/02/22/putin-podpisal-zakony-o-ratifikatsii-dogovorov-o-druzhbe-i-sotrudnichestve-s-dnr-i-lnr-news) Путин.
+Депутаты Госдумы и члены Совфеда сегодня единогласно [ратифицировали](2022/02/22/gosduma-edinoglasno-ratifitsirovala-dogovory-o-druzhbe-i-vzaimopomoshchi-mezhdu-rossiei-i-ldnr-news.md) договоры о дружбе, сотрудничестве и взаимной помощи между Россией и «ДНР» и «ЛНР». После этого соответствующие законы [подписал](2022/02/22/putin-podpisal-zakony-o-ratifikatsii-dogovorov-o-druzhbe-i-sotrudnichestve-s-dnr-i-lnr-news.md) Путин.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/22/tak-ne-blefuiut
+**Читайте также:** [Юлия Латынина: «Так не блефуют»](2022/02/22/tak-ne-blefuiut.md)

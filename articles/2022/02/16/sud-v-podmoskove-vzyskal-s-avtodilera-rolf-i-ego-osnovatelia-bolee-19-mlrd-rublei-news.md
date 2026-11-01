@@ -21,10 +21,10 @@ tags: "рольф, автодилер, автомобили, бизнесмен�
 
 Генпрокуратура требовала изъять у ответчиков по иску 19,4 млрд рублей в пользу государства.
 
-В 2019 году против Петрова [возбудили](https://novayagazeta.ru/news/2019/06/27/152847-sk-i-fsb-prishli-s-obyskami-k-krupneyshemu-rossiyskomu-avtodileru-rolf) уголовное дело о незаконном выводе за границу 4 млрд рублей. По версии следствия, бизнесмен с тремя подельниками в 2014 году вывел деньги на счета подконтрольной ему кипрской «Панабел лимитед».
+В 2019 году против Петрова [возбудили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/06/27/152847-sk-i-fsb-prishli-s-obyskami-k-krupneyshemu-rossiyskomu-avtodileru-rolf) уголовное дело о незаконном выводе за границу 4 млрд рублей. По версии следствия, бизнесмен с тремя подельниками в 2014 году вывел деньги на счета подконтрольной ему кипрской «Панабел лимитед».
 
-**Читайте также:** https://novayagazeta.ru/articles/2019/06/29/81073-sk-mozhet-priyti-i-zadat-voprosy-prezhde-chem-batalony-prisylat
+**Читайте также:** [«СК может прийти и задать вопросы, прежде чем батальоны присылать?»](2019/06/29/81073-sk-mozhet-priyti-i-zadat-voprosy-prezhde-chem-batalony-prisylat.md)
 
-Петрова объявили в международный розыск, сам он уехал в Австрию. Спустя месяц после возбуждения уголовного дела Петрова и главу департамента развития бизнеса Анатолия Кайро [вывели](https://novayagazeta.ru/news/2019/07/03/153016-osnovatelya-rolfa-sergeya-petrova-i-top-menedzhera-kompanii-anatoliya-kayro-vyveli-iz-soveta-direktorov) из совета директоров компании. Петров заявил, что покинул совет по собственному желанию.
+Петрова объявили в международный розыск, сам он уехал в Австрию. Спустя месяц после возбуждения уголовного дела Петрова и главу департамента развития бизнеса Анатолия Кайро [вывели](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/07/03/153016-osnovatelya-rolfa-sergeya-petrova-i-top-menedzhera-kompanii-anatoliya-kayro-vyveli-iz-soveta-direktorov) из совета директоров компании. Петров заявил, что покинул совет по собственному желанию.
 
-В декабре стало известно, что автодилерская группа «КлючАвто» [приобретет](https://novayagazeta.ru/articles/2021/12/13/kliuchavto-kupit-100-aktsii-avtodilera-rolf-ego-osnovatel-nakhoditsia-v-rozyske-news) 100% акций «Рольфа».
+В декабре стало известно, что автодилерская группа «КлючАвто» [приобретет](2021/12/13/kliuchavto-kupit-100-aktsii-avtodilera-rolf-ego-osnovatel-nakhoditsia-v-rozyske-news.md) 100% акций «Рольфа».

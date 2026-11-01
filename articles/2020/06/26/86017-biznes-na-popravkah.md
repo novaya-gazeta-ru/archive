@@ -51,7 +51,7 @@ tags: "конституция, голосование, средства инди
 
 Карапетян относился к так называемой «борцовской криминальной группировке» Ростова, он был расстрелян в 2004 году в своем автомобиле «Хаммер».
 
-**link:** https://novayagazeta.ru/articles/2020/04/30/85152-posredniki-otechestva
+**link:** [https://novayagazeta.ru/articles/2020/04/30/85152-posredniki-otechestva](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/04/30/85152-posredniki-otechestva)
 
 **По всей России**
 
@@ -89,4 +89,4 @@ tags: "конституция, голосование, средства инди
 
 Жаль, когда врачи жалуются на дефицит, им вместо масок грозят репрессии.
 
-**link:** https://novayagazeta.ru/articles/2020/06/24/85990-krupnaya-partiya-geroizma
+**link:** [Крупная партия героизма](2020/06/24/85990-krupnaya-partiya-geroizma.md)

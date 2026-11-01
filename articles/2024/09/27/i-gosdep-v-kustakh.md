@@ -79,7 +79,7 @@ tags: "адвокат, михаил бирюков, движение, голос
 
 И это при том, что у нас на руках есть несколько решений таких же региональных судов, которыми эта связь не установлена, в этих решениях прямо говорится, что ЕНЕМО и Движение «Голос» никак между собой не связаны. Но эти документы следствием проигнорированы.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/08/22/mikhail-biriukov-teper-bolshinstvo-moikh-podzashchitnykh-moi-druzia-i-znakomye
+**Читайте также:** [https://novayagazeta.ru/articles/2023/08/22/mikhail-biriukov-teper-bolshinstvo-moikh-podzashchitnykh-moi-druzia-i-znakomye](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/08/22/mikhail-biriukov-teper-bolshinstvo-moikh-podzashchitnykh-moi-druzia-i-znakomye)
 
 **—Как можно организовать деятельность нежелательной организации, выступая в ЦИКе? Какова суть решений этих региональных судов? О каких выборах речь?**
 
@@ -133,7 +133,7 @@ tags: "адвокат, михаил бирюков, движение, голос
 
 — Да, именно так.
 
-**Читайте ранее:** https://novayagazeta.ru/articles/2024/02/26/glavnyi-vopros-kak-obespechit-bezopasnost-nabliudatelei
+**Читайте ранее:** [https://novayagazeta.ru/articles/2024/02/26/glavnyi-vopros-kak-obespechit-bezopasnost-nabliudatelei](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/02/26/glavnyi-vopros-kak-obespechit-bezopasnost-nabliudatelei)
 
 **— Это дело отчасти напоминает «дело Анастасии Шевченко», бывшей главы отделения «Открытой России»** в Ростове-на-Дону, организации, признанной «нежелательной» и ликвидированной судом. Шевченко обвинялась в участии в деятельности иностранной «нежелательной организации», хотя она никогда в ней не состояла, а состояла в российской организации с похожим названием, но не в точности таким же.**
 
@@ -191,7 +191,7 @@ tags: "адвокат, михаил бирюков, движение, голос
 
 Но все наблюдатели, которые тем не менее работают на избирательных участках, используют методики, которые в свое время разрабатывались сначала Ассоциацией «Голос», а потом Движением «Голос».
 
-**Читайте ранее:** https://novayagazeta.ru/articles/2023/09/08/poprobuiu-v-sizo-ponabliudat-za-vyborami
+**Читайте ранее:** [«Попробую в СИЗО понаблюдать за выборами»](2023/09/08/poprobuiu-v-sizo-ponabliudat-za-vyborami.md)
 
 **— Расскажите о Григории Мельконьянце. Как он переживает тюремное заключение?**
 

@@ -21,6 +21,6 @@ tags: "одиночные пикеты, права человека, илья а
 
 > **а еще**
 >
-> ### [Больше 30 тысяч человек подписали петицию «Новой газеты» с требованием освободить Илью Азара и всех задержанных за пикеты](https://novayagazeta.ru/news/2020/05/29/161892-bolshe-30-tysyach-chelovek-podpisali-petitsiyu-novoy-gazety-s-trebovaniem-osvobodit-ilyu-azara-i-vseh-zaderzhannyh-za-pikety)
+> ### [Больше 30 тысяч человек подписали петицию «Новой газеты» с требованием освободить Илью Азара и всех задержанных за пикеты](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/05/29/161892-bolshe-30-tysyach-chelovek-podpisali-petitsiyu-novoy-gazety-s-trebovaniem-osvobodit-ilyu-azara-i-vseh-zaderzhannyh-za-pikety)
 >
-> ### [Больше 20 известных журналистов, общественных деятелей и активистов задержали на Петровке, 38, на второй день серии одиночных пикетов за свободу Ильи Азара: фотографии](https://novayagazeta.ru/articles/2020/05/29/85602-novye-zaderzhaniya-u-guvd-moskvy-fotografii)
+> ### [Больше 20 известных журналистов, общественных деятелей и активистов задержали на Петровке, 38, на второй день серии одиночных пикетов за свободу Ильи Азара: фотографии](2020/05/29/85602-novye-zaderzhaniya-u-guvd-moskvy-fotografii.md)

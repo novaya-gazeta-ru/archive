@@ -57,4 +57,4 @@ tags: "искусство, культура, фестиваль, опера, о�
 
 Поэтому придется разговаривать.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/07/31/to-li-dozhdik-proshel-to-li-motsart-prozvuchal
+**Читайте также:** [То ли дождик прошел, то ли Моцарт прозвучал](2023/07/31/to-li-dozhdik-proshel-to-li-motsart-prozvuchal.md)

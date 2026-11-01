@@ -35,7 +35,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2014/03/13/1394744375_644720_19.jpg" style="width: 360px; height: 270px;"><sup>Фото Елены Масюк</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/03/13/1394744375_644720_19.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/03/13/1394744375_644720_19.jpg)" style="width: 360px; height: 270px;"><sup>Фото Елены Масюк</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -58,7 +58,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2014/03/13/1394745403_939276_48.png" style="width: 360px; height: 270px;"><sup>Фото Елены Масюк</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/03/13/1394745403_939276_48.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/03/13/1394745403_939276_48.png)" style="width: 360px; height: 270px;"><sup>Фото Елены Масюк</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -90,7 +90,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2014/03/13/1394744183_401231_63.jpg" style="width: 360px; height: 270px;"><sup>Фото Елены Масюк</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/03/13/1394744183_401231_63.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/03/13/1394744183_401231_63.jpg)" style="width: 360px; height: 270px;"><sup>Фото Елены Масюк</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -132,7 +132,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2014/03/13/1394743526_728512_35.jpg" style="width: 360px; height: 270px;"><em><sup>Татьяна Рихтун, директор медиа-центра IPC «Севастополь»</sup></em></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/03/13/1394743526_728512_35.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/03/13/1394743526_728512_35.jpg)" style="width: 360px; height: 270px;"><em><sup>Татьяна Рихтун, директор медиа-центра IPC «Севастополь»</sup></em></td>
 		</tr>
 	</tbody>]*
 
@@ -157,7 +157,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2014/03/13/1394744183_015469_30.jpg" style="width: 360px; height: 250px;"><sup>Фото Елены Масюк</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/03/13/1394744183_015469_30.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/03/13/1394744183_015469_30.jpg)" style="width: 360px; height: 250px;"><sup>Фото Елены Масюк</sup></td>
 		</tr>
 	</tbody>]*
 

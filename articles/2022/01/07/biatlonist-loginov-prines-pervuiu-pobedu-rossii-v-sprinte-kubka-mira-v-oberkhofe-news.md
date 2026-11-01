@@ -17,6 +17,6 @@ tags: "спорт, биатлон, золотая медаль, логинов, 
  \
  Вторым гонку закончил француз Эмильен Жаклен с двумя промахами и отставанием на 6,5 секунды. Третьим — норвежец Стурла Холм Легрейд с отставанием на 15,1 секунд.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/29/lasitskene-italiia-i-russkie-raketki
+**Читайте также:** [Ласицкене, Италия и русские ракетки](2021/12/29/lasitskene-italiia-i-russkie-raketki.md)
 
-В декабре россиянин Эдуард Латыпов [завоевал](https://novayagazeta.ru/articles/2021/12/18/rossiianin-eduard-latypov-zavoeval-serebro-gonki-presledovaniia-na-etape-kubka-mira-po-biatlonu-v-ansi-news)серебро гонки преследования на этапе Кубка мира по биатлону в Анси. Кубок мира в Оберхофе спортсмен вынужден [пропустить](https://matchtv.ru/biathlon/matchtvnews_NI1465740_Nam_prihoditsa_derzhatsa_podalshe_ot_rossijan__Johannes_Bo_o_koronaviruse_u_Latypova) из-за положительного теста на коронавирус.
+В декабре россиянин Эдуард Латыпов [завоевал](2021/12/18/rossiianin-eduard-latypov-zavoeval-serebro-gonki-presledovaniia-na-etape-kubka-mira-po-biatlonu-v-ansi-news.md)серебро гонки преследования на этапе Кубка мира по биатлону в Анси. Кубок мира в Оберхофе спортсмен вынужден [пропустить](https://matchtv.ru/biathlon/matchtvnews_NI1465740_Nam_prihoditsa_derzhatsa_podalshe_ot_rossijan__Johannes_Bo_o_koronaviruse_u_Latypova) из-за положительного теста на коронавирус.

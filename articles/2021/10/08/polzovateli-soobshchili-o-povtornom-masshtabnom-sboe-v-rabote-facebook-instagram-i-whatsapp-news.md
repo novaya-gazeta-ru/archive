@@ -25,16 +25,16 @@ tags: "facebook, сбой, неполадки, instagram, whatsapp, kn"
 
 В Facebook заявили, что пытаются устранить проблемы как можно быстрее. Какого рода проблемы возникли на этот раз — не уточняется.
 
-4 октября по всему миру [произошел](https://novayagazeta.ru/articles/2021/10/05/rabota-sotssetei-normalizovalas-v-facebook-sviazali-sboi-s-izmeneniiami-konfiguratsii-magistralnykh-marshrutizatorov-news) сбой сервисов Facebook Inc. Он продлился около 6-7 часов и стал крупнейшим в истории компании. К «падению» соцсетей привели ошибочные изменения конфигурации магистральных маршрутизаторов, которые отвечают за координацию сетевого трафика между центрами обработки данных.
+4 октября по всему миру [произошел](2021/10/05/rabota-sotssetei-normalizovalas-v-facebook-sviazali-sboi-s-izmeneniiami-konfiguratsii-magistralnykh-marshrutizatorov-new.md) сбой сервисов Facebook Inc. Он продлился около 6-7 часов и стал крупнейшим в истории компании. К «падению» соцсетей привели ошибочные изменения конфигурации магистральных маршрутизаторов, которые отвечают за координацию сетевого трафика между центрами обработки данных.
 
 Сотрудники Facebook не могли попасть в здание компании из-за сбоев в пропускной системе и поэтому были лишены возможности устранить неполадки вручную.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/04/v-rabote-facebook-instagram-i-whatsapp-zafiksirovan-globalnyi-sboi-news
+**Читайте также:** [В работе Facebook, Instagram и WhatsApp зафиксирован глобальный сбой. Главное](2021/10/04/v-rabote-facebook-instagram-i-whatsapp-zafiksirovan-globalnyi-sboi-news.md)
 
 В результате сбоя Марк Цукерберг [опустился](https://www.forbes.com/real-time-billionaires/#53da4f923d78) на шестое место в списке Forbes, потеряв около 6,6 млрд долларов. На фоне новостей о проблемах с доступом к соцсетям акции IT-гигантов начали дешеветь — Facebook на 5%, Apple и Microsoft на 2,5%.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/06/razryv-pupoviny
+**Читайте также:** [«Разрыв пуповины»](2021/10/06/razryv-pupoviny.md)
 
-Пока основные соцсети были недоступны, пользователи массово переходили в мессенджер Telegram. Компания российского разработчика Павла Дурова [сообщила](https://novayagazeta.ru/articles/2021/10/05/durov-v-telegram-zaregistrirovalis-bolee-70-mln-novykh-polzovatelei-na-fone-sboia-servisov-facebook-news) о 70 млн новых пользователей.
+Пока основные соцсети были недоступны, пользователи массово переходили в мессенджер Telegram. Компания российского разработчика Павла Дурова [сообщила](2021/10/05/durov-v-telegram-zaregistrirovalis-bolee-70-mln-novykh-polzovatelei-na-fone-sboia-servisov-facebook-news.md) о 70 млн новых пользователей.
 
 О всплеске посещаемости также [отчитался](https://twitter.com/Pornhub/status/1446192909582221315) крупнейший порнохостинг Pornhub. Когда соцсети «лежали», трафик порносайта вырос на 10%.

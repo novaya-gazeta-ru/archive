@@ -14,36 +14,36 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/05/13/1368450289_565485_82.jpg" style="width: 360px; height: 524px;"><sup>Только что в издательстве МГУ вышла книга воспоминаний, статей и интервью "Игорь Дедков: Наше живое время".</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/05/13/1368450289_565485_82.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/05/13/1368450289_565485_82.jpg)" style="width: 360px; height: 524px;"><sup>Только что в издательстве МГУ вышла книга воспоминаний, статей и интервью "Игорь Дедков: Наше живое время".</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/05/13/1368721207_276116_92.jpg" style="width: 360px; height: 491px;"><sup>1952 год. Школа позади.</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/05/13/1368721207_276116_92.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/05/13/1368721207_276116_92.jpg)" style="width: 360px; height: 491px;"><sup>1952 год. Школа позади.</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/05/13/1368721207_622735_78.jpg" style="width: 360px; height: 273px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/05/13/1368721207_622735_78.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/05/13/1368721207_622735_78.jpg)" style="width: 360px; height: 273px;"><br>
 				<sup>1 мая 1953 года. Перед физкултурным парадом на Красной площади. Однокурсники Павел Луговской, Ким Смирнов, Игорь Дедков.</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/05/13/1368721207_926781_89.jpg" style="width: 360px; height: 301px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/05/13/1368721207_926781_89.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/05/13/1368721207_926781_89.jpg)" style="width: 360px; height: 301px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/05/13/1368721224_499595_56.jpg" style="width: 360px; height: 460px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/05/13/1368721224_499595_56.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/05/13/1368721224_499595_56.jpg)" style="width: 360px; height: 460px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/05/13/1368721224_833172_51.jpg" style="width: 360px; height: 294px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/05/13/1368721224_833172_51.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/05/13/1368721224_833172_51.jpg)" style="width: 360px; height: 294px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/05/13/1368721282_305366_42.jpg" style="width: 360px; height: 270px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/05/13/1368721282_305366_42.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/05/13/1368721282_305366_42.jpg)" style="width: 360px; height: 270px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/05/13/1368450289_850309_55.jpg" style="width: 360px; height: 554px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/05/13/1368450289_850309_55.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/05/13/1368450289_850309_55.jpg)" style="width: 360px; height: 554px;"></td>
 		</tr>
 	</tbody>]*
 

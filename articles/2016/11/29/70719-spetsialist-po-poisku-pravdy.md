@@ -55,6 +55,6 @@ tags: "память, чечня, эксперты"
 
 И еще он заплакал, когда я позвонила ему, чтобы сообщить: основываясь именно на его доводах, судья отказался выносить обвинительный приговор Руслану Рахаеву и вернул дело на доследование, посчитав обвинение недоказанным. В нашей системе координат это решение равняется оправдательному приговору.
 
-**link:** https://novayagazeta.ru/articles/2016/11/05/70434-sudu-pomeshali-nepreodolimye-protivorechiya-v-dele
+**link:** [https://novayagazeta.ru/articles/2016/11/05/70434-sudu-pomeshali-nepreodolimye-protivorechiya-v-dele](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2016/11/05/70434-sudu-pomeshali-nepreodolimye-protivorechiya-v-dele)
 
 Евгений Борисович Николаев умер, зная, что спас человека. В очередной раз.

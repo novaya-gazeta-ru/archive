@@ -47,4 +47,4 @@ tags: "сша, история, россия, стивен коэн"
 
 **Геннадий Бордюгов,* **президент Ассоциации исследователей российского общества (АИРО-XXI)*
 
-**link:** https://novayagazeta.ru/articles/2019/04/15/80230-fiktivnaya-ataka-i-realnaya-neobhodimost
+**link:** [Фиктивная атака и реальная необходимость](2019/04/15/80230-fiktivnaya-ataka-i-realnaya-neobhodimost.md)

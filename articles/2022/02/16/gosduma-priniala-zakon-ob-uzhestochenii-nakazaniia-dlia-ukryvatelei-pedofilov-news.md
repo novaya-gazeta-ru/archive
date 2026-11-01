@@ -21,6 +21,6 @@ tags: "педофилы, укрыватели, госдума, kn"
 
 Отягчающим обстоятельством будет считаться, если преступление совершено родителями, опекунами или преподавателями, а также людьми, проживающими с ребенком.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/01/papa-trogal-menia-kak-budto-razdelyval-kusok-miasa
+**Читайте также:** [«Папа трогал меня, как будто разделывал кусок мяса». 18+](2021/06/01/papa-trogal-menia-kak-budto-razdelyval-kusok-miasa.md)
 
-Ранее президент России Владимир Путин [подписал](https://novayagazeta.ru/articles/2022/01/28/putin-podpisal-zakon-o-pozhiznennom-zakliuchenii-dlia-pedofilov-retsidivistov-news) закон о пожизненном лишении свободы для педофилов-рецидивистов.
+Ранее президент России Владимир Путин [подписал](2022/01/28/putin-podpisal-zakon-o-pozhiznennom-zakliuchenii-dlia-pedofilov-retsidivistov-news.md) закон о пожизненном лишении свободы для педофилов-рецидивистов.

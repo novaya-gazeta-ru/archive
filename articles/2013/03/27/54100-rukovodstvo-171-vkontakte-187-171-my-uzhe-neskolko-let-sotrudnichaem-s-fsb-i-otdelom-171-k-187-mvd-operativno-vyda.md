@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<a href="http://www.novayagazeta.ru/storage/c/2013/03/27/1364333333_577493_4.png" target="_blank"><img alt="Петр Саруханов — «Новая»" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2013/03/27/1364333333_097527_23.png" style="width: 360px; height: 269px; "></a></td>
+				<a href="[http://www.novayagazeta.ru/storage/c/2013/03/27/1364333333_577493_4.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/03/27/1364333333_577493_4.png)" target="_blank"><img alt="Петр Саруханов — «Новая»" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2013/03/27/1364333333_097527_23.png" style="width: 360px; height: 269px; "></a></td>
 		</tr>
 		<tr>
 			<td>
@@ -39,7 +39,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<a href="http://www.novayagazeta.ru/storage/c/2013/03/27/1364333918_415112_48.jpg" target="_blank"><img alt="" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2013/03/27/1364333918_050795_25.jpg" style="width: 330px; height: 330px; "></a></td>
+				<a href="[http://www.novayagazeta.ru/storage/c/2013/03/27/1364333918_415112_48.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/03/27/1364333918_415112_48.jpg)" target="_blank"><img alt="" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2013/03/27/1364333918_050795_25.jpg" style="width: 330px; height: 330px; "></a></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -47,7 +47,7 @@ tags: ""
 		</tr>
 		<tr>
 			<td>
-				<a href="http://www.novayagazeta.ru/storage/c/2013/03/27/1364334045_246159_90.jpg" target="_blank"><img alt="" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2013/03/27/1364334046_268353_5.jpg" style="width: 330px; height: 222px; "></a></td>
+				<a href="[http://www.novayagazeta.ru/storage/c/2013/03/27/1364334045_246159_90.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/03/27/1364334045_246159_90.jpg)" target="_blank"><img alt="" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2013/03/27/1364334046_268353_5.jpg" style="width: 330px; height: 222px; "></a></td>
 		</tr>
 		<tr>
 			<td>

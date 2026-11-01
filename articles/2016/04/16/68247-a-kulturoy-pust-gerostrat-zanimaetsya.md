@@ -17,9 +17,9 @@ tags: "омбудсмен, права человека, смотрите кто"
 
 Об одном из кандидатов — генерал-майоре МВД **Татьяне Москальковой** — «Новая газета» уже рассказывала. С карательно-запретительным опытом и инициативами там все в порядке — неважно с опытом защиты граждан от произвола (в том числе, от произвола «силовиков»).
 
-**link:** https://novayagazeta.ru/politics/72475.html
+**link:** [https://novayagazeta.ru/politics/72475.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/72475.html)
 
-**link:** https://novayagazeta.ru/politics/72475.html
+**link:** [https://novayagazeta.ru/politics/72475.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/72475.html)
 
 Кто еще идет в омбудсмены?
 

@@ -17,7 +17,7 @@ tags: "керченский пролив, керченский мост, кры�
 
 *Первые байкеры на мосту. Фото Виталий Тимкив/ специально для «Новой»*
 
-**link:** https://novayagazeta.ru/articles/2018/05/17/76494-nikakoy-vygody-net-no-est-gordost
+**link:** [«Никакой выгоды нет, но есть… гордость»](2018/05/17/76494-nikakoy-vygody-net-no-est-gordost.md)
 
 ![](_assets/45/4570e0ae69c2f6913e630821af4080a5.webp)
 

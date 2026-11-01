@@ -37,4 +37,4 @@ tags: ""
 
 Исключить свое имя из реестра можно, покинув РФ или «урегулировав правовое положение».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/25/chlen-spch-predlozhil-otpravliat-rossiianok-na-sobesedovanie-v-mvd-pered-brakom-s-migrantom-news
+**Читайте также:** [Член СПЧ предложил отправлять россиянок на собеседование в МВД перед браком с мигрантом](2025/01/25/chlen-spch-predlozhil-otpravliat-rossiianok-na-sobesedovanie-v-mvd-pered-brakom-s-migrantom-news.md)

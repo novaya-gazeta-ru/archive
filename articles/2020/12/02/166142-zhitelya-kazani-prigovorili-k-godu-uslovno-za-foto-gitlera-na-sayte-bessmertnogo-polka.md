@@ -19,10 +19,10 @@ tags: "казань, условный срок, бессмертный полк,
 
 Как передает ведомство, Эль-Айюби заявил, что разместил фото, так как симпатизирует Гитлеру, а марихуану выращивал для личного употребления. Он признал вину и публично принес извинения. При этом во время последнего слова в суде Эль-Айюби [говорил](https://www.tatar-inform.ru/news/incident/30-11-2020/ya-ne-natsist-povesivshiy-foto-gitlera-kazanets-proiznes-poslednee-slovo-5789171), что не был нацистом.
 
-По версии следствия, Мухаммед Эль-Айюби в мае 2020 года опубликовал фотографию Гитлера на сайте «Бессмертного полка» с подписью «Гилтер Адик» «для одобрения преступлений, определенных Международным военным трибуналом в Нюрнберге». Следственный комитет [завел](https://novayagazeta.ru/news/2020/05/23/161713-sk-zavel-delo-ob-opravdanii-natsizma-iz-za-publikatsiy-na-sayte-bessmertnogo-polka-esche-na-dvuh-rossiyan) уголовное дело об оправдании нацизма.
+По версии следствия, Мухаммед Эль-Айюби в мае 2020 года опубликовал фотографию Гитлера на сайте «Бессмертного полка» с подписью «Гилтер Адик» «для одобрения преступлений, определенных Международным военным трибуналом в Нюрнберге». Следственный комитет [завел](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/05/23/161713-sk-zavel-delo-ob-opravdanii-natsizma-iz-za-publikatsiy-na-sayte-bessmertnogo-polka-esche-na-dvuh-rossiyan) уголовное дело об оправдании нацизма.
 
-**link:** https://novayagazeta.ru/articles/2020/07/27/86420-zadnie-videli-chto-my-perednih-rasstrelivaem
+**link:** [«Задние видели, что мы передних расстреливаем»](2020/07/27/86420-zadnie-videli-chto-my-perednih-rasstrelivaem.md)
 
-Всего СК [завел](https://novayagazeta.ru/news/2020/08/08/163626-sk-vozbudil-desyatoe-ugolovnoe-delo-iz-za-publikatsii-fotografiy-natsistov-na-sayte-bessmertnogo-polka) как минимум десять уголовных дел после появления на сайте «Бессмертного полка» фотографий нацистов в ряду с изображениями героев Великой Отечественной войны.
+Всего СК [завел](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/08/08/163626-sk-vozbudil-desyatoe-ugolovnoe-delo-iz-za-publikatsii-fotografiy-natsistov-na-sayte-bessmertnogo-polka) как минимум десять уголовных дел после появления на сайте «Бессмертного полка» фотографий нацистов в ряду с изображениями героев Великой Отечественной войны.
 
 В этом году шествие «Бессмертного полка» решили провести онлайн из-за пандемии COVID-19. Гражданам предложили в соцсетях или на сайте акции выложить фотографии своих родственников, участвовавших в Великой Отечественной войне.

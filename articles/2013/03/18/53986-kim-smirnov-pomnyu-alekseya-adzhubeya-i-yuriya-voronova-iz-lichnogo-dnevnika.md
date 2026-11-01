@@ -15,7 +15,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/03/18/1363623155_266114_65.jpg" style="width: 220px; height: 340px;"></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/03/18/1363623155_266114_65.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/03/18/1363623155_266114_65.jpg)" style="width: 220px; height: 340px;"></p>
 				<p>
 					<sup>Алексей Иванович Аджубей</sup></p>
 			</td>
@@ -23,7 +23,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/03/18/1363623137_713247_45.jpg" style="width: 220px; height: 347px;"></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/03/18/1363623137_713247_45.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/03/18/1363623137_713247_45.jpg)" style="width: 220px; height: 347px;"></p>
 				<p>
 					<sup>Юрий Петрович Воронов</sup></p>
 			</td>

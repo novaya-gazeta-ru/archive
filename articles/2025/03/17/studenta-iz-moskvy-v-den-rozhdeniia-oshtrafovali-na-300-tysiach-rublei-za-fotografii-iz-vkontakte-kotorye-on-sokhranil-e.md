@@ -19,10 +19,10 @@ tags: ""
 
 «Я помимо учебы в универе работаю, так что буду выплачивать штраф своими силами», — рассказал оштрафованный.
 
-В России, и в том числе в столице, силовики проводят рейды против ЛГБТ [по ночным клубам](https://novayagazeta.ru/articles/2024/12/07/posetitelei-moskovskikh-klubov-snova-polozhili-litsom-v-pol-vo-vremia-reidov-protiv-propagandy-lgbt-news). Посетителей грубо [укладывали лицом в пол](https://novayagazeta.ru/articles/2024/11/30/siloviki-nagrianuli-s-reidami-protiv-mezhdunarodnogo-dvizheniia-lgbt-v-neskolko-nochnykh-klubov-moskvy-news) и держали в таком положении несколько часов. Во время облав мужчинам прямо на месте [«оформляли» повестки в военкомат](https://novayagazeta.ru/articles/2024/10/12/doprashivali-gei-ty-ili-net-v-noch-na-subbotu-politsiia-provela-reidy-v-moskovskikh-gei-klubakh-200-chelovek-polozhili-litsom-v-pol-news), а на выходе — фотографировали паспорта. У некоторых проверяли телефоны и спрашивали, имеют ли они отношение «к международному ЛГБТ-движению».
+В России, и в том числе в столице, силовики проводят рейды против ЛГБТ [по ночным клубам](2024/12/07/posetitelei-moskovskikh-klubov-snova-polozhili-litsom-v-pol-vo-vremia-reidov-protiv-propagandy-lgbt-news.md). Посетителей грубо [укладывали лицом в пол](2024/11/30/siloviki-nagrianuli-s-reidami-protiv-mezhdunarodnogo-dvizheniia-lgbt-v-neskolko-nochnykh-klubov-moskvy-news.md) и держали в таком положении несколько часов. Во время облав мужчинам прямо на месте [«оформляли» повестки в военкомат](2024/10/12/doprashivali-gei-ty-ili-net-v-noch-na-subbotu-politsiia-provela-reidy-v-moskovskikh-gei-klubakh-200-chelovek-polozhili-l.md), а на выходе — фотографировали паспорта. У некоторых проверяли телефоны и спрашивали, имеют ли они отношение «к международному ЛГБТ-движению».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/07/pokonchivshego-s-soboi-v-sizo-obviniaemogo-v-organizatsii-gei-turov-andreia-kotova-budut-sudit-posmertno-news
+**Читайте также:** [Покончившего с собой в СИЗО обвиняемого в организации «гей-туров» Андрея Котова будут судить посмертно](2025/03/07/pokonchivshego-s-soboi-v-sizo-obviniaemogo-v-organizatsii-gei-turov-andreia-kotova-budut-sudit-posmertno-news.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/01/papa-prishel-vas-otshlepat
+**Читайте также:** [Папа пришел вас отшлепать](2025/03/01/papa-prishel-vas-otshlepat.md)
 
 #### * ЛГБТ-движение признано в РФ экстремистской организацией, ее деятельность в РФ запрещена.

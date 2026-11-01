@@ -39,7 +39,7 @@ tags: "кочесоко"
 
 — Хотелось бы в это верить, но с учетом того, как это дело развивалось, мы боимся расслабляться. Решение Верховного суда КБР было очень обоснованным — у следователя кроме голословных фраз, что Мартин совершил преступление, не было ничего.
 
-**link:** https://novayagazeta.ru/articles/2019/06/28/81058-v-ozhidanii-chuda
+**link:** [https://novayagazeta.ru/articles/2019/06/28/81058-v-ozhidanii-chuda](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/06/28/81058-v-ozhidanii-chuda)
 
 **— Общественное давление помогло?**
 

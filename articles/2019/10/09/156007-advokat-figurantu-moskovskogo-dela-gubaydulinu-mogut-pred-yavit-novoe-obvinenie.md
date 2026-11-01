@@ -15,8 +15,8 @@ tags: "«московское дело», обвинения, адвокаты, 
 
 Он рассказал о вызове в Следственный комитет и предположил, что следствие может переформулировать ст. 318 УК (применение насилия к представителю власти). «В одну, в другую сторону – непонятно, завтра узнаем», – сказал защитник.
 
-Губайдулина [арестовали](https://www.novayagazeta.ru/news/2019/08/09/154133-sud-arestoval-novogo-figuranta-dela-o-massovyh-besporyadkah-na-aktsii-27-iyulya) в августе. Его обвиняли в участии в «массовых беспорядках» (ч. 2 ст. 212 УК) на несанкционированной акции 27 июля, но позже [предъявили](https://www.novayagazeta.ru/news/2019/08/31/154846-prohodyaschemu-po-delu-212-programmistu-aydaru-gubaydulinu-smyagchili-obvinenie) обвинение в покушении на нападение на силовика (ч. 3 ст. 30, ч. 1 ст. 318 УК) и выделили дело в отдельное производство. Губайдулин бросил в сторону силовиков пластиковую бутылку, но промахнулся.
+Губайдулина [арестовали](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/08/09/154133-sud-arestoval-novogo-figuranta-dela-o-massovyh-besporyadkah-na-aktsii-27-iyulya) в августе. Его обвиняли в участии в «массовых беспорядках» (ч. 2 ст. 212 УК) на несанкционированной акции 27 июля, но позже [предъявили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/08/31/154846-prohodyaschemu-po-delu-212-programmistu-aydaru-gubaydulinu-smyagchili-obvinenie) обвинение в покушении на нападение на силовика (ч. 3 ст. 30, ч. 1 ст. 318 УК) и выделили дело в отдельное производство. Губайдулин бросил в сторону силовиков пластиковую бутылку, но промахнулся.
 
-18 сентября суд [вернул](https://www.novayagazeta.ru/news/2019/09/18/155411-sud-vernul-v-prokuraturu-delo-uchastnika-mitinga-27-iyulya-aydara-gubaydulina) дело в прокуратуру. После этого Губайдулина отпустили под подписку о невыезде.
+18 сентября суд [вернул](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/09/18/155411-sud-vernul-v-prokuraturu-delo-uchastnika-mitinga-27-iyulya-aydara-gubaydulina) дело в прокуратуру. После этого Губайдулина отпустили под подписку о невыезде.
 
-**link:** https://novayagazeta.ru/articles/2019/09/20/82049-obvinenie-proletelo-mimo
+**link:** [Обвинение пролетело мимо](2019/09/20/82049-obvinenie-proletelo-mimo.md)

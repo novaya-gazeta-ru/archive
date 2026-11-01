@@ -71,4 +71,4 @@ tags: "раненные, сво, штурмовики"
 
 подписать петицию
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/02/prekratit-ogon-vyvezti-ranenykh-s-polia-boia
+**Читайте также:** [Прекратить огонь! Вывезти раненых с поля боя!](2026/07/02/prekratit-ogon-vyvezti-ranenykh-s-polia-boia.md)

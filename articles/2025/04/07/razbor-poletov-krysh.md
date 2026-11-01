@@ -53,4 +53,4 @@ tags: "красноярск, ураган, крыши, попелышев, шк�
 
 **Красноярск**
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/05/sibir-shtormit-plamia-letit
+**Читайте также:** [Сибирь штормит, пламя летит](2025/04/05/sibir-shtormit-plamia-letit.md)

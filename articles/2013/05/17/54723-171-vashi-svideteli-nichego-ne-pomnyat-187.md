@@ -16,19 +16,19 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/05/16/1368714258_202582_2.jpg" style="width: 360px; height: 240px;"><sup>Судья Блинов</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/05/16/1368714258_202582_2.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/05/16/1368714258_202582_2.jpg)" style="width: 360px; height: 240px;"><sup>Судья Блинов</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/05/16/1368714267_999499_22.jpg" style="width: 360px; height: 240px;"><sup>Полиция изымает плакат&nbsp;«Путин – вор»</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/05/16/1368714267_999499_22.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/05/16/1368714267_999499_22.jpg)" style="width: 360px; height: 240px;"><sup>Полиция изымает плакат&nbsp;«Путин – вор»</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/05/16/1368714257_666078_0.jpg" style="width: 360px; height: 240px;"><sup>Сергей Щерчков</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/05/16/1368714257_666078_0.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/05/16/1368714257_666078_0.jpg)" style="width: 360px; height: 240px;"><sup>Сергей Щерчков</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/05/16/1368714268_272229_77.jpg" style="width: 360px; height: 240px;"><sup>Лариса Бастрыгина</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/05/16/1368714268_272229_77.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/05/16/1368714268_272229_77.jpg)" style="width: 360px; height: 240px;"><sup>Лариса Бастрыгина</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -55,7 +55,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/05/16/1368714268_546175_52.jpg" style="width: 360px; height: 240px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/05/16/1368714268_546175_52.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/05/16/1368714268_546175_52.jpg)" style="width: 360px; height: 240px;"></td>
 		</tr>
 	</tbody>]*
 

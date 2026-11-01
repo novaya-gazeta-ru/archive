@@ -27,4 +27,4 @@ tags: ""
 
 В соцсетях пользователи назвали площадку из памятника Ленину «шедевром» и отметили, что это «рай» для уличных спортсменов. Однако власти Верхней Пышмы [решили](https://t.me/itsmycity/42604) перенести скейт-парк и убрать рампу с постамента.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/18/kollektivnaia-amneziia-kak-stiraiut-istoriiu-repressii
+**Читайте также:** [Коллективная амнезия: как стирают историю репрессий](2025/04/18/kollektivnaia-amneziia-kak-stiraiut-istoriiu-repressii.md)

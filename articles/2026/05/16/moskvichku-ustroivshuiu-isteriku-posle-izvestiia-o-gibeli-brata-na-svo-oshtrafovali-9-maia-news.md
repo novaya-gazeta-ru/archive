@@ -19,6 +19,6 @@ tags: ""
 
 Во время слушаний москвичка, работающая уборщицей и имеющая 13-летнего сына, признала вину по делу о «мелком хулиганстве» и раскаялась.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/25/prestupleniia-vopros-vremeni
+**Читайте также:** [«Преступления — вопрос времени»&nbsp;](2026/02/25/prestupleniia-vopros-vremeni.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/12/18/chto-nachnetsia-kogda-vse-eto-konchitsia
+**Читайте также:** [Что начнется, когда все это кончится?](2025/12/18/chto-nachnetsia-kogda-vse-eto-konchitsia.md)

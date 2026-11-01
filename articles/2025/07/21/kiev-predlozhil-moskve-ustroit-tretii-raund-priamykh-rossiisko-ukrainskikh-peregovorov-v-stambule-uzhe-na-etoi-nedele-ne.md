@@ -19,7 +19,7 @@ tags: ""
 
 В Кремле пока не комментировали заявление Зеленского. Источники российских агентств в дипломатических кругах просто [подтвердили](https://t.me/interfaxonline/60002), что Украина предложила сроки для новой встречи.
 
-Но до того и представитель Кремля [Дмитрий Песков](https://novayagazeta.ru/articles/2025/07/15/vesma-sereznye-zaiavleniia-v-kremle-otvetili-na-ultimatum-trampa-putinu-i-ego-reshenie-po-postavkam-kievu-vooruzhenii-news), и глава МИД РФ [Сергей Лавров](https://novayagazeta.ru/articles/2025/07/15/lavrov-tramp-popal-pod-neprilichnoe-davlenie-evrosoiuza-i-nato-a-kiev-zatiagivaet-peregovory-s-moskvoi-tasuia-pravitelstvo-news), наоборот, обвиняли Киев в затягивании переговоров, заявляя, что Россия со своей стороны готова к встречам дипломатов.
+Но до того и представитель Кремля [Дмитрий Песков](2025/07/15/vesma-sereznye-zaiavleniia-v-kremle-otvetili-na-ultimatum-trampa-putinu-i-ego-reshenie-po-postavkam-kievu-vooruzhenii-ne.md), и глава МИД РФ [Сергей Лавров](2025/07/15/lavrov-tramp-popal-pod-neprilichnoe-davlenie-evrosoiuza-i-nato-a-kiev-zatiagivaet-peregovory-s-moskvoi-tasuia-pravitelst.md), наоборот, обвиняли Киев в затягивании переговоров, заявляя, что Россия со своей стороны готова к встречам дипломатов.
 
 Первые два раунда прямых переговоров России и Украины тоже проходили в Стамбуле.
 
@@ -27,4 +27,4 @@ tags: ""
 
 Президент Владимир Путин признал, что эти меморандумы на четвертый год военных действий являются «прямо противоположными», но добавил, что переговоры «для того и нужны», чтобы прийти к общей позиции.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/16/tramp-50-dnei-dlia-putina-eto-nemnogo-i-zelenskii-ne-dolzhen-atakovat-moskvu-news
+**Читайте также:** [Трамп: 50-дневный срок для Путина по мирной сделке с Украиной — это не так уж и много](2025/07/16/tramp-50-dnei-dlia-putina-eto-nemnogo-i-zelenskii-ne-dolzhen-atakovat-moskvu-news.md)

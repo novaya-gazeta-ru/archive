@@ -15,4 +15,4 @@ tags: ""
 
 Ранее об обмене тел сообщало российское агентство ТАСС, [ссылаясь](https://t.me/epoddubny/27820) на сотрудника ВГТРК Евгения Поддубного.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/05/15/rossiia-i-ukraina-obmenialis-telami-voennosluzhashchikh-moskva-otdala-526-tel-kiev-peredal-41-news
+**Читайте также:** [Россия и Украина обменялись телами военнослужащих. Москва отдала 526 тел, Киев передал 41](2026/05/15/rossiia-i-ukraina-obmenialis-telami-voennosluzhashchikh-moskva-otdala-526-tel-kiev-peredal-41-news.md)

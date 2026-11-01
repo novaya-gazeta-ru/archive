@@ -57,7 +57,7 @@ tags: "группы смерти, суицид, интернет, подрост
 
 Можно предположить, что другим фигурантам именно так удалось уйти от ответственности: они довели свою страшную работу до конца. Не осталось выживших, и некому было давать показания.
 
-**novaya:** https://novayagazeta.ru/articles/2019/05/15/80521-igry-v-temnote
+**novaya:** [Игры в темноте (18+)](2019/05/15/80521-igry-v-temnote.md)
 
 # «Судный день» и чудо
 
@@ -117,7 +117,7 @@ tags: "группы смерти, суицид, интернет, подрост
 
 Катя меня сильно отговаривала, просила не ехать к еще одной участнице нашего чата, Мире, даже плакала. Предлагала оплатить хостел, чтоб я переночевал. Высадила меня возле метро только после того, как я уже практически кричал на нее: «Давай высаживай меня!» Потому что уже был вечер, и весь день все шло не по плану. И я поехал на встречу с Мирой.
 
-**novaya:** https://novayagazeta.ru/articles/2019/05/15/80524-vmesto-togo-chtoby-borotsya-s-detskimi-samoubiystvami-my-pridumyvaem-kuratorov-kotorye-po-zadaniyu-gosdepa-ubivayut-nashih-detey
+**novaya:** [https://novayagazeta.ru/articles/2019/05/15/80524-vmesto-togo-chtoby-borotsya-s-detskimi-samoubiystvami-my-pridumyvaem-kuratorov-kotorye-po-zadaniyu-gosdepa-ubivayut-nashih-detey](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/05/15/80524-vmesto-togo-chtoby-borotsya-s-detskimi-samoubiystvami-my-pridumyvaem-kuratorov-kotorye-po-zadaniyu-gosdepa-ubivayut-nashih-detey)
 
 > **Комментарии**
 >
@@ -207,7 +207,7 @@ tags: "группы смерти, суицид, интернет, подрост
 
 Я знаю, что потом было заведено уголовное дело, потому что меня вызывали в Следственный комитет на допрос. Но последний год меня никуда уже не вызывали, и я эту историю стала забывать, думала, что дело закрыто.
 
-**novaya:** https://novayagazeta.ru/articles/2019/05/15/80520-effekt-mizulinoy
+**novaya:** [Эффект Мизулиной](2019/05/15/80520-effekt-mizulinoy.md)
 
 # Последние шаги
 

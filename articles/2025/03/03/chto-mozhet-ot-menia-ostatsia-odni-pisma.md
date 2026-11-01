@@ -79,7 +79,7 @@ tags: "антонина зимина, шизо, политзаключенные
 
 ***05.12.24***
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/12/eto-byl-ne-zhest-protesta-a-otchaianiia
+**Читайте также:** [«Это был не жест протеста, а отчаяния»](2024/11/12/eto-byl-ne-zhest-protesta-a-otchaianiia.md)
 
 ## ***
 

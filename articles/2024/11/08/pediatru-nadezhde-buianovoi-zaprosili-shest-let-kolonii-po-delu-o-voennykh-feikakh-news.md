@@ -23,8 +23,8 @@ tags: ""
 
 На прошлое заседание обвиняемую [доставили](https://zona.media/online/2024/11/08/buyanova-9) в суд с ссадиной на голове — автозак, в котором ее везли из СИЗО, сильно затормозил, и она ударилась головой до крови.
 
-В октябре Надежда Буянова [ответила на вопросы](https://novayagazeta.ru/articles/2024/10/04/ia-spokoina-i-potomu-vnutrenne-svobodna-ved-zla-nikomu-ne-prichinila) «Новой газеты» из СИЗО.
+В октябре Надежда Буянова [ответила на вопросы](2024/10/04/ia-spokoina-i-potomu-vnutrenne-svobodna-ved-zla-nikomu-ne-prichinila.md) «Новой газеты» из СИЗО.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/04/ia-spokoina-i-potomu-vnutrenne-svobodna-ved-zla-nikomu-ne-prichinila
+**Читайте также:** [«Я спокойна и потому внутренне свободна. Ведь зла никому не причинила»](2024/10/04/ia-spokoina-i-potomu-vnutrenne-svobodna-ved-zla-nikomu-ne-prichinila.md)
 
 #### * Власти РФ считают «иноагентом».

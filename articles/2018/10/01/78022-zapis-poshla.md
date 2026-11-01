@@ -17,7 +17,7 @@ tags: "пакет яровой"
 
 *Иллюстрация: Анна Жаворонкова / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2017/08/12/73459-vychislit-vseh-po-ip
+**link:** [Вычислить всех по IP](2017/08/12/73459-vychislit-vseh-po-ip.md)
 
 Вычислить всех по IP
 

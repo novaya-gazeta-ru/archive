@@ -19,6 +19,6 @@ tags: "евросоюз, путин, медведь, sn"
 
 Кроме того, против саммита [выступили](https://www.politico.eu/article/eu-summit-european-council-live-blog-coronavirus-travel-russia-turkey-hungary-lgbtq/#1285628) Польша, Литва, Латвия и Эстония. Президент Литвы Гитанас Науседа [заявил](https://www.reuters.com/world/europe/lithuania-warns-against-holding-eu-summit-with-russia-putin-2021-06-24/), что идея саммита напоминает ему «попытку привлечь медведя, чтобы обезопасить банку с медом».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/09/eto-dva-raznykh-razgovora
+**Читайте также:** [Это два разных разговора](2021/06/09/eto-dva-raznykh-razgovora.md)
 
 Идея провести саммит в формате Россия — Евросоюз принадлежит канцлеру Германии Ангеле Меркель. Ее поддержали президент Франции Эмманюэль Макрон и канцлер Австрии Себастьян Курц.

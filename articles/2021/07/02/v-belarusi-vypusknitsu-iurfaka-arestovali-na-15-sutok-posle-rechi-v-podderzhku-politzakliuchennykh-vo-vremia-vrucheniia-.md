@@ -19,4 +19,4 @@ tags: "беларусь, студенты, политзаключенные, ю�
 
 Девушка вину не признала.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/25/ne-khvataet-kipiatilnika-chasov-kletchatoi-sumki-i-televizora-p-s-mama-ia-liubliu-tebia
+**Читайте также:** [«Не хватает кипятильника, часов, клетчатой сумки и телевизора! P.S. Мама, я люблю тебя»](2021/06/25/ne-khvataet-kipiatilnika-chasov-kletchatoi-sumki-i-televizora-p-s-mama-ia-liubliu-tebia.md)

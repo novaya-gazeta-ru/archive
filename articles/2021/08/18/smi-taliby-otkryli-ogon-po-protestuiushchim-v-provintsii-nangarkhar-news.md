@@ -19,6 +19,6 @@ tags: "афганистан, талибан, протесты, стрельба,
 
 15 августа бойцы «Талибана» без боя взяли столицу Афганистана Кабул и объявили об установлении полного контроля над территорией страны. На фоне происходящего президент Ашраф Гани сложил свои полномочия и улетел за границу.
 
-Ряд стран эвакуировали свои посольства, однако МИД России ранее [заявил](https://novayagazeta.ru/articles/2021/08/16/taliby-pristupili-k-navedeniiu-poriadka-mid-rossii-otchitalsia-ob-ustanovlenii-kontaktov-s-novymi-vlastiami-afganistana-news), что не планирует следовать их примеру.
+Ряд стран эвакуировали свои посольства, однако МИД России ранее [заявил](2021/08/16/taliby-pristupili-k-navedeniiu-poriadka-mid-rossii-otchitalsia-ob-ustanovlenii-kontaktov-s-novymi-vlastiami-afganistana-.md), что не планирует следовать их примеру.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/15/afganistan-voshel-v-talibskuiu-reku-vtoroi-raz
+**Читайте также:** [Афганистан вошел в талибскую реку второй раз](2021/08/15/afganistan-voshel-v-talibskuiu-reku-vtoroi-raz.md)

@@ -15,6 +15,6 @@ tags: "космос, сша, nasa, crew dragon, илон маск"
 
 В 21:48 по мск Crew Dragon приводнился в Мексиканском заливе.
 
-**link:** https://novayagazeta.ru/articles/2020/06/06/85729-rossiyu-podvinuli-v-kosmose
+**link:** [https://novayagazeta.ru/articles/2020/06/06/85729-rossiyu-podvinuli-v-kosmose](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/06/06/85729-rossiyu-podvinuli-v-kosmose)
 
-**link:** https://novayagazeta.ru/articles/2020/05/31/85625-drakon-ilona-maska-otpravilsya-v-kosmos
+**link:** [Дракон Илона Маска отправился в космос](2020/05/31/85625-drakon-ilona-maska-otpravilsya-v-kosmos.md)

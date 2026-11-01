@@ -14,8 +14,8 @@ tags: "москва, мэрия, снос"
 *А, может быть, судебная власть и сама превратилась в «незаконный ларек», так что любой чиновник вправе ей указать: «вас тут не стояло!»*
 
 *[media: <div>
-<p><a href="http://www.novayagazeta.ru/photos/71772.html" target="_blank"><img alt="" src="http://www.novayagazeta.ru/storage/c/2016/02/13/1455374637_250688_10.png" style="width: 570px; height: 394px;"></a><br>
-<strong><a href="http://www.novayagazeta.ru/photos/71772.html" target="_blank">Фоторепортаж&nbsp;Евгения Фельдмана</a></strong></p>
+<p><a href="[http://www.novayagazeta.ru/photos/71772.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/71772.html)" target="_blank"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2016/02/13/1455374637_250688_10.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2016/02/13/1455374637_250688_10.png)" style="width: 570px; height: 394px;"></a><br>
+<strong><a href="[http://www.novayagazeta.ru/photos/71772.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/71772.html)" target="_blank">Фоторепортаж&nbsp;Евгения Фельдмана</a></strong></p>
 </div>]*
 
 За звоном стекол, грохотом кирпичей и плачем разоряемой мелкой буржуазии мы даже не заметили, как в Москве скончалась судебная власть. Тихо и незаметно: в том смысле, что правительство Москвы, вынося решение № 829-ПП, просто упустило ее из виду. Забыли про суд и забили на него. «Потом подтвердят». Ведь точно так же всегда действуют и «правоохранительные органы»: мы посадили — они подтвердят.

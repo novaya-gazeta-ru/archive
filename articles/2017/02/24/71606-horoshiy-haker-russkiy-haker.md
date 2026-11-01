@@ -51,7 +51,7 @@ tags: "франция, кибератаки, кибербезопасность,
 
 Тем не менее, Макрона сделали сразу и ставленником «богатого гей-лобби» и «американским агентом на службе банковского лобби».
 
-**link:** https://novayagazeta.ru/articles/2017/02/07/71427-kakoy-kompromat-vshodit-na-politicheskoy-polyane-frantsii
+**link:** [https://novayagazeta.ru/articles/2017/02/07/71427-kakoy-kompromat-vshodit-na-politicheskoy-polyane-frantsii](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/02/07/71427-kakoy-kompromat-vshodit-na-politicheskoy-polyane-frantsii)
 
 ![](_assets/64/6499774b97dc19d06cce295fd9a1c30f.webp)
 
@@ -83,7 +83,7 @@ tags: "франция, кибератаки, кибербезопасность,
 
 В совершении атаки, произведенной с сервера, находящегося в Бразилии, заподозрили группу «Pawn Storm» («Пешечный штурм»). Ей также приписывают имена Sednit, APT28, Sofacy, Strontium, Threat Group-4127. Самое известное ее название — **Fancy Bears(«Прикольные медведи»).**
 
-**link:** https://novayagazeta.ru/articles/2017/01/10/71083-trampu-hotyat-ustroit-uotergeyt
+**link:** [Трампу хотят устроить Уотергейт](2017/01/10/71083-trampu-hotyat-ustroit-uotergeyt.md)
 
 Французские СМИ, со ссылкой на источники в разведке, указывали на то, что эта хакерская группа подконтрольна ГРУ.
 

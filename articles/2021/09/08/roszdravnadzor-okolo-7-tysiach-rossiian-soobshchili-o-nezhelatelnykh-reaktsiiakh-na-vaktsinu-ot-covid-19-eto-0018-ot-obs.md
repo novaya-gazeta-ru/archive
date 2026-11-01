@@ -21,8 +21,8 @@ tags: "росздравнадзор, коронавирус, вакцинаци�
 
 «Да, мы не скрываем, что есть заболевшие после вакцинации. Но мы учитываем заболевших после вакцинации после 42-го дня […] Это тот период, когда уже сформирован иммунитет, когда, по идее, пациент уже заболевать не должен», — уточнила Самойлова.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/02/nevaktsinirovannye-liudi-bolshoi-bioreaktor-dlia-virusov-mutantov
+**Читайте также:** [«Невакцинированные люди — большой биореактор для вирусов-мутантов»](2021/09/02/nevaktsinirovannye-liudi-bolshoi-bioreaktor-dlia-virusov-mutantov.md)
 
-Оперштаб [сообщил](https://novayagazeta.ru/articles/2021/09/06/opershtab-v-moskve-cherez-nedeliu-zapustiat-servis-po-prodleniiu-qr-kodov-posle-revaktsinatsii-news) в понедельник, что сервис по продлению QR-кодов для прошедших ревакцинацию от коронавируса запустят в Москве через неделю. Обновленный QR-код будет действовать год. Также после ревакцинации на федеральном портале госуслуг можно получить цифровой сертификат.
+Оперштаб [сообщил](2021/09/06/opershtab-v-moskve-cherez-nedeliu-zapustiat-servis-po-prodleniiu-qr-kodov-posle-revaktsinatsii-news.md) в понедельник, что сервис по продлению QR-кодов для прошедших ревакцинацию от коронавируса запустят в Москве через неделю. Обновленный QR-код будет действовать год. Также после ревакцинации на федеральном портале госуслуг можно получить цифровой сертификат.
 
-Ранее москвичи [пожаловались](https://novayagazeta.ru/articles/2021/09/06/moskvichi-pozhalovalis-na-otkaz-obnovit-sertifikat-posle-revaktsinatsii-iz-za-etogo-liudi-ne-mogut-poluchit-bonusy-na-rabote-i-poekhat-v-nekotorye-strany-news), что им не продлевают срок действия цифрового сертификата. При этом с проблемой столкнулись только жители столицы: в регионах трудностей с продлением сертификата после ревакцинации не возникает.
+Ранее москвичи [пожаловались](2021/09/06/moskvichi-pozhalovalis-na-otkaz-obnovit-sertifikat-posle-revaktsinatsii-iz-za-etogo-liudi-ne-mogut-poluchit-bonusy-na-ra.md), что им не продлевают срок действия цифрового сертификата. При этом с проблемой столкнулись только жители столицы: в регионах трудностей с продлением сертификата после ревакцинации не возникает.

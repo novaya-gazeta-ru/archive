@@ -35,4 +35,4 @@ tags: "осло, мария ресса, дмитрий муратов, нобе�
 
 **Ресса: **Соревновательность в новостях умерла. Мы на одной стороне в борьбе за факты. Независимая журналистика должна выжить.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/07/bitva-marii-za-fakty
+**Читайте также:** [https://novayagazeta.ru/articles/2021/12/07/bitva-marii-za-fakty](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/12/07/bitva-marii-za-fakty)

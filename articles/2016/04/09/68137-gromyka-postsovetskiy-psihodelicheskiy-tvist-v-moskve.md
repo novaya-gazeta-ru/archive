@@ -11,6 +11,6 @@ tags: ""
 
 # Громыка. Постсоветский психоделический твист в Москве
 
-*[media: Сюжет&nbsp;«<span lang="ru-RU">Новой газеты» с московских концертов и интервью с политбюро-рок группой. Смотрите на нашем сайте <a href="http://www.novayagazeta.ru/arts/72594.html" target="_blank">премьеру</a> клипа&nbsp;«Сербия Хорватия».</span>]*
+*[media: Сюжет&nbsp;«<span lang="ru-RU">Новой газеты» с московских концертов и интервью с политбюро-рок группой. Смотрите на нашем сайте <a href="[http://www.novayagazeta.ru/arts/72594.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/arts/72594.html)" target="_blank">премьеру</a> клипа&nbsp;«Сербия Хорватия».</span>]*
 
 *[media: &nbsp;]*

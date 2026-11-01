@@ -77,4 +77,4 @@ tags: ""
 
 На вопрос «когда играем?» ему можно не отвечать. Это, в сущности, неважно.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/30/anturnan-vpered-i-dva-nazad
+**Читайте также:** [Антурнан вперед и два назад](2026/06/30/anturnan-vpered-i-dva-nazad.md)

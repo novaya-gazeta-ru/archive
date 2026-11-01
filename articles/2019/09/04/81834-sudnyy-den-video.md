@@ -13,7 +13,7 @@ tags: "силовики, запугивание, давление, провок�
 
 *Кого осудили и кого освободили 3 сентября*
 
-**link:** https://novayagazeta.ru/articles/2019/09/03/81823-tovarisch-mayor-to-golyy
+**link:** [Заговорчики в строю](2019/09/03/81823-tovarisch-mayor-to-golyy.md)
 
 Заговорчики в строю
 

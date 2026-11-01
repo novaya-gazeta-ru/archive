@@ -112,4 +112,4 @@ tags: "учителя, образование"
 **Анна Гамалова,** \
  для «Новой»
 
-[Поучаствуйте в опросе «Новой газеты» на эту тему.](https://www.novayagazeta.ru/quiz/2017/05/04/6-rukovoditel-departamenta-obrazovaniya-obezglavil-shkolu-iz-za-cheburashki-kak-vy-k-etomu-otnosites)
+[Поучаствуйте в опросе «Новой газеты» на эту тему.](https://web.archive.org/web/*/https://www.novayagazeta.ru/quiz/2017/05/04/6-rukovoditel-departamenta-obrazovaniya-obezglavil-shkolu-iz-za-cheburashki-kak-vy-k-etomu-otnosites)

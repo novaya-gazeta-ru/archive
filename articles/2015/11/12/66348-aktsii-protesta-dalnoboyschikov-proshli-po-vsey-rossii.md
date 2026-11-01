@@ -17,9 +17,9 @@ tags: "автомобили, налоги, протесты"
 
 *Фото: ТАСС*
 
-**link:** https://novayagazeta.ru/society/70709.html
+**link:** [https://novayagazeta.ru/society/70709.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70709.html)
 
-**link:** https://novayagazeta.ru/society/70709.html
+**link:** [https://novayagazeta.ru/society/70709.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70709.html)
 
 **Красноярск**
 
@@ -95,9 +95,9 @@ tags: "автомобили, налоги, протесты"
 
 Водители-дальнобойщики считают неправильным, когда деньги на ремонт федеральных дорог собирает частная фирма-оператор. Участники акции выразили сомнение, что эти деньги целиком попадут государству. «Государство могло бы ввести дополнительный налог и честно объяснить это дальнобойщикам. А теперь начнутся суды по поводу штрафов. Допустим, надо будет зайти на сайт «Платона», а он не работает? Я несу ответственность перед заказчиком, а кто несет ответственность передо мной? Никто», — сказал один из участников акции.
 
-**link:** https://novayagazeta.ru/society/70708.html
+**link:** [https://novayagazeta.ru/society/70708.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70708.html)
 
-**link:** https://novayagazeta.ru/society/70708.html
+**link:** [https://novayagazeta.ru/society/70708.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70708.html)
 
 Представитель платежной системы «Платон» в Ульяновске Ирина Моисеева заявила, что «система максимально прозрачна и доступна» и полностью готова к работе с 15 ноября: «Мы прошли все автономные и комплексные испытания».
 

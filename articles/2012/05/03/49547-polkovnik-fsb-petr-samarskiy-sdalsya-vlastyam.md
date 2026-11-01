@@ -16,17 +16,17 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/03/1336059658_579326_56.jpg" style="width: 360px; height: 254px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/03/1336059658_579326_56.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/03/1336059658_579326_56.jpg)" style="width: 360px; height: 254px; "><br>
 				<sup>Полковник Самарский и генерал Кокорин. Теперь один под арестом, а другой — на пенсии</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/03/1336059658_721799_70.jpg" style="width: 360px; height: 249px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/03/1336059658_721799_70.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/03/1336059658_721799_70.jpg)" style="width: 360px; height: 249px; "><br>
 				<sup>Грамота от Кокорина...</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/03/1336059658_860777_11.jpg" style="font-size: 10px; width: 360px; height: 519px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/03/1336059658_860777_11.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/03/1336059658_860777_11.jpg)" style="font-size: 10px; width: 360px; height: 519px; "><br>
 				<sup>...и награда от Патрушева</sup></td>
 		</tr>
 	</tbody>]*

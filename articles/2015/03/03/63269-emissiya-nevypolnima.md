@@ -39,9 +39,9 @@ QE представляет собой в целом довольно прост
 
 И дело обстоит таким образом не только в Европе — российская экономика еще более отчаянно нуждается в решительных мерах. Что если, несмотря на нелетные условия, свой «вертолет с деньгами» нужен и нашему финансовому руководству?
 
-**link:** https://novayagazeta.ru/columns/67386.html
+**link:** [https://novayagazeta.ru/columns/67386.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/67386.html)
 
-**link:** https://novayagazeta.ru/columns/67386.html
+**link:** [https://novayagazeta.ru/columns/67386.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/67386.html)
 
 # Разговоры в пустоту
 

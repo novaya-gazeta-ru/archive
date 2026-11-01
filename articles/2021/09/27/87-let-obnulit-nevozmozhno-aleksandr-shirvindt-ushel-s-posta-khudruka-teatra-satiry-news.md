@@ -19,6 +19,6 @@ tags: "театр сатиры, ширвиндт, москва, театр, kn"
 
 «Мечтается еще появиться на родной сцене в вертикальном положении», — добавил он. По его словам, вопрос о дальнейшем сотрудничестве с театром решается через правительство Москвы. Кто займет место Ширвиндта — неизвестно.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/10/aleksandr-shirvindt-chinovniki-podtiraiutsia-etimi-vozzvaniiami
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/10/aleksandr-shirvindt-chinovniki-podtiraiutsia-etimi-vozzvaniiami](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/10/aleksandr-shirvindt-chinovniki-podtiraiutsia-etimi-vozzvaniiami)
 
 Сейчас Ширвиндту 87 лет. В его актерский и режиссерский послужные списки входит работа в Московском драматическом театре на Малой Бронной и в «Ленкоме», а также десятки фильмов, включая «Двенадцать стульев», «Вокзал для двоих» и «Иронию судьбы».

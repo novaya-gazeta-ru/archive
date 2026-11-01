@@ -17,10 +17,10 @@ tags: ""
 
 Заворал отметил, что не может назвать диагноз президента, так как не получил на это его согласия.
 
-Незадолго до госпитализации Земан встретился с премьером страны Андреем Бабишем, чье правоцентристское политическое движение АНО («Акция недовольных граждан») [проиграло](https://novayagazeta.ru/articles/2021/10/09/na-parlamentskikh-vyborakh-v-chekhii-oppozitsionnaia-koalitsiia-oboshla-partiiu-premera-babisha-news) коалиции «Вместе» на прошедших накануне выборах парламентских выборах. «Вместе» получила 27,8% голосов, АНО — 27,1%.
+Незадолго до госпитализации Земан встретился с премьером страны Андреем Бабишем, чье правоцентристское политическое движение АНО («Акция недовольных граждан») [проиграло](2021/10/09/na-parlamentskikh-vyborakh-v-chekhii-oppozitsionnaia-koalitsiia-oboshla-partiiu-premera-babisha-news.md) коалиции «Вместе» на прошедших накануне выборах парламентских выборах. «Вместе» получила 27,8% голосов, АНО — 27,1%.
 
 Перед выборами Земан [поддерживал](https://www.rbc.ru/rbcfreenews/6162c3129a7947d96b10304b) Бабиша, а также говорил, что поручит формирование правительства председателю наиболее успешной партии, а не коалиции.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/09/na-parlamentskikh-vyborakh-v-chekhii-oppozitsionnaia-koalitsiia-oboshla-partiiu-premera-babisha-news
+**Читайте также:** [На парламентских выборах в Чехии оппозиционная коалиция обошла партию премьера Бабиша](2021/10/09/na-parlamentskikh-vyborakh-v-chekhii-oppozitsionnaia-koalitsiia-oboshla-partiiu-premera-babisha-news.md)
 
-В сентябре 77-летний Земан провел восемь ночей в госпитале из-за обезвоживания и легкого истощения. Политик болен диабетом и [передвигается](https://novayagazeta.ru/articles/2021/04/11/ne-vizhu-v-etom-nichego-plokhogo-prezident-chekhii-milosh-zeman-budet-peredvigatsia-v-invalidnom-kresle) в инвалидном кресле из-за болезни ног.
+В сентябре 77-летний Земан провел восемь ночей в госпитале из-за обезвоживания и легкого истощения. Политик болен диабетом и [передвигается](2021/04/11/ne-vizhu-v-etom-nichego-plokhogo-prezident-chekhii-milosh-zeman-budet-peredvigatsia-v-invalidnom-kresle.md) в инвалидном кресле из-за болезни ног.

@@ -23,7 +23,7 @@ tags: "петербург, следователь, следственный ко
 
 Николай Воробьев оправдан по ч.4 ст.229 УК (хищение наркотиков) за непричастностью с правом на реабилитацию.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/31/libo-my-sotrudnichaem-libo-ty-poedesh-v-tiurmu
+**Читайте также:** [https://novayagazeta.ru/articles/2021/03/31/libo-my-sotrudnichaem-libo-ty-poedesh-v-tiurmu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/03/31/libo-my-sotrudnichaem-libo-ty-poedesh-v-tiurmu)
 
 По ч.3 ст.159.2 УК его признали виновным и назначили наказание в виде 3,5 лет колонии общего режима.
 

@@ -17,9 +17,9 @@ tags: "кадыров, кризис, прямая линия, путин"
 
 *Фото: пресс-служба Кремля*
 
-**link:** https://novayagazeta.ru/news/1702420.html
+**link:** [https://novayagazeta.ru/news/1702420.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1702420.html)
 
-**link:** https://novayagazeta.ru/news/1702420.html
+**link:** [https://novayagazeta.ru/news/1702420.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1702420.html)
 
 # Офшорный скандал с участием друзей: информация достоверная, но это провокация США
 

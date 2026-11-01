@@ -29,4 +29,4 @@ tags: "youtube, симоньян, rt, германия, sf"
 
 В Google уточнили, что второй канал RT заблокировали, так как во время приостановки первого редакция использовала его, чтобы обойти ограничения.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/06/rabota-nad-oshibkami
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/06/rabota-nad-oshibkami](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/06/rabota-nad-oshibkami)

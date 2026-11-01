@@ -13,7 +13,7 @@ tags: ""
 
 *Военный аналитик Валерий Ширяев разбирает ключевые события в мире*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/25/putin-vstretilsia-s-trampom
+**Читайте также:** [Путин встретился с Трампом](2025/08/25/putin-vstretilsia-s-trampom.md)
 
 Читайте также
 

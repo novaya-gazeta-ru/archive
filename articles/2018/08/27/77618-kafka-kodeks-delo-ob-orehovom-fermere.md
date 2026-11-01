@@ -49,10 +49,10 @@ tags: "земля, россия, фермеры, судьи, суды, кафк�
 
 **В предыдущей серии:**
 
-**link:** https://novayagazeta.ru/articles/2018/08/13/77472-kafka-kodeks-delo-o-ezhe-i-zerkale
+**link:** [«Кафка-кодекс»: Дело о Еже и Зеркале](2018/08/13/77472-kafka-kodeks-delo-o-ezhe-i-zerkale.md)
 
 **Над проектом работают:**
 
 Леонид Никитинский, Анна Игнатенко, «Новая газета», Юлия Счастливцева, специально для «Новой»
 
-**link:** https://novayagazeta.ru/articles/2018/08/13/77482-chto-takoe-kafka-kodeks
+**link:** [Что такое «Кафка-кодекс»](2018/08/13/77482-chto-takoe-kafka-kodeks.md)

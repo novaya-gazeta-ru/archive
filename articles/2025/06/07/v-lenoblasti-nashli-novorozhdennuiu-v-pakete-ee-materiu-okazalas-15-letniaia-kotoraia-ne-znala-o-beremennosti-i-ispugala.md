@@ -41,4 +41,4 @@ tags: ""
 
 Так в России пытаются повлиять на темпы рождаемости, упавшей до исторических минимумов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/05/22/v-nizhegorodskoi-oblasti-interesuiushchikhsia-abortom-rossiianok-budet-vyiavliat-demograficheskii-spetsnaz-news
+**Читайте также:** [В Нижегородской области интересующихся абортом россиянок будет выявлять «демографический спецназ»](2025/05/22/v-nizhegorodskoi-oblasti-interesuiushchikhsia-abortom-rossiianok-budet-vyiavliat-demograficheskii-spetsnaz-news.md)

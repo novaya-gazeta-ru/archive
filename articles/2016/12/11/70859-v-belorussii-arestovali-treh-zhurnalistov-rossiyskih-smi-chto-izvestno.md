@@ -19,7 +19,7 @@ tags: "экстремизм, журналисты, идеология, бело�
 
 Уголовное дело было возбуждено после того, как министерство информации обратилось в следственный комитет и направило туда тексты Павловца, Алимкина и Шиптенко. Статья 130 предполагает меру пресечения в виде содержания под стражей, куда и отправились все трое.
 
-**link:** https://novayagazeta.ru/news/2016/12/10/127347-v-belorussii-obvinili-rossiyskie-smi-v-oskorblenii-belorusskogo-naroda
+**link:** [https://novayagazeta.ru/news/2016/12/10/127347-v-belorussii-obvinili-rossiyskie-smi-v-oskorblenii-belorusskogo-naroda](https://web.archive.org/web/*/https://novayagazeta.ru/news/2016/12/10/127347-v-belorussii-obvinili-rossiyskie-smi-v-oskorblenii-belorusskogo-naroda)
 
 Реакция либерального сообщества Белоруссии разделилось на три части.
 

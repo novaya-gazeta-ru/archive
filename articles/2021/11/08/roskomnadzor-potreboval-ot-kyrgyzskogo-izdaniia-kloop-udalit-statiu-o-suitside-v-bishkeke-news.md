@@ -21,7 +21,7 @@ tags: "цензура, россия, сми, sn"
 
 Родственники юноши упрекали спасателей в бездействии: по словам родных, они могли бы установить батуты. В свою очередь, сотрудники МЧС настаивали, что это противоречит технике безопасности.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/20/v-rossiiu-vernulas-tsenzura
+**Читайте также:** [https://novayagazeta.ru/articles/2021/10/20/v-rossiiu-vernulas-tsenzura](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/10/20/v-rossiiu-vernulas-tsenzura)
 
 Кыргызское интернет-издание «Клооп», часто публикующее собственные расследования, существует с 2007 года. В 2014 году ресурс был [заблокирован](https://kloop.kg/blog/2014/11/26/kazahstan-zablokiroval-kloop-kg-posle-materiala-o-detyah-dzhihadistah/) властями Казахстана после публикации статьи о «казахских детях-джихадистах».
 

@@ -23,6 +23,6 @@ tags: "антисемитизм, репрессии, подкаст, насто�
 >
 > Soundcloud | Castbox | Подкасты ВКонтакте | Apple Podcasts | Google Podcasts
 
-**link:** https://novayagazeta.ru/articles/2020/06/07/85733-voznesenskiy-vsesoyuznaya-lyubov-vsesoyuznaya-travlya-i-million-alyh-roz
+**link:** [Настоящее прошлое. Вознесенский](2020/06/07/85733-voznesenskiy-vsesoyuznaya-lyubov-vsesoyuznaya-travlya-i-million-alyh-roz.md)
 
 Иллюстрация обложки подкаста: Петр Саруханов / «Новая газета»

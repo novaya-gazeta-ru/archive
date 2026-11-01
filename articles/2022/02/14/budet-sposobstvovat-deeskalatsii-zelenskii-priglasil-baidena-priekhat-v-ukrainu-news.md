@@ -21,6 +21,6 @@ tags: "россия, украина, сша, зеленский, байден, �
 
 При этом источник CNN в правительстве США [назвал](https://edition.cnn.com/2022/02/13/politics/biden-zelensky-call/index.html) визит Байдена в Украину «очень маловероятным». Bloomberg, ссылаясь на источники, [утверждает](https://www.bloomberg.com/news/articles/2022-02-13/kyiv-minister-says-situation-under-control-ukraine-update?utm_campaign=bn&utm_medium=distro&utm_source=yahooUS), что во время разговора американский президент не дал Зеленскому четких ответов на просьбы о помощи и приглашение посетить Украины.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/13/tri-dnia-do-16-go
+**Читайте также:** [Три дня до 16-го](2022/02/13/tri-dnia-do-16-go.md)
 
-Накануне расследовательская группа Conflict Intelligence Team (CIT) [заметила](https://novayagazeta.ru/articles/2022/02/13/cit-zametila-perebrosku-dopolnitelnoi-voennoi-tekhniki-k-granitse-s-ukrainoi-news) переброску российской военной техники к границе с Украиной. На видео из Воронежской и Белгородской областей специалисты распознали «эшелоны с самоходными артиллерийскими установками "Мста-С" и танками Т-80У».
+Накануне расследовательская группа Conflict Intelligence Team (CIT) [заметила](2022/02/13/cit-zametila-perebrosku-dopolnitelnoi-voennoi-tekhniki-k-granitse-s-ukrainoi-news.md) переброску российской военной техники к границе с Украиной. На видео из Воронежской и Белгородской областей специалисты распознали «эшелоны с самоходными артиллерийскими установками "Мста-С" и танками Т-80У».

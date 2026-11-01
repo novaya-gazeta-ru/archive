@@ -112,7 +112,7 @@ tags: "беслан, фатя"
 
 Думаю, вселенная неспроста оставляет эту дверь в прошлое приоткрытой.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/10/v-iuzhnom-fligele-ne-vyzhil-nikto
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/10/v-iuzhnom-fligele-ne-vyzhil-nikto](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/10/v-iuzhnom-fligele-ne-vyzhil-nikto)
 
 Материалы расследования бесланцев об обстоятельствах гибели 333 заложников и посвященные ему публикации «Новой газеты» вы можете найти нашем сайте и на сайте [pravdabeslana.ru](http://pravdabeslana.ru/).
 

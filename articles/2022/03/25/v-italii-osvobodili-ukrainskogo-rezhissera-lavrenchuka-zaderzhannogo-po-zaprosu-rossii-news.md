@@ -19,9 +19,9 @@ tags: "италия, освобождение, режиссеры, интерп�
 
 Денисова поблагодарила министра юстиции Италии Марти Картабиа, главу Нацполиции Украины Игоря Клименко и консульскую службу Украины в Италии, совместная работа которых привела к освобождению Лавренчука.
 
-В январе Апелляционный суд Неаполя [отпустил](https://novayagazeta.ru/articles/2022/01/21/sud-otpustil-pod-domashnii-arest-ukrainskogo-rezhissera-lavrenchuka-zaderzhannogo-v-italii-po-zaprosu-rossii-news) украинского режиссера под домашний арест. Об аресте Лавренчука [стало известно](https://novayagazeta.ru/articles/2022/01/04/v-italii-po-zaprosu-rossii-arestovali-ukrainskogo-rezhissera-lavrenchuka-ego-obviniaiut-v-krupnom-moshennichestve-news) 4 января, но пресс-секретарь Министерства иностранных дел Украины Олег Николенко [сообщал](https://hromadske.ua/posts/v-italiyi-za-zapitom-rosiyi-zatrimali-ukrayinskogo-rezhisera-yevgena-lavrenchuka-jogo-vidpravili-pid-vartu), что режиссера взяли под стражу еще 17 декабря прошлого года.
+В январе Апелляционный суд Неаполя [отпустил](2022/01/21/sud-otpustil-pod-domashnii-arest-ukrainskogo-rezhissera-lavrenchuka-zaderzhannogo-v-italii-po-zaprosu-rossii-news.md) украинского режиссера под домашний арест. Об аресте Лавренчука [стало известно](2022/01/04/v-italii-po-zaprosu-rossii-arestovali-ukrainskogo-rezhissera-lavrenchuka-ego-obviniaiut-v-krupnom-moshennichestve-news.md) 4 января, но пресс-секретарь Министерства иностранных дел Украины Олег Николенко [сообщал](https://hromadske.ua/posts/v-italiyi-za-zapitom-rosiyi-zatrimali-ukrayinskogo-rezhisera-yevgena-lavrenchuka-jogo-vidpravili-pid-vartu), что режиссера взяли под стражу еще 17 декабря прошлого года.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/22/kakoi-tsement-skrepliaet-teatr
+**Читайте также:** [Какой «Цемент» скрепляет театр](2021/12/22/kakoi-tsement-skrepliaet-teatr.md)
 
 Евгений Лавренчук [родился](https://www.gazeta.ru/politics/2022/01/03/14384185.shtml) во Львове в 1982 году. В 2003 году он завершил обучение в Российской академии театрального искусства по специальности «оперный режиссер». Спустя год Лавренчук основал «Польский театр в Москве». Тогда же его наградили Золотой медалью, а также титулами «Юбиляр года» и «Младший режиссер года» на выставке «Сцена России».
 

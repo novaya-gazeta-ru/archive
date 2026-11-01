@@ -87,7 +87,7 @@ tags: "украина, луганск, лнр, война"
 
 — Да.
 
-**link:** https://novayagazeta.ru/articles/2019/05/08/80458-monologi-lyudey-voevavshih-v-chechne-donbasse-i-afganistane
+**link:** [«Это для меня было страшнее боя...»](2019/05/08/80458-monologi-lyudey-voevavshih-v-chechne-donbasse-i-afganistane.md)
 
 **— Вы сказали, что деревню Новосветловку никогда не забудете. Что там было?**
 
@@ -117,7 +117,7 @@ tags: "украина, луганск, лнр, война"
 
 — Потом мы два дня находились в этой деревне. Обеспечивали покой мирных жителей.
 
-**link:** https://novayagazeta.ru/articles/2019/05/08/80456-posle-voyny
+**link:** [После Войны](2019/05/08/80456-posle-voyny.md)
 
 **— Дальше вы должны были продвигаться вглубь Украины?**
 

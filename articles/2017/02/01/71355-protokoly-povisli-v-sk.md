@@ -21,7 +21,7 @@ tags: "выборы, фальсификация, нарушения, смоле�
 
 *Сотни голосов, приписанных «Единой России» на выборах в Думу, председатели смоленских УИК объяснили «усталостью и невнимательностью»*
 
-**link:** https://novayagazeta.ru/articles/2016/12/04/70762-kak-na-samom-dele-proshli-vybory-v-moskovskoy-oblasti
+**link:** [Мытищи-гейт](2016/12/04/70762-kak-na-samom-dele-proshli-vybory-v-moskovskoy-oblasti.md)
 
 # «Не представляет общественной опасности»
 

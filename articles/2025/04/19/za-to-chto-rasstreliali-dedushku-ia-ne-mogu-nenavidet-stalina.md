@@ -196,4 +196,4 @@ No comments.
 
 #### ** Внесены Минюстом РФ в реестр «иноагентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/16/kamufliazhnaia-shapochka-u-kotoroi-pirozhki-isportilis
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/16/kamufliazhnaia-shapochka-u-kotoroi-pirozhki-isportilis](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/16/kamufliazhnaia-shapochka-u-kotoroi-pirozhki-isportilis)

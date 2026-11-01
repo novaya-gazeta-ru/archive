@@ -17,8 +17,8 @@ tags: "митинги, выборы в мосгордуму, штрафы, kb"
 
 Адвокат добавил, что защита просила вызвать в суд свидетелей и полицейских, которые составили протокол, но в ходатайстве отказали. Кутенков свою вину отрицает. Бирюков заявил о намерении обжаловать решение суда.
 
-20 июля на митинге в Москве Кутенкова жестко задержали. После этого врачи [диагностировали ](https://www.novayagazeta.ru/news/2019/07/20/153524-u-zaderzhannogo-na-aktsii-v-podderzhku-nezavisimyh-kandidatov-v-mosgordumu-diagnostirovali-perelom-ruki)у него закрытый кривой перелом правой руки.
+20 июля на митинге в Москве Кутенкова жестко задержали. После этого врачи [диагностировали ](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/07/20/153524-u-zaderzhannogo-na-aktsii-v-podderzhku-nezavisimyh-kandidatov-v-mosgordumu-diagnostirovali-perelom-ruki)у него закрытый кривой перелом правой руки.
 
 В согласованной акции за свободные выборы в Мосгордуму на проспекте Сахарова участвовали более 20 тысяч человек. По данным «ОВД-Инфо» силовики задержали около 6−7 человек.
 
-**link:** https://novayagazeta.ru/articles/2019/07/21/81324-tranzitnaya-situatsiya
+**link:** [Транзитная ситуация](2019/07/21/81324-tranzitnaya-situatsiya.md)

@@ -19,10 +19,10 @@ tags: "sf, коронавирус, евросоюз, вакцина, biontech, p
 
 Глава Еврокомиссии Урсула фон дер Ляйен [написала](https://twitter.com/vonderleyen/status/1341022130591440896) в твиттере, что ожидает принятия окончательного решения об использовании вакцины в ЕС уже к вечеру.
 
-Ранее вакцину от Pfizer и BioNTech [одобрило](https://novayagazeta.ru/news/2020/12/12/166379-v-ssha-odobrili-ispolzovanie-vaktsiny-pfizer-i-biontech-ot-covid-19) Управление по санитарному надзору за качеством пищевых продуктов и медикаментов (FDA) США. Вакцинироваться могут люди от 16 лет.
+Ранее вакцину от Pfizer и BioNTech [одобрило](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/12/12/166379-v-ssha-odobrili-ispolzovanie-vaktsiny-pfizer-i-biontech-ot-covid-19) Управление по санитарному надзору за качеством пищевых продуктов и медикаментов (FDA) США. Вакцинироваться могут люди от 16 лет.
 
-**link:** https://novayagazeta.ru/articles/2020/12/19/88446-korobka
+**link:** [Коробка](2020/12/19/88446-korobka.md)
 
-В Великобритании уже [началась](https://novayagazeta.ru/news/2020/12/09/166317-kanada-odobrila-ispolzovanie-vaktsiny-pfizer-ot-koronavirusa) вакцинация от COVID-19 препаратом Pfizer и BioNTech. Его использование одобрили также Канада и Мексика.
+В Великобритании уже [началась](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/12/09/166317-kanada-odobrila-ispolzovanie-vaktsiny-pfizer-ot-koronavirusa) вакцинация от COVID-19 препаратом Pfizer и BioNTech. Его использование одобрили также Канада и Мексика.
 
 По данным разработчиков, эффективность вакцины BioNTech и Pfizer составляет 95%. Человеку необходимо ввести две дозы с разницей в три недели.

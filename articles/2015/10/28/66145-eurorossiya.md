@@ -47,12 +47,12 @@ tags: "дипломатия, европа"
 
 **Андрей ЛИПСКИЙ,** заместитель главного редактора «Новой»
 
-**link:** https://novayagazeta.ru/comments/70496.html
+**link:** [https://novayagazeta.ru/comments/70496.html](https://web.archive.org/web/*/https://novayagazeta.ru/comments/70496.html)
 
-**link:** https://novayagazeta.ru/comments/70496.html
+**link:** [https://novayagazeta.ru/comments/70496.html](https://web.archive.org/web/*/https://novayagazeta.ru/comments/70496.html)
 
 #
 
-**link:** https://novayagazeta.ru/politics/70497.html
+**link:** [https://novayagazeta.ru/politics/70497.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/70497.html)
 
-**link:** https://novayagazeta.ru/politics/70497.html
+**link:** [https://novayagazeta.ru/politics/70497.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/70497.html)

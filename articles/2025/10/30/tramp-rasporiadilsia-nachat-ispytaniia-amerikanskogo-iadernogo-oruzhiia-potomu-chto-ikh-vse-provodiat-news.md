@@ -19,7 +19,7 @@ tags: ""
 
 Подготовка к испытаниям Пентагон, по словам Трампа, начинает «немедленно».
 
-Заявления прозвучали накануне встречи с китайским лидером Си Цзиньпином. И вскоре после выступлений президента России Владимира Путина о серии успешных [испытаний ракеты «Буревестник»](https://novayagazeta.ru/articles/2025/10/28/atomnyi-dvigatel-poletel-poka-voennyi) с ядерной установкой (двигателем), а затем и глубоководного супероружия «Посейдон» [с ядерным же двигателем](https://novayagazeta.ru/articles/2025/10/29/putin-rasskazal-patsientam-voennogo-gospitalia-ob-uspeshnykh-ispytaniiakh-iadernogo-podvodnogo-bespilotnika-poseidon-vpervye-on-anonsiroval-eto-oruzhie-eshche-7-let-nazad-news).
+Заявления прозвучали накануне встречи с китайским лидером Си Цзиньпином. И вскоре после выступлений президента России Владимира Путина о серии успешных [испытаний ракеты «Буревестник»](2025/10/28/atomnyi-dvigatel-poletel-poka-voennyi.md) с ядерной установкой (двигателем), а затем и глубоководного супероружия «Посейдон» [с ядерным же двигателем](2025/10/29/putin-rasskazal-patsientam-voennogo-gospitalia-ob-uspeshnykh-ispytaniiakh-iadernogo-podvodnogo-bespilotnika-poseidon-vpe.md).
 
 Трамп в октябре, комментируя российские испытания, уже расхваливал американское ядерное оружие, вспоминал об американских ядерных субмаринах.
 

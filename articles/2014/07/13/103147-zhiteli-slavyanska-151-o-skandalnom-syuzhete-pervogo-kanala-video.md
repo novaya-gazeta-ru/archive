@@ -17,7 +17,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td><a href="http://www.novayagazeta.ru/photos/64360.html"><img alt="" src="https://static.novayagazeta.ru/storage/c/2014/07/13/1405275538_499359_70.jpg" style="width: 285px; height: 185px;"></a> <a href="http://www.novayagazeta.ru/photos/64360.html" target="_blank"><strong>9-10 июля</strong></a>. Славянск и Краматорск</td>
-			<td><a href="http://www.novayagazeta.ru/photos/64406.html"><img alt="" src="https://static.novayagazeta.ru/storage/c/2014/07/13/1405275554_715930_17.jpg" style="width: 285px; height: 185px;"></a><a href="http://www.novayagazeta.ru/photos/64406.html" target="_blank"><strong>12 июля</strong></a>. Славянск и его окрестности</td>
+			<td><a href="[http://www.novayagazeta.ru/photos/64360.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/64360.html)"><img alt="" src="https://static.novayagazeta.ru/storage/c/2014/07/13/1405275538_499359_70.jpg" style="width: 285px; height: 185px;"></a> <a href="[http://www.novayagazeta.ru/photos/64360.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/64360.html)" target="_blank"><strong>9-10 июля</strong></a>. Славянск и Краматорск</td>
+			<td><a href="[http://www.novayagazeta.ru/photos/64406.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/64406.html)"><img alt="" src="https://static.novayagazeta.ru/storage/c/2014/07/13/1405275554_715930_17.jpg" style="width: 285px; height: 185px;"></a><a href="[http://www.novayagazeta.ru/photos/64406.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/64406.html)" target="_blank"><strong>12 июля</strong></a>. Славянск и его окрестности</td>
 		</tr>
 	</tbody>]*

@@ -51,9 +51,9 @@ tags: "дискуссия, культура, театр, украина"
 
 **О.Т.:** Конечно. Но у Шевчука дорогостоящее шоу, ему надо окупать затраты, а его концерты отменяют даже не по приказу сверху, а потому что уже боятся на местах.
 
-**link:** https://novayagazeta.ru/columns/69110.html
+**link:** [https://novayagazeta.ru/columns/69110.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/69110.html)
 
-**link:** https://novayagazeta.ru/columns/69110.html
+**link:** [https://novayagazeta.ru/columns/69110.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/69110.html)
 
 **М.Т.:** Случай Земфиры особо странный еще и потому, что человек просто сделал жест. Кстати, понятие жеста ввел Брехт в середине 30-х, и с тех пор жест бывал манифестом, типом поведения, выбором…
 

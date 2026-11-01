@@ -13,4 +13,4 @@ tags: ""
 
 *Мария. Знак. Отправив Марию Колесникову и Максима Знака в колонию на долгие годы, Лукашенко думает, что победил. Но это не так*
 
-https://novayagazeta.ru/issues/3166
+[https://novayagazeta.ru/issues/3166](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3166)

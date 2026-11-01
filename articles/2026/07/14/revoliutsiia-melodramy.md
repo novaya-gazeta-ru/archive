@@ -67,4 +67,4 @@ Ford Mustang — третий лишний. Красный (но меняющи�
 >
 > Лариса Малюкова ведет телеграм-канал о кино и не только. [Подписывайтесь тут](https://t.me/larisamalukova).
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/11/kak-mafiia-i-dante-zabludilis-v-chistilishche
+**Читайте также:** [Как мафия и Данте заблудились в чистилище](2026/07/11/kak-mafiia-i-dante-zabludilis-v-chistilishche.md)

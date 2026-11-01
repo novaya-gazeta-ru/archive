@@ -19,12 +19,12 @@ tags: ""
 
 9 декабря над сирийским посольством в Москве подняли флаг оппозиции, захватившей власть в Сирии за две недели. Кремль признал, что семья Башара Асада по личному распоряжению президента Путина получила в РФ политическое убежище.
 
-А пока захватившая реальную власть в Сирии группировка вооруженной оппозиции и ее лидер аль-Джулани [гарантировали неприкосновенность](https://novayagazeta.ru/articles/2024/12/09/posolstvo-sirii-v-moskve-podnialo-flag-povstantsev-asad-s-semei-ukrylsia-v-rossii-ssha-i-izrail-nanesli-aviaudary-po-tseliam-v-sirii-glavnoe-news) членам бывшего правительства Асада. Бывший премьер правительства собирается официально передать власть, возможен вариант с появлением временного переходного правительства.
+А пока захватившая реальную власть в Сирии группировка вооруженной оппозиции и ее лидер аль-Джулани [гарантировали неприкосновенность](2024/12/09/posolstvo-sirii-v-moskve-podnialo-flag-povstantsev-asad-s-semei-ukrylsia-v-rossii-ssha-i-izrail-nanesli-aviaudary-po-tse.md) членам бывшего правительства Асада. Бывший премьер правительства собирается официально передать власть, возможен вариант с появлением временного переходного правительства.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/09/v-gosdume-zaiavili-chto-rossiiskie-voennye-v-sirii-nakhodiatsia-v-bezopasnosti-a-oppozitsiia-v-sluchae-vtorzheniia-na-bazu-rf-poluchit-po-sopliam-news
+**Читайте также:** [В Госдуме заявили, что российские военные в Сирии находятся в безопасности. А оппозиция в случае вторжения на базу РФ получит «по соплям»&nbsp;](2024/12/09/v-gosdume-zaiavili-chto-rossiiskie-voennye-v-sirii-nakhodiatsia-v-bezopasnosti-a-oppozitsiia-v-sluchae-vtorzheniia-na-ba.md)
 
 Аль-Джаафари стал послом Сирии в России в ноябре 2022 года. До того он занимал пост замглавы МИД.
 
 Семья Асадов правила Сирией последние 50 лет. Во время гражданской войны 2015-2017 гг. и операции объединенных сил против террористов удержаться на посту президента Башару Асаду помогла Россия, получив после этого военные базы в Сирии.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/09/smi-pokazali-kadry-razgrablennogo-dvortsa-asada-v-damaske-news
+**Читайте также:** [СМИ показали кадры разграбленного дворца Асада в Дамаске](2024/12/09/smi-pokazali-kadry-razgrablennogo-dvortsa-asada-v-damaske-news.md)

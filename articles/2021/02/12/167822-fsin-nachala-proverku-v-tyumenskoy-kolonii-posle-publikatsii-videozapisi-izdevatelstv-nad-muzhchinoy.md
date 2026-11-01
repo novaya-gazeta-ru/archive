@@ -19,6 +19,6 @@ tags: "sn, тюмень, колония, пытки"
 
 В УФСИН намерены установить, действительно ли данная видеозапись производилась в колонии строгого режима. Ранее местные СМИ сообщали о различных нарушения в этом исправительном учреждении. Так, например, в прошлом месяце [стало известно](https://ural-meridian.ru/news/283759/), что заключенные тюменской колонии незаконно жарили шашлык, достав продукты через сотрудников ИК.
 
-Колония №1 располагается в центре Тюмени. Этим летом ее руководителя [приговорили](https://novayagazeta.ru/news/2020/08/19/163827-v-tyumeni-eks-nachalnika-kolonii-prigovorili-k-8-godam-lisheniya-svobody-za-pereselenie-zaklyuchennyh-v-vip-kamery) к 8 годам лишения свободы за взяточничество, организацию ВИП-камер и и незаконное хранение боеприпасов.
+Колония №1 располагается в центре Тюмени. Этим летом ее руководителя [приговорили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/08/19/163827-v-tyumeni-eks-nachalnika-kolonii-prigovorili-k-8-godam-lisheniya-svobody-za-pereselenie-zaklyuchennyh-v-vip-kamery) к 8 годам лишения свободы за взяточничество, организацию ВИП-камер и и незаконное хранение боеприпасов.
 
-**link:** https://novayagazeta.ru/articles/2021/01/29/88949-oni-nasilovali-konkretno-teh-kto-za-chto-to-otvechal-v-kolonii
+**link:** [«Они насиловали конкретно тех, кто за что-то отвечал в колонии» (18+)](2021/01/29/88949-oni-nasilovali-konkretno-teh-kto-za-chto-to-otvechal-v-kolonii.md)

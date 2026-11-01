@@ -75,4 +75,4 @@ tags: "рассказы, время, календарь, застой, глух�
 
 — Словно помолодел даже, — вздохнула Инна.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/01/29/88957-dmitriy-gluhovskiy-suschestvovanie-geroya-sozdaet-tsinikam-ogromnyy-psihologicheskiy-diskomfort
+**Читайте также:** [Дмитрий Глуховский: «Существование героя создает циникам огромный психологический дискомфорт»](2021/01/29/88957-dmitriy-gluhovskiy-suschestvovanie-geroya-sozdaet-tsinikam-ogromnyy-psihologicheskiy-diskomfort.md)

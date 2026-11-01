@@ -19,10 +19,10 @@ tags: "насилие, беларусь, реанимация, изолятор,
 
 Врачи со ссылкой на силовиков [заявили](https://belsat.eu/news/u-shpital-z-akrestsina-dastavili-chalaveka-z-adkrytaj-chmt-tsyaper-yon-u-reanimatsyi/) брату погибшего, что Кузнецов «упал со второго яруса койки».
 
-**link:** https://novayagazeta.ru/articles/2020/10/02/87347-es-ostavil-pole-dlya-manevra
+**link:** [ЕС оставил поле для маневра](2020/10/02/87347-es-ostavil-pole-dlya-manevra.md)
 
-[Евросоюз](https://novayagazeta.ru/news/2020/10/02/164633-evrosoyuz-vvel-sanktsii-protiv-belarusi) и [США](https://novayagazeta.ru/news/2020/10/02/164657-ssha-vveli-sanktsii-protiv-vosmi-chinovnikov-belarusi-v-spisok-voshli-glavy-mvd-minfina-i-tsik) 2 октября ввели санкции против официальных лиц Беларуси, причастных к нарушению прав человека в стране и фальсификациям на выборах президента. Санкции ввели в том числе за репрессии после президентских выборов, за аресты и жестокое обращение с мирными демонстрантами.
+[Евросоюз](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/02/164633-evrosoyuz-vvel-sanktsii-protiv-belarusi) и [США](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/02/164657-ssha-vveli-sanktsii-protiv-vosmi-chinovnikov-belarusi-v-spisok-voshli-glavy-mvd-minfina-i-tsik) 2 октября ввели санкции против официальных лиц Беларуси, причастных к нарушению прав человека в стране и фальсификациям на выборах президента. Санкции ввели в том числе за репрессии после президентских выборов, за аресты и жестокое обращение с мирными демонстрантами.
 
 Протесты в Беларуси проходят с 9 августа. Каждый день в центре Минска и других городах страны проходят акции протеста, на митингах и шествиях в воскресенье собираются сотни тысяч мирно протестующих. Они требуют освободить всех политзаключенных и провести новые честные выборы, так как считают, что результаты выборов 9 августа, которые огласил ЦИК Беларуси, сфальсифицированы.
 
-На фоне протестов были задержаны десятки тысяч людей, многие из которых сообщали о насилии со стороны силовиков. Известно как минимум о [четырех](https://novayagazeta.ru/news/2020/08/22/163870-muzhchinu-iz-spiska-propavshih-bez-vesti-posle-protestov-v-belarusi-nashli-mertvym-v-minske) погибших участниках протеста, официально МВД Беларуси сообщало о трех.
+На фоне протестов были задержаны десятки тысяч людей, многие из которых сообщали о насилии со стороны силовиков. Известно как минимум о [четырех](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/08/22/163870-muzhchinu-iz-spiska-propavshih-bez-vesti-posle-protestov-v-belarusi-nashli-mertvym-v-minske) погибших участниках протеста, официально МВД Беларуси сообщало о трех.

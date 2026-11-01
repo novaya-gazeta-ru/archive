@@ -35,6 +35,6 @@ tags: "актеры, дело дмитриева, репрессии, мемор
 # \
  Максим Суханов — в поддержку Юрия Дмитриева
 
-**link:** https://novayagazeta.ru/articles/2020/07/02/86121-vnutrennyaya-svoboda-samoe-glavnoe-u-cheloveka
+**link:** [«Внутренняя свобода человека дороже всего»](2020/07/02/86121-vnutrennyaya-svoboda-samoe-glavnoe-u-cheloveka.md)
 
-**link:** https://novayagazeta.ru/articles/2020/07/03/86138-zdorovya-terpeniya-uporstva-i-nadezhdy
+**link:** [«Здоровья, терпения, упорства и надежды»](2020/07/03/86138-zdorovya-terpeniya-uporstva-i-nadezhdy.md)

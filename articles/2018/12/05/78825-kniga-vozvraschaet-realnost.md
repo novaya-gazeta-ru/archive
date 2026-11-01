@@ -81,7 +81,7 @@ ___
 
 1. Катерина Гордеева/Чулпан Хаматова «Время колоть лед» 2. Гузель Яхина «Дети мои» 3. Алексей Иванов «Пищеблок»
 
-**link:** https://novayagazeta.ru/articles/2017/12/02/74774-massovogo-chitatelya-bolshe-net
+**link:** [«Массового читателя больше нет»](2017/12/02/74774-massovogo-chitatelya-bolshe-net.md)
 
 ___
 

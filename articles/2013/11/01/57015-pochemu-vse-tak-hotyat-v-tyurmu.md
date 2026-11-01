@@ -16,7 +16,7 @@ tags: "правозащитники, тюрьмы"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/10/31/1383224848_411009_34.jpg" style="width: 360px; height: 529px;"><em><sup>Фото: РИА Новости</sup></em></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/10/31/1383224848_411009_34.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/10/31/1383224848_411009_34.jpg)" style="width: 360px; height: 529px;"><em><sup>Фото: РИА Новости</sup></em></td>
 		</tr>
 	</tbody>]*
 
@@ -41,7 +41,7 @@ tags: "правозащитники, тюрьмы"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/10/31/1383224613_666080_32.jpg" style="width: 360px; height: 266px;"><sup>Антон Цветков. Фото: РИА Новости</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/10/31/1383224613_666080_32.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/10/31/1383224613_666080_32.jpg)" style="width: 360px; height: 266px;"><sup>Антон Цветков. Фото: РИА Новости</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -88,7 +88,7 @@ tags: "правозащитники, тюрьмы"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/10/31/1383224613_391752_27.jpg" style="width: 360px; height: 516px;"><sup>Валерий Борщев. Фото: РИА Новости</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/10/31/1383224613_391752_27.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/10/31/1383224613_391752_27.jpg)" style="width: 360px; height: 516px;"><sup>Валерий Борщев. Фото: РИА Новости</sup></td>
 		</tr>
 	</tbody>]*
 

@@ -65,7 +65,7 @@ tags: "гаджеты, родители, дети, технологии"
 
 Что каждый должен сделать в своей жизни?
 
-**link:** https://novayagazeta.ru/articles/2018/06/30/76987-skolko-svobody-tebe-nuzhno-i-dlya-chego
+**link:** [«Сколько свободы тебе нужно и для чего?»](2018/06/30/76987-skolko-svobody-tebe-nuzhno-i-dlya-chego.md)
 
 ___
 

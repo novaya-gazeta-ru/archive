@@ -76,7 +76,7 @@ tags: "релоканты, законы, налоги, проживающие з
 
 В случае уголовного преследования — речь идет о конфискации имущества и активов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/15/ty-kak-budto-proigral-v-igre-vse-poterial-i-tebe-nado-zhit-zanovo
+**Читайте также:** [«Ты как будто проиграл в игре — все потерял, и тебе надо жить заново»](2025/03/15/ty-kak-budto-proigral-v-igre-vse-poterial-i-tebe-nado-zhit-zanovo.md)
 
 ## **5. Социальные и правовые ограничения**
 

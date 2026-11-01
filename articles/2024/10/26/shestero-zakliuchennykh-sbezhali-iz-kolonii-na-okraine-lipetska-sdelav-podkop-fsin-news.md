@@ -47,4 +47,4 @@ tags: ""
 >
 > Пятый из шести беглецов из ИК-2 Липецкой области обнаружен в частном секторе Тамбовской области, в районе села Петровское, [сообщила](https://t.me/IrinaVolk_MVD/2773) спикер МВД Ирина Волк.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/22/na-pozhiznenno-osuzhdennogo-eks-senatora-arashukova-zaveli-delo-o-vziatke-v-3-mln-rublei-sotrudniku-fsin-news
+**Читайте также:** [На пожизненно осужденного экс-сенатора Арашукова завели дело о взятке в 3 млн рублей сотруднику ФСИН](2024/10/22/na-pozhiznenno-osuzhdennogo-eks-senatora-arashukova-zaveli-delo-o-vziatke-v-3-mln-rublei-sotrudniku-fsin-news.md)

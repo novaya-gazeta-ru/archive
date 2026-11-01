@@ -17,14 +17,14 @@ tags: "евкуров, кадыров, ингушетия, чечня, va"
 
 При этом председатель местного отделения «Яблока» Руслан Муцольгов [утвержда](https://m.facebook.com/story.php?story_fbid=952882141566621&id=100005345316742&_rdr)л, что из 24 депутатов, присутствующих при тайном голосовании, его поддержали только пятеро, в то время как 15 депутатов выступили против, а еще четверо испортили бюллетени.
 
-**link:** https://novayagazeta.ru/articles/2018/10/04/78069-protest-perehodit-granitsy
+**link:** [Протест переходит границы](2018/10/04/78069-protest-perehodit-granitsy.md)
 
-Напомним, 26 сентября главы Чечни и Ингушетии Рамзан Кадыров и Юнус-Бек Евкуров [подписали](https://www.novayagazeta.ru/news/2018/09/26/145419-glavy-chechni-i-ingushetii-podpisali-soglashenie-o-granitse) соглашение о закреплении административной границы между регионами и обмене равносильными территориями.
+Напомним, 26 сентября главы Чечни и Ингушетии Рамзан Кадыров и Юнус-Бек Евкуров [подписали](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/09/26/145419-glavy-chechni-i-ingushetii-podpisali-soglashenie-o-granitse) соглашение о закреплении административной границы между регионами и обмене равносильными территориями.
 
-В Ингушетии проходило несколько акций протеста против передачи земель Чечне. На митинге в Магасе 29 сентября были [задержаны](http://www.novayagazeta.ru/news/2018/09/29/145512-v-ingushetii-iz-za-mitinga-protiv-peredachi-zemel-chechne-zaderzhali-13-chelovek) 13 человек, а 1 октября активисты [заблокировали](https://www.novayagazeta.ru/news/2018/10/01/145556-interfaks-protivniki-soglasheniya-chechni-i-ingushetii-o-granitsah-razoshlis-posle-besedy-s-izvestnymi-religioznymi-deyatelyami-ranee-oni-perekryli-federalnuyu-trassu) участок федеральной трассы между столицей Ингушетии Магасом и городом Назрань. Они разошлись после «беседы с известными религиозными деятелями», движение на перекрытом участке федеральной трассы было полностью восстановлено.
+В Ингушетии проходило несколько акций протеста против передачи земель Чечне. На митинге в Магасе 29 сентября были [задержаны](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/2018/09/29/145512-v-ingushetii-iz-za-mitinga-protiv-peredachi-zemel-chechne-zaderzhali-13-chelovek) 13 человек, а 1 октября активисты [заблокировали](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/10/01/145556-interfaks-protivniki-soglasheniya-chechni-i-ingushetii-o-granitsah-razoshlis-posle-besedy-s-izvestnymi-religioznymi-deyatelyami-ranee-oni-perekryli-federalnuyu-trassu) участок федеральной трассы между столицей Ингушетии Магасом и городом Назрань. Они разошлись после «беседы с известными религиозными деятелями», движение на перекрытом участке федеральной трассы было полностью восстановлено.
 
-4 октября у здания парламента Ингушетии [прошел](https://www.novayagazeta.ru/news/2018/10/04/145634-v-magase-na-mitinge-u-parlamenta-ingushetii-siloviki-nachali-strelyat-v-vozduh) массовый митинг противников ратификации соглашения, в ходе которого правоохранительные органы открыли огонь в воздух.
+4 октября у здания парламента Ингушетии [прошел](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/10/04/145634-v-magase-na-mitinge-u-parlamenta-ingushetii-siloviki-nachali-strelyat-v-vozduh) массовый митинг противников ратификации соглашения, в ходе которого правоохранительные органы открыли огонь в воздух.
 
-**link:** https://novayagazeta.ru/articles/2018/09/26/77963-chechnya-poluchila-otkaz
+**link:** [Чечня получила отказ?](2018/09/26/77963-chechnya-poluchila-otkaz.md)
 
 Конституционный суд республики также выступал против соглашения о границах без учета мнения жителей. Его председатель Аюп Гагиев [говорил](https://www.interfax.ru/russia/631817) Интерфаксу, что подобный вопрос входит в число тем, определнных местным Конституционным законом «О референдуме Республики Ингушетия».

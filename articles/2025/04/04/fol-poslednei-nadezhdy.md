@@ -47,7 +47,7 @@ tags: "турция, эрдоган, арест, мэр стамбула, има
 
 > проиграть следующую гонку или избавиться от претендента. Он выбрал последний вариант, и это имеет институциональные последствия. Конкурентный авторитаризм превращается в более чистую версию автократического правления.
 
-**Читайте ранее:** https://novayagazeta.ru/articles/2024/04/05/ni-u-vlasti-ni-u-oppozitsii-net-sereznogo-proekta-budushchego
+**Читайте ранее:** [https://novayagazeta.ru/articles/2024/04/05/ni-u-vlasti-ni-u-oppozitsii-net-sereznogo-proekta-budushchego](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/04/05/ni-u-vlasti-ni-u-oppozitsii-net-sereznogo-proekta-budushchego)
 
 ## «Все будет хорошо»?
 

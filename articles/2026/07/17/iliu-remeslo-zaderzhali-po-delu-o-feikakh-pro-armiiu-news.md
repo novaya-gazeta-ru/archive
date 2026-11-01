@@ -15,8 +15,8 @@ tags: ""
 
 В марте Ремесло неожиданно опубликовал серию постов, в которой раскритиковал российскую власть и Путина. На следующий день его [поместили](https://t.me/novaya_pishet/56821) в психиатрическую больницу в Петербурге. Там Ремесло провел около месяца.
 
-В интервью Ксении Собчак Ремесло [рассказал](https://novayagazeta.ru/articles/2026/04/27/raskritikovavshii-putina-bloger-remeslo-obiasnil-svoe-popadanie-v-psikhbolnitsu-skoraia-priekhala-sama-po-sebe-news), что его оставили в стационаре, несмотря на то, что анализы «ничего не показали», а согласие на госпитализацию он подписал задним числом. Заявлял, что хочет стать «инструментом влияния на власть» для предпринимателей и промышленников.
+В интервью Ксении Собчак Ремесло [рассказал](2026/04/27/raskritikovavshii-putina-bloger-remeslo-obiasnil-svoe-popadanie-v-psikhbolnitsu-skoraia-priekhala-sama-po-sebe-news.md), что его оставили в стационаре, несмотря на то, что анализы «ничего не показали», а согласие на госпитализацию он подписал задним числом. Заявлял, что хочет стать «инструментом влияния на власть» для предпринимателей и промышленников.
 
 Илья Ремесло был известен как прокремлевский блогер и активный доносчик. Так, он участвовал в кампании против Алексея Навального: писал заявления, критиковал его во время дела «Кировлеса», выступал свидетелем обвинения в суде.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/16/obiavlennomu-inoagentom-politiku-nadezhdinu-stavshemu-figurantom-ekstremistskogo-dela-eshche-i-zapretili-vyezd-iz-rossii-news
+**Читайте также:** [Объявленному иноагентом политику Надеждину*, ставшему фигурантом «экстремистского» дела, еще и запретили выезд из России](2026/07/16/obiavlennomu-inoagentom-politiku-nadezhdinu-stavshemu-figurantom-ekstremistskogo-dela-eshche-i-zapretili-vyezd-iz-rossii.md)

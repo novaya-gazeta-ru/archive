@@ -23,9 +23,9 @@ tags: "бюджет, кризис"
 
 Но рынок не работает по принципу: «Мне не могут сократить зарплату, потому что в таком случае я ощутимо обеднею». А мировые цены на нефть определяет именно рынок.
 
-**link:** https://novayagazeta.ru/economy/69880.html
+**link:** [https://novayagazeta.ru/economy/69880.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/69880.html)
 
-**link:** https://novayagazeta.ru/economy/69880.html
+**link:** [https://novayagazeta.ru/economy/69880.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/69880.html)
 
 Итак, год, который мы имели в запасе для того, чтобы подготовить и принять адаптированный к новой реальности бюджет, был упущен. Действующий бюджет — не более чем фикция, потому что он сверстан исходя из потребностей, а не возможностей. То есть по факту бюджета у нас — нет.
 

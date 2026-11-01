@@ -97,7 +97,7 @@ tags: "фон дер ляйен, украина, евросоюз, турция,
 - с **Киевом** переговоры предстоят — и прогноз положительный,
 - а с **Анкарой** переговоры начались почти два десятка лет назад, зашли в тупик — и прогноз отрицательный.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/08/21/bitva-na-istoshchenie
+**Читайте также:** [https://novayagazeta.ru/articles/2023/08/21/bitva-na-istoshchenie](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/08/21/bitva-na-istoshchenie)
 
 ## **А что говорят на это граждане объединенной Европы?**
 

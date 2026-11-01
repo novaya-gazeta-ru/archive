@@ -77,4 +77,4 @@ tags: "самиздат, цензура, эмиграция, пермия дар
 
 **Федор Отрощенко **
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/10/dva-mira-plius-tri-voiny
+**Читайте также:** [Два мира плюс три войны](2025/06/10/dva-mira-plius-tri-voiny.md)

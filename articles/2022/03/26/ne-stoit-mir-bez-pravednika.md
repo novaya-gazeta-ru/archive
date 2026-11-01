@@ -67,7 +67,7 @@ tags: "холодная война, легитимность, энергорес
 
 Так заблудился мир.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/23/vladimir-pastukhov-operatsiia-russkaia-khromosoma
+**Читайте также:** [Владимир Пастухов. Операция «Русская хромосома»](2022/03/23/vladimir-pastukhov-operatsiia-russkaia-khromosoma.md)
 
 # II.
 
@@ -100,7 +100,7 @@ tags: "холодная война, легитимность, энергорес
 
 Дальше — Голод. Он уже начинается. Резко растут цены на продовольствие. И энергоносители. К прежним уровням они никогда уже не вернутся. Призывы европейских министров заменять отопление шерстяной одеждой, ездить на авто со скоростью 30 км/ч и есть меньше мяса могли (по)казаться сугубо забавными вчера, но не теперь.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/20/russkii-mir-kuda-nas-privel-osobyi-put
+**Читайте также:** [Русский мир: куда нас привел «особый путь»](2022/03/20/russkii-mir-kuda-nas-privel-osobyi-put.md)
 
 > Наконец, Смерть. Это означает сокращение населения Земли из-за дефицита ресурсов.
 
@@ -135,4 +135,4 @@ tags: "холодная война, легитимность, энергорес
 
 Это ли не крепчайшее основание (для) оптимизма?
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/17/kogda-pridet-vremia-vybiratsia-na-svet
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/17/kogda-pridet-vremia-vybiratsia-na-svet](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/17/kogda-pridet-vremia-vybiratsia-na-svet)

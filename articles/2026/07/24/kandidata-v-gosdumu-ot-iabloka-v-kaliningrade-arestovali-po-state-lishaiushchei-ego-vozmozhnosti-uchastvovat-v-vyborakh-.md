@@ -25,4 +25,4 @@ tags: ""
 
 -
 
-Сталкиваются члены «Яблока» и с другими препятствиями. В Петербурге избирком [заявил](https://novayagazeta.ru/articles/2026/07/21/izbirkom-peterburga-poterial-dokumenty-11-kandidatov-ot-iabloka-im-grozit-otkaz-v-registratsii-donesti-spravki-nelzia-news) кандидатам, что не досчитался нужных документов — хотя сами «яблочники» настаивают, что передали полный пакет, а некоторые даже записывали процесс на видео.
+Сталкиваются члены «Яблока» и с другими препятствиями. В Петербурге избирком [заявил](2026/07/21/izbirkom-peterburga-poterial-dokumenty-11-kandidatov-ot-iabloka-im-grozit-otkaz-v-registratsii-donesti-spravki-nelzia-ne.md) кандидатам, что не досчитался нужных документов — хотя сами «яблочники» настаивают, что передали полный пакет, а некоторые даже записывали процесс на видео.

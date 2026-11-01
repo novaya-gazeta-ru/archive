@@ -27,9 +27,9 @@ tags: "джокович, спорт, теннис, коронавирус, sf"
 
 Информацию об участии в других мероприятиях после 16 декабря теннисист назвал дезинформацией.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/30/nakrylo-mednym-tazom
+**Читайте также:** [Накрыло медным тазом](2021/12/30/nakrylo-mednym-tazom.md)
 
-Накануне отец и брат спортсмена [рассказали](https://novayagazeta.ru/articles/2022/01/10/sud-v-avstralii-otmenil-reshenie-ob-annulirovanii-vizy-serbskogo-tennisista-novaka-dzhokovicha-news), что его собираются депортировать из Австралии. Теннисиста [задержали](https://novayagazeta.ru/articles/2022/01/05/tennisista-dzhokovicha-ne-pustili-na-australia-open-soslavshis-na-oshibku-s-vizoi-ranee-bolelshchiki-vozmushchalis-ego-dopusku-do-turnira-bez-privivki-news) 5 января. Он не смог въехать в страну из-за проблем с типом визы. Джокович ранее получил разрешение участвовать в Открытом чемпионате Австралии (Australia Open) без прививки от COVID-19. Однако член команды Джоковича допустил ошибку во время подачи документов на австралийскую визу.
+Накануне отец и брат спортсмена [рассказали](2022/01/10/sud-v-avstralii-otmenil-reshenie-ob-annulirovanii-vizy-serbskogo-tennisista-novaka-dzhokovicha-news.md), что его собираются депортировать из Австралии. Теннисиста [задержали](2022/01/05/tennisista-dzhokovicha-ne-pustili-na-australia-open-soslavshis-na-oshibku-s-vizoi-ranee-bolelshchiki-vozmushchalis-ego-d.md) 5 января. Он не смог въехать в страну из-за проблем с типом визы. Джокович ранее получил разрешение участвовать в Открытом чемпионате Австралии (Australia Open) без прививки от COVID-19. Однако член команды Джоковича допустил ошибку во время подачи документов на австралийскую визу.
 
 После разбирательства виза 34-летнего сербского спортсмена была аннулирована, а сам он был предупрежден о необходимости покинуть страну.
 

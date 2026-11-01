@@ -53,7 +53,7 @@ tags: "обстрел, приговор, журналисты, италия, у�
 
 В разное время в итальянский суд приезжали представители Украины: от начальника Маркива в 2014 году до министра внутренних дел Арсена Авакова.
 
-**link:** https://novayagazeta.ru/articles/2019/05/28/80683-on-ne-dolzhen-byt-edinstvennym-kto-poneset-otvetstvennost
+**link:** [«Он не должен быть единственным, кто понесет ответственность»](2019/05/28/80683-on-ne-dolzhen-byt-edinstvennym-kto-poneset-otvetstvennost.md)
 
 # Приговор
 

@@ -95,4 +95,4 @@ tags: "сергей жук, белгородская область, суд"
 
  **Ирина Дудка**
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/15/gosizmena-s-molotkom-dlia-miasa
+**Читайте также:** [Госизмена с молотком для мяса](2026/06/15/gosizmena-s-molotkom-dlia-miasa.md)

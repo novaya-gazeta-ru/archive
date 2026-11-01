@@ -19,6 +19,6 @@ tags: "полеты, аргентина, туристы, sn"
 
 Также Россия возобновляет полеты во Вьетнам по маршрутам Москва - Хошимин и Москва - Нячанг, а также с Киргизией и Италией по маршруту Жуковский - Рим с частотой два рейса в неделю. В Италию туристов из России пока что тоже [не пускают](http://www.italia.it/ru/informacija/obnovlennaja-informacija-po-covid-19-poleznaja-informacija-dlja-turistov.html).
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/26/dlinnye-privivochnye-nochi
+**Читайте также:** [«Длинные прививочные ночи»](2021/10/26/dlinnye-privivochnye-nochi.md)
 
-Впрочем, в начале ноября министерство здравоохранения Италии [предложило](https://novayagazeta.ru/articles/2021/11/04/minzdrav-italii-pozvolit-vaktsinirovannym-sputnikom-v-poluchit-busternuiu-dozu-vaktsiny-pfizer-ili-moderna-i-propusk-green-pass-news) позволить вакцинированным «Спутником V» получить бустерную дозу м-РНК вакцины (Pfizer или Moderna) и пропуск Green pass — единый цифровой сертификат о вакцинации для применения в Евросоюзе. Бустерную дозу можно будет получить спустя 28 дней и не позднее 6 месяцев после завершения первого курса вакцинации.
+Впрочем, в начале ноября министерство здравоохранения Италии [предложило](2021/11/04/minzdrav-italii-pozvolit-vaktsinirovannym-sputnikom-v-poluchit-busternuiu-dozu-vaktsiny-pfizer-ili-moderna-i-propusk-gre.md) позволить вакцинированным «Спутником V» получить бустерную дозу м-РНК вакцины (Pfizer или Moderna) и пропуск Green pass — единый цифровой сертификат о вакцинации для применения в Евросоюзе. Бустерную дозу можно будет получить спустя 28 дней и не позднее 6 месяцев после завершения первого курса вакцинации.

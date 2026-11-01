@@ -15,12 +15,12 @@ tags: "краснодар, nt"
 
 «Никаких преступлений я не совершала. Статью 284.1 УК РФ считаю не соответствующей Конституции», — сообщила она, добавив, что дело скоро будет передано в суд.
 
-9 апреля в Краснодаре [прошли](https://www.novayagazeta.ru/news/2019/04/09/150714-v-krasnodare-prishli-s-obyskami-v-ofis-ekologicheskoy-vahty-po-severnomu-kavkazu-i-k-aktivistke-otkrytoy-rossii) обыски по уголовному делу в отношении Антоновой. Помимо обысков у экс-координатора «Открытой России», силовики также приходили к координатору «Экологической вахты по Северному Кавказу» Андрею Рудомахе.
+9 апреля в Краснодаре [прошли](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/04/09/150714-v-krasnodare-prishli-s-obyskami-v-ofis-ekologicheskoy-vahty-po-severnomu-kavkazu-i-k-aktivistke-otkrytoy-rossii) обыски по уголовному делу в отношении Антоновой. Помимо обысков у экс-координатора «Открытой России», силовики также приходили к координатору «Экологической вахты по Северному Кавказу» Андрею Рудомахе.
 
-**link:** https://novayagazeta.ru/articles/2019/04/02/80071-privet-otkrytaya-rossiya
+**link:** [Привет, «Открытая Россия»!](2019/04/02/80071-privet-otkrytaya-rossiya.md)
 
-В январе в Ростове-на-Дону возбудили первое уголовное дело за несколько таких административных нарушений против члена совета «Открытой России» Анастасии Шевченко. В марте уголовное дело [завели](https://www.novayagazeta.ru/articles/2019/03/15/79881-priotkrytaya-rossiya-byvshiy-koordinator-otkrytoy-rossii-v-ekaterinburge-maksim-vernikov-stal-figurantom-ugolovnogo-dela-o-nezhelatelnyh-organizatsiyah) также на бывшего координатора движения в Екатеринбурге и главного редактора «Урал МБХ медиа» Максима Верникова.
+В январе в Ростове-на-Дону возбудили первое уголовное дело за несколько таких административных нарушений против члена совета «Открытой России» Анастасии Шевченко. В марте уголовное дело [завели](2019/03/15/79881-priotkrytaya-rossiya-byvshiy-koordinator-otkrytoy-rossii-v-ekaterinburge-maksim-vernikov-stal-figurantom-ugolovnog.md) также на бывшего координатора движения в Екатеринбурге и главного редактора «Урал МБХ медиа» Максима Верникова.
 
-В связи с преследованием активистов и возбуждением уголовных дел в движении [приняли решение](http://www.novayagazeta.ru/news/2019/03/30/150452-na-konferentsii-otkrytoy-rossii-prinyali-reshenie-o-likvidatsii-dvizheniya) о его ликвидации.
+В связи с преследованием активистов и возбуждением уголовных дел в движении [приняли решение](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/2019/03/30/150452-na-konferentsii-otkrytoy-rossii-prinyali-reshenie-o-likvidatsii-dvizheniya) о его ликвидации.
 
 Напомним, что движение «Открытая Россия» было учреждено в ноябре 2016 года Михаилом Ходорковским. Оно не было зарегистрировано, и его активистов стали преследовать после признания Генпрокуратурой «нежелательной» британской организации OR Otkrytaya Rossia в апреле 2017 года.

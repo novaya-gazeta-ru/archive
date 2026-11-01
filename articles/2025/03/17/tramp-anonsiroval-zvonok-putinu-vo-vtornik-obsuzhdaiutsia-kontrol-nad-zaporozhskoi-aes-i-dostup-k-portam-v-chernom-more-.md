@@ -19,8 +19,8 @@ tags: ""
 
 «Есть ядерный реактор, который поставляет много электроэнергии в Украину. С этим нужно разобраться. Есть доступ к портам. Существует соглашение о потенциале Черного моря, существует очень много элементов для реализации прекращения огня здесь, и я иногда сравниваю это с Сектором Газа», — [рассказал](https://www.cbsnews.com/news/steve-witkoff-middle-east-envoy-face-the-nation-transcript-03-16-2025/) Уиткофф в интервью CBS News.
 
-Уиткофф побывал со срочным визитом в Москве, аудиенция с Путиным [прошла за закрытыми дверями](https://novayagazeta.ru/articles/2025/03/14/kreml-putin-lichno-vstretil-spetsposlannika-uitkoffa-i-peredal-trampu-novye-signaly-po-ukrainskomu-voprosu-news) 13 марта.
+Уиткофф побывал со срочным визитом в Москве, аудиенция с Путиным [прошла за закрытыми дверями](2025/03/14/kreml-putin-lichno-vstretil-spetsposlannika-uitkoffa-i-peredal-trampu-novye-signaly-po-ukrainskomu-voprosu-news.md) 13 марта.
 
 Визит состоялся вскоре после американо-украинских переговоров в Саудовской Аравии, после которых стороны объявили, что желают предложить России объявить полное 30-дневное перемирие без предварительных условий.
 
-Киев согласился на это. Путин — уклонился от согласия, заявив, что оно хорошо с гуманитарной точки зрения, [но есть «нюансы»](https://novayagazeta.ru/articles/2025/03/13/putin-vremennoe-prekrashchenie-ognia-v-interesakh-kieva-a-dolgosrochnoe-peremirie-trebuet-ustraneniia-pervoprichin-konflikta-i-obsuzhdeniia-mekhanizma-garantii-news): по словам Путина, если в Украину во время прекращения огня будут продолжать поставлять оружие или если там будет продолжаться мобилизация — то прекращение огня выгодно только Киеву.
+Киев согласился на это. Путин — уклонился от согласия, заявив, что оно хорошо с гуманитарной точки зрения, [но есть «нюансы»](2025/03/13/putin-vremennoe-prekrashchenie-ognia-v-interesakh-kieva-a-dolgosrochnoe-peremirie-trebuet-ustraneniia-pervoprichin-konfl.md): по словам Путина, если в Украину во время прекращения огня будут продолжать поставлять оружие или если там будет продолжаться мобилизация — то прекращение огня выгодно только Киеву.

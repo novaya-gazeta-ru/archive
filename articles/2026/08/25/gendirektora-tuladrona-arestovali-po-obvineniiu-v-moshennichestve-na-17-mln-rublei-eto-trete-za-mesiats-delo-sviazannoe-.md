@@ -27,4 +27,4 @@ tags: "мошенничество, уголовное дело, дроны, бе
 
 -
 
-Кроме того, с конца июля произошло два покушения на создателей дронов. В конце июля в Туле киллер [выстрелил](https://novayagazeta.ru/articles/2026/07/29/killer-pytalsia-zastrelit-direktora-kompanii-po-proizvodstvu-bespilotnikov-v-tule-smi-news) в разработчика беспилотников «Овод» Андрея Черезова. Спустя неделю под Екатеринбургом [подорвали](https://novayagazeta.ru/articles/2026/08/05/pod-ekaterinburgom-podorvali-mashinu-proizvoditelia-dronov-upyr-on-v-reanimatsii-voditel-pogib-news) машину производителя дронов «Упырь» Владимира Ткачука.
+Кроме того, с конца июля произошло два покушения на создателей дронов. В конце июля в Туле киллер [выстрелил](2026/07/29/killer-pytalsia-zastrelit-direktora-kompanii-po-proizvodstvu-bespilotnikov-v-tule-smi-news.md) в разработчика беспилотников «Овод» Андрея Черезова. Спустя неделю под Екатеринбургом [подорвали](2026/08/05/pod-ekaterinburgom-podorvali-mashinu-proizvoditelia-dronov-upyr-on-v-reanimatsii-voditel-pogib-news.md) машину производителя дронов «Упырь» Владимира Ткачука.

@@ -21,8 +21,8 @@ tags: "роскомнадзор, настоящее время, блокиров
 
 *Реестр Роскомнадзора*
 
-Ранее Роскомнадзор [потребовал](https://novayagazeta.ru/articles/2022/02/26/rkn-potreboval-ot-novoi-gazety-i-drugikh-smi-udalit-materialy-gde-proiskhodiashchee-v-ukraine-nazyvalos-voinoi-news) удалить материалы «Новой газеты», «Медиазоны»*, «Дождя»* и других СМИ за то, что происходящее в Украине в них называлось войной.
+Ранее Роскомнадзор [потребовал](2022/02/26/rkn-potreboval-ot-novoi-gazety-i-drugikh-smi-udalit-materialy-gde-proiskhodiashchee-v-ukraine-nazyvalos-voinoi-news.md) удалить материалы «Новой газеты», «Медиазоны»*, «Дождя»* и других СМИ за то, что происходящее в Украине в них называлось войной.
 
 ** Включено Минюстом в перечень СМИ, выполняющих функцию иностранного агента*
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/26/roskomoruell
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/26/roskomoruell](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/26/roskomoruell)

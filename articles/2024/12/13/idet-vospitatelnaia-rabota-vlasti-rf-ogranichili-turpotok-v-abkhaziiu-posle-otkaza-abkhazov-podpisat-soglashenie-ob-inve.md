@@ -23,8 +23,8 @@ tags: ""
 
 При этом Мурадян подчеркнул, что туристы могут ездить в Абхазию, самостоятельно покупая билеты и оплачивая проживание.
 
-Подготовка соглашения с Россией об инвестициях стала причиной протестов в Абхазии в ноябре. Протестующие настаивали, что оно создает неравные условия для бизнеса в пользу россиян. После того, как участники протестов штурмом взяли здание парламента, законодатели [отклонили](https://novayagazeta.ru/articles/2024/12/03/parlament-abkhazii-progolosoval-protiv-soglasheniia-s-rossiei-posle-shturma-zdaniia-i-otstavki-prezidenta-iz-za-etogo-dokumenta-news) проект соглашения.
+Подготовка соглашения с Россией об инвестициях стала причиной протестов в Абхазии в ноябре. Протестующие настаивали, что оно создает неравные условия для бизнеса в пользу россиян. После того, как участники протестов штурмом взяли здание парламента, законодатели [отклонили](2024/12/03/parlament-abkhazii-progolosoval-protiv-soglasheniia-s-rossiei-posle-shturma-zdaniia-i-otstavki-prezidenta-iz-za-etogo-do.md) проект соглашения.
 
-Президент Абхазии Аслан Бжания на фоне протестов пообещал уйти в отставку. 19 ноября он [покинул свой пост](https://novayagazeta.ru/articles/2024/11/19/prezident-abkhazii-aslan-bzhaniia-podal-v-otstavku-po-soglasheniiu-s-oppozitsiei-news), как и премьер Александр Анкваб. Обязанности президента исполняет Бадра Гунба.
+Президент Абхазии Аслан Бжания на фоне протестов пообещал уйти в отставку. 19 ноября он [покинул свой пост](2024/11/19/prezident-abkhazii-aslan-bzhaniia-podal-v-otstavku-po-soglasheniiu-s-oppozitsiei-news.md), как и премьер Александр Анкваб. Обязанности президента исполняет Бадра Гунба.
 
-Абхазия к тому же сейчас переживает энергокризис. В стране с перебоями работают школы, а по ночам [отключают интернет](https://novayagazeta.ru/articles/2024/12/09/v-abkhazii-iz-za-defitsita-energii-na-nedeliu-priostanoviat-rabotu-shkol-i-detsadov-a-chtoby-pomeshat-maineram-otkliuchat-internet-na-noch-news) — чтобы помешать майнерам.
+Абхазия к тому же сейчас переживает энергокризис. В стране с перебоями работают школы, а по ночам [отключают интернет](2024/12/09/v-abkhazii-iz-za-defitsita-energii-na-nedeliu-priostanoviat-rabotu-shkol-i-detsadov-a-chtoby-pomeshat-maineram-otkliucha.md) — чтобы помешать майнерам.

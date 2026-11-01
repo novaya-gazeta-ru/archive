@@ -16,11 +16,11 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/06/26/1340701474_292210_71.jpg" style="width: 360px; height: 240px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/06/26/1340701474_292210_71.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/06/26/1340701474_292210_71.jpg)" style="width: 360px; height: 240px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/06/26/1340701474_428183_95.jpg" style="width: 360px; height: 270px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/06/26/1340701474_428183_95.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/06/26/1340701474_428183_95.jpg)" style="width: 360px; height: 270px; "><br>
 				<sup>2008 год. Папа Илья, жена Лена и дочь Валя</sup>
 				<p>
 					&nbsp;</p>

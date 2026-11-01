@@ -17,9 +17,9 @@ tags: "telegram, клименко, mp"
 
 По мнению советника Путина, после блокировки Telegram доступ к нему потеряют 80–90% пользователей рунета, а осмысленное пользование мессенджера станет минимальным.
 
-**link:** https://novayagazeta.ru/articles/2018/03/29/75990-otobrat-i-zapretit
+**link:** [Ритуальная борьба с интернетом](2018/03/29/75990-otobrat-i-zapretit.md)
 
-Напомним, 6 апреля Роскомнадзор [подал](https://www.novayagazeta.ru/news/2018/04/06/140782-roskomnadzor-podal-isk-o-blokirovke-telegram) в Таганский районный суд Москвы иск о блокировке Telegram. До этого ведомство дало Telegram срок до 4 апреля, чтобы передать ФСБ ключи шифрования. Представители мессенджера неоднократно [говорили](https://www.novayagazeta.ru/news/2018/03/20/140328-durov-otkazalsya-raskryt-fsb-klyuchi-dlya-deshifrovki-soobscheniy-v-telegram), что передать ключи шифрования технически невозможно.
+Напомним, 6 апреля Роскомнадзор [подал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/04/06/140782-roskomnadzor-podal-isk-o-blokirovke-telegram) в Таганский районный суд Москвы иск о блокировке Telegram. До этого ведомство дало Telegram срок до 4 апреля, чтобы передать ФСБ ключи шифрования. Представители мессенджера неоднократно [говорили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/03/20/140328-durov-otkazalsya-raskryt-fsb-klyuchi-dlya-deshifrovki-soobscheniy-v-telegram), что передать ключи шифрования технически невозможно.
 
 Напомним, в марте Роскомнадзор направил мессенджеру уведомление о необходимости передать ФСБ информацию для декодирования сообщений. Ведомство ссылалось на ч. 1 ст. 15.4 закона № 149-ФЗ, которая устанавливает для исполнения требований «не менее чем пятнадцать дней».
 

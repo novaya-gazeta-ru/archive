@@ -47,4 +47,4 @@ tags: "всеволод королев, суд, фейки, центр э"
 
 **Санкт-Петербург**
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/02/16/narusheniia-uchtem-pri-vynesenii-prigovora
+**Читайте также:** [«Нарушения учтем при вынесении приговора»](2023/02/16/narusheniia-uchtem-pri-vynesenii-prigovora.md)

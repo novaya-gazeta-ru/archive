@@ -27,4 +27,4 @@ tags: ""
 
 По оценкам немецкого управления уголовной полиции, на платформе были зарегистрировано более 19 тысяч продавцов и около 17 млн пользователей. Ведомство также указывало, что Hydra могла иметь самый большой оборот в мире: только в 2020 году продажи на ней составляли не менее 1,23 млрд евро.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/11/v-peterburge-sud-otpustil-iz-pod-strazhi-obviniaemykh-v-sbyte-200-kg-kokaina-oni-podpisali-kontrakt-s-minoborony-news
+**Читайте также:** [В Петербурге суд отпустил из-под стражи обвиняемых в сбыте 200 кг кокаина. Они подписали контракт с Минобороны](2024/11/11/v-peterburge-sud-otpustil-iz-pod-strazhi-obviniaemykh-v-sbyte-200-kg-kokaina-oni-podpisali-kontrakt-s-minoborony-news.md)

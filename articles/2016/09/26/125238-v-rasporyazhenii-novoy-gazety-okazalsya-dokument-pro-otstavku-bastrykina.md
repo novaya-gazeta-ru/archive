@@ -19,7 +19,7 @@ tags: "бастрыкин, отставка, следственный комит
 
 Ранее в понедельник интернет-издание Legal.Report со ссылкой на документ [сообщило](https://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiw8Jm5ra3PAhWEDpoKHfFsDVMQFggcMAA&url=http%3A%2F%2Flegal.report%2F&usg=AFQjCNH4G7Qw6WqbiU6d-SomtTYvtpRgZQ&sig2=-jdlK00IdJ7-EQ59uirmXw&bvm=bv.133700528,d.bGs), что Бастрыкин подал заявление об отставке. Следом об этом же (и тоже, рассказав, что копия первой страницы есть в редакции) [заявил](http://www.rbc.ru/politics/26/09/2016/57e9353f9a79475eacbdafa6) РБК.
 
-В свою очередь пресс-секретарь президента России Дмитрий Песков [не подтвердил](http://www.novayagazeta.ru/news/1707394.html) информацию, опубликованную в СМИ.
+В свою очередь пресс-секретарь президента России Дмитрий Песков [не подтвердил](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1707394.html) информацию, опубликованную в СМИ.
 
 «Мне ничего об этом неизвестно», — сказал он.
 

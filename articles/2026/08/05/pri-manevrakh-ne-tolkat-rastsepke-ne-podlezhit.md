@@ -297,4 +297,4 @@ tags: "ржд, поезда, красноярск, транссиб"
 
 ** Красноярск–Курган–Красноярск**
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/22/sakharok-pogryzi-perezhivesh
+**Читайте также:** [«Сахарок погрызи. Переживешь»](2026/06/22/sakharok-pogryzi-perezhivesh.md)

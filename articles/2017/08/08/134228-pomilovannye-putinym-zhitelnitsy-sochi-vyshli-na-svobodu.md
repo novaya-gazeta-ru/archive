@@ -15,7 +15,7 @@ tags: "помилование, смс, сочи, сизо, госизмена, �
 
 Джанджгава и Кесян содержались в СИЗО № 2 «Лефортово». В вологодской колонии продолжает находиться Инга Титусани, осужденная за аналогичное преступление.
 
-29 июля глава государства [подписал](https://www.novayagazeta.ru/news/2017/07/29/133954-putin-pomiloval-dvuh-osuzhdennyh-za-sms-ob-otpravlenii-voennoy-tehniki-v-gruziyu) указ о помиловании Кесян и Джанджгавы. Он вступил в силу через десять дней. После этого адвокат Иван Павлов [заявил](https://www.novayagazeta.ru/news/2017/07/29/133962-zaschita-pomilovannyh-putinym-zhitelnits-sochi-nastaivaet-na-otmene-prigovora), что будет добиваться отмены приговора житеьницам Сочи.
+29 июля глава государства [подписал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/07/29/133954-putin-pomiloval-dvuh-osuzhdennyh-za-sms-ob-otpravlenii-voennoy-tehniki-v-gruziyu) указ о помиловании Кесян и Джанджгавы. Он вступил в силу через десять дней. После этого адвокат Иван Павлов [заявил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/07/29/133962-zaschita-pomilovannyh-putinym-zhitelnits-sochi-nastaivaet-na-otmene-prigovora), что будет добиваться отмены приговора житеьницам Сочи.
 
 В 2015 году Кесян приговорили к восьми годам лишения свободы за переписку в 2008 году с грузинским приятелем Мамукой Лукава, с которым она познакомилась на границе между Абхазией и Грузией. Лукава спросил женщину, едут ли в Сочи танки, в ответ она написала «Да, едут».
 

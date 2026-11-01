@@ -27,4 +27,4 @@ tags: "футбол, англия, манчестер юнайтед, трене
 
 Главным кандидатом на место Сульшера [называют](https://tass.ru/sport/12799721) наставника клуба «Лестер», североирландского специалиста Брендана Роджерса. Накануне он [опроверг](https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Angliya/spbnews_NI1439715_Rodzhers_oproverg_verojatnost_vozglavit_Manchester_Junajted)слухи о своем возможном назначении в качестве тренера «Манчестер Юнайтед».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/08/na-angliiskii-futbol-leglo-neftianoe-piatno
+**Читайте также:** [На английский футбол легло нефтяное пятно](2021/10/08/na-angliiskii-futbol-leglo-neftianoe-piatno.md)

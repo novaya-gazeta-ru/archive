@@ -14,7 +14,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/02/01/1328096458_402009_72.jpg" style="height: 450px; width: 300px"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/02/01/1328096458_402009_72.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/02/01/1328096458_402009_72.jpg)" style="height: 450px; width: 300px"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -38,4 +38,4 @@ tags: ""
 
 Ну, ладно, я побежала. До встречи!
 
-**P.S. Вечером Федеральная налоговая служба [сообщила о разблокировании](http://www.novayagazeta.ru/news/53743.html) счетов. Проблема, по словам представителей ведомства, была связана с нехваткой документов.**
+**P.S. Вечером Федеральная налоговая служба [сообщила о разблокировании](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/53743.html) счетов. Проблема, по словам представителей ведомства, была связана с нехваткой документов.**

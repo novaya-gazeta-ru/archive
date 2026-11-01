@@ -18,14 +18,14 @@ tags: "администрация президента, дело кашина, �
 <table border="0" cellpadding="1" cellspacing="1" style="width:570px;">
 	<tbody>
 		<tr>
-			<td><a href="http://www.novayagazeta.ru/storage/c/2015/10/01/1443705195_395437_1.jpg" target="_blank"><img alt="" src="https://static.novayagazeta.ru/storage/c/2015/10/01/1443705412_960514_49.jpg" style="width: 300px; height: 400px;"></a></td>
-			<td><a href="http://www.novayagazeta.ru/storage/c/2015/10/01/1443705194_978891_97.jpg" target="_blank"><img alt="" src="https://static.novayagazeta.ru/storage/c/2015/10/01/1443705432_154067_84.jpg" style="width: 300px; height: 400px;"></a></td>
+			<td><a href="[http://www.novayagazeta.ru/storage/c/2015/10/01/1443705195_395437_1.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/10/01/1443705195_395437_1.jpg)" target="_blank"><img alt="" src="https://static.novayagazeta.ru/storage/c/2015/10/01/1443705412_960514_49.jpg" style="width: 300px; height: 400px;"></a></td>
+			<td><a href="[http://www.novayagazeta.ru/storage/c/2015/10/01/1443705194_978891_97.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/10/01/1443705194_978891_97.jpg)" target="_blank"><img alt="" src="https://static.novayagazeta.ru/storage/c/2015/10/01/1443705432_154067_84.jpg" style="width: 300px; height: 400px;"></a></td>
 		</tr>
 	</tbody>
 </table>
 &nbsp;
 
-<p>12 сентября «Новая газета» <a href="http://www.novayagazeta.ru/columns/69901.html" target="_blank">обратилась</a> к президенту РФ Владимиру Путину с просьбой рассмотреть вопрос о предоставлении госохраны Олегу Кашину. В тот же день спикер Кремля Дмитрий Песков заявил, что обращение будет рассмотрено, если поступит в администрацию президента.</p>
+<p>12 сентября «Новая газета» <a href="[http://www.novayagazeta.ru/columns/69901.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/69901.html)" target="_blank">обратилась</a> к президенту РФ Владимиру Путину с просьбой рассмотреть вопрос о предоставлении госохраны Олегу Кашину. В тот же день спикер Кремля Дмитрий Песков заявил, что обращение будет рассмотрено, если поступит в администрацию президента.</p>
 
 <p>Оно поступило, и в своем ответе администрация президента сообщила «Новой газете», что обращение рассмотрено и направлено в МВД и Следственный комитет еще 15 сентября для принятия решения по существу. В ответе сказано: и МВД, и СК должны проинформировать «Новую» о своих шагах.</p>
 

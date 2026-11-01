@@ -37,7 +37,7 @@ tags: ""
 
 Юные не умирают от старости…
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/15/kasting-frikov-na-rol-frikov
+**Читайте также:** [Кастинг фриков на роль фриков](2025/07/15/kasting-frikov-na-rol-frikov.md)
 
 ## «Прости, детка» Евы Виктор
 

@@ -22,9 +22,9 @@ tags: "дипломатия, шпионы, эстония"
 История, предшествующая обмену, как всегда в таких ситуациях, останется за кадром: спецслужбы редко афишируют договоренности. Кроме самого Кохвера на пресс-конференцию в Таллине приехали министр внутренних дел Эстонии Ханно Певкур и гендиректор полиции безопасности (КаПО) Арнольд Синисалу.
 
 *[media: <blockquote>
-<p><strong><a href="http://www.novayagazeta.ru/columns/69611.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/09/26/1443265621_536898_12.png" style="width: 87px; height: 102px;"></a><span style="color: rgb(178, 34, 34);">Читайте также:</span></strong></p>
+<p><strong><a href="[http://www.novayagazeta.ru/columns/69611.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/69611.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/09/26/1443265621_536898_12.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/09/26/1443265621_536898_12.png)" style="width: 87px; height: 102px;"></a><span style="color: rgb(178, 34, 34);">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/columns/69611.html" target="_blank"><strong>Проверенный метод: уволочь на территорию России и обвинить в незаконном переходе границы. Так случилось и в деле Кохвера</strong></a></p>
+<p><a href="[http://www.novayagazeta.ru/columns/69611.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/69611.html)" target="_blank"><strong>Проверенный метод: уволочь на территорию России и обвинить в незаконном переходе границы. Так случилось и в деле Кохвера</strong></a></p>
 </blockquote>]*
 
 «Велись длительные переговоры между службами, ­— кратко описал Певкур предысторию освобождения. — Эстон вернулся на родину, а из тюрьмы в Эстонии освободился Алексей Дрессен и естественно, что предпосылкой тому было то, что президент должен был подписать прошение о помиловании, что глава государства и сделал. Та же предпосылка была и с российской стороны, президент России должен был подписать прошение Кохвера о помиловании».

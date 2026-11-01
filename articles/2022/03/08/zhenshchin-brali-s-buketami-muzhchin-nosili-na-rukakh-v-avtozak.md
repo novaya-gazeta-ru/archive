@@ -69,7 +69,7 @@ tags: "петербург, протесты в казахстане, спецо�
 
 *Жесткое задержание. Фото: Артем Лешко, для «Новой газеты»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/08/vse-plokhoe-v-zhizni-uzhe-sluchilos
+**Читайте также:** [«Все плохое в жизни уже случилось»](2022/03/08/vse-plokhoe-v-zhizni-uzhe-sluchilos.md)
 
 ![](_assets/93/93e32ef5c6849feddc2fbd2da2770118.webp)
 

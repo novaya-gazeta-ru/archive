@@ -41,7 +41,7 @@ tags: "дальнобойщики, иркутская область, плато
 
 *Бастующие дальнобойщики после завтрака. Фото: Антон Климов / Специально для «Новой»*
 
-**link:** https://novayagazeta.ru/articles/2017/04/15/72176-s-nami-tak-nelzya-postupat-u-nas-nrav
+**link:** [«С нами так нельзя поступать, у нас нрав»](2017/04/15/72176-s-nami-tak-nelzya-postupat-u-nas-nrav.md)
 
 ![](_assets/4c/4c6b00afd9a19d114644b6ce60a176b8.webp)
 

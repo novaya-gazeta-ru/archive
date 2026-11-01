@@ -21,11 +21,11 @@ Google LLC признали виновной по ч. 5 ст. 13.41 КоАП (н
 
 > Российский суд впервые наложил на IT-компанию оборотный штраф.
 
-В начале декабря суд в Москве [оштрафовал](https://novayagazeta.ru/articles/2021/12/07/sud-oshtrafoval-google-eshche-na-5-mln-rublei-za-neudalenie-zapreshchennoi-informatsii-news) корпорацию Google на 9 миллионов рублей за неудаление запрещенной информации (ст. 13.41 КоАП), в начале ноября за то же «правонарушение» компании [назначили](https://novayagazeta.ru/articles/2021/11/08/sud-oshtrafoval-google-i-telegram-na-2-i-4-mln-rublei-za-neudalenie-zapreshchennoi-informatsii-news) штраф в 2 млн рублей. Google также два раза ([1](https://novayagazeta.ru/articles/2021/08/19/sud-v-moskve-oshtrafoval-google-eshche-na-6-mln-rublei-za-otkaz-udalit-zapreshchennyi-kontent-news), [2](https://novayagazeta.ru/articles/2020/08/10/163664-sud-v-moskve-oshtrafoval-google-na-1-5-milliona-rubley-za-nedostatochnuyu-filtratsiyu-zapreschennogo-kontenta)) штрафовали в августе на 6 млн и на 1,5 млн рублей..
+В начале декабря суд в Москве [оштрафовал](2021/12/07/sud-oshtrafoval-google-eshche-na-5-mln-rublei-za-neudalenie-zapreshchennoi-informatsii-news.md) корпорацию Google на 9 миллионов рублей за неудаление запрещенной информации (ст. 13.41 КоАП), в начале ноября за то же «правонарушение» компании [назначили](2021/11/08/sud-oshtrafoval-google-i-telegram-na-2-i-4-mln-rublei-za-neudalenie-zapreshchennoi-informatsii-news.md) штраф в 2 млн рублей. Google также два раза ([1](2021/08/19/sud-v-moskve-oshtrafoval-google-eshche-na-6-mln-rublei-za-otkaz-udalit-zapreshchennyi-kontent-news.md), [2](2020/08/10/163664-sud-v-moskve-oshtrafoval-google-na-1-5-milliona-rubley-za-nedostatochnuyu-filtratsiyu-zapreschennogo-kontenta.md)) штрафовали в августе на 6 млн и на 1,5 млн рублей..
 
 За неудаление запрещенной информации компаниям грозит штраф от 800 тысяч до четырех миллионов рублей. За повторное нарушение установлен оборотный штраф от 1/10 до 1/5 от годовой выручки по ч. 5 ст. 13.41 КоАП.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/25/kosmos-dolzhen-idti-na-posadku
+**Читайте также:** [Космос должен идти на посадку](2021/11/25/kosmos-dolzhen-idti-na-posadku.md)
 
 Оборотные штрафы появились в законодательстве в декабре 2020 года. Оборотный штраф — самое строгое по статье КоАП «Нарушение порядка ограничения доступа к информации, доступ к которой подлежит ограничению». До этого этой и другим соцсетям назначались единичные штрафы, не привязанные к их финансовым показателям.
 

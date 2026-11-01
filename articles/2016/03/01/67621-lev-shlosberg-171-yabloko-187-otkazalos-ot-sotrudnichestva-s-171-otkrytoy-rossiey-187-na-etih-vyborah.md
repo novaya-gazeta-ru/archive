@@ -19,9 +19,9 @@ tags: "выборы, парнас, яблоко"
 
 В связи с этим общественные деятели, представители науки и культуры России призвали «Яблоко» и «Парнас» объединиться на выборах. Два документа с таким обращением были опубликованы в «Новой газете».
 
-**link:** https://novayagazeta.ru/politics/71944.html
+**link:** [https://novayagazeta.ru/politics/71944.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/71944.html)
 
-**link:** https://novayagazeta.ru/politics/71944.html
+**link:** [https://novayagazeta.ru/politics/71944.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/71944.html)
 
 Лидеры обеих партий положительно оценили идею о консолидации и выразили готовность к созданию единой демократической партии. На реализацию предложения об объединении у партий осталось три месяца.
 

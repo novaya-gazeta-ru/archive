@@ -19,4 +19,4 @@ tags: "COVID-19, пермь, коронавирус,   ng"
 
 Всего в крае 9225 зараженных. За последние сутки COVID-19 выявлен у 72 жителей города.
 
-**link:** https://novayagazeta.ru/articles/2020/09/20/87172-podkast-chto-novogo
+**link:** [https://novayagazeta.ru/articles/2020/09/20/87172-podkast-chto-novogo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/09/20/87172-podkast-chto-novogo)

@@ -117,7 +117,7 @@ tags: "немцов, как это устроено, мэрия, протест�
 
 — Я считаю, что это было правильно: на Валдае я поставил вопрос о политзаключенных. И на встречу в Кремль я шел не с пустыми руками, я передал Путину расследование событий на Болотной и список из 70 фамилий политзаключенных, более 40 из которых после этого вышли на свободу. И затем начался срач — такой же срач сейчас идет по Сокурову.
 
-**link:** https://novayagazeta.ru/articles/2016/12/07/70799-aleksandr-sokurov-ya-grazhdanin-rossiyskoy-federatsii-i-vladimir-putin-grazhdanin-rossiyskoy-federatsii
+**link:** [Александр Сокуров: «Я — гражданин Российской Федерации, и Владимир Путин — гражданин Российской Федерации»](2016/12/07/70799-aleksandr-sokurov-ya-grazhdanin-rossiyskoy-federatsii-i-vladimir-putin-grazhdanin-rossiyskoy-federatsii.md)
 
 **— Вы не разочаровались в самой идее какой-либо совместной работы с властью?**
 
@@ -137,7 +137,7 @@ tags: "немцов, как это устроено, мэрия, протест�
 
 **— Но посмотрите, что выясняется сейчас, например, в Мытищах.**
 
-**link:** https://novayagazeta.ru/articles/2016/12/04/70762-kak-na-samom-dele-proshli-vybory-v-moskovskoy-oblasti
+**link:** [Мытищи-гейт](2016/12/04/70762-kak-na-samom-dele-proshli-vybory-v-moskovskoy-oblasti.md)
 
 — Да, но на Алтае у нас не было таких масштабных фальсификаций.
 

@@ -152,7 +152,7 @@ tags: "петербург, врачи, рецепты, мошенники, во�
 
 — Так их раньше воровали. А в 2017 году перестали, потому что тех, кто воровал, задержали. А закупленные в расчете на их рецепты препараты остались.
 
-**link:** https://novayagazeta.ru/articles/2018/11/16/78601-kuda-devat-nes-edennye-tabletki-v-rossii-net-zakona-kak-spisat-lekarstva-kuplennye-za-byudzhetnye-dengi-dlya-lgotnikov
+**link:** [Куда девать несъеденные таблетки](2018/11/16/78601-kuda-devat-nes-edennye-tabletki-v-rossii-net-zakona-kak-spisat-lekarstva-kuplennye-za-byudzhetnye-dengi-dlya-lgotn.md)
 
 **— То есть на фармбазе нашли не недополученное больными, а недоукраденное мошенниками?**
 
@@ -219,7 +219,7 @@ tags: "петербург, врачи, рецепты, мошенники, во�
 
 **— Но перед нашим разговором вы говорили, что оперативники обиделись на «Новую» за наше к ним недоверие.**
 
-**link:** https://novayagazeta.ru/articles/2020/10/19/87591-shema-krazhi-chudovischna-politsiya-v-peterburge-ob-yavila-o-raskrytii-mnogomillionnyh-hischeniy-preparatov-dlya-onkobolnyh-lekarstva-vorovali-u-patsientov-vopros-kto-imenno
+**link:** [Мрак в последней стадии](2020/10/19/87591-shema-krazhi-chudovischna-politsiya-v-peterburge-ob-yavila-o-raskrytii-mnogomillionnyh-hischeniy-preparatov-dlya-o.md)
 
 — Они не обиделись, а расстроились, потому что работа-то реально была проделана крутейшая. Но я понимаю, что вы анализировали то, что у вас было перед глазами.
 

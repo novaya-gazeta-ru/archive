@@ -16,7 +16,7 @@ tags: "власти, концерт, музыка"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/04/26/1335449568_000089_18.jpg" style="width: 360px; height: 240px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/04/26/1335449568_000089_18.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/04/26/1335449568_000089_18.jpg)" style="width: 360px; height: 240px; "><br>
 				<sup>Фото: Анна Артемьева/«Новая газета»</sup></td>
 		</tr>
 	</tbody>]*

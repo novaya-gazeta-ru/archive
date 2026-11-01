@@ -49,6 +49,6 @@ tags: ""
 
 — «Газпром» не в состоянии добиться решительного перелома в этой ситуации, поскольку остается не коммерческой компанией, а политическим инструментом Кремля, затевающим заведомо неокупаемые проекты. Его монопольная роль нисколько не помогает отрасли выйти из кризиса. Можно ожидать, что в условиях падения или стагнирования внешнего спроса бремя финансирования «Газпрома» будет переложено на российских потребителей путем повышения тарифов на газ.
 
-**link:** https://novayagazeta.ru/economy/66352.html
+**link:** [https://novayagazeta.ru/economy/66352.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/66352.html)
 
-**link:** https://novayagazeta.ru/economy/66352.html
+**link:** [https://novayagazeta.ru/economy/66352.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/66352.html)

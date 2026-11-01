@@ -41,7 +41,7 @@ Forbes [сообщает](https://www.forbes.ru/mneniya-column/tsennosti/237010-
 
 По итогам 2020 года в России, по данным директора Департамента государственной политики в сфере защиты прав детей Ларисы Фальковской, [выявили](https://edu.gov.ru/press/3893/v-rossii-v-2020-godu-chislo-detey-sirot-sokratilos-na-sem-procentov-po-sravneniyu-s-predyduschim-godom/) 43 395 детей-сирот и детей, оставшихся без попечения родителей. Это на 7% меньше, чем в 2019 году.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/09/chto-ty-s-nimi-nianchishsia-eto-zhe-svolochi
+**Читайте также:** [«Что ты с ними нянчишься? Это же сволочи»](2021/09/09/chto-ty-s-nimi-nianchishsia-eto-zhe-svolochi.md)
 
 Вице-премьер Татьяна Голикова в феврале этого года [заявила](http://government.ru/news/41611/), что общая «численность детей-сирот и детей, оставшихся без попечения родителей, составила 406 128 человек». Почти 365 тысяч из них на тот момент находились на воспитании в семьях.
 

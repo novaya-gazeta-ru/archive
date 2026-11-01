@@ -87,4 +87,4 @@ tags: "эмиграция, финляндия, быт, отъезд, спецо�
 >
 > Есть рейс на Ташкент, вот его ждет очень много народу. Раньше были еще на Фергану и Ургенч, но они тоже cancelled. Лондон — cancelled. Ларнака — cancelled. Больше ничего нет уже и в расписаниях.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/27/s-chego-nachinaetsia-kvazirodina-i-chem-ona-zakanchivaetsia
+**Читайте также:** [С чего начинается квазиродина, и чем она заканчивается?](2022/03/27/s-chego-nachinaetsia-kvazirodina-i-chem-ona-zakanchivaetsia.md)

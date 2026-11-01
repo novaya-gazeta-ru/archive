@@ -37,9 +37,9 @@ Modus operandi Кремля заключается в том, что он ник
 
 Следователь Маньшин не знал, что допрашивает украинскую Жанну д'Арк. Жанна д'Арк не входила в интеллектуальный и умственный горизонт следователя Маньшина.
 
-**link:** https://novayagazeta.ru/politics/72158.html
+**link:** [https://novayagazeta.ru/politics/72158.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/72158.html)
 
-**link:** https://novayagazeta.ru/politics/72158.html
+**link:** [https://novayagazeta.ru/politics/72158.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/72158.html)
 
 Вторая проблема дела Савченко заключается в том, что в области внешней политики московские стратеги повторили дипломатические достижения покойного Муамара Каддафи. Ну, помните, когда у Каддафи из-за полной антисанитарии в госпиталях разразилась эпидемия СПИДа?
 

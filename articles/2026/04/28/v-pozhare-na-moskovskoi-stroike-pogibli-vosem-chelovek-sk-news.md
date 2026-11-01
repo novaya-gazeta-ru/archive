@@ -21,6 +21,6 @@ tags: ""
 
 Допрошены представители компании-застройщика, начальника участка строительства, а также строителей.
 
-Пожар [вспыхнул](https://novayagazeta.ru/articles/2026/04/28/troe-rabochikh-pogibli-pri-pozhare-na-stroike-na-severe-moskvy-eshche-okolo-200-zablokirovany-ikh-pytaiutsia-evakuirovat-news) на территории технопарка «Алкон Север» после полудня, тушению был присвоен максимальный уровень сложности.
+Пожар [вспыхнул](2026/04/28/troe-rabochikh-pogibli-pri-pozhare-na-stroike-na-severe-moskvy-eshche-okolo-200-zablokirovany-ikh-pytaiutsia-evakuirovat.md) на территории технопарка «Алкон Север» после полудня, тушению был присвоен максимальный уровень сложности.
 
 Спасатели прибыли на объект, когда еще около 200 рабочих не могли покинуть опасную зону. Их смогли эвакуировать.

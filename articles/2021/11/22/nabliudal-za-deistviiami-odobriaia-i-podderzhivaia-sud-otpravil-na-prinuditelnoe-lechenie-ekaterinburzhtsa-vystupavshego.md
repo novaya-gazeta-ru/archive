@@ -25,10 +25,10 @@ tags: "принудительное лечение, екатеринбург, с
 
 Он также изъял из-под основания забора шесть бетонных блоков стоимостью 2 727 рублей и повалил не менее пяти панелей ограждения общей стоимостью 4 930 рублей. Этими действиями мужчина «создал условия для облегчения дальнейшего уничтожения ограждения другими участниками» акции протеста.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/06/16/85869-master-pribylnyh-padeniy
+**Читайте также:** [https://novayagazeta.ru/articles/2020/06/16/85869-master-pribylnyh-padeniy](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/06/16/85869-master-pribylnyh-padeniy)
 
-В середине мая 2019 года в Екатеринбурге [проходили](https://novayagazeta.ru/articles/2019/05/13/151621-uchastnikov-stihiynoy-aktsii-v-ekaterinburge-grubo-vytolkali-iz-skvera-zhiteli-vystupili-protiv-ego-vyrubki) акции против строительства храма Святой Екатерины и вырубки сквера под него у театра Драмы. Митинги сопровождались столкновениями участников и полицейских, а в МВД [возбудили](https://novayagazeta.ru/articles/2019/06/13/80880-sledovateley-interesuyut-troe) несколько уголовных дел.
+В середине мая 2019 года в Екатеринбурге [проходили](2019/05/13/151621-uchastnikov-stihiynoy-aktsii-v-ekaterinburge-grubo-vytolkali-iz-skvera-zhiteli-vystupili-protiv-ego-vyrubki.md) акции против строительства храма Святой Екатерины и вырубки сквера под него у театра Драмы. Митинги сопровождались столкновениями участников и полицейских, а в МВД [возбудили](2019/06/13/80880-sledovateley-interesuyut-troe.md) несколько уголовных дел.
 
-В итоге Екатеринбургская епархия [отказалась](https://novayagazeta.ru/articles/2019/06/16/152533-ekaterinburgskaya-eparhiya-otkazalas-ot-stroitelstv-hrama-v-skvere) от строительства храма в сквере.
+В итоге Екатеринбургская епархия [отказалась](2019/06/16/152533-ekaterinburgskaya-eparhiya-otkazalas-ot-stroitelstv-hrama-v-skvere.md) от строительства храма в сквере.
 
-**Читайте также:** https://novayagazeta.ru/articles/2019/12/26/83315-boevye-edinitsy
+**Читайте также:** [Кулачное право](2019/12/26/83315-boevye-edinitsy.md)

@@ -16,7 +16,7 @@ tags: "дума, закон, митинги, оппозиция"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/06/06/1338993453_708858_94.jpg" style="width: 366px; height: 244px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/06/06/1338993453_708858_94.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/06/06/1338993453_708858_94.jpg)" style="width: 366px; height: 244px; "><br>
 				<sup>Илья Пономарев. Фото: Евгений Фельдман/«Новая газета»</sup></td>
 		</tr>
 	</tbody>]*

@@ -63,7 +63,7 @@ tags: "вакцинация, принудительная вакцинация, 
 
 *Фото: Петр Ковалев / ТАСС*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/23/ia-privil-nashei-vaktsinoi-mamu-ei-90-let
+**Читайте также:** [«Я привил нашей вакциной маму, ей 90 лет»](2021/06/23/ia-privil-nashei-vaktsinoi-mamu-ei-90-let.md)
 
 > **Красноярский край**
 >
@@ -97,7 +97,7 @@ tags: "вакцинация, принудительная вакцинация, 
 
 *Очередт на вакцинацию. Фото: EPA*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/24/nam-zhe-interesno-chtoby-chitateli-zhili
+**Читайте также:** [Нам же интересно, чтобы читатели жили!](2021/06/24/nam-zhe-interesno-chtoby-chitateli-zhili.md)
 
 > **Приморье**
 >
@@ -176,7 +176,7 @@ tags: "вакцинация, принудительная вакцинация, 
 
 *Фото: РИА Новости*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/26/rossiia-evrope-ne-sputnik
+**Читайте также:** [Россия Европе не «Спутник»](2021/06/26/rossiia-evrope-ne-sputnik.md)
 
 > **Саратов**
 >

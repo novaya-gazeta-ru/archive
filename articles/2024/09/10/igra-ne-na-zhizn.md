@@ -85,7 +85,7 @@ tags: "букмекеры, сво, лига ставок, вагнер, зарп
 
 — Да, малыш! — вдруг раздражается Кирилл от моей болтовни. Его резкие реакции действительно пугают. — Стремно — это когда тебя на носилках по земле тащат, а вокруг арта херачит: «Бам, бам, ***» Меня так полчаса до наших позиций тащили. А вокруг апрельское дерьмо: снег подтаял, жопа сырая, спина сырая, ноги не чувствуешь, а тебя волокут двое. «Птички» висят, и в любой момент может по тебе прилететь. Вот это, ***, стремно. А ты говоришь, деньги просрать…
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/01/nechelovecheskii-kapital
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/01/nechelovecheskii-kapital](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/01/nechelovecheskii-kapital)
 
 Сергей продолжает безучастно смотреть в монитор, на котором лишь изредка меняются цифры коэффициентов.
 
@@ -275,4 +275,4 @@ tags: "букмекеры, сво, лига ставок, вагнер, зарп
 
 Во многих городах России существуют сообщества анонимных игроков, в которых зависимый может проработать и решить свою проблему вместе с такими же людьми, как он.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/07/18/napravo-poidesh-obedneesh-nalevo-ubeshsia-a-priamo-khoda-net
+**Читайте также:** [https://novayagazeta.ru/articles/2024/07/18/napravo-poidesh-obedneesh-nalevo-ubeshsia-a-priamo-khoda-net](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/07/18/napravo-poidesh-obedneesh-nalevo-ubeshsia-a-priamo-khoda-net)

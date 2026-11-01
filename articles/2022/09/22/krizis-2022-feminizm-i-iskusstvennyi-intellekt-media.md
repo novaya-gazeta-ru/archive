@@ -85,7 +85,7 @@ tags: "экономика, лекция, деньги, кризис, финан�
 >
 > - **Смотреть **[**тут**](https://www.youtube.com/watch?v=2gWd5hXk_Z0)
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/08/31/mikhail-gorbachev-osvoboditel-truda
+**Читайте также:** [Михаил Горбачев, освободитель труда](2022/08/31/mikhail-gorbachev-osvoboditel-truda.md)
 
 > # «Что значат сырьевые зависимости для либеральной теории?»
 >

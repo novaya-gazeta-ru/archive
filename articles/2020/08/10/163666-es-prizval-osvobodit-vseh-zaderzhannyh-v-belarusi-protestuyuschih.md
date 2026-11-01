@@ -21,7 +21,7 @@ tags: "беларусь, евросоюз, em"
 
 Освободить всех протестовавших мирно [призвал](https://ria.ru/20200810/1575590239.html), в частности глава МИД Германии Хайко Маас, который 11 августа проведет переговоры с главой МИД России Сергеем Лавровым. С призывом к властям Беларуси воздержаться от насилия [выступил](https://www.president.pl/en/news/art,1196,statement-by-presidents-andrzej-duda-and-gitanas-nausda.html) президент Польши Анджей Дуда. В МИД [Литвы](https://www.bns.lt/) и [Латвии](http://https//www.mfa.gov.lv/aktualitates/zinas/66353-arlietu-ministrijas-pazinojums-par-prezidenta-velesanam-baltkrievija) заявили, что выборы в Беларуси не были демократическими. Глава Еврокомиссии Урсула фон дер Ляйен [отметила](https://twitter.com/vonderleyen/status/1292762483485179904), что фундаментальные права в Беларуси должны соблюдаться.
 
-**link:** https://novayagazeta.ru/articles/2020/08/09/86587-vybory-prezidenta-belarusi-online
+**link:** [https://novayagazeta.ru/articles/2020/08/09/86587-vybory-prezidenta-belarusi-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/09/86587-vybory-prezidenta-belarusi-online)
 
 Протесты в Беларуси прошли после голосования на президентских выборах, на которых, по предварительным итогам ЦИК, лидирует Александр Лукашенко, набрав более 80% голосов. За его главную соперницу Светлану Тихановскую, как сообщает Центризбирком, проголосовали около 10% избирателей. Ее штаб не признал результаты выборов.
 

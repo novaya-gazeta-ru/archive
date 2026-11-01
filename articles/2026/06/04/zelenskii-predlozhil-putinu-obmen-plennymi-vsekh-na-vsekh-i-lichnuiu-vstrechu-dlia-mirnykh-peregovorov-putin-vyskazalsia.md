@@ -13,7 +13,7 @@ tags: ""
 
 > **Есть продолжение**
 >
-> ### [Путин «пока не видит смысла» встречаться с Зеленским. Вместо этого он призвал российских военных поднажать на СВО](https://novayagazeta.ru/articles/2026/06/05/putin-poka-ne-vidit-smysla-vstrechatsia-s-zelenskim-vmesto-etogo-on-prizval-rossiiskikh-voennykh-podnazhat-na-svo-news)
+> ### [Путин «пока не видит смысла» встречаться с Зеленским. Вместо этого он призвал российских военных поднажать на СВО](2026/06/05/putin-poka-ne-vidit-smysla-vstrechatsia-s-zelenskim-vmesto-etogo-on-prizval-rossiiskikh-voennykh-podnazhat-na-svo-news.md)
 
 Президент Украины Владимир Зеленский опубликовал на официальном сайте открытое письмо президенту России Владимиру Путину, в котором предложил тому личную встречу для прекращения *** с гарантией, что «не будет нового разжигания».
 

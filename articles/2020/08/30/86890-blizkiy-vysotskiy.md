@@ -16,4 +16,4 @@ tags: "высоцкий, хлеб подкаст"
 > ### Слушайте, где удобно\
 >  **Apple Podcasts || Google Podcasts || VK подкасты || Soundcloud || Яндекс.Музыка || Castbox**
 
-**link:** https://novayagazeta.ru/articles/2020/07/25/86410-neuzheli-takoy-ya-vam-nuzhen-posle-smerti
+**link:** [«Неужели такой я вам нужен после смерти?»](2020/07/25/86410-neuzheli-takoy-ya-vam-nuzhen-posle-smerti.md)

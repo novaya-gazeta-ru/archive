@@ -27,4 +27,4 @@ tags: ""
 
 На той же конференции спикеры рассказывали о «колоссальных» убытках угольщиков — в районе 300 миллиардов рублей по итогам 2026 года. Тем не мнее, это ниже худших прогнозов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/10/14/v-rostelekome-zagovorili-o-tsode-sudnogo-dnia-dlia-borby-s-pereboiami-posle-ataki-na-data-tsentr-sbera-v-runete-proizoshel-massovyi-sboi-news
+**Читайте также:** [В «Ростелекоме» заговорили о «ЦОДе судного дня» для борьбы с перебоями. После атаки на дата-центр «Сбера» в Рунете произошел массовый сбой](2026/10/14/v-rostelekome-zagovorili-o-tsode-sudnogo-dnia-dlia-borby-s-pereboiami-posle-ataki-na-data-tsentr-sbera-v-runete-proizosh.md)

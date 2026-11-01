@@ -19,9 +19,9 @@ tags: "военные базы, пентагон, афганистан, терр
 
 Ранее The Wall Street Journal (WSJ) со ссылкой на источники [сообщила](https://www.wsj.com/articles/u-s-asked-russia-about-offer-of-bases-to-monitor-afghan-terror-threat-11632767164), что Милли и Герасимов во время встречи в Финляндии обсудили возможность использования американскими военными российских баз в Центральной Азии. При этом издание отмечало, что Герасимов не давал Милли никаких обещаний.
 
-В июле «Коммерсант» [писал](https://novayagazeta.ru/articles/2021/07/17/kommersant-moskva-predlozhila-vashingtonu-vmeste-kontrolirovat-situatsiiu-v-afganistane-s-rossiiskikh-voennykh-baz-v-tadzhikistane-i-kyrgyzstane), что Москва предложила Вашингтону использовать российские военные базы в Таджикистане и Кыргызстане, чтобы совместно контролировать ситуацию в Афганистане.
+В июле «Коммерсант» [писал](2021/07/17/kommersant-moskva-predlozhila-vashingtonu-vmeste-kontrolirovat-situatsiiu-v-afganistane-s-rossiiskikh-voennykh-baz-v-tad.md), что Москва предложила Вашингтону использовать российские военные базы в Таджикистане и Кыргызстане, чтобы совместно контролировать ситуацию в Афганистане.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/21/tsru-ne-vinovato
+**Читайте также:** [ЦРУ не виновато](2021/08/21/tsru-ne-vinovato.md)
 
 «Талибан»* начал активный захват территорий Афганистана после того, как США объявила об окончании миссии НАТО в стране. 15 августа талибы объявили себя новой властью Афганистана.
 

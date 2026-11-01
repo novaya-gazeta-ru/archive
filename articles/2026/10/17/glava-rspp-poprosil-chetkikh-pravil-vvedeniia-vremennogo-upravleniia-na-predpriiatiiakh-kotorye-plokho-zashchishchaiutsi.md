@@ -25,6 +25,6 @@ tags: ""
 
 > Под описание объектов критической инфраструктуры из президентского указа подпадают все крупные предприятия.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/10/16/smi-milliardnye-aktivy-dochek-inostrannykh-kompanii-poluchil-chinovnik-otsluzhivshii-kratkosrochnyi-kontrakt-v-chechenskom-batalone-akhmat-on-rasskazyvaet-kak-monetka-s-putinym-spasla-emu-zhizn-na-fronte-news
+**Читайте также:** [СМИ: миллиардные активы «дочек» иностранных компаний получил чиновник, отслуживший «краткосрочный контракт» в чеченском батальоне «Ахмат». Он рассказывает, как монетка с Путиным спасла ему жизнь на фронте](2026/10/16/smi-milliardnye-aktivy-dochek-inostrannykh-kompanii-poluchil-chinovnik-otsluzhivshii-kratkosrochnyi-kontrakt-v-chechensk.md)
 
 Эксперты назвали указ косвенным налогом для крупного бизнеса. Есть и другие мнения. Источник FT [предположил](https://www.ft.com/content/957f68f9-9f74-4857-9773-d3be3ef3f305?syn-25a6b1a6=1), что для условной «Роснефти» временная передача государству объектов может оказаться благом: позволит оснастить их защитой за госсчет, а затем активы могут вернуть.

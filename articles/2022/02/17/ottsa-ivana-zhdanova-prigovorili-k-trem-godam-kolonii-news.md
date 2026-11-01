@@ -21,11 +21,11 @@ tags: "ng, юрий жданов, суды, приговор"
 
 *Фото: Владимир Воронин / твиттер*
 
-19 декабря 2021 года суд в Нарьян-Маре приговорил Юрия Жданова к трем годам условно по делу о мошенничестве (ч. 4 ст. 159 УК) и служебном подлоге (ст. 292 УК). Через 10 дней, 29 декабря, Жданова-старшего [задержали](https://novayagazeta.ru/articles/2021/12/29/ottsa-ivana-zhdanova-otpravili-v-sizo-za-narushenie-podpiski-o-nevyezde-nakanune-ego-prigovorili-k-3-godam-uslovno-news) за «нарушение подписки о невыезде и надлежащем поведении». Этим нарушением [сочли](https://novayagazeta.ru/articles/2022/01/12/advokat-ottsa-ivana-zhdanova-otpravili-v-sizo-iz-za-poseshcheniia-v-nizhegorodskoi-oblasti-83-letnei-teti-do-apelliatsii-news) посещение в Нижегородской области 83-летней тети.
+19 декабря 2021 года суд в Нарьян-Маре приговорил Юрия Жданова к трем годам условно по делу о мошенничестве (ч. 4 ст. 159 УК) и служебном подлоге (ст. 292 УК). Через 10 дней, 29 декабря, Жданова-старшего [задержали](2021/12/29/ottsa-ivana-zhdanova-otpravili-v-sizo-za-narushenie-podpiski-o-nevyezde-nakanune-ego-prigovorili-k-3-godam-uslovno-news.md) за «нарушение подписки о невыезде и надлежащем поведении». Этим нарушением [сочли](2022/01/12/advokat-ottsa-ivana-zhdanova-otpravili-v-sizo-iz-za-poseshcheniia-v-nizhegorodskoi-oblasti-83-letnei-teti-do-apelliatsii.md) посещение в Нижегородской области 83-летней тети.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/17/pensioner-poetomu-mozhet-skrytsia
+**Читайте также:** [«Пенсионер — поэтому может скрыться»](2021/12/17/pensioner-poetomu-mozhet-skrytsia.md)
 
-Жданова-старшего [арестовали](https://novayagazeta.ru/articles/2021/03/29/net-nikakikh-somnenii-chto-eta-ugolovka-sviazana-so-mnoi-i-s-tem-chto-ia-delaiu-ivan-zhdanov-zaiavil-ob-areste-svoego-ottsa) в марте 2021 года. Иван Жданов считает, что его отца подставили, а дело связано с политической деятельностью Жданова как соратника Алексея Навального.
+Жданова-старшего [арестовали](2021/03/29/net-nikakikh-somnenii-chto-eta-ugolovka-sviazana-so-mnoi-i-s-tem-chto-ia-delaiu-ivan-zhdanov-zaiavil-ob-areste-svoego-ot.md) в марте 2021 года. Иван Жданов считает, что его отца подставили, а дело связано с политической деятельностью Жданова как соратника Алексея Навального.
 
 Юрий Жданов работал заместителем главы в поселке Искателей (административный центр Заполярного района Ненецкого автономного округа). По версии следствия, во время работы Жданов в составе жилищной комиссии рекомендовал главе поселка выделить квартиру женщине по договору социального найма, однако позже оказалось, что эта семья уже получала жилищную субсидию.
 

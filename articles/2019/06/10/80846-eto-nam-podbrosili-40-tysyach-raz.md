@@ -37,7 +37,7 @@ tags: "антинаркотическая политика, провокация
 
 Данный факт имеет своим единственным объяснением палочную систему возбуждения уголовных дел.
 
-**link:** https://novayagazeta.ru/articles/2019/06/10/80845-golunov-vytaskivaet-vseh
+**link:** [https://novayagazeta.ru/articles/2019/06/10/80845-golunov-vytaskivaet-vseh](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/06/10/80845-golunov-vytaskivaet-vseh)
 
 Еще более сильно выражен этот эффект на графике распределения изъятых масс героина, где пороговые значения — 0,5 грамма и 2,5 грамма соответственно.
 

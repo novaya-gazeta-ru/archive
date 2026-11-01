@@ -13,6 +13,6 @@ tags: "стрим, выборы, тихановская, лукашенко, б�
 
 *Стрим собкора «Новой» в республике Ирины Халип*
 
-**link:** https://novayagazeta.ru/articles/2020/08/09/86587-vybory-prezidenta-belarusi-online
+**link:** [https://novayagazeta.ru/articles/2020/08/09/86587-vybory-prezidenta-belarusi-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/09/86587-vybory-prezidenta-belarusi-online)
 
 По данным государственных экзит-полов, Лукашенко набрал 79,7% голосов. Светлана Тихановская -- 6,8%. По неофициальным данным -- все почти наоборот. Ирина Халип, спецкор «Новой» в Беларуси рассказывает, что происходит прямо сейчас в Минске, Москве и других городах.

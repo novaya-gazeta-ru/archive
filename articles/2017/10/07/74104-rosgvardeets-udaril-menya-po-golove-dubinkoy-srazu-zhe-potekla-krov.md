@@ -25,4 +25,4 @@ tags: "автозак, росгвардия, полиция, избиение, �
 
 Сейчас я еду в скорой в больницу, почти приехали. Говорят, рассечение сантиметров семь. Что будет дальше, пока не знаю. Со мной сотрудница полиции и врач.
 
-**link:** https://novayagazeta.ru/articles/2017/10/07/74099-aktsii-storonnikov-navalnogo-v-desyatkah-gorodov-rossii
+**link:** [В Москве впервые без массовых задержаний — но не в Питере](2017/10/07/74099-aktsii-storonnikov-navalnogo-v-desyatkah-gorodov-rossii.md)

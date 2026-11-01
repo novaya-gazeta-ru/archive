@@ -16,4 +16,4 @@ tags: "саруханов, мостовщиков"
 Вот мы зачем-то едем в далекие края.\
  А были ведь соседи, хорошие друзья.
 
-**другое великостишие:** https://novayagazeta.ru/articles/2024/09/14/strannoe-i-temnoe
+**другое великостишие:** [https://novayagazeta.ru/articles/2024/09/14/strannoe-i-temnoe](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/14/strannoe-i-temnoe)

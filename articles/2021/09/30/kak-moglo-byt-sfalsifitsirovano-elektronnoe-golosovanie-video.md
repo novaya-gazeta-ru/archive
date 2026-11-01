@@ -19,4 +19,4 @@ tags: "электронное голосование, выборы в госду
 - [Расследование](https://bit.ly/3malXfO) программиста Петра Жижина
 - [Исследование](https://bit.ly/2Y5lDa8) команды Каца и Максима Гонгальского
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/30/mandaty-polzuiutsia-vbrosom
+**Читайте также:** [Мандаты пользуются вбросом](2021/09/30/mandaty-polzuiutsia-vbrosom.md)

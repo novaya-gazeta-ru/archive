@@ -25,4 +25,4 @@ tags: ""
 
 Спасибо всем неравнодушным.
 
-Это [девятое восстановление](https://novayagazeta.ru/articles/2026/02/06/vremennuiu-tablichku-s-imenem-anny-politkovskoi-sbili-v-vosmoi-raz-s-fasada-doma-v-moskve-gde-ona-zhila-i-gde-byla-ubita-news) мемориала Анны Степановны за 2026-й год.
+Это [девятое восстановление](2026/02/06/vremennuiu-tablichku-s-imenem-anny-politkovskoi-sbili-v-vosmoi-raz-s-fasada-doma-v-moskve-gde-ona-zhila-i-gde-byla-ubita.md) мемориала Анны Степановны за 2026-й год.

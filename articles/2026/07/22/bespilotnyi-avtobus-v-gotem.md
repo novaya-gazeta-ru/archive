@@ -13,4 +13,4 @@ tags: ""
 
 *В любом случае мы окажемся на этой остановке. Как долго нам там жить — единственный вопрос. И он пока без ответа*
 
-https://novayagazeta.ru/articles/2026/07/09/bespilotnyi-avtobus-v-gotem?utm_source=spec
+[Беспилотный автобус в Готэм](2026/07/09/bespilotnyi-avtobus-v-gotem.md)

@@ -43,7 +43,7 @@ tags: "борн"
 *[media: <table align="left" border="0" cellpadding="1" cellspacing="1" style="width: 220px;">
 	<tbody>
 		<tr>
-			<td><a href="http://www.novayagazeta.ru/inquests/64159.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2014/06/25/1403652428_552312_67.jpg" style="width: 210px; height: 248px;"></a></td>
+			<td><a href="[http://www.novayagazeta.ru/inquests/64159.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/64159.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2014/06/25/1403652428_552312_67.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/06/25/1403652428_552312_67.jpg)" style="width: 210px; height: 248px;"></a></td>
 		</tr>
 		<tr>
 			<td><em>Илья Горячев и <strong>Леонид Симунин</strong> (справа) — экс-лидер люберецкого филиала прокремлевской организации «Местные», его Горячев в разговорах представлял как «куратора «Русского образа» от администрации президента».</em></td>
@@ -56,7 +56,7 @@ tags: "борн"
 
 <h2>Читайте также:</h2>
 
-<h2>Протокол <a href="http://www.novayagazeta.ru/inquests/64159.html" target="_blank">допроса</a> <span style="color:#B22222;">Е. Хасис</span>, гражданской жены Н. Тихонова, в качестве свидетеля (февраль 2012 года)</h2>
+<h2>Протокол <a href="[http://www.novayagazeta.ru/inquests/64159.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/64159.html)" target="_blank">допроса</a> <span style="color:#B22222;">Е. Хасис</span>, гражданской жены Н. Тихонова, в качестве свидетеля (февраль 2012 года)</h2>
 
 <p>« &lt;...&gt; Горячев в своих разговорах всегда нелицеприятно о нем &lt;Маркелове&gt; отзывался. &lt;...&gt; Разговор этот &lt;о пресс-конференции, где должен был выступать Маркелов&gt; начался с подачи Горячева. Я этот разговор как бы видела в скайпе, то есть он, в основном, склонял. &lt;...&gt; У меня есть основания предполагать… &lt;...&gt; Не исключено, что в этом был интерес Леонида Симунина, в том, чтобы ситуация вокруг Станислава Маркелова развивалась именно таким образом. Станислав Маркелов мешал Администрации президента &lt;...&gt;. Илья Горячев должен был по результатам этого преступления выдвинуть определенные требования для Леонида Симунина и Администрации президента в его лице. Требования о, скажем так, возможностях дальнейшего расширения организации &lt;...&gt;»</p>]*
 
@@ -130,8 +130,8 @@ tags: "борн"
 
 На следующем заседании, 20 ноября, показания будет давать гражданская жена Тихонова Евгения Хасис, получившая за соучастие в убийстве Станислава Маркелова (как подтвердил в среду Тихонов, Хасис следила за адвокатом) 18 лет колонии.
 
-*[media: <p><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/11/20/1416489422_334286_90.jpg" style="width: 100px; height: 75px; float: left;">&nbsp;<strong>Читайте также:</strong></p>
+*[media: <p><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/11/20/1416489422_334286_90.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/11/20/1416489422_334286_90.jpg)" style="width: 100px; height: 75px; float: left;">&nbsp;<strong>Читайте также:</strong></p>
 
-<p>&nbsp;<a href="http://www.novayagazeta.ru/society/66176.html">«Горячев отдал приказ убить»</a></p>
+<p>&nbsp;<a href="[http://www.novayagazeta.ru/society/66176.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/66176.html)">«Горячев отдал приказ убить»</a></p>
 
 <p><em><sup>&nbsp;В Мособлсуде по делу БОРНа допросили Евгению Хасис</sup></em></p>]*

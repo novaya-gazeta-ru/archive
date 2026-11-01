@@ -17,8 +17,8 @@ tags: ""
 
 Ранее «КАМАЗ» уже жаловался на кризис и затоваренность складов продукцией. С одной стороны, клиенты не могли взять ставшие дорогими в обслуживании кредиты на покупку новой техники, с другой импортеры иностранной техники — в основном, китайской, — завезли ее слишком много в страну, и из-за демпинга цен грузовики «КАМАЗ» стали неконкурентны.
 
-После этого Росстандарт запретил продажу в России популярных китайских грузовиков, [своевременно обнаружив](https://novayagazeta.ru/articles/2025/07/30/rossiia-zakryla-rynok-dlia-kitaiskikh-gruzovikov-iz-za-ugrozy-zhizni-grazhdan-posle-togo-kak-kamaz-pozhalovalsia-na-izbytok-konkurentsii-news) в них ряд технических изъянов.
+После этого Росстандарт запретил продажу в России популярных китайских грузовиков, [своевременно обнаружив](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2025/07/30/rossiia-zakryla-rynok-dlia-kitaiskikh-gruzovikov-iz-za-ugrozy-zhizni-grazhdan-posle-togo-kak-kamaz-pozhalovalsia-na-izbytok-konkurentsii-news) в них ряд технических изъянов.
 
-Но «КАМАЗ» с 1 августа все равно [перевел](https://novayagazeta.ru/articles/2025/07/25/krupneishie-rossiiskie-avtoproizvoditeli-kamaz-gaz-i-avtovaz-obiavili-o-perekhode-na-chetyrekhdnevnuiu-rabochuiu-nedeliu-iz-za-krizisa-v-otrasli-news) сотрудников на 4-дневку.
+Но «КАМАЗ» с 1 августа все равно [перевел](2025/07/25/krupneishie-rossiiskie-avtoproizvoditeli-kamaz-gaz-i-avtovaz-obiavili-o-perekhode-na-chetyrekhdnevnuiu-rabochuiu-nedeliu.md) сотрудников на 4-дневку.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/27/okhlazhdenie-stroptivykh
+**Читайте также:** [«Охлаждение» строптивых](2025/08/27/okhlazhdenie-stroptivykh.md)

@@ -25,4 +25,4 @@ tags: ""
 
 СМИ днем ранее [сообщали](https://transsibinfo.com/news/2025-04-25/razbituyu-tehniku-nato-i-vsu-pokazhut-v-komsomolske-na-amure-5377434), что среди экспонатов — семь единиц тяжелой техники, пострадавшей в ходе боев. Выставка организована по распоряжению министра обороны, который якобы откликнулся на просьбу губернатора Демешина.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/01/molitva-protiv-korruptsii-zapreshchenka-v-grobu-i-okhota-na-voron
+**Читайте также:** [Молитва против коррупции, запрещенка в гробу и охота на ворон](2025/04/01/molitva-protiv-korruptsii-zapreshchenka-v-grobu-i-okhota-na-voron.md)

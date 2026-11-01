@@ -27,6 +27,6 @@ tags: ""
 
 Арашуков-младший отбывает наказание в колонии «Черный дельфин». Он [жаловался](https://www.rbc.ru/society/22/11/2023/655de7099a79474b80c6578c) на условия содержания, в том числе на помещение в ШИЗО, где, по его утверждениям, его заставляли стоять в позе «ласточки» по нескольку часов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/17/gosduma-priniala-v-pervom-chtenii-zaknoproekt-o-shtrafakh-za-propagandu-chaildfri-deputaty-kotorym-kadyrov-prigrozil-krovnoi-mestiu-ne-prishli-news
+**Читайте также:** [Госдума приняла в первом чтении закнопроект о штрафах за пропаганду чайлдфри. Депутаты, которым Кадыров пригрозил кровной местью, не пришли](2024/10/17/gosduma-priniala-v-pervom-chtenii-zaknoproekt-o-shtrafakh-za-propagandu-chaildfri-deputaty-kotorym-kadyrov-prigrozil-kro.md)
 
 #### * Принадлежит компании Meta, которую в РФ признали экстремистской, ее деятельность запретили.

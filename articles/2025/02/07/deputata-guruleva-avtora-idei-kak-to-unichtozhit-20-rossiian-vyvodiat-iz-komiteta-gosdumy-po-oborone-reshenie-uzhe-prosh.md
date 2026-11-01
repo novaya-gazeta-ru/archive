@@ -19,11 +19,11 @@ tags: ""
 
 Гурулева выводят из комитета по обороне и включат в другой комитет — по региональной политике и местному самоуправлению.
 
-Гурулев — депутат Госдумы от Забайкалья от «Единой России». Он известен своими провокационными идеями, высказанными в прямом эфире на большую аудиторию, например, предложением «[как-то уничтожить](https://novayagazeta.ru/articles/2023/10/23/trebuem-proverit-otkrytyi-prizyv-deputata-guruleva-k-unichtozheniiu-rossiian-ne-podderzhivaiushchikh-putina-i-svo)» несогласных с Путиным 20% россиян.
+Гурулев — депутат Госдумы от Забайкалья от «Единой России». Он известен своими провокационными идеями, высказанными в прямом эфире на большую аудиторию, например, предложением «[как-то уничтожить](2023/10/23/trebuem-proverit-otkrytyi-prizyv-deputata-guruleva-k-unichtozheniiu-rossiian-ne-podderzhivaiushchikh-putina-i-svo.md)» несогласных с Путиным 20% россиян.
 
 Гурулев участвовал в разработке закона «о запрете пропаганды чайлд-фри», ярый сторонник возвращения смертной казни, практики советских заградотрядов СМЕРШ, ядерного удара по территории Украины.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/10/23/trebuem-proverit-otkrytyi-prizyv-deputata-guruleva-k-unichtozheniiu-rossiian-ne-podderzhivaiushchikh-putina-i-svo
+**Читайте также:** [Требуем проверить открытый призыв депутата Гурулева к уничтожению россиян, не поддерживающих Путина и СВО](2023/10/23/trebuem-proverit-otkrytyi-prizyv-deputata-guruleva-k-unichtozheniiu-rossiian-ne-podderzhivaiushchikh-putina-i-svo.md)
 
 Тот же проект постановления уточняет обновленный состав комитета по обороне Госдумы, в нем будет 13 депутатов:
 
@@ -41,4 +41,4 @@ tags: ""
 - Соболев Виктор
 - Швыткин Юрий
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/12/20/otlil-v-folge
+**Читайте также:** [Отлил в фольге](2023/12/20/otlil-v-folge.md)

@@ -21,6 +21,6 @@ tags: "фрг, США, экстрадиция, em"
 
 Казначееву в США вменялось в вину кибермошенничество и отмывание более миллиона долларов в даркнете. Сам диджей отрицал свою вину и утверждал, что в деле указаны ID (идентификатор пользователя) и IP (адрес пользователя в интернете), не имеющие отношения к нему.
 
-Российского диджея [арестовали](https://novayagazeta.ru/articles/2020/06/08/162137-v-germanii-po-zaprosu-ssha-arestovali-rossiyskogo-didzheya) в Берлине в начале лета прошлого года, зо затем отпустили под залог в размере 20 тысяч евро. В ноябре прошлого года суд в Берлине [постановил](https://novayagazeta.ru/articles/2021/11/22/berlinskii-sud-postanovil-ekstradirovat-v-ssha-rossiiskogo-didzheia-obviniaemogo-v-etoi-strane-v-otmyvanii-deneg-news) выдать Казначеева США.
+Российского диджея [арестовали](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/06/08/162137-v-germanii-po-zaprosu-ssha-arestovali-rossiyskogo-didzheya) в Берлине в начале лета прошлого года, зо затем отпустили под залог в размере 20 тысяч евро. В ноябре прошлого года суд в Берлине [постановил](2021/11/22/berlinskii-sud-postanovil-ekstradirovat-v-ssha-rossiiskogo-didzheia-obviniaemogo-v-etoi-strane-v-otmyvanii-deneg-news.md) выдать Казначеева США.
 
 Российский диджей жил в Берлине и до ареста, он известен под псевдонимом Guttersnipe. Казначеев создавал электронную музыку в жанрах техно и техно-хаус.

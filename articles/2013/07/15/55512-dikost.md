@@ -23,7 +23,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/13/1373727652_870026_23.jpg" style="width: 340px; height: 253px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/13/1373727652_870026_23.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/13/1373727652_870026_23.jpg)" style="width: 340px; height: 253px;"></td>
 		</tr>
 		<tr>
 			<td>

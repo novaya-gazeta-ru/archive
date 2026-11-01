@@ -17,8 +17,8 @@ tags: "парацетамол, ибупрофен, лекарства, апте�
  \
  РБК отмечает, что с помощью сервиса «2ГИС Аптеки» среди 9710 аптек в Москве и области «Эффералган» 22 марта можно было найти в 290 местах, «Нурофен»— в 174, а «Панадол» — в 36 точках продаж. В тоже время, опрошенные изданием врачи не увидели серьезной проблемы в перебоях с поставками на рынок импортного парацетамола в форме суспензий.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/10/boleznennye-sanktsii
+**Читайте также:** [Болезненные санкции](2022/03/10/boleznennye-sanktsii.md)
 
 Из-за санкций и ухода из России иностранных компаний люди начали закупать лекарства впрок. Хотя международные фармацевтические компании официально не заявляли о приостановке поставок, в аптеках наблюдается нехватка некоторых препаратов.\
  \
- Минздрав России на фоне падения рубля также [предложил](https://novayagazeta.ru/articles/2022/03/22/minzdrav-iz-za-padeniia-kursa-rublia-predlozhil-izmenit-mekhanizm-pereotsenki-zhiznenno-neobkhodimykh-preparatov-news) изменить механизм переоценки жизненно необходимых препаратов, а Минпромторг [рассматривал](https://novayagazeta.ru/articles/2022/03/21/minpromtorg-rassmatrivaet-vozmozhnost-zakupki-syria-dlia-zhiznenno-neobkhodimykh-lekarstv-v-indii-i-kitae-news) возможность закупки сырья для этих лекарств в Индии и Китае.
+ Минздрав России на фоне падения рубля также [предложил](2022/03/22/minzdrav-iz-za-padeniia-kursa-rublia-predlozhil-izmenit-mekhanizm-pereotsenki-zhiznenno-neobkhodimykh-preparatov-news.md) изменить механизм переоценки жизненно необходимых препаратов, а Минпромторг [рассматривал](2022/03/21/minpromtorg-rassmatrivaet-vozmozhnost-zakupki-syria-dlia-zhiznenno-neobkhodimykh-lekarstv-v-indii-i-kitae-news.md) возможность закупки сырья для этих лекарств в Индии и Китае.

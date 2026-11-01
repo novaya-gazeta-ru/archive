@@ -15,6 +15,6 @@ tags: "каховская гэс, херсонская область, воло�
 
 **Произведено: «НО»:** https://www.youtube.com/watch?v=sUCh6Zoyxx0
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/06/15/tam-gde-plyvut-miny
+**Читайте также:** [Там, где плывут мины](2023/06/15/tam-gde-plyvut-miny.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/06/07/razrushena-plotina-v-riade-samykh-neobychnykh-mest
+**Читайте также:** [«Разрушена плотина в ряде самых необычных мест»](2023/06/07/razrushena-plotina-v-riade-samykh-neobychnykh-mest.md)

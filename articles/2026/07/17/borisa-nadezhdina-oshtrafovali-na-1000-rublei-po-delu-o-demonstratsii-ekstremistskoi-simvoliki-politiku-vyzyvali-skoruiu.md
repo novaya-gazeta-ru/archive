@@ -29,6 +29,6 @@ tags: ""
 
 При этом Надеждин — еще и хороший знакомый нынешнего куратора внутренней политики в России Сергея Кириенко. В 1997—1998 годах Надеждин работал помощником Кириенко, когда тот недолго был премьером правительства РФ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/16/obiavlennomu-inoagentom-politiku-nadezhdinu-stavshemu-figurantom-ekstremistskogo-dela-eshche-i-zapretili-vyezd-iz-rossii-news
+**Читайте также:** [Объявленному иноагентом политику Надеждину*, ставшему фигурантом «экстремистского» дела, еще и запретили выезд из России](2026/07/16/obiavlennomu-inoagentom-politiku-nadezhdinu-stavshemu-figurantom-ekstremistskogo-dela-eshche-i-zapretili-vyezd-iz-rossii.md)
 
 #### * Минюст включил в реестр иноагентов.

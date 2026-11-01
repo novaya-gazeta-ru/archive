@@ -49,7 +49,7 @@ tags: "религия, рпц, сталин"
 
 **За всем этим проступает хрестоматийный «русский потлач»** — культура харизматической легитимации подарками от власти и от вождя племени лично. Православному индейцу завсегда везде ништяк! Все, что народ получает, воспринимается им как дареный конь, которому и в зубы не смотрят, и о цене не спрашивают, хотя куплен он на деньги самих одариваемых и с диким откатом.
 
-*[media: <p class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/11/10/1447180360_922122_92.jpg" style="width: 570px; height: 696px;"><br>
+*[media: <p class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/11/10/1447180360_922122_92.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/11/10/1447180360_922122_92.jpg)" style="width: 570px; height: 696px;"><br>
 <sup>Икона «Матрона и Сталин», 2008. Фото: <a href="http://oubb.livejournal.com/269967.html" target="_blank">oubb.livejournal.com</a></sup></p>]*
 
 #Исторические виды: война и мир

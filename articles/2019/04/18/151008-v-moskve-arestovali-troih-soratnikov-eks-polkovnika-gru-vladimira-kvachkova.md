@@ -19,14 +19,14 @@ tags: "москва, квачков, nt"
 
 Трое мужчин были задержаны 11 апреля. При обысках у них нашли предметы и документы, доказывающие их причастность к террористической организации, добавили в СК.
 
-**link:** https://novayagazeta.ru/articles/2019/04/10/80169-te-zhe-i-zapreschennaya-v-rossii-set
+**link:** [Те же и запрещенная в России «Сеть»](2019/04/10/80169-te-zhe-i-zapreschennaya-v-rossii-set.md)
 
-В феврале этого года бывший полковник ГРУ и лидер НОМП Владимир Квачков [вышел](https://www.novayagazeta.ru/news/2019/02/19/149348-eks-polkovnik-gru-kvachkov-vyshel-iz-kolonii-ego-osvobodili-iz-za-dekriminalizatsii-stati-282-uk) на свободу из мордовской колонии. Его [освободили](https://www.novayagazeta.ru/news/2019/02/07/149025-eks-polkovnika-gru-kvachkova-osvobodili-iz-kolonii-iz-za-dekriminalizatsii-stati-282-uk) от наказания в связи с частичной декриминализацией ст. 282 УК (возбуждение ненависти или вражды).
+В феврале этого года бывший полковник ГРУ и лидер НОМП Владимир Квачков [вышел](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/02/19/149348-eks-polkovnik-gru-kvachkov-vyshel-iz-kolonii-ego-osvobodili-iz-za-dekriminalizatsii-stati-282-uk) на свободу из мордовской колонии. Его [освободили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/02/07/149025-eks-polkovnika-gru-kvachkova-osvobodili-iz-kolonii-iz-za-dekriminalizatsii-stati-282-uk) от наказания в связи с частичной декриминализацией ст. 282 УК (возбуждение ненависти или вражды).
 
 В 2013 году суд признал Квачкова виновным в попытке организовать вооруженный мятеж и содействии террористической деятельности. Его приговорили к 13 годам колонии строгого режима, однако позднее Верховный суд сократил срок до восьми лет.
 
 По версии следствия, экс-полковник якобы начал собирать «ополчение» в Тольятти, Самаре, Владимире и других городах, которое планировало захватить ближайшие военные части, а после выдвинуться в Москву.
 
-**link:** https://novayagazeta.ru/articles/2013/02/11/53452-monopoliya-na-171-iudo-masonstvo-187-ili-o-prigovore-polkovniku-kvachkovu
+**link:** [Монополия на «иудо-масонство», или О приговоре полковнику Квачкову](2013/02/11/53452-monopoliya-na-171-iudo-masonstvo-187-ili-o-prigovore-polkovniku-kvachkovu.md)
 
 *[media: <p>Дело полковника ГРУ имело гриф «секретно». Квачков свою вину ни по одному из предъявленных обвинений не признавал. До этого он был дважды оправдан по делу о покушении на бывшего главу РАО «ЕЭС России» Анатолия Чубайса.</p>]*

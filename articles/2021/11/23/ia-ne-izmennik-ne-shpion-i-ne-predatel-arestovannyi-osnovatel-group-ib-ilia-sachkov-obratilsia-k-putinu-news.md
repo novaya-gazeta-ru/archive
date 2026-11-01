@@ -17,8 +17,8 @@ tags: "сачков, гостайна, group-ib, письмо президент
 
 Пресс-секретарь президента Дмитрий Песков [заявил](https://tass.ru/politika/12996755), что ему неизвестно об обращении Сачкова к Путину.
 
-29 сентября Лефортовский суд Москвы [арестовал](https://novayagazeta.ru/articles/2021/09/29/osnovatelia-group-ib-iliu-sachkova-otpravili-v-sizo-po-delu-o-gosizmene-news) на два месяца Сачкова по делу о госизмене (ст. 275 УК). В штаб-квартире его компании прошли обыски. На уголовное дело в отношении IT-бизнесмена наложен гриф «Секретно». Сегодня суд [продлил](https://mos-gorsud.ru/rs/lefortovskij/services/cases/criminal-materials/details/27b90d70-4c26-11ec-8c62-dd87c1885044?respondent=%D1%81%D0%B0%D1%87%D0%BA%D0%BE%D0%B2) срок ареста Сачкова до 28 февраля 2022 года. Защита бизнесмена собирается обжаловать это решение.
+29 сентября Лефортовский суд Москвы [арестовал](2021/09/29/osnovatelia-group-ib-iliu-sachkova-otpravili-v-sizo-po-delu-o-gosizmene-news.md) на два месяца Сачкова по делу о госизмене (ст. 275 УК). В штаб-квартире его компании прошли обыски. На уголовное дело в отношении IT-бизнесмена наложен гриф «Секретно». Сегодня суд [продлил](https://mos-gorsud.ru/rs/lefortovskij/services/cases/criminal-materials/details/27b90d70-4c26-11ec-8c62-dd87c1885044?respondent=%D1%81%D0%B0%D1%87%D0%BA%D0%BE%D0%B2) срок ареста Сачкова до 28 февраля 2022 года. Защита бизнесмена собирается обжаловать это решение.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/29/chelovek-pervogo-softa
+**Читайте также:** [Человек первого софта](2021/09/29/chelovek-pervogo-softa.md)
 
-После ареста бизнесмена его мать Людмила Сачкова также [обращалась](https://novayagazeta.ru/articles/2021/10/06/tak-komu-zhe-vygodno-ustranit-iliu-mat-osnovatelia-group-ib-sachkova-napisala-pismo-putinu-news) к Путину. Она написала президенту письмо, в котором назвала сына верующим человеком и истинным патриотом. Мать Сачкова просила честно разобраться в этом деле и освободить бизнесмена.
+После ареста бизнесмена его мать Людмила Сачкова также [обращалась](2021/10/06/tak-komu-zhe-vygodno-ustranit-iliu-mat-osnovatelia-group-ib-sachkova-napisala-pismo-putinu-news.md) к Путину. Она написала президенту письмо, в котором назвала сына верующим человеком и истинным патриотом. Мать Сачкова просила честно разобраться в этом деле и освободить бизнесмена.

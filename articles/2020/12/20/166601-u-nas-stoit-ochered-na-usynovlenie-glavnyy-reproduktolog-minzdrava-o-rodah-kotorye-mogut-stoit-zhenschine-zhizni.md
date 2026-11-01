@@ -21,10 +21,10 @@ tags: "sf, минздрав, беременность, аборты"
 
 **«** Ну, ребенок не останется сиротой — у нас стоит очередь на усыновление новорожденных младенцев», — ответил Аполихин.
 
-**link:** https://novayagazeta.ru/articles/2020/12/16/88400-nazyvaetsya-sdohni-no-rodi
+**link:** [«Сдохни, но роди»](2020/12/16/88400-nazyvaetsya-sdohni-no-rodi.md)
 
 Сегодня по своему желанию женщина может прервать беременность на сроке до 12 недель, позже — по медицинским показаниям.
 
-Согласно новому [проекту](https://novayagazeta.ru/news/2020/12/14/166431-minzdrav-proekt-prikaza-o-perechne-meditsinskih-pokazaniy-dlya-aborta-ne-otmenyaet-preryvaniya-beremennosti-po-zhelaniyu-zhenschiny) Минздрава, показаниями для аборта могут стать активная фаза туберкулеза, краснуха до 20-й недели беременности и болезнь, вызванная вирусом иммунодефицита человека (ВИЧ) IV стадии, а также шизофрения и другие психические расстройства.
+Согласно новому [проекту](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/12/14/166431-minzdrav-proekt-prikaza-o-perechne-meditsinskih-pokazaniy-dlya-aborta-ne-otmenyaet-preryvaniya-beremennosti-po-zhelaniyu-zhenschiny) Минздрава, показаниями для аборта могут стать активная фаза туберкулеза, краснуха до 20-й недели беременности и болезнь, вызванная вирусом иммунодефицита человека (ВИЧ) IV стадии, а также шизофрения и другие психические расстройства.
 
-Зампред комитета Госдумы по вопросам семьи, женщин и детей Оксана Пушкина [назвала](https://novayagazeta.ru/news/2020/12/14/166411-biopolitika-oksana-pushkina-raskritikovala-proekt-prikaza-minzdrava-ob-ogranichenii-prav-zhenschin-na-aborty-perechnem-patologiy) проект «катастрофой».
+Зампред комитета Госдумы по вопросам семьи, женщин и детей Оксана Пушкина [назвала](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/12/14/166411-biopolitika-oksana-pushkina-raskritikovala-proekt-prikaza-minzdrava-ob-ogranichenii-prav-zhenschin-na-aborty-perechnem-patologiy) проект «катастрофой».

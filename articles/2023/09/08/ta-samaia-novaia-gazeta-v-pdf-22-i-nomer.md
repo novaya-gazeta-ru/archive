@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *Приговорили журналиста Афанасьева, продлили арест Беркович и Петрийчук. А приговоры грабителям и убийцам по статистике меньше, чем политзекам*
 
-https://novayagazeta.ru/issues/3267
+[https://novayagazeta.ru/issues/3267](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3267)

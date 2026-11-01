@@ -20,4 +20,4 @@ tags: "терешкова, госдума, конституция, путин"
 
 *[media: &nbsp;]*
 
-**link:** https://novayagazeta.ru/articles/2020/01/16/83473-nikakih-peremen
+**link:** [https://novayagazeta.ru/articles/2020/01/16/83473-nikakih-peremen](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/01/16/83473-nikakih-peremen)

@@ -17,11 +17,11 @@ tags: ""
 
 Предлагаем не только обсуждать уже вышедшие материалы, дабы выявить возможные неточности, но и поделиться своей оценкой упомянутых сообществ* **:
 
-«Готы – люди в черном»: http://www.novayagazeta.ru/data/2007/02/19.html
+«Готы – люди в черном»: [http://www.novayagazeta.ru/data/2007/02/19.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/data/2007/02/19.html)
 
-«Армия Алиса»: красное и черное»: http://www.novayagazeta.ru/data/2007/10/39.html
+«Армия Алиса»: красное и черное»: [http://www.novayagazeta.ru/data/2007/10/39.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/data/2007/10/39.html)
 
-«По Москве ходят толки»: http://www.novayagazeta.ru/data/2007/20/26.html
+«По Москве ходят толки»: [http://www.novayagazeta.ru/data/2007/20/26.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/data/2007/20/26.html)
 
 В данный момент мы готовим материал о еще одном мало изученном «народце» – поклонниках культуры ЭМО. Вам близка эта идеология? Вы сами являетесь членом сообщества? Хотите поделиться взглядом со стороны? Ждем ваших комментариев!
 

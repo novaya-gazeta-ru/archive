@@ -15,6 +15,6 @@ tags: ""
 
 **Видео «НО»:** https://www.youtube.com/watch?v=4f8qX7CtDA4
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/11/29/kak-zanimatsia-politikoi-v-strane-gde-politiki-net
+**Читайте также:** [Как заниматься политикой в стране, где политики нет?](2023/11/29/kak-zanimatsia-politikoi-v-strane-gde-politiki-net.md)
 
 #### *Внесена властями РФ в реестр «иноагентов».

@@ -21,8 +21,8 @@ tags: ""
 
 Например, из-за того, что мигранты уходят работать курьерами, число дворников уменьшилось примерно на половину, сообщили в Гильдии управляющих компаний в ЖКХ. «Там в два раза больше зарплата, а работа легче, чем чистить дворы и убирать мусор», — отмечала исполнительный директор Вера Москвина.
 
-Дворники [оказались](https://novayagazeta.ru/articles/2024/11/16/dvorniki-stali-samoi-defitsitnoi-spetsialnostiu-v-rossii-na-noiabr-2024-goda-issledovanie-news) самой дефицитной профессией в ноябре 2024 года.
+Дворники [оказались](2024/11/16/dvorniki-stali-samoi-defitsitnoi-spetsialnostiu-v-rossii-na-noiabr-2024-goda-issledovanie-news.md) самой дефицитной профессией в ноябре 2024 года.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/02/mozhno-vyiti-na-polnotsennuiu-zarplatu-studentam-v-peterburge-poobeshchali-1000-rublei-za-chetyrekhchasovuiu-uborku-snega-news
+**Читайте также:** [«Можно выйти на полноценную зарплату…» Студентам в Петербурге пообещали 1000 рублей за четырехчасовую уборку снега](2024/11/02/mozhno-vyiti-na-polnotsennuiu-zarplatu-studentam-v-peterburge-poobeshchali-1000-rublei-za-chetyrekhchasovuiu-uborku-sneg.md)
 
 Сократить курьеров, чтобы мигранты вместо этого пошли работать на заводы, а россияне встали с диванов и пошли бы в магазин своими ногами, — летом [предлагала](https://t.me/novaya_pishet/46809) вице-президент Торгово-промышленной палаты РФ Елены Дыбова. Ее логику раскритиковали специалисты рынка труда.

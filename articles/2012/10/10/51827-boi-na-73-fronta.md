@@ -16,7 +16,7 @@ tags: "единая россия, выборы, оппозиция, регион
 *[media: <tbody style="">
 		<tr style="">
 			<td class="g-justify-right" style="">
-				<a href="http://www.novayagazeta.ru/storage/c/2012/10/10/1349842443_167082_99.png" target="_blank"><img src="http://www.novayagazeta.ru/storage/c/2012/10/10/1349819009_913171_0.png" style="height: 265px; width: 300px; "></a> <sup style="">Петр Саруханов — «Новая»</sup></td>
+				<a href="[http://www.novayagazeta.ru/storage/c/2012/10/10/1349842443_167082_99.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/10/1349842443_167082_99.png)" target="_blank"><img src="[http://www.novayagazeta.ru/storage/c/2012/10/10/1349819009_913171_0.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/10/1349819009_913171_0.png)" style="height: 265px; width: 300px; "></a> <sup style="">Петр Саруханов — «Новая»</sup></td>
 		</tr>
 	</tbody>]*
 

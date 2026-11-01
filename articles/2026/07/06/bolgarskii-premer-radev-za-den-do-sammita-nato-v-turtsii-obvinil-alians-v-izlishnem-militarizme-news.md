@@ -21,4 +21,4 @@ tags: ""
 
 Уже завтра начинается саммита альянса в Анкаре, и там же 8 июля анонсирована встреча президента Украины Зеленского с президентом США Дональдом Трампом. Из источников американских СМИ следует, что после этой встречи Трамп намеревается созвониться и с Путиным.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/04/polsha-ochen-intensivno-gotovitsia-k-vozmozhnoi-provokatsii-v-interesakh-moskvy-protiv-odnoi-iz-stran-nato-tusk-news
+**Читайте также:** [Польша «очень интенсивно готовится» к возможной провокации в интересах Москвы против «одной из стран НАТО» — Туск](2026/07/04/polsha-ochen-intensivno-gotovitsia-k-vozmozhnoi-provokatsii-v-interesakh-moskvy-protiv-odnoi-iz-stran-nato-tusk-news.md)

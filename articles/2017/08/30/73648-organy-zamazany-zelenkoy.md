@@ -45,7 +45,7 @@ tags: "нападение, насилие"
 
 **Уголовное дело возбуждено не было.**
 
-**link:** https://novayagazeta.ru/articles/2017/08/30/73647-bydl-klass-podnyalsya-s-kolen
+**link:** [Быдл-класс поднялся с колен](2017/08/30/73647-bydl-klass-podnyalsya-s-kolen.md)
 
 # Нападение на активистку «Яблока» с газовым баллончиком
 
@@ -85,7 +85,7 @@ tags: "нападение, насилие"
 
 **В возбуждении уголовного дела отказано.**
 
-**link:** https://novayagazeta.ru/articles/2017/08/30/73646-cila-samyy-veskiy-argument
+**link:** [Cила — самый веский аргумент](2017/08/30/73646-cila-samyy-veskiy-argument.md)
 
 # Нападения на журналиста Юлию Латынину
 

@@ -19,15 +19,15 @@ tags: "пытки, обвинения, крым, em"
 
 Азаматов добавил, что силовики не передают Ахтемову, у которого есть заболевания сосудов и желудка, необходимые лекарства, оказывая на его подзащитного давление таким образом. Жена Ахтемова говорит, что передает все нужные препараты, но, по словам мужа, он получает только витамины.
 
-Ранее Ахтемов [рассказал](https://novayagazeta.ru/articles/2021/09/14/begi-i-pomni-chto-ia-khorosho-streliaiu-zaderzhannyi-fsb-po-delu-o-diversii-krymskii-tatarin-asan-akhtemov-rasskazal-o-pytkakh-news), что силовики его пытали, в том числе током. Так они заставили его дать на камеру признательные показания. По словам Азаматова, впоследствии его подзащитный от них отказался.
+Ранее Ахтемов [рассказал](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/14/begi-i-pomni-chto-ia-khorosho-streliaiu-zaderzhannyi-fsb-po-delu-o-diversii-krymskii-tatarin-asan-akhtemov-rasskazal-o-pytkakh-news), что силовики его пытали, в том числе током. Так они заставили его дать на камеру признательные показания. По словам Азаматова, впоследствии его подзащитный от них отказался.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/07/komanda-gazy
+**Читайте также:** [Команда «газы»](2021/09/07/komanda-gazy.md)
 
 23 августа МВД [сообщило](https://tass.ru/proisshestviya/12198225) о повреждении газопровода в поселке Перевальное и возбудило дело об умышленном уничтожении или повреждении имущества (ч. 2 ст. 167 УК). Работу трубопровода восстановили сразу же, отключения газа [не было](https://tass.ru/proisshestviya/12198225).
 
-После этого силовики задержали братьев Асана и Азиза Ахтемовых, а также экс-зампреда меджлиса крымских татар* Наримана Джеляла (Джелялова) и [отправили](https://novayagazeta.ru/articles/2021/09/06/dvoikh-krymskikh-tatar-otpravili-v-sizo-po-delu-o-povrezhdenii-gazoprovoda-news) их в СИЗО. Кроме того, отцу Ахтемовых Эскендеру назначили 10 суток ареста за неповиновение полиции, а брату Арсену — 15.
+После этого силовики задержали братьев Асана и Азиза Ахтемовых, а также экс-зампреда меджлиса крымских татар* Наримана Джеляла (Джелялова) и [отправили](2021/09/06/dvoikh-krymskikh-tatar-otpravili-v-sizo-po-delu-o-povrezhdenii-gazoprovoda-news.md) их в СИЗО. Кроме того, отцу Ахтемовых Эскендеру назначили 10 суток ареста за неповиновение полиции, а брату Арсену — 15.
 
-12 сентября ФСБ [ужесточила](https://novayagazeta.ru/articles/2021/09/12/v-krymu-uzhestochili-obvinenie-eks-zampredu-medzhlisa-krymskikh-tatar-po-delu-o-povrezhdenii-gazoprovoda-news) обвинение политику Джелялову до участия в совершении диверсии (ч. 1 ст. 281 УК). Он также [сообщал](https://novayagazeta.ru/articles/2021/09/05/advokat-zaderzhannogo-krymskotatarskogo-politika-narimana-dzheliala-derzhali-v-podvale-s-meshkom-na-golove-news) о пытках — его держали в подвале без еды и воды с мешком на голове.
+12 сентября ФСБ [ужесточила](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/12/v-krymu-uzhestochili-obvinenie-eks-zampredu-medzhlisa-krymskikh-tatar-po-delu-o-povrezhdenii-gazoprovoda-news) обвинение политику Джелялову до участия в совершении диверсии (ч. 1 ст. 281 УК). Он также [сообщал](2021/09/05/advokat-zaderzhannogo-krymskotatarskogo-politika-narimana-dzheliala-derzhali-v-podvale-s-meshkom-na-golove-news.md) о пытках — его держали в подвале без еды и воды с мешком на голове.
 
 #### **признан экстремистской организацией и запрещен в России*
 

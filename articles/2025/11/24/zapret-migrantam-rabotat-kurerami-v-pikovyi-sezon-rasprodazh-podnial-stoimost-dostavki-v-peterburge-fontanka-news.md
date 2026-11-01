@@ -25,4 +25,4 @@ tags: ""
 
 Утверждалось, что власти допускают возможность продлить запрет и на 2027 год.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/10/eti-liudi-v-taksi-za-khlebom-ne-ezdiat
+**Читайте также:** [Эти люди в такси за хлебом не ездят](2025/11/10/eti-liudi-v-taksi-za-khlebom-ne-ezdiat.md)

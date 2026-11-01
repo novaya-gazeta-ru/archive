@@ -15,7 +15,7 @@ tags: "война, украина"
 
 *[media: <tbody>
 		<tr>
-			<td><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/01/31/1422723293_706097_64.png" style="width: 340px; height: 280px; float: right;"></td>
+			<td><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/01/31/1422723293_706097_64.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/01/31/1422723293_706097_64.png)" style="width: 340px; height: 280px; float: right;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Александр Розмазнин. Фото: Ольга Мусафирова / «Новая»</sup></td>
@@ -39,9 +39,9 @@ tags: "война, украина"
 
 Между тем люди с оружием оказались совсем рядом, за дверью, в кабинете, служившем прежде, наверное, общественной приемной. Со стола свисала большая карта, на которую я и глянуть не успела, поскольку запуталась в названии нужного мне **Центра по контролю и координации прекращения огня и стабилизации линии разделения** . «Штаб здесь», — кратко ответили мне.
 
-*[media: <p><a href="http://www.novayagazeta.ru/photos/67079.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/p/2015/02/01/1422796295_899305_74.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;"><strong>Смотрите также:</strong></span></p>
+*[media: <p><a href="[http://www.novayagazeta.ru/photos/67079.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/67079.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/p/2015/02/01/1422796295_899305_74.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/p/2015/02/01/1422796295_899305_74.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;"><strong>Смотрите также:</strong></span></p>
 
-<p><strong><a href="http://www.novayagazeta.ru/photos/67079.html" target="_blank">Дебальцево. Место самых жестоких боев войны в Украине. ФОТО</a></strong></p>]*
+<p><strong><a href="[http://www.novayagazeta.ru/photos/67079.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/67079.html)" target="_blank">Дебальцево. Место самых жестоких боев войны в Украине. ФОТО</a></strong></p>]*
 
 Но в Дебальцеве с недавних пор размещалась лишь половина штаба, если так выразиться о совместной украино-российской структуре, рожденной после Минска. Россияне пока перебрались за 25 километров от Дебальцево, в безопасный город Соледар, в логово «украинских карателей» — санаторий «Соляная симфония». Отдыхающих «зачистили» (не подумайте чего плохого, просто представителям Центра по статусу положены соответствующие условия). Теперь **генерал-майора вооруженных сил Украины Александра Розмазнина** , руководителя украинской «половины», приходится ловить между двух точек, «горячей» и курортной, где проходят совместные с россиянами заседания.
 
@@ -55,11 +55,11 @@ tags: "война, украина"
 
 Центр существует с 28 сентября, график ведется с первого же дня. Сначала в состав Центра входило 45 сотрудников, 27 — Украина, остальные из России. Потом стали совершенствоваться и пришли к другим цифрам. **Из 128 офицеров организовали совместные группы контроля.** Может, вы обратили внимание — на машинах встречаются буквы «НМ»? Это Наблюдательная миссия.
 
-*[media: <a href="http://www.novayagazeta.ru/society/67074.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/01/31/1422726359_294854_56.jpg" style="width: 100px; height: 75px;"></a>
+*[media: <a href="[http://www.novayagazeta.ru/society/67074.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/67074.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/01/31/1422726359_294854_56.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/01/31/1422726359_294854_56.jpg)" style="width: 100px; height: 75px;"></a>
 
 <p><span style="color:#B22222;"><strong>Читайте также:</strong></span></p>
 
-<p><a href="http://www.novayagazeta.ru/society/67074.html" target="_blank"><strong>Западня. В нее после срыва минских перегворов попал не только город Дебальцево. Специальный репортаж Сергея Соколова</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/society/67074.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/67074.html)" target="_blank"><strong>Западня. В нее после срыва минских перегворов попал не только город Дебальцево. Специальный репортаж Сергея Соколова</strong></a></p>]*
 
 **— Полчаса назад мы видели такую машину у входа в Дебальцевский горисполком.**
 

@@ -19,4 +19,4 @@ tags: "лавина, военные, южная осетия, смерть , sf"
 
 Транскавказская автомагистраль — единственная дорога, которая связывает Россию и Южную Осетию.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/04/01/mama-tolko-ne-govori-nikomu-spasatelei-do-sikh-por-net
+**Читайте также:** [«Мама, только не говори никому, спасателей до сих пор нет»](2021/04/01/mama-tolko-ne-govori-nikomu-spasatelei-do-sikh-por-net.md)

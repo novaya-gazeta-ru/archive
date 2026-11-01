@@ -15,7 +15,7 @@ tags: ""
 
 Ведомство также [составило](https://t.me/tass_agency/121482) в отношении «Яндекс.Еды» административный протокол за нарушение законодательства о персональных данных.
 
-Накануне в соцсетях [распространили](https://novayagazeta.ru/articles/2022/03/22/v-sotssetiakh-rasprostranilas-karta-s-lichnymi-dannymi-klientov-iandeks-edy-ranee-servis-soobshchal-ob-utechke-informatsii-news) ссылку на карту с утекшими личными данными пользователей «Яндекс.Еды». Среди сведений — имена, номера телефонов и адреса россиян, а также некоторых жителей Беларуси, Израиля и Казахстана.
+Накануне в соцсетях [распространили](2022/03/22/v-sotssetiakh-rasprostranilas-karta-s-lichnymi-dannymi-klientov-iandeks-edy-ranee-servis-soobshchal-ob-utechke-informats.md) ссылку на карту с утекшими личными данными пользователей «Яндекс.Еды». Среди сведений — имена, номера телефонов и адреса россиян, а также некоторых жителей Беларуси, Израиля и Казахстана.
 
 ![](_assets/36/363b5ae04eaf790fd74e6a4a253dddac.webp)
 

@@ -165,7 +165,7 @@ tags: "горинов, алексей горинов, репрессии, тюр
 
 — За Крымский мост, когда взорвали Крымский мост, разговаривали. Вот данный гражданин сказал, что <…>. Как правильно выразиться… узел снабжения российских войск оружием.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/29/eks-mundepa-alekseia-gorinova-prigovorili-k-3-godam-kolonii-po-vtoromu-ugolovnomu-delu-ob-opravdanii-terrorizma-news
+**Читайте также:** [Экс-мундепа Алексея Горинова приговорили к 3 годам колонии по второму уголовному делу об «оправдании терроризма»](2024/11/29/eks-mundepa-alekseia-gorinova-prigovorili-k-3-godam-kolonii-po-vtoromu-ugolovnomu-delu-ob-opravdanii-terrorizma-news.md)
 
 — Обсуждали события на Украине?
 

@@ -21,6 +21,6 @@ tags: ""
 
 Но союзнические обязательства пока для Софии ценнее московских похвал. Правительство Радева открыто пытается снизить градус конфронтации с Россией, зато в военном отношении Болгария все теснее встраивается в натовскую архитектуру.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/06/italiia-potrebovala-rassledovat-antisemitskii-intsident-protiv-svoikh-shkolnikov-na-bolgarskom-kurorte-pozdniaia-reaktsiia-premera-radeva-vozmutila-eshche-bolshe-news
+**Читайте также:** [Италия потребовала расследовать антисемитский инцидент против своих школьников на болгарском курорте. Поздняя реакция премьера Радева возмутила еще больше](2026/08/06/italiia-potrebovala-rassledovat-antisemitskii-intsident-protiv-svoikh-shkolnikov-na-bolgarskom-kurorte-pozdniaia-reaktsi.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/03/zdes-ne-moskva-v-bolgarskoi-sofii-prervali-tserkovnuiu-sluzhbu-posle-poiavleniia-rossiiskogo-posla-news
+**Читайте также:** [«Здесь не Москва!» В болгарской Софии прервали церковную службу после появления российского посла](2026/08/03/zdes-ne-moskva-v-bolgarskoi-sofii-prervali-tserkovnuiu-sluzhbu-posle-poiavleniia-rossiiskogo-posla-news.md)

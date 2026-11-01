@@ -17,7 +17,7 @@ _В №102 «Новой газеты» за 2009 год были опублик�
 
 _И вот — мысли старлея о начавшейся реформе МВД._
 
-[Юрий Гейко,обозреватель «Новой»](https://novayagazeta.ru/data/?reg=0&rarch=1&rub=0&grub=0&auth=89&sb_a=%3E%3E&pd1=&pm1=&py1=&pd2=&pm2=&py2=)\
+[Юрий Гейко,обозреватель «Новой»](https://web.archive.org/web/*/https://novayagazeta.ru/data/?reg=0&rarch=1&rub=0&grub=0&auth=89&sb_a=%3E%3E&pd1=&pm1=&py1=&pd2=&pm2=&py2=)\
 
 **16 февраля**
 

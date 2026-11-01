@@ -19,7 +19,7 @@ tags: "как у них, пенсионеры, пенсионный фонд, с
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/03/28/1427551593_580467_12.png" style="width: 340px; height: 236px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/03/28/1427551593_580467_12.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/03/28/1427551593_580467_12.png)" style="width: 340px; height: 236px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Людмила Лебедева</sup></td>

@@ -29,4 +29,4 @@ tags: ""
 
 💬 Я не веду переговоров с Москвой, не связанных с Украиной. Но если сделка состоится, я могу себе представить, что мы ведем дела и с Украиной, и с Россией.
 
-…А в это время в Кремле Владимир Путин [только что принял](https://t.me/news_kremlin/5548) прибывшего с четвертым уже визитом Стива Уиткоффа. Тот [привез](https://novayagazeta.ru/articles/2025/04/25/spetsposlannik-trampa-stiv-uitkoff-v-chetvertyi-raz-priletel-v-moskvu-on-privez-putinu-finalnye-usloviia-sdelki-ssha-po-ukraine-news) в Кремль «финальный» вариант сделки, подготовленной США.
+…А в это время в Кремле Владимир Путин [только что принял](https://t.me/news_kremlin/5548) прибывшего с четвертым уже визитом Стива Уиткоффа. Тот [привез](2025/04/25/spetsposlannik-trampa-stiv-uitkoff-v-chetvertyi-raz-priletel-v-moskvu-on-privez-putinu-finalnye-usloviia-sdelki-ssha-po-.md) в Кремль «финальный» вариант сделки, подготовленной США.

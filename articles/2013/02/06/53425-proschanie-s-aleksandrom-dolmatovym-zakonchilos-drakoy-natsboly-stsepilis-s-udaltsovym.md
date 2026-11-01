@@ -11,7 +11,7 @@ tags: ""
 
 # Прощание с Александром Долматовым закончилось дракой: нацболы сцепились с Удальцовым
 
-[Репортаж Евгения Фельдмана](http://www.novayagazeta.ru/news/62712.html)
+[Репортаж Евгения Фельдмана](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/62712.html)
 
 *[media: #next_pages_container { width: 5px; hight: 5px; position: absolute; top: -100px; left: -100px; z-index: 2147483647 !important; }]*
 

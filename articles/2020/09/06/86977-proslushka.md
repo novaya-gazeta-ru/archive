@@ -69,7 +69,7 @@ tags: "навальный, лукашенко, дипломатия, просл�
 
 Кому?!
 
-**link:** https://novayagazeta.ru/articles/2020/09/05/86975-nik-mayk-i-chelovek-s-ruzhiem
+**link:** [Ник, Майк и человек с ружьем](2020/09/05/86975-nik-mayk-i-chelovek-s-ruzhiem.md)
 
 **В т о р о й** (*терпеливо*):
 

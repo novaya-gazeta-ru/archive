@@ -33,7 +33,7 @@ tags: "феминизм, акционизм, права человека, пол
 
 Нобелевский лауреат сэр Тим Хант, выступая на ланче в Южной Корее, неосторожно пошутил во время 30-секундного спича. На его несчастье, ланч организовывали отборные феминистки, которые тут же заявили, что сэр Тим Хант… всерьез призвал к созданию раздельных женских лабораторий. Самолет с сэром Хантом еще не успел коснуться посадочной полосы в Хитроу, а нобелевского лауреата уже вышибли из института. Одна из дам даже потребовала лишить его Нобелевской премии. Когда сэр Тим Хант честно сказал, что пошутил, то Washington Post присудила ему non-apology of the year.
 
-**link:** https://novayagazeta.ru/news/2017/03/09/129700-feministki-priznali-ispolzovanie-fotoshopa-na-fotografii-s-bannerom-na-bashne-kremlya
+**link:** [https://novayagazeta.ru/news/2017/03/09/129700-feministki-priznali-ispolzovanie-fotoshopa-na-fotografii-s-bannerom-na-bashne-kremlya](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/03/09/129700-feministki-priznali-ispolzovanie-fotoshopa-na-fotografii-s-bannerom-na-bashne-kremlya)
 
 > Об изнасилованиях и говорить нечего, это — святое. С точки зрения современной феминистки, секса нет. Есть только мужское насилие.
 

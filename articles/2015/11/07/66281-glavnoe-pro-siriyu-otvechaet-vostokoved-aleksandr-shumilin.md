@@ -11,4 +11,4 @@ tags: "исламское государство, как это устроено
 
 # Главное про Сирию. Отвечает востоковед Александр Шумилин
 
-**link:** https://novayagazeta.ru/comments/70638.html
+**link:** [https://novayagazeta.ru/comments/70638.html](https://web.archive.org/web/*/https://novayagazeta.ru/comments/70638.html)

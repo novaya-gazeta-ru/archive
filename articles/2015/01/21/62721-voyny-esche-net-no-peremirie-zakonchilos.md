@@ -73,9 +73,9 @@ tags: ""
 
 **Зинаида БУРСКАЯ,** спец. корр. «Новой»
 
-**link:** https://novayagazeta.ru/society/66890.html
+**link:** [https://novayagazeta.ru/society/66890.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/66890.html)
 
-**link:** https://novayagazeta.ru/society/66890.html
+**link:** [https://novayagazeta.ru/society/66890.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/66890.html)
 
 # Взгляд из Киева: \
  принуждение к Минску

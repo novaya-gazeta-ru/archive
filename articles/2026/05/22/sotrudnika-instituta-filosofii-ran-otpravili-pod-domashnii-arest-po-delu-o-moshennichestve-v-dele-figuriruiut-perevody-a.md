@@ -25,6 +25,6 @@ tags: ""
 
 СМИ сообщали и раньше о попытках идеологов «Русского мира» атаковать институт. «Царьград» Константина Малофеева [называл](https://tsargrad.tv/articles/centr-razrushenija-rossii-struktury-sorosa-rvutsja-k-upravleniju-institutom-filosofii-ran_462002) ИФРАН «мозговым штабом либерального, разрушительного, протестного, коспомолитического движения»…
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/17/tovarishch-dugin-vy-bolshoi-uchenyi
+**Читайте также:** [Товарищ Дугин, вы большой ученый…](2024/10/17/tovarishch-dugin-vy-bolshoi-uchenyi.md)
 
 #### * Минюст включил в реестр иноагентов.

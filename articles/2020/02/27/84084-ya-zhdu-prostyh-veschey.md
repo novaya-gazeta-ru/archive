@@ -51,4 +51,4 @@ tags: "карьера, шарапова, теннис"
 
 Спасибо, Маша. И приятного аппетита.
 
-**link:** https://novayagazeta.ru/articles/2020/01/27/83655-smert-vertolet-kobi
+**link:** [Смерть, вертолет, Коби](2020/01/27/83655-smert-vertolet-kobi.md)

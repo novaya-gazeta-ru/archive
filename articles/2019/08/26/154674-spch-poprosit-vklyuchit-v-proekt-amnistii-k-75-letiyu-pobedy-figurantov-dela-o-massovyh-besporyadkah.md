@@ -15,7 +15,7 @@ tags: "спч, амнистия, дело 212, kb"
 
 «Раньше не было необходимости включать в амнистию 212 статью, а тут она явно искусственно притянута, хотелось бы этих ребят освободить», — заявил он.
 
-**link:** https://novayagazeta.ru/articles/2019/08/26/81723-dvushechku-otsidet-kazhdyy-iz-nas-moralno-gotov
+**link:** [https://novayagazeta.ru/articles/2019/08/26/81723-dvushechku-otsidet-kazhdyy-iz-nas-moralno-gotov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/08/26/81723-dvushechku-otsidet-kazhdyy-iz-nas-moralno-gotov)
 
 При этом другой член Совета Тамара Морщакова сказала агентству, что пока рано говорить о проекте амнистии, так как неясно, примут ли ее к рассмотрению. «Если бы я что-то сейчас сказала, это была бы сплошная спекуляция, в итоговом варианте может вообще ничего из этих предложений не остаться, мало того, ее вообще могут не принять», — отметила Морщакова.
 
@@ -23,4 +23,4 @@ tags: "спч, амнистия, дело 212, kb"
 
 Акции протеста в Москве проходят с 14 июля. Самыми массовыми стали митинги 27 июля и 3 августа. По данным «ОВД-Инфо», на каждой из акций задержали более тысячи человек.
 
-**link:** https://novayagazeta.ru/articles/2019/08/21/81684-rasplachivayutsya-ugolovkami-prostye-lyudi
+**link:** [https://novayagazeta.ru/articles/2019/08/21/81684-rasplachivayutsya-ugolovkami-prostye-lyudi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/08/21/81684-rasplachivayutsya-ugolovkami-prostye-lyudi)

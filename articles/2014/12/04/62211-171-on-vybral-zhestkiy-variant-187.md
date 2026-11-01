@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/12/04/1417707819_582750_7.jpg" style="width: 330px; height: 220px;"><sup>Фото: Сергей Ильницкий/EPA</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/12/04/1417707819_582750_7.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/12/04/1417707819_582750_7.jpg)" style="width: 330px; height: 220px;"><sup>Фото: Сергей Ильницкий/EPA</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -31,11 +31,11 @@ tags: ""
 
 **О налогах:** «Предлагаю на ближайшие четыре года зафиксировать действующие налоговые условия и к этому вопросу больше не возвращаться, не менять их».
 
-*[media: <p><span style="color:#B22222;"><strong><a href="http://www.novayagazeta.ru/columns/66381.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2014/12/04/1417703490_962384_99.png" style="width: 75px; height: 116px;"></a>Читайте также</strong></span></p>
+*[media: <p><span style="color:#B22222;"><strong><a href="[http://www.novayagazeta.ru/columns/66381.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/66381.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2014/12/04/1417703490_962384_99.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/12/04/1417703490_962384_99.png)" style="width: 75px; height: 116px;"></a>Читайте также</strong></span></p>
 
-<p><a href="http://www.novayagazeta.ru/columns/66381.html" target="_blank"><strong>Осознанная необходимость свободы</strong></a></p>
+<p><a href="[http://www.novayagazeta.ru/columns/66381.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/66381.html)" target="_blank"><strong>Осознанная необходимость свободы</strong></a></p>
 
-<p><a href="http://www.novayagazeta.ru/columns/66381.html" target="_blank">В ежегодном послании президент фактически признал, что в нынешнем виде система угрожает национальной безопасности, но предложил не перестройку, а более тонкое регулирование</a></p>]*
+<p><a href="[http://www.novayagazeta.ru/columns/66381.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/66381.html)" target="_blank">В ежегодном послании президент фактически признал, что в нынешнем виде система угрожает национальной безопасности, но предложил не перестройку, а более тонкое регулирование</a></p>]*
 
 **О материнском капитале:** «Семьи крымчан и севастопольцев, в которых, начиная с 2007 года, родился второй или последующий ребёнок, получат в полном объёме материнский капитал».
 
@@ -43,7 +43,7 @@ tags: ""
 
 **Об отечественном производителе:** «При реализации крупных нефтяных, энергетических, транспортных проектов они должны ориентироваться на отечественного производителя, формировать спрос на его продукцию».
 
-Подробнее — читайте [прямую трансляцию «Новой»](http://www.novayagazeta.ru/news/1689924.html)
+Подробнее — читайте [прямую трансляцию «Новой»](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1689924.html)
 
 #Дмитрий ОРЕШКИН, политолог:
 

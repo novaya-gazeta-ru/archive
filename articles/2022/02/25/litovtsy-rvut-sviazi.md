@@ -21,7 +21,7 @@ tags: "реакция, Литва, карабаускис, туминас, ва�
 
 Что ж, некий круг завершен. И произошло это задолго до трагических событий последних дней. Человеком, который заключает контракты и решает не только хозяйственные, но кадровые вопросы, еще в минувшем году стал Кирилл Крок. Но тип и суть существования театра имени Вахтангова как художественного института это не меняет. Туминас в Москве и репетирует.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/25/bol-strakh-styd
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/25/bol-strakh-styd](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/25/bol-strakh-styd)
 
 А вот в Литве на посту главного режиссера Малого театра Вильнюса, который он сам создал, его больше видеть не хотят. Министр культуры республики сегодня потребовал его увольнения.
 
@@ -33,4 +33,4 @@ tags: "реакция, Литва, карабаускис, туминас, ва�
 
 Русская классика — то, чем давно и плодотворно занимались на российской сцене оба литовских режиссера.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/24/nashe-gosudarstvo-vedet-sebia-kak-zarvavshiisia-gopnik
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/24/nashe-gosudarstvo-vedet-sebia-kak-zarvavshiisia-gopnik](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/24/nashe-gosudarstvo-vedet-sebia-kak-zarvavshiisia-gopnik)

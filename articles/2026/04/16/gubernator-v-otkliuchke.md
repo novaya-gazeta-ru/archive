@@ -35,4 +35,4 @@ tags: ""
 
 *Кубань*
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/04/13/redkaia-ptitsa-doletit-do-pliazha
+**Читайте также:** [Редкая птица долетит до пляжа](2026/04/13/redkaia-ptitsa-doletit-do-pliazha.md)

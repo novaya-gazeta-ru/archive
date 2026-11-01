@@ -23,8 +23,8 @@ tags: "яхты, кузьмичев, альфа-групп, альфа, фран
 
 Алексей Кузьмичев — один из основателей инвестиционного консорциума «Альфа-Групп». После включения в санкционный список Евросоюза из-за военных действий в Украине, Кузьмичев вышел из состава акционеров банка.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/12/poidet-na-kompensatsiiu-ushcherba-ukraine
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/12/poidet-na-kompensatsiiu-ushcherba-ukraine](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/12/poidet-na-kompensatsiiu-ushcherba-ukraine)
 
-Ранее испанские власти [арестовали](https://novayagazeta.ru/articles/2022/03/17/vlasti-ispanii-arestovali-135-metrovuiu-iakhtu-crescent-kotoruiu-sviazyvaiut-s-igorem-sechinym-news) 135-метровую яхту Crescent, которую связывают с главой «Роснефти» Игорем Сечиным. Французские власти [арестовали](https://novayagazeta.ru/articles/2022/03/03/vlasti-frantsii-arestovali-iakhtu-amore-vero-kotoruiu-sviazyvaiut-s-igorem-sechinym-news) яхту Amore Vero, которую также связывают с Сечиным.
+Ранее испанские власти [арестовали](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/17/vlasti-ispanii-arestovali-135-metrovuiu-iakhtu-crescent-kotoruiu-sviazyvaiut-s-igorem-sechinym-news) 135-метровую яхту Crescent, которую связывают с главой «Роснефти» Игорем Сечиным. Французские власти [арестовали](2022/03/03/vlasti-frantsii-arestovali-iakhtu-amore-vero-kotoruiu-sviazyvaiut-s-igorem-sechinym-news.md) яхту Amore Vero, которую также связывают с Сечиным.
 
-В Гамбурге [конфисковали](https://novayagazeta.ru/articles/2022/03/02/forbes-soobshchil-o-konfiskatsii-vlastiami-gamburga-156-metrovoi-iakhty-usmanova-news) 156-метровое судно Dilbar российского бизнесмена Алишера Усманова. Суперъяхта Lady M миллиардера Алексея Мордашова [задержана](https://www.forbes.ru/milliardery/458161-ahtu-bogatejsego-milliardera-rossii-zaderzali-v-italii) в Италии.
+В Гамбурге [конфисковали](2022/03/02/forbes-soobshchil-o-konfiskatsii-vlastiami-gamburga-156-metrovoi-iakhty-usmanova-news.md) 156-метровое судно Dilbar российского бизнесмена Алишера Усманова. Суперъяхта Lady M миллиардера Алексея Мордашова [задержана](https://www.forbes.ru/milliardery/458161-ahtu-bogatejsego-milliardera-rossii-zaderzali-v-italii) в Италии.

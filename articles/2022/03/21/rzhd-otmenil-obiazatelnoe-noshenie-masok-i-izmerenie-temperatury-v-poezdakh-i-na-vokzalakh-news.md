@@ -21,6 +21,6 @@ tags: "коронавирус, санкции, медицинские маски
 
 «Мы по-прежнему продолжим осуществлять дезинфекцию подвижного состава и помещений вокзалов, уделяя особое внимание контактным поверхностям (двери, ручки, поручни и т.д.)», — заявили в РЖД.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/17/razumnye-liudi-dolzhny-po-prezhnemu-nosit-maski
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/17/razumnye-liudi-dolzhny-po-prezhnemu-nosit-maski](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/17/razumnye-liudi-dolzhny-po-prezhnemu-nosit-maski)
 
 Ранее мэр Москвы Сергей Собянин [отменил](https://www.sobyanin.ru/mozhno-snyat-maski) масочный режим в столице. Кроме того, он объявил об отмене коронавирусных ограничений для бизнеса, отметив, что это решение должно поддержать компании, испытывающие санкционное давление.

@@ -15,10 +15,10 @@ tags: "sf, фсб, отравление, навальный, песков"
 
 «У нас нет времени смотреть такие материалы. Работы хватает. Позволю личную точку зрения высказать. У больного наблюдается ярко выраженная мания преследования. Можно четко установить проявления мании величия. Он себя даже сравнивает с Иисусом. В остальном проявления по Фрейду, зацикленность. Так наверное нужно относиться к этому», — сказал Песков.
 
-Он также сообщил, что смысла «что-то добавлять» к комментарию ФСБ, которая [назвала](https://novayagazeta.ru/news/2020/12/21/166635-fsb-nazvala-provokatsiey-razgovor-navalnogo-s-predpolagaemym-souchastniku-pokusheniya-na-ego-zhizn) запись звонка «подделкой», нет.
+Он также сообщил, что смысла «что-то добавлять» к комментарию ФСБ, которая [назвала](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/12/21/166635-fsb-nazvala-provokatsiey-razgovor-navalnogo-s-predpolagaemym-souchastniku-pokusheniya-na-ego-zhizn) запись звонка «подделкой», нет.
 
 «Это попытка дискредитации. Но подобные попытки не могут дискредитировать ФСБ», — заявил Песков.
 
-**link:** https://novayagazeta.ru/articles/2020/12/21/88473-gulfikgeyt
+**link:** [Гульфикгейт](2020/12/21/88473-gulfikgeyt.md)
 
-Накануне Алексей Навальный [сообщил](https://novayagazeta.ru/news/2020/12/21/166627-situatsiya-slozhilas-ne-v-nashu-polzu-sotrudnik-fsb-veroyatno-uchastvovavshiy-v-otravlenii-pogovoril-s-navalnym) о разговоре с предполагаемым членом специальной группы оперативников ФСБ, которая, по данным авторов совместного расследования The Insider, Bellingcat, CNN, Der Spiegel и ФБК, следила за политиком и может быть причастна к его отравлению боевым отравляющим веществом из группы «Новичок».
+Накануне Алексей Навальный [сообщил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/12/21/166627-situatsiya-slozhilas-ne-v-nashu-polzu-sotrudnik-fsb-veroyatno-uchastvovavshiy-v-otravlenii-pogovoril-s-navalnym) о разговоре с предполагаемым членом специальной группы оперативников ФСБ, которая, по данным авторов совместного расследования The Insider, Bellingcat, CNN, Der Spiegel и ФБК, следила за политиком и может быть причастна к его отравлению боевым отравляющим веществом из группы «Новичок».

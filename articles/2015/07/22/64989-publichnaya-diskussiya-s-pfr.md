@@ -18,9 +18,9 @@ tags: "вологодская область, партия прогресса, �
 
 Дорогой читатель, возможно ты еще не успел забыть нашу историю с покупкой вологодским отделением Пенсионного фонда нового здания за 350 миллионов рублей.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/economy/68987.html" target="_blank"><span style="color:#B22222;"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/06/26/1435347015_762172_34.jpg" style="width: 100px; height: 75px;"></span></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/economy/68987.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/economy/68987.html)" target="_blank"><span style="color:#B22222;"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/06/26/1435347015_762172_34.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/06/26/1435347015_762172_34.jpg)" style="width: 100px; height: 75px;"></span></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><strong><a href="http://www.novayagazeta.ru/economy/68987.html" target="_blank">Бассейн для Пенсионного фонда за 350 миллионов</a></strong></p>]*
+<p><strong><a href="[http://www.novayagazeta.ru/economy/68987.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/economy/68987.html)" target="_blank">Бассейн для Пенсионного фонда за 350 миллионов</a></strong></p>]*
 
 Последний раз мы рассказывали о том, что купленное полгода назад здание до сих пор не введено в эксплуатацию. Более того, нам удалось проникнуть внутрь и узнать, что в здании были большие протечки крыши и сейчас часть здания нуждается в срочном ремонте. Нас и в целом возмущала ситуация с покупкой здания, которую мы не считали целесообразной тратой значительных средств Пенсионного фонда. А уж с учетом того, что здание оказалось некачественным, мы еще больше стали подозревать руководство вологодского ПФР в коррупции.
 
@@ -30,7 +30,7 @@ tags: "вологодская область, партия прогресса, �
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/07/22/1437563092_743821_46.jpg" style="width: 350px; height: 357px; float: right;"><sup>Нажмите для увеличения</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/07/22/1437563092_743821_46.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/07/22/1437563092_743821_46.jpg)" style="width: 350px; height: 357px; float: right;"><sup>Нажмите для увеличения</sup></td>
 		</tr>
 	</tbody>]*
 

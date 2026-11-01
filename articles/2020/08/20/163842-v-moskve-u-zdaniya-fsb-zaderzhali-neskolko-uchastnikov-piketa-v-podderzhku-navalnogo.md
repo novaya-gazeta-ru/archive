@@ -21,9 +21,9 @@ tags: "ng                    , задержания, навальный, фбк"
 
 Пикеты проходят также в [Перми](https://t.me/uralmbkmedia/10409) и [Мурманксе](https://t.me/mbknorthwest/13119). В последнем городе координатора местного штаба Навального Виолетту Грудину задержали за одиночный пикет. Ей вменяют нарушение правил проведения публичных мероприятий (ст. 20.2 КоАП). Грудину решили оставить в полиции на ночь — до суда.
 
-**link:** https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online
+**link:** [https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online)
 
-Напомним, утром 20 августа Навальный [возвращался ](https://novayagazeta.ru/news/2020/08/20/163828-u-navalnogo-diagnostirovali-toksicheskoe-otravlenie-vo-vremya-pereleta-iz-tomska-v-moskvu)в Москву из Томска, в полете ему стало плохо. Самолет экстренно сел в Омске. Пресс-секретарь политика Кира Ярмыш тогда сообщила «Новой», что врачи поставили диагноз «токсическое отравление». «Очевидно, его отравили», — добавила она.
+Напомним, утром 20 августа Навальный [возвращался ](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/08/20/163828-u-navalnogo-diagnostirovali-toksicheskoe-otravlenie-vo-vremya-pereleta-iz-tomska-v-moskvu)в Москву из Томска, в полете ему стало плохо. Самолет экстренно сел в Омске. Пресс-секретарь политика Кира Ярмыш тогда сообщила «Новой», что врачи поставили диагноз «токсическое отравление». «Очевидно, его отравили», — добавила она.
 
 Навального отправили в больницу скорой медицинской помощи №1. Сейчас Навальный уже более 15 часов находится в коме в бессознательном состоянии на аппарате искуственной вентиляции легких.
 

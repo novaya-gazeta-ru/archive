@@ -133,4 +133,4 @@ tags: "суд, олег орлов, дмирий муратов, милашин�
 
 #### * Минюст РФ считает «иностранным агентом».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/08/18/on-predlozhil-ostatsia-v-rukakh-terroristov-111-zalozhnikov-srazu-osvobodili
+**Читайте также:** [https://novayagazeta.ru/articles/2023/08/18/on-predlozhil-ostatsia-v-rukakh-terroristov-111-zalozhnikov-srazu-osvobodili](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/08/18/on-predlozhil-ostatsia-v-rukakh-terroristov-111-zalozhnikov-srazu-osvobodili)

@@ -19,6 +19,6 @@ tags: "sn, удо, «московское дело», егор лесных"
 
 Эпизод, который вменяли в вину фигурантам, произошел летом 2019 года в районе московской улицы Рождественка. Лесных, Мыльников и Мартинцов вступились за участников протестов — Бориса Канторовича и его девушку, которых силовики избивали ногами. На улицы жители города вышли после недопуска независимых кандидатов на выборы в Мосгордуму. Многочисленные акции сопровождались столкновениями с полицией.
 
-В ноябре Лесных [смягчили](https://novayagazeta.ru/news/2020/11/09/165541-figurantu-moskovskogo-dela-egoru-lesnyh-zamenili-nakazanie-s-kolonii-obschego-rezhima-na-koloniyu-poselenie) наказание и перевели в колонию-поселение.
+В ноябре Лесных [смягчили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/09/165541-figurantu-moskovskogo-dela-egoru-lesnyh-zamenili-nakazanie-s-kolonii-obschego-rezhima-na-koloniyu-poselenie) наказание и перевели в колонию-поселение.
 
-**link:** https://novayagazeta.ru/articles/2019/12/06/83042-martintsov-lesnyh-mylnikov
+**link:** [Мартинцов, Лесных, Мыльников](2019/12/06/83042-martintsov-lesnyh-mylnikov.md)

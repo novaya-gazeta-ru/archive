@@ -19,6 +19,6 @@ tags: ""
 
 Напомним, известный московский сосудистый хирург Иван Тищенко был осужден на 4 года колонии общего режима за пожертвование на 70 долларов в пользу ФБК.
 
-О деле Тищенко «Новая газета» [подробно рассказывала](https://novayagazeta.ru/articles/2025/03/25/kakoi-vred-on-mog-nanesti-rodine-ne-predstavliaiu-a-skolko-zhiznei-spasti-ponimaiu).
+О деле Тищенко «Новая газета» [подробно рассказывала](2025/03/25/kakoi-vred-on-mog-nanesti-rodine-ne-predstavliaiu-a-skolko-zhiznei-spasti-ponimaiu.md).
 
 #### * Минюст признад ФБК экстремистской организацией и запретил ее деятельность в РФ.

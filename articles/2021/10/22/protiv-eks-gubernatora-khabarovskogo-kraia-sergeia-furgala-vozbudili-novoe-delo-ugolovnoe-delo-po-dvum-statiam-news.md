@@ -19,10 +19,10 @@ tags: "фургал, заводы, амурсталь, хабаровск, ха�
 
 По версии следствия, руководители «Амурстали» взяли кредит в МСП-банке без намерения его возвращать. Сын задержанного губернатора утверждает, что старая команда руководства завода выплачивала кредит вплоть до принудительного увольнения в феврале 2020 года.
 
-В начале недели Сергей Фургал [потребовал](https://novayagazeta.ru/articles/2021/10/18/eks-gubernator-khabarovskogo-kraia-sergei-furgal-potreboval-rassmotret-ego-delo-v-sude-prisiazhnykh-news#) рассмотреть его дело в суде присяжных. Ему вменяется организация убийств бизнесменов в середине 2000-х. Свою вину экс-глава Хабаровского края не признает и считает преследование политически мотивированным.
+В начале недели Сергей Фургал [потребовал](2021/10/18/eks-gubernator-khabarovskogo-kraia-sergei-furgal-potreboval-rassmotret-ego-delo-v-sude-prisiazhnykh-news.md) рассмотреть его дело в суде присяжных. Ему вменяется организация убийств бизнесменов в середине 2000-х. Свою вину экс-глава Хабаровского края не признает и считает преследование политически мотивированным.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/09/anton-furgal-ia-prekrashchu-svoiu-deiatelnost-kogda-otpustiat-ottsa
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/09/anton-furgal-ia-prekrashchu-svoiu-deiatelnost-kogda-otpustiat-ottsa](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/09/anton-furgal-ia-prekrashchu-svoiu-deiatelnost-kogda-otpustiat-ottsa)
 
-Как[сообщал](https://novayagazeta.ru/articles/2021/05/28/kommersant-eksperty-s-pomoshchiu-analiza-rechi-i-mimiki-furgala-nashli-priznaki-neiskrennosti-i-limbicheskogo-begstva-ot-doprosa) «Коммерсант» в мае 2021 года, проведенное в отношении экс-чиновника психолого-лингвистическое исследование установило, что в его речи содержатся «несколько сотен вербальных и невербальных» признаков, которые, по мнению экспертов, свидетельствуют о «неискренности».
+Как[сообщал](2021/05/28/kommersant-eksperty-s-pomoshchiu-analiza-rechi-i-mimiki-furgala-nashli-priznaki-neiskrennosti-i-limbicheskogo-begstva-ot.md) «Коммерсант» в мае 2021 года, проведенное в отношении экс-чиновника психолого-лингвистическое исследование установило, что в его речи содержатся «несколько сотен вербальных и невербальных» признаков, которые, по мнению экспертов, свидетельствуют о «неискренности».
 
 Жители Хабаровска в течение года с момента ареста Фургала проводили протесты в его поддержку. Они также выступили против назначения Дегтярева на пост губернатора. На митинги и шествия выходили десятки тысяч человек, акции стали самыми массовыми в истории региона.

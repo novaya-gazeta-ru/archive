@@ -119,4 +119,4 @@ tags: "акция памяти, последний адрес, дом специ
 
 #### ** Признан «иноагентом».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/09/01/rasserzhennye-gorozhane-ne-khotiat-otstupat
+**Читайте также:** [Рассерженные горожане не хотят отступать](2023/09/01/rasserzhennye-gorozhane-ne-khotiat-otstupat.md)

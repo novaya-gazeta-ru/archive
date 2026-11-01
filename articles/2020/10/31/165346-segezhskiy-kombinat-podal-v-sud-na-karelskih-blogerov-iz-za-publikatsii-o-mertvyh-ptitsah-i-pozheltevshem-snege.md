@@ -23,10 +23,10 @@ tags: "sn, карелия, экология, птицы"
 
 Сегежа — моногород в Карелии, в 268 километрах на север от Петрозаводска. Здесь и расположен целлюлозно-бумажный комбинат, принадлежащий компании Segezha Group. Градообразующее предприятие построили в 1939 году.
 
-**link:** https://novayagazeta.ru/articles/2019/11/27/82887-chernye-ptitsy-na-zheltom-snegu
+**link:** [Черные птицы на желтом снегу](2019/11/27/82887-chernye-ptitsy-na-zheltom-snegu.md)
 
 Из-за выбросов комбината в городе время от времени стоит неприятный запах сероводорода, к которому местные жители давно привыкли. Но утром 13 ноября 2019 года в Сегеже пожелтел снег, в соцсетях появилась информация о мертвых птицах на улицах города. Экоактивисты связали эти катаклизмы с выбросами на комбинате.
 
-Месяц спустя Балтийско-Арктическое управление Росприроднадзора [выявило](https://novayagazeta.ru/news/2019/12/16/157700-rosprirodnazor-nashel-narusheniya-u-tsellyuloznogo-kombinata-v-segezhe-posle-vybrosov-tam-padali-ptitsy-i-pozheltel-sneg) превышение допустимых концентраций сероводорода, сажи и оксида углерода в выбросах. Кроме того, в сточных водах комбината был превышен уровень фосфатионов, сульфатов, нефтепродуктов, железа, фенолов, меди и марганца. Пресс-служба предприятия [сообщила](http://segezha-group.com/press-center/news/bolee-800-mln-rubley-segezha-group-napravit-na-modernizatsiyu-ochistnogo-oborudovaniya-segezhskogo-ts/), что владелец комбината Segezha Group выделит более 800 миллионов рублей на модернизацию очистного оборудования.
+Месяц спустя Балтийско-Арктическое управление Росприроднадзора [выявило](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/12/16/157700-rosprirodnazor-nashel-narusheniya-u-tsellyuloznogo-kombinata-v-segezhe-posle-vybrosov-tam-padali-ptitsy-i-pozheltel-sneg) превышение допустимых концентраций сероводорода, сажи и оксида углерода в выбросах. Кроме того, в сточных водах комбината был превышен уровень фосфатионов, сульфатов, нефтепродуктов, железа, фенолов, меди и марганца. Пресс-служба предприятия [сообщила](http://segezha-group.com/press-center/news/bolee-800-mln-rubley-segezha-group-napravit-na-modernizatsiyu-ochistnogo-oborudovaniya-segezhskogo-ts/), что владелец комбината Segezha Group выделит более 800 миллионов рублей на модернизацию очистного оборудования.
 
-**link:** https://novayagazeta.ru/articles/2020/02/03/83745-pravo-dyshat
+**link:** [Право дышать](2020/02/03/83745-pravo-dyshat.md)

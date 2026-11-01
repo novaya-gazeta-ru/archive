@@ -23,7 +23,7 @@ tags: ""
 
 В противном случае (если боевые действия Киев продолжит в это «окно»), пригрозили российские военные: «по центру» столицы Украины будет нанесен «массированный ракетный удар».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/05/07/nashe-posolstvo-prodolzhit-rabotat-v-kieve-9-maia-mid-frantsii-otvetil-na-prizyv-moskvy-evakuirovatsia-iz-stolitsy-ukrainy-news
+**Читайте также:** [«Наше посольство продолжит работать в Киеве 9 мая»: МИД Франции ответил на призыв Москвы эвакуироваться из столицы Украины](2026/05/07/nashe-posolstvo-prodolzhit-rabotat-v-kieve-9-maia-mid-frantsii-otvetil-na-prizyv-moskvy-evakuirovatsia-iz-stolitsy-ukrai.md)
 
 Президент Украины Владимир Зеленский уже реагировал на идею о краткосрочном перемирии со стороны Москвы. Он объявлял о введении Украиной «режима тишины» с полуночи 6 мая — на двое суток раньше, чем собиралась Москва.
 

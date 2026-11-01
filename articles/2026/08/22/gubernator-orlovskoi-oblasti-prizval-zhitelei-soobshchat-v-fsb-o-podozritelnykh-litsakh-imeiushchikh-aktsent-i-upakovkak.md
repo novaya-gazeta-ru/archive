@@ -25,4 +25,4 @@ tags: ""
 
 Комментарии под постами Клычкова отключены, а из реакций доступны только «сердечки».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/10/v-rossii-nachali-zaderzhivat-za-semku-mogil-voennykh-zhurnalisty-predupredili-o-riske-del-o-gosizmene-news
+**Читайте также:** [В России начали задерживать за съемку могил военных. Журналисты предупредили о риске дел о госизмене](2026/08/10/v-rossii-nachali-zaderzhivat-za-semku-mogil-voennykh-zhurnalisty-predupredili-o-riske-del-o-gosizmene-news.md)

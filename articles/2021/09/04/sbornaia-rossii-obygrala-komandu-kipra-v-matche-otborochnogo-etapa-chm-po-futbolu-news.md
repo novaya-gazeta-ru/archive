@@ -15,10 +15,10 @@ tags: "футбол, чемпионат мира, сборная россии, �
 
 На шестой минуте матча гол забил Александр Ерохин, на 54-й — Рифат Жемалетдинов. Это первая победа российской сборной под руководством тренера Валерия Карпина.
 
-В первом матче отборочного этапа, который состоялся 1 сентября, Россия [сыграла](https://novayagazeta.ru/articles/2021/09/01/sbornaia-rossii-sygrala-vnichiu-s-khorvatiei-v-matche-otborochnogo-etapa-chm-po-futbolu-eto-byla-pervaia-igra-rossiian-pod-rukovodstvom-karpina-news) вничью (0:0) с командой Хорватии.
+В первом матче отборочного этапа, который состоялся 1 сентября, Россия [сыграла](2021/09/01/sbornaia-rossii-sygrala-vnichiu-s-khorvatiei-v-matche-otborochnogo-etapa-chm-po-futbolu-eto-byla-pervaia-igra-rossiian-p.md) вничью (0:0) с командой Хорватии.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/02/popytka-ne-pytka
+**Читайте также:** [Попытка. Не пытка](2021/09/02/popytka-ne-pytka.md)
 
-Карпина назначили главным тренером российской сборной 23 июля. Перед этим Российский футбольный союз [расторг](https://novayagazeta.ru/articles/2021/07/08/rfs-rastorg-kontrakt-so-stanislavom-cherchesovym) контракт со Станиславом Черчесовым.
+Карпина назначили главным тренером российской сборной 23 июля. Перед этим Российский футбольный союз [расторг](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/08/rfs-rastorg-kontrakt-so-stanislavom-cherchesovym) контракт со Станиславом Черчесовым.
 
-Карпин собирался совмещать работу в сборной и клубе «Ростов» в течение ближайшего полугода, однако уже в начале августа он [сообщил](https://novayagazeta.ru/articles/2021/08/02/valerii-karpin-ushel-s-dolzhnosti-glavnogo-trenera-futbolnogo-kluba-rostov-news) об уходе с поста главного тренера клуба.
+Карпин собирался совмещать работу в сборной и клубе «Ростов» в течение ближайшего полугода, однако уже в начале августа он [сообщил](2021/08/02/valerii-karpin-ushel-s-dolzhnosti-glavnogo-trenera-futbolnogo-kluba-rostov-news.md) об уходе с поста главного тренера клуба.

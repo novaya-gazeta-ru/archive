@@ -33,8 +33,8 @@ tags: "ng, польша, беларусь, мигранты"
 >
 > Он добавил, что сейчас на месте, где произошел инцидент, проводят осмотр и собирают предметы, которые мигранты бросали в силовиков.
 
-Днем 16 ноября беженцы на польско-белорусской границе [начали](https://novayagazeta.ru/articles/2021/11/16/bezhentsy-na-polsko-belorusskoi-granitse-nachali-lomat-ograzhdeniia-i-brosat-kamni-polskie-pogranichniki-primenili-slezotochivyi-gaz-news) ломать заграждение на нейтральной полосе и бросать в пограничников камни. Погранслужба в ответ применила слезоточивый газ и светошумовые гранаты, а также начала разгонять мигрантов водометом.
+Днем 16 ноября беженцы на польско-белорусской границе [начали](2021/11/16/bezhentsy-na-polsko-belorusskoi-granitse-nachali-lomat-ograzhdeniia-i-brosat-kamni-polskie-pogranichniki-primenili-slezo.md) ломать заграждение на нейтральной полосе и бросать в пограничников камни. Погранслужба в ответ применила слезоточивый газ и светошумовые гранаты, а также начала разгонять мигрантов водометом.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/16/piat-kilometrov-chrezvychainogo-polozheniia
+**Читайте также:** [https://novayagazeta.ru/articles/2021/11/16/piat-kilometrov-chrezvychainogo-polozheniia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/16/piat-kilometrov-chrezvychainogo-polozheniia)
 
 Миграционный кризис на границе Польши и Беларуси обострился с начала ноября 2021 года, когда возле пограничного пункта пропуска «Брузги-Кузница» собрались тысячи мигрантов из Ирака и Сирии с сумками и маленькими детьми. Они разбили палатки и развели костры. Беженцы пытаются прорваться в Польшу через проволочные заграждения.

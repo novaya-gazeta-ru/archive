@@ -211,4 +211,4 @@ tags: "арцах, нагорный карабах, азербайджан, ар
 
 #### * Отрывок из исторического романа Дереника Демирчяна «Вардананк».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/10/03/eto-ogromnyi-gumanitarnyi-vyzov-dlia-armenii-i-vsego-mirovogo-soobshchestva
+**Читайте также:** [«Это огромный гуманитарный вызов. Для Армении и всего мирового сообщества»](2023/10/03/eto-ogromnyi-gumanitarnyi-vyzov-dlia-armenii-i-vsego-mirovogo-soobshchestva.md)

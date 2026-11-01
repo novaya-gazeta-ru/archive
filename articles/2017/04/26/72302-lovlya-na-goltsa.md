@@ -37,7 +37,7 @@ tags: ""
 
 Губернатор Кобылкин, видимо, понимает это. И, видимо, по этой причине болезненно отреагировал на публикацию «Новой», в которой мы обнародовали видеозаписи и фотографии о рыбалке в заповеднике «Таймырский» человека, «похожего на губернатора Ямала».
 
-**link:** https://novayagazeta.ru/articles/2017/02/14/71514-zapovednaya-rybalka-cheloveka-pohozhego-na-gubernatora-yanao
+**link:** [https://novayagazeta.ru/articles/2017/02/14/71514-zapovednaya-rybalka-cheloveka-pohozhego-na-gubernatora-yanao](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/02/14/71514-zapovednaya-rybalka-cheloveka-pohozhego-na-gubernatora-yanao)
 
 На минувшей неделе Дмитрий Кобылкин снова вспомнил об этой публикации. Назвал видео фейком. Одному изданию Кобылкин рассказал, что это был «досуг, это был выходной день, там был прокурор, были другие ребята, мы выехали на территорию Ямала». Другому уточнил место рыбалки: «Это на границе с Коми, в Ямальском районе».
 

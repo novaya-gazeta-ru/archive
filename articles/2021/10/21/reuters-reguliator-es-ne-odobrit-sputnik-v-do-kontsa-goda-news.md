@@ -17,8 +17,8 @@ tags: "спутник v, вакцинация, коронавирус, вакц�
 
 EMA сообщило Reuters, что решение о применении «Спутника V» в Евросоюзе будет пересматриваться до тех пор, пока Россия не предоставит все необходимые данные.
 
-ЕМА [начало](https://novayagazeta.ru/articles/2021/03/04/evropeiskoe-agentstvo-lekarstvennykh-sredstv-nachalo-ekspertizu-dose-rossiiskoi-vaktsiny-sputnik-v) экспертизу «Спутника V» еще в марте 2021 года. Европейский регулятор выясняет, насколько вакцина соответствует стандартам ЕС по эффективности, безопасности и качеству.
+ЕМА [начало](2021/03/04/evropeiskoe-agentstvo-lekarstvennykh-sredstv-nachalo-ekspertizu-dose-rossiiskoi-vaktsiny-sputnik-v.md) экспертизу «Спутника V» еще в марте 2021 года. Европейский регулятор выясняет, насколько вакцина соответствует стандартам ЕС по эффективности, безопасности и качеству.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/25/pandemiia-pozhiraet-liudei-tam-gde-net-vaktsinatsii
+**Читайте также:** [«Пандемия пожирает людей там, где нет вакцинации»](2021/09/25/pandemiia-pozhiraet-liudei-tam-gde-net-vaktsinatsii.md)
 
-В июле источники Reuters [утверждали](https://novayagazeta.ru/articles/2021/07/13/reuters-vyiasnil-prichiny-zaderzhki-registratsii-sputnika-v-v-evrope), что разработчики российской вакцины вовремя не предоставили ЕМА необходимые документы, в связи с чем возникла задержка регистрации препарата. В Российском фонде прямых инвестиций тогда заявили, что материал Reuters содержит «ложные и неточные заявления». В сентябре этого года регулятор ЕС вновь [запросил](https://novayagazeta.ru/articles/2021/09/09/evropeiskii-reguliator-zaprosil-dopolnitelnye-svedeniia-o-sputnike-v-dlia-ego-registratsii-v-es-news) у России дополнительные данные для регистрации вакцины.
+В июле источники Reuters [утверждали](2021/07/13/reuters-vyiasnil-prichiny-zaderzhki-registratsii-sputnika-v-v-evrope.md), что разработчики российской вакцины вовремя не предоставили ЕМА необходимые документы, в связи с чем возникла задержка регистрации препарата. В Российском фонде прямых инвестиций тогда заявили, что материал Reuters содержит «ложные и неточные заявления». В сентябре этого года регулятор ЕС вновь [запросил](2021/09/09/evropeiskii-reguliator-zaprosil-dopolnitelnye-svedeniia-o-sputnike-v-dlia-ego-registratsii-v-es-news.md) у России дополнительные данные для регистрации вакцины.

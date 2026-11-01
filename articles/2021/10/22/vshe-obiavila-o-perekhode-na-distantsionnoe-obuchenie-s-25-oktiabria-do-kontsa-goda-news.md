@@ -21,8 +21,8 @@ tags: "ng, образование, вузы, ниу вшэ, вшэ, корона
 
 В МГИМО также [заявили](https://mgimo.ru/about/news/main/28-october-7-november-2021/), что перейдут на дистанционный формат занятий с 28 октября по 7 ноября из-за осложнения эпидемиологической ситуации в Москве.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/11/18/88015-eto-ne-obrazovanie-a-samoobrazovanie
+**Читайте также:** [«Это не образование, а самообразование»](2020/11/18/88015-eto-ne-obrazovanie-a-samoobrazovanie.md)
 
-21 октября МГТУ им. Н.Э. Баумана [объявил](https://novayagazeta.ru/articles/2021/10/21/baumanka-vremenno-zakryvaetsia-a-mgu-perekhodit-na-distant-s-28-oktiabria-po-7-noiabria-news) о временном закрытии университета на период с 28 октября по 7 ноября. МГУ в это же время [будет](https://t.me/msuthefirst/7081)проводить только дистанционное обучение.
+21 октября МГТУ им. Н.Э. Баумана [объявил](2021/10/21/baumanka-vremenno-zakryvaetsia-a-mgu-perekhodit-na-distant-s-28-oktiabria-po-7-noiabria-news.md) о временном закрытии университета на период с 28 октября по 7 ноября. МГУ в это же время [будет](https://t.me/msuthefirst/7081)проводить только дистанционное обучение.
 
-20 октября в связи с увеличением числа заболевших президент Владимир Путин [объявил](https://novayagazeta.ru/articles/2021/10/20/putin-obiavil-nerabochie-dni-s-30-oktiabria-po-7-noiabria-news) в стране «нерабочие дни» с 30 октября по 7 ноября. В Москве и Подмосковье на это время [ввели](https://novayagazeta.ru/articles/2021/10/21/v-moskve-vveli-lokdaun-s-28-oktiabria-do-7-noiabria-news) локдаун и разрешили учебным заведениям проводить занятия исключительно в дистанционном режиме.
+20 октября в связи с увеличением числа заболевших президент Владимир Путин [объявил](2021/10/20/putin-obiavil-nerabochie-dni-s-30-oktiabria-po-7-noiabria-news.md) в стране «нерабочие дни» с 30 октября по 7 ноября. В Москве и Подмосковье на это время [ввели](2021/10/21/v-moskve-vveli-lokdaun-s-28-oktiabria-do-7-noiabria-news.md) локдаун и разрешили учебным заведениям проводить занятия исключительно в дистанционном режиме.

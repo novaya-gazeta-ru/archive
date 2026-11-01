@@ -37,9 +37,9 @@ tags: "кризис, правительство"
 
 Во-вторых, Минфин сам не знает, какие конкретно расходы будет сокращать по его плану секвестра на 10%. Каждому бюджетополучателю сказали: денег будет меньше, а что сокращать — решайте сами. Ни о каком контроле за сокращаемыми расходами и речи не идёт, Минфин об этом ничего не знает и даже не хочет знать. Это абсолютно тупая и солдафонская мера.
 
-**link:** https://novayagazeta.ru/economy/71526.html
+**link:** [https://novayagazeta.ru/economy/71526.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/71526.html)
 
-**link:** https://novayagazeta.ru/economy/71526.html
+**link:** [https://novayagazeta.ru/economy/71526.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/71526.html)
 
 **— Может ли большая приватизация госактивов стать более осмысленной мерой?**
 

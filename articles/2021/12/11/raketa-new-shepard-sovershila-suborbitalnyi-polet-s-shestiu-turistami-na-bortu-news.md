@@ -21,6 +21,6 @@ tags: "космос, туристы, безос, sn"
 
 Спускаемый аппарат поднялся чуть выше линии Кармана, условной границы между атмосферой Земли и космосом. Это был первый полет с шестью туристами на борту, в предыдущие разы в капсуле находились по четыре человека.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/20/eto-prosto-kosmos
+**Читайте также:** [Это просто космос](2021/07/20/eto-prosto-kosmos.md)
 
-Blue Origin принадлежит американскому миллиардеру Джеффу Безосу, основателю компании Amazon. Туристические полеты в космос он начал организовывать этим летом. 20 июля он сам стал одним из первых пассажиров New Shepard. Вместе с ним в суборбитальный полет отправился его брат Марк, 82-летняя [бывшая летчица Уолли Фанк](https://novayagazeta.ru/articles/2021/07/01/osnovatel-amazon-dzheff-bezos-soobshchil-chto-v-suborbitalnyi-polet-vmeste-s-nim-otpravitsia-82-letniaia-uolli-fank), а также 18-летний [выпускник школы из Нидерландов Оливер Деймен](https://www.blueorigin.com/news-archive/first-customer-on-new-shepard).
+Blue Origin принадлежит американскому миллиардеру Джеффу Безосу, основателю компании Amazon. Туристические полеты в космос он начал организовывать этим летом. 20 июля он сам стал одним из первых пассажиров New Shepard. Вместе с ним в суборбитальный полет отправился его брат Марк, 82-летняя [бывшая летчица Уолли Фанк](2021/07/01/osnovatel-amazon-dzheff-bezos-soobshchil-chto-v-suborbitalnyi-polet-vmeste-s-nim-otpravitsia-82-letniaia-uolli-fank.md), а также 18-летний [выпускник школы из Нидерландов Оливер Деймен](https://www.blueorigin.com/news-archive/first-customer-on-new-shepard).

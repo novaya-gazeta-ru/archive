@@ -13,7 +13,7 @@ tags: "домашнее насилие, проект разные, подкас�
 
 *История о физическом насилии в семье*
 
-Историю Кати можно прочитать на сайтах [«Новой»](https://novayagazeta.ru/articles/2021/12/07/popa-perestanet-bolet-uzhe-segodnia-no-ia-ne-zabudu-etogo-nikogda) и [«Гласной»](https://glasnaya.media/katya-goroshko/).
+Историю Кати можно прочитать на сайтах [«Новой»](2021/12/07/popa-perestanet-bolet-uzhe-segodnia-no-ia-ne-zabudu-etogo-nikogda.md) и [«Гласной»](https://glasnaya.media/katya-goroshko/).
 
 > **слушайте на всех платформах**
 >

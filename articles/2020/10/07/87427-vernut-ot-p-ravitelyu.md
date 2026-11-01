@@ -27,7 +27,7 @@ tags: "новичок, отравление, озхо, навальный"
 
 > Здесь никак нельзя найти иного применения.
 
-**link:** https://novayagazeta.ru/articles/2020/10/06/87402-glavnaya-tsel-ne-tolko-ubit-menya-no-i-nagnat-uzhas-na-oppozitsiyu
+**link:** [«Главная цель — не только убить меня, но и нагнать ужас на оппозицию»](2020/10/06/87402-glavnaya-tsel-ne-tolko-ubit-menya-no-i-nagnat-uzhas-na-oppozitsiyu.md)
 
 **Россия не признает факта отравления Навального, исходя из «нежелания» ОЗХО пригласить Москву к расследованию. В ОЗХО действительно не хотят работать с РФ?**
 
@@ -37,7 +37,7 @@ tags: "новичок, отравление, озхо, навальный"
 
 Для этого есть и другие выработанные инструменты.
 
-**link:** https://novayagazeta.ru/articles/2020/09/23/87219-navalnyy-otravil-otnosheniya-liderov
+**link:** [Навальный отравил отношения лидеров](2020/09/23/87219-navalnyy-otravil-otnosheniya-liderov.md)
 
 **Какие шаги ОЗХО предпримет дальше?**
 

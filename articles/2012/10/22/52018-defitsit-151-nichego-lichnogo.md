@@ -57,8 +57,8 @@ tags: ""
 
 **Читайте также:**
 
-Людмила Рыбина: [«Период полураспада пенсионеров»](http://www.novayagazeta.ru/society/55102.html)
+Людмила Рыбина: [«Период полураспада пенсионеров»](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/55102.html)
 
-Ольга Ерачина: [«Мирный атом на хлеб не намажешь»](http://www.novayagazeta.ru/society/55101.html)
+Ольга Ерачина: [«Мирный атом на хлеб не намажешь»](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/55101.html)
 
-Евгений Гонтмахер: [«Вредоносные поправки»](http://www.novayagazeta.ru/economy/55081.html)
+Евгений Гонтмахер: [«Вредоносные поправки»](https://web.archive.org/web/*/http://www.novayagazeta.ru/economy/55081.html)

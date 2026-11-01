@@ -44,7 +44,7 @@ tags: "валдай, путин, нато, лгбт"
 
 за предвоенные годы, притом что сама трактовка исторических событий несколько специфична, так, пожалуй, мог рассуждать товарищ Сталин в 1939-м: «Ведь Германия предлагала им (*Польше. *—  **А. К.**) мирно решить вопрос по Данцигу и по Данцигскому коридору — польское руководство того времени категорически отказалось и, в конце концов, пало первой жертвой нацистской агрессии». Без комментариев.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/10/01/literaturovedu-aleksandru-arkhangelskomu-iz-za-inoagentskogo-statusa-zapretili-tsitirovat-pasternaka-ranee-emu-otkazali-v-ispolzovanii-portreta-pushkina-news
+**Читайте также:** [Литературоведу Александру Архангельскому* из-за «иноагентского» статуса запретили цитировать Пастернака. Ранее ему отказали в использовании портрета Пушкина](2025/10/01/literaturovedu-aleksandru-arkhangelskomu-iz-za-inoagentskogo-statusa-zapretili-tsitirovat-pasternaka-ranee-emu-otkazali-.md)
 
 ## Закат Запада вручную
 

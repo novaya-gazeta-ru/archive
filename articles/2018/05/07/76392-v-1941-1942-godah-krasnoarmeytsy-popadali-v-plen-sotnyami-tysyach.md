@@ -15,7 +15,7 @@ tags: "третий рейх, ссср, военнопленные, вторая
 
 *Инфографика*
 
-**link:** https://novayagazeta.ru/articles/2018/05/07/76385-ona-ne-zakonchena
+**link:** [Заложники войны](2018/05/07/76385-ona-ne-zakonchena.md)
 
 Заложники войны
 

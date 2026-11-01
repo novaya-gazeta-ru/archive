@@ -21,4 +21,4 @@ tags: "колумбайн, фсб, красноярск, va"
 
 *Фото: скриншот из оперативной съемки / ЦОС ФСБ*
 
-**link:** https://novayagazeta.ru/articles/2020/02/26/84080-fsb-protiv-shkolnikov
+**link:** [ФСБ против «колумбайнов»](2020/02/26/84080-fsb-protiv-shkolnikov.md)

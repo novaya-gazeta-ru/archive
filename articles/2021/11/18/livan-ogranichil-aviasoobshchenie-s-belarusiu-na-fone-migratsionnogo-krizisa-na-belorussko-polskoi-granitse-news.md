@@ -19,16 +19,16 @@ tags: "ng, польша, ливан, авиасообщение"
 
 Целью путешествия многих направляющихся в Беларусь мигрантов стало желание попасть в ЕС незаконным путем, говорится в документе.
 
-Ранее «Новая» [выяснила](https://novayagazeta.ru/articles/2021/11/12/bilet-v-belorusskii-kontslager), что в 2021 году Беларусь увеличила количество рейсов из стран Ближнего Востока в несколько раз. Только из Ливана количество рейсов в этом году выросло в 6 раз по сравнению с предыдущим годом. Такого количества мигрантов в стране еще не было.
+Ранее «Новая» [выяснила](2021/11/12/bilet-v-belorusskii-kontslager.md), что в 2021 году Беларусь увеличила количество рейсов из стран Ближнего Востока в несколько раз. Только из Ливана количество рейсов в этом году выросло в 6 раз по сравнению с предыдущим годом. Такого количества мигрантов в стране еще не было.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/12/bilet-v-belorusskii-kontslager
+**Читайте также:** [Билет в белорусский концлагерь](2021/11/12/bilet-v-belorusskii-kontslager.md)
 
-Белорусская авиакомпания «Белавиа» [обещала](https://novayagazeta.ru/articles/2021/11/15/belavia-otkazalas-prinimat-na-reisy-iz-dubaia-v-minsk-grazhdan-afganistana-iraka-iemena-i-sirii-news), что не будет пускать граждан Афганистана, Ирака, Йемена и Сирии на борт самолетов, выполняющих рейсы из Дубая в Минск и из [аэропортов Турции](https://novayagazeta.ru/articles/2021/11/12/aviakompaniia-belavia-poobeshchala-ne-prinimat-na-svoi-reisy-iz-turtsii-grazhdan-iraka-sirii-i-iemena-news).
+Белорусская авиакомпания «Белавиа» [обещала](2021/11/15/belavia-otkazalas-prinimat-na-reisy-iz-dubaia-v-minsk-grazhdan-afganistana-iraka-iemena-i-sirii-news.md), что не будет пускать граждан Афганистана, Ирака, Йемена и Сирии на борт самолетов, выполняющих рейсы из Дубая в Минск и из [аэропортов Турции](2021/11/12/aviakompaniia-belavia-poobeshchala-ne-prinimat-na-svoi-reisy-iz-turtsii-grazhdan-iraka-sirii-i-iemena-news.md).
 
-13 ноября сирийская авиакомпания Cham Wings [объявила](https://novayagazeta.ru/articles/2021/11/13/siriiskaia-aviakompaniia-cham-wings-priostanovila-reisy-v-belarus-na-fone-migratsionnogo-krizisa-news), что приостанавливает рейсы в Беларусь. «Трудно идентифицировать пассажиров, направляющихся в Беларусь в качестве конечного пункта назначения, и иммигрантов», — отметили в компании.
+13 ноября сирийская авиакомпания Cham Wings [объявила](2021/11/13/siriiskaia-aviakompaniia-cham-wings-priostanovila-reisy-v-belarus-na-fone-migratsionnogo-krizisa-news.md), что приостанавливает рейсы в Беларусь. «Трудно идентифицировать пассажиров, направляющихся в Беларусь в качестве конечного пункта назначения, и иммигрантов», — отметили в компании.
 
-12 ноября авиакомпания «Иракские авиалинии» [отказались](https://novayagazeta.ru/articles/2021/11/12/irakskie-avialinii-otkazalis-ot-poletov-v-minsk-na-fone-migratsionnogo-krizisa-news) возобновлять перелеты в Минск на фоне сложной ситуации с беженцами на белорусско-польской границе. Не пускать на свои рейсы в Минск граждан Ирака, Сирии и Йемена [пообещала](https://novayagazeta.ru/articles/2021/11/11/turkish-airlines-poobeshchala-ne-prinimat-grazhdan-iraka-sirii-i-iemena-na-bort-samoletov-letiashchikh-v-minsk-news) авиакомпания Turkish Airlines.
+12 ноября авиакомпания «Иракские авиалинии» [отказались](2021/11/12/irakskie-avialinii-otkazalis-ot-poletov-v-minsk-na-fone-migratsionnogo-krizisa-news.md) возобновлять перелеты в Минск на фоне сложной ситуации с беженцами на белорусско-польской границе. Не пускать на свои рейсы в Минск граждан Ирака, Сирии и Йемена [пообещала](2021/11/11/turkish-airlines-poobeshchala-ne-prinimat-grazhdan-iraka-sirii-i-iemena-na-bort-samoletov-letiashchikh-v-minsk-news.md) авиакомпания Turkish Airlines.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/17/gibridnaia-sovest
+**Читайте также:** [Гибридная совесть](2021/11/17/gibridnaia-sovest.md)
 
 Утром 8 ноября возле пограничного пункта пропуска «Брузги-Кузница» на белорусско-польской границе собрались тысячи мигрантов из Ирака и Сирии с сумками и маленькими детьми. Они разбили палатки и развели костры. Беженцы пытаются прорваться в Польшу через проволочные заграждения. Министр-координатор спецслужб Польши Станислав Жарын заявил, что «началась крупнейшая попытка силового вторжения в Польшу». Премьер-министр Польши Матеуш Моравецкий [обвинял](https://twitter.com/AFP/status/1458112634566361094) президента РФ Владимира Путина в организации «беспрецедентной волны мигрантов», которые пытаются попасть из Беларуси в Польшу.

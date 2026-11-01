@@ -19,4 +19,4 @@ tags: "беспилотные автомобили"
 
 Пишите свое мнение в комментариях к трансляции во время эфира!
 
-**link:** https://novayagazeta.ru/articles/2020/07/27/86422-pochemu-rastut-aktsii-tesla-ili-koe-chto-o-vere-v-chelovechestvo
+**link:** [Почему растут акции Tesla, или Кое-что о вере в человечество](2020/07/27/86422-pochemu-rastut-aktsii-tesla-ili-koe-chto-o-vere-v-chelovechestvo.md)

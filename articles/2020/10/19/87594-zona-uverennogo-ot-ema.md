@@ -83,7 +83,7 @@ tags: "рабы, как это устроено, технологии, сбер�
 
 > А когда «Сбер» вынес проблему на Совет безопасности, то ФСИН предложила удивительное решение — дать ему на глушилки 3 млрд руб.
 
-**link:** https://novayagazeta.ru/articles/2020/10/03/87357-a-chego-ot-deneg-otkazyvatsya-fsin-gotova-osvoit-3-mlrd-rubley-vydelennyh-na-borbu-s-telefonnymi-moshennikami-tolko-tyuremnye-call-tsentry-posle-etogo-ne-zakroyutsya
+**link:** [А чего от денег отказываться?](2020/10/03/87357-a-chego-ot-deneg-otkazyvatsya-fsin-gotova-osvoit-3-mlrd-rubley-vydelennyh-na-borbu-s-telefonnymi-moshennikami-tolk.md)
 
 Освоить 3 млрд руб. — штука, конечно, хорошая. Есть только одна проблема — глушилкой серьезный колл-центр заглушить нельзя. Глушилки работают в заданной полосе частот. Современные же средства связи используют такую широкую полосу частот, что закрыть их всех глушилками — очень дорого.
 

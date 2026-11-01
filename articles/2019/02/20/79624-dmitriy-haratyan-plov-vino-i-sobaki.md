@@ -19,7 +19,7 @@ tags: "москва, хосписы, вера"
 
 Мы благодарны Нюте Федермессер и фонду «Вера» за помощь нашему обозревателю Зое Валентиновне Ерошок в последние месяцы ее жизни. Дни Зои Ерошок станут традицией.
 
-**link:** https://novayagazeta.ru/articles/2018/06/06/76727-nyuta-federmesser-my-ne-mozhem-dobavit-dney-k-zhizni-my-mozhem-dobavit-zhizni-dnyam
+**link:** [Нюта Федермессер: «Мы не можем добавить дней к жизни. Мы можем добавить жизни дням»](2018/06/06/76727-nyuta-federmesser-my-ne-mozhem-dobavit-dney-k-zhizni-my-mozhem-dobavit-zhizni-dnyam.md)
 
 Помочь фонду можно здесь: https://help.hospicefund.ru/
 

@@ -142,6 +142,6 @@ tags: "дипломатия, буш джордж, ядерное оружие, �
 
 > **читайте ранее**
 >
-> ### [Секреты дипломатии Кремля](https://novayagazeta.ru/articles/2020/11/21/88052-sekrety-diplomatii-kremlya)
+> ### [Секреты дипломатии Кремля](2020/11/21/88052-sekrety-diplomatii-kremlya.md)
 >
-> ### [Человек без начальника.](https://novayagazeta.ru/articles/2020/12/21/88469-chelovek-bez-nachalnika)
+> ### [Человек без начальника.](2020/12/21/88469-chelovek-bez-nachalnika.md)

@@ -55,6 +55,6 @@ tags: ""
 
 «Лучше нелицеприятная правда, чем умиротворяющая ложь», — подвел итог дискуссии Пятрас Ауштрявичюс. Сам он не настолько оптимист, чтобы надеяться в скором времени достучаться до российской общественности. Поэтому надеется только на укрепление единства Евросоюза в его российской политике. Тогда «мягкая сила» Европы может стать ее мощным оружием.
 
-**link:** https://novayagazeta.ru/politics/66231.html
+**link:** [https://novayagazeta.ru/politics/66231.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66231.html)
 
-**link:** https://novayagazeta.ru/politics/66231.html
+**link:** [https://novayagazeta.ru/politics/66231.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66231.html)

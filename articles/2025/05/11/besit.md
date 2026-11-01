@@ -13,7 +13,7 @@ tags: ""
 
 *«Великостишия» Сергея Мостовщикова, иллюстрации Петра Саруханова*
 
-**Другая открытка:** https://novayagazeta.ru/articles/2025/04/26/polet-v-neopredelennom-napravlenii
+**Другая открытка:** [Полет в неопределенном направлении](2025/04/26/polet-v-neopredelennom-napravlenii.md)
 
 Другая открытка
 

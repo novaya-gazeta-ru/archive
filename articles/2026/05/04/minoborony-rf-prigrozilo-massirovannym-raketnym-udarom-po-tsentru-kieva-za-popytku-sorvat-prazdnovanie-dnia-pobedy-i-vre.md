@@ -13,7 +13,7 @@ tags: ""
 
 > **есть продолжение**
 >
-> ### [«Будем действовать зеркально, начиная с этого момента». Зеленский объявил односторонний «режим тишины» — но не 8 и 9 мая, как делает Россия, а на двое суток раньше: с наступлением 6 мая](https://novayagazeta.ru/articles/2026/05/04/budem-deistvovat-zerkalno-nachinaia-s-etogo-momenta-zelenskii-obiavil-odnostoronnii-rezhim-tishiny-no-ne-8-i-9-maia-kak-delaet-rossiia-a-na-dvoe-sutok-ranshe-s-nastupleniem-6-maia-news)
+> ### [«Будем действовать зеркально, начиная с этого момента». Зеленский объявил односторонний «режим тишины» — но не 8 и 9 мая, как делает Россия, а на двое суток раньше: с наступлением 6 мая](2026/05/04/budem-deistvovat-zerkalno-nachinaia-s-etogo-momenta-zelenskii-obiavil-odnostoronnii-rezhim-tishiny-no-ne-8-i-9-maia-kak-.md)
 
 ![](_assets/ce/ce2069a580ed938f076b3c706b86ad99.webp)
 
@@ -33,4 +33,4 @@ tags: ""
 
 > **читайте также**
 >
-> ### [Москвичам на День Победы отключат даже СМС: мобильные операторы предупредили об «ограничениях» с 5 по 9 мая](https://novayagazeta.ru/articles/2026/05/04/moskvicham-na-den-pobedy-otkliuchat-dazhe-sms-mobilnye-operatory-predupredili-ob-ogranicheniiakh-s-5-po-9-maia-news)
+> ### [Москвичам на День Победы отключат даже СМС: мобильные операторы предупредили об «ограничениях» с 5 по 9 мая](2026/05/04/moskvicham-na-den-pobedy-otkliuchat-dazhe-sms-mobilnye-operatory-predupredili-ob-ogranicheniiakh-s-5-po-9-maia-news.md)

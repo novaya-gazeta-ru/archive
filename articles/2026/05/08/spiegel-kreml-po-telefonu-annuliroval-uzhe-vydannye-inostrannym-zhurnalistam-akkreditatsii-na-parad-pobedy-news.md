@@ -11,7 +11,7 @@ tags: ""
 
 # Spiegel: Кремль «по телефону» аннулировал уже выданные иностранным журналистам аккредитации на парад Победы
 
-> ### [Кремль: новость Spiegel об отзыве аккредитаций на парад 9 мая в Москве у зарубежных СМИ — «ложь», но «состав журналистов был ограничен»](https://novayagazeta.ru/articles/2026/05/08/kreml-novost-spiegel-ob-otzyve-akkreditatsii-na-parad-9-maia-v-moskve-u-zarubezhnykh-smi-lozh-no-sostav-zhurnalistov-byl-ogranichen-news)
+> ### [Кремль: новость Spiegel об отзыве аккредитаций на парад 9 мая в Москве у зарубежных СМИ — «ложь», но «состав журналистов был ограничен»](2026/05/08/kreml-novost-spiegel-ob-otzyve-akkreditatsii-na-parad-9-maia-v-moskve-u-zarubezhnykh-smi-lozh-no-sostav-zhurnalistov-byl.md)
 
 ![](_assets/37/37f98c93820ee40685103f214d43e0d5.webp)
 

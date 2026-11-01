@@ -49,4 +49,4 @@ tags: "шестун, старовойт, откаты, коррупция"
 
 **Александр ШЕСТУН, заключенный ИК-6**
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/31/vlast-prevratila-moikh-druzei-vo-vragov
+**Читайте также:** [«Власть превратила моих друзей во врагов»](2024/10/31/vlast-prevratila-moikh-druzei-vo-vragov.md)

@@ -17,4 +17,4 @@ tags: "чм-2018, москва, футбол"
 
 Последние болельщики постепенно разъезжаются, а мы вспоминаем, что мы все вместе творили последний месяц.
 
-**link:** https://novayagazeta.ru/articles/2018/07/13/77146-stranoy-upravlyayut-v-rezhime-yarkogo-prazdnika
+**link:** [«Страной управляют в режиме яркого праздника»](2018/07/13/77146-stranoy-upravlyayut-v-rezhime-yarkogo-prazdnika.md)

@@ -17,10 +17,10 @@ tags: "космодром восточный, студенты, зарплаты
 
 В прокуратуре Амурской области сообщили, что прокурор «Восточного» Павел Вепрев уже разбирается в ситуации. Будет выясняться, сколько времени отработал каждый студент и сколько денег он за это получил. При этом в прокуратуре факт забастовки студентов отрицают.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/society/69160.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/07/10/1436487724_732773_18.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/society/69160.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/69160.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/07/10/1436487724_732773_18.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/07/10/1436487724_732773_18.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/society/69160.html" target="_blank"><strong>«Вам оказана великая честь — строить космодром»</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/society/69160.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/69160.html)" target="_blank"><strong>«Вам оказана великая честь — строить космодром»</strong></a></p>]*
 
-Накануне стало известно, что первый запуск с космодрома «Восточный», запланированный на декабрь текущего года, может быть [отложен](http://www.novayagazeta.ru/news/1695674.html) в связи с отставанием в графике строительства.
+Накануне стало известно, что первый запуск с космодрома «Восточный», запланированный на декабрь текущего года, может быть [отложен](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1695674.html) в связи с отставанием в графике строительства.
 
-Строительство «Восточного» сопровождается множеством скандалов, связанных с невыплатой зарплат рабочим, а также [возбуждением](http://www.novayagazeta.ru/news/1695521.html) уголовных дел по факту растрат. Генеральный прокурор России Юрий Чайка ранее [заявлял](http://www.novayagazeta.ru/news/1695478.html), что в ходе проверок 250 участвующих в строительстве предприятий были выявлены хищения бюджетных средств на сумму 7,5 млрд рублей.
+Строительство «Восточного» сопровождается множеством скандалов, связанных с невыплатой зарплат рабочим, а также [возбуждением](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1695521.html) уголовных дел по факту растрат. Генеральный прокурор России Юрий Чайка ранее [заявлял](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1695478.html), что в ходе проверок 250 участвующих в строительстве предприятий были выявлены хищения бюджетных средств на сумму 7,5 млрд рублей.

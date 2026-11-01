@@ -15,12 +15,12 @@ tags: "уголовное дело, адвокат, дискредитация �
 
 Из опубликованных им документов следует, что 9 марта Клоков из Москвы позвонил «неустановленным лицам» в Крыму и Подмосковье. Таким образом, говорится в документе, он «публично распространил под видом достоверных сообщений заведомо ложную информацию» о действиях Вооруженных сил РФ. Защитник подчеркнул, что разрешения суда на прослушку Клокова в деле нет.
 
-Пресненский суд Москвы 22 марта [арестовал](https://novayagazeta.ru/articles/2022/03/22/sud-arestoval-na-dva-mesiatsa-obviniaemogo-v-rasprostranenii-feikov-o-deistviiakh-rossiiskoi-armii-news) Клокова на два месяца.
+Пресненский суд Москвы 22 марта [арестовал](2022/03/22/sud-arestoval-na-dva-mesiatsa-obviniaemogo-v-rasprostranenii-feikov-o-deistviiakh-rossiiskoi-armii-news.md) Клокова на два месяца.
 
-Следственный комитет [возбудил](https://novayagazeta.ru/articles/2022/03/16/sk-vozbudil-delo-o-feikakh-pro-deistviia-rossiiskoi-armii-protiv-blogera-veroniki-belotserkovskoi-news#) уголовное дело о «фейках» про действия российской армии и против блогера Вероники Белоцерковской. Фигурантом дела по ст. 207.3 УК также [стал](https://novayagazeta.ru/articles/2022/03/22/sk-vozbudil-ugolovnoe-delo-v-otnoshenii-publitsista-aleksandra-nevzorova-news) публицист Александр Невзоров.
+Следственный комитет [возбудил](2022/03/16/sk-vozbudil-delo-o-feikakh-pro-deistviia-rossiiskoi-armii-protiv-blogera-veroniki-belotserkovskoi-news.md) уголовное дело о «фейках» про действия российской армии и против блогера Вероники Белоцерковской. Фигурантом дела по ст. 207.3 УК также [стал](2022/03/22/sk-vozbudil-ugolovnoe-delo-v-otnoshenii-publitsista-aleksandra-nevzorova-news.md) публицист Александр Невзоров.
 
-Первые дела по аналогичной статье [возбудили](https://novayagazeta.ru/articles/2022/03/16/v-tomskoi-oblasti-vozbudili-pervye-dve-dela-o-feikakh-pro-deistviia-rossiiskikh-voennykh-news) против жителя Томска и жительницы Северска. Им избрали меру пресечения в виде запрета определенных действий.
+Первые дела по аналогичной статье [возбудили](2022/03/16/v-tomskoi-oblasti-vozbudili-pervye-dve-dela-o-feikakh-pro-deistviia-rossiiskikh-voennykh-news.md) против жителя Томска и жительницы Северска. Им избрали меру пресечения в виде запрета определенных действий.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/04/i-vse-ravno-15-let-eto-feik
+**Читайте также:** [И все равно 15 лет — это «фейк»](2022/03/04/i-vse-ravno-15-let-eto-feik.md)
 
-Закон о внесении в УК статьи 207.3 — о публичном распространении «фейков» о российской армии — президент России Владимир Путин [подписал](https://novayagazeta.ru/articles/2022/03/04/putin-podpisal-zakon-ob-ugolovnoi-otvetstvennosti-za-feiki-o-rossiiskoi-armii-news) в начале марта. По ней можно получить до 10 лет лишения свободы, если это повлекло «тяжкие последствия» — до 15.
+Закон о внесении в УК статьи 207.3 — о публичном распространении «фейков» о российской армии — президент России Владимир Путин [подписал](2022/03/04/putin-podpisal-zakon-ob-ugolovnoi-otvetstvennosti-za-feiki-o-rossiiskoi-armii-news.md) в начале марта. По ней можно получить до 10 лет лишения свободы, если это повлекло «тяжкие последствия» — до 15.

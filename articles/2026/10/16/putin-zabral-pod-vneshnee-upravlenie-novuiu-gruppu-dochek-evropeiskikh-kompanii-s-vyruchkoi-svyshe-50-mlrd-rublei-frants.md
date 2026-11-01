@@ -15,7 +15,7 @@ tags: ""
 
 > **есть продолжение**
 >
-> ### [СМИ: миллиардные активы «дочек» иностранных компаний получил чиновник, отслуживший «краткосрочный контракт» в чеченском батальоне «Ахмат». Он рассказывает, как монетка с Путиным спасла ему жизнь на фронте](https://novayagazeta.ru/articles/2026/10/16/smi-milliardnye-aktivy-dochek-inostrannykh-kompanii-poluchil-chinovnik-otsluzhivshii-kratkosrochnyi-kontrakt-v-chechenskom-batalone-akhmat-on-rasskazyvaet-kak-monetka-s-putinym-spasla-emu-zhizn-na-fronte-news)
+> ### [СМИ: миллиардные активы «дочек» иностранных компаний получил чиновник, отслуживший «краткосрочный контракт» в чеченском батальоне «Ахмат». Он рассказывает, как монетка с Путиным спасла ему жизнь на фронте](2026/10/16/smi-milliardnye-aktivy-dochek-inostrannykh-kompanii-poluchil-chinovnik-otsluzhivshii-kratkosrochnyi-kontrakt-v-chechensk.md)
 
 Как следует из нового указа Владимира Путина, опубликованного вечером в четверг, 15 октября, под управление ООО УК «Центр капитал» переданы дочерние компании
 
@@ -41,6 +41,6 @@ tags: ""
 
 Перевод частных компаний под внешнее управление — новая российская практика. Власти объясняют ее необходимостью обеспечить защиту объектов от военных угроз.
 
-В сентябре, когда Путин передал несколько крупных «дочек» французских компаний под внешнее управление ([в том числе «Ашан», Leroy Merlin](https://novayagazeta.ru/articles/2026/09/18/putin-otdal-milliardnye-rossiiskie-aktivy-ashan-nestle-i-lemana-pro-vo-vremennoe-upravlenie-neizvestnoi-rossiiskoi-mikrokompanii-s-tolko-chto-naznachennym-rukovodstvom-news)), лидера ультраправых Марин Ле Пен и лидер партии «Национальное объединение» Жордан Барделла [назвали](https://novayagazeta.ru/articles/2026/09/19/le-pen-i-bardella-osudili-vrazhdebnye-akty-rossii-peredachu-putinym-vo-vremennoe-upravlenie-rossiiskikh-dochek-ashan-i-leroy-merlin-news) эти действия «враждебными».
+В сентябре, когда Путин передал несколько крупных «дочек» французских компаний под внешнее управление ([в том числе «Ашан», Leroy Merlin](2026/09/18/putin-otdal-milliardnye-rossiiskie-aktivy-ashan-nestle-i-lemana-pro-vo-vremennoe-upravlenie-neizvestnoi-rossiiskoi-mikro.md)), лидера ультраправых Марин Ле Пен и лидер партии «Национальное объединение» Жордан Барделла [назвали](2026/09/19/le-pen-i-bardella-osudili-vrazhdebnye-akty-rossii-peredachu-putinym-vo-vremennoe-upravlenie-rossiiskikh-dochek-ashan-i-l.md) эти действия «враждебными».
 
 «Мы никогда не допустим, чтобы иностранная держава, в данном случае Россия, могла рассчитывать на то, чтобы диктовать прямо или косвенно политику нашей стране посредством запугивания, угроз, дестабилизации или психологического давления», — говорилось в их совместном заявлении.

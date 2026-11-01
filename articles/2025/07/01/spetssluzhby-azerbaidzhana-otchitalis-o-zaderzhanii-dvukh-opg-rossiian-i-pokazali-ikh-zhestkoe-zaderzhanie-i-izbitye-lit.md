@@ -33,10 +33,10 @@ tags: ""
 
 27 июня в Екатеринбурге во время облав на подозреваемых из числа членов азербайджанской общины скончались двое граждан Азербайджана. Силовики расследовали убийства прошлых лет (убийство 20-летней давности), и задержания проводили с усиленными нарядом вооруженных людей. Кроме двоих погибших, 9 человек были задержаны.
 
-МИД Азербайджана [вручил ноту протеста](https://novayagazeta.ru/articles/2025/06/28/mid-azerbaidzhana-vyzval-posla-rf-iz-za-nepriemlemogo-nasiliia-v-khode-oblav-v-ekaterinburge-dvoe-azerbaidzhantsev-skonchalis-pri-zaderzhanii-neskolko-raneny-news) российскому послу, обвинив силовиков в немотивированной жестокости.
+МИД Азербайджана [вручил ноту протеста](2025/06/28/mid-azerbaidzhana-vyzval-posla-rf-iz-za-nepriemlemogo-nasiliia-v-khode-oblav-v-ekaterinburge-dvoe-azerbaidzhantsev-skonc.md) российскому послу, обвинив силовиков в немотивированной жестокости.
 
-Тела погибших в ночь на 1 июля были доставлены в Азербайджан. Где тела подвергли новому обследованию, [обнаружив](https://novayagazeta.ru/articles/2025/07/01/prichinoi-smerti-azerbaidzhantsev-safarovykh-stal-travmaticheskii-shok-u-odnogo-iz-nikh-byli-slomany-vse-rebra-obnaruzhili-sudmedeksperty-v-baku-news) признаки жестоких избиений, а среди причин смерти называли посттравматический шок.
+Тела погибших в ночь на 1 июля были доставлены в Азербайджан. Где тела подвергли новому обследованию, [обнаружив](2025/07/01/prichinoi-smerti-azerbaidzhantsev-safarovykh-stal-travmaticheskii-shok-u-odnogo-iz-nikh-byli-slomany-vse-rebra-obnaruzhi.md) признаки жестоких избиений, а среди причин смерти называли посттравматический шок.
 
 Ранее, 30 июня, в стране были задержаны и обвинены в работе на ФСБ руководители бюро Sputnik Азербайджан — части сети государственного холдинга «Россия Сегодня».
 
-Российские власти, включая Кремль, назвали это задержание недопустимым и [вызвали посла Азербайджана](https://novayagazeta.ru/articles/2025/06/30/mid-rf-vyzval-posla-azerbaidzhana-posle-zaderzhaniia-rukovoditelei-biuro-sputnik-v-baku-kak-agentov-fsb-news) для разъяснения протеста. Руководство «России Сегодня» выпустило официальное требование освободить своих сотрудников.
+Российские власти, включая Кремль, назвали это задержание недопустимым и [вызвали посла Азербайджана](2025/06/30/mid-rf-vyzval-posla-azerbaidzhana-posle-zaderzhaniia-rukovoditelei-biuro-sputnik-v-baku-kak-agentov-fsb-news.md) для разъяснения протеста. Руководство «России Сегодня» выпустило официальное требование освободить своих сотрудников.

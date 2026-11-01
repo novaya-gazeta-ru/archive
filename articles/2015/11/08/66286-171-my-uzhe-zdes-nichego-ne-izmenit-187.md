@@ -31,9 +31,9 @@ tags: "египет, реакция, соцсети"
 
 Дозвонилась до Библио-Глобуса. В общем, они не меняют тур ни на какой другой, сказали, надо писать заявление, где оплачивали путевку, что услуга не была оказана, и писать заявление на возврат средств, так как на данный момент они не могут другие варианты предложить даже с доплатой!
 
-**novaya:** https://novayagazeta.ru/topics/164.html
+**novaya:** [https://novayagazeta.ru/topics/164.html](https://web.archive.org/web/*/https://novayagazeta.ru/topics/164.html)
 
-**novaya:** https://novayagazeta.ru/topics/164.html
+**novaya:** [https://novayagazeta.ru/topics/164.html](https://web.archive.org/web/*/https://novayagazeta.ru/topics/164.html)
 
 **Андрей Зубанов**
 

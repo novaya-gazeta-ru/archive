@@ -17,8 +17,8 @@ tags: "kb, якутия, габышев"
 
 По ее мнению, если Габышева решат госпитализировать, то «может возродиться практика, когда с формулировкой "переоценка личности" любого человека могут направить на принудительное лечение».
 
-**link:** https://novayagazeta.ru/articles/2019/09/21/82062-po-kom-gremit-buben
+**link:** [По ком гремит бубен?](2019/09/21/82062-po-kom-gremit-buben.md)
 
-Габышев [находится](https://novayagazeta.ru/news/2020/05/12/161404-yakutskogo-shamana-aleksandra-gabysheva-zaderzhali-i-uvezli-v-psihiatricheskuyu-bolnitsu) в психоневрологическом диспансере с 12 мая. После того, как он подал заявление о выписке, комиссия [признала](https://novayagazeta.ru/news/2020/05/30/161916-v-yakutske-komissiya-psihonevrologicheskogo-dispansera-priznala-shamana-gabysheva-opasnym-dlya-sebya-i-okruzhayuschih) его опасным для себя и окружающих. Накануне диспансер подал иск о принудительной госпитализации шамана, суд уже приступил к его рассмотрению.
+Габышев [находится](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/05/12/161404-yakutskogo-shamana-aleksandra-gabysheva-zaderzhali-i-uvezli-v-psihiatricheskuyu-bolnitsu) в психоневрологическом диспансере с 12 мая. После того, как он подал заявление о выписке, комиссия [признала](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/05/30/161916-v-yakutske-komissiya-psihonevrologicheskogo-dispansera-priznala-shamana-gabysheva-opasnym-dlya-sebya-i-okruzhayuschih) его опасным для себя и окружающих. Накануне диспансер подал иск о принудительной госпитализации шамана, суд уже приступил к его рассмотрению.
 
 Перед заседанием у здания суда задержали и увезли троих свидетелей защиты: блогера Сергея Тихого (Сергей Попов), его жену Викторию Постникову и экс-депутата Госсобрания Якутии Сулустаану Мыраан. Координатор «Правозащиты Открытки» Алексей Прянишников предполагает, что претензии к ним могут быть связаны с нарушением самоизоляции.

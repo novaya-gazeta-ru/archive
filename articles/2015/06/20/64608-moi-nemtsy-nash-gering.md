@@ -82,7 +82,7 @@ tags: "великая отечественная война, германия, �
 
 *[media: <tbody>
 		<tr>
-			<td><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/06/20/1434813575_533831_76.png" style="width: 340px; height: 471px; float: right;"><br>
+			<td><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/06/20/1434813575_533831_76.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/06/20/1434813575_533831_76.png)" style="width: 340px; height: 471px; float: right;"><br>
 			&nbsp;</td>
 		</tr>
 		<tr>
@@ -164,6 +164,6 @@ tags: "великая отечественная война, германия, �
 
 Не следует ли нам иногда  напоминать «священной нашей державе», кто в ней должен быть хозяином, а кто слугой: многонациональный народ России или чиновник, не важно, какой национальности? И самим почаще вспоминать о  разнице между патриотом и нацистом. Первый любит свой народ  и уважает все остальные. Второй их ненавидит за то, что они разные и на него, нациста, непохожие. Мне думается, оба эти обстоятельства прекрасны.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/society/67670.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/03/17/1426609326_575078_16.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/society/67670.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/67670.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/03/17/1426609326_575078_16.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/03/17/1426609326_575078_16.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/society/67670.html" target="_blank"><strong>Мать-Россия и ненька Украина</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/society/67670.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/67670.html)" target="_blank"><strong>Мать-Россия и ненька Украина</strong></a></p>]*

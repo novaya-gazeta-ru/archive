@@ -15,6 +15,6 @@ tags: "em, коронавирус, москва"
 
 У умерших была также подтверждена пневмония. Таким образом, число скончавшихся с COVID-19 в столице [достигло](https://xn--80aesfpebagmfblc0a.xn--p1ai/information/) 695.
 
-Столица [занимает](https://novayagazeta.ru/news/2020/05/01/161160-v-rossii-zafiksirovali-esche-7933-sluchaya-zarazheniya-koronavirusom) первое место среди российских регионов по числу заболевших – 57 300 человек из 114 431 по стране, а также по числу умерших с COVID-19. До 11 мая в Москве продлены ограничения в рамках мер по борьбе с коронавирусом.
+Столица [занимает](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/05/01/161160-v-rossii-zafiksirovali-esche-7933-sluchaya-zarazheniya-koronavirusom) первое место среди российских регионов по числу заболевших – 57 300 человек из 114 431 по стране, а также по числу умерших с COVID-19. До 11 мая в Москве продлены ограничения в рамках мер по борьбе с коронавирусом.
 
-**link:** https://novayagazeta.ru/articles/2020/05/01/85175-dlya-perezapuska-normalnoy-zhizni-nuzhny-budut-serieznye-usiliya
+**link:** [«Для перезапуска нормальной жизни нужны будут серьезные усилия»](2020/05/01/85175-dlya-perezapuska-normalnoy-zhizni-nuzhny-budut-serieznye-usiliya.md)

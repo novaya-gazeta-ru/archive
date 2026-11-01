@@ -35,4 +35,4 @@ tags: "генерал попов, российская армия, всу"
 
 Во всей этой истории интересно вот это простодушие. Оно и выразилось в реплике на камеру после изменения меры пресечения: «Надеюсь только на Бога и на Верховного главнокомандующего, который, надеюсь, узнает об этой истории и положит ей конец».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/05/25/bashni-v-otdele-kadrov
+**Читайте также:** [https://novayagazeta.ru/articles/2024/05/25/bashni-v-otdele-kadrov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/05/25/bashni-v-otdele-kadrov)

@@ -17,6 +17,6 @@ tags: "нефть, brent, цены, sn"
 
 ТАСС [отмечает](https://tass.ru/ekonomika/11827997), что рост цены произошел на фоне сообщений об отмене встречи министров стран ОПЕК+ — она должна была пройти сегодня. Одновременно с этим в цене растут и другие марки. Так, WTI подорожала до 76,2 доллара за баррель — это рекорд с октября 2018 года.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/05/lishnie-nogi
+**Читайте также:** [Лишние ноги](2021/07/05/lishnie-nogi.md)
 
-Ранее, 22 июня, цена Brent [превысила](https://novayagazeta.ru/articles/2021/06/22/stoimost-nefti-brent-podnialas-vyshe-75-dollarov-za-barrel-vpervye-za-dva-goda) 75 долларов (впервые с апреля 2019 года), а 18 мая она впервые с марта этого года [преодолела](https://novayagazeta.ru/articles/2021/05/18/tsena-nefti-marki-brent-vpervye-s-15-marta-prevysila-otmetku-v-70-dollarov-za-barrel) отметку в 70 долларов.
+Ранее, 22 июня, цена Brent [превысила](2021/06/22/stoimost-nefti-brent-podnialas-vyshe-75-dollarov-za-barrel-vpervye-za-dva-goda.md) 75 долларов (впервые с апреля 2019 года), а 18 мая она впервые с марта этого года [преодолела](2021/05/18/tsena-nefti-marki-brent-vpervye-s-15-marta-prevysila-otmetku-v-70-dollarov-za-barrel.md) отметку в 70 долларов.

@@ -25,9 +25,9 @@ tags: "кемерово, кемеровская область, трагедия
 
 Спецкоры «Новой газеты» были на месте трагических событий год назад. В день траурных мероприятий мы скорбим вместе с Кемерово.
 
-**link:** https://novayagazeta.ru/articles/2018/03/27/75962-mne-vse-ravno-kto-zaper-dver-vernite-moih-detey
+**link:** [«Мне все равно, кто запер дверь, верните моих детей!»](2018/03/27/75962-mne-vse-ravno-kto-zaper-dver-vernite-moih-detey.md)
 
-**link:** https://novayagazeta.ru/articles/2018/03/29/75991-pereday-mame-chto-ya-ee-lyubila-pereday-vsem-chto-ya-ih-lyubila
+**link:** [«Передай маме, что я ее любила. Передай всем, что я их любила»](2018/03/29/75991-pereday-mame-chto-ya-ee-lyubila-pereday-vsem-chto-ya-ih-lyubila.md)
 
 ![](_assets/90/90538359471bb1958e9ef0d4183009a7.webp)
 
@@ -35,4 +35,4 @@ tags: "кемерово, кемеровская область, трагедия
 
 P.S. «Такие дела» выпустили мемориальный спецпроект о событиях годичной давности. Смотрите его здесь.
 
-**link:** https://novayagazeta.ru/articles/2019/03/23/79969-sinyaya-chayka-premiera
+**link:** [«Синяя чайка». Как пережить самую страшную потерю в жизни](2019/03/23/79969-sinyaya-chayka-premiera.md)

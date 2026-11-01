@@ -37,7 +37,7 @@ tags: "хорватия, футбол, чм-2018"
 
 *Массовый просмотр матча на дрифт-площадке под Академическим мостом. Иркутск. Фото Антон Климов/ специально для «Новой»*
 
-**link:** https://novayagazeta.ru/articles/2018/07/08/77077-i-tselogo-chuda-malo
+**link:** [И целого чуда мало](2018/07/08/77077-i-tselogo-chuda-malo.md)
 
 ![](_assets/3c/3ce1f910e7d1119c38c3c7a418f302c2.webp)
 
@@ -79,7 +79,7 @@ tags: "хорватия, футбол, чм-2018"
 
 *[media: &nbsp;]*
 
-**link:** https://novayagazeta.ru/articles/2018/07/08/77078-kogda-esche-my-dozhivem-do-ponedelnika
+**link:** [https://novayagazeta.ru/articles/2018/07/08/77078-kogda-esche-my-dozhivem-do-ponedelnika](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2018/07/08/77078-kogda-esche-my-dozhivem-do-ponedelnika)
 
 И целого чуда мало
 

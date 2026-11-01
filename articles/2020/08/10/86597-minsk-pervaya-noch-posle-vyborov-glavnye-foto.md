@@ -59,7 +59,7 @@ tags: "права человека, омон, протесты, лукашенк
 
 *Фото: Reuters*
 
-**link:** https://novayagazeta.ru/articles/2020/08/09/86594-kakoy-belarus-budet-zavtra
+**link:** [Какой Беларусь будет завтра?](2020/08/09/86594-kakoy-belarus-budet-zavtra.md)
 
 ![](_assets/1c/1c1c16992e9cdfdf395d849c7464e413.webp)
 

@@ -21,4 +21,4 @@ tags: "голосование, севастополь"
 
 Глава севастопольского избиркома Сергей Даниленко не стал комментировать «Новой газете» законность и итоги викторины, сославшись на занятость.
 
-Ранее в Омске глава участковой избирательной комиссии Анна Ганева поучаствовала в аналогичной лотерее и [выиграла](https://novayagazeta.ru/news/2020/06/26/162575-ya-ne-spetsialno-prosto-tak-vypalo-v-omske-predsedatelnitsa-uik-vyigrala-kvartiru-v-loteree-na-svoem-izbiratelnom-uchastke) квартиру, которую планирует передать внуку.
+Ранее в Омске глава участковой избирательной комиссии Анна Ганева поучаствовала в аналогичной лотерее и [выиграла](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/06/26/162575-ya-ne-spetsialno-prosto-tak-vypalo-v-omske-predsedatelnitsa-uik-vyigrala-kvartiru-v-loteree-na-svoem-izbiratelnom-uchastke) квартиру, которую планирует передать внуку.

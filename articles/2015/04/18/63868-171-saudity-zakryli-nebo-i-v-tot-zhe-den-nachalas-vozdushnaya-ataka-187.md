@@ -15,7 +15,7 @@ tags: "беженцы, йемен, эвакуация"
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/04/18/1429364146_416665_95.png" style="width: 340px; height: 256px;"><br>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/04/18/1429364146_416665_95.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/04/18/1429364146_416665_95.png)" style="width: 340px; height: 256px;"><br>
 			<sup>Виктория Сылкина с сыном Мустафой</sup></td>
 		</tr>
 		<tr>

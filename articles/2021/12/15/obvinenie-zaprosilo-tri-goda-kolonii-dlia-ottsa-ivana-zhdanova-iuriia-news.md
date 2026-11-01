@@ -21,7 +21,7 @@ tags: "жданов, нао, отец, прокуратура, kn"
 
 Заседания проходят в Нарьян-Марском городском суде.
 
-В марте 2021 года Юрия Жданова [арестовали](https://novayagazeta.ru/articles/2021/03/29/net-nikakikh-somnenii-chto-eta-ugolovka-sviazana-so-mnoi-i-s-tem-chto-ia-delaiu-ivan-zhdanov-zaiavil-ob-areste-svoego-ottsa) по уголовному делу о превышении должностных полномочий (ч. 1 ст. 286 УК). Это произошло сразу после того, как его сын Иван покинул Россию на фоне уголовных дел против сторонников Алексея Навального. Жданов-младший считает дело политическим.
+В марте 2021 года Юрия Жданова [арестовали](2021/03/29/net-nikakikh-somnenii-chto-eta-ugolovka-sviazana-so-mnoi-i-s-tem-chto-ia-delaiu-ivan-zhdanov-zaiavil-ob-areste-svoego-ot.md) по уголовному делу о превышении должностных полномочий (ч. 1 ст. 286 УК). Это произошло сразу после того, как его сын Иван покинул Россию на фоне уголовных дел против сторонников Алексея Навального. Жданов-младший считает дело политическим.
 
 По версии следствия, во время работы в администрации поселка Искателей Ненецкого автономного округа Юрий Жданов в составе жилищной комиссии рекомендовал главе поселка выделить квартиру женщине по договору социального найма, однако позже оказалось, что эта семья уже получала жилищную субсидию.
 
@@ -29,14 +29,14 @@ tags: "жданов, нао, отец, прокуратура, kn"
 
 Ранее адвокат Воронин сообщал, что Жданов-старший «содержится в ИВС [изоляторе временного содержания] в пыточных условиях: сломана система вентиляции, в камерах 30 градусов жары».
 
-66-летний мужчина страдает гипертонической болезнью. Жданов–старший [жаловался](https://novayagazeta.ru/articles/2021/03/30/otets-direktora-fbk-zhdanova-pozhalovalsia-chto-emu-prikhoditsia-spat-posmenno-v-perepolnennoi-kamere-sizo), что в СИЗО он вынужден спать посменно, так как камера переполнена. «Ни сидеть, ни лежать, ни писать, ни думать, ни жить — ничего не могу. Во всем теле тупая бесконечная боль. В пакетике были обезболивающие таблетки, но во время вечернего шмона пакетик изъяли и выкинули», — [писал](https://novayagazeta.ru/articles/2021/08/13/ni-sidet-ni-lezhat-ni-pisat-ni-dumat-ni-zhit-u-ottsa-ivana-zhdanova-v-sizo-iziali-obezbolivaiushchee-news) он сыну.
+66-летний мужчина страдает гипертонической болезнью. Жданов–старший [жаловался](2021/03/30/otets-direktora-fbk-zhdanova-pozhalovalsia-chto-emu-prikhoditsia-spat-posmenno-v-perepolnennoi-kamere-sizo.md), что в СИЗО он вынужден спать посменно, так как камера переполнена. «Ни сидеть, ни лежать, ни писать, ни думать, ни жить — ничего не могу. Во всем теле тупая бесконечная боль. В пакетике были обезболивающие таблетки, но во время вечернего шмона пакетик изъяли и выкинули», — [писал](2021/08/13/ni-sidet-ni-lezhat-ni-pisat-ni-dumat-ni-zhit-u-ottsa-ivana-zhdanova-v-sizo-iziali-obezbolivaiushchee-news.md) он сыну.
 
 По словам адвоката Воронина, все восемь месяцев Юрия Жданова держали под арестом, мотивируя это тем, что он «давно проживает в Нарьян-Маре и знает там всех свидетелей».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/29/net-nikakikh-somnenii-chto-eta-ugolovka-sviazana-so-mnoi-i-s-tem-chto-ia-delaiu-ivan-zhdanov-zaiavil-ob-areste-svoego-ottsa
+**Читайте также:** [«Эта уголовка связана со мной»: 66-летнего отца директора ФБК Жданова отправили в СИЗО](2021/03/29/net-nikakikh-somnenii-chto-eta-ugolovka-sviazana-so-mnoi-i-s-tem-chto-ia-delaiu-ivan-zhdanov-zaiavil-ob-areste-svoego-ot.md)
 
 «В суде царит атмосфера абсолютного неинтереса к чему-либо. <…> Cудья смотрит в стол, прокурор вообще отвернулся, а вопросы к Юрию Павловичу были формальные, потому что ему нельзя задать вопросы, на которые он не даст ответа», — [говорил](https://tvrain.ru/teleshow/vechernee_shou/advokat_rasskazal_kak_proshel_dopros_jurija_zhdanova-543998/) защитник телеканалу «Дождь»*.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/03/vosstavshaia-koloniia
+**Читайте также:** [https://novayagazeta.ru/articles/2021/11/03/vosstavshaia-koloniia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/03/vosstavshaia-koloniia)
 
 #### **Минюст внес телеканал в реестр СМИ-«иноагентов»*

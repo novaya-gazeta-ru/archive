@@ -95,7 +95,7 @@ tags: "сма, спинальная атрофия, минздрав, рисди
 
 *Пикет у Минздрава. Фото: из личного архива Даниила Максимова*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/31/vzroslye-patsienty-so-sma-vyshli-v-pikety-k-pravitelstvu-moskvy-s-trebovaniem-obespechit-ikh-lekarstvami-meriia-poobeshchala-uskorit-predostavlenie-pomoshchi-news
+**Читайте также:** [Взрослые пациенты со СМА вышли в пикеты к правительству Москвы с требованием обеспечить их лекарствами. Мэрия пообещала ускорить предоставление помощи](2021/08/31/vzroslye-patsienty-so-sma-vyshli-v-pikety-k-pravitelstvu-moskvy-s-trebovaniem-obespechit-ikh-lekarstvami-meriia-poobeshc.md)
 
 Но «переговоры» с Минздравом ни к чему не привели: вышедшие предложили пройти в приемную, запротоколировать обращение и направить его министру. Даниил был за переговоры.
 
@@ -133,4 +133,4 @@ tags: "сма, спинальная атрофия, минздрав, рисди
 
 > **продолжение**
 >
-> Читайте [историю Кати Хорошиловой](https://novayagazeta.ru/articles/2021/09/26/ty-uzh-kak-nibud-sma-ladno) в спецвыпуске «Новой газеты».
+> Читайте [историю Кати Хорошиловой](2021/09/26/ty-uzh-kak-nibud-sma-ladno.md) в спецвыпуске «Новой газеты».

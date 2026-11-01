@@ -51,4 +51,4 @@ tags: "сценарии транзита власти, путин, консти�
 
 #### * Минюст РФ внес в реестр «иноагентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/24/nenavist-rozhdaet-srok-a-srok-rozhdaet-nenavist
+**Читайте также:** [Ненависть рождает срок, а срок рождает ненависть](2025/06/24/nenavist-rozhdaet-srok-a-srok-rozhdaet-nenavist.md)

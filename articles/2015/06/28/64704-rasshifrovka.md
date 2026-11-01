@@ -31,9 +31,9 @@ tags: "лгбт, обама, путин, тэфи"
 
 — Ну да, у нас в суде верховном как раз лежит такой закон о равноправии альковном… Но вас-то чем волнует он? Российской властной вертикали к чему американский гей? Вы сами давеча сказали, что в личной жизни все о'кей…
 
-**link:** https://novayagazeta.ru/news/1694809.html
+**link:** [https://novayagazeta.ru/news/1694809.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1694809.html)
 
-**link:** https://novayagazeta.ru/news/1694809.html
+**link:** [https://novayagazeta.ru/news/1694809.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1694809.html)
 
 **Наш:**
 

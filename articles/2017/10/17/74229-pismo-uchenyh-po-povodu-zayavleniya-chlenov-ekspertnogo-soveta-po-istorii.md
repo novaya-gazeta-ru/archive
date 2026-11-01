@@ -63,4 +63,4 @@ tags: ""
 
 Доктор политических наук, профессор **С.Ф. Черняховский**, МГУ им. М.В.Ломоносова
 
-**link:** https://novayagazeta.ru/articles/2017/10/17/74228-opponenty-medinskogo-nashlis-v-tvittere
+**link:** [Оппоненты Мединского нашлись в твиттере](2017/10/17/74228-opponenty-medinskogo-nashlis-v-tvittere.md)

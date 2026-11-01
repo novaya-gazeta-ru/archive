@@ -19,7 +19,7 @@ tags: "евросоюз, германия"
 
 Также разработчики обещают в скором времени дополнить функции камер фиксацией оставленных без присмотра чемоданов, рюкзаков, сумок и пакетов.
 
-**link:** https://novayagazeta.ru/articles/2017/07/18/73156-sotrudnik-yandeksa-pridumal-makiyazh-obmanyvayuschiy-algoritmy-raspoznavaniya-lits-i-svernul-proekt
+**link:** [Сотрудник «Яндекса» придумал макияж, обманывающий алгоритмы распознавания лиц. И свернул проект](2017/07/18/73156-sotrudnik-yandeksa-pridumal-makiyazh-obmanyvayuschiy-algoritmy-raspoznavaniya-lits-i-svernul-proekt.md)
 
 Места установки видеокамер с новыми возможностями были предусмотрительно обозначены предупредительными надписями для тех, кто не хотел бы попадать в их поле зрения.
 

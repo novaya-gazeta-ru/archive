@@ -67,7 +67,7 @@ tags: "беженцы, азербайджан, армения, нагорный 
 
 «Гадрутцы по характеру крепкие, и мы все не теряем надежду, что еще вернемся в свой родной город», — говорит она.
 
-**link:** https://novayagazeta.ru/articles/2020/11/20/88037-tolko-chto-u-tebya-byl-dom-a-teper-net-dazhe-pary-tufel
+**link:** [«Только что у тебя был дом, а теперь нет даже пары туфель»](2020/11/20/88037-tolko-chto-u-tebya-byl-dom-a-teper-net-dazhe-pary-tufel.md)
 
 ### Беженцы и государство
 

@@ -19,4 +19,4 @@ tags: "казаки, детишин, da"
 
 Сам Виктор Седельников [заявил](https://www.rbc.ru/rbcfreenews/61236cd29a794754eda5d78b?from=newsfeed), что публикации в телеграм-канале — провокация. Факт распития алкоголя с детьми он не комментировал.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/25/nagaika-brosaet-vyzov-dubinke
+**Читайте также:** [Нагайка бросает вызов дубинке](2021/06/25/nagaika-brosaet-vyzov-dubinke.md)

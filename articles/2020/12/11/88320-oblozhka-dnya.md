@@ -17,4 +17,4 @@ tags: "запреты, госдума"
 
 > **читайте по теме**
 >
-> ### [Начальству все, людям — закон.](https://novayagazeta.ru/articles/2020/12/10/88313-nachalstvu-vse-lyudyam-zakon)
+> ### [Начальству все, людям — закон.](2020/12/10/88313-nachalstvu-vse-lyudyam-zakon.md)

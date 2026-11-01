@@ -13,7 +13,7 @@ tags: ""
 
 *Из личного дневника (2). Окончание*
 
-*Начало — *[*здесь*](https://novayagazeta.ru/articles/2024/11/16/mushketery-zolotogo-chervontsa-tri-veka-tri-reformy)*.*
+*Начало — *[*здесь*](2024/11/16/mushketery-zolotogo-chervontsa-tri-veka-tri-reformy.md)*.*
 
 > *Материал был обновлен 28 декабря 2024 года.*
 
@@ -259,6 +259,6 @@ tags: ""
 
 А так нам однозначно предлагают всё тот же печатный станок. На нём мы уже однажды (в случае с долларом США) очень крепко обожглись.
 
-**P.S. Конец 2024 года и Центробанк:** https://novayagazeta.ru/articles/2024/12/19/rost-tsen-i-kritika-tsb-khod-svo-i-voennye-deistviia-v-kurskoi-oblasti-putin-otvetil-na-otobrannye-voprosy-rossiian-i-predlozhil-zapadu-duel-news
+**P.S. Конец 2024 года и Центробанк:** [Рост цен и критика ЦБ, ход СВО и военные действия в Курской области — Путин ответил на отобранные вопросы россиян и предложил Западу «дуэль»](2024/12/19/rost-tsen-i-kritika-tsb-khod-svo-i-voennye-deistviia-v-kurskoi-oblasti-putin-otvetil-na-otobrannye-voprosy-rossiian-i-pr.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/20/tsb-sokhranil-kliuchevuiu-stavku-na-urovne-21-news
+**Читайте также:** [ЦБ неожиданно сохранил ключевую ставку на уровне 21% на фоне растущей критики в адрес Набиуллиной](2024/12/20/tsb-sokhranil-kliuchevuiu-stavku-na-urovne-21-news.md)

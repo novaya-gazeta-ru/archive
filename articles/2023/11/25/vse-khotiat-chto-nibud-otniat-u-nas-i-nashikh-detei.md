@@ -19,4 +19,4 @@ tags: "заточтобы"
 
 Все хотят что-нибудь отнять у нас и наших детей. Так выпьем же за то, чтобы в наших учебниках осталось только умножение и никаких других действий.
 
-**Другая открытка:** https://novayagazeta.ru/articles/2023/11/11/nashi-vragi-khotiat-lishit-nas-sozidatelnoi-energii
+**Другая открытка:** [Наши враги хотят лишить нас созидательной энергии…](2023/11/11/nashi-vragi-khotiat-lishit-nas-sozidatelnoi-energii.md)

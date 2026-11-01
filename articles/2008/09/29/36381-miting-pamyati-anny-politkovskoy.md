@@ -11,7 +11,7 @@ tags: ""
 
 # Митинг памяти Анны Политковской
 
-**[СМОТРЕТЬ ВИДЕО](https://novayagazeta.ru/storage/d/2008/09/29/mitinganna.wmv)** \
+**[СМОТРЕТЬ ВИДЕО](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2008/09/29/mitinganna.wmv)** \
 \
 \
 

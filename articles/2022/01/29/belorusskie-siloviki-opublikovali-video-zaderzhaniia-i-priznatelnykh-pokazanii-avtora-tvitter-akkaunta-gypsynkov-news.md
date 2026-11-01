@@ -23,4 +23,4 @@ tags: "твиттер, интеграция с беларусью, грубое 
 
 После задержания в аккаунте Цыганкова появилась [запись](https://twitter.com/gypsynkov/status/1487179657548025858): «Стоило уехать в деревню наслаждаться инфодетоксом и пловом, а вы уже весь белтви посадили». Кто оставил эту запись — неизвестно.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/24/neskolko-upravlenii-fsb-schitaiut-menia-lichnym-vragom
+**Читайте также:** [«Несколько управлений ФСБ считают меня личным врагом»](2022/01/24/neskolko-upravlenii-fsb-schitaiut-menia-lichnym-vragom.md)

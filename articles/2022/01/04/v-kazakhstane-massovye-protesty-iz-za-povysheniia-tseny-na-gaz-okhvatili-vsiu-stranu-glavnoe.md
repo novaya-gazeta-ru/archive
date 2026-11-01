@@ -15,7 +15,7 @@ tags: "казахстан, протесты, газ, токаев"
 
 > **есть продолжение**
 >
-> ### [**ПРАВИТЕЛЬСТВО КАЗАХСТАНА ОТПРАВЛЕНО В ОТСТАВКУ**](https://novayagazeta.ru/articles/2022/01/05/pravitelstvo-kazakhstana-ushlo-v-otstavku-na-fone-obshchenatsionalnykh-gazovykh-protestov-news)
+> ### [**ПРАВИТЕЛЬСТВО КАЗАХСТАНА ОТПРАВЛЕНО В ОТСТАВКУ**](2022/01/05/pravitelstvo-kazakhstana-ushlo-v-otstavku-na-fone-obshchenatsionalnykh-gazovykh-protestov-news.md)
 
 > **ТОКАЕВ ВВЕЛ РЕЖИМ ЧП ДО 19 января**
 >
@@ -31,7 +31,7 @@ tags: "казахстан, протесты, газ, токаев"
 > - Ограничивается въезд и выезд из зоны ЧП
 > - Ограничивается связь
 >
-> ### [**Подробнее о режиме ЧП в Казахстане**](https://novayagazeta.ru/articles/2022/01/04/prezident-kazakhstana-vvel-rezhim-chp-v-almaty-i-mangistauskoi-oblasti-do-19-ianvaria-v-khode-protestov-liudi-nachali-szhigat-kolonny-mashin-politsii-news)
+> ### [**Подробнее о режиме ЧП в Казахстане**](2022/01/04/prezident-kazakhstana-vvel-rezhim-chp-v-almaty-i-mangistauskoi-oblasti-do-19-ianvaria-v-khode-protestov-liudi-nachali-sz.md)
 
 > **«стабилизационные меры» токаева**
 >
@@ -39,7 +39,7 @@ tags: "казахстан, протесты, газ, токаев"
 > - ввести мораторий на повышение коммунальных тарифов для населения
 > - рассмотреть вопрос субсидирования арендной платы по вторичному жилью для социально уязвимых слоев населения
 >
-> ### [**Подробнее о поручениях президента Казахстана**](https://novayagazeta.ru/articles/2022/01/05/prezident-kazakhstana-poruchil-vvesti-gosregulirovanie-tsen-na-gaz-toplivo-i-produkty-news)
+> ### [**Подробнее о поручениях президента Казахстана**](2022/01/05/prezident-kazakhstana-poruchil-vvesti-gosregulirovanie-tsen-na-gaz-toplivo-i-produkty-news.md)
 
 ![](_assets/69/6954a7c23b51dfdf195b61b10f287f27.webp)
 
@@ -51,7 +51,7 @@ tags: "казахстан, протесты, газ, токаев"
 
 - В центре Алматы [слышны](https://t.me/vlastkz/9127) разрывы светошумовых гранат и выстрелы. Администрация города была [оцеплена](https://t.me/kaztag_tg/1809) силовиками и военной техникой, после штурма **протестующие ворвались в здание**.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/05/protestuiushchie-v-kazakhstane-vorvalis-v-gorodskuiu-administratsiiu-almaty-posle-shturma-news
+**Читайте также:** [Протестующие в Казахстане ворвались в городскую администрацию Алматы после штурма. В здании начался пожар, также горит здание прокуратуры](2022/01/05/protestuiushchie-v-kazakhstane-vorvalis-v-gorodskuiu-administratsiiu-almaty-posle-shturma-news.md)
 
 Также в Алматы **загорелось здание прокуратуры**, [сообщает](https://t.me/kaztag_tg/1848) «КазТАГ».
 
@@ -120,13 +120,13 @@ Vласть пишет, что люди идут по проезжей част�
 
 «Я и Жанболат Мамай находимся в Ауэзовском РОВД. Мамая по-настоящему избили. На глазу синяк. У одного парня не прекращается кровотечение из головы. Все мы вымазаны в грязи», — рассказал активист Асхат Берсалимов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/04/vlast-ne-padet-prezident-kazakhstana-tokaev-obratilsia-k-narodu-na-fone-protestov-odnovremenno-s-etim-v-almaty-nachalis-silovye-stolknoveniia-news
+**Читайте также:** [«Власть не падет»: президент Казахстана Токаев обратился к народу на фоне протестов. Одновременно с этим в Алматы начались силовые столкновения](2022/01/04/vlast-ne-padet-prezident-kazakhstana-tokaev-obratilsia-k-narodu-na-fone-protestov-odnovremenno-s-etim-v-almaty-nachalis-.md)
 
 Массовые акции и столкновения с силовиками, по данным СМИ, проходят и в других городах страны: в Актобе, в Таразе, в Атырау, Караганде и Уральске. В некоторых городах протестующие освистывают государственных политиков, которые пытаются выступить перед собравшимися.
 
 # Обещание властей снизить цены на газ не остановило протесты
 
-Днем 4 января правительственная комиссия [встретилась](https://novayagazeta.ru/articles/2022/01/04/posle-vstrechi-s-protestuiushchimi-vlasti-kazakhstana-poobeshchali-snizit-tseny-na-szhizhenii-gaz-do-50-tenge-za-litr-news) с протестующими, собравшимися на площади в Актау, и объявила о снижении цены на сжиженный газ со 120 тенге ($0,27) до 50 тенге ($0,13) за литр.
+Днем 4 января правительственная комиссия [встретилась](2022/01/04/posle-vstrechi-s-protestuiushchimi-vlasti-kazakhstana-poobeshchali-snizit-tseny-na-szhizhenii-gaz-do-50-tenge-za-litr-ne.md) с протестующими, собравшимися на площади в Актау, и объявила о снижении цены на сжиженный газ со 120 тенге ($0,27) до 50 тенге ($0,13) за литр.
 
 При этом, как выяснил КазТАГ, среди участников «инициативной группы», которая представляла интересы протестующих на встрече, оказались люди, связанные с властью, в частности, несколько депутатов и представителей государственных СМИ.
 

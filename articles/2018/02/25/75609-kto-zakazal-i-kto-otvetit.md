@@ -15,7 +15,7 @@ tags: "москва, оппозиция, митинги, немцов"
 
 Видео: Глеб Лиманский / «Новая газета»
 
-**link:** https://novayagazeta.ru/articles/2018/02/25/75610-lyudi-prihodyat-potomu-chto-im-nechem-dyshat
+**link:** [«Люди приходят, потому что им нечем дышать»](2018/02/25/75610-lyudi-prihodyat-potomu-chto-im-nechem-dyshat.md)
 
 ![](_assets/ee/ee6d6990aac41d04b07fba692cae2226.webp)
 
@@ -53,4 +53,4 @@ tags: "москва, оппозиция, митинги, немцов"
 
 *Некоторые из пришедших на марш несли плакаты в поддержку руководителя чеченского офиса «Мемориала» Оюба Титиева. Фото: Влад Докшин / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2018/02/01/75354-byut-svoih
+**link:** [Опознались!](2018/02/01/75354-byut-svoih.md)

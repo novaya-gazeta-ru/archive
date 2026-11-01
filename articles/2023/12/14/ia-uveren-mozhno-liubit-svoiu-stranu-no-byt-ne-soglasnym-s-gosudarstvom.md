@@ -15,6 +15,6 @@ tags: ""
 
 **Произведено: «Новая газета»:** https://youtu.be/e6aVw26S0Ww
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/12/14/sledstviiu-razreshili-peresdat
+**Читайте также:** [Следствию разрешили пересдать](2023/12/14/sledstviiu-razreshili-peresdat.md)
 
 #### * Минюст включил в реестр иноагентов

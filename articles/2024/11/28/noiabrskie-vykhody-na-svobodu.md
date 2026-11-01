@@ -59,6 +59,6 @@ tags: "белорусские политзаключенные, колесник
 
 > «Между тем **655 дней неизвестности и 1639 дней за решеткой.** У меня всё. Больше нечего сказать».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/07/11/inkommunikado
+**Читайте также:** [https://novayagazeta.ru/articles/2024/07/11/inkommunikado](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/07/11/inkommunikado)
 
 #### *Организация признана в РФ экстремистской и запрещена.

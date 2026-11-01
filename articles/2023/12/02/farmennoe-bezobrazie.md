@@ -175,7 +175,7 @@ tags: "лекарства, дженерик, фармакология, санк�
 
 Еще раз: речь не о препарате повышенного спроса и не о «сезонной актуальности». Лекарство назначено пожизненно, значит, получать его человек должен регулярно.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/01/28/dedy-zhili-bez-lekarstv-i-vy-prozhivete-vozmozhno
+**Читайте также:** [https://novayagazeta.ru/articles/2023/01/28/dedy-zhili-bez-lekarstv-i-vy-prozhivete-vozmozhno](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/01/28/dedy-zhili-bez-lekarstv-i-vy-prozhivete-vozmozhno)
 
 ## «Это просто безумство!»
 
@@ -402,4 +402,4 @@ tags: "лекарства, дженерик, фармакология, санк�
 
 Понятие бесплатной медицинской помощи закреплено статьей 41 Конституции РФ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/11/14/delali-operatsii-voobshche-bez-obezbolivaiushchikh
+**Читайте также:** [«Делали операции вообще без обезболивающих»](2023/11/14/delali-operatsii-voobshche-bez-obezbolivaiushchikh.md)

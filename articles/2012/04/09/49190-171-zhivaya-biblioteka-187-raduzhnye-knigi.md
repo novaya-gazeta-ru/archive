@@ -16,21 +16,21 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/04/09/1334041996_273227_92.jpg" style="width: 360px; height: 240px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/04/09/1334041996_273227_92.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/04/09/1334041996_273227_92.jpg)" style="width: 360px; height: 240px; "><br>
 				<sup>Фото: Анна Артемьева — «Новая газета»</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/04/09/1334041996_607471_50.jpg" style="width: 360px; height: 240px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/04/09/1334041996_607471_50.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/04/09/1334041996_607471_50.jpg)" style="width: 360px; height: 240px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/04/09/1334041996_927734_31.jpg" style="width: 360px; height: 240px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/04/09/1334041996_927734_31.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/04/09/1334041996_927734_31.jpg)" style="width: 360px; height: 240px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/04/09/1334042016_235155_24.jpg" style="width: 360px; height: 240px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/04/09/1334042016_235155_24.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/04/09/1334042016_235155_24.jpg)" style="width: 360px; height: 240px; "></p>
 				<p>
 					&nbsp;</p>
 			</td>

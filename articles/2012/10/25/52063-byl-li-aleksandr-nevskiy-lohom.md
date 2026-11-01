@@ -17,7 +17,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/25/1351155333_405429_22.jpg" style="width: 360px; height: 267px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/25/1351155333_405429_22.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/25/1351155333_405429_22.jpg)" style="width: 360px; height: 267px; "></p>
 				<p>
 					<sup>Чудское озеро &nbsp;в районе места Ледового побоища</sup></p>
 			</td>
@@ -25,7 +25,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<sup><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/25/1351155333_731532_74.jpg" style="width: 360px; height: 255px; "></sup></p>
+					<sup><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/25/1351155333_731532_74.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/25/1351155333_731532_74.jpg)" style="width: 360px; height: 255px; "></sup></p>
 				<p>
 					<sup>Та самая экспедиция. Археологи П. Раппопорт, Е. Шолохова, помощник руководителя экспедиции А. Потресов и Г. Караев</sup></p>
 			</td>

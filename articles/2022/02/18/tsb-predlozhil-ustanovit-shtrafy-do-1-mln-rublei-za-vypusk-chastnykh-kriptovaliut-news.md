@@ -17,6 +17,6 @@ tags: "криптовалюта, цб, центробанк, запрет, ру�
  \
  ЦБ также предложил запретить рекламу криптовалюты в России, [сообщает](https://t.me/thebell_io/16323)The Bell. При принятии поправок, банкам и субъектам национальной платежной системы запретят владеть частными цифровыми валютами, а лицам, способствующим обращению, ограничат переводы и прием платежей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/28/nedostizhimyi-kriptokompromiss
+**Читайте также:** [Недостижимый криптокомпромисс](2022/01/28/nedostizhimyi-kriptokompromiss.md)
 
-В начале февраля правительство [утвердило](https://novayagazeta.ru/articles/2022/02/08/smi-kabmin-utverdil-kontseptsiiu-regulirovaniia-kriptovaliut-news) концепцию регулирования криптовалют, подготовленную министерством финансов. Ранее ЦБ [выступал](https://novayagazeta.ru/articles/2022/01/20/tsentrobank-predlozhil-polnostiu-zapretit-maining-i-oborot-kriptovaliuty-v-rossii-news) за полный запрет майнинга и оборота криптовалюты в стране.
+В начале февраля правительство [утвердило](2022/02/08/smi-kabmin-utverdil-kontseptsiiu-regulirovaniia-kriptovaliut-news.md) концепцию регулирования криптовалют, подготовленную министерством финансов. Ранее ЦБ [выступал](2022/01/20/tsentrobank-predlozhil-polnostiu-zapretit-maining-i-oborot-kriptovaliuty-v-rossii-news.md) за полный запрет майнинга и оборота криптовалюты в стране.

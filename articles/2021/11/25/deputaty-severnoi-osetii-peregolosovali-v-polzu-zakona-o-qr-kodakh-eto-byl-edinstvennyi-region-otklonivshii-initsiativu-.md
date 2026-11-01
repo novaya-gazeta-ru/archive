@@ -15,8 +15,8 @@ tags: "северная осетия, qr-коды, sf"
 
 44 депутата проголосовали «за», четыре — «Против», один воздержался, еще двое из присутствовавших не голосовали.
 
-Сегодня же Северная Осетия [стала](https://novayagazeta.ru/articles/2021/11/25/severnaia-osetiia-stala-pervym-regionom-ne-podderzhavshim-zakon-o-vvedenii-qr-kodov-v-obshchestvennykh-mestakh-i-na-transport-news) первым регионом, чей парламент отказался поддержать проект. При первичном голосовании 30 депутатов  поддержали инициативу, 12 — были против, четверо воздержались. Для поддержания проекта федерального закона необходимо набрать 35 голосов.
+Сегодня же Северная Осетия [стала](2021/11/25/severnaia-osetiia-stala-pervym-regionom-ne-podderzhavshim-zakon-o-vvedenii-qr-kodov-v-obshchestvennykh-mestakh-i-na-tran.md) первым регионом, чей парламент отказался поддержать проект. При первичном голосовании 30 депутатов  поддержали инициативу, 12 — были против, четверо воздержались. Для поддержания проекта федерального закона необходимо набрать 35 голосов.
 
-Ранее Госдума решила [направить](https://novayagazeta.ru/articles/2021/11/15/gosduma-napravila-zakonoproekty-o-vvedenii-qr-kodov-v-regiony-obshchestvennuiu-i-schetnuiu-palaty-i-sovfed-news) два законопроекта о введении в России QR-кодов для обсуждения в региональные парламенты, Общественную палату, Счетную палату и Совет Федерации. Инициативу уже поддержали более 15 регионов России.
+Ранее Госдума решила [направить](2021/11/15/gosduma-napravila-zakonoproekty-o-vvedenii-qr-kodov-v-regiony-obshchestvennuiu-i-schetnuiu-palaty-i-sovfed-news.md) два законопроекта о введении в России QR-кодов для обсуждения в региональные парламенты, Общественную палату, Счетную палату и Совет Федерации. Инициативу уже поддержали более 15 регионов России.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/23/kak-na-kazan-chernaia-koshka-napala
+**Читайте также:** [Как на Казань «черная кошка» напала](2021/11/23/kak-na-kazan-chernaia-koshka-napala.md)

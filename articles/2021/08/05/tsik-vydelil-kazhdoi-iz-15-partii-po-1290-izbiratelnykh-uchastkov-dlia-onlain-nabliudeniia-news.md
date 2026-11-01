@@ -21,9 +21,9 @@ tags: "цик, видеонаблюдение, выборы, sn"
 
 При этом всего в России около 50 тысяч избирательных участков будут [оснащены](https://tass.ru/politika/11899399) камерами видеонаблюдения.
 
-В середине июля ЦИК [отказался](https://novayagazeta.ru/articles/2021/07/14/tsik-ne-predusmotrel-vozmozhnosti-obshchedostupnogo-videonabliudeniia-za-golosovaniem-na-sentiabrskikh-vyborakh) от идеи сделать трансляции с избирательных участков общедоступными. В ЦИКе это [объяснили](https://novayagazeta.ru/articles/2021/07/16/videonabliudenie-eto-ne-prazdnoe-liubopytstvo-pamfilova-ob-otkaze-na-vyborakh-ot-obshchedostupnykh-transliatsii-s-uchastkov) экономией, а также тем, что «видеонаблюдение — это не праздное любопытство, чтобы лежа на диване смотреть кино какое-то».
+В середине июля ЦИК [отказался](2021/07/14/tsik-ne-predusmotrel-vozmozhnosti-obshchedostupnogo-videonabliudeniia-za-golosovaniem-na-sentiabrskikh-vyborakh.md) от идеи сделать трансляции с избирательных участков общедоступными. В ЦИКе это [объяснили](2021/07/16/videonabliudenie-eto-ne-prazdnoe-liubopytstvo-pamfilova-ob-otkaze-na-vyborakh-ot-obshchedostupnykh-transliatsii-s-uchast.md) экономией, а также тем, что «видеонаблюдение — это не праздное любопытство, чтобы лежа на диване смотреть кино какое-то».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/04/pen-golosovaniia
+**Читайте также:** [Пень голосования](2021/08/04/pen-golosovaniia.md)
 
 В итоге следить за происходящем на участках смогут лишь члены центральной, региональных, территориальных и участковых избирательных комиссий, а также кандидаты и партии. Причем кандидат сможет отсмотреть записи, сделанные в том округе, от которого он баллотировался.
 

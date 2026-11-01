@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<strong><img alt="" src="http://www.novayagazeta.ru/storage/c/2013/04/26/1366964946_429404_12.jpg" style="width: 360px; height: 540px;"></strong><em>Фото - Анна Артемьева</em></td>
+				<strong><img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/04/26/1366964946_429404_12.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/04/26/1366964946_429404_12.jpg)" style="width: 360px; height: 540px;"></strong><em>Фото - Анна Артемьева</em></td>
 		</tr>
 		<tr>
 			<td>

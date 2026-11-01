@@ -13,4 +13,4 @@ tags: ""
 
 *Смотрите только 18 и 19 января на сайте «Новой» — на фоне нового обострения*
 
-https://novayagazeta.ru/articles/2022/02/18/bratia-i-sestry-oni-zhe-rodnye
+[Братья и сестры, они же — «родные»](2022/02/18/bratia-i-sestry-oni-zhe-rodnye.md)

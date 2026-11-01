@@ -117,4 +117,4 @@ tags: "стихия, иркутская область, наводнение"
 
 *Фото: Антон Карлинер — специально для «Новой»*
 
-**link:** https://novayagazeta.ru/articles/2019/07/02/81091-bolshaya-beda-vyshla-iz-beregov
+**link:** [Большая беда вышла из берегов](2019/07/02/81091-bolshaya-beda-vyshla-iz-beregov.md)

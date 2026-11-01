@@ -27,7 +27,7 @@ tags: "польша, реакция, дипломатия, посольство,
 >
 > В настоящее время в России мы все чаще имеем дело с попытками размыть ответственность или отрицать Катынское преступление, а сам факт демонтажа мемориальных досок воспринимается в Польше именно как отрицание российскими властями Катынского преступления.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/05/18/85424-razdelochnye-doski-kak-v-tveri-starayutsya-zabyt-terror-sovetskogo-vremeni-i-pochemu-vazhno-ne-dat-etogo-sdelat
+**Читайте также:** [Разделочные доски](2020/05/18/85424-razdelochnye-doski-kak-v-tveri-starayutsya-zabyt-terror-sovetskogo-vremeni-i-pochemu-vazhno-ne-dat-etogo-sdelat.md)
 
 > ### ***
 >

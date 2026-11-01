@@ -21,6 +21,6 @@ tags: ""
 
 10 июля состоялось закрытое прощание с погибшим в результате самоубийства Романом Старовойтом в московской ЦКБ.
 
-Прощание [посетили](https://novayagazeta.ru/articles/2025/07/10/prostitsia-so-starovoitom-pokonchivshim-s-soboi-eks-ministrom-transporta-i-byvshim-gubernatorom-kurskoi-oblasti-priekhali-mnogie-chleny-pravitelstva-i-ministr-preemnik-news) российские министры и вице-премьеры, включая преемника Старовойта на посту министра транспорта — Андрея Никитина.
+Прощание [посетили](2025/07/10/prostitsia-so-starovoitom-pokonchivshim-s-soboi-eks-ministrom-transporta-i-byvshim-gubernatorom-kurskoi-oblasti-priekhal.md) российские министры и вице-премьеры, включая преемника Старовойта на посту министра транспорта — Андрея Никитина.
 
 В Кремле ранее заявляли, что «шокированы» новостью о самоубийстве Старовойта из наградного оружия — в день, когда Путин [отправил его в отставку](https://t.me/novaya_pishet/52468).

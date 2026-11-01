@@ -74,7 +74,7 @@ tags: "волонтеры, коронавирус, дети"
 
 — А потом… Изоляция.
 
-**novaya:** https://novayagazeta.ru/articles/2020/05/01/85181-zaschitniki-slepoy-zony
+**novaya:** [Защитники «слепой зоны»](2020/05/01/85181-zaschitniki-slepoy-zony.md)
 
 # «Почти как на Марс»
 

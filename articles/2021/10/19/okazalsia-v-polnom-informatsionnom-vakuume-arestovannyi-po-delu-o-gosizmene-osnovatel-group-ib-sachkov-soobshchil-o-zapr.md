@@ -25,6 +25,6 @@ tags: "ng, сачков, госизмена, сизо"
 
 При этом, как отметил член ОНК, Сачкову запретили говорить, кто является его адвокатом: «На этот мой вопрос меня прервали и сказали, что он не относится к делу, и не дали Илье ответить».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/29/chelovek-pervogo-softa
+**Читайте также:** [Человек первого софта](2021/09/29/chelovek-pervogo-softa.md)
 
-29 сентября Лефортовский суд Москвы [арестовал](https://novayagazeta.ru/articles/2021/09/29/osnovatelia-group-ib-iliu-sachkova-otpravili-v-sizo-po-delu-o-gosizmene-news) на два месяца основателя Group-IB Илью Сачкова. Он стал фигурантом дела о госизмене (ст. 275 УК) в штаб-квартире его компании прошли обыски. На уголовное дело в отношении IT-бизнесмена наложен гриф «Секретно». Bloomberg [писал](https://novayagazeta.ru/articles/2021/10/03/bloomberg-ugolovnoe-delo-protiv-glavy-group-ib-sachkova-sviazano-s-ego-planami-vyvesti-biznes-za-granitsu-news), что оно может быть связано планами Сачкова вывести бизнес за границу.
+29 сентября Лефортовский суд Москвы [арестовал](2021/09/29/osnovatelia-group-ib-iliu-sachkova-otpravili-v-sizo-po-delu-o-gosizmene-news.md) на два месяца основателя Group-IB Илью Сачкова. Он стал фигурантом дела о госизмене (ст. 275 УК) в штаб-квартире его компании прошли обыски. На уголовное дело в отношении IT-бизнесмена наложен гриф «Секретно». Bloomberg [писал](2021/10/03/bloomberg-ugolovnoe-delo-protiv-glavy-group-ib-sachkova-sviazano-s-ego-planami-vyvesti-biznes-za-granitsu-news.md), что оно может быть связано планами Сачкова вывести бизнес за границу.

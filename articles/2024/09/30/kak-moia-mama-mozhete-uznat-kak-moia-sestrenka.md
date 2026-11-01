@@ -96,7 +96,7 @@ tags: ""
 >
 > «Здравствуйте, друзья! Спасибо за очередной отклик, за ваше внимание! Письма получил, спасибо. Замедление «Ютуба», «Сигнала» и других сервисов, разумеется, ни к чему хорошему не приведет. Не хочется повторения, как в Северной Корее. Привет от меня всем единомышленникам и друзьям».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/07/liudi-v-zamorozke
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/07/liudi-v-zamorozke](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/07/liudi-v-zamorozke)
 
 ![](_assets/d9/d94d9202ce2a1d37ebe39c78ffd2d8e7.webp)
 

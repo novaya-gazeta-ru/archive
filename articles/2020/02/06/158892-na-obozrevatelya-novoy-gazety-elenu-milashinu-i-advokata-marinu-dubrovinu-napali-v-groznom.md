@@ -13,7 +13,7 @@ tags: "избиение, нападение, чечня"
 
 > **Есть продолжение**
 >
-> <br> [Полиция начала&nbsp;проверку по факту нападения на обозревателя «Новой» Елену Милашину и адвоката Марину Дубровину](https://novayagazeta.ru/news/2020/02/07/158899-v-groznom-politseyskie-nachali-proverku-po-faktu-napadeniya-na-obozrevatelya-novoy-elenu-milashinu-i-advokata-marinu-dubrovinu)
+> <br> [Полиция начала&nbsp;проверку по факту нападения на обозревателя «Новой» Елену Милашину и адвоката Марину Дубровину](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/02/07/158899-v-groznom-politseyskie-nachali-proverku-po-faktu-napadeniya-na-obozrevatelya-novoy-elenu-milashinu-i-advokata-marinu-dubrovinu)
 
 Сегодня, в 23:20, в Грозном, у входа в гостиницу «Континент» было совершено нападение на обозревателя «Новой газеты» Елену Милашину и известного адвоката Марину Дубровину.
 
@@ -21,7 +21,7 @@ tags: "избиение, нападение, чечня"
 
 Нападавшие снимали свои действия на камеру.
 
-Милашина и Дубровина прибыли в Грозный на суд [по делу Ислама Нуханова](https://novayagazeta.ru/search?q=%D0%98%D1%81%D0%BB%D0%B0%D0%BC%20%D0%9D%D1%83%D1%85%D0%B0%D0%BD%D0%BE%D0%B2%20%D1%87%D0%B5%D1%87%D0%BD%D1%8F). Они фиксируют травмы и подают заявление в правоохранительные органы Чечни.
+Милашина и Дубровина прибыли в Грозный на суд [по делу Ислама Нуханова](https://web.archive.org/web/*/https://novayagazeta.ru/search?q=%D0%98%D1%81%D0%BB%D0%B0%D0%BC%20%D0%9D%D1%83%D1%85%D0%B0%D0%BD%D0%BE%D0%B2%20%D1%87%D0%B5%D1%87%D0%BD%D1%8F). Они фиксируют травмы и подают заявление в правоохранительные органы Чечни.
 
 > **документ**
 >
@@ -29,4 +29,4 @@ tags: "избиение, нападение, чечня"
 >
 > Кликните, чтобы увеличить
 
-**link:** https://novayagazeta.ru/articles/2019/12/17/83192-dva-mira-dva-islama
+**link:** [Два мира, два Ислама](2019/12/17/83192-dva-mira-dva-islama.md)

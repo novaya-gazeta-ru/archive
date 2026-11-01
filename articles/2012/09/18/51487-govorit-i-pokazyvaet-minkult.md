@@ -17,7 +17,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/18/1347959772_852091_18.jpg" style="width: 360px; height: 251px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/18/1347959772_852091_18.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/18/1347959772_852091_18.jpg)" style="width: 360px; height: 251px; "></p>
 				<p>
 					<sup>Рядом с Эрнстом, рисующим рожицы, Джаник Файзиев, режиссер фильма «Август восьмого». Госзаказ, бюджет $16 миллионов, фильм не окупился. Лучшая иллюстрация к происходящему</sup></p>
 			</td>

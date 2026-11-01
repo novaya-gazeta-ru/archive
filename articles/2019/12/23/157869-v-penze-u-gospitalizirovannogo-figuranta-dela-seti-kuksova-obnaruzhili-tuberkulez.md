@@ -19,4 +19,4 @@ tags: "туберкулез, дело сети, va"
 
 Жена Куксова Елена [рассказывала](https://7x7-journal.ru/articles/2019/12/11/podsudimogo-po-delu-seti-vasiliya-kuksova-v-penze-polozhili-v-bolnicu-s-podozreniem-na-tuberkulez-chto-ob-etom-govoryat-mediki-sotrudniki-sizo-i-rodstvenniki) в декабре, что начальник СИЗО-1 Олег Исханов связывал заболевание с низким иммунитетом ее мужа на фоне вегетарианства, — при этом доказанной связи между отказом от животной пищи и туберкулезом нет. Он также говорил, что у него «пол изолятора таких [больных]» и что Куксову для защиты достаточно надевать маску.
 
-**link:** https://novayagazeta.ru/articles/2019/11/23/82840-pytki-klopov
+**link:** [Пытки «клопов»](2019/11/23/82840-pytki-klopov.md)

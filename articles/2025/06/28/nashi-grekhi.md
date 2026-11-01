@@ -18,4 +18,4 @@ tags: ""
  Я понимаю, как много ужасного,\
  И то, насколько мы грешные.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/21/korabli-trevozhnosti-v-okeane-vozmozhnosti
+**Читайте также:** [Корабли тревожности в океане возможности](2025/06/21/korabli-trevozhnosti-v-okeane-vozmozhnosti.md)

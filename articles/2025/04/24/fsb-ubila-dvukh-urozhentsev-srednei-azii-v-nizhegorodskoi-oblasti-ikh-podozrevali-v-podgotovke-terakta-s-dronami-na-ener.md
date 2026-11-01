@@ -25,6 +25,6 @@ tags: ""
 
 Из представленного спецслужбами отчетного видео становится понятно, что за предполагаемыми преступниками велась слежка, показано, как для тайника использовалось заброшенное здание, в нем же показали и тела после штурма отрядом спецназа ФСБ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/21/volgogradets-na-doprose-fsb-priznalsia-v-planakh-zakhvatit-meriiu-goroda-i-potrebovat-prekratit-svo-news
+**Читайте также:** [Волгоградец на допросе ФСБ признался в планах захватить мэрию города и потребовать прекратить СВО](2025/04/21/volgogradets-na-doprose-fsb-priznalsia-v-planakh-zakhvatit-meriiu-goroda-i-potrebovat-prekratit-svo-news.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/11/shkolniku-v-khabarovske-dali-5-let-za-podgotovku-terakta-v-voinskoi-chasti-a-dvum-nizhegorodskim-vypusknikam-po-25-goda-za-obsuzhdenie-ukrainy-v-litsee-news
+**Читайте также:** [Школьнику в Хабаровске дали 5 лет за «подготовку теракта» в воинской части, а двум нижегородским выпускникам — по 2,5 года за обсуждение Украины в лицее](2025/04/11/shkolniku-v-khabarovske-dali-5-let-za-podgotovku-terakta-v-voinskoi-chasti-a-dvum-nizhegorodskim-vypusknikam-po-25-goda-.md)

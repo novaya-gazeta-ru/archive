@@ -86,6 +86,6 @@ tags: "надсон, Deep Purple"
 
 * **1880* **
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/24/tishinka-tiurma-i-pivnoi-larek
+**Читайте также:** [Тишинка, тюрьма и пивной ларек](2026/02/24/tishinka-tiurma-i-pivnoi-larek.md)
 
 > Этот материал вышел в девятнадцатом номере «Новая газета. Журнал». Купить его можно в [онлайн-магазине](https://bookmerchshop.ru/) наших партнеров.

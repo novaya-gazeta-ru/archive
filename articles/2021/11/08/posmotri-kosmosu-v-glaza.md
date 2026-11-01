@@ -129,7 +129,7 @@ tags: ""
 
 *Фото: Nicolas Economou / NurPhoto / Getty Images*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/08/tekhnologii-neizbezhny-nraviatsia-oni-nam-ili-net
+**Читайте также:** [«Технологии неизбежны, нравятся они нам или нет»](2021/11/08/tekhnologii-neizbezhny-nraviatsia-oni-nam-ili-net.md)
 
 # **Наука объединяет— И все-таки конкуренция в космосе — факт очевидный. Американцы никогда не скажут, что русские лучше.**
 

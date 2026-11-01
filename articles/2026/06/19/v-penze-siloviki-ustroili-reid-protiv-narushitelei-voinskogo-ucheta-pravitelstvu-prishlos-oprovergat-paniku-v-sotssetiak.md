@@ -25,6 +25,6 @@ tags: ""
 
 > Приносим извинения читателям. Ранее здесь была ссылка на сайт Росгвардии, она вела на заметку годичной давности.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/19/kalashi-na-zavtrak
+**Читайте также:** [«Калаши» на завтрак](2026/06/19/kalashi-na-zavtrak.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/18/smi-natsionalizirovannyi-litsei-dlia-sirot-v-korallovo-osnovannyi-khodorkovskim-peredelaiut-v-kadetskii-korpus-news
+**Читайте также:** [СМИ: национализированный лицей для сирот в Кораллово, основанный Ходорковским*, переделают в кадетский корпус](2026/06/18/smi-natsionalizirovannyi-litsei-dlia-sirot-v-korallovo-osnovannyi-khodorkovskim-peredelaiut-v-kadetskii-korpus-news.md)

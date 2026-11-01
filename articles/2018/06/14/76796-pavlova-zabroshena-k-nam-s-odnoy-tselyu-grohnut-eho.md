@@ -23,7 +23,7 @@ tags: "выборы, журналистика, москва, эхо москвы
 
 > Екатерина Павлова пять лет назад была заброшена нам АП через упомянутого покойника с одной целью — грохнуть «Эхо» экономически.
 
-**link:** https://novayagazeta.ru/articles/2017/10/02/74047-zadacha-unichtozhit-eho-moskvy-kak-samostoyatelnuyu-stantsiyu-ne-izmenilas
+**link:** [«Задача уничтожить «Эхо Москвы» как самостоятельную станцию не изменилась»](2017/10/02/74047-zadacha-unichtozhit-eho-moskvy-kak-samostoyatelnuyu-stantsiyu-ne-izmenilas.md)
 
 И взялась за дело:
 

@@ -21,11 +21,11 @@ tags: "em , кемерово, уголовное дело, журналисты"
 
 «Медиазона»* [уточняет](https://zona.media/news/2022/03/21/delo), что дело против Новашова возбудили из-за публикации во «ВКонтакте» текста с копией поста «Мариуполь. Блокада» из фейсбука журналистки Виктории Ивлевой. До этого «Тайга.инфо» сообщила, что к Новашову [пришли](https://tayga.info/176659) с обыском.
 
-Ранее дела о «фейках» про действия российских военных [возбудили](https://novayagazeta.ru/articles/2022/03/16/v-tomskoi-oblasti-vozbudili-pervye-dve-dela-o-feikakh-pro-deistviia-rossiiskikh-voennykh-news) против жителя Томска и жительницы Северска. Им избрали меру пресечения в виде запрета определенных действий. Фигуранткой дела по ст. 207.3 УК также [стала](https://novayagazeta.ru/articles/2022/03/16/sk-vozbudil-delo-o-feikakh-pro-deistviia-rossiiskoi-armii-protiv-blogera-veroniki-belotserkovskoi-news) блогер Вероника Белоцерковская.
+Ранее дела о «фейках» про действия российских военных [возбудили](2022/03/16/v-tomskoi-oblasti-vozbudili-pervye-dve-dela-o-feikakh-pro-deistviia-rossiiskikh-voennykh-news.md) против жителя Томска и жительницы Северска. Им избрали меру пресечения в виде запрета определенных действий. Фигуранткой дела по ст. 207.3 УК также [стала](2022/03/16/sk-vozbudil-delo-o-feikakh-pro-deistviia-rossiiskoi-armii-protiv-blogera-veroniki-belotserkovskoi-news.md) блогер Вероника Белоцерковская.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/18/iadernaia-voina-ili-severnaia-koreia-bolshe-variantov-ne-vizhu
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/18/iadernaia-voina-ili-severnaia-koreia-bolshe-variantov-ne-vizhu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/18/iadernaia-voina-ili-severnaia-koreia-bolshe-variantov-ne-vizhu)
 
-Закон о внесении в УК статьи 207.3 президент России Владимир Путин [подписал](https://novayagazeta.ru/articles/2022/03/04/putin-podpisal-zakon-ob-ugolovnoi-otvetstvennosti-za-feiki-o-rossiiskoi-armii-news) в начале марта. По ней можно получить до 10 лет лишения свободы, если действия повлекли «тяжкие последствия» — до 15. Изменения в законодательство внесли после начала боевых действий в Украине.
+Закон о внесении в УК статьи 207.3 президент России Владимир Путин [подписал](2022/03/04/putin-podpisal-zakon-ob-ugolovnoi-otvetstvennosti-za-feiki-o-rossiiskoi-armii-news.md) в начале марта. По ней можно получить до 10 лет лишения свободы, если действия повлекли «тяжкие последствия» — до 15. Изменения в законодательство внесли после начала боевых действий в Украине.
 
 #### **внесены Минюстом в реестр СМИ, выполняющих функцию «иностранного агента»*
 

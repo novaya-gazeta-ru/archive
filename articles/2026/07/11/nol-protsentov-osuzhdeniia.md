@@ -84,4 +84,4 @@ tags: ""
 
 **Макс Володин**
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/04/iznutri-vremeni-popavshego-v-pereplet
+**Читайте также:** [Изнутри времени, попавшего в переплет](2026/07/04/iznutri-vremeni-popavshego-v-pereplet.md)

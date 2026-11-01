@@ -25,10 +25,10 @@ tags: ""
 
 Глава российской делегации на двух прошлых раундах — Владимир Мединский — пока никак встречу в Стамбуле не комментировал.
 
-Третий раунд переговоров посвящен проработке несовпадений в меморандумах о перемирии и условий прекращения огня, которые, правда, оказались «прямо противоположными», [по словам Путина](https://novayagazeta.ru/articles/2025/06/27/putin-rossiia-obsudit-s-kievom-protivopolozhnye-memorandumy-soznatelno-gotovit-miagkuiu-posadku-ekonomiki-i-khochet-sokrashchat-voennye-raskhody-news). Переговорщики должны продвигаться по созданию условий для встрече лидеров стран, против которой никто не выступает. Песков, правда, обратил сегодня внимание, что в украинском законодательстве до сих пор не снят запрет на переговоры с Путиным.
+Третий раунд переговоров посвящен проработке несовпадений в меморандумах о перемирии и условий прекращения огня, которые, правда, оказались «прямо противоположными», [по словам Путина](2025/06/27/putin-rossiia-obsudit-s-kievom-protivopolozhnye-memorandumy-soznatelno-gotovit-miagkuiu-posadku-ekonomiki-i-khochet-sokr.md). Переговорщики должны продвигаться по созданию условий для встрече лидеров стран, против которой никто не выступает. Песков, правда, обратил сегодня внимание, что в украинском законодательстве до сих пор не снят запрет на переговоры с Путиным.
 
 Напомним, что интенсификация переговорного процесса проходит во время действия своеобразного «ультиматума» Трампа. Тот дал Москве 50 дней для заключения украинской «мирной сделки», в противном случае пригрозил 100%-ными пошлинами на товары из Индии, Китая, Бразилии и других стран, покупающих российские энергоносители.
 
-В Кремле [взяли время](https://novayagazeta.ru/articles/2025/07/15/vesma-sereznye-zaiavleniia-v-kremle-otvetili-na-ultimatum-trampa-putinu-i-ego-reshenie-po-postavkam-kievu-vooruzhenii-news), чтобы обдумать заявления Трампа, который, как отметил российский МИД, находится [под «неприличным давлением»](https://novayagazeta.ru/articles/2025/07/15/lavrov-tramp-popal-pod-neprilichnoe-davlenie-evrosoiuza-i-nato-a-kiev-zatiagivaet-peregovory-s-moskvoi-tasuia-pravitelstvo-news) Запада.
+В Кремле [взяли время](2025/07/15/vesma-sereznye-zaiavleniia-v-kremle-otvetili-na-ultimatum-trampa-putinu-i-ego-reshenie-po-postavkam-kievu-vooruzhenii-ne.md), чтобы обдумать заявления Трампа, который, как отметил российский МИД, находится [под «неприличным давлением»](2025/07/15/lavrov-tramp-popal-pod-neprilichnoe-davlenie-evrosoiuza-i-nato-a-kiev-zatiagivaet-peregovory-s-moskvoi-tasuia-pravitelst.md) Запада.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/18/programma-50-dnei
+**Читайте также:** [Программа «50 дней»](2025/07/18/programma-50-dnei.md)

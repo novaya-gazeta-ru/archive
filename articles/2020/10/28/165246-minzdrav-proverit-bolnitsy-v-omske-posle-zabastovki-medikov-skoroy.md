@@ -25,6 +25,6 @@ tags: "sf, забастовка, скорая помощь, COVID-19, омск"
 
 «Пациенты, доставленные ночью в стационар, живы. Получают необходимое лечение», — прокомментировали в пресс-службе регионального минздрава.
 
-**link:** https://novayagazeta.ru/articles/2020/10/27/87722-my-prohodim-samye-tyazhelye-dni-pandemii-ili-net
+**link:** [Мы проходим самые тяжелые дни пандемии. Или нет?](2020/10/27/87722-my-prohodim-samye-tyazhelye-dni-pandemii-ili-net.md)
 
-Накануне портал NGS55.ru [сообщил](https://novayagazeta.ru/news/2020/10/27/165237-vezti-domoy-ne-mogu-ni-po-chelovecheskim-ni-po-meditsinskim-pokazaniyam-vrachi-skoroy-privezli-k-omskomu-minzdravu-patsientov-dlya-kotoryh-net-mest-v-bolnitsah), что работники скорой помощи устроили забастовку у здания омского минздрава. Врачи начали привозить туда больных с подозрением на коронавирус, которые находились в тяжелом состоянии и которых отказывались госпитализировать. По словам медиков, ситуации, когда «скорой» некуда везти больных, возникают практически во время каждой смены.
+Накануне портал NGS55.ru [сообщил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/27/165237-vezti-domoy-ne-mogu-ni-po-chelovecheskim-ni-po-meditsinskim-pokazaniyam-vrachi-skoroy-privezli-k-omskomu-minzdravu-patsientov-dlya-kotoryh-net-mest-v-bolnitsah), что работники скорой помощи устроили забастовку у здания омского минздрава. Врачи начали привозить туда больных с подозрением на коронавирус, которые находились в тяжелом состоянии и которых отказывались госпитализировать. По словам медиков, ситуации, когда «скорой» некуда везти больных, возникают практически во время каждой смены.

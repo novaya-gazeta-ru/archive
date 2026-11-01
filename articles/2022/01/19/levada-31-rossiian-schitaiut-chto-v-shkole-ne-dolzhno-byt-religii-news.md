@@ -31,6 +31,6 @@ tags: "левада-центр, опрос, социология, церковь
 
 «Левада-центр» проводил соответствующий опрос в декабре 2021 года. В нем участвовали 1640 человек в возрасте от 18 лет и старше в 137 населенных пунктах, 50 субъектах РФ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/14/ne-potiagivatsia-ne-zevat-pokhodku-imet-rovnuiu
+**Читайте также:** [https://novayagazeta.ru/articles/2021/12/14/ne-potiagivatsia-ne-zevat-pokhodku-imet-rovnuiu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/12/14/ne-potiagivatsia-ne-zevat-pokhodku-imet-rovnuiu)
 
 #### *внесен Минюстом РФ в реестр НКО, выполняющих функции иностранного агента

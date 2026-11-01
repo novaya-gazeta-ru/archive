@@ -33,10 +33,10 @@ tags: "павлов, дело сафронова, сафронов иван, г�
 >
 > 17:20 мск. Следователь Александр Чабан принял все ходатайства адвокатов журналиста Ивана Сафронова, но отказался ставить подпись о принятии документов, [сообщил](https://t.me/kanalsobakipavlova/636) адвокат Иван Павлов*.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/10/glukhaia-zashchita
+**Читайте также:** [Глухая защита](2022/02/10/glukhaia-zashchita.md)
 
-Накануне первый апелляционный суд общей юрисдикции отклонил жалобу защиты на продление ареста журналиста. В декабре прошлого года Мосгорсуд [продлил](https://novayagazeta.ru/articles/2021/12/27/mosgorsud-prodlil-arest-zhurnalistu-ivanu-safronovu-do-7-aprelia-news) Сафронову содержание под стражей до 7 апреля.
+Накануне первый апелляционный суд общей юрисдикции отклонил жалобу защиты на продление ареста журналиста. В декабре прошлого года Мосгорсуд [продлил](2021/12/27/mosgorsud-prodlil-arest-zhurnalistu-ivanu-safronovu-do-7-aprelia-news.md) Сафронову содержание под стражей до 7 апреля.
 
-В январе 2022 суд [ограничил](https://novayagazeta.ru/articles/2022/01/26/sud-ogranichil-ivana-safronova-i-ego-advokatov-v-srokakh-oznakomleniia-s-delom-oni-dolzhny-izuchit-materialy-do-11-fevralia-news) Сафронова и его адвокатов в сроках ознакомления с материалами дела до 14 дней. При этом в деле 10 тысяч страниц текста, а также 40 компакт-дисков, 4 флеш-карты, распечатки материалов иностранных СМИ, распечатка электронной книги, два сотовых телефона, жесткий диск и т.д. Жалобу защиты на такое решение суд также [отклонил](https://novayagazeta.ru/articles/2022/02/02/sud-otklonil-zhalobu-zashchity-zhurnalista-safronova-na-sledstvie-zapreshchaiushchee-advokatam-delat-vypiski-iz-ugolovnogo-dela-news).
+В январе 2022 суд [ограничил](2022/01/26/sud-ogranichil-ivana-safronova-i-ego-advokatov-v-srokakh-oznakomleniia-s-delom-oni-dolzhny-izuchit-materialy-do-11-fevra.md) Сафронова и его адвокатов в сроках ознакомления с материалами дела до 14 дней. При этом в деле 10 тысяч страниц текста, а также 40 компакт-дисков, 4 флеш-карты, распечатки материалов иностранных СМИ, распечатка электронной книги, два сотовых телефона, жесткий диск и т.д. Жалобу защиты на такое решение суд также [отклонил](2022/02/02/sud-otklonil-zhalobu-zashchity-zhurnalista-safronova-na-sledstvie-zapreshchaiushchee-advokatam-delat-vypiski-iz-ugolovno.md).
 
 #### **внесен Минюстом в реестр СМИ, выполняющих функцию «иностранного агента»*

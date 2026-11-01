@@ -13,9 +13,9 @@ tags: "крым, сенцов"
 
 # Алексей Герман-младший, кинорежиссер:
 
-**link:** https://novayagazeta.ru/arts/68220.html
+**link:** [https://novayagazeta.ru/arts/68220.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/68220.html)
 
-**link:** https://novayagazeta.ru/arts/68220.html
+**link:** [https://novayagazeta.ru/arts/68220.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/68220.html)
 
 # Андрей Плахов, кинокритик:
 

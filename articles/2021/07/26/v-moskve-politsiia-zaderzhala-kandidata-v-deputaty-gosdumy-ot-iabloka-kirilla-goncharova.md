@@ -29,4 +29,4 @@ tags: "госдума, кандидаты, яблоко, задержания, �
 
 По данным «ОВД-Инфо», полиция также [задержала](https://ovdinfo.org/express-news/2021/07/26/v-moskve-zaderzhali-kandidata-v-gosdumu-ot-yabloka-kirilla-goncharova-i-dvuh) двух волонтеров предвыборного штаба Гончарова Ивана Дорофеева и Антона Сурина. «МБХ медиа» пишет, что кандидату в Госдуму [вменяют](https://mbk-news.appspot.com/news/policeiskis/) неповиновение сотрудникам полиции (19.3 КоАП).
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/04/plius-litvinovich-minus-iavlinskii
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/04/plius-litvinovich-minus-iavlinskii](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/04/plius-litvinovich-minus-iavlinskii)

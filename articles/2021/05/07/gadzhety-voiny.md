@@ -35,7 +35,7 @@ tags: "вторая мировая война, наука, изобретени�
 
 *Фото: warhistoryonline.com*
 
-Много лет спустя журналисты нашей газеты [пережили](https://novayagazeta.ru/articles/2021/03/17/nadeemsia-rassledovanie-budet-provedeno-kreml-o-khimatake-v-redaktsii-novoi-gazety) подобную атаку в мирное время — с известной долей иронии можно назвать этот инцидент «эхом Второй мировой войны».
+Много лет спустя журналисты нашей газеты [пережили](2021/03/17/nadeemsia-rassledovanie-budet-provedeno-kreml-o-khimatake-v-redaktsii-novoi-gazety.md) подобную атаку в мирное время — с известной долей иронии можно назвать этот инцидент «эхом Второй мировой войны».
 
 ![](_assets/e5/e516735f3839f79bd724dd0e2788b8e1.webp)
 

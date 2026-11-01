@@ -19,6 +19,6 @@ tags: ""
 
 **youtube:** https://youtu.be/PNNrJtlTWdo?si=IgKVWeuvMGqlJddD
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/24/futbol-kak-religiia
+**Читайте также:** [Футбол как религия](2026/06/24/futbol-kak-religiia.md)
 
 #### * Внесен властями РФ в реестр «иноагентов»

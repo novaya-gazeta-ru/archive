@@ -29,6 +29,6 @@ tags: ""
 
 > «Американские партнеры нам передали, что Путин пригласил меня в Москву. Я считаю, что если хочешь, чтобы встречи не было, нужно пригласить меня в Москву».
 
-Саммит лидеров стран-участниц коалиции желающих вчера сформулировал контуры гарантий безопасности, но во время согласования их с Трампом по видеозвонку [возникли «сложности»](https://novayagazeta.ru/articles/2025/09/04/itogi-sammita-v-parizhe-makron-zaveril-chto-26-stran-gotovy-k-razvertyvaniiu-sil-uverennosti-v-ukraine-a-tramp-prizval-evropeitsev-nadavit-na-kitai-news). Тот вновь уклонялся от прямых ответов на позицию США, высказав европейцам свои требования: прекратить закупать природные ресурсы у России и надавить на Китай, главного торгового партнера Кремля.
+Саммит лидеров стран-участниц коалиции желающих вчера сформулировал контуры гарантий безопасности, но во время согласования их с Трампом по видеозвонку [возникли «сложности»](2025/09/04/itogi-sammita-v-parizhe-makron-zaveril-chto-26-stran-gotovy-k-razvertyvaniiu-sil-uverennosti-v-ukraine-a-tramp-prizval-e.md). Тот вновь уклонялся от прямых ответов на позицию США, высказав европейцам свои требования: прекратить закупать природные ресурсы у России и надавить на Китай, главного торгового партнера Кремля.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/09/04/itogi-sammita-v-parizhe-makron-zaveril-chto-26-stran-gotovy-k-razvertyvaniiu-sil-uverennosti-v-ukraine-a-tramp-prizval-evropeitsev-nadavit-na-kitai-news
+**Читайте также:** [Итоги саммита в Париже: Макрон заявил, что 26 стран готовы к развертыванию «сил уверенности» в Украине, а Трамп призвал европейцев «надавить на Китай»](2025/09/04/itogi-sammita-v-parizhe-makron-zaveril-chto-26-stran-gotovy-k-razvertyvaniiu-sil-uverennosti-v-ukraine-a-tramp-prizval-e.md)

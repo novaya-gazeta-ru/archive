@@ -31,8 +31,8 @@ tags: "хабаровск, солидарность, омск, em"
 
 *Фото: Георгий Бородянский / «Новая газета»*
 
-Протесты в Хабаровске из-за ареста экс-главы Хабаровского края Сергея Фургала [идут](https://novayagazeta.ru/news/2020/08/01/163441-zhiteli-habarovska-snova-vyshli-na-aktsiyu-v-podderzhku-arestovannogo-eks-gubernatora-furgala-protesty-idut-uzhe-22-y-den) уже более трех недель. Ему вменяют организацию убийств бизнесменов в 2004-2005 годах, сейчас он находится в московском СИЗО «Лефортово».
+Протесты в Хабаровске из-за ареста экс-главы Хабаровского края Сергея Фургала [идут](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/08/01/163441-zhiteli-habarovska-snova-vyshli-na-aktsiyu-v-podderzhku-arestovannogo-eks-gubernatora-furgala-protesty-idut-uzhe-22-y-den) уже более трех недель. Ему вменяют организацию убийств бизнесменов в 2004-2005 годах, сейчас он находится в московском СИЗО «Лефортово».
 
 Врио главы Хабаровского края назначили Михаила Дегтярева, который до этого был депутатом Госдумы от ЛДПР. Протестующие выступили против его назначения.
 
-**link:** https://novayagazeta.ru/articles/2020/08/01/86482-prosypaytes-goroda-s-nashey-rodinoy-beda
+**link:** [«Просыпайтесь, города, с нашей родиной беда»](2020/08/01/86482-prosypaytes-goroda-s-nashey-rodinoy-beda.md)

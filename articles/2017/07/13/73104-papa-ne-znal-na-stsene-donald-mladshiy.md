@@ -69,7 +69,7 @@ tags: "выборы, агаларов, компромат, утечки, ска�
 
 Трамп-младший заявил, что он не сообщал отцу о встрече. Трамп-старший назвал решение сына раскрыть переписку и дать подробные объяснения в интервью каналу Fox News «хорошей работой». Замечу, это произошло после публикации об этой встрече в «Нью-Йорк таймс». Трамп написал в твиттере: «Он (*сын. —* **А.П.**) был открытым, прозрачным и невинным. Это величайшая охота на ведьм в политической истории. Грустно!» Дональд-младший стал «жертвой фальшивых новостей», утверждает Дональд-старший.
 
-**link:** https://novayagazeta.ru/news/2017/07/12/133403-vladelets-crocus-group-otverg-peredachu-synu-trampu-kompromata-na-klinton
+**link:** [https://novayagazeta.ru/news/2017/07/12/133403-vladelets-crocus-group-otverg-peredachu-synu-trampu-kompromata-na-klinton](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/07/12/133403-vladelets-crocus-group-otverg-peredachu-synu-trampu-kompromata-na-klinton)
 
 > В сухом остатке никакого компромата на Хиллари представлено не было.
 

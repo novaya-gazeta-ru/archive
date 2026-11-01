@@ -133,4 +133,4 @@ tags: "овечкин, гретцки, хоккей, рекорд"
 
 > Этот текст вышел во [втором](http://t.me/LLCNewSalesBot/Catalog)номере журнала «Новое обозрение».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/07/rekord-iz-ofisa
+**Читайте также:** [Рекорд из «офиса»](2025/04/07/rekord-iz-ofisa.md)

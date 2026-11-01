@@ -19,4 +19,4 @@ tags: "беларусь, минск, бондаренко роман"
 
 «Я выхожу» — такими были последние слова и самого Ромы Бондаренко, которые он написал в чате своего двора. Домой он уже не вернулся.
 
-**link:** https://novayagazeta.ru/articles/2020/11/16/87976-seychas-ty-uvidish-karateley-eto-ublyudki
+**link:** [«Сейчас ты увидишь карателей, это — ублюдки»](2020/11/16/87976-seychas-ty-uvidish-karateley-eto-ublyudki.md)

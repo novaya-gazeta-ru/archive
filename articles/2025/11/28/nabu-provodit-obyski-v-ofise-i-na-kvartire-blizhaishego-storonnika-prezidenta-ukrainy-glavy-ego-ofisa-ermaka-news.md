@@ -21,7 +21,7 @@ tags: ""
 
 «Ни один здравомыслящий человек сегодня не подпишет документ об отказе от территорий», [говорит](https://www.theatlantic.com/national-security/2025/11/ukraine-zelensky-russia-trump-peace-land-red-line/685090/) там Ермак. Разменивать территории Донбасса на дипломатическое урегулирование прямо запрещает и конституция страны, говорит Ермак.
 
-Вывод украинских войск из Донбасса является российским условием прекращения военных действий, о чем [заявил вчера](https://novayagazeta.ru/articles/2025/11/27/putin-rossii-nuzhno-priznanie-budushchikh-uslovii-mirnogo-soglasheniia-mirovymi-igrokami-a-ne-ukrainskimi-vlastiami-kievu-putin-prigrozil-razvalom-fronta-news) Владимир Путин.
+Вывод украинских войск из Донбасса является российским условием прекращения военных действий, о чем [заявил вчера](2025/11/27/putin-rossii-nuzhno-priznanie-budushchikh-uslovii-mirnogo-soglasheniia-mirovymi-igrokami-a-ne-ukrainskimi-vlastiami-kiev.md) Владимир Путин.
 
 Украинские власти и администрация Зеленского сейчас проходят испытание на прочность.
 

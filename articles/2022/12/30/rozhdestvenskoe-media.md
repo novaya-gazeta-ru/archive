@@ -13,4 +13,4 @@ tags: ""
 
 *«Господь, Господь, не проявляй! Открытья слишком участились...»*
 
-https://novayagazeta.ru/articles/2022/12/30/rozhdestvenskoe
+[Рождественское](2022/12/30/rozhdestvenskoe.md)

@@ -15,7 +15,7 @@ tags: "оскорбление чувств верующих, чувства ве
 
 «Я извиняюсь, что сделала такие фотографии, оскорбив тем самым чувства верующих людей. <…> Заигралась немножко в инстаблогера. Делала фотографии без ума. Над всем уже подумала. Всё будет удалено и больше такого не будет», — сказала девушка на заседании.
 
-Девушку [задержали](https://novayagazeta.ru/articles/2021/10/30/smi-v-peterburge-zaderzhali-devushku-kotoraia-predpolozhitelno-obnazhila-iagoditsy-dlia-foto-na-fone-isaakievskogo-sobora-news#) накануне. Она обвиняется в совершении публичных действий, оскорбляющих религиозные чувства верующих (ч. 1 ст. 148 УК). Ей грозит до года лишения свободы.
+Девушку [задержали](2021/10/30/smi-v-peterburge-zaderzhali-devushku-kotoraia-predpolozhitelno-obnazhila-iagoditsy-dlia-foto-na-fone-isaakievskogo-sobor.md) накануне. Она обвиняется в совершении публичных действий, оскорбляющих религиозные чувства верующих (ч. 1 ст. 148 УК). Ей грозит до года лишения свободы.
 
 ![](_assets/74/74514cf07dc389b500d8dfe7ecbc6478.webp)
 
@@ -23,10 +23,10 @@ tags: "оскорбление чувств верующих, чувства ве
 
 В пресс-службе Исаакиевского собора[прокомментировали](https://www.spb.kp.ru/online/news/4497946/), что не имеют отношения к инциденту. «Мы не можем управлять <..> тем, что происходит за пределами Исаакиевского собора! Мы музей! <…> Пусть этим вопросом занимаются компетентные службы», — сказали в музее.
 
-29 октября за фото с имитацией орального секса на фоне храма Василия Блаженного к 10 месяцам лишения свободы [приговорили](https://novayagazeta.ru/articles/2021/10/29/v-moskve-sud-prigovoril-parnia-s-devushkoi-k-10-mesiatsam-kolonii-za-foto-s-imitatsiei-oralnogo-seksa-na-fone-khrama-vasiliia-blazhennogo-news) блогера из Таджикистана Руслана Бобиева и его подругу Анастасию Чистову.
+29 октября за фото с имитацией орального секса на фоне храма Василия Блаженного к 10 месяцам лишения свободы [приговорили](2021/10/29/v-moskve-sud-prigovoril-parnia-s-devushkoi-k-10-mesiatsam-kolonii-za-foto-s-imitatsiei-oralnogo-seksa-na-fone-khrama-vas.md) блогера из Таджикистана Руслана Бобиева и его подругу Анастасию Чистову.
 
-На прошлой неделе СК[возбудил](https://novayagazeta.ru/articles/2021/10/23/sk-vozbudil-ugolovnoe-delo-ob-oskorblenii-chuvstv-veruiushchikh-na-vebkam-model-ogolivshuiu-grud-na-fone-khrama-vasiliia-blazhennogo-news) уголовное дело об оскорблении чувств верующих на вебкам-модель Лолиту Богданову, оголившую грудь на фоне храма Василия Блаженного. Ей избрали меру пресечения в виде подписки о невыезде.
+На прошлой неделе СК[возбудил](2021/10/23/sk-vozbudil-ugolovnoe-delo-ob-oskorblenii-chuvstv-veruiushchikh-na-vebkam-model-ogolivshuiu-grud-na-fone-khrama-vasiliia.md) уголовное дело об оскорблении чувств верующих на вебкам-модель Лолиту Богданову, оголившую грудь на фоне храма Василия Блаженного. Ей избрали меру пресечения в виде подписки о невыезде.
 
 \
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/30/chuvstvo-mundira
+**Читайте также:** [Чувство мундира](2021/10/30/chuvstvo-mundira.md)

@@ -35,9 +35,9 @@ tags: "митинги, новосибирск, рпц, тангейзер, це�
 \
  Общественный активист Стас Захаркин, открывая акцию, сообщил собравшимся: «Прямо сейчас, в солидарность с нами, наши сограждане стоят еще на двух площадях — на Марсовом поле в Санкт-Петербурге и на площади Ленина в Иркутске. Прямо сейчас актеры Московского Театра.doc, в знак солидарности с нами, читают стихи русских классиков, запрещенных в свое время православной церковью».
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/arts/67959.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/04/06/1428311770_039210_12.png" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/arts/67959.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/arts/67959.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/04/06/1428311770_039210_12.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/04/06/1428311770_039210_12.png)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/arts/67959.html" target="_blank"><strong>«Тангейзера» поддержали Пушкиным и Ахматовой.&nbsp;В знак солидарности с Новосибирском гости Театра.Doc прочитали запрещенные цензурой произведения классиков</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/arts/67959.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/arts/67959.html)" target="_blank"><strong>«Тангейзера» поддержали Пушкиным и Ахматовой.&nbsp;В знак солидарности с Новосибирском гости Театра.Doc прочитали запрещенные цензурой произведения классиков</strong></a></p>]*
 
 Невдалеке от сцены стояли лидер партии «Яблоко» Сергей Митрохин, бывший вице-мэр Новосибирска и сенатор Иван Стариков.  Политики выступать не стали, уступив микрофон философам и творческим личностям.
 
@@ -63,9 +63,9 @@ tags: "митинги, новосибирск, рпц, тангейзер, це�
 
 К митингующим обратились на видео мастера культуры и критики, известные всей России. Андрей Звягинцев дал мудрое определение «долга зрителя»: «быть свободным и понимать, что он имеет право услышать то, что хочет услышать». «Птица может петь только там, где нет удушья и чистая вода», — в свою очередь заметил театральный режиссер Кирилл Серебрянников.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/arts/67938.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/04/04/1428166485_156191_54.png" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/arts/67938.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/arts/67938.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/04/04/1428166485_156191_54.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/04/04/1428166485_156191_54.png)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/arts/67938.html" target="_blank"><strong>В опере прозвучала партия жуликов и воров. Настоящий скандал случился не до, а после зачистки в новосибирском театре</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/arts/67938.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/arts/67938.html)" target="_blank"><strong>В опере прозвучала партия жуликов и воров. Настоящий скандал случился не до, а после зачистки в новосибирском театре</strong></a></p>]*
 
 Главный редактор журнала «Театр» Марина Давыдова назвала историю с «Тангейзером» «провинциальной»: «Могли уничтожить рядовой спектакль, а сняли — выдающийся». Один из создателей  «Диссернета» Сергей Пархоменко напомнил, что министр Мединский, создавая свою диссертацию, поступил проще, чем Тимофей Кулябин с оперой Вагнера: позаимствованные тексты сильно менять не стал.
 

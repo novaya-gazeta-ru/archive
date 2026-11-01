@@ -13,7 +13,7 @@ tags: "дипломатия, g20, путин, трамп, сша"
 
 *Видео с саммита G20 в Гамбурге*
 
-**link:** https://novayagazeta.ru/articles/2017/07/08/73055-peregovory-na-linii-fronta
+**link:** [Переговоры на «линии фронта»](2017/07/08/73055-peregovory-na-linii-fronta.md)
 
 > **обновлено<br>
 &nbsp;**

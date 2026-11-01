@@ -19,7 +19,7 @@ tags: "каннский кинофестиваль, золотая пальмо�
 >
 > Картина 37-летней Дюкорно это боди-хоррор о девушке, которая занимается сексом с машинами и убивает людей. При этом сюжет фильма не раскрывался до премьеры. «Новая газета» писала об этой картине.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/15/porokhovoi-vzryv-v-kannakh
+**Читайте также:** [Пороховой взрыв в Каннах](2021/07/15/porokhovoi-vzryv-v-kannakh.md)
 
 > **лучший режиссер**
 >
@@ -41,6 +41,6 @@ tags: "каннский кинофестиваль, золотая пальмо�
 >
 > Финская картина **«Купе №6» Юхо Куосманена **о финской студентке и русском шахтере в поезде Москва-Мурманск**,** снятая при поддержке Минкульта России, и **«Герой» иранца Асгара Фархади **удостоились Гран-при.
 
-Днем ранее ученица Александра Сокурова **Кира Коваленко **[стала](https://novayagazeta.ru/articles/2021/07/16/rossiiskii-rezhisser-kira-kovalenko-poluchila-gran-pri-programmy-osobyi-vzgliad-kannskogo-kinofestivalia) обладательницей **главного приза программы «Особый взгляд» **Каннского кинофестиваля за кинокартину **«Разжимая кулаки» **о девушке Аде (Милана Агузарова) из небольшого городка Северной Осетии.
+Днем ранее ученица Александра Сокурова **Кира Коваленко **[стала](2021/07/16/rossiiskii-rezhisser-kira-kovalenko-poluchila-gran-pri-programmy-osobyi-vzgliad-kannskogo-kinofestivalia.md) обладательницей **главного приза программы «Особый взгляд» **Каннского кинофестиваля за кинокартину **«Разжимая кулаки» **о девушке Аде (Милана Агузарова) из небольшого городка Северной Осетии.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/10/kira-kovalenko-sviazannye-nadezhnoi-tsepiu-my-ne-umeem-razgovarivat-drug-s-drugom
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/10/kira-kovalenko-sviazannye-nadezhnoi-tsepiu-my-ne-umeem-razgovarivat-drug-s-drugom](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/10/kira-kovalenko-sviazannye-nadezhnoi-tsepiu-my-ne-umeem-razgovarivat-drug-s-drugom)

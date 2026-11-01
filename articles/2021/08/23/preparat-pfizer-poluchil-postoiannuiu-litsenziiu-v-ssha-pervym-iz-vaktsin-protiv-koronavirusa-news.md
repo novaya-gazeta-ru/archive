@@ -20,4 +20,4 @@ tags: "вакцина, сша, COVID-19, da"
 Постоянное разрешение на использование вакцины Pfizer [позволит](https://www.bbc.com/russian/news-58310432?ocid=wsrussian.social.in-app-messaging.telegram..russiantelegram_.edit) работодателям в США вводить обязательную вакцинацию сотрудников.\
  Вопрос о регистрации в России препарата Pfizer пока [находится](https://www.rbc.ru/rbcfreenews/60e53cf69a794761a98a9182) на рассмотрении.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/27/tsena-nedoveriia
+**Читайте также:** [Цена недоверия](2021/06/27/tsena-nedoveriia.md)

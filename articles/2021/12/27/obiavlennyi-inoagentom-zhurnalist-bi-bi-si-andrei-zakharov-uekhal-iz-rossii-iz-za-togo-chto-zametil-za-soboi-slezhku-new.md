@@ -19,7 +19,7 @@ tags: "иноагенты, слежка, лондон, em"
 
 «Пока непонятно, с чем была связана слежка — с тем, что меня признали «иноагентом» или, возможно, с материалом про хакеров из группы Evil Corp, который я делал вместе с британскими коллегами», — сказал Захаров. «Новой газете» он уточнил, что слежку за собой он заметил после своего внесения в реестр «иноагентов». Сейчас Захаров в Лондоне.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany
+**Читайте также:** [https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany)
 
 Минюст РФ [внес](https://minjust.gov.ru/ru/documents/7755/) Захарова в реестр СМИ-«иноагентов» 8 октября. Сейчас в списке 103 пункта — это физлица и созданные ими для отчетности ООО, а также СМИ.
 

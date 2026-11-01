@@ -19,4 +19,4 @@ tags: ""
 
 Предыдущий обмен телами погибших в ходе военных действий с российской и украинской сторон [состоялся](https://t.me/novaya_pishet/48077) 8 ноября. Тогда Россия передала Украине тела 563 погибших, в Россию вернулись тела 37 военных.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/28/ombudsmen-lvova-belova-rossiia-pri-posrednichestve-katara-i-krasnogo-kresta-otdala-7-detei-ukrainskim-rodstvennikam-news
+**Читайте также:** [Омбудсмен Львова-Белова: Россия при посредничестве Катара и Красного Креста отдала 7 детей украинским родственникам](2024/11/28/ombudsmen-lvova-belova-rossiia-pri-posrednichestve-katara-i-krasnogo-kresta-otdala-7-detei-ukrainskim-rodstvennikam-news.md)

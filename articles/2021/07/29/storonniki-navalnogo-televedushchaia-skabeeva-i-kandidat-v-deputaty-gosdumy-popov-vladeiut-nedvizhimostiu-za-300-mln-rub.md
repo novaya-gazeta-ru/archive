@@ -29,6 +29,6 @@ tags: "недвижимость, пропаганда, россия, sn"
 
 \
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/05/13/poroki-v-svoem-otechestve
+**Читайте также:** [https://novayagazeta.ru/articles/2021/05/13/poroki-v-svoem-otechestve](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/05/13/poroki-v-svoem-otechestve)
 
 #### *Включено Минюстом в перечень СМИ, выполняющих функцию иностранного агента

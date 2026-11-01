@@ -37,4 +37,4 @@ tags: ""
 
 Александр Б. книгу не распаковал и не планирует.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/26/vyzyvaet-nekontroliruemye-assotsiatsii
+**Читайте также:** [«Вызывает неконтролируемые ассоциации»](2024/11/26/vyzyvaet-nekontroliruemye-assotsiatsii.md)

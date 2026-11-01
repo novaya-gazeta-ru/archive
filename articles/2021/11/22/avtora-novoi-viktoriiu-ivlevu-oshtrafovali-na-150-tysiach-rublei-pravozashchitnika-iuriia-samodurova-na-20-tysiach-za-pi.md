@@ -35,13 +35,13 @@ tags: "ивлева, самодуров, штраф, суд, пикет, kn"
 
 11 ноября Генпрокуратура России обратилась в Верховный суд РФ с требованием ликвидировать общество «Мемориал», а также подразделения организации. В качестве причины ведомство указало отсутствие «иноагентской» маркировки у материалов организации.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/18/prizyvaem-prokuraturu-otozvat-iski-protiv-memoriala
+**Читайте также:** [«Призываем прокуратуру отозвать иски против "Мемориала"»](2021/11/18/prizyvaem-prokuraturu-otozvat-iski-protiv-memoriala.md)
 
-К правозащитному центру возникли претензии и у московской прокуратуры: ее представители [нашли](https://novayagazeta.ru/articles/2021/11/12/prokuratura-moskvy-nashla-v-deiatelnosti-pts-memorial-psikhologicheskie-priznaki-opravdaniia-terroristicheskikh-organizatsii-news) в деятельности ПЦ «Мемориал» «психологические и лингвистические признаки» оправдания террористических организаций. При этом у «экспертов», проводивших «психолого-лингвистическое исследование» по «Мемориалу», — Натальи Крюковой и Александра Тарасова — нет ни профильного образования, ни научных публикаций по теме. «Новая газета»[обнаружила](https://novayagazeta.ru/articles/2021/11/19/podvesti-pod-likvidatsiiu), что в каждом новом уголовном деле они выступают в роли «экспертов» в разных областях — как сексологи, религиоведы и антропологи.
+К правозащитному центру возникли претензии и у московской прокуратуры: ее представители [нашли](2021/11/12/prokuratura-moskvy-nashla-v-deiatelnosti-pts-memorial-psikhologicheskie-priznaki-opravdaniia-terroristicheskikh-organiza.md) в деятельности ПЦ «Мемориал» «психологические и лингвистические признаки» оправдания террористических организаций. При этом у «экспертов», проводивших «психолого-лингвистическое исследование» по «Мемориалу», — Натальи Крюковой и Александра Тарасова — нет ни профильного образования, ни научных публикаций по теме. «Новая газета»[обнаружила](2021/11/19/podvesti-pod-likvidatsiiu.md), что в каждом новом уголовном деле они выступают в роли «экспертов» в разных областях — как сексологи, религиоведы и антропологи.
 
-В «Мемориале» [назвали](https://memohrc.org/ru/news_old/generalnaya-prokuratura-podala-isk-o-likvidacii-mezhdunarodnogo-memoriala) требование Генпрокуратуры «политическим решением об уничтожении». Организацию [поддержали](https://novayagazeta.ru/articles/2021/11/15/v-podderzhku-memoriala-vystupili-bolee-100-pravozashchitnikov-i-deiatelei-iskusstva-a-takzhe-60-chlenov-ran-news) более 100 правозащитников и деятелей искусства, а также 60 членов Российской академии наук и [нобелевские лауреаты](https://novayagazeta.ru/articles/2021/11/18/prizyvaem-prokuraturu-otozvat-iski-protiv-memoriala) Михаил Горбачев и Дмитрий Муратов.
+В «Мемориале» [назвали](https://memohrc.org/ru/news_old/generalnaya-prokuratura-podala-isk-o-likvidacii-mezhdunarodnogo-memoriala) требование Генпрокуратуры «политическим решением об уничтожении». Организацию [поддержали](2021/11/15/v-podderzhku-memoriala-vystupili-bolee-100-pravozashchitnikov-i-deiatelei-iskusstva-a-takzhe-60-chlenov-ran-news.md) более 100 правозащитников и деятелей искусства, а также 60 членов Российской академии наук и [нобелевские лауреаты](2021/11/18/prizyvaem-prokuraturu-otozvat-iski-protiv-memoriala.md) Михаил Горбачев и Дмитрий Муратов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/19/podvesti-pod-likvidatsiiu
+**Читайте также:** [Подвести под ликвидацию](2021/11/19/podvesti-pod-likvidatsiiu.md)
 
 #### Внесены Минюстом РФ в реестр НКО-«иноагентов»* **
 

@@ -157,7 +157,7 @@ tags: ""
 
 Следующий отчет — через месяц.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/21/kiev-shpionu-a-chto-tam-na-mongolskoi-granitse
+**Читайте также:** [Киев — шпиону: а что там на монгольской границе?](2025/06/21/kiev-shpionu-a-chto-tam-na-mongolskoi-granitse.md)
 
 #### * Власти РФ считают экстремистской организацией, чья деятельность в России запрещена.
 

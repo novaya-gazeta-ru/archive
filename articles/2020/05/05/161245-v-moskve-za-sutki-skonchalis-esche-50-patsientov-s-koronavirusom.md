@@ -15,6 +15,6 @@ tags: "статистика, москва, коронавирус, va"
 
 По стране же, с учетом этих данных, с начала вспышки зафиксировали больше 1500 летальных исходов. Число активных случаев, по [последним данным](https://xn--80aesfpebagmfblc0a.xn--p1ai/information/) штаба правительства, достигло 134 тысяч.
 
-Накануне в Москве также [фиксировали](https://novayagazeta.ru/news/2020/05/04/161225-v-moskve-za-sutki-skonchalis-52-cheloveka-s-podtverzhdennym-koronavirusom) смерть у более 50 пациентов с коронавирусом — в первые же дни мая прирост погибших [составлял](https://novayagazeta.ru/news/2020/05/04/161210-v-moskve-umerli-esche-35-patsientov-s-koronavirusom) 30-40 случаев. При этом в конце апреля, 28-го и 29-го числа, в московских стационарах [умерли](https://novayagazeta.ru/news/2020/04/28/161094-v-moskve-za-sutki-umerli-esche-67-chelovek-s-koronavirusom) рекордные 67 и 65 человек соответственно.
+Накануне в Москве также [фиксировали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/05/04/161225-v-moskve-za-sutki-skonchalis-52-cheloveka-s-podtverzhdennym-koronavirusom) смерть у более 50 пациентов с коронавирусом — в первые же дни мая прирост погибших [составлял](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/05/04/161210-v-moskve-umerli-esche-35-patsientov-s-koronavirusom) 30-40 случаев. При этом в конце апреля, 28-го и 29-го числа, в московских стационарах [умерли](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/04/28/161094-v-moskve-za-sutki-umerli-esche-67-chelovek-s-koronavirusom) рекордные 67 и 65 человек соответственно.
 
-**link:** https://novayagazeta.ru/articles/2020/05/04/85214-kak-zarazhalas-moskva
+**link:** [Как заражалась Москва](2020/05/04/85214-kak-zarazhalas-moskva.md)

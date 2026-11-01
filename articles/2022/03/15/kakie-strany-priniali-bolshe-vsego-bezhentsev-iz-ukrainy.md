@@ -13,4 +13,4 @@ tags: ""
 
 *Инфографика «Новой»*
 
-https://novayagazeta.ru/svg/238c3c216c5c4db790e6a368b5802fbb.svg
+[https://novayagazeta.ru/svg/238c3c216c5c4db790e6a368b5802fbb.svg](https://web.archive.org/web/*/https://novayagazeta.ru/svg/238c3c216c5c4db790e6a368b5802fbb.svg)

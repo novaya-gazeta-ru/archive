@@ -30,4 +30,4 @@ tags: "проект разные, семья, лгбт, толерантност
  **Ведущая**: Наталья Жданова\
  **Авторы и продюсеры проекта**: Юлия Счастливцева и Павел Каныгин
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/04/23/prosto-u-menia-dve-mamy
+**Читайте также:** [https://novayagazeta.ru/articles/2021/04/23/prosto-u-menia-dve-mamy](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/04/23/prosto-u-menia-dve-mamy)

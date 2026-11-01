@@ -19,6 +19,6 @@ tags: "коронавирус, смерти, sf"
 
 Во всем мире число заразившихся коронавирусом уже превысило 181 млн, [свидетельствуют](https://coronavirus.jhu.edu/map.html) данные американского университета Джонса Хопкинса. Россия находится на шестом месте по числу заболевших после США (более 33,6 млн случаев), Индии (более 30,3 млн) , Бразилии (18,4 млн), Франции (5,8 млн) и Турции (5,4 млн).
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/28/vypusknoi-chuma
+**Читайте также:** [Выпускной — чума!](2021/06/28/vypusknoi-chuma.md)
 
-С 28 июня в Москве и Подмосковье попасть в заведения общепита [могут](https://novayagazeta.ru/articles/2021/06/23/vlasti-podmoskovia-vsled-za-moskvoi-zapretili-nevaktsinirovannym-grazhdanam-poseshchat-restorany-i-bary-bez-ptsr-testa) только посетители, «имеющие защиту от заболевания»: те, кто сделал прививку, недавно переболел или сделал ПЦР-тест в течение последних трех дней. При этом стало известно, что мошенники [начали](https://novayagazeta.ru/articles/2021/06/29/v-internete-nachali-prodavat-poddelnye-qr-kody-dlia-poseshcheniia-kafe-i-restoranov-v-moskve) продавать в интернете поддельные QR-коды для посещения кафе и ресторанов в Москве.
+С 28 июня в Москве и Подмосковье попасть в заведения общепита [могут](2021/06/23/vlasti-podmoskovia-vsled-za-moskvoi-zapretili-nevaktsinirovannym-grazhdanam-poseshchat-restorany-i-bary-bez-ptsr-testa.md) только посетители, «имеющие защиту от заболевания»: те, кто сделал прививку, недавно переболел или сделал ПЦР-тест в течение последних трех дней. При этом стало известно, что мошенники [начали](2021/06/29/v-internete-nachali-prodavat-poddelnye-qr-kody-dlia-poseshcheniia-kafe-i-restoranov-v-moskve.md) продавать в интернете поддельные QR-коды для посещения кафе и ресторанов в Москве.

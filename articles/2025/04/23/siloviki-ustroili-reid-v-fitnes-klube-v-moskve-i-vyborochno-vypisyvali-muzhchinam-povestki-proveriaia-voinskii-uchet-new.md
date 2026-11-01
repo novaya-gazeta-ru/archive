@@ -21,8 +21,8 @@ tags: ""
 
 Сотрудники фитнес-клуба сказал, что им было известно о проверке, но не о конкретном дне ее проведения.
 
-Силовики в последнее время регулярно устраивают подобные рейды. Ранее в апреле они пришли в московскую баню, принадлежащую предпринимателю из Кыргызстана. По версии провластных СМИ, причиной стали слухи, что в баню «не пускали русских». Силовики проводили рейд [более пяти часов](https://novayagazeta.ru/articles/2025/04/14/vlasti-kirgizii-potrebovali-obiasnit-gruboe-zaderzhanie-svoikh-grazhdan-v-moskovskoi-bane-news): присутствующих грубо уложили лицом в пол, заставляли передвигаться на коленях и избивали. По данным СМИ, были задержаны до 40 человек.
+Силовики в последнее время регулярно устраивают подобные рейды. Ранее в апреле они пришли в московскую баню, принадлежащую предпринимателю из Кыргызстана. По версии провластных СМИ, причиной стали слухи, что в баню «не пускали русских». Силовики проводили рейд [более пяти часов](2025/04/14/vlasti-kirgizii-potrebovali-obiasnit-gruboe-zaderzhanie-svoikh-grazhdan-v-moskovskoi-bane-news.md): присутствующих грубо уложили лицом в пол, заставляли передвигаться на коленях и избивали. По данным СМИ, были задержаны до 40 человек.
 
-В конце марта силовики устроили рейд [в еще одном фитнесс-клубе в Москве](https://novayagazeta.ru/articles/2025/03/31/siloviki-ustroili-oblavu-na-prizyvnikov-v-odnom-iz-fitnes-klubov-moskvy-news) — Spirit Fitness. Там тоже мужчин поделили по этническому признаку и раздавали повестки.
+В конце марта силовики устроили рейд [в еще одном фитнесс-клубе в Москве](2025/03/31/siloviki-ustroili-oblavu-na-prizyvnikov-v-odnom-iz-fitnes-klubov-moskvy-news.md) — Spirit Fitness. Там тоже мужчин поделили по этническому признаку и раздавали повестки.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/22/v-tatarstane-siloviki-vpervye-ustroili-reidy-po-klubam-edinoborstv-sportsmenam-na-meste-vypisyvali-povestki-news
+**Читайте также:** [В Татарстане силовики впервые устроили рейды по клубам единоборств. Спортсменам на месте выписывали повестки](2025/02/22/v-tatarstane-siloviki-vpervye-ustroili-reidy-po-klubam-edinoborstv-sportsmenam-na-meste-vypisyvali-povestki-news.md)

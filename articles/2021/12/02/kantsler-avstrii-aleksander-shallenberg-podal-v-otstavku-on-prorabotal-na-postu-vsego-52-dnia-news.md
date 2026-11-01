@@ -17,7 +17,7 @@ tags: "австрия, канцлер, шалленберг, отставка, k
 
 *Александер Шалленберг. Фото: Creative commons*
 
-Однопартиец Шалленберга по Австрийской народной партии (АНП) Курц[ушел](https://novayagazeta.ru/articles/2021/10/09/kantsler-avstrii-sebastian-kurts-ushel-v-otstavku-na-fone-korruptsionnogo-skandala-novym-kantslerom-stanet-glava-mid-shallenberg-news) в отставку 9 октября после коррупционного скандала, связанного с манипулированием общественным мнением.
+Однопартиец Шалленберга по Австрийской народной партии (АНП) Курц[ушел](2021/10/09/kantsler-avstrii-sebastian-kurts-ushel-v-otstavku-na-fone-korruptsionnogo-skandala-novym-kantslerom-stanet-glava-mid-sha.md) в отставку 9 октября после коррупционного скандала, связанного с манипулированием общественным мнением.
 
 Сперва Шалленберг, тогда — глава МИД, занял его место как и.о., а 11 ноября был утвержден в должности. Таким образом, его срок во главе правительства Австрии стал самым коротким за всю историю современной республики.
 
@@ -29,9 +29,9 @@ tags: "австрия, канцлер, шалленберг, отставка, k
 
 По данным Kurier, пост главы АНП может занять нынешний министр внутренних дел Карл Нехаммер. Он же, вероятно, и выдвинет свою кандидатуру на пост канцлера.
 
-**Читайте также:** https://novayagazeta.ru/articles/2019/09/30/82179-kak-s-kurtsa-voda
+**Читайте также:** [Как с Курца вода](2019/09/30/82179-kak-s-kurtsa-voda.md)
 
-18 ноября парламент Австрии [снял](https://novayagazeta.ru/articles/2021/11/18/byvshego-kantslera-avstrii-sebastiana-kurtsa-lishili-deputatskoi-neprikosnovennosti-news) с бывшего канцлера Курца депутатскую неприкосновенность для расследования коррупционного скандала.
+18 ноября парламент Австрии [снял](2021/11/18/byvshego-kantslera-avstrii-sebastiana-kurtsa-lishili-deputatskoi-neprikosnovennosti-news.md) с бывшего канцлера Курца депутатскую неприкосновенность для расследования коррупционного скандала.
 
 35-летний Себастьян Курц обвинен в участии в коррупционных схемах в 2016 году. Венская экономическая прокуратура [провела](https://www.spiegel.de/ausland/oesterreich-vorwuerfe-gegen-sebastian-kurz-und-sein-umfeld-gegen-wen-ermittelt-wird-a-2ee04ae3-853c-4d8a-86cc-cd5777c8fcee) обыски в офисе Курца, в здании Минфина Австрии и в офисе АНП. Курца и еще девять человек из его окружения обвиняют в подкупе СМИ.
 

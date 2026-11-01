@@ -23,4 +23,4 @@ tags: "редкие заболевания, лекарства"
 
 Болезнь Вилсона-Коновалова поражает печень и центральную нервную систему, вызывая цирроз, гепатит, двигательные нарушения, дистонические атаки, кровотечения.
 
-**link:** https://novayagazeta.ru/articles/2020/11/27/88146-lekarstvo-est-ono-vsego-lish-stoit-deneg-podkast-chto-novogo
+**link:** [«Лекарство есть, оно всего лишь стоит денег» Подкаст «Что Нового?»](2020/11/27/88146-lekarstvo-est-ono-vsego-lish-stoit-deneg-podkast-chto-novogo.md)

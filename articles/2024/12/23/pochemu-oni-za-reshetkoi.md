@@ -15,6 +15,6 @@ tags: "буянова, петрийчук, беркович, юлия ауг, и
 
 **Произведено «Но. Медиа из России»:** https://youtu.be/rmZfQMBEx4U
 
-**Смотрите также:** https://novayagazeta.ru/articles/2024/12/20/tiazhelyi-god-podvodim-ekonomicheskie-itogi
+**Смотрите также:** [Тяжелый год? Подводим экономические итоги](2024/12/20/tiazhelyi-god-podvodim-ekonomicheskie-itogi.md)
 
 #### * Внесен властями РФ в реестр «иноагентов».

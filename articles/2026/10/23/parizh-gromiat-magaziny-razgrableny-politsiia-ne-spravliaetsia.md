@@ -39,4 +39,4 @@ tags: ""
 
 И чем происходящее отличается от политических протестов?
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/10/19/kak-frantsuzy-mogut-tak-postupat-s-frantsiei
+**Читайте также:** [«Как французы могут так поступать с Францией?»](2026/10/19/kak-frantsuzy-mogut-tak-postupat-s-frantsiei.md)

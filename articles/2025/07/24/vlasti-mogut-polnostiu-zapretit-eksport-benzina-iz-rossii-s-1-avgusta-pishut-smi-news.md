@@ -25,4 +25,4 @@ tags: ""
 
 НПЗ критически зависимы от импортного оборудования, они строились и модернизировались при участии европейских и американских компаний, [писал](https://www.reuters.com/markets/commodities/us-sanctions-hamper-russian-efforts-repair-refineries-sources-say-2024-04-04/) Reuters со ссылкой на источники.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/19/ekonomika-dolzhna-byt-ekonomnoi
+**Читайте также:** [«Экономика должна быть экономной»](2025/07/19/ekonomika-dolzhna-byt-ekonomnoi.md)

@@ -27,4 +27,4 @@ tags: "moderna, сша, вакцины, воз, коронавирус, kn"
 
 По планам COVAX, к концу 2021 года [должны быть](https://www.unicef.org/press-releases/covax-joint-statement-call-action-equip-covax-deliver-2-billion-doses-2021-0) произведены и распределены по всему миру 2 млрд доз вакцины. К маю этого года в десятки стран в рамках инициативы [были доставлены](https://news.un.org/ru/story/2021/05/1403072) 65 млн доз вакцины.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu)

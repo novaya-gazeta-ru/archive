@@ -35,9 +35,9 @@ tags: "сирия, асад, дамаск, дворец, мародеры"
 
 В самом дворце накануне случился пожар, который быстро потушили. Сообщалось также, что был [подожжен](https://tass.ru/proisshestviya/22611541?ysclid=m4gnm1wpb4369369858) президентский зал приемов, который находился в другом квартале.
 
-- Напомним, наступление сирийской оппозиции [началось](https://novayagazeta.ru/articles/2024/12/02/vrag-moego-vraga) 27 ноября. Менее чем за две недели они [заняли](https://novayagazeta.ru/articles/2024/12/07/reshaetsia-sudba-sirii-asada-prizvali-k-otezdu-iz-strany-voiska-povstantsev-priblizhaiutsia-k-damasku-news) города Алеппо и Хомc. В воскресенье 8 декабря повстанцы вошли в Дамаск, не встретив сопротивления.
+- Напомним, наступление сирийской оппозиции [началось](2024/12/02/vrag-moego-vraga.md) 27 ноября. Менее чем за две недели они [заняли](2024/12/07/reshaetsia-sudba-sirii-asada-prizvali-k-otezdu-iz-strany-voiska-povstantsev-priblizhaiutsia-k-damasku-news.md) города Алеппо и Хомc. В воскресенье 8 декабря повстанцы вошли в Дамаск, не встретив сопротивления.
 - Боевики [выступили](https://www.aljazeera.com/news/liveblog/2024/12/7/syria-war-live-news-govt-says-president-al-assad-has-not-fled-damascus) с заявлением о свержении 50-летнего режима семьи Асадов. В соцсетях начали распространяться видео на которых сирийцы сжигают портреты Башара Асада, а также сносят памятники его отцу.
 - О местонахождении самого экс-президента Сирии некоторое время не было известно. Вечером 8 декабря российские ГосСМИ [сообщили](https://t.me/tass_agency/289802), что Асад с членами своей семьи прибыл в Москву, а Кремль предоставил им убежище.
 - Утром в понедельник над зданием посольства Сирии в Москве [появился](https://t.me/novaya_pishet/48611) флаг оппозиционеров-повстанцев.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/09/posolstvo-sirii-v-moskve-podnialo-flag-povstantsev-asad-s-semei-ukrylsia-v-rossii-ssha-i-izrail-nanesli-aviaudary-po-tseliam-v-sirii-glavnoe-news
+**Читайте также:** [Посольство Сирии в Москве подняло флаг повстанцев. Асад с семьей укрылся в России. США и Израиль нанесли авиаудары по целям в Сирии. Главное](2024/12/09/posolstvo-sirii-v-moskve-podnialo-flag-povstantsev-asad-s-semei-ukrylsia-v-rossii-ssha-i-izrail-nanesli-aviaudary-po-tse.md)

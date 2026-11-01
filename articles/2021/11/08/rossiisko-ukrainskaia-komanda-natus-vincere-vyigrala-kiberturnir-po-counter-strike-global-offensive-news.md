@@ -21,6 +21,6 @@ tags: "ng, киберспорт, соревнования"
 
 Natus Vincere (с латинского — «Рожденные Побеждать») — один из лидирующих киберспортивных клубов в мире, основанный 17 декабря 2009 года. Эта мультигейминговая киберспортивная организация базируется в Украине.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/18/katka-so-schastlivym-kontsom
+**Читайте также:** [Катка со счастливым концом](2021/10/18/katka-so-schastlivym-kontsom.md)
 
-17 октября команда Team Spirit впервые [выиграла](https://novayagazeta.ru/articles/2021/10/17/rossiiskaia-komanda-vpervye-vyigrala-krupneishii-turnir-po-dota-2-pobediteli-poluchat-18-mln-dollarov-news) крупнейший международный киберспортивный турнир The International по Dota 2. В состав команды входят россияне Ярослав Найденов (Miposhka), Магомед Халилов (Collapse), Александр Хертек (Torontotokyo) и украинцы Мирослав Колпаков (Mira) и Илья Мулярчук (Yatoro). В финале они обыграли китайскую команду PSG LGD со счетом 3-2.
+17 октября команда Team Spirit впервые [выиграла](2021/10/17/rossiiskaia-komanda-vpervye-vyigrala-krupneishii-turnir-po-dota-2-pobediteli-poluchat-18-mln-dollarov-news.md) крупнейший международный киберспортивный турнир The International по Dota 2. В состав команды входят россияне Ярослав Найденов (Miposhka), Магомед Халилов (Collapse), Александр Хертек (Torontotokyo) и украинцы Мирослав Колпаков (Mira) и Илья Мулярчук (Yatoro). В финале они обыграли китайскую команду PSG LGD со счетом 3-2.

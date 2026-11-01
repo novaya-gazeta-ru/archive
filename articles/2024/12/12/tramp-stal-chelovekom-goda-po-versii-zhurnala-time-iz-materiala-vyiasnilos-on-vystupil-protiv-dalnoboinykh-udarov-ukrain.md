@@ -25,4 +25,4 @@ Time заявил, что «политическое возрождение Тр
 
 В ноябре Путин [заявил](https://t.me/novaya_pishet/48321) об ударе ракетой «Орешник» по заводу в Днепре и [допустил](https://t.me/novaya_pishet/48421) удары им по «центрам принятия решений в Киеве».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/24/valerii-shiriaev-1000-dnei-svo-i-na-gorizonte-tramp
+**Читайте также:** [Валерий Ширяев: 1000 дней СВО и на горизонте — Трамп](2024/11/24/valerii-shiriaev-1000-dnei-svo-i-na-gorizonte-tramp.md)

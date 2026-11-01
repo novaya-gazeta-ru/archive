@@ -21,6 +21,6 @@ tags: "быков, медицина, kb"
 
 Эфир авторской передачи «Один» был записан в больнице, откуда Быкова выпишут 28 апреля. «У меня пока еще более-менее замедленная речь, но прелесть именно в том, что меня всегда ругали за ее ускоренность, поэтому сейчас, кажется, наконец достигли идеального темпа», — отметил писатель.
 
-**link:** https://novayagazeta.ru/articles/2019/04/25/80356-grazhdanstvennoe
+**link:** [Гражданственное](2019/04/25/80356-grazhdanstvennoe.md)
 
-Напомним, Дмитрий Быков [почувствовал](https://www.novayagazeta.ru/news/2019/04/17/150945-v-ufe-gospitalizirovali-pisatelya-dmitriya-bykova) себя плохо в аэропорту Уфы 16 апреля, куда прилетел читать лекцию. Его доставили в местную больницу в тяжелом, но стабильном состоянии. После писателя перевезли на лечение в Москву в НИИ им. Бурденко, врачи которого недавно [сообщали](https://www.novayagazeta.ru/news/2019/04/20/151059-v-sostoyanii-zdorovya-dmitriya-bykova-nablyudayutsya-polozhitelnye-izmeneniya-muratov) об улучшении в его состоянии.
+Напомним, Дмитрий Быков [почувствовал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/04/17/150945-v-ufe-gospitalizirovali-pisatelya-dmitriya-bykova) себя плохо в аэропорту Уфы 16 апреля, куда прилетел читать лекцию. Его доставили в местную больницу в тяжелом, но стабильном состоянии. После писателя перевезли на лечение в Москву в НИИ им. Бурденко, врачи которого недавно [сообщали](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/04/20/151059-v-sostoyanii-zdorovya-dmitriya-bykova-nablyudayutsya-polozhitelnye-izmeneniya-muratov) об улучшении в его состоянии.

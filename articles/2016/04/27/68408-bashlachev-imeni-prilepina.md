@@ -30,7 +30,7 @@ _Пройду, как рысь, от Альп и до Онеги Тропою п
 
 *[media: <tbody>
 		<tr>
-			<td><img alt="" class="g-image-align-right" src="http://www.novayagazeta.ru/storage/c/2016/04/27/1461764404_901196_77.png" style="width: 280px; height: 397px;"></td>
+			<td><img alt="" class="g-image-align-right" src="[http://www.novayagazeta.ru/storage/c/2016/04/27/1461764404_901196_77.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2016/04/27/1461764404_901196_77.png)" style="width: 280px; height: 397px;"></td>
 		</tr>
 	</tbody>]*
 

@@ -15,8 +15,8 @@ tags: "мурманск, мэр, администрация города, гор
 
 На должность претендовали два кандидата: бывший глава авиалесоохраны области Алексей Лукичев и вице-губернатор Юрий Сердечкин. Однако ни один не набрал должного числа голосов. Юрий Сердечкин активно [продвигался](https://m.severpost.ru/read/125884/  (https://m.severpost.ru/read/125884/) лояльными губернатору региональными медиа, его также [поддержал](https://m.severpost.ru/read/126950/  (https://m.severpost.ru/read/126950/) президиум генсовета «Единой России».
 
-Ранее, 30 сентября, депутаты [не поддержали](https://novayagazeta.ru/articles/2021/09/30/murmanskii-gorsovet-otkazalsia-izbrat-merom-kandidatku-rekomendovannuiu-gensovetom-edinoi-rossii-news%20(https://novayagazeta.ru/articles/2021/09/30/murmanskii-gorsovet-otkazalsia-izbrat-merom-kandidatku-rekomendovannuiu-gensovetom-edinoi-rossii-news) рекомендованную генсоветом «Единой России» и лично Андреем Турчаком кандидатку в мэры города Ольгу Дзюбу. Таким образом, на сегодня в Мурманске не избраны ни мэр, ни глава администрации.
+Ранее, 30 сентября, депутаты [не поддержали](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/30/murmanskii-gorsovet-otkazalsia-izbrat-merom-kandidatku-rekomendovannuiu-gensovetom-edinoi-rossii-news%20( [Мурманский горсовет отказался избрать мэром кандидатку, рекомендованную генсоветом «Единой России»](2021/09/30/murmanskii-gorsovet-otkazalsia-izbrat-merom-kandidatku-rekomendovannuiu-gensovetom-edinoi-rossii-news.md)) рекомендованную генсоветом «Единой России» и лично Андреем Турчаком кандидатку в мэры города Ольгу Дзюбу. Таким образом, на сегодня в Мурманске не избраны ни мэр, ни глава администрации.
 
 Выдвижение Дзюбы и Сердечкина происходило на фоне затянувшегося конфликта областных и городских чиновников,  связанного с переделом земельных полномочий и финансирования городского благоустройства.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/29/duma-po-poniatiiam
+**Читайте также:** [Дума по понятиям](2021/07/29/duma-po-poniatiiam.md)

@@ -19,9 +19,9 @@ tags: "днр, захарченко, украина"
 
 Военачальник объявил, что «Совбез спел свою последнюю лебединую песню, а дальше работой будут заниматься «Патриотические силы Донбасса — бригада «Восток».
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/politics/69639.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2016/02/19/1455892055_065994_2.png" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/politics/69639.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/69639.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2016/02/19/1455892055_065994_2.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2016/02/19/1455892055_065994_2.png)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><strong><a href="http://www.novayagazeta.ru/politics/69639.html" target="_blank">«Возможная быстра замена Захарченко»: Кто такой Александр Ходаковский в ДНР и какими ресурсами он располагает</a></strong></p>]*
+<p><strong><a href="[http://www.novayagazeta.ru/politics/69639.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/69639.html)" target="_blank">«Возможная быстра замена Захарченко»: Кто такой Александр Ходаковский в ДНР и какими ресурсами он располагает</a></strong></p>]*
 
 Ходаковский добавил, что в отличие от других политических деятелей сепаратистов в выборах он участвовать не намерен.
 

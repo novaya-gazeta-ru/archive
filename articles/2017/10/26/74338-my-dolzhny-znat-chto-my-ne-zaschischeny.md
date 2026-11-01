@@ -45,7 +45,7 @@ tags: "монолог, норд-ост"
 
 Мы тогда начали сразу молиться — вне зависимости от того, верили или нет. И даже какие-то примеры фильмов американских лично меня очень поддерживали: вот Бэтмен же спасает людей.
 
-**link:** https://novayagazeta.ru/articles/2017/10/24/74318-15-let-nazad-v-moskve-proizoshel-zahvat-zalozhnikov-v-teatralnom-tsentre-na-dubrovke
+**link:** [15 лет назад захватили заложников в Театральном центре на Дубровке](2017/10/24/74318-15-let-nazad-v-moskve-proizoshel-zahvat-zalozhnikov-v-teatralnom-tsentre-na-dubrovke.md)
 
 ![](_assets/8c/8c18ceaf2d6f6c51329bb009fe22242e.webp)
 

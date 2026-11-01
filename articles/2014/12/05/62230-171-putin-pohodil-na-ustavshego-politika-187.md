@@ -23,11 +23,11 @@ tags: ""
 
 Сравнение Крыма со священной горой в Иерусалиме, считает журнал Spiegel, призвано было подвести многовековую историческую базу под фактически военных захват полуострова, упирая на «религиозную священность и значимость» данной территории для российского государства. Одновременно с этим, пишет немецкое издание, Путин, цитируя своего любимого русского философа Ивана Ильина, окончательно распрощался с либерализмом, о приверженности которому заявлял еще в начале своего правления. «Правда и справедливость» теперь являются главной антитезой западным ценностям и международному праву.
 
-**link:** https://novayagazeta.ru/politics/66378.html
+**link:** [https://novayagazeta.ru/politics/66378.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66378.html)
 
-**link:** https://novayagazeta.ru/politics/66378.html
+**link:** [https://novayagazeta.ru/politics/66378.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66378.html)
 
-**link:** https://novayagazeta.ru/politics/66378.html
+**link:** [https://novayagazeta.ru/politics/66378.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66378.html)
 
 # Не нашел ничего лучше упоминания Гитлера
 

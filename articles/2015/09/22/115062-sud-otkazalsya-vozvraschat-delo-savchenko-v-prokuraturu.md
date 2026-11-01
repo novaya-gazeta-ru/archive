@@ -17,8 +17,8 @@ tags: "преследования, савченко, суды"
 
 Ранее сегодня началось первое судебное заседание по делу Савченко. Ведут заседание тройка судей под председательством Леонида Степаненко. В зале присутствует сестра Надежды Савченко.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/news/1696676.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/09/22/1442916127_004338_77.jpeg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте ранее:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/news/1696676.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1696676.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/09/22/1442916127_004338_77.jpeg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/09/22/1442916127_004338_77.jpeg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте ранее:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/news/1696676.html" target="_blank"><strong>В зал суда над Надеждой Савченко вместо журналистов пустили казаков</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/news/1696676.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1696676.html)" target="_blank"><strong>В зал суда над Надеждой Савченко вместо журналистов пустили казаков</strong></a></p>]*
 
 Надежду Савченко обвиняют в пособничестве в убийстве российских журналистов ВГТРК. По версии следствия, она корректировала огонь на территории Луганской области, где находились журналисты. Ее также обвиняют в незаконном пересечении границы. Своей вины Савченко не признает и заявляет, что ее похитили и вывезли в Россию.

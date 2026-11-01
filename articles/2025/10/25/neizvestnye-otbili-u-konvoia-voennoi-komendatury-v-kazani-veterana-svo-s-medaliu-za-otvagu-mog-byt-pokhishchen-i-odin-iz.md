@@ -13,7 +13,7 @@ tags: ""
 
 > **есть продолжение**
 >
-> ### [Покатались, угостили пивом, дали 5 тысяч рублей: подробности «похищения» конвоира в Казани при побеге военного из-под следствия](https://novayagazeta.ru/articles/2025/10/27/pokatalis-ugostili-pivom-dali-5-tysiach-rublei-podrobnosti-pokhishcheniia-konvoira-v-kazani-pri-pobege-voennogo-iz-pod-sledstviia-news)
+> ### [Покатались, угостили пивом, дали 5 тысяч рублей: подробности «похищения» конвоира в Казани при побеге военного из-под следствия](2025/10/27/pokatalis-ugostili-pivom-dali-5-tysiach-rublei-podrobnosti-pokhishcheniia-konvoira-v-kazani-pri-pobege-voennogo-iz-pod-s.md)
 
 В Казани с вечера 24 года ввводили, а затем отменили не принесший результата план «Перехват» — после вооруженного нападения на конвой военной комендатуры на улице Гвардейской.
 

@@ -39,4 +39,4 @@ tags: "сталин, репрессии"
 
 #### **«И.В. Сталин в документах и фотографиях. 1917–1953». М., 2019*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/28/v-glazakh-stalina-obshchestvo-ne-proshlo-test-na-svobodu
+**Читайте также:** [«В глазах Сталина общество не прошло тест на свободу»](2021/07/28/v-glazakh-stalina-obshchestvo-ne-proshlo-test-na-svobodu.md)

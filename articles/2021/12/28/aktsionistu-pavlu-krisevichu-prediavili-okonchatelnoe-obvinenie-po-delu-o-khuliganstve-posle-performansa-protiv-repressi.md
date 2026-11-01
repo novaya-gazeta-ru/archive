@@ -21,10 +21,10 @@ tags: ""
 
 По словам адвоката, на данный момент Крисевичу грозит семь лет лишения свободы.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/11/luchshe-ia-sebia-chem-oni
+**Читайте также:** [«Лучше я себя, чем они»](2021/06/11/luchshe-ia-sebia-chem-oni.md)
 
 Крисевич 11 июня в ходе акции против политических репрессий два раза выстрелил в воздух шумовыми патронами из охолощенного аналога пистолета Макарова на Красной площади и сымитировал выстрел в себя. Он не пострадал. Вместе с ним была задержана журналистка SOTA Ника Самусик. Суд отправил акциониста в СИЗО.
 
-После этой акции и было возбуждено дело о хулиганстве. По нему Крисевича [арестовали](https://novayagazeta.ru/articles/2021/06/13/sud-v-moskve-arestoval-aktsionista-krisevicha-iz-za-aktsii-s-pistoletom-na-krasnoi-ploshchadi) на два месяца, а Самусик [отпустили](https://novayagazeta.ru/articles/2021/06/13/v-moskve-otpustili-iz-politsii-zhurnalistku-osveshchavshuiu-aktsiiu-krisevicha-na-krasnoi-ploshchadi) без избрания меры пресечения. Позже МВД прекратило дело против Самусик по причине ее непричастности к преступлению.
+После этой акции и было возбуждено дело о хулиганстве. По нему Крисевича [арестовали](2021/06/13/sud-v-moskve-arestoval-aktsionista-krisevicha-iz-za-aktsii-s-pistoletom-na-krasnoi-ploshchadi.md) на два месяца, а Самусик [отпустили](2021/06/13/v-moskve-otpustili-iz-politsii-zhurnalistku-osveshchavshuiu-aktsiiu-krisevicha-na-krasnoi-ploshchadi.md) без избрания меры пресечения. Позже МВД прекратило дело против Самусик по причине ее непричастности к преступлению.
 
 *(Обновлено 10:30 — добавлен комментарий адвоката)*

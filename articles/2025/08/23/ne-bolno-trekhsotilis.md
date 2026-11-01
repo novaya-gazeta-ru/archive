@@ -55,4 +55,4 @@ tags: "фролов, выплаты за ранеия, мошенничеств�
 
 **Приморье**
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/21/30-soldat-i-ofitserov-desantnikov-vs-rf-streliali-drug-v-druga-i-tak-poluchili-bolee-200-mln-rublei-kompensatsii-i-nagrady-po-raneniiu-na-svo-smi-news
+**Читайте также:** [30 солдат и офицеров-десантников ВС РФ стреляли друг в друга и так получили более 200 млн рублей компенсаций и награды по ранению на СВО — СМИ](2025/08/21/30-soldat-i-ofitserov-desantnikov-vs-rf-streliali-drug-v-druga-i-tak-poluchili-bolee-200-mln-rublei-kompensatsii-i-nagra.md)

@@ -19,4 +19,4 @@ tags: ""
 
 Тогда же страны провели обмен военнопленными по формуле «95 на 95».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/26/bolshe-obmenov-politzakliuchennymi-plennymi-telami-pogibshikh
+**Читайте также:** [Больше обменов: политзаключенными, пленными, телами погибших…](2024/10/26/bolshe-obmenov-politzakliuchennymi-plennymi-telami-pogibshikh.md)

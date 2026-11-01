@@ -27,4 +27,4 @@ tags: ""
 
 Возможно ли это перед  формальным третьим чтением в Думе, или это вопрос уже к Совету Федерации, а затем — к президенту?\
 \
- **[Текст законопроекта](https://novayagazeta.ru/storage/d/2010/03/18/obrashenie.pdf)**
+ **[Текст законопроекта](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2010/03/18/obrashenie.pdf)**

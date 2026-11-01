@@ -27,6 +27,6 @@ tags: ""
 
 По решению ЕСПЧ Россия должна выплатить денежные компенсации истцам за моральный вред и судебные издержки — до 7500 евро тем лицам, где компенсация была заявлена, плюс судебные издержки — это около 850 евро на каждого заявителя.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/06/espch-priznal-narusheniia-prav-smi-i-prisudil-pochti-150-tysiach-evro-kompensatsii-rossiiskim-zhurnalistam-v-tom-chisle-po-delam-novoi-gazety-news
+**Читайте также:** [ЕСПЧ признал нарушения прав СМИ и присудил почти 150 тысяч евро компенсаций российским журналистам, в том числе по делам «Новой газеты»](2025/02/06/espch-priznal-narusheniia-prav-smi-i-prisudil-pochti-150-tysiach-evro-kompensatsii-rossiiskim-zhurnalistam-v-tom-chisle-.md)
 
 #### * Минюст включил в реестр нежелательных организаций.

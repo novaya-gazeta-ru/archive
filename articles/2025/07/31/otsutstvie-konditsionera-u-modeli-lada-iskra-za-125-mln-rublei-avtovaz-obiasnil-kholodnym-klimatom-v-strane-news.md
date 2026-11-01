@@ -31,4 +31,4 @@ tags: ""
 
 В соцсетях слова инженера проекта Логинова и решение АвтоВАЗа восприняли с большим сарказмом.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/30/rossiia-zakryla-rynok-dlia-kitaiskikh-gruzovikov-iz-za-ugrozy-zhizni-grazhdan-posle-togo-kak-kamaz-pozhalovalsia-na-izbytok-konkurentsii-news
+**Читайте также:** [https://novayagazeta.ru/articles/2025/07/30/rossiia-zakryla-rynok-dlia-kitaiskikh-gruzovikov-iz-za-ugrozy-zhizni-grazhdan-posle-togo-kak-kamaz-pozhalovalsia-na-izbytok-konkurentsii-news](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2025/07/30/rossiia-zakryla-rynok-dlia-kitaiskikh-gruzovikov-iz-za-ugrozy-zhizni-grazhdan-posle-togo-kak-kamaz-pozhalovalsia-na-izbytok-konkurentsii-news)

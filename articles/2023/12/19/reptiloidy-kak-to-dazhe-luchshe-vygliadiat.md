@@ -104,4 +104,4 @@ tags: "семья, научные работы, юридическая наук�
 
 А Дугину стоит обидеться — почти все идеи содрали из его «философских» трудов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/12/14/otechestvo-samo-razberetsia-kto-emu-vrag-a-kto-drug
+**Читайте также:** [«Отечество само разберется»](2023/12/14/otechestvo-samo-razberetsia-kto-emu-vrag-a-kto-drug.md)

@@ -33,9 +33,9 @@ tags: "москва"
 
 — Как-то один из сотрудников меня так достал, что хотелось отвести душу. Я сказал другу, с которым сидел в кафе: мол, отдал бы любые деньги, чтобы перевернуть стол и побить посуду, — признается предприниматель. — Идея нам понравилась, и мы решили поискать, есть ли где такая услуга. Оказалось, что в Москве устроить дебош, даже заплатив деньги, — нельзя.
 
-**link:** https://novayagazeta.ru/society/72625.html
+**link:** [https://novayagazeta.ru/society/72625.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/72625.html)
 
-**link:** https://novayagazeta.ru/society/72625.html
+**link:** [https://novayagazeta.ru/society/72625.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/72625.html)
 
 Безотходное производство
 

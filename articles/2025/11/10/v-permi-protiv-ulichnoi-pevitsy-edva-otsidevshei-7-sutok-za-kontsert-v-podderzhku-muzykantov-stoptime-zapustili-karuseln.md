@@ -21,6 +21,6 @@ tags: ""
 
 «Несанкционированным массовым мероприятием» назвали концерт в поддержку задержанных в Петербурге музыкантов группы Stoptime и их солистки Наоко, против которой начали применять откровенные репрессии, Осташева отыграла его в центре Перми 22 октября. А 1 ноября за ней пришли.
 
-А в это время в Петербурге саму 18-летнюю певицу Наоко (Диану Логинову), уже получившую два административных ареста подряд, снова [не отпустили на свободу](https://novayagazeta.ru/articles/2025/11/10/pevitsu-naoko-i-gitarista-aleksandra-orlova-vnov-ne-otpustili-na-svobodu-posle-vtorogo-aresta-news) и угрожают ей очередным протоколом о «дискредитации армии».
+А в это время в Петербурге саму 18-летнюю певицу Наоко (Диану Логинову), уже получившую два административных ареста подряд, снова [не отпустили на свободу](2025/11/10/pevitsu-naoko-i-gitarista-aleksandra-orlova-vnov-ne-otpustili-na-svobodu-posle-vtorogo-aresta-news.md) и угрожают ей очередным протоколом о «дискредитации армии».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/10/29/pevitsu-naoko-snova-arestovali-na-13-sutok-za-ulichnyi-kontsert-pered-zasedaniem-diana-loginova-i-gitarist-stoptaim-aleksandr-orlov-obiavili-o-pomolvke-news
+**Читайте также:** [Певицу Наоко снова арестовали на 13 суток за уличный концерт. Перед заседанием Диана Логинова и гитарист «Стоптайм» Александр Орлов объявили о помолвке](2025/10/29/pevitsu-naoko-snova-arestovali-na-13-sutok-za-ulichnyi-kontsert-pered-zasedaniem-diana-loginova-i-gitarist-stoptaim-alek.md)

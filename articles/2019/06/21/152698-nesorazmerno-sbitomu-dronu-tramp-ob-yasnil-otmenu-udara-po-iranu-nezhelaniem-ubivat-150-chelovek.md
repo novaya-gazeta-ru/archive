@@ -11,7 +11,7 @@ tags: "трамп, иран, сша, va"
 
 # «Несоразмерно сбитому дрону»: Трамп объяснил отмену удара по Ирану нежеланием убивать 150 человек
 
-Президент Дональд Трамп [подтвердил в твиттере](https://twitter.com/realDonaldTrump/status/1142055388965212161), что [отменил запланированные удары](https://www.novayagazeta.ru/news/2019/06/21/152686-nyt-tramp-odobril-udary-po-iranu-v-otvet-na-sbityy-amerikanskiy-bespilotnik-no-potom-otmenil-reshenie) по Ирану в ответ на сбитый над Ормузским проливом беспилотник. По его словам, решение отменили после того, как число жертв от готовившейся атаки оценили в 150 человек.
+Президент Дональд Трамп [подтвердил в твиттере](https://twitter.com/realDonaldTrump/status/1142055388965212161), что [отменил запланированные удары](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/06/21/152686-nyt-tramp-odobril-udary-po-iranu-v-otvet-na-sbityy-amerikanskiy-bespilotnik-no-potom-otmenil-reshenie) по Ирану в ответ на сбитый над Ормузским проливом беспилотник. По его словам, решение отменили после того, как число жертв от готовившейся атаки оценили в 150 человек.
 
 «Мы были готовы нанести ответный удар по трем разным целям, когда я спросил, сколько человек погибнет. "150 человек, сэр", — ответил генерал. За десять минут до удара я остановил его — непропорционально за сбитый беспилотный дрон», — [написал](https://twitter.com/realDonaldTrump/status/1142055388965212161) Трамп.
 
@@ -19,6 +19,6 @@ tags: "трамп, иран, сша, va"
 
 Из-за усиления конфликта несколько авиакомпаний [прекратили полеты](http://www.ato.ru/content/aviakompanii-priostanavlivayut-polety-nad-iranom) над этой областью — в том числе Lufthansa, British Airways, а также Малазийские и Сингапурские авиалинии. Индия [направила](https://www.interfax.ru/world/666161) в акваторию Оманского залива и Персидского залива эскадренный миноносец и патрульный корабль.
 
-**link:** https://novayagazeta.ru/articles/2019/06/15/80899-ohota-na-tankery
+**link:** [Нефть — растет. Будет война?](2019/06/15/80899-ohota-na-tankery.md)
 
-Отношения между США и Ираном ухудшились после того, как в марте Трамп объявил о выходе из сделки по сдержанию ядерных разработок Ирана. А в середине июня США также [обвинили](https://www.novayagazeta.ru/news/2019/06/14/152490-ssha-zayavili-o-nalichii-dokazatelstv-prichastnosti-irana-k-atake-na-tankery-v-omanskom-zalive) Иран во взрывах на двух нефтетанкерах в Оманском заливе, попытке сбить там же их дрон, а также, по [данным](https://www.novayagazeta.ru/news/2019/06/15/152517-cnn-do-intsidenta-s-tankerami-iran-pytalsya-sbit-amerikanskiy-dron-v-omanskom-zalive) СМИ, и в уничтожении другого дрона в Красном море контролируемыми ими йеменскими хуситами.
+Отношения между США и Ираном ухудшились после того, как в марте Трамп объявил о выходе из сделки по сдержанию ядерных разработок Ирана. А в середине июня США также [обвинили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/06/14/152490-ssha-zayavili-o-nalichii-dokazatelstv-prichastnosti-irana-k-atake-na-tankery-v-omanskom-zalive) Иран во взрывах на двух нефтетанкерах в Оманском заливе, попытке сбить там же их дрон, а также, по [данным](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/06/15/152517-cnn-do-intsidenta-s-tankerami-iran-pytalsya-sbit-amerikanskiy-dron-v-omanskom-zalive) СМИ, и в уничтожении другого дрона в Красном море контролируемыми ими йеменскими хуситами.

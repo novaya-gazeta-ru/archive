@@ -19,8 +19,8 @@ tags: ""
 
 Новость об инициативе Садовничего появилась еще 8 июля, но внимание на нее обратили только теперь.
 
-️Садовничий занимает пост ректора МГУ с 1992 года. Ему 86 лет. В ноябре 2024 года Путин отдельным указом снова продлил срок его полномочий — еще на пять лет, [до 90-летия](https://novayagazeta.ru/articles/2024/11/18/putin-prodlil-polnomochiia-85-letnego-rektora-mgu-sadovnichego-do-ego-90-letiia-news).
+️Садовничий занимает пост ректора МГУ с 1992 года. Ему 86 лет. В ноябре 2024 года Путин отдельным указом снова продлил срок его полномочий — еще на пять лет, [до 90-летия](2024/11/18/putin-prodlil-polnomochiia-85-letnego-rektora-mgu-sadovnichego-do-ego-90-letiia-news.md).
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/17/tam-i-prigodilsia
+**Читайте также:** […Там и пригодился](2025/03/17/tam-i-prigodilsia.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/19/oni-vykladyvaiut-slovo-vechnost
+**Читайте также:** [Они выкладывают слово «вечность»](2024/11/19/oni-vykladyvaiut-slovo-vechnost.md)

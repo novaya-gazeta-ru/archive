@@ -17,7 +17,7 @@ tags: "sputnik, обыски, азербайджан, фсб"
 
 > **Есть продолжение**
 >
-> ### [МИД РФ вызвал посла Азербайджана после задержания руководителей бюро Sputnik в Баку как «агентов ФСБ»](https://novayagazeta.ru/articles/2025/06/30/mid-rf-vyzval-posla-azerbaidzhana-posle-zaderzhaniia-rukovoditelei-biuro-sputnik-v-baku-kak-agentov-fsb-news)
+> ### [МИД РФ вызвал посла Азербайджана после задержания руководителей бюро Sputnik в Баку как «агентов ФСБ»](2025/06/30/mid-rf-vyzval-posla-azerbaidzhana-posle-zaderzhaniia-rukovoditelei-biuro-sputnik-v-baku-kak-agentov-fsb-news.md)
 
 Азербайджанские силовики во время следственных действий в офисе российского госагентства задержали двух агентов ФСБ, работавших под прикрытием. Об этом [пишет](https://minval.az/news/124473135) издание Minval со ссылкой на источники в силовых структурах.
 

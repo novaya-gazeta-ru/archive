@@ -17,8 +17,8 @@ tags: "беларусь, литва, лукашенко, sn"
 
 В прошедшее воскресенье погранслужба Литвы [задержала](https://mediazona.by/news/2021/08/02/granica) 289 человек, нелегально следовавших из Беларуси — это самый высокий показатель за 2021 год, а всего в этом году границу перешли более 4000 белорусских мигрантов. Премьер Литвы Шимоните заявила, что это «гибридная агрессия» со стороны Лукашенко.
 
-Сегодня агентство по безопасности внешних границ Евросоюза (Frontex) [зафиксировало](https://novayagazeta.ru/articles/2021/08/03/pogranichniki-es-opublikovali-video-na-kotorom-vedomstvennaia-mashina-iz-belarusi-provozhaet-migrantov-do-granitsy-s-litvoi-news), что некоторые группы нелегальных мигрантов к границе сопровождал автомобиль, напоминающий ведомственный транспорт белорусских военных. Это случилось в Шальчининкском районе на юго-востоке Литвы.
+Сегодня агентство по безопасности внешних границ Евросоюза (Frontex) [зафиксировало](2021/08/03/pogranichniki-es-opublikovali-video-na-kotorom-vedomstvennaia-mashina-iz-belarusi-provozhaet-migrantov-do-granitsy-s-lit.md), что некоторые группы нелегальных мигрантов к границе сопровождал автомобиль, напоминающий ведомственный транспорт белорусских военных. Это случилось в Шальчининкском районе на юго-востоке Литвы.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/08/dazhe-iraktsy-begut-iz-belarusi
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/08/dazhe-iraktsy-begut-iz-belarusi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/08/dazhe-iraktsy-begut-iz-belarusi)
 
 «Медиазона», Scanner Project и LRT провели [расследование](https://mediazona.by/article/2021/07/14/lietuva), в котором говорится, что в Беларуси существует организованная система вывоза мигрантов к литовской границе и бизнес, построенный на переправке граждан с Ближнего Востока в Беларусь.

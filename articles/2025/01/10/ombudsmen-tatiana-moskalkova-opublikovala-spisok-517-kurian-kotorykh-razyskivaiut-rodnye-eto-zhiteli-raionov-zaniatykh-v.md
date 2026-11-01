@@ -25,6 +25,6 @@ tags: ""
 
 Татьяна Москалькова [последний раз встречалась](https://ombudsmanrf.org/ombudsman/bio/novosti-upolnomochen-ogo/cb21a02c-2de1-4775-89aa-de55750a1f57) с украинским омбудсменом Дмитрием Лубинцом 30 декабря 2024 года. Тогда же случился и очередной обмен военнопленными и телами погибших с Украиной.
 
-О возвращении 46 жителей Суджанского района Курской области из Украины Москалькова [рассказывала](https://novayagazeta.ru/articles/2024/11/22/moskalkova-iz-ukrainy-v-rossiiu-vernulis-46-zhitelei-sudzhanskogo-raiona-kurskoi-oblasti-news) 22 ноября.
+О возвращении 46 жителей Суджанского района Курской области из Украины Москалькова [рассказывала](2024/11/22/moskalkova-iz-ukrainy-v-rossiiu-vernulis-46-zhitelei-sudzhanskogo-raiona-kurskoi-oblasti-news.md) 22 ноября.
 
-«Новая газета» неоднократно [сообщала](https://novayagazeta.ru/articles/2024/11/29/no-chto-s-drugimi-grazhdanami-rossii) о потерявших связь с родственниками жителях Курской области. Мы [публиковали](https://novayagazeta.ru/articles/2024/10/15/nas-net) известные нам имена и фотографии этих людей.
+«Новая газета» неоднократно [сообщала](2024/11/29/no-chto-s-drugimi-grazhdanami-rossii.md) о потерявших связь с родственниками жителях Курской области. Мы [публиковали](2024/10/15/nas-net.md) известные нам имена и фотографии этих людей.

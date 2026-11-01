@@ -29,7 +29,7 @@ tags: "бондаренко роман, протесты, минск"
 
 *Фото: ТАСС*
 
-**link:** https://novayagazeta.ru/articles/2020/11/14/87960-ya-vyhozhu
+**link:** [«Я выхожу!»](2020/11/14/87960-ya-vyhozhu.md)
 
 ![](_assets/cd/cd7b283aa6efb5f7f0816801f899d560.webp)
 

@@ -21,8 +21,8 @@ tags: ""
 
 Передача тел сегодня состоялась при участии сотрудников Международного Комитета Красного Креста.
 
-Таким образом, Россия с учетом сегодняшнего передала Украине [3612 тел](https://novayagazeta.ru/articles/2025/06/13/rossiia-peredala-kievu-eshche-1200-tel-pogibshikh-ukrainskikh-voennosluzhashchikh-news) в три этапа. Украина передала России [27 тел](https://novayagazeta.ru/articles/2025/06/11/rossiia-i-ukraina-nachali-peredachu-tel-pogibshikh-o-kotoroi-dogovorilis-v-stambule-medinskii-anonsiroval-sanitarnye-obmeny-tiazheloranenymi-news) только на первом этапе.
+Таким образом, Россия с учетом сегодняшнего передала Украине [3612 тел](2025/06/13/rossiia-peredala-kievu-eshche-1200-tel-pogibshikh-ukrainskikh-voennosluzhashchikh-news.md) в три этапа. Украина передала России [27 тел](2025/06/11/rossiia-i-ukraina-nachali-peredachu-tel-pogibshikh-o-kotoroi-dogovorilis-v-stambule-medinskii-anonsiroval-sanitarnye-obm.md) только на первом этапе.
 
-По итогам [второго раунда](https://novayagazeta.ru/articles/2025/06/02/rossiiskii-memorandum-po-okonchatelnomu-uregulirovaniiu-konflikta-v-ukraine-okazalsia-ultimativnym-zato-tam-est-punkt-pro-amnistiiu-politzakliuchennykh-v-kavychkakh-news) прямых переговоров в Стамбуле, напомним, глава российской делегации Владимир Мединский объявил, что Россия передаст Украине 6000 тел. Стороны также договорились осуществить гуманитарные обмены военнопленными трех категорий: молодых, тяжелобольных и раненых — в формате «всех на всех».
+По итогам [второго раунда](2025/06/02/rossiiskii-memorandum-po-okonchatelnomu-uregulirovaniiu-konflikta-v-ukraine-okazalsia-ultimativnym-zato-tam-est-punkt-pr.md) прямых переговоров в Стамбуле, напомним, глава российской делегации Владимир Мединский объявил, что Россия передаст Украине 6000 тел. Стороны также договорились осуществить гуманитарные обмены военнопленными трех категорий: молодых, тяжелобольных и раненых — в формате «всех на всех».
 
-Очередной раунд такого обмена [состоялся сегодня](https://novayagazeta.ru/articles/2025/06/14/minoborony-rf-kiev-i-moskva-obmenialis-voennoplennymi-chislo-vozvrashchennykh-ne-ukazali-news).
+Очередной раунд такого обмена [состоялся сегодня](2025/06/14/minoborony-rf-kiev-i-moskva-obmenialis-voennoplennymi-chislo-vozvrashchennykh-ne-ukazali-news.md).

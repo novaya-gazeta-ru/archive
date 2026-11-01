@@ -17,6 +17,6 @@ tags: "кино, оскар, em"
 
 Статуэтку как лучший актер получил Хоакин Феникс за роль в «Джокере», лучшей актрисой по версии жюри премии стала Рене Зеллвегер, сыгравшая в фильме «Джуди».
 
-Церемония вручения премии «Оскар» прошла в Лос-Анджелесе в 92-й раз. В прошлом году главный приз [получил](https://novayagazeta.ru/news/2019/02/25/149519-zelenaya-kniga-poluchila-glavnyy-priz-kinopremii-oskar) фильм «Зеленая книга» режиссера Питера Фарелли.
+Церемония вручения премии «Оскар» прошла в Лос-Анджелесе в 92-й раз. В прошлом году главный приз [получил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/02/25/149519-zelenaya-kniga-poluchila-glavnyy-priz-kinopremii-oskar) фильм «Зеленая книга» режиссера Питера Фарелли.
 
-**link:** https://novayagazeta.ru/articles/2020/01/13/83438-oskar-ob-yavil-nominantov
+**link:** [https://novayagazeta.ru/articles/2020/01/13/83438-oskar-ob-yavil-nominantov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/01/13/83438-oskar-ob-yavil-nominantov)

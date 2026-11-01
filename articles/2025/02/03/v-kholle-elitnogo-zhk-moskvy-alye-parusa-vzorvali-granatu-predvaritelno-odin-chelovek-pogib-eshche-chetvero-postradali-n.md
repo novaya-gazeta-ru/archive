@@ -17,7 +17,7 @@ tags: ""
 
 > **есть продолжение**
 >
-> При взрыве [пострадал](https://novayagazeta.ru/articles/2025/02/03/pri-vzryve-v-moskovskom-zhk-alye-parusa-postradal-glava-federatsii-boksa-dnr-armen-sarkisian-news) (а по другим данным — погиб) глава Федерации бокса ДНР Армен Саркисян.
+> При взрыве [пострадал](2025/02/03/pri-vzryve-v-moskovskom-zhk-alye-parusa-postradal-glava-federatsii-boksa-dnr-armen-sarkisian-news.md) (а по другим данным — погиб) глава Федерации бокса ДНР Армен Саркисян.
 
 Взрыв произошел корпусе ЖК по адресу Авиационная, 77, около 9:50 утра, рядом с кабиной лифта на первом этаже, сообщил близкий силовикам телеграм-канал SHOT.
 

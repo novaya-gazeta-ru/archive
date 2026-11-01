@@ -23,10 +23,10 @@ tags: "снос, реновация, пятиэтажки, москва"
 
 *Фото: Виктория Одиссонова / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2017/04/01/71989-zdes-u-menya-poyavilas-koshka-i-konchilos-detstvo
+**link:** [«Здесь у меня появилась кошка и кончилось детство»](2017/04/01/71989-zdes-u-menya-poyavilas-koshka-i-konchilos-detstvo.md)
 
 ![](_assets/68/68fa840b9d5d75bee9309ea0b98d8fb3.webp)
 
 *Фото: Виктория Одиссонова / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2017/08/13/73463-yuliya-latynina-sobyanin-opyat-vse-perekopal-i-pravilno-sdelal
+**link:** [Он всех строит](2017/08/13/73463-yuliya-latynina-sobyanin-opyat-vse-perekopal-i-pravilno-sdelal.md)

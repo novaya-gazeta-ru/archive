@@ -81,7 +81,7 @@ _Тарковский — Параджанову_
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/14/1342431863_010565_20.jpg" style="width: 350px; height: 233px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/14/1342431863_010565_20.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/14/1342431863_010565_20.jpg)" style="width: 350px; height: 233px; "><br>
 				<sup>Фото: Анна Артемьева/«Новая газета»</sup></td>
 		</tr>
 	</tbody>]*

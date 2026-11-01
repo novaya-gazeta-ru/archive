@@ -19,6 +19,6 @@ tags: "ng, COVID-19, коронавирус"
 
 96 пациентов скончались в Москве, 84 — в Петербурге, 57 — в Подмосковье. Всего с начала пандемии в стране умерли 259 084 человека с COVID.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/12/ukol-po-znakomstvu
+**Читайте также:** [https://novayagazeta.ru/articles/2021/11/12/ukol-po-znakomstvu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/12/ukol-po-znakomstvu)
 
-В Красноярском крае [ввели](https://novayagazeta.ru/articles/2021/11/17/v-krasnoiarskom-krae-vveli-obiazatelnuiu-vaktsinatsiiu-ot-koronavirusa-dlia-liudei-starshe-60-let-i-sotrudnikov-pravookhranitelnykh-organov-news) обязательную вакцинацию от коронавируса для людей старше 60 лет и сотрудников правоохранительных органов. К 15 января 2022 года доля привитых среди этих категорий должна быть минимум 80%, сообщил руководитель регионального управления Роспотребнадзора Дмитрий Горяев. Также обязательную вакцинацию от COVID-19 для пожилых [ввели](https://t.me/tass_agency/88743) в Хабаровском крае, а на внутренних авиалиниях региона с 1 декабря ввели QR-коды.
+В Красноярском крае [ввели](2021/11/17/v-krasnoiarskom-krae-vveli-obiazatelnuiu-vaktsinatsiiu-ot-koronavirusa-dlia-liudei-starshe-60-let-i-sotrudnikov-pravookh.md) обязательную вакцинацию от коронавируса для людей старше 60 лет и сотрудников правоохранительных органов. К 15 января 2022 года доля привитых среди этих категорий должна быть минимум 80%, сообщил руководитель регионального управления Роспотребнадзора Дмитрий Горяев. Также обязательную вакцинацию от COVID-19 для пожилых [ввели](https://t.me/tass_agency/88743) в Хабаровском крае, а на внутренних авиалиниях региона с 1 декабря ввели QR-коды.

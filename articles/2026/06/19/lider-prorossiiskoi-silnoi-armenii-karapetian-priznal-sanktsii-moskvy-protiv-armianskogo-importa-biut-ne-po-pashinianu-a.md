@@ -29,4 +29,4 @@ tags: ""
 
 Самвел Карапетян имеет российский и армянский паспорт.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/09/pashinian-sdelal-vybory
+**Читайте также:** [Пашинян сделал выборы](2026/06/09/pashinian-sdelal-vybory.md)

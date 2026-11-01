@@ -21,6 +21,6 @@ tags: "таиланд, спутник v, курорты, карантин, sf"
 
 Ранее Таиланд в рамках программы «Пхукетская песочница» обязал прибывающих вакцинированных туристов проходить двухнедельный карантин на Пхукете, затем этот срок [сократили](https://www.bangkokpost.com/business/2166279/nod-for-7-7-provides-cheer) до одной недели. После завершения карантина привитые туристы могут отправиться в другой район страны, который входит в программу «песочниц».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu)
 
 За все время пандемии в Таиланде [выявлены](https://gisanddata.maps.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6) более 1,1 млн случаев заражения коронавирусом, умерли более 10 тысяч пациентов. За последние сутки, по данным местного минздрава, COVID-19 заразились 18 тысяч человек.

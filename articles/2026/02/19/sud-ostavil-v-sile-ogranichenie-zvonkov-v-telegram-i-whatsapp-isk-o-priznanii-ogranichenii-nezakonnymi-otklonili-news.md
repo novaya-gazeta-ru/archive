@@ -23,6 +23,6 @@ tags: ""
 
 Представители партии «Яблоко» пытаются провести акции протеста против блокировок мессенджеров в ряде городов России. Они [подали](https://t.me/yabloko_press/3053) заявки на митинги 1 марта в Новосибирске, Владивостоке, Москве, Воронеже. Власти Иркутска такую акцию уже согласовали.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/19/kreml-prodolzhaet-vesti-telegram-khotia-eto-vozmozhno-tolko-s-vpn-potomu-chto-eto-v-ego-interesakh-news
+**Читайте также:** [Несмотря на «замедление» Telegram в России, сам Кремль продолжает вести там свой канал, потому что это «в его интересах»](2026/02/19/kreml-prodolzhaet-vesti-telegram-khotia-eto-vozmozhno-tolko-s-vpn-potomu-chto-eto-v-ego-interesakh-news.md)
 
 #### * Принадлежит META, которая признана экстремистской организацией и запрещена в РФ.

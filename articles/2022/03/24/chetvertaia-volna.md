@@ -35,7 +35,7 @@ tags: "кожа времени, как у них, эмиграция, полит
 
 И наоборот: свобода в метрополии перегоняет туда все живое из нашего колена этого самого сосуда. Я видел, как этот нехитрый механизм работал после отмены цензуры. Теперь нас ждет откат.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/24/iskhod-v-konstantinopol-sto-let-spustia
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/24/iskhod-v-konstantinopol-sto-let-spustia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/24/iskhod-v-konstantinopol-sto-let-spustia)
 
 # **2.**
 

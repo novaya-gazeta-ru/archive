@@ -15,6 +15,6 @@ tags: "суды, москва, полиция, домашний арест, em"
 
 Меру пресечения экс-полицейскому избрали до 5 февраля следующего года. Ему вменяется хулиганство (ст. 213 УК).
 
-Сотрудник патрульно-постовой службы [ранил](https://novayagazeta.ru/news/2020/12/06/166217-v-moskve-politseyskiy-ranil-devochku-iz-travmaticheskogo-oruzhiya) девочку в ночь на 6 декабря на Судостроительной улице в Москве. Он был не при исполнении и в гражданской одежде.
+Сотрудник патрульно-постовой службы [ранил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/12/06/166217-v-moskve-politseyskiy-ranil-devochku-iz-travmaticheskogo-oruzhiya) девочку в ночь на 6 декабря на Судостроительной улице в Москве. Он был не при исполнении и в гражданской одежде.
 
-Сегодня столичное управление МВД [сообщило](https://novayagazeta.ru/news/2020/12/07/166242-iz-mvd-uvolili-politseyskogo-kotoryy-ranil-devochku-iz-travmaticheskogo-oruzhiya) об увольнении сотрудника из органов. Уполномоченный по правам ребенка Москвы Ольга Ярославская рассказала, что жизни пострадавшей девочки ничто не угрожает.
+Сегодня столичное управление МВД [сообщило](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/12/07/166242-iz-mvd-uvolili-politseyskogo-kotoryy-ranil-devochku-iz-travmaticheskogo-oruzhiya) об увольнении сотрудника из органов. Уполномоченный по правам ребенка Москвы Ольга Ярославская рассказала, что жизни пострадавшей девочки ничто не угрожает.

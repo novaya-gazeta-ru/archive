@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/17/1337246930_753583_49.jpg" style="width: 300px; height: 455px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/17/1337246930_753583_49.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/17/1337246930_753583_49.jpg)" style="width: 300px; height: 455px; "><br>
 				<sup>Асгат Сафаров. РИА «Новости»/Максим Богодвид</sup></td>
 		</tr>
 	</tbody>]*

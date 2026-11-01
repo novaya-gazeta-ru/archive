@@ -21,7 +21,7 @@ tags: ""
 
 Судьба трех человек все еще неизвестна.
 
-Мощный взрыв газа и обрушение дома произошли в Саратове [утром 25 июля](https://novayagazeta.ru/articles/2025/07/25/v-saratove-obrushilsia-podezd-zhilogo-10-etazhnogo-doma-pogibli-kak-minimum-tri-cheloveka-odin-iz-nikh-rebenok-pod-zavalami-est-liudi-news). Эпицентр — квартира на одном из верхних этажей многоэтажки. После взрыва в панельном доме обвалилась угловая секция с 7 по 10 этажи.
+Мощный взрыв газа и обрушение дома произошли в Саратове [утром 25 июля](2025/07/25/v-saratove-obrushilsia-podezd-zhilogo-10-etazhnogo-doma-pogibli-kak-minimum-tri-cheloveka-odin-iz-nikh-rebenok-pod-zaval.md). Эпицентр — квартира на одном из верхних этажей многоэтажки. После взрыва в панельном доме обвалилась угловая секция с 7 по 10 этажи.
 
 Власти региона объявили 26 июля траурным днем по погибшим.
 

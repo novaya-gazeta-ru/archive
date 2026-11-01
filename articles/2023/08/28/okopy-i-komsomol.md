@@ -51,7 +51,7 @@ tags: "нвп , высшее образование, патриотизм, во�
 
 Посмотрим, что из этого выйдет. Но в любом случае это будет мало чем отличаться от учебника истории Мединского.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/08/22/umy-dolzhny-byt-pokrasheny-edinoobrazno
+**Читайте также:** [https://novayagazeta.ru/articles/2023/08/22/umy-dolzhny-byt-pokrasheny-edinoobrazno](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/08/22/umy-dolzhny-byt-pokrasheny-edinoobrazno)
 
 ## **НВП — и в вузах**
 
@@ -87,4 +87,4 @@ tags: "нвп , высшее образование, патриотизм, во�
 
 Впрочем, особый «восторг» студентов вызывает фраза с сайта Минобра: «формирование первичных умений и навыков для подготовки студентов к военной или иной государственной службе». Похоже, никто даже не скрывает, что от армии не отвертеться никому.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/08/28/petr-pervyi-vrag-naroda
+**Читайте также:** [Петр Первый — враг народа](2023/08/28/petr-pervyi-vrag-naroda.md)

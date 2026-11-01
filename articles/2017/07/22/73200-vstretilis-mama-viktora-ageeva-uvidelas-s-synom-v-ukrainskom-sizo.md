@@ -13,7 +13,7 @@ tags: "агеев виктор, украина"
 
 *Павел Каныгин передает с места событий*
 
-**link:** https://novayagazeta.ru/articles/2017/07/23/73205-ya-hochu-chtoby-menya-vytaschili-otsyuda
+**link:** [«Я хочу, чтобы меня вытащили отсюда»](2017/07/23/73205-ya-hochu-chtoby-menya-vytaschili-otsyuda.md)
 
 *(по телефону из Старобельска, Луганская область Украины)*
 
@@ -35,6 +35,6 @@ tags: "агеев виктор, украина"
 
 Еще Агеева беспокоилась, что на территории Украины она столкнется с агрессией. Мама ефрейтора читала комментарии в соцсетях, переживала. Несмотря на то, что сын ее сейчас обвиняется в серьезных преступлениях, к матери тут относятся спокойно, ей содействуют и идут навстречу.
 
-**link:** https://novayagazeta.ru/articles/2017/07/21/73199-my-s-mamoy-plennogo-rossiyanina-viktora-ageeva-svetlanoy-v-ehali-na-ukrainu
+**link:** [«Мы с мамой пленного россиянина Виктора Агеева въехали на Украину»](2017/07/21/73199-my-s-mamoy-plennogo-rossiyanina-viktora-ageeva-svetlanoy-v-ehali-na-ukrainu.md)
 
 *Старобельск, Украина*

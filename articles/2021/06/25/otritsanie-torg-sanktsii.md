@@ -49,4 +49,4 @@ tags: ""
 
 Следующей стадией непременно будет торг.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/23/iskusstvo-kolobka
+**Читайте также:** [Искусство колобка](2021/06/23/iskusstvo-kolobka.md)

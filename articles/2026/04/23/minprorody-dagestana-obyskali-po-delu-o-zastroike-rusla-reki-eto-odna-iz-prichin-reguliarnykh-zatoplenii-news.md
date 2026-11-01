@@ -25,4 +25,4 @@ tags: ""
 
 В начале апреля глава региона Сергей Меликов [заявил](https://www.kommersant.ru/doc/8569618), что подтопления связаны с «бездумной застройкой» в русле реки Тарнаика.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/04/16/kavkazskie-ekstremalnye-vody
+**Читайте также:** [Кавказские экстремальные воды](2026/04/16/kavkazskie-ekstremalnye-vody.md)

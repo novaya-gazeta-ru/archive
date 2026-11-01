@@ -39,7 +39,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/12/20/1419081107_686756_52.jpg" style="width: 300px; height: 413px;"><span style="font-size: 10px; text-align: right;">Фото: Евгений&nbsp;Фельдман / «Новая газета»</span></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/12/20/1419081107_686756_52.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/12/20/1419081107_686756_52.jpg)" style="width: 300px; height: 413px;"><span style="font-size: 10px; text-align: right;">Фото: Евгений&nbsp;Фельдман / «Новая газета»</span></td>
 		</tr>
 	</tbody>]*
 

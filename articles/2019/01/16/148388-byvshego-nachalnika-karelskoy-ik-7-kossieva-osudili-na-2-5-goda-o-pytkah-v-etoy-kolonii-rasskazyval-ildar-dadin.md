@@ -15,9 +15,9 @@ tags: "пытки, ильдар дадин, колонии, карелия, су
 
 Его заместителя Анатолия Луиста приговорили к трем годам колонии общего режима также за злоупотребление полномочиями и превышение их, а также за получение взятки (ч. 3 ст. 290 УК).
 
-Оба дали признательные показания и дела рассматривали в особом порядке: их [обвиняли](https://www.novayagazeta.ru/news/2018/05/24/141944-eks-nachalnik-karelskoy-ik-7-stal-figurantom-ugolovnogo-dela-o-pytkah-v-etoy-kolonii-rasskazyval-ildar-dadin) в том, что в 2016 году они намеренно отправили обеспеченных заключенных колонии на «участки работ, где использовался тяжелый физический труд», требуя взятку на «ремонт и благоустройство» за послабление режима.
+Оба дали признательные показания и дела рассматривали в особом порядке: их [обвиняли](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/05/24/141944-eks-nachalnik-karelskoy-ik-7-stal-figurantom-ugolovnogo-dela-o-pytkah-v-etoy-kolonii-rasskazyval-ildar-dadin) в том, что в 2016 году они намеренно отправили обеспеченных заключенных колонии на «участки работ, где использовался тяжелый физический труд», требуя взятку на «ремонт и благоустройство» за послабление режима.
 
-**link:** https://novayagazeta.ru/articles/2017/06/14/72791-radi-obschey-svobody-pozhertvoval-svoey
+**link:** [«Ради общей свободы пожертвовал своей!»](2017/06/14/72791-radi-obschey-svobody-pozhertvoval-svoey.md)
 
 Напомним, об избиениях и пытках в карельской ИК-1 рассказывал в письмах активист Ильдар Дадин, отбывавший там срок. По его словам, это делали сотрудники колонии вместе с ее начальником, однако проверки карельского управления Следственного комитета тогда не подтвердили фактов незаконного применения насилия к заключенным.
 
@@ -25,4 +25,4 @@ tags: "пытки, ильдар дадин, колонии, карелия, су
 
 После публикации письма Дадина этапировали из колонии в Карелии в ИК-5 Рубцовска. Позднее Верховный суд отменил приговор активисту, признав его право на реабилитацию.
 
-Коссиев после этого ушел в отпуск, а в феврале прошлого года  [стало известно](https://www.novayagazeta.ru/news/2018/02/02/139172-glava-karelskoy-ik-7-ushel-na-pensiyu-o-pytkah-v-etoy-kolonii-rasskazyval-ildar-dadin) о его уходе на пенсию. Дело в отношении него [возбудили](https://www.novayagazeta.ru/news/2018/05/24/141944-eks-nachalnik-karelskoy-ik-7-stal-figurantom-ugolovnogo-dela-o-pytkah-v-etoy-kolonii-rasskazyval-ildar-dadin) в апреле, в отношении Луиста еще раньше — в ноябре 2017 года.
+Коссиев после этого ушел в отпуск, а в феврале прошлого года  [стало известно](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/02/02/139172-glava-karelskoy-ik-7-ushel-na-pensiyu-o-pytkah-v-etoy-kolonii-rasskazyval-ildar-dadin) о его уходе на пенсию. Дело в отношении него [возбудили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/05/24/141944-eks-nachalnik-karelskoy-ik-7-stal-figurantom-ugolovnogo-dela-o-pytkah-v-etoy-kolonii-rasskazyval-ildar-dadin) в апреле, в отношении Луиста еще раньше — в ноябре 2017 года.

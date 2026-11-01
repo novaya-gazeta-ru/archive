@@ -13,7 +13,7 @@ tags: "ирина петровская, татьяна малкина , теле
 
 *«Смотри в оба» с Ириной Петровской и Татьяной Малкиной*
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/10/26/svetlana-sorokina-ia-ubezhdennyi-patsifist-no-patsifizm-okazalsia-ne-aktualen-kak-i-zhurnalistika
+**Читайте также:** [Светлана Сорокина: «Я — убежденный пацифист. Но пацифизм оказался не актуален, как и журналистика»&nbsp;](2023/10/26/svetlana-sorokina-ia-ubezhdennyi-patsifist-no-patsifizm-okazalsia-ne-aktualen-kak-i-zhurnalistika.md)
 
 Читайте также
 

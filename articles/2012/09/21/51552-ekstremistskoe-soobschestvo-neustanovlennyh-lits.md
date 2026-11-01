@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right" style="">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/21/1348240065_739292_44.jpg" style="width: 360px; height: 480px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/21/1348240065_739292_44.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/21/1348240065_739292_44.jpg)" style="width: 360px; height: 480px; "><br>
 				<sup>Игорь Харченко в суде. Фото автора</sup><br>
 				&nbsp;</td>
 		</tr>

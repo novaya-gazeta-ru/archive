@@ -15,7 +15,7 @@ tags: "забастовка, такси"
 
 ___
 
-# [**Забастовка такси: «шашечки» против кнопочек**](http://www.novayagazeta.ru/economy/67272.html)
+# [**Забастовка такси: «шашечки» против кнопочек**](https://web.archive.org/web/*/http://www.novayagazeta.ru/economy/67272.html)
 
 ___
 

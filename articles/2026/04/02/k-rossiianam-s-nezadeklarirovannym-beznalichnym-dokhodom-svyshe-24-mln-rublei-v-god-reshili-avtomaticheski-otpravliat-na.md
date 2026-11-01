@@ -23,6 +23,6 @@ tags: ""
 
 В случае принятия закона новые правила должны будут заработать через 9 месяцев с момента подписания.
 
-Одновременно другим законом, тоже внесенным в Госдуму, правительство предложило обязать россиян с 1 июля [уведомлять налоговую](https://novayagazeta.ru/articles/2026/04/02/vlasti-khotiat-obiazat-rezidentov-rf-uvedomliat-nalogovuiu-o-kriptokoshelkakh-i-operatsiiakh-po-nim-v-tom-chisle-rossiian-prozhivaiushchikh-za-rubezhom-news) о наличии криптокошельков и операций по ним.
+Одновременно другим законом, тоже внесенным в Госдуму, правительство предложило обязать россиян с 1 июля [уведомлять налоговую](2026/04/02/vlasti-khotiat-obiazat-rezidentov-rf-uvedomliat-nalogovuiu-o-kriptokoshelkakh-i-operatsiiakh-po-nim-v-tom-chisle-rossiia.md) о наличии криптокошельков и операций по ним.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/23/tsvet-nastroeniia-infliatsiia
+**Читайте также:** [Цвет настроения — инфляция](2026/03/23/tsvet-nastroeniia-infliatsiia.md)

@@ -15,4 +15,4 @@ tags: ""
 
 *[media: &nbsp;]*
 
-*[media: Мы уже публиковали фоторепортажи из штаба <a href="http://www.novayagazeta.ru/photos/58890.html">Алексея Навального</a>&nbsp;и <a href="http://www.novayagazeta.ru/photos/58977.html">Сергея Собянина</a>. Впереди — кандидаты от парламентских партий.]*
+*[media: Мы уже публиковали фоторепортажи из штаба <a href="[http://www.novayagazeta.ru/photos/58890.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/58890.html)">Алексея Навального</a>&nbsp;и <a href="[http://www.novayagazeta.ru/photos/58977.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/58977.html)">Сергея Собянина</a>. Впереди — кандидаты от парламентских партий.]*

@@ -25,4 +25,4 @@ tags: "telegram, суды, приговор"
 
 -
 
-А в последнее время силовики [начали](https://novayagazeta.ru/articles/2026/07/10/otpravku-zvezd-v-telegram-nachali-traktovat-kak-gosizmenu-news) трактовать отправку «звезд» в Telegram как «госизмену», рассказали юристы.
+А в последнее время силовики [начали](2026/07/10/otpravku-zvezd-v-telegram-nachali-traktovat-kak-gosizmenu-news.md) трактовать отправку «звезд» в Telegram как «госизмену», рассказали юристы.

@@ -21,6 +21,6 @@ tags: "космос, em, falcon, мкс"
 
 *Скриншот трансляции SpaceX.*
 
-Cтарт [должен был состояться](https://novayagazeta.ru/news/2020/05/27/161841-zapusk-kosmicheskogo-korablya-crew-dragon-k-mks-otmenili-iz-za-pogodnyh-usloviy) 27 мая. Тогда его отменили за 16 минут до старта из-за погодных условий.
+Cтарт [должен был состояться](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/05/27/161841-zapusk-kosmicheskogo-korablya-crew-dragon-k-mks-otmenili-iz-za-pogodnyh-usloviy) 27 мая. Тогда его отменили за 16 минут до старта из-за погодных условий.
 
-**link:** https://novayagazeta.ru/articles/2020/05/27/85568-kak-vam-takoe-ot-ilona-maska-pilotiruemyy-polet-crew-dragon-nachinaet-novuyu-eru-v-kosmonavtike-chto-ob-etom-govoryat-kosmonavty-spetsialisty-i-pisateli-fantasty-vnutri-pryamaya-translyatsiya-starta
+**link:** [Как вам такое от Илона Маска?](2020/05/27/85568-kak-vam-takoe-ot-ilona-maska-pilotiruemyy-polet-crew-dragon-nachinaet-novuyu-eru-v-kosmonavtike-chto-ob-etom-govor.md)

@@ -17,7 +17,7 @@ tags: "израиль, палестина, обстрелы, война, тел�
 
 *Фото: Getty Images*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/05/12/linii-vozobnovleniia-ognia
+**Читайте также:** [Линии возобновления огня](2021/05/12/linii-vozobnovleniia-ognia.md)
 
 ![](_assets/34/349995799f44334772f21fecf14cd8d9.webp)
 
@@ -51,7 +51,7 @@ tags: "израиль, палестина, обстрелы, война, тел�
 
 *11 мая. Кровь палестинца Ахмеда аль-Шенбари, убитого во время израильского налета на город Бейт-Ханун в Газе. Фото: Getty Images*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/05/12/kto-otstrelivaet-palestinskikh-komandirov
+**Читайте также:** [Кто отстреливает палестинских командиров?](2021/05/12/kto-otstrelivaet-palestinskikh-komandirov.md)
 
 ![](_assets/42/42de0d9e6f4dc26b9fdca074524050b2.webp)
 

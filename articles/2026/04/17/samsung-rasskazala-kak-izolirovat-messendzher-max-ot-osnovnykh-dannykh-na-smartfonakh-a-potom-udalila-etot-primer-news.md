@@ -27,8 +27,8 @@ Samsung опубликовала на официальном сайте подд
 
 Власти продвигают MAX как «национальный мессенджер», блокируя другие сервисы и обязывая бюджетников, госслужащих, учителей, студентов и другие категории граждан перейти на него. К нему много претензий со стороны технических специалистов. Например, MAX получает доступ к другим приложениям на смартфоне, историям браузеров, звонков, текстам с экрана, и ищет VPN.
 
-Но за VPN на устройствах россиян с некоторых пор следит [большинство самых популярных приложений](https://novayagazeta.ru/articles/2026/04/10/iandeks-wildberries-i-eshche-dva-desiatka-samykh-populiarnykh-rossiiskikh-servisov-budut-sledit-za-vpn-na-smartfonakh-polzovatelei-pod-ugrozoi-sanktsii-news), скачиваемых в России.
+Но за VPN на устройствах россиян с некоторых пор следит [большинство самых популярных приложений](2026/04/10/iandeks-wildberries-i-eshche-dva-desiatka-samykh-populiarnykh-rossiiskikh-servisov-budut-sledit-za-vpn-na-smartfonakh-po.md), скачиваемых в России.
 
 > **читайте также**
 >
-> ### «Новая» [рассказывала](https://novayagazeta.ru/articles/2025/10/17/zvonit-nekomu-zato-tam-prikolnye-stikery), как MAX использует смартфоны пользователей
+> ### «Новая» [рассказывала](2025/10/17/zvonit-nekomu-zato-tam-prikolnye-stikery.md), как MAX использует смартфоны пользователей

@@ -57,4 +57,4 @@ tags: "российское кино, авторское кино, жолнин"
 >
 > Лариса Малюкова ведет телеграм-канал о кино и не только. [Подписывайтесь тут](https://t.me/larisamalukova).
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/11/21/vverkh-po-lestnitse-vedushchei-vverkh
+**Читайте также:** [Вверх по лестнице, ведущей вверх](2023/11/21/vverkh-po-lestnitse-vedushchei-vverkh.md)

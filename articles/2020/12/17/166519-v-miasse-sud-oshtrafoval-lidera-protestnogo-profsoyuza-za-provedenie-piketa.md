@@ -21,13 +21,13 @@ tags: "sf, штрафы, увольнения, протесты, миасс"
 
 По словам Банных, сегодня утром его вызывали к участковому на допрос для дачи показаний. Якобы руководство завода «Урал», где работает Анатолий, хочет его привлечь по статье 128.1 УК (Клевета).
 
-Несогласованный пикет  у городской администрации в Миассе [прошел](https://novayagazeta.ru/news/2020/11/29/166072-v-miasse-proshel-nesoglasovannyy-piket-rabochih-avtozavoda-ural-za-sohranenie-rabochih-mest-i-prava-na-trud) 29 ноября. Несколько десятков человек вышли на массовый пикет за сохранение рабочих мест и права на труд. Часть протестующих ранее [уволили](https://novayagazeta.ru/news/2020/11/11/165622-sud-v-miasse-priznal-nezakonnym-uvolnenie-shesteryh-zavodchan-ih-otstranili-ot-raboty-za-uchastie-v-protestah) с завода «Урал», а потом восстановили на работе по решению суда.
+Несогласованный пикет  у городской администрации в Миассе [прошел](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/29/166072-v-miasse-proshel-nesoglasovannyy-piket-rabochih-avtozavoda-ural-za-sohranenie-rabochih-mest-i-prava-na-trud) 29 ноября. Несколько десятков человек вышли на массовый пикет за сохранение рабочих мест и права на труд. Часть протестующих ранее [уволили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/11/165622-sud-v-miasse-priznal-nezakonnym-uvolnenie-shesteryh-zavodchan-ih-otstranili-ot-raboty-za-uchastie-v-protestah) с завода «Урал», а потом восстановили на работе по решению суда.
 
 Конфликт рабочих и руководства завода «Урал» возник в феврале, когда сотрудники вышли на массовый пикет против введения на производстве скользящего графика, ограничивающего рабочим право на два выходных подряд.
 
-Весной трудовая инспекция [отменила](https://novayagazeta.ru/news/2020/07/31/163430-v-miasse-uvolili-pyateryh-rabotnikov-uralaza-uchastvovavshih-v-aktsiyah-protesta) введение скользящего графика, признав его ухудшающим положение рабочих на производстве.
+Весной трудовая инспекция [отменила](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/07/31/163430-v-miasse-uvolili-pyateryh-rabotnikov-uralaza-uchastvovavshih-v-aktsiyah-protesta) введение скользящего графика, признав его ухудшающим положение рабочих на производстве.
 
-**link:** https://novayagazeta.ru/articles/2020/05/03/85203-soprotivlenie-miassa
+**link:** [Сопротивление Миасса](2020/05/03/85203-soprotivlenie-miassa.md)
 
 При этом летом администрация завода «Урал» уволила шестерых рабочих (в том числе лидера протестного профсоюза), принимавших участие в протестных акциях, за отказ подписать новый трудовой договор, в тексте которого сохранился скользящий график.
 

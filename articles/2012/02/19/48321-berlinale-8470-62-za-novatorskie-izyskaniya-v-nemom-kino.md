@@ -27,7 +27,7 @@ tags: ""
 
 Что касается «Золотого Медведя» братьям Тавиани, то, на мой взгляд, это мудрое и взвешенное решение.
 
-**link:** https://novayagazeta.ru/arts/51034.html
+**link:** [https://novayagazeta.ru/arts/51034.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/51034.html)
 
 В Берлине обладателей Каннской пальмовой ветви посчитали справедливым приветить.
 

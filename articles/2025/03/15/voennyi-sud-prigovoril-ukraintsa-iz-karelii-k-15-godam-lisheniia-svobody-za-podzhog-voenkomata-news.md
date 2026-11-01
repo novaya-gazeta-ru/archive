@@ -27,4 +27,4 @@ tags: ""
 
 Сам осужденный свою вину не признал, а сторона защиты считает обвинение недоказанным: в деле фигурировала видеозапись произошедшего с камер наблюдения, но подтвердить личность человека, который бросал бутылки с зажигательной смесью в здание военкомата по этой записи не удалось.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/07/osuzhdennuiu-za-graffiti-17-letniuiu-chitinskuiu-shkolnitsu-etapirovali-v-koloniiu-dlia-nesovershennoletnikh-news
+**Читайте также:** [Осужденную за граффити 17-летнюю читинскую школьницу этапировали в колонию для несовершеннолетних&nbsp;](2025/03/07/osuzhdennuiu-za-graffiti-17-letniuiu-chitinskuiu-shkolnitsu-etapirovali-v-koloniiu-dlia-nesovershennoletnikh-news.md)

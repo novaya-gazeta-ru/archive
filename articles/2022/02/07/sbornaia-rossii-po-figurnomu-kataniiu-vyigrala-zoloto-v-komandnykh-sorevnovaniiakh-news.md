@@ -25,12 +25,12 @@ tags: "фигурное катание, олимпиада, пекин, nt"
 
 Второе место заняла команды из США, третье — Япония.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/06/17-mgnovenii-zimy
+**Читайте также:** [17 мгновений зимы](2022/02/06/17-mgnovenii-zimy.md)
 
 После победы фигуристов Россия вышла в лидеры медального зачета. Россияне выступают под нейтральным флагом (ROC) из-за санкций Всемирного антидопингового агентства.
 
 ![](_assets/91/91649911c61a0e4f9840d588e47437fa.webp)
 
-Накануне российский лыжник Александр Большунов [выиграл](https://novayagazeta.ru/articles/2022/02/06/lyzhnik-aleksandr-bolshunov-prines-rossii-pervoe-olimpiiskoe-zoloto-news) золотую медаль в скиатлоне. Второе место в соревновании также занял россиянин — Денис Спицов. Чуть позже российская фристайлистка Анастасия Смирнова [заняла](https://novayagazeta.ru/articles/2022/02/06/rossiiskaia-fristailistka-anastasiia-smirnova-zavoevala-bronzovuiu-medal-v-mogule-na-olimpiade-v-pekine-news) третье место в могуле.
+Накануне российский лыжник Александр Большунов [выиграл](2022/02/06/lyzhnik-aleksandr-bolshunov-prines-rossii-pervoe-olimpiiskoe-zoloto-news.md) золотую медаль в скиатлоне. Второе место в соревновании также занял россиянин — Денис Спицов. Чуть позже российская фристайлистка Анастасия Смирнова [заняла](2022/02/06/rossiiskaia-fristailistka-anastasiia-smirnova-zavoevala-bronzovuiu-medal-v-mogule-na-olimpiade-v-pekine-news.md) третье место в могуле.
 
 В первый день серебряные и бронзовые медали в смешанной эстафете [выиграли](https://www.sport-interfax.ru/olimpiada-2022/820421) биатлонисты Ульяна Нигматуллина, Кристина Резцова, Александр Логинов и Эдуард Латыпов, а лыжница Наталья Непряева [принесла](https://www.bbc.com/russian/news-60249439?ocid=wsrussian.social.in-app-messaging.telegram..russiantelegram_.edit) России серебряную медаль в скиатлоне.

@@ -27,4 +27,4 @@ tags: ""
 
 На этих занятиях обсуждают враждебность западных стран по отношению к России, присоединение Крыма, ценность многодетной полной семьи, боевые действия в Украине и т.д.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/21/patriot-s-rozhdeniia-trikolor-pervaia-tvoia-odezhda-v-edinoi-rossii-zanialis-razrabotkoi-gosta-na-podarok-dlia-novorozhdennykh-news
+**Читайте также:** [«Патриот с рождения, триколор первая твоя одежда». В «Единой России» занялись разработкой ГОСТа на подарок для новорожденных](2024/10/21/patriot-s-rozhdeniia-trikolor-pervaia-tvoia-odezhda-v-edinoi-rossii-zanialis-razrabotkoi-gosta-na-podarok-dlia-novorozhd.md)

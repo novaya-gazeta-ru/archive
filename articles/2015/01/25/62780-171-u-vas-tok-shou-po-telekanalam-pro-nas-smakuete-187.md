@@ -73,9 +73,9 @@ tags: "война, днр, мариуполь, специальный репор
 
 — Они — небесная сотня, а мы — кто? — говорит мама Яны.
 
-**novaya:** https://novayagazeta.ru/society/66976.html
+**novaya:** [https://novayagazeta.ru/society/66976.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/66976.html)
 
-**novaya:** https://novayagazeta.ru/society/66976.html
+**novaya:** [https://novayagazeta.ru/society/66976.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/66976.html)
 
 — Пока штору прибили для герметичности. Здесь у нас лежат для подготовки к операции, здесь мы переодеваемся, здесь операционная, — медсестры онкодиспансера проводят экскурсию. Стекла уже вымели, но осколки залетели глубоко внутрь хирургии, побили и стены, и перегородки.
 
@@ -121,9 +121,9 @@ tags: "война, днр, мариуполь, специальный репор
 
 — Ну не знаю. Иногда тех, иногда тех.
 
-**novaya:** https://novayagazeta.ru/columns/66975.html
+**novaya:** [https://novayagazeta.ru/columns/66975.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/66975.html)
 
-**novaya:** https://novayagazeta.ru/columns/66975.html
+**novaya:** [https://novayagazeta.ru/columns/66975.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/66975.html)
 
 Снаружи продолжает громыхать. Тех, кто громыхает, — без разбору — женщина называет «они».
 

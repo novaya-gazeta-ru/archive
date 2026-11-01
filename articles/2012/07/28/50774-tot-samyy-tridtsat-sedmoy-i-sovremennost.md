@@ -16,12 +16,12 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/28/1343465909_380899_97.jpg" style="width: 360px; height: 524px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/28/1343465909_380899_97.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/28/1343465909_380899_97.jpg)" style="width: 360px; height: 524px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<a href="http://www.novayagazeta.ru/storage/c/2012/07/28/1343476303_285417_57.jpg"><img alt="" src="https://static.novayagazeta.ru/storage/c/2012/07/28/1343466054_304746_50.jpg" style="width: 360px; height: 586px; "></a><br>
+					<a href="[http://www.novayagazeta.ru/storage/c/2012/07/28/1343476303_285417_57.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/28/1343476303_285417_57.jpg)"><img alt="" src="https://static.novayagazeta.ru/storage/c/2012/07/28/1343466054_304746_50.jpg" style="width: 360px; height: 586px; "></a><br>
 					<sup>Нажмите, чтобы увеличить документ</sup></p>
 			</td>
 		</tr>

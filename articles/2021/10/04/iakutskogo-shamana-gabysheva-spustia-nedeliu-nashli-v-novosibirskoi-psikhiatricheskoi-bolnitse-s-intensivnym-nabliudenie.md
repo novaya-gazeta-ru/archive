@@ -13,7 +13,7 @@ tags: ""
 
 Якутского шамана Александра Габышева нашли в Новосибирской психиатрической больнице специализированного типа с интенсивным наблюдением. Об этом «Новой газете» рассказал его защитник Алексей Прянишников.
 
-Габышева [направили](https://novayagazeta.ru/articles/2021/07/26/iakutskii-sud-napravil-shamana-gabysheva-na-prinuditelnoe-lechenie-v-organizatsiiu-s-intensivnym-nabliudeniem) в медучреждение в июле по решению Якутского городского суда. «Пока какой-то конкретной информации, говорящей о том, хорошее или плохое это медучреждение, у нас нет. Сейчас будет ее собирать, выяснять. Это больница минздрава, не ФСИН», — объяснил Прянишников.
+Габышева [направили](2021/07/26/iakutskii-sud-napravil-shamana-gabysheva-na-prinuditelnoe-lechenie-v-organizatsiiu-s-intensivnym-nabliudeniem.md) в медучреждение в июле по решению Якутского городского суда. «Пока какой-то конкретной информации, говорящей о том, хорошее или плохое это медучреждение, у нас нет. Сейчас будет ее собирать, выяснять. Это больница минздрава, не ФСИН», — объяснил Прянишников.
 
 Габышева увезли на принудительное лечение 26 сентября, о чем Прянишникову сообщили сотрудники якутского СИЗО, где шаман содержался до вступления постановления суда в силу.
 
@@ -29,10 +29,10 @@ tags: ""
 
 > «Это довольно реактивная публика», — подытожил Прянишников.
 
-В феврале этого года против Габышева [завели](https://novayagazeta.ru/articles/2021/02/25/168142-primenil-holodnoe-oruzhie-kustarnogo-proizvodstva-i-nanes-politseyskomu-koloto-rezanuyu-ranu-sk-raz-yasnil-sut-dela-protiv-shamana-gabysheva) дело о применении насилия к силовику (ст. 318 УК) из-за ранения правоохранителя, когда в конце января полиция и медработник психдиспансера приехали к шаману, чтобы доставить его в медучреждение. В начале февраля суд [удовлетворил](https://novayagazeta.ru/news/2021/02/02/167567-yakutskogo-shamana-gabysheva-vnov-prinuditelno-gospitalizirovali-v-psihdispanser) иск психоневрологического диспансера о принудительной госпитализации Габышева.
+В феврале этого года против Габышева [завели](2021/02/25/168142-primenil-holodnoe-oruzhie-kustarnogo-proizvodstva-i-nanes-politseyskomu-koloto-rezanuyu-ranu-sk-raz-yasnil-sut-de.md) дело о применении насилия к силовику (ст. 318 УК) из-за ранения правоохранителя, когда в конце января полиция и медработник психдиспансера приехали к шаману, чтобы доставить его в медучреждение. В начале февраля суд [удовлетворил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2021/02/02/167567-yakutskogo-shamana-gabysheva-vnov-prinuditelno-gospitalizirovali-v-psihdispanser) иск психоневрологического диспансера о принудительной госпитализации Габышева.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/11/24/88097-nechistyy-duh
+**Читайте также:** [«Нечистый дух»](2020/11/24/88097-nechistyy-duh.md)
 
-Это стало уже вторым помещением шамана в психдиспансер. Впервые суд [постановил](https://novayagazeta.ru/news/2020/06/02/161984-sud-otpravil-yakutskogo-shamana-gabysheva-na-prinuditelnoe-lechenie-v-psihdispanser) отправить Габышева на принудительное лечение в июне прошлого года, но уже в июле шамана [выписали](https://novayagazeta.ru/news/2020/07/22/163188-iz-yakutskogo-psihdispansera-vypisali-shamana-aleksandra-gabysheva).
+Это стало уже вторым помещением шамана в психдиспансер. Впервые суд [постановил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/06/02/161984-sud-otpravil-yakutskogo-shamana-gabysheva-na-prinuditelnoe-lechenie-v-psihdispanser) отправить Габышева на принудительное лечение в июне прошлого года, но уже в июле шамана [выписали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/07/22/163188-iz-yakutskogo-psihdispansera-vypisali-shamana-aleksandra-gabysheva).
 
 Габышев впервые объявил о пешем походе на Москву, чтобы «изгнать» президента России Владимира Путина, в 2019 году. Ему удалось дойти до Бурятии, однако его задержали.

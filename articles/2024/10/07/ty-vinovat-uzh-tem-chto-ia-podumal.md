@@ -33,7 +33,7 @@ tags: ""
 
 На простой вопрос к Малаховскому: «Если вы видели, что совсем юная девушка пытается что-то прикрепить к памятнику, почему вы ее не остановили?» — бывший страж правопорядка ответил безыскусно: не хотели применять силу. То есть ни он, ни его коллеги даже на словах не попытались пресечь действия Дарьи, но после того, как она прикрепила листок, они спокойно применили силу и задержали девушку.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/17/18-letniuiu-dariu-kozyrevu-eshche-na-polgoda-ostavili-v-sizo-po-delu-o-diskreditatsii-armii-news
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/17/18-letniuiu-dariu-kozyrevu-eshche-na-polgoda-ostavili-v-sizo-po-delu-o-diskreditatsii-armii-news](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/17/18-letniuiu-dariu-kozyrevu-eshche-na-polgoda-ostavili-v-sizo-po-delu-o-diskreditatsii-armii-news)
 
 ## А был ли переводчик?
 

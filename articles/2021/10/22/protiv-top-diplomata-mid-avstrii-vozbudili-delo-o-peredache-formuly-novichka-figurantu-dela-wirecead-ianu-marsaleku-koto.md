@@ -27,7 +27,7 @@ tags: "ян марсалек, новичок, гру, австрия, скрип
 
 Сразу после этого глава Wirecard Маркус Браун был арестован, а член совета директоров Ян Марсалек пропал без вести. Позже Марсалек обнаружился в Минске. В ноябре 2020 года газета Handelsblatt [писала](https://www.handelsblatt.com/politik/deutschland/gefluechteter-ex-wirecard-vorstand-moskauer-milliarden-monopoly-jan-marsaleks-verbindungen-in-russlands-finanzwelt/26252646.html), что Марсалек перебрался в Москву и якобы живет в России под наблюдением Службы внешней разведки РФ и ГРУ. Он объявлен в международный розыск.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/02/01/88999-perelet-korruptsii-cherez-alpy
+**Читайте также:** [https://novayagazeta.ru/articles/2021/02/01/88999-perelet-korruptsii-cherez-alpy](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/02/01/88999-perelet-korruptsii-cherez-alpy)
 
 По [данным](https://www.derstandard.at/story/2000123551834/causa-wirecard-ex-fpoe-politiker-und-ex-bvt-abteilungsleiter-im) СМИ, бежать из ЕС на частном самолете ему помогли экс-сотрудник австрийской разведки и депутат парламента Австрии от правой Партии свободы Томас Шелленбахер. Der Spigel, Bellingcat* и The Insider* [утверждают](https://www.bellingcat.com/news/uk-and-europe/2020/07/18/worlds-most-wanted-man-jan-marsalek-located-in-belarus-data-points-to-russian-intel-links/), что Марсалек часто летал в Москву и другие города России, а также был связан с российскими ЧВК и работал вместе с преподавателем ВШЭ Андреем Чупрыгиным, которого западные разведки считают сотрудником ГРУ.
 

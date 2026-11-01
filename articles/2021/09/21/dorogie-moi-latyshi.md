@@ -17,9 +17,9 @@ tags: "латвия, сахалин, единая россия, голосова
 
 > Напомним, что в разных странах мира организовано 348 участков, они [приписаны](http://cikrf.ru/analog/ediny-den-golosovaniya-2021/kategorii-viborov/vibori-deputatov-gosdumi/ggzr/) в России почти к 70 одномандатным округам.
 
-На них голосуют граждане РФ, живущие за рубежом. Причем даже объединением по климатическому признаку никто не заморачивался: например, в один округ (Нижегородский) [попали](https://novayagazeta.ru/articles/2021/09/15/inostrannoe-vmeshatelstvo-v-vybory) Кот-д’Ивуар, Буркина-Фасо и Исландия.
+На них голосуют граждане РФ, живущие за рубежом. Причем даже объединением по климатическому признаку никто не заморачивался: например, в один округ (Нижегородский) [попали](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/15/inostrannoe-vmeshatelstvo-v-vybory) Кот-д’Ивуар, Буркина-Фасо и Исландия.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/15/inostrannoe-vmeshatelstvo-v-vybory
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/15/inostrannoe-vmeshatelstvo-v-vybory](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/15/inostrannoe-vmeshatelstvo-v-vybory)
 
 Голоса из Латвии распределились между двумя антагонистами так:
 

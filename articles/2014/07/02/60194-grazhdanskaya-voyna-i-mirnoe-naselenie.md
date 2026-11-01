@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/07/02/1404314696_279139_60.jpg" style="width: 340px; height: 255px;"><sup>Рустем Клупов</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/07/02/1404314696_279139_60.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/07/02/1404314696_279139_60.jpg)" style="width: 340px; height: 255px;"><sup>Рустем Клупов</sup></td>
 		</tr>
 	</tbody>]*
 

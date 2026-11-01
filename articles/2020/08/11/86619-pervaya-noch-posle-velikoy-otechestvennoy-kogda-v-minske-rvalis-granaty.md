@@ -83,7 +83,7 @@ tags: "столкновения, лукашенко, минск, протест�
 
 > От большой управленческой культуры, упроченной на посту президента за 26 лет? Или просто посещение агрокомплекса навеяло?
 
-**link:** https://novayagazeta.ru/articles/2020/08/11/86611-protesty-v-belarusi-den-tretiy-online
+**link:** [https://novayagazeta.ru/articles/2020/08/11/86611-protesty-v-belarusi-den-tretiy-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/11/86611-protesty-v-belarusi-den-tretiy-online)
 
 * **
 
@@ -99,7 +99,7 @@ tags: "столкновения, лукашенко, минск, протест�
 
 Люди, узнающие, что ты журналист, неизменно желают удачи и просят об осторожности. «Будьте осторожны», «берегите себя» — наряду со «здравствуйте», «спасибо», «тихари» (сексоты, гэбэшники), «провокаторы», «армия», «автозаки», «фальсификации» — в эти дни основные понятия в стране, которой правит человек, триумфально избранный 80% голосов.
 
-**link:** https://novayagazeta.ru/articles/2020/08/11/86615-hapun-izlyublennaya-taktika-belorusskih-silovikov
+**link:** [«Хапун» — излюбленная тактика белорусских силовиков](2020/08/11/86615-hapun-izlyublennaya-taktika-belorusskih-silovikov.md)
 
 * **
 
@@ -169,7 +169,7 @@ tags: "столкновения, лукашенко, минск, протест�
 
 А если стоят?
 
-**link:** https://novayagazeta.ru/articles/2020/08/09/86586-mstitelnost-lukashenko-izvestna-davno-no-esli-na-ulitsy-vyydet-300-tysyach
+**link:** [«Мстительность Лукашенко известна. Но если на улицы выйдет 300 тысяч…»](2020/08/09/86586-mstitelnost-lukashenko-izvestna-davno-no-esli-na-ulitsy-vyydet-300-tysyach.md)
 
 ![](_assets/00/0059980fb38879ce1795a1127e6f60ea.webp)
 
@@ -179,7 +179,7 @@ tags: "столкновения, лукашенко, минск, протест�
 
 - **Специальные корреспонденты «Новой газеты», *Минск* **
 
-**link:** https://novayagazeta.ru/articles/2020/08/11/86608-barrikady-minska-den-vtoroy
+**link:** [Баррикады Минска. День второй](2020/08/11/86608-barrikady-minska-den-vtoroy.md)
 
 * Имя изменено по решению редакции.
 

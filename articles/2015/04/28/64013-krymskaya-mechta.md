@@ -33,9 +33,9 @@ tags: "бездомные, крым"
 
 Летом, полагает Григорий, бездомные могут отправиться на подработку. Пособирать ягоды, грибы. Но недалеко: денег на дорогу нет.
 
-**link:** https://novayagazeta.ru/society/68240.html
+**link:** [https://novayagazeta.ru/society/68240.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/68240.html)
 
-**link:** https://novayagazeta.ru/society/68240.html
+**link:** [https://novayagazeta.ru/society/68240.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/68240.html)
 
 По словам Светланы Кисловой, пресс-секретаря службы милосердия при отделе социального служения Екатеринбургской епархии, в Свердловской области также пока не слышали о паломничестве бродяг в Крым.
 

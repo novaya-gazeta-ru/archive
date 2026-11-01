@@ -23,6 +23,6 @@ tags: "минюст, иноагенты, космические станции, 
 
 > Всего за два года «иностранного финансирования» Минюст нашел на 178 500 рублей — мы посчитали, это что-то около 0,18% от оборота», — сообщил Колезев.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany
+**Читайте также:** [https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany)
 
-15 октября министерство юстиции [внесло](https://novayagazeta.ru/articles/2021/10/15/miniust-vnes-izdaniia-rosbalt-i-republic-v-reestr-smi-inoagentov-news) «Москоу Диджитал Медиа» (Republic) в реестр СМИ, выполняющих функцию «иностранного агента». Тогда главный редактор издания Дмитрий Колезев рассказал «Новой», что Republic «финансируется исключительно за счет денег подписчиков», и «никаких источников внешнего финансирования у учредителя нет».
+15 октября министерство юстиции [внесло](2021/10/15/miniust-vnes-izdaniia-rosbalt-i-republic-v-reestr-smi-inoagentov-news.md) «Москоу Диджитал Медиа» (Republic) в реестр СМИ, выполняющих функцию «иностранного агента». Тогда главный редактор издания Дмитрий Колезев рассказал «Новой», что Republic «финансируется исключительно за счет денег подписчиков», и «никаких источников внешнего финансирования у учредителя нет».

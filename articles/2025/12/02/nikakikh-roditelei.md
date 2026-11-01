@@ -65,7 +65,7 @@ tags: "max, мессенджер max, учителя, ученики, школы
 
 Ну и кому от этого будет хуже?
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/21/vy-protivopostavliaete-sebia-fakultetu
+**Читайте также:** [«Вы противопоставляете себя факультету»](2025/11/21/vy-protivopostavliaete-sebia-fakultetu.md)
 
 ## **А кому лучше?**
 

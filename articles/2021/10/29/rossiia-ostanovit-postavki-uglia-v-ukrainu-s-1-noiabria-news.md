@@ -21,4 +21,4 @@ tags: "уголь, украина, верховная рада"
 
 В августе «РБК-Украина» [писало](https://web.archive.org/web/20210831160552/https://www.rbc.ua/rus/news/defitsit-uglya-voznik-anomalnogo-padeniya-1630401807.html) о нехватке угля в стране из-за аномального падения цен на электроэнергию. По данным на 22 октября, из-за ремонтов и дефицита угля на Украине работало только 26 из 69 тепловых энергоблоков, [передавало](https://biz.liga.net/ekonomika/tek/article/hodit-po-lezviyu-noja-ukraina-opyat-ne-gotova-k-zime-pochemu-tak-i-na-chto-nadeyatsya) издание «Liga. Бизнес».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/04/08/a-mozhem-ne-povtoriat
+**Читайте также:** [Можем не повторять?](2021/04/08/a-mozhem-ne-povtoriat.md)

@@ -17,4 +17,4 @@ tags: ""
 
 Как [сообщает](https://ural-meridian.ru/news/211365/) ИА «Уральский меридиан», по результатам проведенного расследования, руководству УФСИН по Курганской области внесли представление об устранении условий и причин, которые способствовали совершению данного преступления. В отношении руководства и сотрудников колонии, допустивших на своей территории совершение тяжких преступлений, уголовное дело не возбуждено.
 
-**link:** https://novayagazeta.ru/articles/2020/02/21/84030-nachalsya-sud-po-samomu-rezonansnomu-delu-o-pytkah-v-istorii-strany-na-skamie-14-sotrudnikov-fsin
+**link:** [Суд рассматривает пытки](2020/02/21/84030-nachalsya-sud-po-samomu-rezonansnomu-delu-o-pytkah-v-istorii-strany-na-skamie-14-sotrudnikov-fsin.md)

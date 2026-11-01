@@ -151,7 +151,7 @@ tags: "вичугский бунт, сталин, враги народа, ре�
 
 Но «получилось» ненадолго. Власть быстро пришла в себя.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/10/23/vse-zheny-izmennikov-rodiny-podlezhat-zakliucheniiu
+**Читайте также:** [«Все жены изменников родины подлежат заключению»](2025/10/23/vse-zheny-izmennikov-rodiny-podlezhat-zakliucheniiu.md)
 
 ## Что было потом?
 
@@ -187,7 +187,7 @@ tags: "вичугский бунт, сталин, враги народа, ре�
 
 Самое время было открывать новые тюрьмы.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/07/dva-vida-ispolneniia-prigovorov-rasstrel-i-udushenie
+**Читайте также:** [«Два вида исполнения приговоров — расстрел и удушение»](2025/11/07/dva-vida-ispolneniia-prigovorov-rasstrel-i-udushenie.md)
 
 ### ***
 

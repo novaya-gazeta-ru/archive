@@ -104,7 +104,7 @@ tags: "цены, продукты, магазин, рост цен, инфляц
 >
 >  **Нина Петлянова**, «Новая»
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/31/chto-zhe-budet-s-sakharom-i-s-nami
+**Читайте также:** [Что же будет с сахаром и с нами?](2021/08/31/chto-zhe-budet-s-sakharom-i-s-nami.md)
 
 ![](_assets/73/73998c141cd401e319a90aefe24f0d15.webp)
 
@@ -204,7 +204,7 @@ tags: "цены, продукты, магазин, рост цен, инфляц
 
 *Фото: Анна Жаворонкова / «Новая газета»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/28/lichnyi-schet-razgromnyi
+**Читайте также:** [Личный счет — разгромный](2021/08/28/lichnyi-schet-razgromnyi.md)
 
 > **Мурманск**
 >

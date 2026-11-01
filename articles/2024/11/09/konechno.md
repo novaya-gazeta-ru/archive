@@ -16,4 +16,4 @@ tags: ""
 Конечно, все наладится,\
  Но что-то так не кажется.
 
-**дугое великостишие:** https://novayagazeta.ru/articles/2024/11/02/o-vazhnosti-pritiazheniia
+**дугое великостишие:** [О важности притяжения](2024/11/02/o-vazhnosti-pritiazheniia.md)

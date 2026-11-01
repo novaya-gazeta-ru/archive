@@ -29,6 +29,6 @@ tags: ""
 
 Россия пообещала оказывать следствию Казахстану и Азербайджану.
 
-А в это время уже несколько международных авиакомпаний [сворачивают свои рейсы](https://novayagazeta.ru/articles/2024/12/27/uzhe-vtoraia-aviakompaniia-svorachivaet-reisy-s-rossiei-posle-krusheniia-passazhirskogo-samoleta-azerbaidzhanskikh-avialinii-25-dekabria-news) в Россию до выяснения обстоятельств трагедии с разбившимся рейсом Embraer в Актау.
+А в это время уже несколько международных авиакомпаний [сворачивают свои рейсы](2024/12/27/uzhe-vtoraia-aviakompaniia-svorachivaet-reisy-s-rossiei-posle-krusheniia-passazhirskogo-samoleta-azerbaidzhanskikh-avial.md) в Россию до выяснения обстоятельств трагедии с разбившимся рейсом Embraer в Актау.
 
-В результате крушения пассажирского Embraer «Азербайджанских авиалиний» рейса Баку — Грозный 25 декабря [выжили](https://novayagazeta.ru/articles/2024/12/25/pri-krushenii-samoleta-azerbaijan-airlines-v-kazakhstane-pogibli-38-chelovek-v-ikh-chisle-deviat-rossiian-news)пассажиры хвостового отсека самолета — 29 человек. Погибли 38, в том числе большинство членов экипажа. Исследуются все версии крушения: от столкновения с птицами и проблем с двигателем — до ракеты российской ПВО.
+В результате крушения пассажирского Embraer «Азербайджанских авиалиний» рейса Баку — Грозный 25 декабря [выжили](2024/12/25/pri-krushenii-samoleta-azerbaijan-airlines-v-kazakhstane-pogibli-38-chelovek-v-ikh-chisle-deviat-rossiian-news.md)пассажиры хвостового отсека самолета — 29 человек. Погибли 38, в том числе большинство членов экипажа. Исследуются все версии крушения: от столкновения с птицами и проблем с двигателем — до ракеты российской ПВО.

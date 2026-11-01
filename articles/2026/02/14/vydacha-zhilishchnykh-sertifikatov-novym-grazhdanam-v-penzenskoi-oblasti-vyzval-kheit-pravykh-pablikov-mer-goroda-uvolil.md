@@ -33,6 +33,6 @@ tags: ""
 
 Теперь ведомство считает, что жилищные сертификаты «незаконно выдали двум многодетным семьям, члены которых ранее являлись иностранными гражданами и впоследствии получили гражданство РФ». И хочет проверить «возможные факты нарушения прав иных семей» из числа претендентов.
 
-В январе националистические телеграм-каналы похожим образом [«захейтили»](https://novayagazeta.ru/articles/2026/01/05/mnogodetnaia-semia-vykhodtsev-iz-azerbaidzhana-poprosila-chinovnika-iz-ekaterinburga-zabrat-novogodnie-podarki-posle-kheita-v-sotssetiakh-news) семью уроженцев Азербайджана в Екатеринбурге. Глава района в рамках благотворительной акции «Елка желаний» тогда снял наугад игрушку с елки, в которой оказалось желание 7-летнего Али, попросившего трюковый самокат.
+В январе националистические телеграм-каналы похожим образом [«захейтили»](2026/01/05/mnogodetnaia-semia-vykhodtsev-iz-azerbaidzhana-poprosila-chinovnika-iz-ekaterinburga-zabrat-novogodnie-podarki-posle-khe.md) семью уроженцев Азербайджана в Екатеринбурге. Глава района в рамках благотворительной акции «Елка желаний» тогда снял наугад игрушку с елки, в которой оказалось желание 7-летнего Али, попросившего трюковый самокат.
 
-После фотоотчета с вручением подарка и реакции националистических пабликов семья попросила чиновника [забрать подарки обратно](https://novayagazeta.ru/articles/2026/01/05/mnogodetnaia-semia-vykhodtsev-iz-azerbaidzhana-poprosila-chinovnika-iz-ekaterinburga-zabrat-novogodnie-podarki-posle-kheita-v-sotssetiakh-news).
+После фотоотчета с вручением подарка и реакции националистических пабликов семья попросила чиновника [забрать подарки обратно](2026/01/05/mnogodetnaia-semia-vykhodtsev-iz-azerbaidzhana-poprosila-chinovnika-iz-ekaterinburga-zabrat-novogodnie-podarki-posle-khe.md).

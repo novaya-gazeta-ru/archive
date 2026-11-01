@@ -29,7 +29,7 @@ tags: "как это устроено, провокация, задержани�
 
 В последнее время Иван работал над серьезным расследованием. Когда его задержали, он должен был встречаться с информированным человеком.
 
-**link:** https://novayagazeta.ru/articles/2019/06/07/80807-v-moskve-zaderzhali-korrespondenta-otdela-rassledovaniy-meduzy-ivana-golunova-po-delu-o-narkotikah-glavnoe
+**link:** [https://novayagazeta.ru/articles/2019/06/07/80807-v-moskve-zaderzhali-korrespondenta-otdela-rassledovaniy-meduzy-ivana-golunova-po-delu-o-narkotikah-glavnoe](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/06/07/80807-v-moskve-zaderzhali-korrespondenta-otdela-rassledovaniy-meduzy-ivana-golunova-po-delu-o-narkotikah-glavnoe)
 
 Коллеги знают о том, что Иван получал угрозы. Что за ним, судя по всему, вели наблюдение и что не так давно непонятные люди пытались задавать знакомым вопросы по его поводу.
 

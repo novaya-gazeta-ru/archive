@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/05/30/1401448892_573025_96.jpg" style="width: 340px; height: 255px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/05/30/1401448892_573025_96.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/05/30/1401448892_573025_96.jpg)" style="width: 340px; height: 255px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Фото автора</sup></td>

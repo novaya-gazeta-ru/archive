@@ -16,21 +16,21 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/10/1347284986_585227_67.jpg" style="width: 360px; height: 254px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/10/1347284986_585227_67.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/10/1347284986_585227_67.jpg)" style="width: 360px; height: 254px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/10/1347285470_092204_51.jpg" style="width: 360px; height: 240px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/10/1347285470_092204_51.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/10/1347285470_092204_51.jpg)" style="width: 360px; height: 240px; "><br>
 				<sup>«Мастер»</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/10/1347285470_226911_71.jpg" style="width: 360px; height: 203px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/10/1347285470_226911_71.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/10/1347285470_226911_71.jpg)" style="width: 360px; height: 203px; "><br>
 				<sup>Кадр из фильма Ким Ки Дука «Пьета»</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/10/1347285470_358704_32.jpg" style="width: 360px; height: 535px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/10/1347285470_358704_32.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/10/1347285470_358704_32.jpg)" style="width: 360px; height: 535px; "><br>
 				<sup>«Рай. Вера»</sup></td>
 		</tr>
 	</tbody>]*

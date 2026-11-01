@@ -17,9 +17,9 @@ tags: "ng, эхо москвы, иноагенты"
 
 Как отмечает «Медиазона», решения о штрафах для [радиостанции](https://mos-gorsud.ru/rs/presnenskij/search?caseNumber=&letterNumber=&courtAlias=presnenskij&instance=&participant=%D0%97%D0%90%D0%9E+%22%D0%AD%D0%A5%D0%9E+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B&processType=&uid=&formType=shortForm&page=2) и [главреда сайта](https://mos-gorsud.ru/rs/presnenskij/search?formType=shortForm&courtAlias=presnenskij&uid=&instance=&processType=&letterNumber=&caseNumber=&participant=%D0%A0%D1%83%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9) вступили в силу 6 июля и 15 октября. О каких именно публикациях идет речь, в пресс-службе суда не уточнили.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/15/vsekh-vzdernut-na-reestre
+**Читайте также:** [https://novayagazeta.ru/articles/2021/10/15/vsekh-vzdernut-na-reestre](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/10/15/vsekh-vzdernut-na-reestre)
 
-14 октября суд по иску Минюста [оштрафовал](https://novayagazeta.ru/articles/2021/10/14/sud-oshtrafoval-rus-sidiashchuiu-na-3-tysiachi-rublei-fond-otchitalsia-pered-miniustom-kak-inoagent-no-ne-kak-obychnaia-nko-news) проект Благотворительного фонда помощи осужденным и их семьям «Русь сидящая»** на три тысячи рублей из-за того, что организация отчиталась как «иноагент», но не сдала отчет как обычная НКО. По словам адвоката фонда Леонида Абгаджавы, Минюст не пытался решить проблему до суда. Юристы фонда намерены обжаловать штраф, а если жалобу не удовлетворят, то подавать ее либо в кассацию, либо сразу в ЕСПЧ.
+14 октября суд по иску Минюста [оштрафовал](2021/10/14/sud-oshtrafoval-rus-sidiashchuiu-na-3-tysiachi-rublei-fond-otchitalsia-pered-miniustom-kak-inoagent-no-ne-kak-obychnaia-.md) проект Благотворительного фонда помощи осужденным и их семьям «Русь сидящая»** на три тысячи рублей из-за того, что организация отчиталась как «иноагент», но не сдала отчет как обычная НКО. По словам адвоката фонда Леонида Абгаджавы, Минюст не пытался решить проблему до суда. Юристы фонда намерены обжаловать штраф, а если жалобу не удовлетворят, то подавать ее либо в кассацию, либо сразу в ЕСПЧ.
 
 #### *Внесено Минюстом РФ в список СМИ, выполняющих функцию иностранных агентов
 

@@ -17,8 +17,8 @@ tags: "роскомнадзор, цензура, сми, украина, sf"
 
 Роскомнадзор подчеркнул, что за распространение заведомо ложной информации СМИ могут получить штраф на сумму до 5 млн рублей по статье 13.15 КоАП. Распространение ложной информации в интернете повлечет за собой незамедлительную блокировку этих материалов, предупреждает регулятор.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/24/voina-eto-griaz
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/24/voina-eto-griaz](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/24/voina-eto-griaz)
 
-Ранее Зеленский [ввел](https://novayagazeta.ru/articles/2022/02/24/zelenskii-vvel-voennoe-polozhenie-na-vsei-territorii-ukrainy-news) военное положение на всей территории Украины. МИД страны [призвал](https://mfa.gov.ua/news/rekomendaciyi-gromadyanam-ukrayini-u-zvyazku-iz-ostannimi-rishennyami-rosijskoyi-federaciyi-shcho-grubo-porushuyut-suverenitet-i-teritorialnu-cilisnist-ukrayini) граждан Украины «немедленно» покинуть Россию.
+Ранее Зеленский [ввел](2022/02/24/zelenskii-vvel-voennoe-polozhenie-na-vsei-territorii-ukrainy-news.md) военное положение на всей территории Украины. МИД страны [призвал](https://mfa.gov.ua/news/rekomendaciyi-gromadyanam-ukrayini-u-zvyazku-iz-ostannimi-rishennyami-rosijskoyi-federaciyi-shcho-grubo-porushuyut-suverenitet-i-teritorialnu-cilisnist-ukrayini) граждан Украины «немедленно» покинуть Россию.
 
 Президент России Владимир Путин около 5:30 утра мск объявил о начале «спецоперации» в Украине. «Мы будем стремиться к демилитаризации и денацификации Украины», — сказал он. В Минобороны России заявили, что «выводятся из строя военная инфраструктура, объекты ПВО, военные аэродромы и авиация украинской армии».

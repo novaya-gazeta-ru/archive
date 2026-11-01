@@ -19,12 +19,12 @@ tags: "сергей зуев, шанинка, арест, матросская �
 
 Зуев проходит обвиняемым по делу экс-замминистра просвещения и бывшего вице-президента Сбербанка Марины Раковой о хищении более 21 млн рублей, принадлежащих «Фонду новых форм развития образования» (ч. 4 ст. 159 УК). Своей вины ректор не признает. Шанинка фигурирует в деле в качестве подрядчика.
 
-В феврале Зуева без объяснения причин [выписали](https://novayagazeta.ru/articles/2022/02/10/fakticheski-lishaiut-medpomoshchi-rektora-shaninki-sergeia-zueva-vypisali-iz-bolnitsy-i-pereveli-v-obshchuiu-kameru-sizo-news) из больницы и перевели в общую камеру СИЗО «Матросская Тишина». Защита отмечала, что перед этим профессору назначили новое лечение.
+В феврале Зуева без объяснения причин [выписали](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/10/fakticheski-lishaiut-medpomoshchi-rektora-shaninki-sergeia-zueva-vypisali-iz-bolnitsy-i-pereveli-v-obshchuiu-kameru-sizo-news) из больницы и перевели в общую камеру СИЗО «Матросская Тишина». Защита отмечала, что перед этим профессору назначили новое лечение.
 
 Адвокат Дмитрий Кравченко рассказывал, что Зуева перевели в общую камеру, несмотря на ежедневные скачки давления, боли в сердце и ногах, головокружения, слабость и другие симптомы.
 
 Пресс-секретарь президента России Дмитрий Песков заявил, что Кремль «не может вмешиваться» в дело Зуева и не может «включать гуманитарные аспекты», так как это прерогатива следователей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/03/moiu-reputatsiiu-poddelat-slozhno
+**Читайте также:** [«Мою репутацию подделать сложно»](2022/02/03/moiu-reputatsiiu-poddelat-slozhno.md)
 
-В начале декабря президент РФ Владимир Путин на заседании Совета по правам человека [заявил](https://novayagazeta.ru/articles/2021/12/09/ne-vizhu-neobkhodimosti-derzhat-ego-za-reshetkoi-putin-ob-areste-rektora-shaninki-sergeia-zueva-news), что не считает нужным держать 67-летнего профессора под арестом в СИЗО. После этого адвокаты Зуева [подали](https://novayagazeta.ru/articles/2021/12/10/advokaty-rektora-shaninki-sergeia-zueva-podali-khodataistvo-o-ego-osvobozhdenii-posle-zaiavleniia-putina-na-zasedanii-spch-news) ходатайство о его освобождении, указывая в том числе и на наличие у Зуева хронических и прогрессирующих заболеваний.
+В начале декабря президент РФ Владимир Путин на заседании Совета по правам человека [заявил](2021/12/09/ne-vizhu-neobkhodimosti-derzhat-ego-za-reshetkoi-putin-ob-areste-rektora-shaninki-sergeia-zueva-news.md), что не считает нужным держать 67-летнего профессора под арестом в СИЗО. После этого адвокаты Зуева [подали](2021/12/10/advokaty-rektora-shaninki-sergeia-zueva-podali-khodataistvo-o-ego-osvobozhdenii-posle-zaiavleniia-putina-na-zasedanii-sp.md) ходатайство о его освобождении, указывая в том числе и на наличие у Зуева хронических и прогрессирующих заболеваний.

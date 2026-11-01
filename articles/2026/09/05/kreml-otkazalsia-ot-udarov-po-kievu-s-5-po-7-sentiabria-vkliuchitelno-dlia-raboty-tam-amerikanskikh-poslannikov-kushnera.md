@@ -13,7 +13,7 @@ tags: ""
 
 > 18+. НАСТОЯЩИЙ МАТЕРИАЛ (ИНФОРМАЦИЯ) ПРОИЗВЕДЕН, РАСПРОСТРАНЕН И (ИЛИ) НАПРАВЛЕН ИНОСТРАННЫМ АГЕНТОМ ИНТЕРНЕТ-ИЗДАНИЕ «НОВАЯ ГАЗЕТА» ЛИБО КАСАЕТСЯ ДЕЯТЕЛЬНОСТИ ИНОСТРАННОГО АГЕНТА ИНТЕРНЕТ-ИЗДАНИЕ «НОВАЯ ГАЗЕТА».
 
-Днем 5 сентября в Москву из США [прибыли](https://novayagazeta.ru/articles/2026/09/05/peregovorshchiki-trampa-uitkoff-i-kushner-privezli-v-moskvu-novoe-mirnoe-predlozhenie-vizit-prokhodit-bez-prekrashcheniia-ognia-news) спецпосланники Трампа по Украине Стив Уиткофф и Джаред Кушнер. В аэропорту Внуково их встретил спецпредставитель президента Путина Кирилл Дмитриев.
+Днем 5 сентября в Москву из США [прибыли](2026/09/05/peregovorshchiki-trampa-uitkoff-i-kushner-privezli-v-moskvu-novoe-mirnoe-predlozhenie-vizit-prokhodit-bez-prekrashchenii.md) спецпосланники Трампа по Украине Стив Уиткофф и Джаред Кушнер. В аэропорту Внуково их встретил спецпредставитель президента Путина Кирилл Дмитриев.
 
 ![](_assets/c0/c08446f663b759332032d0f67f44667b.webp)
 

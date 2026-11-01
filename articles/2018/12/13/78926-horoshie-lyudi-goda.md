@@ -33,6 +33,6 @@ C 1927 года журнал Time выбирает персону года (до
 
 > Жаль, что Time не упоминает в числе «стражей» Орхана Джемаля и его коллег, трагически погибших в ЦАР.
 
-**link:** https://novayagazeta.ru/articles/2018/08/31/77659-a-byl-li-martin
+**link:** [https://novayagazeta.ru/articles/2018/08/31/77659-a-byl-li-martin](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2018/08/31/77659-a-byl-li-martin)
 
 Но мы знаем, что они тоже заслужили право быть в этом списке, как и все погибшие в 2018 году журналисты, просто делавшие свою работу.

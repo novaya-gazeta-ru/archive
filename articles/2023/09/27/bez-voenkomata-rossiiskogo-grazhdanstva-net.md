@@ -19,4 +19,4 @@ tags: "ганнушкина, призыв, военкомат, мобилиза�
 
 #### * Внесена властями РФ в реестр «иностранных агентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/09/15/eto-pokushenie-na-konstitutsionnyi-stroi
+**Читайте также:** [«Это покушение на конституционный строй»](2023/09/15/eto-pokushenie-na-konstitutsionnyi-stroi.md)

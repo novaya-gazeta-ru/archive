@@ -34,10 +34,10 @@ tags: "выборы в госдуму, партии, госдума, em, еди�
 
 Всего в нижней палате российского парламента 450 мест. 225 из них распределяются по спискам партий, еще столько же — по одномандатным округам.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/21/internet-za-edinuiu-rossiiu
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/21/internet-za-edinuiu-rossiiu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/21/internet-za-edinuiu-rossiiu)
 
 Голосование на выборах в Госдуму проходило 17-19 сентября. По итогам обработки 100% протоколов ЦИК сообщил о 49,82% голосов, отданных «Единой России», 18,93% — КПРФ, 7,55% — ЛДПР, 7,46% — «Справедливой России» и 5,32% — «Новым людям».
 
-В Москве электронное голосование [перевернуло](https://novayagazeta.ru/articles/2021/09/20/oppozitsionnye-kandidaty-v-moskve-v-poslednii-moment-ustupili-spisku-sobianina-posle-dobavleniia-novykh-protokolov-news) результаты выборов. Многие кандидаты от «Умного голосования», лидирующие по итогам подсчета голосов на участках, уступили кандидатам из «списка Собянина» в самый последний момент. Предположительно, это произошло из-за ввода в систему результатов электронного голосования.
+В Москве электронное голосование [перевернуло](2021/09/20/oppozitsionnye-kandidaty-v-moskve-v-poslednii-moment-ustupili-spisku-sobianina-posle-dobavleniia-novykh-protokolov-news.md) результаты выборов. Многие кандидаты от «Умного голосования», лидирующие по итогам подсчета голосов на участках, уступили кандидатам из «списка Собянина» в самый последний момент. Предположительно, это произошло из-за ввода в систему результатов электронного голосования.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/10/velikolepnaia-semerka
+**Читайте также:** [https://novayagazeta.ru/articles/2021/06/10/velikolepnaia-semerka](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/06/10/velikolepnaia-semerka)

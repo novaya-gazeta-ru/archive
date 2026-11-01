@@ -17,20 +17,20 @@ tags: "чечня, зарема мусаева, домашний арест, з�
 
 По мнению прокурора, содержание Мусаевой в СИЗО в ее текущем состоянии и в связи с вменяемым ей преступлением законно и обоснованно. Адвокаты будут обжаловать принятые судами решения.
 
-Ранее в «Комитете против пыток» [рассказали](https://novayagazeta.ru/articles/2022/02/08/komitet-protiv-pytok-sud-nad-zaremoi-musaevoi-v-chechne-prokhodil-poka-ona-byla-bez-soznaniia-news), что Мусаева находилась без сознания во время заседания суда в Чечне, на котором рассматривали административный протокол в отношении нее.
+Ранее в «Комитете против пыток» [рассказали](2022/02/08/komitet-protiv-pytok-sud-nad-zaremoi-musaevoi-v-chechne-prokhodil-poka-ona-byla-bez-soznaniia-news.md), что Мусаева находилась без сознания во время заседания суда в Чечне, на котором рассматривали административный протокол в отношении нее.
 
 «Зарема рассказала, что в суде по административному делу, когда судья попросил ее представиться, она назвала свое имя и фамилию и упала в обморок. Очнулась она уже в спецприемнике», — сообщили правозащитники.
 
 Женщине назначили 15 суток ареста. Сейчас Мусаева находится под арестом уже в качестве фигурантки уголовного дела о применении опасного насилия в отношении силовика (ч. 2 ст. 318 УК).
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takogo-ne-mozhet-byt
+**Читайте также:** [«Я поняла, что это чеченцы, так как давно работаю в Чечне»](2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takog.md)
 
 По словам адвоката Натальи Добронравовой, состояние женщины тяжелое, у нее сильная слабость, ей тяжело ходить. В СИЗО Мусаевой оказывают медпомощь, рассказывают правозащитники.
 
 Силовики насильно вывезли Мусаеву, супругу экс-судьи Сайди Янгулбаева, из Нижнего Новгорода в Чечню 20 января. Правозащитники связывают похищение Мусаевой с деятельностью ее сына Абубакара Янгулбаева, экс-сотрудника северокавказского филиала КПП. Еще один сын Мусаевой — Ибрагим Янгулбаев — стал фигурантом уголовного дела о публичных призывах к террористической деятельности (ч. 2 ст. 205.2 УК).
 
-После произошедшего Янгулбаев-старший вместе с дочерью Алией покинул Россию. В отношении семьи начали поступать угрозы со стороны чеченских [чиновников и силовиков](https://novayagazeta.ru/articles/2022/02/02/my-naidem-vas-i-otrezhem-vashi-golovy-chechenskie-siloviki-i-chinovniki-zapisali-obrashchenie-s-ugrozami-seme-iangulbaevykh-news), а также [родственников](https://novayagazeta.ru/articles/2022/02/03/gostv-chechni-pokazalo-video-na-kotorom-rodstvenniki-eks-sudi-iangulbaeva-groziatsia-ego-ubit-abubakar-iangulbaev-opoznal-v-kadre-svoego-pokhishchennogo-god-nazad-diadiu-news) из тейпа Келой. Помимо этого, квалификационная коллегия судей Чечни [прекратила](https://novayagazeta.ru/articles/2022/02/03/kollegiia-sudei-chechni-lishila-saidi-iangulbaeva-neprikosnovennosti-news) отставку Янгулбаева — это означает лишение его неприкосновенности.
+После произошедшего Янгулбаев-старший вместе с дочерью Алией покинул Россию. В отношении семьи начали поступать угрозы со стороны чеченских [чиновников и силовиков](2022/02/02/my-naidem-vas-i-otrezhem-vashi-golovy-chechenskie-siloviki-i-chinovniki-zapisali-obrashchenie-s-ugrozami-seme-iangulbaev.md), а также [родственников](2022/02/03/gostv-chechni-pokazalo-video-na-kotorom-rodstvenniki-eks-sudi-iangulbaeva-groziatsia-ego-ubit-abubakar-iangulbaev-opozna.md) из тейпа Келой. Помимо этого, квалификационная коллегия судей Чечни [прекратила](2022/02/03/kollegiia-sudei-chechni-lishila-saidi-iangulbaeva-neprikosnovennosti-news.md) отставку Янгулбаева — это означает лишение его неприкосновенности.
 
 #### *Организация «Комитет против пыток» была признана «иноагентом» и ликвидирована. Движение «Комитет против пыток» не считают иноагентом даже российские власти
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/04/elena-milashina-uezzhaet-iz-rossii-i-obiasniaet-pochemu-kadyrovu-mozhno-vse
+**Читайте также:** [Елена Милашина уезжает из России. И объясняет, почему Кадырову можно все](2022/02/04/elena-milashina-uezzhaet-iz-rossii-i-obiasniaet-pochemu-kadyrovu-mozhno-vse.md)

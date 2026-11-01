@@ -23,6 +23,6 @@ tags: ""
 
 «Господин Никто против Путина» [получил](https://t.me/novaya_pishet/56746) премию «Оскар» как лучший документальный фильм. Таланкин на протяжении двух лет снимал на видео школьные линейки, уроки и собрания в школе Карабаша, а в 2024 году покинул Россию, вывезя материалы с собой.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/11/chto-ne-tak-s-filmom-gospodin-nikto-protiv-putina
+**Читайте также:** [Что не так с фильмом «Господин никто против Путина»?](2026/03/11/chto-ne-tak-s-filmom-gospodin-nikto-protiv-putina.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/16/s-neba-dolzhny-padat-zvezdy
+**Читайте также:** [С неба должны падать звезды&nbsp;](2026/03/16/s-neba-dolzhny-padat-zvezdy.md)

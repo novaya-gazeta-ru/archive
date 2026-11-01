@@ -23,14 +23,14 @@ tags: "открытая россия, nt"
 
 Конференция также приняла заявление с требованием прекратить уголовное преследование в отношении активистки ликвидированного движения «Открытая Россия» Анастасии Шевченко и журналиста из Екатеринбурга Максима Верникова.
 
-**link:** https://novayagazeta.ru/articles/2019/03/16/79889-ya-ehala-k-umirayuschey-dochke-a-sledovatel-zvonil-i-sprashival-ne-svernula-li-ya-v-storonu-ukrainy
+**link:** [«Я ехала к умирающей дочке, а следователь звонил и спрашивал, не свернула ли я в сторону Украины»](2019/03/16/79889-ya-ehala-k-umirayuschey-dochke-a-sledovatel-zvonil-i-sprashival-ne-svernula-li-ya-v-storonu-ukrainy.md)
 
-Накануне российское общественное сетевое движение «Открытая Россия», учрежденное предпринимателем Михаилом Ходорковским в ноябре 2016 года, [прекратило](https://www.novayagazeta.ru/news/2019/03/30/150452-na-konferentsii-otkrytoy-rossii-prinyali-reshenie-o-likvidatsii-dvizheniya) свое существование. Это было сделано для того, чтобы организация не считалась иностранной нежелательной организацией.
+Накануне российское общественное сетевое движение «Открытая Россия», учрежденное предпринимателем Михаилом Ходорковским в ноябре 2016 года, [прекратило](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/03/30/150452-na-konferentsii-otkrytoy-rossii-prinyali-reshenie-o-likvidatsii-dvizheniya) свое существование. Это было сделано для того, чтобы организация не считалась иностранной нежелательной организацией.
 
 До этого движение не было зарегистрировано, и его активистов стали преследовать после признания Генпрокуратурой «нежелательной» британской организации OR Otkrytaya Rossia в апреле 2017 года. Представитель ведомства Александр Куренной тогда утверждал, что запрет не повлияет на работу движения в России.
 
 Однако на активистов движения стали составлять протоколы о содействии «нежелательной организации» (ст. 20.33 КоАП), а в прошлом году был заблокирован сайт «МБХ-Медиа», в том числе и его «зеркало» на предвыборной платформе экс-кандидата в президенты Ксении Собчак.
 
-**link:** https://novayagazeta.ru/articles/2019/03/15/79881-priotkrytaya-rossiya-byvshiy-koordinator-otkrytoy-rossii-v-ekaterinburge-maksim-vernikov-stal-figurantom-ugolovnogo-dela-o-nezhelatelnyh-organizatsiyah
+**link:** [«Приоткрытая Россия»](2019/03/15/79881-priotkrytaya-rossiya-byvshiy-koordinator-otkrytoy-rossii-v-ekaterinburge-maksim-vernikov-stal-figurantom-ugolovnog.md)
 
-В январе в Ростове-на-Дону возбудили первое уголовное дело за несколько таких административных нарушений против члена совета «Открытой России» Анастасии Шевченко. В марте уголовное дело [завели](https://www.novayagazeta.ru/articles/2019/03/15/79881-priotkrytaya-rossiya-byvshiy-koordinator-otkrytoy-rossii-v-ekaterinburge-maksim-vernikov-stal-figurantom-ugolovnogo-dela-o-nezhelatelnyh-organizatsiyah) также на бывшего координатора движения в Екатеринбурге и главного редактора «Урал МБХ медиа» Максима Верникова.
+В январе в Ростове-на-Дону возбудили первое уголовное дело за несколько таких административных нарушений против члена совета «Открытой России» Анастасии Шевченко. В марте уголовное дело [завели](2019/03/15/79881-priotkrytaya-rossiya-byvshiy-koordinator-otkrytoy-rossii-v-ekaterinburge-maksim-vernikov-stal-figurantom-ugolovnog.md) также на бывшего координатора движения в Екатеринбурге и главного редактора «Урал МБХ медиа» Максима Верникова.

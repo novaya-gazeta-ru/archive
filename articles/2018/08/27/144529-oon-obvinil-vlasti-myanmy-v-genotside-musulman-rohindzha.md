@@ -19,12 +19,12 @@ tags: "геноцид, рохинджа, мьянма, оон"
 
 В свою очередь, после публикации доклада Facebook [заблокировал](https://www.reuters.com/article/us-myanmar-facebook/facebook-removes-top-myanmar-military-official-others-from-website-idUSKCN1LC0R7) 18 учетных записей, одну учетную запись в Instagram и 52 страницы, которые связаны с военными властями Мьянмы. Доступ в Facebook запретили 20 лицам и организациям, которые назывались в докладе ООН.
 
-**link:** https://novayagazeta.ru/articles/2017/09/13/73806-rohindzha-berutsya-za-nozhi
+**link:** [https://novayagazeta.ru/articles/2017/09/13/73806-rohindzha-berutsya-za-nozhi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/09/13/73806-rohindzha-berutsya-za-nozhi)
 
 Напомним, в августе 2017 года члены радикальной группировки «Араканская армия спасения рохинджа» (ARSA) напали на блокпосты полиции и армии Мьянмы. В ответ началась операция в штате Ракхайне, в результате которой из страны бежали около 615 тысяч рохинджа (примерно половина представителей этой народности в Мьянме).
 
 Конфликт между исповедующими ислам рохинджа и буддистами длится в Мьянме уже несколько десятилетий. Представителей рохинджа в стране считают нелегальными мигрантами из Бангладеш и отказывают им в получении гражданства.
 
-**link:** https://novayagazeta.ru/articles/2017/09/04/73704-musulman-v-myanme-podderzhivaet-ne-tolko-rossiya
+**link:** [В чем причины острого религиозного конфликта вокруг рохинджа](2017/09/04/73704-musulman-v-myanme-podderzhivaet-ne-tolko-rossiya.md)
 
-3 сентября 2017 года у посольства Мьянмы в Москве [собрались](https://www.novayagazeta.ru/news/2017/09/03/134967-v-moskve-u-posolstva-myanmy-neskolko-soten-musulman-ustroili-nesoglasovannyy-miting) несколько сотен мусульман. Они выступили в поддержку народности рохинджа в Мьянме, исповедующего ислам, и подписали петицию президенту России Владимиру Путину. На следующий день уже тысячи человек [вышли](https://www.novayagazeta.ru/news/2017/09/04/134982-v-chechne-nachalsya-mnogotysyachnyy-miting-v-podderzhku-musulman-myanmy) на улицы Грозного. Глава Чечни Рамзан Кадыров также поддержал рохинджа.
+3 сентября 2017 года у посольства Мьянмы в Москве [собрались](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/09/03/134967-v-moskve-u-posolstva-myanmy-neskolko-soten-musulman-ustroili-nesoglasovannyy-miting) несколько сотен мусульман. Они выступили в поддержку народности рохинджа в Мьянме, исповедующего ислам, и подписали петицию президенту России Владимиру Путину. На следующий день уже тысячи человек [вышли](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/09/04/134982-v-chechne-nachalsya-mnogotysyachnyy-miting-v-podderzhku-musulman-myanmy) на улицы Грозного. Глава Чечни Рамзан Кадыров также поддержал рохинджа.

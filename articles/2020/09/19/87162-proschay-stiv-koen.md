@@ -35,4 +35,4 @@ tags: "ссср, прощание, стивен коэн"
 
 P.S. Болел Стив за московский футбольный клуб «Чертаново». Его внук Бухарина возглавляет...
 
-**link:** https://novayagazeta.ru/articles/2019/04/15/80230-fiktivnaya-ataka-i-realnaya-neobhodimost
+**link:** [Фиктивная атака и реальная необходимость](2019/04/15/80230-fiktivnaya-ataka-i-realnaya-neobhodimost.md)

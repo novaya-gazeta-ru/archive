@@ -25,8 +25,8 @@ tags: ""
 
 Оперативный штаб Белгорода в комментариях к записи пообещал, что с авторами обращения встретятся замгубернатора области, министр строительства и глава района.
 
-18 февраля Путин [поручил](https://novayagazeta.ru/articles/2025/02/18/zhiteliam-kurskoi-oblasti-poteriavshim-imushchestvo-iz-za-voennykh-deistvii-poobeshchali-vyplachivat-po-65-tysiach-rublei-v-mesiats-news) выплачивать курянам, потерявшим имущество из-за военных действий, по 65 тысяч рублей в месяц «до полного освобождения территорий» от ВСУ. Украинские военные ведут наступление в Курской области с августа 2024 года.
+18 февраля Путин [поручил](2025/02/18/zhiteliam-kurskoi-oblasti-poteriavshim-imushchestvo-iz-za-voennykh-deistvii-poobeshchali-vyplachivat-po-65-tysiach-ruble.md) выплачивать курянам, потерявшим имущество из-за военных действий, по 65 тысяч рублей в месяц «до полного освобождения территорий» от ВСУ. Украинские военные ведут наступление в Курской области с августа 2024 года.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/18/zhiteliam-kurskoi-oblasti-poteriavshim-imushchestvo-iz-za-voennykh-deistvii-poobeshchali-vyplachivat-po-65-tysiach-rublei-v-mesiats-news
+**Читайте также:** [Жителям Курской области, потерявшим имущество из-за военных действий, пообещали выплачивать по 65 тысяч рублей в месяц&nbsp;](2025/02/18/zhiteliam-kurskoi-oblasti-poteriavshim-imushchestvo-iz-za-voennykh-deistvii-poobeshchali-vyplachivat-po-65-tysiach-ruble.md)
 
 #### * Минюст считает «иноагентом».

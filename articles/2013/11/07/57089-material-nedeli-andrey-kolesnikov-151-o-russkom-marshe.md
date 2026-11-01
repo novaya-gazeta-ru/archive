@@ -11,6 +11,6 @@ tags: ""
 
 # МАТЕРИАЛ НЕДЕЛИ || Андрей Колесников  о Русском марше
 
-*[media: Андрей Колесников комментирует свою статью <a href="http://www.novayagazeta.ru/columns/60768.html">«ЗаТор для Навального»</a>]*
+*[media: Андрей Колесников комментирует свою статью <a href="[http://www.novayagazeta.ru/columns/60768.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/60768.html)">«ЗаТор для Навального»</a>]*
 
 *[media: &nbsp;]*

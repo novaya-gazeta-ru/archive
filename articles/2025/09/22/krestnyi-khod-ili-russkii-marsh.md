@@ -15,8 +15,8 @@ tags: ""
 
 **youtube:** https://youtu.be/mvNu0LNVNfs
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/09/15/sentiabr-krestokhodnyi
+**Читайте также:** [Сентябрь крестоходный&nbsp;](2025/09/15/sentiabr-krestokhodnyi.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/09/15/nabrali-khod
+**Читайте также:** [Набрали ход](2025/09/15/nabrali-khod.md)
 
 #### * Власти РФ внесли в реестр «иноагентов».

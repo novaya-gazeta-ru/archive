@@ -25,6 +25,6 @@ tags: ""
 
 заявляют правозащитники.
 
-В 2024 году правозащитники заявили, что Седу Сулейманову [дома могли убить](https://novayagazeta.ru/articles/2024/02/07/pravozashchitniki-zaiavili-ob-ubiistve-26-letnei-chechenki-sedy-suleimanovoi-siloviki-vernuli-ee-v-chechniu-posle-begstva-ot-rodstvennikov-news).
+В 2024 году правозащитники заявили, что Седу Сулейманову [дома могли убить](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/02/07/pravozashchitniki-zaiavili-ob-ubiistve-26-letnei-chechenki-sedy-suleimanovoi-siloviki-vernuli-ee-v-chechniu-posle-begstva-ot-rodstvennikov-news).
 
 В мае 2025 года, после общественного резонанса дела о пропаже Седы, которую вернули родственникам (россияне собрали 5 тысяч подписей с требованием обратить внимание на ее историю), полиция вновь объявила ее в розыск, но это не принесло никакого результата.

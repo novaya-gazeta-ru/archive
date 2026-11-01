@@ -39,6 +39,6 @@ tags: ""
 
 Но если Meta*, владелец FB, Instagram и WhatsApp, объявлена в России экстремистской организацией, то Telegram и Goolge, владелец YouTube, — нет.
 
-**А в это время:** https://novayagazeta.ru/articles/2026/03/06/fas-poschital-narusheniem-zakona-reklamu-v-telegram-a-putin-poluchil-priznanie-togo-chto-telegram-predstavliaet-opasnost-dlia-voennykh-news
+**А в это время:** [ФАС посчитал нарушением закона рекламу в Telegram, а Путин получил признание того, что Telegram «представляет опасность» для военных](2026/03/06/fas-poschital-narusheniem-zakona-reklamu-v-telegram-a-putin-poluchil-priznanie-togo-chto-telegram-predstavliaet-opasnost.md)
 
 #### * Принадлежат Meta, которая признана экстремистской организацией и запрещена в РФ.

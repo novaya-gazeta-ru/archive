@@ -17,8 +17,8 @@ tags: ""
 
 Население Евросоюза оценивается примерно в 450 млн жителей.
 
-В июне Урсула фон дер Ляйен [сообщала](https://novayagazeta.ru/articles/2021/06/10/v-evrosoiuze-polnostiu-vaktsinirovali-100-mln-grazhdan-pervuiu-dozu-poluchili-50-vzroslykh), что около 50% взрослых европейцев получили хотя бы одну дозу вакцины. В Евросоюзе используют препараты от Pfizer/BioNTech, Moderna, Johnson&Johnson и AstraZeneca. Кроме того, власти ЕС ждут разработки препаратов CureVac и Sanofi-GSK, а местный регулятор проводит проверку российской вакцины «Спутник V».
+В июне Урсула фон дер Ляйен [сообщала](2021/06/10/v-evrosoiuze-polnostiu-vaktsinirovali-100-mln-grazhdan-pervuiu-dozu-poluchili-50-vzroslykh.md), что около 50% взрослых европейцев получили хотя бы одну дозу вакцины. В Евросоюзе используют препараты от Pfizer/BioNTech, Moderna, Johnson&Johnson и AstraZeneca. Кроме того, власти ЕС ждут разработки препаратов CureVac и Sanofi-GSK, а местный регулятор проводит проверку российской вакцины «Спутник V».
 
 Накануне ЕС [исключил](https://www.timesofisrael.com/eu-moves-to-reimpose-covid-travel-restrictions-on-israel-us/) США, Израиль, Ливан, Черногорию, Северную Македонию и частично признанное Косово из списка стран и территорий, которые считаются «эпидемиологически безопасными» для путешественников.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/26/rossiia-evrope-ne-sputnik
+**Читайте также:** [Россия Европе не «Спутник»](2021/06/26/rossiia-evrope-ne-sputnik.md)

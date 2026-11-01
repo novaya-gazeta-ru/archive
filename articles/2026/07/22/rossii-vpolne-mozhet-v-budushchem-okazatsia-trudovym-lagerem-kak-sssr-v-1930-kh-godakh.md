@@ -11,4 +11,4 @@ tags: ""
 
 # России вполне может в будущем оказаться трудовым лагерем. Как СССР в 1930-х годах
 
-https://novayagazeta.ru/articles/2026/07/17/mezhdu-trudovym-lagerem-i-khaosom-vybor-na-razvilke?utm_source=cit
+[Между трудовым лагерем и хаосом](2026/07/17/mezhdu-trudovym-lagerem-i-khaosom-vybor-na-razvilke.md)

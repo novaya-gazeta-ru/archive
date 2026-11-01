@@ -17,6 +17,6 @@ tags: "украина, россия, санкции, sn"
 
 Теперь в санкционном списке 922 физических лиц — граждан Украины.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/20/vladimir-zelenskii-ukraina-zhivet-v-present-continuous-mir-tozhe
+**Читайте также:** [Владимир Зеленский: «Украина живет в present continuous. Мир — тоже»](2021/08/20/vladimir-zelenskii-ukraina-zhivet-v-present-continuous-mir-tozhe.md)
 
 Санкции против Украины, которые Россия вводит с 2018 года, предполагают блокировку счетов и ценных бумаг, размещенных в российских банках. Подобные активы нельзя вывести из страны.

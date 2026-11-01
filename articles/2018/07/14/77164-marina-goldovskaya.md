@@ -27,7 +27,7 @@ tags: ""
 
 Во «Вкусе свободы» — ток перестроечной эйфории. После Аниной гибели появился совсем другая интонация, другое настроение. «Горький вкус свободы» — картина о несбывшихся чаяниях.
 
-**link:** https://novayagazeta.ru/articles/2018/07/14/77163-u-redaktsii-novoy-gazety-poyavilsya-anin-sad
+**link:** [https://novayagazeta.ru/articles/2018/07/14/77163-u-redaktsii-novoy-gazety-poyavilsya-anin-sad](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2018/07/14/77163-u-redaktsii-novoy-gazety-poyavilsya-anin-sad)
 
 Она говорит, что судьба каждого из ее героев — кусок ее жизни. Не умела их не любить. Но как бы она не относилась к своим героям, к историям, которые рассказывала на экране, на первом плане ее кино была правда. Даже если у этой правды был горький вкус.
 

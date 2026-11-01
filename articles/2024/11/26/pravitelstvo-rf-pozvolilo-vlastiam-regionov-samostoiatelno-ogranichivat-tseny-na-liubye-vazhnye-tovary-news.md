@@ -19,10 +19,10 @@ tags: ""
 
 За последнее время в России сильно подорожали многие продукты.
 
-К примеру, сливочное масло: [подорожало](https://novayagazeta.ru/articles/2024/10/23/v-rossii-stremitelno-dorozhaet-i-propadaet-iz-prodazhi-slivochnoe-maslo-vlasti-obeshchaiut-ispravit-situatsiiu-za-schet-importa-news) на 21,5% с начала года. В некоторых торговых точках продукт начали убирать с полок из-за дефицита и случаев краж. России пришлось закупать масло у других стран, в частности, у Турции. Власти при этом заявляли, что РФ продуктом обеспечена полностью.
+К примеру, сливочное масло: [подорожало](2024/10/23/v-rossii-stremitelno-dorozhaet-i-propadaet-iz-prodazhi-slivochnoe-maslo-vlasti-obeshchaiut-ispravit-situatsiiu-za-schet-.md) на 21,5% с начала года. В некоторых торговых точках продукт начали убирать с полок из-за дефицита и случаев краж. России пришлось закупать масло у других стран, в частности, у Турции. Власти при этом заявляли, что РФ продуктом обеспечена полностью.
 
-В ноябре Генпрокуратура [заинтересовалась](https://novayagazeta.ru/articles/2024/11/12/genprokuratura-zaimetsia-planami-krupneishikh-proizvoditelei-povysit-tseny-na-moloko-news) ценами на молоко. Производители хотели повысить их, ссылаясь на удорожание производства. В итоге ведомство [заставило](https://novayagazeta.ru/articles/2024/11/14/genprokuratura-zastavila-proizvoditelei-moloka-snizit-tseny-obratno-ne-naidia-prichin-ikh-povyshat-news) их снизить цены обратно, заявив, что не нашла причин их повышать.
+В ноябре Генпрокуратура [заинтересовалась](2024/11/12/genprokuratura-zaimetsia-planami-krupneishikh-proizvoditelei-povysit-tseny-na-moloko-news.md) ценами на молоко. Производители хотели повысить их, ссылаясь на удорожание производства. В итоге ведомство [заставило](2024/11/14/genprokuratura-zastavila-proizvoditelei-moloka-snizit-tseny-obratno-ne-naidia-prichin-ikh-povyshat-news.md) их снизить цены обратно, заявив, что не нашла причин их повышать.
 
 Но особенно в 2024 году подорожал картофель — [практически](https://t.me/forbesrussia/73794) на 74%, по данным Росстата.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/05/vmesto-masla
+**Читайте также:** [… вместо масла](2024/11/05/vmesto-masla.md)

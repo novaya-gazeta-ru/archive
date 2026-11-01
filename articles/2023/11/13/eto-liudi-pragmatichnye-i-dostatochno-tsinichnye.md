@@ -195,4 +195,4 @@ tags: ""
 
 #### *Внесены минюстом РФ в реестр «иноагентов»
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/11/11/pochemu-veriat-v-konspirologiiu-potomu-chto-nikomu-ne-veriat
+**Читайте также:** [«Почему верят в конспирологию? Потому что никому не верят»](2023/11/11/pochemu-veriat-v-konspirologiiu-potomu-chto-nikomu-ne-veriat.md)

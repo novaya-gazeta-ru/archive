@@ -25,9 +25,9 @@ tags: "авиакатастрофа, ростов-на-дону"
 
 — Возможно, в других погодных условиях — да, но там был сильный ветер, а ветер — это всегда надолго. Я бы, покрутившись минут 40—50, все-таки повернул на запасной. Там же были в воздухе, примерно в то же время, еще два самолета, которые именно так и поступили.
 
-**link:** https://novayagazeta.ru/society/72303.html
+**link:** [https://novayagazeta.ru/society/72303.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/72303.html)
 
-**link:** https://novayagazeta.ru/society/72303.html
+**link:** [https://novayagazeta.ru/society/72303.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/72303.html)
 
 **— Почему этого не сделал экипаж, трагически погибший вместе с пассажирами?**
 

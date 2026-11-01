@@ -65,4 +65,4 @@ tags: ""
 >
 > Лариса Малюкова ведет телеграм-канал о кино и не только. [Подписывайтесь тут](https://t.me/larisamalukova).
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/05/15/cherno-belaia-istoriia-o-stalinskom-terrore
+**Читайте также:** [Черно-белая история о сталинском терроре](2025/05/15/cherno-belaia-istoriia-o-stalinskom-terrore.md)

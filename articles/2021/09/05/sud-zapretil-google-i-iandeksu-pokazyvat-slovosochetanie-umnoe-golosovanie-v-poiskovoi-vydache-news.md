@@ -23,8 +23,8 @@ tags: "умное голосование, яндекс, google, суды"
 
 Роспатент одобрил заявку «Вулинтертрейда» менее, чем за месяц с момента подачи. При этом на сайте органа [указано](https://new.fips.ru/news/uskorennyj-poryadok-rassmotreniya-zayavok/), что услуга ускоренного порядка рассмотрения заявок на товарные знаки может сократить время принятия решения до двух месяцев.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/25/oppozitsiia-v-rossii-sushchestvuet-ne-potomu-chto-aleksei-navalnyi-komanduet
+**Читайте также:** [https://novayagazeta.ru/articles/2021/08/25/oppozitsiia-v-rossii-sushchestvuet-ne-potomu-chto-aleksei-navalnyi-komanduet](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/08/25/oppozitsiia-v-rossii-sushchestvuet-ne-potomu-chto-aleksei-navalnyi-komanduet)
 
-Ранее Роскомнадзор направил письма с требованием к Apple и Google удалить приложение «Навальный», через которое можно зарегистрироваться в «Умном голосовании», так как оно «используется для продолжения деятельности и проведения мероприятий экстремистской организации». В ведомстве [заявили](https://novayagazeta.ru/articles/2021/09/02/roskomnadzor-otkaz-apple-i-google-ot-udaleniia-prilozheniia-navalnogo-budet-rastsenivatsia-kak-vmeshatelstvo-v-rossiiskie-vybory-news), что отказ Google и Apple будет считаться вмешательством в российские выборы.
+Ранее Роскомнадзор направил письма с требованием к Apple и Google удалить приложение «Навальный», через которое можно зарегистрироваться в «Умном голосовании», так как оно «используется для продолжения деятельности и проведения мероприятий экстремистской организации». В ведомстве [заявили](2021/09/02/roskomnadzor-otkaz-apple-i-google-ot-udaleniia-prilozheniia-navalnogo-budet-rastsenivatsia-kak-vmeshatelstvo-v-rossiiski.md), что отказ Google и Apple будет считаться вмешательством в российские выборы.
 
 Проект «Умное голосование» появился в 2018 году в преддверии выборов на пост губернатора Санкт-Петербурга и в Мосгордуму. Основаная цель проекта — консолидировать голоса тех, кто выступает против партии «Единая Россия».

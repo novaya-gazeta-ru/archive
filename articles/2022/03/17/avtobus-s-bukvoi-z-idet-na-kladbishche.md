@@ -55,7 +55,7 @@ tags: "военная «спецоперакция» в украине, гибе
 
 По толпе идет шепот: «Ой, Танька-то…»
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/15/mama-ia-khochu-vernutsia-domoi-zhivym
+**Читайте также:** [«Мама, я хочу вернуться домой живым»](2022/03/15/mama-ia-khochu-vernutsia-domoi-zhivym.md)
 
 ![](_assets/be/beeff0300337413cbbe86df199b5d8b6.webp)
 
@@ -79,7 +79,7 @@ tags: "военная «спецоперакция» в украине, гибе
 
 — Сейчас за всех мальчишек страшно. Младших в армию не отпущу.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/05/mama-pochemu-tak-zabrali
+**Читайте также:** [«Мама, почему так? Забрали...»](2022/03/05/mama-pochemu-tak-zabrali.md)
 
 > **Под текст**
 >

@@ -27,4 +27,4 @@ tags: ""
 
 В 2024 году губернатор Михаил Ведерников [сообщал](https://tass.ru/obschestvo/25640699), что численность Псковской области сократилась вдвое по сравнению с 1940-ми годами, и регион ежегодно теряет по 1% населения. По его словам, смертность превышает рождаемость в три раза.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/09/03/kak-podniat-rozhdaemost-chto-na-samom-dele-ubivaet-rossiian-pochemu-v-rossii-zasekretili-statistiku
+**Читайте также:** [Как поднять рождаемость? Что на самом деле убивает россиян? Почему в России засекретили статистику?](2025/09/03/kak-podniat-rozhdaemost-chto-na-samom-dele-ubivaet-rossiian-pochemu-v-rossii-zasekretili-statistiku.md)

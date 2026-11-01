@@ -19,6 +19,6 @@ tags: "великобритания, нападения, депутаты, ра�
 
 Амесс был членом парламента с 1983 года.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/17/boris-dzhonson-tasuet-kolodu
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/17/boris-dzhonson-tasuet-kolodu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/17/boris-dzhonson-tasuet-kolodu)
 
 *Обновлено (17:15 по мск): добавлена информация о смерти депутата, изменен заголовок *

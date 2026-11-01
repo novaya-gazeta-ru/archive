@@ -35,7 +35,7 @@ tags: ""
 		<tr>
 			<td>
 				<p class="g-justify-right">
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/06/04/1338819780_319417_28.jpg" style="width: 360px; height: 240px; "><br>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/06/04/1338819780_319417_28.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/06/04/1338819780_319417_28.jpg)" style="width: 360px; height: 240px; "><br>
 					<sup>«Пока ночь не разлучит»</sup></p>
 			</td>
 		</tr>

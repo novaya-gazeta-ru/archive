@@ -21,8 +21,8 @@ tags: "соцсети, роскомнадзор, дзержинск, взрыв,
 
 В Роскомнадзоре не смогли оперативно ответить на запрос «Новой» по поводу этой ситуации.
 
-**link:** https://novayagazeta.ru/articles/2019/06/02/80741-my-lyudi-privykshie
+**link:** [«Мы люди привыкшие»](2019/06/02/80741-my-lyudi-privykshie.md)
 
-Взрывы на заводе «Кристалл» в Дзержинске [произошли](https://www.novayagazeta.ru/news/2019/06/01/152173-v-nizhegorodskoy-oblasti-na-oboronnom-zavode-progremel-vzryv) 1 июня. В результате аварии, по последним данным, [пострадали](https://www.novayagazeta.ru/news/2019/06/03/152201-ria-novosti-chislo-postradavshih-pri-vzryvah-v-dzerzhinske-uvelichilos-do-116-chelovek) 116 человек, в том числе один ребенок, из числа сотрудников предприятия и жителей близлежащих территорий.
+Взрывы на заводе «Кристалл» в Дзержинске [произошли](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/06/01/152173-v-nizhegorodskoy-oblasti-na-oboronnom-zavode-progremel-vzryv) 1 июня. В результате аварии, по последним данным, [пострадали](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/06/03/152201-ria-novosti-chislo-postradavshih-pri-vzryvah-v-dzerzhinske-uvelichilos-do-116-chelovek) 116 человек, в том числе один ребенок, из числа сотрудников предприятия и жителей близлежащих территорий.
 
 Следственный комитет по Нижегородской области возбудил уголовное дело о нарушении правил промышленной безопасности (ч. 1 ст. 217 УК). Согласно предварительной версии следствия, причиной взрывов могло стать нарушение технологического процесса.

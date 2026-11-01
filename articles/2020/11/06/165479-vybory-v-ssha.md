@@ -27,4 +27,4 @@ tags: "sn, байден, трамп, сша"
 
 Явка на президентских выборах в США в 2020 году стала самой высокой за 120 лет. Президента также будет выбирать коллегия выборщиков, которые должны будут проголосовать так же, как и их штат. В большинстве штатов уже сложились свои политические предпочтения, однако в 13 из 50 исход борьбы не был предрешен. Именно за них и развернулась основная борьба кандидатов.
 
-**link:** https://novayagazeta.ru/articles/2020/11/06/87845-v-amerike-pomenyalis-pravila-igry-podkast-chto-novogo-chem-zakonchatsya-prezidentskie-vybory-v-ssha
+**link:** [«В Америке поменялись правила игры». Подкаст «Что Нового?»](2020/11/06/87845-v-amerike-pomenyalis-pravila-igry-podkast-chto-novogo-chem-zakonchatsya-prezidentskie-vybory-v-ssha.md)

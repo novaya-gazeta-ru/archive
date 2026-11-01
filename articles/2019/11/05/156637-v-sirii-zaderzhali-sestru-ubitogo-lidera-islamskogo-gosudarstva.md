@@ -19,8 +19,8 @@ tags: "турция, исламское государство, сирия, за
 
 «Мы надеемся получить информацию от сестры Багдади о внутренней работе ИГИЛ», — уточнил собеседник Reuters.
 
-**link:** https://novayagazeta.ru/articles/2019/10/29/82547-vrag-nomer-odin
+**link:** [Враг номер один](2019/10/29/82547-vrag-nomer-odin.md)
 
-США заявили, что операция, в ходе которой аль-Багдади был убит, прошла 27 октября. Президент страны Дональд Трамп рассказал, что он умер на севере сирийской провинции Идлиб. Позже Пентагон [опубликовал](https://www.novayagazeta.ru/news/2019/10/31/156555-pentagon-pokazal-video-s-operatsii-po-ubiystvu-lidera-islamskogo-gosudarstva) видео операции.
+США заявили, что операция, в ходе которой аль-Багдади был убит, прошла 27 октября. Президент страны Дональд Трамп рассказал, что он умер на севере сирийской провинции Идлиб. Позже Пентагон [опубликовал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/10/31/156555-pentagon-pokazal-video-s-operatsii-po-ubiystvu-lidera-islamskogo-gosudarstva) видео операции.
 
-«Исламское государство» [подтвердило](https://www.novayagazeta.ru/news/2019/10/31/156563-islamskoe-gosudarstvo-podtverdilo-smert-svoego-lidera) убийство своего лидера 31 октября. Новым главой стал Абу Ибрагим аль-Хашеми аль-Кураиши. По одной из версий, это новое имя бывшего иракского военного Хаджи Абдуллы аль-Афари, которого уже [называли](https://www.novayagazeta.ru/news/2019/10/28/156447-smi-nazvali-imya-preemnika-ubitogo-lidera-islamskogo-gosudarstva) преемником аль-Багдади.
+«Исламское государство» [подтвердило](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/10/31/156563-islamskoe-gosudarstvo-podtverdilo-smert-svoego-lidera) убийство своего лидера 31 октября. Новым главой стал Абу Ибрагим аль-Хашеми аль-Кураиши. По одной из версий, это новое имя бывшего иракского военного Хаджи Абдуллы аль-Афари, которого уже [называли](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/10/28/156447-smi-nazvali-imya-preemnika-ubitogo-lidera-islamskogo-gosudarstva) преемником аль-Багдади.

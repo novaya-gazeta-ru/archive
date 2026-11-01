@@ -25,7 +25,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/02/21/1392997856_251342_37.jpg" style="width: 178px; height: 228px;"><sup>Денис Сугробов</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/02/21/1392997856_251342_37.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/02/21/1392997856_251342_37.jpg)" style="width: 178px; height: 228px;"><sup>Денис Сугробов</sup></td>
 		</tr>
 	</tbody>]*
 

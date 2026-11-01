@@ -23,7 +23,7 @@ tags: "янгулбаев, зарема мусаева, милашина, нап
 
 Один из защитников Мусаевой, адвокат Александр Немов, прибыл в республику сегодня рано утром. Его сопровождала обозреватель «Новой газеты» Елена Милашина. По пути из аэропорта в гостиницу их машину остановили неизвестные. Москвичи были жесточайше избиты — ногами и дубинками. Им угрожали пистолетами, отобрали технику.
 
-**Подробности нападения и реакция:** https://novayagazeta.ru/articles/2023/07/04/o-napadenii-v-chechne-na-zhurnalista-novoi-gazety-elenu-milashinu-i-advokata-aleksandra-nemova
+**Подробности нападения и реакция:** [Нападение на журналиста «Новой газеты» Елену Милашину и адвоката Александра Немова в Чечне](2023/07/04/o-napadenii-v-chechne-na-zhurnalista-novoi-gazety-elenu-milashinu-i-advokata-aleksandra-nemova.md)
 
 Из-за нападения на Александра Немова другой защитник Заремы Мусаевой, Александр Савин, ходатайствовал о переносе приговора на другую дату, но Муса Эдиев это ходатайство отклонил.
 
@@ -37,4 +37,4 @@ tags: "янгулбаев, зарема мусаева, милашина, нап
 
 Зарема и Сайди вынужденно уехали из Чечни еще в 2017 году. Причиной стало преследование их сыновей, Ибрагима и Абубакара, в связи с критической позицией в отношении чеченских властей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takogo-ne-mozhet-byt
+**Читайте также:** [«Я поняла, что это чеченцы, так как давно работаю в Чечне»](2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takog.md)

@@ -31,9 +31,9 @@ tags: ""
 
 Прокуратура Донецкой области (части, подконтрольной силам Украины) квалифицировала обстрел автобуса как теракт, возложив ответственность на силы ДНР. По данным прокуратуры, сепаратисты осуществили «удар с использованием системы реактивного залпового огня «Град», использовав более 40 снарядов».
 
-**link:** https://novayagazeta.ru/columns/66834.html
+**link:** [https://novayagazeta.ru/columns/66834.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/66834.html)
 
-**link:** https://novayagazeta.ru/columns/66834.html
+**link:** [https://novayagazeta.ru/columns/66834.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/66834.html)
 
 #Кто «борзеет»
 

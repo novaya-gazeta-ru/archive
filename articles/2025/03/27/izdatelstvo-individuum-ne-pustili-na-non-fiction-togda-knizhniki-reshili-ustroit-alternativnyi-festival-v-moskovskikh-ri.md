@@ -39,4 +39,4 @@ tags: ""
 
 «Логики в этом мы не находим, но, видимо, и не нужно ее искать», — [прокомментировали](https://t.me/individuumbooks/857) тогда эту новость в издательстве.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/08/farengeit-list-obnovlennaia-versiia
+**Читайте также:** [Фаренгейт-лист. Обновленная версия](2025/01/08/farengeit-list-obnovlennaia-versiia.md)

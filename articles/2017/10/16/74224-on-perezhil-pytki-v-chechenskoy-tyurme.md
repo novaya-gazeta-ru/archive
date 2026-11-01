@@ -17,4 +17,4 @@ tags: "геи, расследование, чечня"
 
 Он рассказывает о том, что с ним произошло, в интервью Елене Милашиной.
 
-**link:** https://novayagazeta.ru/articles/2017/10/16/74221-maksim-pervyy-no-ne-edinstvennyy-kto-osmelitsya-podat-zayavlenie-v-sledstvennyy-komitet
+**link:** [«Максим первый, но не единственный, кто осмелится подать заявление в СК»](2017/10/16/74221-maksim-pervyy-no-ne-edinstvennyy-kto-osmelitsya-podat-zayavlenie-v-sledstvennyy-komitet.md)

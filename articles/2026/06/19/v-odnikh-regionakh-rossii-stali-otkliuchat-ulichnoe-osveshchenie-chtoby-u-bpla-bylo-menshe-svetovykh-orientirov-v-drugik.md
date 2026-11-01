@@ -23,4 +23,4 @@ tags: ""
 
 Ответ администрации [был логичен](https://smartik.ru/tolyatti/post/250070178): отключение света никак не влияет на ориентирование БПЛА, так как они «следуют по запланированному маршруту».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/19/kreml-prizval-rossiian-bolshe-iskat-video-s-posledstviiami-rossiiskikh-udarov-po-gorodam-ukrainy-semki-vpechatliaiushchie-news
+**Читайте также:** [Кремль призвал россиян искать видео с последствиями российских ударов по городам Украины: «Съемки впечатляющие»](2026/06/19/kreml-prizval-rossiian-bolshe-iskat-video-s-posledstviiami-rossiiskikh-udarov-po-gorodam-ukrainy-semki-vpechatliaiushchi.md)

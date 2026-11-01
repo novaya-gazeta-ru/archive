@@ -19,8 +19,8 @@ tags: "sn, лукашенко, выборы, беларусь"
 
 > **обновлено**
 >
-> **10:18&nbsp;** «Весна» обновила данные по задержанным и [заявила](https://t.me/viasna96/1971) о десятках пострадавших во время протестов в Минске. Один протестующий, по [данным](https://novayagazeta.ru/news/2020/08/10/163656-pravozaschitniki-pri-naezde-avtozaka-v-minske-odin-chelovek-pogib-troe-postradali) правозащитников, погиб во время наезда автозака.&nbsp;
+> **10:18&nbsp;** «Весна» обновила данные по задержанным и [заявила](https://t.me/viasna96/1971) о десятках пострадавших во время протестов в Минске. Один протестующий, по [данным](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/08/10/163656-pravozaschitniki-pri-naezde-avtozaka-v-minske-odin-chelovek-pogib-troe-postradali) правозащитников, погиб во время наезда автозака.&nbsp;
 
 Жители Минска, Бреста, Гродно и других городов вышли на улицы после того, как ЦИК объявил о победе нынешнего президента Александра Лукашенко на участках, где уже подвели результаты голосования. Избирком [пообещал](https://ria.ru/20200810/1575570955.html) рассказать об итогах выборов президента уже сегодня в 9 часов утра.
 
-**link:** https://novayagazeta.ru/articles/2020/08/09/86587-vybory-prezidenta-belarusi-online
+**link:** [https://novayagazeta.ru/articles/2020/08/09/86587-vybory-prezidenta-belarusi-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/09/86587-vybory-prezidenta-belarusi-online)

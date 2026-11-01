@@ -115,4 +115,4 @@ tags: "запорожской АЭС, валдайский форум, атом�
 
 Но единственное правильное заявление — призыв к мораторию на атаки по атомным объектам и территории вокруг них, а также по обеспечивающей их работу инфраструктуре.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/30/rf-gotova-obsudit-s-ssha-ikh-prisutstvie-na-zaporozhskoi-aes-zaiavil-glava-rosatoma-mesiats-nazad-on-nazyval-eto-nenauchnoi-fantastikoi-news
+**Читайте также:** [РФ готова обсудить с США их присутствие на Запорожской АЭС, заявил глава «Росатома». Месяц назад он называл это «ненаучной фантастикой»](2025/04/30/rf-gotova-obsudit-s-ssha-ikh-prisutstvie-na-zaporozhskoi-aes-zaiavil-glava-rosatoma-mesiats-nazad-on-nazyval-eto-nenauch.md)

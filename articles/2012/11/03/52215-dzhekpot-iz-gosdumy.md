@@ -17,7 +17,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right" style="">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/11/03/1351950654_712473_70.jpg" style="width: 360px; height: 204px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/11/03/1351950654_712473_70.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/03/1351950654_712473_70.jpg)" style="width: 360px; height: 204px; "></p>
 				<p>
 					<sup>Андрей Востров, он же Джекпот</sup></p>
 			</td>
@@ -25,11 +25,11 @@ tags: ""
 		<tr>
 			<td class="g-justify-right" style="">
 				<p>
-					<sup><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/11/03/1351950654_998004_24.jpg" style="width: 360px; height: 480px; "></sup></p>
+					<sup><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/11/03/1351950654_998004_24.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/03/1351950654_998004_24.jpg)" style="width: 360px; height: 480px; "></sup></p>
 				<p>
 					<sup>Владимир Землянушин в бегах</sup></p>
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/11/03/1351950893_460762_57.jpg" style="width: 360px; height: 542px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/11/03/1351950893_460762_57.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/03/1351950893_460762_57.jpg)" style="width: 360px; height: 542px; "></p>
 				<p>
 					<sup>Борис Рейзин</sup></p>
 			</td>

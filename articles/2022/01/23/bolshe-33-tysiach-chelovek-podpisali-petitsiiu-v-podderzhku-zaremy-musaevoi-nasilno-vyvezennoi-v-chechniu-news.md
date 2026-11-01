@@ -21,11 +21,11 @@ tags: "чечня, похищение, янгулбаевы, диабет, sf"
 
 Петиция адресована министру внутренних дел Владимиру Колокольцеву, министру внутренних дел Чеченской Республики Руслану Алханову, прокурору Чеченской Республики Шарпудди Абдул-Кадырову, главе Чечни Рамзану Кадырову и генпрокурору РФ Игорю Краснову.
 
-Ранее Евросоюз [призвал](https://novayagazeta.ru/articles/2022/01/23/evrosoiuz-prizval-rossiiskie-vlasti-osvobodit-zhenu-federalnogo-sudi-nasilno-vyvezennuiu-v-chechniu-news) российские власти освободить Зарему Мусаеву. В ЕС заявили, что «достоверные сообщения о непрекращающихся нарушениях прав человека в Чечне» и «бездействии федеральных властей» вызывают озабоченность.
+Ранее Евросоюз [призвал](2022/01/23/evrosoiuz-prizval-rossiiskie-vlasti-osvobodit-zhenu-federalnogo-sudi-nasilno-vyvezennuiu-v-chechniu-news.md) российские власти освободить Зарему Мусаеву. В ЕС заявили, что «достоверные сообщения о непрекращающихся нарушениях прав человека в Чечне» и «бездействии федеральных властей» вызывают озабоченность.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takogo-ne-mozhet-byt
+**Читайте также:** [«Я поняла, что это чеченцы, так как давно работаю в Чечне»](2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takog.md)
 
-В четверг в нижегородскую квартиру Сайди Янгулбаева [пришли](https://novayagazeta.ru/articles/2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takogo-ne-mozhet-byt) представители чеченского ГУ МВД по городу Грозному. Силовики пытались похитить не только жену Янгулбаева Зарему Мусаеву, но и его самого.
+В четверг в нижегородскую квартиру Сайди Янгулбаева [пришли](2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takog.md) представители чеченского ГУ МВД по городу Грозному. Силовики пытались похитить не только жену Янгулбаева Зарему Мусаеву, но и его самого.
 
 В итоге полицейские увезли в неизвестном направлении жену Янгулбаева Зарему Мусаеву, страдающую диабетом второго типа, без одежды и необходимых лекарств. По словам правозащитников, супруге Янгулбаева необходимо делать уколы инсулина пять раз в день. В эфире «Дождя»* Янгулбаев-младший [сообщил](https://tvrain.ru/news/syn_pohischennoj_chechenskimi_silovikami_zhenschiny_zajavil_chto_k_nej_ne_puskajut_advokata-546335/), что адвоката к матери не пускают.
 

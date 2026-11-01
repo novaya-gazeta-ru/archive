@@ -17,9 +17,9 @@ tags: "проект медиа, em , instagram, блокировка, соцсе
 
 Генпрокуратура неделю назад признала деятельность компании Project Media, Inc. «нежелательной» на территории России. Параллельно с этим Минюст [внес](https://minjust.gov.ru/ru/documents/7755/) в реестр СМИ, выполняющих функции иностранного агента, нескольких журналистов «Проекта», в том числе Баданина. Формальным поводом для признания издания «нежелательной организацией» послужил донос руководителя Федерального проекта по безопасности и борьбе с коррупцией Виталия Бородина, написанный 17 февраля.
 
-После случившегося «Проект» [объявил](https://novayagazeta.ru/articles/2021/07/16/proekt-obiavil-o-likvidatsii-iurlitsa-priznannogo-nezhelatelnym-izdanie-prodolzhit-rabotu) о ликвидации компании Project Media Inc., зарегистрированной в США. У работающих в России журналистов связи с этим юрлицом нет.
+После случившегося «Проект» [объявил](2021/07/16/proekt-obiavil-o-likvidatsii-iurlitsa-priznannogo-nezhelatelnym-izdanie-prodolzhit-rabotu.md) о ликвидации компании Project Media Inc., зарегистрированной в США. У работающих в России журналистов связи с этим юрлицом нет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/16/shest-let-za-proekt
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/16/shest-let-za-proekt](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/16/shest-let-za-proekt)
 
 #### **Генпрокуратура признала деятельность организации нежелательной на территории России*
 

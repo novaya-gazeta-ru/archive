@@ -49,7 +49,7 @@ tags: "чечня, ингушетия, извинение, избиение, com
 
 И с чего им подозревать? Разве это не в Кремле вручали награду экс-начальнику Заура Дадаева в те самые дни, когда Дадаева и его товарищей признали исполнителями убийства Немцова?
 
-**link:** https://novayagazeta.ru/articles/2017/09/19/73893-yuliya-latynina-kreml-vstal-na-put-yanukovicha-i-maduro
+**link:** [https://novayagazeta.ru/articles/2017/09/19/73893-yuliya-latynina-kreml-vstal-na-put-yanukovicha-i-maduro](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/09/19/73893-yuliya-latynina-kreml-vstal-na-put-yanukovicha-i-maduro)
 
 > Хотите, я вам объясню, почему сын имама Шамиля учил французский и математику, а сыновья нынешних Шамилей вшестером унижают русского студента?
 

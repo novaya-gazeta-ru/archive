@@ -21,4 +21,4 @@ tags: "ng, выставка, оскорбление чувств верующи�
 
 Инициаторы [подчеркивают](https://bodyworlds.moscow/ru/glavnaya), что выставка позволяет понять сложную структуру организма, объясняет функциональность и взаимодействие отдельных систем и органов «понятным для всех способом». Однако в Российской православной церкви (РПЦ) [назвали ](https://ria.ru/20210313/vystavka-1601071544.html?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews%2Fsearch%3Ftext%3D)выставку «эпатажным шоу с шок-контентом» и «унижением человеческого достоинства».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/15/kvakat-i-razrushat-razrushat-i-kvakat
+**Читайте также:** [Квакать и разрушать, разрушать и квакать](2021/03/15/kvakat-i-razrushat-razrushat-i-kvakat.md)

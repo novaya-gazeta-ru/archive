@@ -33,9 +33,9 @@ tags: "беженцы, сирия, суды, шереметьево"
 
 — Признаки указывали на замену страниц с установочными данными: мы обнаружили капельно-точечную структуру при увеличении страниц, с обратной стороны одной из страниц есть герб — свечение в ультрафиолетовых лучах оказалось отличным от образца.
 
-**link:** https://novayagazeta.ru/society/70781.html
+**link:** [https://novayagazeta.ru/society/70781.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70781.html)
 
-**link:** https://novayagazeta.ru/society/70781.html
+**link:** [https://novayagazeta.ru/society/70781.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70781.html)
 
 Допросили Гулистан.
 
@@ -43,9 +43,9 @@ tags: "беженцы, сирия, суды, шереметьево"
 
 Гулистан сказала, что визу они получили в Российском посольстве в Ираке, по паспорту, который в России называют сейчас поддельным, семья выехали из Ирака в Турцию. По поводу происхождения паспортов пояснила: паспорта были у всех членов семьи, кроме двоих младших детей. В иракском паспортном столе им заявили: документы временно не выдаются, раз у мужа гражданство Сирии, пусть обращаются туда. Хасан обратился а курдскую общину (какую точно — не знает), там и сделали всей семье новые сирийские паспорта.
 
-**link:** https://novayagazeta.ru/society/70533.html
+**link:** [https://novayagazeta.ru/society/70533.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70533.html)
 
-**link:** https://novayagazeta.ru/society/70533.html
+**link:** [https://novayagazeta.ru/society/70533.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70533.html)
 
 Адвокат Роза Магомедова спросила Гулистан:
 

@@ -19,4 +19,4 @@ tags: "курганская область, медики, em"
 
 Ранее в больнице провели ремонт. На него власти [привлекли](https://kurganobl.ru/content/remont-kurganskoy-bolnicy-skoroy-medicinskoy-pomoshchi-idet-horoshimi-tempami) 200 млн бюджетных средств. Капитальный ремонт здания 1971 года постройки не проводился около 50 лет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/11/27/88144-na-dvoih-odno-dyhanie
+**Читайте также:** [На двоих — одно дыхание](2020/11/27/88144-na-dvoih-odno-dyhanie.md)

@@ -27,6 +27,6 @@ tags: "режиссер, соловьев, асса, kn"
 
 Соловьев родился в 1944 году в Карелии и до шести лет жил в Северной Корее, где служил его отец. С детства он занимался в театре, в 1960-х работал как технический сотрудник на ленинградском телевидении, а позже окончил режиссерский факультет ВГИКа.
 
-**Читайте также:** https://novayagazeta.ru/articles/2004/09/27/20857-assu-chut-ne-ubil-eltsin-no-spas-gorbachev
+**Читайте также:** [https://novayagazeta.ru/articles/2004/09/27/20857-assu-chut-ne-ubil-eltsin-no-spas-gorbachev](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2004/09/27/20857-assu-chut-ne-ubil-eltsin-no-spas-gorbachev)
 
 *Обновлено 21:49 — добавлена информация о причине смерти Соловьева*

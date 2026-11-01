@@ -29,4 +29,4 @@ tags: "kb, поправки2020, екатеринбург"
 
 На вечер 28 июня явка на голосование по вопросу одобрения изменений в Конституцию в Свердловской области составила 20,77% от общего числа избирателей. Средняя явка по России выше — 28,46%.
 
-**link:** https://novayagazeta.ru/articles/2020/06/25/86006-obnulenie-online
+**link:** [https://novayagazeta.ru/articles/2020/06/25/86006-obnulenie-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/06/25/86006-obnulenie-online)

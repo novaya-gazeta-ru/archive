@@ -23,12 +23,12 @@ tags: "казахстан, протесты, акции протеста, газ
 
 «Во-первых, это сопряженные рынки. Плюс мы в едином таможенном пространстве, наверное, это вторая после Белоруссии близкая России страна», — [заявил](https://quote.rbc.ru/news/article/61cdb64f9a794700d8349d45?from=from_main_13) он.
 
-Массовые волнения в Казахстане также повлияли и на курс национальной валюты страны. Кроме того, из-за протестов снизились котировки гособлигаций и акции местных компаний. Например, главный биржевой индекс Казахстана KASE [упал](https://quote.rbc.ru/news/article/61d58d8d9a79473450bf03ed) на 2,95% на 13:49 мск. На данный момент невозможно получить более новые данные, поскольку в стране почти полностью [отключен](https://novayagazeta.ru/articles/2022/01/04/v-kazakhstane-massovye-protesty-iz-za-povysheniia-tseny-na-gaz-okhvatili-vsiu-stranu-glavnoe) интернет.
+Массовые волнения в Казахстане также повлияли и на курс национальной валюты страны. Кроме того, из-за протестов снизились котировки гособлигаций и акции местных компаний. Например, главный биржевой индекс Казахстана KASE [упал](https://quote.rbc.ru/news/article/61d58d8d9a79473450bf03ed) на 2,95% на 13:49 мск. На данный момент невозможно получить более новые данные, поскольку в стране почти полностью [отключен](2022/01/04/v-kazakhstane-massovye-protesty-iz-za-povysheniia-tseny-na-gaz-okhvatili-vsiu-stranu-glavnoe.md) интернет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/05/otmorozhennyi-kholodilnik
+**Читайте также:** [Отмороженный холодильник](2022/01/05/otmorozhennyi-kholodilnik.md)
 
 1 января в Казахстане начались массовые протесты из-за роста цен на сжиженный природный газ. Вскоре требования митингующих политизировались — они потребовали отставки действующей власти. В ночь с 4 на 5 января произошли масштабные столкновения граждан с силовиками в Алматы.
 
-После потасовок с жителями правительство Казахстана [ушло в отставку](https://novayagazeta.ru/articles/2022/01/05/pravitelstvo-kazakhstana-ushlo-v-otstavku-na-fone-obshchenatsionalnykh-gazovykh-protestov-news), а президент [ввел](https://novayagazeta.ru/articles/2022/01/04/prezident-kazakhstana-vvel-rezhim-chp-v-almaty-i-mangistauskoi-oblasti-do-19-ianvaria-v-khode-protestov-liudi-nachali-szhigat-kolonny-mashin-politsii-news) чрезвычайное положение в двух регионах страны. По данным МВД РК, более 200 человек были задержаны за «нарушения общественного порядка».
+После потасовок с жителями правительство Казахстана [ушло в отставку](2022/01/05/pravitelstvo-kazakhstana-ushlo-v-otstavku-na-fone-obshchenatsionalnykh-gazovykh-protestov-news.md), а президент [ввел](2022/01/04/prezident-kazakhstana-vvel-rezhim-chp-v-almaty-i-mangistauskoi-oblasti-do-19-ianvaria-v-khode-protestov-liudi-nachali-sz.md) чрезвычайное положение в двух регионах страны. По данным МВД РК, более 200 человек были задержаны за «нарушения общественного порядка».
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/05/chetvertyi-den-massovykh-protestov-v-kazakhstane-glavnoe
+**Читайте также:** [Четвертый день массовых протестов в Казахстане. Главное](2022/01/05/chetvertyi-den-massovykh-protestov-v-kazakhstane-glavnoe.md)

@@ -31,7 +31,7 @@ tags: "прожектор2021, прожектор2020, хакатон"
 
 Условия хакатона предполагают широкий формат и тематику итоговых работ. В качестве отправной точки для формулировки ваших идей организаторы традиционно предлагают воспользоватьсяперечнем Целей устойчивого развития ООН до 2030 года.
 
-**link:** https://novayagazeta.ru/articles/2020/03/13/84139-my-prinyali-rossiyu-s-sohoy-i-bolshoy-excel-tablitsey
+**link:** [https://novayagazeta.ru/articles/2020/03/13/84139-my-prinyali-rossiyu-s-sohoy-i-bolshoy-excel-tablitsey](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/03/13/84139-my-prinyali-rossiyu-s-sohoy-i-bolshoy-excel-tablitsey)
 
 Кто может участвовать?
 

@@ -15,7 +15,7 @@ tags: "диссернет"
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/02/23/1424701132_293753_6.jpg" style="width: 340px; height: 255px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/02/23/1424701132_293753_6.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/02/23/1424701132_293753_6.jpg)" style="width: 340px; height: 255px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Александр Соловьев. Фото:&nbsp;om-saratov.ru</sup></td>

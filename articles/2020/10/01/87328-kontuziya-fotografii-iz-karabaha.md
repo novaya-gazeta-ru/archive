@@ -35,7 +35,7 @@ tags: "как это устроено, война, армения, азерба�
 
 *Фото: Азиз Каримов, специально для «Новой»*
 
-**link:** https://novayagazeta.ru/articles/2020/10/01/87323-nagornaya-otpoved
+**link:** [Нагорная отповедь](2020/10/01/87323-nagornaya-otpoved.md)
 
 ![](_assets/14/1454db264de8dbb4d2cff6db2cb9545f.webp)
 

@@ -23,12 +23,12 @@ tags: "олимпиада, пекин, лыжи, сборная россии, sf
 
 В медальном зачете Россия сейчас занимает пятое место — на счету команды две золотых, три серебряных и четыре бронзовых медалей. Первые три места в таблице занимают Швеция (4-1-1), Нидерланды (3-3-1) и Китай (3-2-0).
 
-Накануне сборная России впервые с 1968 года [завоевала](https://novayagazeta.ru/articles/2022/02/07/rossiiane-vpervye-s-1968-goda-zavoevali-olimpiiskuiu-medal-v-pryzhkakh-na-lyzhakh-s-tramplina-oni-zaniali-vtoroe-mesto-news) олимпийскую медаль в прыжках на лыжах с трамплина. Спортсмены заняли в этом соревновании второе место.
+Накануне сборная России впервые с 1968 года [завоевала](2022/02/07/rossiiane-vpervye-s-1968-goda-zavoevali-olimpiiskuiu-medal-v-pryzhkakh-na-lyzhakh-s-tramplina-oni-zaniali-vtoroe-mesto-n.md) олимпийскую медаль в прыжках на лыжах с трамплина. Спортсмены заняли в этом соревновании второе место.
 
 Россияне выступают под нейтральным флагом (ROC) из-за санкций Всемирного антидопингового агентства.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/07/v-podnebesnoi-naideno-zoloto-partii
+**Читайте также:** [В Поднебесной найдено золото партии](2022/02/07/v-podnebesnoi-naideno-zoloto-partii.md)
 
-Ранее российский лыжник Александр Большунов [выиграл](https://novayagazeta.ru/articles/2022/02/06/lyzhnik-aleksandr-bolshunov-prines-rossii-pervoe-olimpiiskoe-zoloto-news) золотую медаль в скиатлоне. Второе место в соревновании также занял россиянин — Денис Спицов. Чуть позже российская фристайлистка Анастасия Смирнова [заняла](https://novayagazeta.ru/articles/2022/02/06/rossiiskaia-fristailistka-anastasiia-smirnova-zavoevala-bronzovuiu-medal-v-mogule-na-olimpiade-v-pekine-news) третье место в могуле.
+Ранее российский лыжник Александр Большунов [выиграл](2022/02/06/lyzhnik-aleksandr-bolshunov-prines-rossii-pervoe-olimpiiskoe-zoloto-news.md) золотую медаль в скиатлоне. Второе место в соревновании также занял россиянин — Денис Спицов. Чуть позже российская фристайлистка Анастасия Смирнова [заняла](2022/02/06/rossiiskaia-fristailistka-anastasiia-smirnova-zavoevala-bronzovuiu-medal-v-mogule-na-olimpiade-v-pekine-news.md) третье место в могуле.
 
 В первый день серебряные и бронзовые медали в смешанной эстафете [выиграли](https://www.sport-interfax.ru/olimpiada-2022/820421) биатлонисты Ульяна Нигматуллина, Кристина Резцова, Александр Логинов и Эдуард Латыпов, а лыжница Наталья Непряева [принесла](https://www.bbc.com/russian/news-60249439?ocid=wsrussian.social.in-app-messaging.telegram..russiantelegram_.edit) России серебряную медаль в скиатлоне.

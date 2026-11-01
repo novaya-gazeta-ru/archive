@@ -21,8 +21,8 @@ tags: "генпрокуратура, нежелательные, трехдне�
 
 ENEMO основана в Хорватии еще в 2001 году и состоит из 22 мониторинговых организаций.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/20/glavnyi-reestr-fizlits-iurlits-i-vsego-takogo-inostrannogo
+**Читайте также:** [https://novayagazeta.ru/articles/2021/08/20/glavnyi-reestr-fizlits-iurlits-i-vsego-takogo-inostrannogo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/08/20/glavnyi-reestr-fizlits-iurlits-i-vsego-takogo-inostrannogo)
 
-В августе, накануне выборов в Госдуму, российский Минюст [внес](https://novayagazeta.ru/articles/2021/08/18/miniust-vnes-golos-v-novyi-reestr-nko-inoagentov-news) «Голос» в новый реестр «иноагентов» для движений без юрлица. Мониторинговая организация стала первой и пока единственной в списке.
+В августе, накануне выборов в Госдуму, российский Минюст [внес](2021/08/18/miniust-vnes-golos-v-novyi-reestr-nko-inoagentov-news.md) «Голос» в новый реестр «иноагентов» для движений без юрлица. Мониторинговая организация стала первой и пока единственной в списке.
 
 Движение в защиту прав избирателей «Голос» [было учреждено](https://www.golosinfo.org/about#history) в 2013 году участниками одноименной ассоциации. Последняя работала в 2000-2013 годах и была закрыта из-за давления. На минувших выборах 17-19 сентября «Голос» [зафиксировал](https://www.kartanarusheniy.org/) почти 6000 потенциальных нарушений.

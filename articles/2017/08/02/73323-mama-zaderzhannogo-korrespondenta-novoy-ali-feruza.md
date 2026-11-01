@@ -21,7 +21,7 @@ tags: "права человека, феруз"
 
 Когда он болел, всегда отмахивался — все нормально, за себя не переживал и мне не давал волноваться. Друзей у него было много, острые углы с ними обходил, не ссорился. Никогда не воровал, никогда ни с кем не дрался.
 
-**link:** https://novayagazeta.ru/news/2017/08/01/134038-sud-postanovil-vydvorit-korrespondenta-novoy-gazety-ali-feruza-iz-strany
+**link:** [https://novayagazeta.ru/news/2017/08/01/134038-sud-postanovil-vydvorit-korrespondenta-novoy-gazety-ali-feruza-iz-strany](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/08/01/134038-sud-postanovil-vydvorit-korrespondenta-novoy-gazety-ali-feruza-iz-strany)
 
 Месяц назад я приезжала к нему в Москву. Мы не виделись больше пяти лет, но каждую неделю телефонились. Мы его все время звали назад на Алтай. Старший брат построил кафешку маленькую, хорошо готовит, торты делает хорошо. Вместе бы работали. Он всегда говорил: не могу выехать из-за проблем с документами. Да и денег много надо, чтобы друг к другу ездить.
 

@@ -19,14 +19,14 @@ tags: "демонстрация символики, административн
 
 По статье, которую вменяют Штейн, ей может грозить до 15 суток административного ареста или штраф до 2 тысяч рублей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/09/krugovorot-arestov-i-spetspriemnikov
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/09/krugovorot-arestov-i-spetspriemnikov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/09/krugovorot-arestov-i-spetspriemnikov)
 
-Месяц назад московский суд [арестовал](https://novayagazeta.ru/articles/2021/11/04/v-moskve-arestovali-khudozhnika-farkhada-israfilli-gelmana-na-15-sutok-za-nepovinovenie-sotrudniku-politsii-rovno-god-nazad-on-provel-aktsiiu-s-pussy-riot-news) художника Фархада Исрафилли-Гельмана на 15 суток за «неповиновение сотруднику полиции». Осенью 2020 года провел акцию с Pussy Riot. В августе суд в Москве [арестовал](https://novayagazeta.ru/articles/2021/08/13/uchastnitsu-pussy-riot-ritu-flores-arestovali-na-15-sutok-za-mem-s-tokio-hotel-i-svastikoi-nakanune-ona-vyshla-spetspriemnika-news) на 15 суток за демонстрацию нацистской символики другую участницу Pussy Riot — Риту Флорес. Ранее она опубликовала в соцсети мем с изображением музыканта из группы Tokio Hotel и свастикой.
+Месяц назад московский суд [арестовал](2021/11/04/v-moskve-arestovali-khudozhnika-farkhada-israfilli-gelmana-na-15-sutok-za-nepovinovenie-sotrudniku-politsii-rovno-god-na.md) художника Фархада Исрафилли-Гельмана на 15 суток за «неповиновение сотруднику полиции». Осенью 2020 года провел акцию с Pussy Riot. В августе суд в Москве [арестовал](2021/08/13/uchastnitsu-pussy-riot-ritu-flores-arestovali-na-15-sutok-za-mem-s-tokio-hotel-i-svastikoi-nakanune-ona-vyshla-spetsprie.md) на 15 суток за демонстрацию нацистской символики другую участницу Pussy Riot — Риту Флорес. Ранее она опубликовала в соцсети мем с изображением музыканта из группы Tokio Hotel и свастикой.
 
-Два ареста по 15 суток летом отбыли участницы Pussy Riot Вероника Никульшина и Анна Кузьминых, после этого они покинули Россию. Из страны [уехал](https://novayagazeta.ru/articles/2021/07/20/eshche-odin-uchastnik-pussy-riot-uekhal-iz-rossii-posle-neskolkikh-administrativnykh-arestov-podriad) участник группы Александр Софеев, которому тоже назначали административные аресты.
+Два ареста по 15 суток летом отбыли участницы Pussy Riot Вероника Никульшина и Анна Кузьминых, после этого они покинули Россию. Из страны [уехал](2021/07/20/eshche-odin-uchastnik-pussy-riot-uekhal-iz-rossii-posle-neskolkikh-administrativnykh-arestov-podriad.md) участник группы Александр Софеев, которому тоже назначали административные аресты.
 
 Люся Штейн и Мария Алехина — участницы Pussy Riot и экс-фигурантки «санитарного дела». Несколько месяцев назад суд в Москве приговорил каждую из них к году ограничения свободы.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/23/svideteli-masochnogo-rezhima
+**Читайте также:** [Свидетели «масочного режима»](2021/07/23/svideteli-masochnogo-rezhima.md)
 
 *(Обновлено 16:47 — добавлена информация о том, за что Штейн вменяют правонарушение)*

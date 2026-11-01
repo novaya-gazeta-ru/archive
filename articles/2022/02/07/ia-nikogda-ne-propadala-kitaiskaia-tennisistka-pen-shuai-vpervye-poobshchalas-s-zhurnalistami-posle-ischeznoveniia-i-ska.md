@@ -27,13 +27,13 @@ tags: "пэн шуай, теннис, интервью, kn"
 
 «Мы как спортивная организация делаем все, чтобы она была счастлива. Но я не думаю, что кто-то из нас может осуждать ее действия», — сказал он.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/12/24/88512-sidi-i-molchi
+**Читайте также:** [Сиди и молчи](2020/12/24/88512-sidi-i-molchi.md)
 
-В начале ноября 2021 года в личном аккаунте Пэн Шуай в китайской соцсети Weibo [появилось](https://novayagazeta.ru/articles/2021/11/21/kitaiskaia-tennisistka-propavshaia-posle-obvineniia-eks-premera-v-seksualnykh-domogatelstvakh-poiavilas-na-publike-news) сообщение о том, что ее принуждали к сексу с бывшим вице-премьером Китая. Некоторое время спустя пост удалили, а теннисистка перестала выходить на связь.
+В начале ноября 2021 года в личном аккаунте Пэн Шуай в китайской соцсети Weibo [появилось](2021/11/21/kitaiskaia-tennisistka-propavshaia-posle-obvineniia-eks-premera-v-seksualnykh-domogatelstvakh-poiavilas-na-publike-news.md) сообщение о том, что ее принуждали к сексу с бывшим вице-премьером Китая. Некоторое время спустя пост удалили, а теннисистка перестала выходить на связь.
 
 Женская теннисная ассоциация, обеспокоенная пропажей теннисистки, [приостановила](https://www.wtatennis.com/news/2384758/steve-simon-announces-wta-s-decision-to-suspend-tournaments-in-china) все турниры в Китае, требуя должного расследования заявлений Пэн Шуай.
 
-Однако позже китайский государственный телеканал [показал](https://novayagazeta.ru/articles/2021/11/21/kitaiskaia-tennisistka-propavshaia-posle-obvineniia-eks-premera-v-seksualnykh-domogatelstvakh-poiavilas-na-publike-news) скриншот сообщения якобы от Пэн Шуай, в котором говорилось, что она никуда не пропадала, а все обвинения высказанные ею ранее недействительны.
+Однако позже китайский государственный телеканал [показал](2021/11/21/kitaiskaia-tennisistka-propavshaia-posle-obvineniia-eks-premera-v-seksualnykh-domogatelstvakh-poiavilas-na-publike-news.md) скриншот сообщения якобы от Пэн Шуай, в котором говорилось, что она никуда не пропадала, а все обвинения высказанные ею ранее недействительны.
 
 «Я никуда не пропадала, я в безопасности, все в порядке. Спасибо за заботу», — сказано на скриншоте.
 

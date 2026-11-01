@@ -19,7 +19,7 @@ tags: "минюст, иностранный агент"
 
 Первой в реестр была включена НКО «Социум» из города Энгельск в Саратовской области, затем — «Эсверо». Вслед за этим в реестр занесли НКО «Панацея» (город Кузнецк, Пензенская область), «Эра здоровье» (Екатеринбург), «Сибальт» (Омск) и московский Фонд имени Андрея Рылькова (Москва).
 
-**link:** https://novayagazeta.ru/news/2016/04/19/120891-saratovskuyu-nko-priznali-171-inostrannym-agentom-187-za-opros-bolnyh-vich
+**link:** [https://novayagazeta.ru/news/2016/04/19/120891-saratovskuyu-nko-priznali-171-inostrannym-agentom-187-za-opros-bolnyh-vich](https://web.archive.org/web/*/https://novayagazeta.ru/news/2016/04/19/120891-saratovskuyu-nko-priznali-171-inostrannym-agentom-187-za-opros-bolnyh-vich)
 
 Сразу две НКО из Самарской области оказались в реестре ингентов за последнее время. В октябре Минюст включил в него «Ассоциацию медицинских работников Чапаевска», а два дня назад, 19 декабря, и автономно некоммерческую организацию «Проект Апрель».
 

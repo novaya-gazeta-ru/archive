@@ -19,12 +19,12 @@ tags: "коронавирус, ковид, авиасообщение, авиа�
 
 Сообщения о появлении нового штамма вируса [повлияли](https://www.forbes.ru/finansy/447561-neft-brent-opustilas-nize-74-vpervye-s-konca-sentabra) на стоимость нефти марки Brent. Цена за баррель упала впервые за два месяца и достигла отметки в 73 доллара.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/05/pobeg-iz-ukhania
+**Читайте также:** [https://novayagazeta.ru/articles/2021/06/05/pobeg-iz-ukhania](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/06/05/pobeg-iz-ukhania)
 
-Сегодня днем председатель Еврокомиссии Урсула фон дер Ляйен [сообщила](https://novayagazeta.ru/articles/2021/11/26/evrokomissiia-predlozhit-priostanovit-aviasoobshchenie-s-iuzhnoi-afrikoi-iz-za-novogo-shtamma-covid-19-news) о намерении предложить Евросоюзу приостановить авиасообщение со странами Южной Африки из-за распространения нового штамма коронавируса.
+Сегодня днем председатель Еврокомиссии Урсула фон дер Ляйен [сообщила](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/26/evrokomissiia-predlozhit-priostanovit-aviasoobshchenie-s-iuzhnoi-afrikoi-iz-za-novogo-shtamma-covid-19-news) о намерении предложить Евросоюзу приостановить авиасообщение со странами Южной Африки из-за распространения нового штамма коронавируса.
 
 Ранее ряд европейских стран, включая Германию и Италию, уже приостановил полеты на юг Африки. Кроме того, из-за нового штамма Великобритания, Сингапур и Израиль уже [ввели](https://www.nytimes.com/live/2021/11/25/world/covid-vaccine-boosters-mandates) ограничения на поездки в некоторые страны Африки. Так, власти Великобритании [ограничили](https://www.gov.uk/guidance/red-list-of-countries-and-territories#red-list-update-friday-26-november-2021) авиасообщение с ЮАР, Зимбабве, Намибией, Ботсваной, Лесото и Эсватини. Израиль [внес](https://www.gov.il/en/departments/news/spoke_corona251121) в список «красных стран» те же государства, а также Мозамбик.
 
-В Бельгии сегодня [подтвердили](https://novayagazeta.ru/articles/2021/11/26/v-belgii-vpervye-v-evrope-zafiksirovali-pervyi-sluchai-zabolevaniia-novym-shtammom-koronavirusa-news) первый в Европе случай заражения новым штаммом коронавируса. Премьер-министр страны сообщил, что заболевание обнаружили у человека, прилетевшего из Египта.
+В Бельгии сегодня [подтвердили](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/26/v-belgii-vpervye-v-evrope-zafiksirovali-pervyi-sluchai-zabolevaniia-novym-shtammom-koronavirusa-news) первый в Европе случай заражения новым штаммом коронавируса. Премьер-министр страны сообщил, что заболевание обнаружили у человека, прилетевшего из Египта.
 
 Впервые новый штамм B.1.1.529 обнаружили у больного в Ботсване. Наибольшее количество людей, зараженных «южноафриканским» штаммом инфекции, [находятся](https://tass.ru/obschestvo/13029245) в Южной Африке — более 77 человек. Еще четыре случая заболевания нашли в Ботсване, один — в Гонконге.

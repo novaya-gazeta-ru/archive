@@ -25,7 +25,7 @@ tags: "врачи, медики, вторая мировая война"
 
 *Медсестры примеряют противогазы младенцам в английской больнице. 1940 год. Фото: Universal History Archive / Universal Images Group / GettyImages*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/05/09/razdalsia-detskii-krik-rodilsia-chelovek
+**Читайте также:** [«Раздался детский крик, родился человек»](2021/05/09/razdalsia-detskii-krik-rodilsia-chelovek.md)
 
 ![](_assets/c2/c2bdbe15d1f6be7d0b0fcdb84c76bfa3.webp)
 
@@ -41,4 +41,4 @@ tags: "врачи, медики, вторая мировая война"
 
 > Материалы спецвыпуска будут выкладываться на сайте **«**Новой» 9 и 10 мая.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/05/08/zhalet-i-utoliat
+**Читайте также:** [Жалеть и утолять](2021/05/08/zhalet-i-utoliat.md)

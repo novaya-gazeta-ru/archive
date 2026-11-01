@@ -25,4 +25,4 @@ tags: "самара, приговор, условный срок, истязан
 
 Юрист Дмитрий Шевченко отмечал в беседе с изданием «Коммерсант», что истязание несовершеннолетних является тяжким преступлением. «Такое деяние предусматривает лишение свободы на срок от трех до семи лет»,— сообщил Шевченко.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/11/lish-by-ty-umer-ranshe-menia
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/11/lish-by-ty-umer-ranshe-menia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/11/lish-by-ty-umer-ranshe-menia)

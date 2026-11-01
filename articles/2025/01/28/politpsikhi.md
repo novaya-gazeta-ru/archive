@@ -77,4 +77,4 @@ tags: "Снежневский, карательная психиатрия, пс
 
 #### * Внесены властями РФ в реестр «иноагентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/22/dokazhi-chto-u-praprababushki-byl-iurev-den
+**Читайте также:** [Докажи, что у прапрабабушки был Юрьев день](2025/01/22/dokazhi-chto-u-praprababushki-byl-iurev-den.md)

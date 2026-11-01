@@ -27,4 +27,4 @@ tags: ""
 
 Марафонец международного уровня, Сехили был арестован 2 сентября при попытке пересечь российско-китайскую границу. Спортсмен шел на мировой рекорд — преодолевал маршрут от Португалии до Владивостока через 16 стран (18 тысяч километров). Поддержку Софиану Сехили оказывало французское консульство.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/09/06/frantsuzskii-velogonshchik-zaderzhan-vo-vladivostoke-pri-popytke-ustanovit-mirovoi-rekord-news
+**Читайте также:** [Французский велогонщик задержан во Владивостоке при попытке установить мировой рекорд](2025/09/06/frantsuzskii-velogonshchik-zaderzhan-vo-vladivostoke-pri-popytke-ustanovit-mirovoi-rekord-news.md)

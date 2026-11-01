@@ -39,4 +39,4 @@ tags: "жданов, ФБК, задержания"
 
 «Я также думаю, что им нужно как-то перебивать повестку от Навального. Поэтому им нужно было совершить что-то особенно подлое и не с Навальным. Не получится, уже записалось (_на сайте_. — **Ред.**) гораздо больше человек, чем мы ожидали за такое время», — написал Иван Жданов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/29/net-nikakikh-somnenii-chto-eta-ugolovka-sviazana-so-mnoi-i-s-tem-chto-ia-delaiu-ivan-zhdanov-zaiavil-ob-areste-svoego-ottsa
+**Читайте также:** [«Эта уголовка связана со мной»: 66-летнего отца директора ФБК Жданова отправили в СИЗО](2021/03/29/net-nikakikh-somnenii-chto-eta-ugolovka-sviazana-so-mnoi-i-s-tem-chto-ia-delaiu-ivan-zhdanov-zaiavil-ob-areste-svoego-ot.md)

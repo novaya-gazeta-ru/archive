@@ -67,7 +67,7 @@ Sending his seriously wounded commander on the last plane to leave the Stalingra
 >
 > «When you receive my Christmas letter from the cauldron,» Marta will read, «you will find there a symbol of what we are experiencing now — Christmas in the face of death. A mother who hides in her dark mourning dress a light-faced child… A child is born in the midst of pain and outshines all the darkness and sorrow…»
 
-**Читайте также:** https://novayagazeta.ru/articles/2018/05/07/76372-wladimir-i-kurt
+**Читайте также:** [Wladimir и Курт](2018/05/07/76372-wladimir-i-kurt.md)
 
 # Light, life, love
 

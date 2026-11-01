@@ -31,4 +31,4 @@ tags: "президент, открытое письмо, норд-ост"
 
 С уважением, Злата
 
-**link:** https://novayagazeta.ru/articles/2020/09/01/86902-rasskazhite-pro-vashu-zhizn-posle-terakta
+**link:** [Расскажите про вашу жизнь после теракта](2020/09/01/86902-rasskazhite-pro-vashu-zhizn-posle-terakta.md)

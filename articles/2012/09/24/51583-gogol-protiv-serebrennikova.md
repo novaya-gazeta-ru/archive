@@ -14,19 +14,19 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348474526_389409_57.jpg" style="width: 360px; height: 240px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348474526_389409_57.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348474526_389409_57.jpg)" style="width: 360px; height: 240px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348474526_716270_82.jpg" style="width: 360px; height: 240px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348474526_716270_82.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348474526_716270_82.jpg)" style="width: 360px; height: 240px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348474527_036005_57.jpg" style="width: 360px; height: 240px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348474527_036005_57.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348474527_036005_57.jpg)" style="width: 360px; height: 240px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348474533_447140_75.jpg" style="width: 360px; height: 240px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348474533_447140_75.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348474533_447140_75.jpg)" style="width: 360px; height: 240px; "></td>
 		</tr>
 	</tbody>]*
 

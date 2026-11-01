@@ -13,7 +13,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/06/05/1401985038_707296_23.jpg" style="width: 340px; height: 477px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/06/05/1401985038_707296_23.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/06/05/1401985038_707296_23.jpg)" style="width: 340px; height: 477px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Эрнст Неизвестный. Портрет Ф. М. Достоевского</sup></td>

@@ -29,6 +29,6 @@ tags: ""
 
 На следующей неделе в Петроградском районном суде должно состояться судебное заседание о лишении тещи Невзорова квартиры на улице Ленина.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/07/03/kto-ostanetsia-s-lisim-nosom
+**Читайте также:** [https://novayagazeta.ru/articles/2024/07/03/kto-ostanetsia-s-lisim-nosom](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/07/03/kto-ostanetsia-s-lisim-nosom)
 
 #### * Минюст включил в реестр иноагентов, семью Невзоровых суд признал членами экстремистского объединения, деятельность запрещена в РФ.

@@ -15,19 +15,19 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2013/09/16/1379352362_809813_49.jpg" style="width: 360px; height: 446px;"><sup>Академик Виктор Амбарцумян – «возмутитель спокойствия» в астрофизике и один из её великих творцов</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/09/16/1379352362_809813_49.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/09/16/1379352362_809813_49.jpg)" style="width: 360px; height: 446px;"><sup>Академик Виктор Амбарцумян – «возмутитель спокойствия» в астрофизике и один из её великих творцов</sup></td>
 		</tr>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2013/09/16/1379352363_102219_88.jpg" style="width: 360px; height: 270px;"><sup>Бюракан – созвездие десяти тысяч родников</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/09/16/1379352363_102219_88.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/09/16/1379352363_102219_88.jpg)" style="width: 360px; height: 270px;"><sup>Бюракан – созвездие десяти тысяч родников</sup></td>
 		</tr>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2013/09/16/1379352363_388177_17.jpg" style="width: 360px; height: 255px;">. <sup>«Наши камни» на картине Мартироса Сарьяна «Арарат и арка Чаренца»</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/09/16/1379352363_388177_17.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/09/16/1379352363_388177_17.jpg)" style="width: 360px; height: 255px;">. <sup>«Наши камни» на картине Мартироса Сарьяна «Арарат и арка Чаренца»</sup></td>
 		</tr>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2013/09/16/1379352374_835261_5.jpg" style="width: 360px; height: 579px;">. <sup>«Армянская Мадонна» Альберта Парсамяна</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/09/16/1379352374_835261_5.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/09/16/1379352374_835261_5.jpg)" style="width: 360px; height: 579px;">. <sup>«Армянская Мадонна» Альберта Парсамяна</sup></td>
 		</tr>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2013/09/16/1379352375_132201_9.jpg" style="width: 360px; height: 512px;"><sup>Книга воспоминаний о Викторе Амбарцумяне, вышедшая к 100-летию со дня его рождения</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/09/16/1379352375_132201_9.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/09/16/1379352375_132201_9.jpg)" style="width: 360px; height: 512px;"><sup>Книга воспоминаний о Викторе Амбарцумяне, вышедшая к 100-летию со дня его рождения</sup></td>
 		</tr>
 	</tbody>]*
 

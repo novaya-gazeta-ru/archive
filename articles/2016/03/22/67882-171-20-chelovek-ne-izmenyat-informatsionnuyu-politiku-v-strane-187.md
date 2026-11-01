@@ -23,9 +23,9 @@ tags: "кадыров, нападение, права журналиста, пр
 
 Создание организации стало ответом на недавнее нападение на журналистов и правозащитников в Ингушетии. Тогда на границе Ингушетии и Чечни неизвестные на трех автомобилях напали на сотрудников «Комитета против пыток» и работников СМИ. У них забрали мобильные телефоны, избили, после чего подожгли автомобиль.
 
-**link:** https://novayagazeta.ru/columns/72205.html
+**link:** [https://novayagazeta.ru/columns/72205.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/72205.html)
 
-**link:** https://novayagazeta.ru/columns/72205.html
+**link:** [https://novayagazeta.ru/columns/72205.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/72205.html)
 
 После инцидента «Медиазона» распространила заявление о намерении создать профсоюз журналистов.
 

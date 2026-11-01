@@ -25,4 +25,4 @@ tags: ""
 
 Ведутся поиски тех, кто закладывал посылки в тайник.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/03/fsb-otchitalas-ob-ubiistve-podozrevaemogo-v-podgotovke-vzryvov-v-moskovskom-metro-i-podmoskovnoi-sinagoge-news
+**Читайте также:** [ФСБ отчиталась об убийстве подозреваемого в подготовке взрывов в московском метро и подмосковной синагоге&nbsp;](2025/03/03/fsb-otchitalas-ob-ubiistve-podozrevaemogo-v-podgotovke-vzryvov-v-moskovskom-metro-i-podmoskovnoi-sinagoge-news.md)

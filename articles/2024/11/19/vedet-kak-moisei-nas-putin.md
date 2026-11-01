@@ -101,4 +101,4 @@ tags: ""
 >  Бог Крепкий в нем, Советник Чуден!\
 >  Дан Президенту меч и щит.*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/19/svo-bez-vpn-vot-tak-ona-i-vygliadit-na-samom-dele
+**Читайте также:** [СВО без VPN. Вот так она и выглядит на самом деле](2024/11/19/svo-bez-vpn-vot-tak-ona-i-vygliadit-na-samom-dele.md)

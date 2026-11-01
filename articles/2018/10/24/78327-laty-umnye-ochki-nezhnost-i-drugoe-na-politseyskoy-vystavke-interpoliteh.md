@@ -21,7 +21,7 @@ tags: "выставки, москва, фсин"
 
 *Рыцарские доспехи с гербом ФСИН, сделанные заключенными омских колоний. Стенд Федеральной службы исполнения наказаний. Фото: Влад Докшин / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2018/10/23/78296-sdelano-na-zone-chem-omskie-zeki-baluyut-nachalstvo-reznye-shahmaty-rytsarskie-laty-i-dazhe-progulochnye-yahty
+**link:** [Сделано на зоне](2018/10/23/78296-sdelano-na-zone-chem-omskie-zeki-baluyut-nachalstvo-reznye-shahmaty-rytsarskie-laty-i-dazhe-progulochnye-yahty.md)
 
 ![](_assets/7c/7c58565a1ebf87c54fb3c1c19ca081bd.webp)
 

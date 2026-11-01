@@ -19,4 +19,4 @@ tags: "открытки"
 
 Годы, конечно, уходят. Это их дело, пусть им будет хорошо. Но выпьем же за то, чтобы никто и никогда не забирал их у нас.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/12/09/v-ozhidanii-mnogopoliarnogo-mira-iaitsa-silno-podorozhali
+**Читайте также:** [В ожидании многополярного мира яйца сильно подорожали…](2023/12/09/v-ozhidanii-mnogopoliarnogo-mira-iaitsa-silno-podorozhali.md)

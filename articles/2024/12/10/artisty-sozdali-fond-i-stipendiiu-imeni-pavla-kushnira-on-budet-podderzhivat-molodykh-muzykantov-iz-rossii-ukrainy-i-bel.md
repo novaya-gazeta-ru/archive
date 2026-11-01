@@ -23,4 +23,4 @@ tags: "павел кушнир, фонд, музыканты"
 
 **Минюст считает «иноагентом»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/10/krov-na-gubakh
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/10/krov-na-gubakh](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/10/krov-na-gubakh)

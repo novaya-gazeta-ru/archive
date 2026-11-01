@@ -33,7 +33,7 @@ tags: "доктор лиза, прощание, авиакатастрофа, т
 
 Позже пропустят и всех телевизионщиков.
 
-**link:** https://novayagazeta.ru/articles/2017/01/15/71158-zhalko-lyudey-osobenno-vseh
+**link:** [«Жалко людей. Особенно всех»](2017/01/15/71158-zhalko-lyudey-osobenno-vseh.md)
 
 В центре собора — закрытый гроб. На маленьком столике — портрет улыбающейся Лизы. У портрета лежат красные гвоздики. (Потом еще поставят тут другой стол, чуть побольше, с Лизиными наградами).
 
@@ -65,4 +65,4 @@ tags: "доктор лиза, прощание, авиакатастрофа, т
 
 Светлая тебе память, Лиза.
 
-**link:** https://novayagazeta.ru/articles/2017/01/11/71108-liza-glinka-ya-rabotayu-s-otverzhennymi-i-predannymi-i-ne-vse-menya-v-etom-ponimayut
+**link:** [Лиза Глинка: «Я работаю с отверженными и предаными. И не все меня в этом понимают»](2017/01/11/71108-liza-glinka-ya-rabotayu-s-otverzhennymi-i-predannymi-i-ne-vse-menya-v-etom-ponimayut.md)

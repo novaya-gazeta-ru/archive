@@ -21,11 +21,11 @@ Facebook, Instagram и WhatsApp возобновили работу после �
 
 В компании уточнили, что в результате сбоя не было зафиксировано утечки данных пользователей.
 
-Масштабный сбой в работе Facebook, а также Instagram и WhatsApp, принадлежащих компании, [произошел](https://novayagazeta.ru/articles/2021/10/04/v-rabote-facebook-instagram-i-whatsapp-zafiksirovan-globalnyi-sboi-news) накануне. Сотрудники Facebook не могли попасть в здание компании из-за сбоев в пропускной системе.
+Масштабный сбой в работе Facebook, а также Instagram и WhatsApp, принадлежащих компании, [произошел](2021/10/04/v-rabote-facebook-instagram-i-whatsapp-zafiksirovan-globalnyi-sboi-news.md) накануне. Сотрудники Facebook не могли попасть в здание компании из-за сбоев в пропускной системе.
 
 Позже появились сообщения о затруднениях в работе основных российских провайдеров и операторов связи — «Ростелеком», МГТС, МТС, «Мегафон», Yota, Tele2 и «Билайн». Также пользователи отмечали трудности в работе «Вконтакте», Mail.ru, Twitch, YouTube, Telegram и других сервисов. Со сбоями начали работать Gmail, Netflix, Spotify, Snapchat, Signal и Tinder.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/04/v-rabote-facebook-instagram-i-whatsapp-zafiksirovan-globalnyi-sboi-news
+**Читайте также:** [В работе Facebook, Instagram и WhatsApp зафиксирован глобальный сбой. Главное](2021/10/04/v-rabote-facebook-instagram-i-whatsapp-zafiksirovan-globalnyi-sboi-news.md)
 
 Около 00:55 по Москве пользователи начали сообщать о частичном восстановлении работы соцсетей Facebook, Instagram и мессенджера WhatsApp.
 

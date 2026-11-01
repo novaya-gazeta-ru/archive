@@ -25,4 +25,4 @@ tags: ""
 
 Часть территории Курской области заняты ВСУ с августа 2024 года.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/30/schitaiut-chto-my-v-podvalakh-zhili-poetomu-nam-i-tak-soidet
+**Читайте также:** [«Считают, что мы в подвалах жили, поэтому нам и так сойдет»](2024/11/30/schitaiut-chto-my-v-podvalakh-zhili-poetomu-nam-i-tak-soidet.md)

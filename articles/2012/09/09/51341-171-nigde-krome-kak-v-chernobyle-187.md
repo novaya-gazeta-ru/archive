@@ -24,7 +24,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/07/1347102303_230813_0.jpg" style="width: 340px; height: 373px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/07/1347102303_230813_0.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/07/1347102303_230813_0.jpg)" style="width: 340px; height: 373px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -51,7 +51,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/07/1347102303_095215_14.jpg" style="width: 340px; height: 227px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/07/1347102303_095215_14.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/07/1347102303_095215_14.jpg)" style="width: 340px; height: 227px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -82,7 +82,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/07/1347102303_369954_16.jpg" style="width: 340px; height: 227px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/07/1347102303_369954_16.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/07/1347102303_369954_16.jpg)" style="width: 340px; height: 227px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">

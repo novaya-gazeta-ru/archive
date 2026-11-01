@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *Кто помогает беженцам Донбасса в России? Россияне должны за коммуналку уже почти миллиард. Людоедский финал «суррогатного дела» и другие тексты*
 
-https://novayagazeta.ru/issues/3276
+[https://novayagazeta.ru/issues/3276](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3276)

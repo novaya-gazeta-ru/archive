@@ -21,6 +21,6 @@ Twitter и Reddit, как отмечает The Guardian, сейчас не пр�
 
 Проверка возраста одного человека обойдется в 15-20 пенни (14-20 рублей). The Guardian пишет, что порносайты посещают от 20 до 25 миллионов британцев в год.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/28/seksualno-pozolochennye-kak-ustroen-vebkam-v-rossii-18
+**Читайте также:** [Сексуально позолоченные. Как устроен вебкам в России (18+)](2021/11/28/seksualno-pozolochennye-kak-ustroen-vebkam-v-rossii-18.md)
 
 Ранее The Guardian [сообщал](https://www.theguardian.com/society/2022/feb/08/porn-sites-in-uk-will-have-to-check-ages-in-planned-update-to-online-safety-bill), что правительство Великобритании вернулось к обсуждению плана по ограничению доступа к порносайтам по возрасту. Впервые об этом заговорили в 2015 году, однако в 2019-м власти [отложили](https://www.bbc.com/news/technology-60293057) разработку соответствующего законопроекта.

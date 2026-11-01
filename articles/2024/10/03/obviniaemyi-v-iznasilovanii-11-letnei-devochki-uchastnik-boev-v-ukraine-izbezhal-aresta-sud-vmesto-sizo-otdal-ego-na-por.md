@@ -29,4 +29,4 @@ tags: ""
 
 ️Когда началась проверка, Роммель уехал на фронт в Украину. Его задержали в Петербурге, куда он вернулся после ранения. В суде Роммель [заявил](https://www.fontanka.ru/2024/10/03/74166872/), что собирается вновь вернуться в зону боевых действий.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/07/pravo-na-proizvol
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/07/pravo-na-proizvol](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/07/pravo-na-proizvol)

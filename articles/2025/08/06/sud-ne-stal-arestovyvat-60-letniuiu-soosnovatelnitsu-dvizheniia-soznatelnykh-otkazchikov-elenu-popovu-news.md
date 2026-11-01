@@ -22,4 +22,4 @@ tags: "дсо, попова, уголовное дело,  суды, отказ�
 
 **Власти РФ считают «иноагентами»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/05/na-eks-koordinatora-dvizheniia-soznatelnykh-otkazchikov-elenu-popovu-zaveli-delo-o-feikakh-pro-armiiu-pravozashchitnitsu-otpravili-v-izoliator-news
+**Читайте также:** [На экс- координатора «Движения сознательных отказчиков»* Елену Попову завели дело о «фейках» про армию. Правозащитницу отправили в изолятор](2025/08/05/na-eks-koordinatora-dvizheniia-soznatelnykh-otkazchikov-elenu-popovu-zaveli-delo-o-feikakh-pro-armiiu-pravozashchitnitsu.md)

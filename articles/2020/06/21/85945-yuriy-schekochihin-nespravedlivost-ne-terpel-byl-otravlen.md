@@ -26,6 +26,6 @@ tags: "настоящее прошлое, подкаст, юрий щекочи�
 >
 > Soundcloud | Castbox | Подкасты ВКонтакте | Apple Podcasts | Google Podcasts | Яндекс.Музыка
 
-**link:** https://novayagazeta.ru/articles/2020/06/07/85740-on-mezhdu-nami-zhil
+**link:** [https://novayagazeta.ru/articles/2020/06/07/85740-on-mezhdu-nami-zhil](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/06/07/85740-on-mezhdu-nami-zhil)
 
 Иллюстрация обложки подкаста: Петр Саруханов / «Новая газета»

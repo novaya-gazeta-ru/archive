@@ -23,7 +23,7 @@ tags: "за честные выборы, проспект сахарова, фо
 
 Поминутный онлайн «Новой газеты»:
 
-**link:** https://novayagazeta.ru/articles/2019/08/10/81554-miting-na-saharova-10-avgusta-onlayn
+**link:** [https://novayagazeta.ru/articles/2019/08/10/81554-miting-na-saharova-10-avgusta-onlayn](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/08/10/81554-miting-na-saharova-10-avgusta-onlayn)
 
 ![](_assets/65/652b5f23918a8819724ae596706ae2cc.webp)
 

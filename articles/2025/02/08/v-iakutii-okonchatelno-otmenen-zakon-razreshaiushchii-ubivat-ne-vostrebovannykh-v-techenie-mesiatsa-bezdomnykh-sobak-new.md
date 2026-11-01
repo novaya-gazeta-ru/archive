@@ -21,4 +21,4 @@ tags: ""
 
 Но, кроме Якутии, похожие законы принимают власти других регионов: Удмуртии, Алтая, Забайкалья, Магадана, Бурятии, Тывы, ХМАО.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/02/20/v-rezhime-razzhiganiia-nenavisti
+**Читайте также:** [https://novayagazeta.ru/articles/2024/02/20/v-rezhime-razzhiganiia-nenavisti](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/02/20/v-rezhime-razzhiganiia-nenavisti)

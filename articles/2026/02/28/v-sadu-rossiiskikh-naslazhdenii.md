@@ -18,4 +18,4 @@ tags: ""
  Для этого мне хватит убеждений:\
  На помощь мне всегда придет змея.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/21/kak-khorosho-sidet-v-tazu-s-nogami
+**Читайте также:** [Как хорошо сидеть в тазу с ногами](2026/02/21/kak-khorosho-sidet-v-tazu-s-nogami.md)

@@ -51,7 +51,7 @@ tags: "стенин, государственные сми, превышение
 
 Вот на какие мысли навела меня история с героическим милиционером Сякиным. Но я, кажется, размечтался….
 
-**link:** https://novayagazeta.ru/articles/2019/06/14/80896-peregovory-na-marshe
+**link:** [https://novayagazeta.ru/articles/2019/06/14/80896-peregovory-na-marshe](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/06/14/80896-peregovory-na-marshe)
 
 …А теперь о том, почему я вдруг столь обильно взялся цитировать свою старинную заметку?
 

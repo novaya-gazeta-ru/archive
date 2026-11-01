@@ -29,4 +29,4 @@ tags: ""
 
 В России резервистов обычно зачисляют в отряды разнообразных «БАРСов», «р» в названии которых — как раз от слова «резерв». Участники «БАРСов» заключают контракты на 3 и 5 лет, получают ежемесячное пособие до 7 тысяч рублей, а также привлекаются к военным сборам, если их объявляют.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/10/16/fontanka-administratsiia-peterburga-tikho-otmenila-vyplaty-16-mln-rublei-ukhodiashchim-na-svo-v-dobrovolcheskie-obedineniia-bars-news
+**Читайте также:** [«Фонтанка»: администрация Петербурга тихо отменила выплаты 1,6 млн рублей уходящим на СВО в добровольческие объединения «БАРС»](2025/10/16/fontanka-administratsiia-peterburga-tikho-otmenila-vyplaty-16-mln-rublei-ukhodiashchim-na-svo-v-dobrovolcheskie-obedinen.md)

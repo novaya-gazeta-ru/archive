@@ -25,6 +25,6 @@ tags: ""
 
 Взамен на троих освобожденных сегодня заложников Израиль освободит 183 палестинских заключенных.
 
-Обмен сегодня прошел подчеркнуто спокойно, без хаоса и [провода заложников сквозь толпу боевиков](https://novayagazeta.ru/articles/2025/01/30/khamas-ustroil-shou-s-osvobozhdeniem-zalozhnikov-u-doma-ubitogo-lidera-i-provel-izrailtian-skvoz-tolpu-boevikov-izrail-zaiavil-protest-news), против чего возмутился Израиль во время предыдущего освобождения.
+Обмен сегодня прошел подчеркнуто спокойно, без хаоса и [провода заложников сквозь толпу боевиков](2025/01/30/khamas-ustroil-shou-s-osvobozhdeniem-zalozhnikov-u-doma-ubitogo-lidera-i-provel-izrailtian-skvoz-tolpu-boevikov-izrail-z.md), против чего возмутился Израиль во время предыдущего освобождения.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/18/chto-zhdat-na-sleduiushchii-den
+**Читайте также:** [Что ждать «на следующий день»?](2025/01/18/chto-zhdat-na-sleduiushchii-den.md)

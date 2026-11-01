@@ -33,10 +33,10 @@ tags: ""
 
 Подано заявление в полицию.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/22/repressirovany-posmertno
+**Читайте также:** [Репрессированы посмертно](2024/11/22/repressirovany-posmertno.md)
 
-В начале декабря мы цитировали «идею» главы Совета по правам человека Фадеева, который предложил перенести Соловецкий камень, мемориал жертвам политических репрессий, чтобы [«не смущать людей](https://novayagazeta.ru/articles/2024/12/03/v-sovete-po-pravam-cheloveka-vystupili-za-perenos-solovetskogo-kamnia-v-moskve-chtoby-ne-smushchat-liudei-kotorye-rabotaiut-na-lubianke-news), которые работают на Лубянке» — там располагается штаб-квартира ФСБ.
+В начале декабря мы цитировали «идею» главы Совета по правам человека Фадеева, который предложил перенести Соловецкий камень, мемориал жертвам политических репрессий, чтобы [«не смущать людей](2024/12/03/v-sovete-po-pravam-cheloveka-vystupili-za-perenos-solovetskogo-kamnia-v-moskve-chtoby-ne-smushchat-liudei-kotorye-rabota.md), которые работают на Лубянке» — там располагается штаб-квартира ФСБ.
 
-В середине ноября [приостановил работу](https://novayagazeta.ru/articles/2024/11/14/moskovskii-muzei-istorii-gulaga-priostanovil-rabotu-iz-za-narushenii-pozharnoi-bezopasnosti-ugrozhaiushchikh-posetiteliam-news) московский музей ГУЛАГа — единственный с постоянной экспозицией, посвященной советским лагерям. Официальная причина: «нарушение правил пожарной безопасности».
+В середине ноября [приостановил работу](2024/11/14/moskovskii-muzei-istorii-gulaga-priostanovil-rabotu-iz-za-narushenii-pozharnoi-bezopasnosti-ugrozhaiushchikh-posetitelia.md) московский музей ГУЛАГа — единственный с постоянной экспозицией, посвященной советским лагерям. Официальная причина: «нарушение правил пожарной безопасности».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/04/sanitar
+**Читайте также:** [Санитар](2024/12/04/sanitar.md)

@@ -17,14 +17,14 @@ tags: "ангарск, ик-2, колония, иркутская область
 
 Кроме того, в ночь на 9 января в ИК-2 скончался еще один заключенный. По информации ведомства, причиной смерти стала «сердечно-сосудистая недостаточность». В сообщении уточняется, что у него было «тяжелое заболевание».
 
-В ГУФСИН опровергли информацию о том, что осужденные умерли в результате объявленной в декабре [голодовки](https://novayagazeta.ru/articles/2022/01/08/troe-zakliuchennykh-v-angarskoi-kolonii-2-obiavili-golodovku-v-sviazi-s-nesoglasiem-s-rezhimnymi-trebovaniiami-news). Более того, объявившие голодовку заключенные уже завершили акцию протеста и «принимают пищу согласно распорядку дня», добавили в ведомстве.
+В ГУФСИН опровергли информацию о том, что осужденные умерли в результате объявленной в декабре [голодовки](2022/01/08/troe-zakliuchennykh-v-angarskoi-kolonii-2-obiavili-golodovku-v-sviazi-s-nesoglasiem-s-rezhimnymi-trebovaniiami-news.md). Более того, объявившие голодовку заключенные уже завершили акцию протеста и «принимают пищу согласно распорядку дня», добавили в ведомстве.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/17/na-sizo-6-v-razrabotku-petushka-iz-tebia-sdelaem
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/17/na-sizo-6-v-razrabotku-petushka-iz-tebia-sdelaem](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/17/na-sizo-6-v-razrabotku-petushka-iz-tebia-sdelaem)
 
 8 января стало известно, что в конце декабря прошлого года трое заключенных ангарской ИК-2 объявили голодовку. В пресс-службе ГУФСИН тогда заявили, что это решение мотивировано «несогласием с выполнением режимных требований». Также в ведомстве опровергли, что голодовка заключенных связана с применением насилия к ним со стороны сотрудников колонии.
 
-В сентябре, по информации «Гулагу.нет», заключенные колонии №2 также [объявляли](https://novayagazeta.ru/articles/2021/09/13/gulagu-net-zakliuchennye-v-angarskoi-kolonii-obiavili-massovuiu-golodovku-oni-zhaluiutsia-na-pytki-news) массовую голодовку. Факт голодовки [подтвердили](https://novayagazeta.ru/articles/2022/01/08/%C2%ABhttps://www.interfax.ru/russia/790011%C2%BB) в главном управлении ФСИН по региону — по версии пресс-службы, от еды отказались лишь пять мужчин, отбывающих наказание.
+В сентябре, по информации «Гулагу.нет», заключенные колонии №2 также [объявляли](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/13/gulagu-net-zakliuchennye-v-angarskoi-kolonii-obiavili-massovuiu-golodovku-oni-zhaluiutsia-na-pytki-news) массовую голодовку. Факт голодовки [подтвердили](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/01/08/%C2%AB [https://www.interfax.ru/russia/790011%C2%BB](https://web.archive.org/web/*/https://www.interfax.ru/russia/790011%C2%BB)) в главном управлении ФСИН по региону — по версии пресс-службы, от еды отказались лишь пять мужчин, отбывающих наказание.
 
 Правозащитники утверждали, что заключенные жаловались на пытки. «Заключенных по формальному поводу унижают, раздевают догола, избивают, заковывают в наручники, таскают по полу. Только за сентябрь в колонии умерли двое осужденных», — уточнили в «Гулагу.нет».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/09/revansh-tiuremshchikov
+**Читайте также:** [Реванш тюремщиков](2021/12/09/revansh-tiuremshchikov.md)

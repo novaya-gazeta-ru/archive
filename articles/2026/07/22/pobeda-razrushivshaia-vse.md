@@ -227,4 +227,4 @@ tags: ""
 
 **Владимир Максимов**
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/19/znaet-li-on-chto-natvoril
+**Читайте также:** [Знает ли он, что натворил?](2026/07/19/znaet-li-on-chto-natvoril.md)

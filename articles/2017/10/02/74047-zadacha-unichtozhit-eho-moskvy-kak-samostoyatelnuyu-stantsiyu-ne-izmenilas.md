@@ -203,7 +203,7 @@ tags: "венедиктов, интервью"
 
 Наша работа — освещать. Я тупой, у меня работа такая — ваше говно вывозить.
 
-**link:** https://novayagazeta.ru/articles/2017/09/13/73818-vizhu-eti-tsifry-pervyy-raz
+**link:** [https://novayagazeta.ru/articles/2017/09/13/73818-vizhu-eti-tsifry-pervyy-raz](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/09/13/73818-vizhu-eti-tsifry-pervyy-raz)
 
 **— Я так понимаю, что освещение это было за деньги?**
 
@@ -231,7 +231,7 @@ tags: "венедиктов, интервью"
 
 — Нет, они не выиграли. Статистика — это лукавая цифра.
 
-**link:** https://novayagazeta.ru/articles/2017/09/13/73815-v-gorode-ostalis-my-i-er
+**link:** [https://novayagazeta.ru/articles/2017/09/13/73815-v-gorode-ostalis-my-i-er](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/09/13/73815-v-gorode-ostalis-my-i-er)
 
 **— Но раньше у коммунистов было достаточно депутатов, чтобы выдвинуть своего мэра, а теперь никто, кроме «Единой России», сделать этого не может.**
 
@@ -277,7 +277,7 @@ tags: "венедиктов, интервью"
 
 Параллельно я занимаюсь бумагой, я занимаюсь журналом «Дилетант», у которого продажи растут на две-три тысячи экземпляров каждый месяц. Сейчас он составляет 65 тысяч, из которых 42 мы продаем через киоски. Я понимаю, как двигаться, я понимаю, как зайти в «Ашан», как зайти в «Пятерочку», я понимаю, в какие киоски надо давать 20 экземпляров, а в какие один.
 
-**link:** https://novayagazeta.ru/articles/2017/08/02/73313-za-diletant-mne-chasche-priletaet-chem-za-eho
+**link:** [«За «Дилетант» мне чаще прилетает, чем за «Эхо»](2017/08/02/73313-za-diletant-mne-chasche-priletaet-chem-za-eho.md)
 
 **— Вы лично этим занимаетесь?**
 

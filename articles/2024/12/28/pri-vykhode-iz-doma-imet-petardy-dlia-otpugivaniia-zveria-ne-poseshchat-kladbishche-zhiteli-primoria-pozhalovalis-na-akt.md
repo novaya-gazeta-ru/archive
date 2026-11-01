@@ -31,4 +31,4 @@ tags: ""
 
 СМИ Хасанского района Приморского края часто рассказывают о проделках тигров, которые задирают лошадей, утаскивают цепных собак или выходят на дорогу к людям, теперь и в светлое время суток. Судя по материалам, тигров в Хасанском районе в этом году сбивали автомобили, попадали они под колеса поезда.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/04/23/my-narushaem-ikh-territoriiu-i-za-eto-poluchaem
+**Читайте также:** [https://novayagazeta.ru/articles/2024/04/23/my-narushaem-ikh-territoriiu-i-za-eto-poluchaem](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/04/23/my-narushaem-ikh-territoriiu-i-za-eto-poluchaem)

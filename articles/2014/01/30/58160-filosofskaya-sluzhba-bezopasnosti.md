@@ -16,7 +16,7 @@ tags: "образование"
 *[media: <tbody>
 		<tr>
 			<td>
-				<img src="http://www.novayagazeta.ru/storage/c/2014/01/30/1391092478_626917_47.jpg" style="width: 340px; height: 226px; float: right;"></td>
+				<img src="[http://www.novayagazeta.ru/storage/c/2014/01/30/1391092478_626917_47.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/01/30/1391092478_626917_47.jpg)" style="width: 340px; height: 226px; float: right;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">

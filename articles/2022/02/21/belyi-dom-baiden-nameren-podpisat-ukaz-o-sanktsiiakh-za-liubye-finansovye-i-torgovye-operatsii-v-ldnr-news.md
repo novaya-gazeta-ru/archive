@@ -23,14 +23,14 @@ tags: "США, Украина, ДНР, ЛНР, санкции, kn"
 
 Глава МИД Великобритании Элизабет Трасс также [заявила](https://twitter.com/trussliz/status/1495867739201757186), что во вторник будут объявлены санкции в отношении России.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/21/sanktsii-iz-ada-vremenno-otkladyvaiutsia
+**Читайте также:** [«Мать всех санкций»? О, NYET!](2022/02/21/sanktsii-iz-ada-vremenno-otkladyvaiutsia.md)
 
-Ранее Белый дом [подготовил](https://novayagazeta.ru/articles/2022/02/21/reuters-ssha-podgotovili-proekt-sanktsii-protiv-rossii-predusmatrivaiushchii-zapret-na-obrabotku-tranzaktsii-rossiiskikh-bankov-news) проект санкций против России, запрещающий американским банкам обрабатывать транзакции крупных российских банков. Сенат США также [предлагал](https://novayagazeta.ru/articles/2022/01/12/senat-ssha-predlozhil-vvesti-sanktsii-protiv-putina-i-krupneishikh-rossiiskikh-bankov-v-sluchae-vtorzheniia-rossii-v-ukrainu-news) ввести санкции против президента России Владимира Путина и российских чиновников высшего эшелона. Агентство Reuters также [сообщало](https://www.reuters.com/business/white-house-tells-chip-industry-be-ready-potential-russia-export-curbs-2022-01-19/) о планах Белого дома ввести ограничения на экспорт в Россию микрочипов в случае эскалации ситуации в Украине.
+Ранее Белый дом [подготовил](2022/02/21/reuters-ssha-podgotovili-proekt-sanktsii-protiv-rossii-predusmatrivaiushchii-zapret-na-obrabotku-tranzaktsii-rossiiskikh.md) проект санкций против России, запрещающий американским банкам обрабатывать транзакции крупных российских банков. Сенат США также [предлагал](2022/01/12/senat-ssha-predlozhil-vvesti-sanktsii-protiv-putina-i-krupneishikh-rossiiskikh-bankov-v-sluchae-vtorzheniia-rossii-v-ukr.md) ввести санкции против президента России Владимира Путина и российских чиновников высшего эшелона. Агентство Reuters также [сообщало](https://www.reuters.com/business/white-house-tells-chip-industry-be-ready-potential-russia-export-curbs-2022-01-19/) о планах Белого дома ввести ограничения на экспорт в Россию микрочипов в случае эскалации ситуации в Украине.
 
 Днем 21 февраля Путин подписал указы о признании самопровозглашенных Донецкой и Луганской народных республик. Он также подписал договоры о дружбе, сотрудничестве и взаимной помощи с ДНР и ЛНР. Перед церемонией подписания Путин выступил с часовым обращением к нации.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/21/ataka-na-slavian-na-pravoslavnykh-na-vse-russkoe
+**Читайте также:** [«Атака на славян, на православных, на все русское»](2022/02/21/ataka-na-slavian-na-pravoslavnykh-na-vse-russkoe.md)
 
-«Санкции все равно будут вводить по мере укрепления суверенитета России. Только потому, что мы есть», — отметил он. Тем временем курс доллара [превысил](https://novayagazeta.ru/articles/2022/02/21/vo-vremia-obrashcheniia-putina-po-voprosu-priznaniia-dnr-i-lnr-kurs-dollara-prevysil-80-rublei-evro-90-news) 80 рублей, евро — 90. Индекс Мосбиржи во время обращения президента России снизился на 18%, это самый сильный удар с 2008 года.
+«Санкции все равно будут вводить по мере укрепления суверенитета России. Только потому, что мы есть», — отметил он. Тем временем курс доллара [превысил](2022/02/21/vo-vremia-obrashcheniia-putina-po-voprosu-priznaniia-dnr-i-lnr-kurs-dollara-prevysil-80-rublei-evro-90-news.md) 80 рублей, евро — 90. Индекс Мосбиржи во время обращения президента России снизился на 18%, это самый сильный удар с 2008 года.
 
 *Обновлено в 00:10 по мск: добавлено заявление главы МИД Великобритании *

@@ -15,7 +15,7 @@ tags: "ng, ABBA, альбом"
 
 Он получил название Voyage. В альбом вошли десять новых треков, которые уже доступны на стриминговых сервисах.
 
-ABBA [анонсировала](https://novayagazeta.ru/articles/2021/09/02/gruppa-abba-obiavila-o-vossoedinenii-i-anonsirovala-pervyi-za-40-let-albom-news) выход альбома в сентябре, тогда же она представила две песни из него: I Still Have Faith in You и Don't Shut Me Down. Помимо этих композиций, в альбом также вошли:
+ABBA [анонсировала](2021/09/02/gruppa-abba-obiavila-o-vossoedinenii-i-anonsirovala-pervyi-za-40-let-albom-news.md) выход альбома в сентябре, тогда же она представила две песни из него: I Still Have Faith in You и Don't Shut Me Down. Помимо этих композиций, в альбом также вошли:
 
 - When You Danced With Me;
 - Little Things;

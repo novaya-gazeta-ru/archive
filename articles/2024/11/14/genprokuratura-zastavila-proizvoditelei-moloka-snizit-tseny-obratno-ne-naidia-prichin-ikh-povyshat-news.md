@@ -17,10 +17,10 @@ tags: ""
 
 Производители еще до завершения проверки прокуратуры заявили о корректировки цен.
 
-Генпрокуратура [начала проверку](https://novayagazeta.ru/articles/2024/11/12/genprokuratura-zaimetsia-planami-krupneishikh-proizvoditelei-povysit-tseny-na-moloko-news) 12 ноября.
+Генпрокуратура [начала проверку](2024/11/12/genprokuratura-zaimetsia-planami-krupneishikh-proizvoditelei-povysit-tseny-na-moloko-news.md) 12 ноября.
 
 Перед этим в СМИ появились сообщения, что «Вимм-Билль-Данн предупредил торговые сети о повышении отпускных цен на молоко на 3,4%, а «Экомилк» подняла цены на 10%.
 
 Компании объяснили свое решение «влиянием внешних факторов», из-за которых стали быстрее расти цены на сырое молоко.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/08/rossiiskaia-ekonomika-proedaet-budushchee-i-tratit-ne-po-sredstvam
+**Читайте также:** [«Российская экономика проедает будущее и тратит не по средствам»](2024/11/08/rossiiskaia-ekonomika-proedaet-budushchee-i-tratit-ne-po-sredstvam.md)

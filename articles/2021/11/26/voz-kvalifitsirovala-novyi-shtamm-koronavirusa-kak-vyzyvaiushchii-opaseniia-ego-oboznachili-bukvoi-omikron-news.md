@@ -17,8 +17,8 @@ tags: "коронавирус, воз , штаммы, em"
 
 Помимо штамма «омикрон», в реестр «вызывающих опасения» штаммов коронавируса ВОЗ ранее [включила](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/) еще четыре: «альфу», «бету», «гамму» и «дельту». Последний штамм на данный момент является самым распространенным в мире.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/05/pobeg-iz-ukhania
+**Читайте также:** [https://novayagazeta.ru/articles/2021/06/05/pobeg-iz-ukhania](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/06/05/pobeg-iz-ukhania)
 
-Сегодня в Бельгии [подтвердили](https://novayagazeta.ru/articles/2021/11/26/v-belgii-vpervye-v-evrope-zafiksirovali-pervyi-sluchai-zabolevaniia-novym-shtammom-koronavirusa-news) первый в Европе случай заражения новым штаммом коронавируса. Премьер-министр страны сообщил, что заболевание обнаружили у человека, прилетевшего из Египта. Многие страны из-за нового штамма обвъявили о приостановке полетов в южноафриканские страны и Гонконг, среди них есть и [Россия](https://novayagazeta.ru/articles/2021/11/26/rossiia-ogranichit-aviasoobshchenie-s-riadom-stran-iz-za-rasprostraneniia-novogo-shtamma-kronovirusa-news).
+Сегодня в Бельгии [подтвердили](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/26/v-belgii-vpervye-v-evrope-zafiksirovali-pervyi-sluchai-zabolevaniia-novym-shtammom-koronavirusa-news) первый в Европе случай заражения новым штаммом коронавируса. Премьер-министр страны сообщил, что заболевание обнаружили у человека, прилетевшего из Египта. Многие страны из-за нового штамма обвъявили о приостановке полетов в южноафриканские страны и Гонконг, среди них есть и [Россия](2021/11/26/rossiia-ogranichit-aviasoobshchenie-s-riadom-stran-iz-za-rasprostraneniia-novogo-shtamma-kronovirusa-news.md).
 
 Впервые новый штамм B.1.1.529 обнаружили у больного в Ботсване. Наибольшее количество людей, зараженных «южноафриканским» штаммом инфекции, [находятся](https://tass.ru/obschestvo/13029245) в Южной Африке — более 77 человек. Еще четыре случая заболевания обнаружили в Ботсване, один — в Гонконге.

@@ -13,7 +13,7 @@ tags: "тарощина, тв"
 
 *Почему телевидение промолчало о трагедии у метро «Октябрьское поле»*
 
-**link:** https://novayagazeta.ru/comments/72058.html
+**link:** [https://novayagazeta.ru/comments/72058.html](https://web.archive.org/web/*/https://novayagazeta.ru/comments/72058.html)
 
 Когда-нибудь и это время кончится. А пока с каждым днем все труднее отвечать на извечный вопрос: какое, милые, у нас тысячелетье на дворе?
 

@@ -27,6 +27,6 @@ tags: ""
 
 Реабилитировали Мейерхольда только в 1955 году, через два года после смерти Сталина.
 
-Объекты проекта «Последний адрес», который оставляет на домах жертв политрепрессий лаконичные памятные знаки, атакуют последние годы в Москве и Петербурге. Правительство России открыто [пересматривает](https://novayagazeta.ru/articles/2024/09/10/a-vdrug-pravilno-rasstreliali) концепции памяти погибших в годы массовых репрессий.
+Объекты проекта «Последний адрес», который оставляет на домах жертв политрепрессий лаконичные памятные знаки, атакуют последние годы в Москве и Петербурге. Правительство России открыто [пересматривает](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/10/a-vdrug-pravilno-rasstreliali) концепции памяти погибших в годы массовых репрессий.
 
-Генпрокуратура тратит время на [пересмотр решений о реабилитации](https://novayagazeta.ru/articles/2025/04/04/spravedlivost-s-grifom-sovershenno-sekretno) жертв сталинского террора, у музеев с экспозицией о том времени [сменяют руководство](https://novayagazeta.ru/articles/2025/01/13/roman-romanov-pokinet-dolzhnost-direktora-muzeia-istorii-gulaga-ego-smenit-direktor-muzeia-moskvy-anna-trapkova-news) на более конформистское.
+Генпрокуратура тратит время на [пересмотр решений о реабилитации](2025/04/04/spravedlivost-s-grifom-sovershenno-sekretno.md) жертв сталинского террора, у музеев с экспозицией о том времени [сменяют руководство](2025/01/13/roman-romanov-pokinet-dolzhnost-direktora-muzeia-istorii-gulaga-ego-smenit-direktor-muzeia-moskvy-anna-trapkova-news.md) на более конформистское.

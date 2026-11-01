@@ -29,17 +29,17 @@ tags: "здравоохранение, медицина, обложка дня"
 
 -
 
-### [Ave доктор!](https://novayagazeta.ru/articles/2020/10/11/87468-ave-doktor) -
+### [Ave доктор!](2020/10/11/87468-ave-doktor.md) -
 
-### [«Я историю с ковидом так и называю — войной».](https://novayagazeta.ru/articles/2020/10/09/87448-ya-istoriyu-s-kovidom-tak-i-nazyvayu-voynoy) -
+### [«Я историю с ковидом так и называю — войной».](2020/10/09/87448-ya-istoriyu-s-kovidom-tak-i-nazyvayu-voynoy.md) -
 
-### [«Мы охрененно много работаем, но это интересно».](https://novayagazeta.ru/articles/2020/10/11/87467-moskva-snova-v-krasnoy-zone-monologi) -
+### [«Мы охрененно много работаем, но это интересно».](2020/10/11/87467-moskva-snova-v-krasnoy-zone-monologi.md) -
 
-### [Почему выгорают врачи.](https://novayagazeta.ru/articles/2020/10/11/87470-pochemu-vygorayut-vrachi) -
+### [Почему выгорают врачи.](2020/10/11/87470-pochemu-vygorayut-vrachi.md) -
 
-### [Кто будет спасать людей?](https://novayagazeta.ru/articles/2020/10/12/87471-kto-budet-spasat-lyudey) -
+### [Кто будет спасать людей?](2020/10/12/87471-kto-budet-spasat-lyudey.md) -
 
-### [Дмитрий Быков:](http://novayagazeta.ru/articles/2020/10/11/87466-privivochnoe)
+### [Дмитрий Быков:](2020/10/11/87466-privivochnoe.md)
 
 ![](_assets/88/883d80e2c68229b331748f65b3b6c975.webp)
 

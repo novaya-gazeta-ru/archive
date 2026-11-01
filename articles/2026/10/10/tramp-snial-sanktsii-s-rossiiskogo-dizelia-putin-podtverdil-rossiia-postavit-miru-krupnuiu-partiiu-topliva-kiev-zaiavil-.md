@@ -27,7 +27,7 @@ tags: ""
 
 Киев заявил, что договоренности России и США не остановят украинских ударов по российским НПЗ. И в ночь на 10 октября, уже получив сведения о договоренностях Трампа с Путиным, ВСУ атаковали НПЗ в Ростовской области.
 
-Телефонный звонок Трампа и Путина состоялся в тот момент, когда Вашингтон пытается придать переговорам с Россией новый формат. Трамп [назначил](https://novayagazeta.ru/articles/2026/09/29/tramp-predlozhil-dzhonu-koulu-dolzhnost-amerikanskogo-posla-po-delam-zalozhnikov-zainteresovavshis-vozmozhnostiu-osvobodit-rossiiskikh-politzakliuchennykh-news) своим спецпосланником по заложникам Джона Коула. Известно, что возможность [обмена политзаключенных и иностранцев](https://novayagazeta.ru/articles/2026/09/20/dmitrii-muratov-v-efire-cnn-pokazal-foto-rossiiskikh-politzekov-i-prizval-politikov-v-mire-a-osobenno-amerikanskikh-peregovorshchikov-trampa-dobivatsia-ikh-osvobozhdeniia-news) в российских тюрьмах на частичное снятие санкций (так называемый «белорусский вариант») обсуждается всерьез.
+Телефонный звонок Трампа и Путина состоялся в тот момент, когда Вашингтон пытается придать переговорам с Россией новый формат. Трамп [назначил](2026/09/29/tramp-predlozhil-dzhonu-koulu-dolzhnost-amerikanskogo-posla-po-delam-zalozhnikov-zainteresovavshis-vozmozhnostiu-osvobod.md) своим спецпосланником по заложникам Джона Коула. Известно, что возможность [обмена политзаключенных и иностранцев](2026/09/20/dmitrii-muratov-v-efire-cnn-pokazal-foto-rossiiskikh-politzekov-i-prizval-politikov-v-mire-a-osobenno-amerikanskikh-pere.md) в российских тюрьмах на частичное снятие санкций (так называемый «белорусский вариант») обсуждается всерьез.
 
 Однако пока ни о каких уступках со стороны Кремля не говорится.
 

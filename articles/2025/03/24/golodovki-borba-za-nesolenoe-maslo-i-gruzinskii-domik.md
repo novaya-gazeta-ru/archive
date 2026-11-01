@@ -27,7 +27,7 @@ tags: "мария пономаренко, людмила разумова, ши�
 
 Вопрос риторический, не требующий ответа…
 
-**Читайте ранее:** https://novayagazeta.ru/articles/2025/03/06/ubivaiut-menia-za-to-chto-ia-govoriu-pravdu-o-nikh
+**Читайте ранее:** [«Убивают меня за то, что я говорю правду о них»](2025/03/06/ubivaiut-menia-za-to-chto-ia-govoriu-pravdu-o-nikh.md)
 
 ## ПВР — правила внутренних репрессий
 
@@ -84,7 +84,7 @@ tags: "мария пономаренко, людмила разумова, ши�
 
 А на самом деле — при невыясненных обстоятельствах.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/10/krov-na-gubakh
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/10/krov-na-gubakh](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/10/krov-na-gubakh)
 
 ## Борьба за права всей зоной
 
@@ -118,7 +118,7 @@ tags: "мария пономаренко, людмила разумова, ши�
 >
 > Скандал дошел до Управления ИТУ (исправительное трудовое учреждение), те приехали, посмотрели на нас (а мы к тому времени были уже хороши!) и сообразили, что лучше уступить и историю замять…»
 
-**Читайте ранее:** https://novayagazeta.ru/articles/2025/03/07/veriu-v-pobedu-i-v-sebia
+**Читайте ранее:** [«Верю в победу и в себя»](2025/03/07/veriu-v-pobedu-i-v-sebia.md)
 
 ## «Очеловечить ФСИН»
 
@@ -158,4 +158,4 @@ tags: "мария пономаренко, людмила разумова, ши�
 >
 > Всем мои объятия, любовь и уважение…»
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/17/redaktsiia-rusnews-zaiavila-ob-opasenii-za-sostoianie-marii-ponomarenko-v-kolonii-zhurnalistka-derzhit-sukhuiu-golodovku-ee-advokat-napisal-ombudsmenu-srochnoe-pismo-news
+**Читайте также:** [Редакция RusNews заявила об опасении за состояние Марии Пономаренко в колонии. Журналистка держит сухую голодовку, ее адвокат написал омбудсмену срочное письмо](2025/03/17/redaktsiia-rusnews-zaiavila-ob-opasenii-za-sostoianie-marii-ponomarenko-v-kolonii-zhurnalistka-derzhit-sukhuiu-golodovku.md)

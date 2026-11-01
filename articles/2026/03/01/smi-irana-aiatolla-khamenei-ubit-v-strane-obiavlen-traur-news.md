@@ -37,14 +37,14 @@ tags: ""
 
 В первый день войны в разных частях Ирана погибли около 40 чиновников Ирана — в том числе несколько министров. Были атакованы места их выявленных встреч, а также военные объекты.
 
-Союзники открыто заявили, что целью военных действий является во-первых [смена политического режима](https://novayagazeta.ru/articles/2026/02/28/tramp-ssha-uchastvuiut-v-voine-protiv-irana-rezhim-aiatoll-terroristicheskii-garantiruiu-chto-iadernogo-oruzhiia-u-irana-ne-budet-a-kogda-udary-stikhnut-irantsy-smogut-vyiti-i-svergnut-vlast-news), во вторых — ликвидация ядерной программы Ирана. При этом США до последнего находились в переговорах с Ираном по ядерной сделке, и публично так и не вышли из них.
+Союзники открыто заявили, что целью военных действий является во-первых [смена политического режима](2026/02/28/tramp-ssha-uchastvuiut-v-voine-protiv-irana-rezhim-aiatoll-terroristicheskii-garantiruiu-chto-iadernogo-oruzhiia-u-irana.md), во вторых — ликвидация ядерной программы Ирана. При этом США до последнего находились в переговорах с Ираном по ядерной сделке, и публично так и не вышли из них.
 
 В ответ на удары США и Израиля Иран атаковал американские базы на Ближнем Востоке и запустил ракеты по Израилю.
 
-МИД России выпустил резкое заявление, назвав атаку на Иран [«авантюрой» под прикрытием мирных переговоров](https://novayagazeta.ru/articles/2026/02/28/mid-rossii-nazval-avantiuroi-i-agressiei-udary-po-iranu-i-potreboval-nemedlenno-vernut-situatsiiu-na-blizhnem-vostoke-v-peregovornoe-ruslo-news).
+МИД России выпустил резкое заявление, назвав атаку на Иран [«авантюрой» под прикрытием мирных переговоров](2026/02/28/mid-rossii-nazval-avantiuroi-i-agressiei-udary-po-iranu-i-potreboval-nemedlenno-vernut-situatsiiu-na-blizhnem-vostoke-v-.md).
 
 Красный полумесяц сообщил о более чем 200 погибших и более чем 700 раненых в Иране за 28 февраля.
 
 67-летний **Али Лариджани** сейчас — самый влиятельный иранский силовик и приближенный Хаменеи, но он не может считаться преемником аятоллы, так как не является священником.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/01/iran-ostanetsia-ranenym-zverem-no-dalshe-uzhe-delo-irantsev
+**Читайте также:** [«Иран останется 'раненым зверем', но дальше уже — дело иранцев»](2026/03/01/iran-ostanetsia-ranenym-zverem-no-dalshe-uzhe-delo-irantsev.md)

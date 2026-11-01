@@ -49,6 +49,6 @@ tags: ""
 
 **Роман АНИН**, «Новая газета» **Атанас ЧОБАНОВ**, Bivol
 
-**link:** https://novayagazeta.ru/economy/66352.html
+**link:** [https://novayagazeta.ru/economy/66352.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/66352.html)
 
-**link:** https://novayagazeta.ru/economy/66352.html
+**link:** [https://novayagazeta.ru/economy/66352.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/66352.html)

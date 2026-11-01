@@ -21,6 +21,6 @@ tags: "шины, nokian, финляндия, покрышки, авто, kn"
 
 До этого на заводе в РФ компания также производила внедорожные шины.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/17/kupi-menia-esli-smozhesh
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/17/kupi-menia-esli-smozhesh](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/17/kupi-menia-esli-smozhesh)
 
 Ранее французский производитель шин Michelin временно [прекратил](https://www.michelin.com/en/press-releases/michelin-suspends-its-industrial-activity-in-russia-as-well-as-its-exportations-to-russia/) поставки и производство шин на фоне военных действий в Украине. Вслед за ним работу [приостановила](https://ria.ru/20220308/continental-1777169628.html) и немецкая компания Continental.

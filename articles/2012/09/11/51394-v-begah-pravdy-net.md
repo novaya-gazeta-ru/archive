@@ -16,17 +16,17 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/11/1347362282_167780_93.jpg" style="width: 360px; height: 478px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/11/1347362282_167780_93.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/11/1347362282_167780_93.jpg)" style="width: 360px; height: 478px; "><br>
 				<sup>Валид Лурахмаев (Валидол)</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/11/1347362282_303354_15.jpg" style="width: 360px; height: 203px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/11/1347362282_303354_15.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/11/1347362282_303354_15.jpg)" style="width: 360px; height: 203px; "><br>
 				<sup>Голландец Заур Мустафаев</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/11/1347362292_732507_83.jpg" style="width: 360px; height: 286px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/11/1347362292_732507_83.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/11/1347362292_732507_83.jpg)" style="width: 360px; height: 286px; "><br>
 				<sup>«Потомственная колдунья из Швеции» Изольта Гросс, она же — бывшая тамада Светлана Александровна Соловьева</sup></td>
 		</tr>
 	</tbody>]*
@@ -115,4 +115,4 @@ tags: ""
 
 **Право на ответ**
 
-Редакционное уточнение и ответ адвокатов М.Ю. Коряка читайте [здесь](http://www.novayagazeta.ru/inquests/57479.html).
+Редакционное уточнение и ответ адвокатов М.Ю. Коряка читайте [здесь](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/57479.html).

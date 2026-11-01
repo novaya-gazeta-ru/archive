@@ -15,12 +15,12 @@ tags: "фадеев, спч, обращение, правоохранитель�
 
 Детали обращения не приводятся.
 
-Накануне неизвестные[расклеили](https://novayagazeta.ru/articles/2022/01/30/v-nizhnem-novgorode-neizvestnye-obkleili-plakatami-pozor-inoagentu-dver-materi-pravozashchitnika-igoria-kaliapina-news) плакаты на двери подъезда и квартиры матери Каляпина в Нижнем Новгороде. На одном из них было сказано «Игорь Каляпин иностранный агент. Продал отечество за гранты США и Германии». В тексте другого говорилось, что правозащитник «защищает террористов».
+Накануне неизвестные[расклеили](2022/01/30/v-nizhnem-novgorode-neizvestnye-obkleili-plakatami-pozor-inoagentu-dver-materi-pravozashchitnika-igoria-kaliapina-news.md) плакаты на двери подъезда и квартиры матери Каляпина в Нижнем Новгороде. На одном из них было сказано «Игорь Каляпин иностранный агент. Продал отечество за гранты США и Германии». В тексте другого говорилось, что правозащитник «защищает террористов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/28/vrag-nomer-odin
+**Читайте также:** [Враг номер один](2022/01/28/vrag-nomer-odin.md)
 
-Это произошло после того, как 27 января Каляпин [прокомментировал](https://novayagazeta.ru/articles/2022/01/27/v-sootvetstvii-s-normami-upk-glava-spch-fadeev-prokommentiroval-pokhishchenie-zaremy-musaevoi-iz-nizhnego-novgoroda-news) ситуацию с Заремой Мусаевой — женой федерального судьи Сайди Янгулбаева, похищенной чеченскими силовиками из Нижнего Новгорода. Он отметил, что без вмешательства президента РФ Владимира Путина судьба женщины может закончиться трагически.
+Это произошло после того, как 27 января Каляпин [прокомментировал](2022/01/27/v-sootvetstvii-s-normami-upk-glava-spch-fadeev-prokommentiroval-pokhishchenie-zaremy-musaevoi-iz-nizhnego-novgoroda-news.md) ситуацию с Заремой Мусаевой — женой федерального судьи Сайди Янгулбаева, похищенной чеченскими силовиками из Нижнего Новгорода. Он отметил, что без вмешательства президента РФ Владимира Путина судьба женщины может закончиться трагически.
 
-Ранее Каляпина и журналистку «Новой газеты» Елену Милашину глава Чечни Рамзан Кадыров [назвал](https://novayagazeta.ru/articles/2022/01/24/glava-chechni-nazval-terroristami-chlena-spch-kaliapina-i-zhurnalistku-novoi-milashinu-news) «террористами». «Новая газета» [потребовала](https://novayagazeta.ru/articles/2022/01/30/v-nizhnem-novgorode-neizvestnye-obkleili-plakatami-pozor-inoagentu-dver-materi-pravozashchitnika-igoria-kaliapina-news) возбудить против Кадырова уголовное дело.
+Ранее Каляпина и журналистку «Новой газеты» Елену Милашину глава Чечни Рамзан Кадыров [назвал](2022/01/24/glava-chechni-nazval-terroristami-chlena-spch-kaliapina-i-zhurnalistku-novoi-milashinu-news.md) «террористами». «Новая газета» [потребовала](2022/01/30/v-nizhnem-novgorode-neizvestnye-obkleili-plakatami-pozor-inoagentu-dver-materi-pravozashchitnika-igoria-kaliapina-news.md) возбудить против Кадырова уголовное дело.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/24/my-tozhe-ne-mozhem-v-eto-poverit
+**Читайте также:** [«Мы тоже не можем в это поверить»](2022/01/24/my-tozhe-ne-mozhem-v-eto-poverit.md)

@@ -23,4 +23,4 @@ tags: "овечкин, хоккей, спорт, нхл, sf"
 
 В сборной России он дебютировал в 17 лет. Участвовал в тринадцати чемпионатах мира, став трехкратным чемпионом мира. Овечкин также выступал на трех Олимпийских играх — в Турине, Ванкувере и Сочи.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/06/pravyi-khvat
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/06/pravyi-khvat](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/06/pravyi-khvat)

@@ -16,7 +16,7 @@ tags: "европейский суд"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/10/24/1382628498_234401_39.jpg" style="width: 360px; height: 524px;"><sup>Фото: РИА Новости</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/10/24/1382628498_234401_39.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/10/24/1382628498_234401_39.jpg)" style="width: 360px; height: 524px;"><sup>Фото: РИА Новости</sup></td>
 		</tr>
 	</tbody>]*
 

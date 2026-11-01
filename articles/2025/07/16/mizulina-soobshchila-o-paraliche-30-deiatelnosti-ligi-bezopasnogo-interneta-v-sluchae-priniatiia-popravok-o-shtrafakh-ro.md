@@ -17,7 +17,7 @@ tags: ""
 
 Общественница обнаружила слабые места предлагаемых поправок, из-за которых под штрафы могут попасть и сотрудники МВД, занимающиеся профилактикой экстремизма, и «бдительные россияне», наткнувшиеся в соцсетях на материалы и группы экстремистской направленности.
 
-Днем ранее собирающаяся на летние каникулы Дума приняла и другой закон, по которому [расширила](https://novayagazeta.ru/articles/2025/07/15/gosduma-pered-kanikulami-uzhestochila-zakonodatelstvo-ob-ekstremizme-priniav-popravki-srazu-v-dvukh-reshaiushchikh-chteniiakh-news) наказание по экстремистским статьям.
+Днем ранее собирающаяся на летние каникулы Дума приняла и другой закон, по которому [расширила](2025/07/15/gosduma-pered-kanikulami-uzhestochila-zakonodatelstvo-ob-ekstremizme-priniav-popravki-srazu-v-dvukh-reshaiushchikh-chten.md) наказание по экстремистским статьям.
 
 Главное изменение — и оно, в отличие от поправок про интернет-поиск, уже действует — теперь для признания экстремистским любого «объединения» (не обязательно иерархичной структуры) достаточно признания экстремистом любого одного участника такого объединения.
 
@@ -25,4 +25,4 @@ tags: ""
 
 > **есть продолжение**
 >
-> ### [Кремль призвал раскрыть россиянам смысл штрафов за поиск экстремистских материалов в сети. В Госдуме уточнили: штрафовать будут тех, кто «уже на карандаше»](https://novayagazeta.ru/articles/2025/07/18/kreml-prizval-raskryt-rossiianam-smysl-shtrafov-za-poisk-ekstremistskikh-materialov-v-seti-v-gosdume-utochnili-shtrafovat-budut-tekh-kto-uzhe-na-karandashe-news)
+> ### [Кремль призвал раскрыть россиянам смысл штрафов за поиск экстремистских материалов в сети. В Госдуме уточнили: штрафовать будут тех, кто «уже на карандаше»](2025/07/18/kreml-prizval-raskryt-rossiianam-smysl-shtrafov-za-poisk-ekstremistskikh-materialov-v-seti-v-gosdume-utochnili-shtrafova.md)

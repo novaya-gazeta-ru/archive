@@ -23,4 +23,4 @@ tags: ""
 
 Популярный военачальник был арестован 17 мая 2024 года, ему вменили мошенничество в особо крупном размере, а затем добавили еще и обвинения в служебном подлоге. Обвинение считает, что Попов с подельником Моисеевым похитил более 100 млн рублей от продажи металлоконструкций, которые были поставлены для строительства оборонительных сооружений в Запорожской области.
 
-Попов публично [критиковал действия военного командования](https://novayagazeta.ru/articles/2024/05/21/eks-komanduiushchego-58-i-armiei-general-maiora-ivana-popova-kotoryi-v-2023-m-godu-vstupil-v-konflikt-s-rukovodstvom-genshtaba-arestovali-po-delu-o-moshennichestve-news) на украинском направлении в 2023 году, а военкоры распространяли и поддерживали его заявления.
+Попов публично [критиковал действия военного командования](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/05/21/eks-komanduiushchego-58-i-armiei-general-maiora-ivana-popova-kotoryi-v-2023-m-godu-vstupil-v-konflikt-s-rukovodstvom-genshtaba-arestovali-po-delu-o-moshennichestve-news) на украинском направлении в 2023 году, а военкоры распространяли и поддерживали его заявления.

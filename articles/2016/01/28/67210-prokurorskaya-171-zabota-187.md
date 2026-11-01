@@ -27,9 +27,9 @@ tags: "крымские татары, преследования"
 
 В зале повисло секундное молчание. Неоднозначность ситуации усугублялась еще и тем, что на предыдущем заседании Эскандер Кантемиров и его адвокат как раз-таки просили суд отложить слушания, но получили отказ. При этом судья и прокурор даже убеждали подсудимого, что сдать анализы он успеет. Зиньков в итоге согласился перенести начало заседания лишь на три часа — с 10:00 на 13:00.
 
-**link:** https://novayagazeta.ru/politics/71585.html
+**link:** [https://novayagazeta.ru/politics/71585.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/71585.html)
 
-**link:** https://novayagazeta.ru/politics/71585.html
+**link:** [https://novayagazeta.ru/politics/71585.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/71585.html)
 
 — Рассматриваем ходатайство, — объявил судья. — Подсудимый Кантемиров, ваше мнение?
 

@@ -13,10 +13,10 @@ tags: ""
 
 **Читайте в материалах «Новой газеты»:**
 
-**link:** https://novayagazeta.ru/society/66745.html
+**link:** [https://novayagazeta.ru/society/66745.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/66745.html)
 
-**link:** https://novayagazeta.ru/society/66745.html
+**link:** [https://novayagazeta.ru/society/66745.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/66745.html)
 
-**link:** https://novayagazeta.ru/columns/66744.html
+**link:** [https://novayagazeta.ru/columns/66744.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/66744.html)
 
-**link:** https://novayagazeta.ru/columns/66744.html
+**link:** [https://novayagazeta.ru/columns/66744.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/66744.html)

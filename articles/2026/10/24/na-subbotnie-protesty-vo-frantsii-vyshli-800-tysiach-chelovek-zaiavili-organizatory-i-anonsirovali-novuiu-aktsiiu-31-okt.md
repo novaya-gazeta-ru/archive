@@ -31,4 +31,4 @@ tags: "франция, протесты"
 
 **Власти РФ считают «иноагентом»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/10/23/parizh-gromiat-magaziny-razgrableny-politsiia-ne-spravliaetsia
+**Читайте также:** [Париж громят: магазины разграблены, полиция не справляется](2026/10/23/parizh-gromiat-magaziny-razgrableny-politsiia-ne-spravliaetsia.md)

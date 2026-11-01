@@ -13,10 +13,10 @@ tags: "нефть, беларусь, польша, ремонт, sf"
 
 Белорусский оператор нефтепровода «Дружба» восстановил режим плановой перекачки нефти на участке «Гомель — Мозырь — Адамово». Об этом [сообщается](https://www.transoil.by/novosti/oao-gomeltransneft-druzhba-vosstanovilo-rezhim-planovoy-perekachki-/) на сайте предприятия.
 
-Накануне «Гомельтранснефть» [сообщил](https://novayagazeta.ru/articles/2021/11/17/belarus-ogranichila-prokachku-nefti-po-druzhbe-v-napravlenii-polshi-obiasniv-eto-vneplanovym-remontom-news), что на трое суток ограничил прокачку нефти в направлении Польши из-за «внепланового ремонта» на одной из веток магистрального нефтепровода.
+Накануне «Гомельтранснефть» [сообщил](2021/11/17/belarus-ogranichila-prokachku-nefti-po-druzhbe-v-napravlenii-polshi-obiasniv-eto-vneplanovym-remontom-news.md), что на трое суток ограничил прокачку нефти в направлении Польши из-за «внепланового ремонта» на одной из веток магистрального нефтепровода.
 
 Белорусский оператор [утверждал](https://www.belta.by/economics/view/gomeltransneft-druzhba-perekachka-nefti-ogranichena-neznachitelno-na-nojabrskie-plany-ne-povlijaet-470079-2021/), что перекачка нефти ограничена незначительно, и это не повлияет на выполнение планов по объемам поставок в ноябре. «Мощности белорусского оператора нефтепровода «Дружба» позволят наверстать необходимые объемы в течение трех дней», — заявили в «Гомельтраснефть» БелТА.
 
 «Дружба» начинается в Самарской области, проходит через Брянск и разветвляется на два участка: северный и южный, проходит через Беларусь, Украину, Польшу, Чехию, Словакию, Германию, Венгрию, Латвию, Литву.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/15/lukashenko-ugrozhaet-gazpromu
+**Читайте также:** [Лукашенко угрожает «Газпрому»](2021/11/15/lukashenko-ugrozhaet-gazpromu.md)

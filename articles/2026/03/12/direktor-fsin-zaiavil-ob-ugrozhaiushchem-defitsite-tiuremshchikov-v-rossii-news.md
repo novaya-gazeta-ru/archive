@@ -27,4 +27,4 @@ tags: ""
 
 На кадровый голод жалуется и полиция. Замглавы МВД Игорь Зубов признавал (https://t.me/novaya_pishet/55830), что проблема в низких зарплатах и падении престижности службы.
 
-Но свой вариант решения кадрового вопроса в полиции [предложил](https://novayagazeta.ru/articles/2026/03/04/s-ikh-psikhologicheskoi-zakalkoi-putin-predlozhil-zakryvat-defitsit-kadrov-v-politsii-za-schet-uchastnikov-voennykh-deistvii-v-ukraine-news) президент Путин — пополнять личный состав участниками военных действий в Украине, с учетом их боевого опыта и «психологической закалки».
+Но свой вариант решения кадрового вопроса в полиции [предложил](2026/03/04/s-ikh-psikhologicheskoi-zakalkoi-putin-predlozhil-zakryvat-defitsit-kadrov-v-politsii-za-schet-uchastnikov-voennykh-deis.md) президент Путин — пополнять личный состав участниками военных действий в Украине, с учетом их боевого опыта и «психологической закалки».

@@ -127,4 +127,4 @@ tags: "берлинале, берлинский фестиваль"
 >
 > Лариса Малюкова ведет телеграм-канал о кино и не только. [Подписывайтесь тут](https://t.me/larisamalukova).
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/02/10/fronda-kino
+**Читайте также:** [https://novayagazeta.ru/articles/2024/02/10/fronda-kino](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/02/10/fronda-kino)

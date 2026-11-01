@@ -63,7 +63,7 @@ tags: "регионы, продукты, цены"
 
 **Ирина Тумакова,** «Новая»
 
-**link:** https://novayagazeta.ru/articles/2019/01/13/79171-yaytsom-k-litsu
+**link:** [Россияне и не такое снесут](2019/01/13/79171-yaytsom-k-litsu.md)
 
 Мурманск
 
@@ -149,7 +149,7 @@ tags: "регионы, продукты, цены"
 
 **Надежда Андреева,** «Новая»
 
-**link:** https://novayagazeta.ru/articles/2019/01/12/79166-tseny-razgonyayutsya-po-koridoru
+**link:** [Цены разгоняются по коридору](2019/01/12/79166-tseny-razgonyayutsya-po-koridoru.md)
 
 Красноярск
 

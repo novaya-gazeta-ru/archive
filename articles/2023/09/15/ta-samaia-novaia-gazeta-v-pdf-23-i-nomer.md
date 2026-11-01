@@ -13,4 +13,4 @@ tags: ""
 
 *Во время мятежа и при крушении джета Пригожина дважды погибали летчики — «сопутствующие потери»? Вагнеровцев-преступников после СВО не могут наказать, Китай съел российский авторынок*
 
-https://novayagazeta.ru/issues/3268
+[https://novayagazeta.ru/issues/3268](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3268)

@@ -55,8 +55,8 @@ tags: "эпидемия, россия, COVID-19, пандемия, корона�
 
 > **продолжение**
 >
-> ### 🩺 [Истории врачей, погибших от COVID-19](https://novayagazeta.ru/articles/2020/09/23/87205-istorii-vrachey-pogibshih-ot-covid-19-spetsvypusk-priemnyy-pokoy-online)
+> ### 🩺 [Истории врачей, погибших от COVID-19](2020/09/23/87205-istorii-vrachey-pogibshih-ot-covid-19-spetsvypusk-priemnyy-pokoy-online.md)
 >
-> ### 🚑 [Бунт в ожидании второй волны.](https://novayagazeta.ru/articles/2020/09/23/87201-bunt-v-ozhidanii-vtoroy-volny)
+> ### 🚑 [Бунт в ожидании второй волны.](2020/09/23/87201-bunt-v-ozhidanii-vtoroy-volny.md)
 >
 > ### 👨‍⚕️ Неизлечимые. От редакции:

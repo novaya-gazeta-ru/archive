@@ -25,7 +25,7 @@ tags: ""
 
 Вскоре после этого обмена мирными гражданами агентства передали следующую новость: состоялся масштабный обмен пленными военнослужащими. По 270 пленных каждая из сторон передала другой, [сообщил](https://tass.ru/armiya-i-opk/28246383) ТАСС со ссылкой на Лантратову. Информацию вскоре [подтвердило](https://t.me/zvezdanews/183054) и Минобороны РФ.
 
-Ранее Владимир Путин [подтвердил](https://novayagazeta.ru/articles/2026/10/23/putin-govorit-o-kakikh-to-territorialnykh-poteriakh-ukrainy-neumestno-kontakty-s-ukrainoi-i-ssha-vozobnovliaiutsia-moskva-gotova-obsuzhdat-arkhitekturu-vsei-evropeiskoi-bezopasnosti-news) готовность возобновить трехсторонний формат переговоров: Россия — Украина — США на низком уровне для выработки окончательного решения послевоенного долгосрочного мира.
+Ранее Владимир Путин [подтвердил](2026/10/23/putin-govorit-o-kakikh-to-territorialnykh-poteriakh-ukrainy-neumestno-kontakty-s-ukrainoi-i-ssha-vozobnovliaiutsia-moskv.md) готовность возобновить трехсторонний формат переговоров: Россия — Украина — США на низком уровне для выработки окончательного решения послевоенного долгосрочного мира.
 
 Пресс-секретарь Дмитрий Песков [добавил](https://tass.ru/politika/28245907):
 

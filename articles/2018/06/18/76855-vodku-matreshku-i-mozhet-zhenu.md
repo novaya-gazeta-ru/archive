@@ -15,4 +15,4 @@ tags: "еда, безопасность, опрос, москва, футбол,
 
 Первые впечатления иностранных болельщиков от Москвы: что их удивило, что понравилось, что увезут с собой?
 
-**link:** https://novayagazeta.ru/articles/2018/06/18/76854-reyting-opasnostey-kotorye-podsteregayut-futbolistov
+**link:** [https://novayagazeta.ru/articles/2018/06/18/76854-reyting-opasnostey-kotorye-podsteregayut-futbolistov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2018/06/18/76854-reyting-opasnostey-kotorye-podsteregayut-futbolistov)

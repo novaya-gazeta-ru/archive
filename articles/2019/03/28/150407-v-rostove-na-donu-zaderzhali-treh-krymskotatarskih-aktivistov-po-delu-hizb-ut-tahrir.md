@@ -21,8 +21,8 @@ tags: "задержания, хизб ут-тахрир, em"
 
 Местонахождение еще одного активиста Эдема Яячикова неизвестно.
 
-Накануне в Симферополе суд [арестовал](https://www.novayagazeta.ru/news/2019/03/27/150385-v-simferopole-arestovali-devyat-krymskotatarskih-aktivistov-po-delu-hizb-ut-tahrir) девять крымскотатарских активистов по подозрению в связях с «Хизб ут-Тахрир» (ч. 2 ст. 205.5 УК).  До этого сотрудники МВД, Росгвардии и ФСБ [проводили](https://www.novayagazeta.ru/news/2019/03/27/150357-fsb-prishla-s-obyskami-k-podozrevaemym-v-svyazyah-s-hizb-ut-tahrir-v-krymu) обыски в рамках возбужденных уголовных дел, после них были [задержаны](https://www.novayagazeta.ru/news/2019/03/27/150369-v-krymu-posle-obyskov-zaderzhali-16-aktivistov-krymskoy-solidarnosti) 20 человек.
+Накануне в Симферополе суд [арестовал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/03/27/150385-v-simferopole-arestovali-devyat-krymskotatarskih-aktivistov-po-delu-hizb-ut-tahrir) девять крымскотатарских активистов по подозрению в связях с «Хизб ут-Тахрир» (ч. 2 ст. 205.5 УК).  До этого сотрудники МВД, Росгвардии и ФСБ [проводили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/03/27/150357-fsb-prishla-s-obyskami-k-podozrevaemym-v-svyazyah-s-hizb-ut-tahrir-v-krymu) обыски в рамках возбужденных уголовных дел, после них были [задержаны](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/03/27/150369-v-krymu-posle-obyskov-zaderzhali-16-aktivistov-krymskoy-solidarnosti) 20 человек.
 
 С 2014 года в Крыму по обвинению в участии в панисламистской партии «Хизб ут-Тахрир», сторонники которой призывают к созданию Халифата в исламском мире, было задержано несколько десятков человек. Большинство из них правозащитная организация «Мемориал» признает политзаключенными.
 
-**link:** https://novayagazeta.ru/articles/2018/05/21/76552-u-vas-ekstremizma-ne-naydetsya
+**link:** [У вас экстремизма не найдется?](2018/05/21/76552-u-vas-ekstremizma-ne-naydetsya.md)

@@ -19,7 +19,7 @@ tags: "права человека, полиция, казаки, нод, изб
 
 В Москве на акции «Он нам не царь» задержали несколько сотен человек. Свидетелями задержаний стали и фотокоры «Новой газеты». Как прошло 5 мая 2018 года — в нашей фотоподборке.
 
-**link:** https://novayagazeta.ru/articles/2018/05/05/76375-storonniki-navalnogo-provodyat-aktsiyu-on-nam-ne-tsar-nakanune-inauguratsii-prezidenta-onlayn
+**link:** [«Он нам не царь»: онлайн](2018/05/05/76375-storonniki-navalnogo-provodyat-aktsiyu-on-nam-ne-tsar-nakanune-inauguratsii-prezidenta-onlayn.md)
 
 ![](_assets/b5/b56e725abfe00d1836e4cd9e7ccb7bf2.webp)
 

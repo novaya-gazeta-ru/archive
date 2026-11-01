@@ -65,6 +65,6 @@ tags: "павловский, глеб павловский, политтехно
 >
 > ### Глеб ПАВЛОВСКИЙ:
 >
-> ### [«Больше всего Путин, по-моему, опасается стать лишним»](https://novayagazeta.ru/articles/2012/10/23/52028-gleb-pavlovskiy-171-bolshe-vsego-putin-po-moemu-opasaetsya-stat-lishnim-187)
+> ### [«Больше всего Путин, по-моему, опасается стать лишним»](2012/10/23/52028-gleb-pavlovskiy-171-bolshe-vsego-putin-po-moemu-opasaetsya-stat-lishnim-187.md)
 >
 > ### \

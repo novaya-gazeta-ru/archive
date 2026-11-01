@@ -25,6 +25,6 @@ tags: "норвегия, нападение, sf"
 
 Северуд отметил, что полиция не исключает версию теракта.
 
-В результате атаки в норвежском Конгсберге [погибли](https://novayagazeta.ru/articles/2021/10/14/piat-chelovek-pogibli-i-dvoe-poluchili-raneniia-v-rezultate-ataki-cheloveka-s-lukom-v-norvezhskom-kongsberge-news) пять человек, двое получили ранения. Среди пострадавших — полицейский, который в свободное время находился в магазине. Сейчас он находится в больнице вместе с другим раненым.
+В результате атаки в норвежском Конгсберге [погибли](2021/10/14/piat-chelovek-pogibli-i-dvoe-poluchili-raneniia-v-rezultate-ataki-cheloveka-s-lukom-v-norvezhskom-kongsberge-news.md) пять человек, двое получили ранения. Среди пострадавших — полицейский, который в свободное время находился в магазине. Сейчас он находится в больнице вместе с другим раненым.
 
-Нападение [произошло](https://novayagazeta.ru/articles/2021/10/13/v-norvezhskom-kongsberge-v-rezultate-napadeniia-muzhchiny-s-lukom-i-strelami-pogibli-neskolko-chelovek-news) 13 октября. Сообщения о подозрительном мужчине полиция получила в 18:13 по местному времени (19:13 мск). На месте работала полиция и бригады скорой помощи, большая территория в городе была оцеплена.
+Нападение [произошло](2021/10/13/v-norvezhskom-kongsberge-v-rezultate-napadeniia-muzhchiny-s-lukom-i-strelami-pogibli-neskolko-chelovek-news.md) 13 октября. Сообщения о подозрительном мужчине полиция получила в 18:13 по местному времени (19:13 мск). На месте работала полиция и бригады скорой помощи, большая территория в городе была оцеплена.

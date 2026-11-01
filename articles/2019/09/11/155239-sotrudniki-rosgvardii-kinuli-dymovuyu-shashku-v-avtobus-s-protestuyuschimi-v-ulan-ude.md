@@ -13,7 +13,7 @@ tags: "выборы, акции протеста, улан-удэ, ek"
 
 > **Есть продолжение**
 >
-> [Задержанные уточнили, что в автобусе применяли газовый баллончик. МВД обвинила протестующих в том, что те сами его использовали.](https://www.novayagazeta.ru/news/2019/09/12/155244-mvd-v-ulan-ude-politsiya-ne-primenyala-dymovye-shashki-dlya-razgona-mitinga-protestuyuschie-sami-primenili-slezotochivyy-gaz)
+> [Задержанные уточнили, что в автобусе применяли газовый баллончик. МВД обвинила протестующих в том, что те сами его использовали.](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/09/12/155244-mvd-v-ulan-ude-politsiya-ne-primenyala-dymovye-shashki-dlya-razgona-mitinga-protestuyuschie-sami-primenili-slezotochivyy-gaz)
 
 Примерно в два часа ночи по местному времени в Улан-Удэ сотрудники Росгвардии приехали на площадь Советов, где третью ночь в автобусе ночуют протестующие, и кинули в него дымовую шашку.
 
@@ -25,12 +25,12 @@ tags: "выборы, акции протеста, улан-удэ, ek"
 >
 > **22:40** Среди задержанных **&nbsp;** —&nbsp;Баир Цыренов.&nbsp;Сотрудники полиции спрашивают друг у друга, не приехал ли сенатор Вячеслав Мархаев, сообщает наш корреспондент.
 
-Стихийный митинг в Улан-Удэ [начался](https://www.novayagazeta.ru/news/2019/09/09/155165-v-ulan-ude-proshel-stihiynyy-miting-s-trebovaniem-otmenit-rezultaty-vyborov-mera-i-osvobodit-zaderzhannyh-storonnikov-yakutskogo-shamana) 9 сентября. Около 200 человек вышли на городскую площадь с требованием освободить двух задержанных сторонников якутского шамана Александра Габышева, который идет из Якутска в Москву, чтобы провести «обряд изгнания» президента России Владимира Путина.
+Стихийный митинг в Улан-Удэ [начался](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/09/09/155165-v-ulan-ude-proshel-stihiynyy-miting-s-trebovaniem-otmenit-rezultaty-vyborov-mera-i-osvobodit-zaderzhannyh-storonnikov-yakutskogo-shamana) 9 сентября. Около 200 человек вышли на городскую площадь с требованием освободить двух задержанных сторонников якутского шамана Александра Габышева, который идет из Якутска в Москву, чтобы провести «обряд изгнания» президента России Владимира Путина.
 
-**link:** https://novayagazeta.ru/news/2019/09/11/155223-rosgvardiya-ne-pustila-zhurnalistov-i-slushateley-na-sud-k-blogeru-iz-ulan-ude-obvinyaemomu-v-organizatsii-mitinga
+**link:** [https://novayagazeta.ru/news/2019/09/11/155223-rosgvardiya-ne-pustila-zhurnalistov-i-slushateley-na-sud-k-blogeru-iz-ulan-ude-obvinyaemomu-v-organizatsii-mitinga](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/09/11/155223-rosgvardiya-ne-pustila-zhurnalistov-i-slushateley-na-sud-k-blogeru-iz-ulan-ude-obvinyaemomu-v-organizatsii-mitinga)
 
 Позже протестующие потребовали устроить перевыборы мэра, на которы победил Игорь Шутенков (52,5%), выдвигавшийся при поддержке «Единой России». Действующий иркутский сенатор Вячеслав Мархаев от КПРФ набрал 36,6%.
 
-После объявления результатов несколько сотен его сторонников [вышли](https://www.novayagazeta.ru/news/2019/09/09/155165-v-ulan-ude-proshel-stihiynyy-miting-s-trebovaniem-otmenit-rezultaty-vyborov-mera-i-osvobodit-zaderzhannyh-storonnikov-yakutskogo-shamana) на центральную площадь, требуя повторного голосования. Во время разгона акции силовики разбили стекла в машине, в которой вместе с активистами сидел блогер Дмитрий Баиров и депутат Народного Хурала Бурятии Баир Цыренов.
+После объявления результатов несколько сотен его сторонников [вышли](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/09/09/155165-v-ulan-ude-proshel-stihiynyy-miting-s-trebovaniem-otmenit-rezultaty-vyborov-mera-i-osvobodit-zaderzhannyh-storonnikov-yakutskogo-shamana) на центральную площадь, требуя повторного голосования. Во время разгона акции силовики разбили стекла в машине, в которой вместе с активистами сидел блогер Дмитрий Баиров и депутат Народного Хурала Бурятии Баир Цыренов.
 
-Протестующих вытащили наружу, избили и задержали. Цыренова суд [оштрафовал](https://www.novayagazeta.ru/news/2019/09/11/155216-buryatskogo-deputata-oshtrafovali-na-15-tysyach-rubley-za-uchastie-v-stihiynoy-aktsii-protesta-v-ulan-ude) на 15 тысяч рублей за участие в несогласованном массовом мероприятии (ч. 5 ст. 20.2 КоАП). Баирова позднее [арестовали](https://www.novayagazeta.ru/news/2019/09/11/155223-rosgvardiya-ne-pustila-zhurnalistov-i-slushateley-na-sud-k-blogeru-iz-ulan-ude-obvinyaemomu-v-organizatsii-mitinga) на пять суток за нарушение порядка проведения митинга.
+Протестующих вытащили наружу, избили и задержали. Цыренова суд [оштрафовал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/09/11/155216-buryatskogo-deputata-oshtrafovali-na-15-tysyach-rubley-za-uchastie-v-stihiynoy-aktsii-protesta-v-ulan-ude) на 15 тысяч рублей за участие в несогласованном массовом мероприятии (ч. 5 ст. 20.2 КоАП). Баирова позднее [арестовали](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/09/11/155223-rosgvardiya-ne-pustila-zhurnalistov-i-slushateley-na-sud-k-blogeru-iz-ulan-ude-obvinyaemomu-v-organizatsii-mitinga) на пять суток за нарушение порядка проведения митинга.

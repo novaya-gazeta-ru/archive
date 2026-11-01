@@ -27,6 +27,6 @@ tags: "дагестан, козел, красная книга, гибель, ж
 
 Сейчас, как рассказал егерь, хищники уже начали подходить к мертвым животным.
 
-В январе полиция [возбудила](https://novayagazeta.ru/articles/2022/01/11/v-altaiskom-krae-zastrelili-bolee-50-loshadei-mvd-vozbudilo-ugolovnoe-delo-o-porche-imushchestva-news) уголовное дело о порче имущества после того, как неизвестные застрелили табун из 53 лошадей в Петропавловском районе Алтайского края.
+В январе полиция [возбудила](2022/01/11/v-altaiskom-krae-zastrelili-bolee-50-loshadei-mvd-vozbudilo-ugolovnoe-delo-o-porche-imushchestva-news.md) уголовное дело о порче имущества после того, как неизвестные застрелили табун из 53 лошадей в Петропавловском районе Алтайского края.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/04/skotskoe-khoziaistvo-18
+**Читайте также:** [Скотское хозяйство (18+)](2022/02/04/skotskoe-khoziaistvo-18.md)

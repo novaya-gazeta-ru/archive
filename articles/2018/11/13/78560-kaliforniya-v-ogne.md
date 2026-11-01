@@ -41,7 +41,7 @@ tags: "калифорния, пожары"
 
 *Парадайс, штат Калифорния. Ноябрь, 2018. Фото: FR34727 AP/Associated Press/East News*
 
-**link:** https://novayagazeta.ru/articles/2018/09/18/77873-120-pampersov-i-vechnaya-slava
+**link:** [120 памперсов и вечная слава](2018/09/18/77873-120-pampersov-i-vechnaya-slava.md)
 
 ![](_assets/34/342ee89d0e030346d6f7d8a27218ec0a.webp)
 

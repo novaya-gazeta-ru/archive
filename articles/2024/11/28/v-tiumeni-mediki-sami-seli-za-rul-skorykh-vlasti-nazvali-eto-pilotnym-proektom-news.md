@@ -29,4 +29,4 @@ tags: ""
 
 А опрос августа 2024 года показал: 80% фельдшеров скорой и медсестер [не довольны](https://tass.ru/ekonomika/21552017) размером своих зарплат.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/26/mvd-obiavilo-o-defitsite-v-170-tysiach-politseiskikh-ili-pochti-20-lichnogo-sostava-news
+**Читайте также:** [МВД объявило о дефиците в 170 тысяч полицейских — или почти 20% личного состава](2024/11/26/mvd-obiavilo-o-defitsite-v-170-tysiach-politseiskikh-ili-pochti-20-lichnogo-sostava-news.md)

@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *За что на самом деле мстят Кара-Мурзе — тема нового выпуска цифровой версии «Новой». Напечатать ее мы не можем — нас лишили свидетельств о регистрации СМИ. А вы можете*
 
-https://novayagazeta.ru/issues/3247
+[https://novayagazeta.ru/issues/3247](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3247)

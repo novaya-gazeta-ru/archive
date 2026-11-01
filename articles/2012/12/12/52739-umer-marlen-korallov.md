@@ -35,20 +35,20 @@ tags: ""
 
 **Статьи Кораллова в «Новой» можно прочитать здесь:**
 
-http://www.novayagazeta.ru/society/1063.html
+[http://www.novayagazeta.ru/society/1063.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/1063.html)
 
-http://www.novayagazeta.ru/society/1077.html
+[http://www.novayagazeta.ru/society/1077.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/1077.html)
 
-http://www.novayagazeta.ru/society/44994.html
+[http://www.novayagazeta.ru/society/44994.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/44994.html)
 
-http://www.novayagazeta.ru/arts/7214.html
+[http://www.novayagazeta.ru/arts/7214.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/arts/7214.html)
 
-http://www.novayagazeta.ru/society/28714.html
+[http://www.novayagazeta.ru/society/28714.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/28714.html)
 
-http://www.novayagazeta.ru/society/1063.html
+[http://www.novayagazeta.ru/society/1063.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/1063.html)
 
-http://www.novayagazeta.ru/society/38154.html
+[http://www.novayagazeta.ru/society/38154.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/38154.html)
 
-http://www.novayagazeta.ru/society/9703.html
+[http://www.novayagazeta.ru/society/9703.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/9703.html)
 
-http://www.novayagazeta.ru/society/34352.html
+[http://www.novayagazeta.ru/society/34352.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/34352.html)

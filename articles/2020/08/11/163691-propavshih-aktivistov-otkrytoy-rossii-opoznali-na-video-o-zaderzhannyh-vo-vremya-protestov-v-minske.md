@@ -19,4 +19,4 @@ tags: "sn, задержания, минск, беларусь"
 
 Членам «Открытой России» уже удалось подать жалобу в посольство Беларуси в Москве, они также планируют обращаться в международные правозащитные организации. Рогов и Важенков поехали в республику наблюдать за выборами. Вчера, около восьми часов вечера они перестали выходить на связь.
 
-**link:** https://novayagazeta.ru/articles/2020/08/11/86611-protesty-v-belarusi-den-tretiy-online
+**link:** [https://novayagazeta.ru/articles/2020/08/11/86611-protesty-v-belarusi-den-tretiy-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/11/86611-protesty-v-belarusi-den-tretiy-online)

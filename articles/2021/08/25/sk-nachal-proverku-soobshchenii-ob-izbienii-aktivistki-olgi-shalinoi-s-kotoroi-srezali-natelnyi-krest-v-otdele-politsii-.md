@@ -19,8 +19,8 @@ tags: "ng, следственный комитет, избиение"
 
 По словам Шалиной, ее вытащили в коридор, где нет камер, заломили ей руки и срезали веревку нательного креста ножницами. В результате действий полицейских девушке были нанесены телесные повреждения на руках и туловище, зафиксированные на следующий день сотрудниками спецприемника, отметили в «Комитете против пыток».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/31/v-moskve-permi-i-barnaule-zaderzhali-bolee-10-natsbolov-vo-vremia-aktsii-za-svobodu-izbranii
+**Читайте также:** [В Москве, Перми и Барнауле задержали более 10 нацболов во время акции «за свободу избраний»](2021/07/31/v-moskve-permi-i-barnaule-zaderzhali-bolee-10-natsbolov-vo-vremia-aktsii-za-svobodu-izbranii.md)
 
-29 июля Зюзинский суд Москвы [назначил](https://novayagazeta.ru/articles/2021/07/29/ziuzinskii-sud-naznachil-15-sutok-aresta-rukovoditeliu-moskovskikh-natsbolov-olge-shalinoi) Шалиной 15 суток административного ареста. Ей [вменили](https://novayagazeta.ru/articles/2021/07/29/ziuzinskii-sud-naznachil-15-sutok-aresta-rukovoditeliu-moskovskikh-natsbolov-olge-shalinoi) неповиновение сотруднику полиции (ст. 19.3 КоАП). В конце июня Шалина уже отбывала административный арест по той же статье.
+29 июля Зюзинский суд Москвы [назначил](2021/07/29/ziuzinskii-sud-naznachil-15-sutok-aresta-rukovoditeliu-moskovskikh-natsbolov-olge-shalinoi.md) Шалиной 15 суток административного ареста. Ей [вменили](2021/07/29/ziuzinskii-sud-naznachil-15-sutok-aresta-rukovoditeliu-moskovskikh-natsbolov-olge-shalinoi.md) неповиновение сотруднику полиции (ст. 19.3 КоАП). В конце июня Шалина уже отбывала административный арест по той же статье.
 
 #### *Национал-большевистская партия запрещена в РФ и ликвидирована по решению суда. После запрета образована партия «Другая Россия»

@@ -15,8 +15,8 @@ tags: "бондаренко , кпрф, митинг, саратов, штраф
 
 Суд счел Бондаренко виновным в повторном нарушении правил проведения митинга (ст.20.2 ч.8 КоАП). «ОВД-Инфо»* [сообщал](https://t.me/ovdinfolive/3570), что депутата ранее оштрафовали на эту же сумму за акцию против фальсификаций на выборах, прошедшую в Саратове 9 октября.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/16/teper-vse-protiv-geny
+**Читайте также:** [Теперь все против Гены](2021/11/16/teper-vse-protiv-geny.md)
 
-Митинги против фальсификаций на выборах [состоялись](https://novayagazeta.ru/articles/2021/09/25/posle-aktsii-kprf-v-moskve-nekotorye-protestuiushchie-poshli-k-gosdume-i-kremliu-na-krasnoi-ploshchadi-zaderzhali-odnogo-aktivista-news) под эгидой КПРФ 20 и 25 сентября. Московского мундепа Сергея Цукасова [арестовали](https://novayagazeta.ru/articles/2021/09/27/moskovskogo-mundepa-sergeia-tsukasova-arestovali-na-10-sutok-i-oshtrafovali-na-20-tysiach-rublei-za-odnu-i-tu-zhe-aktsiiu-kprf-posle-vyborov-v-gosdumu-news) на 10 суток и оштрафовали на 20 тысяч рублей за участие в этих акциях, а депутату Мосгордумы Екатерине Енгалычевой [назначили](https://novayagazeta.ru/articles/2021/10/04/deputata-mosgordumy-engalychevu-oshtrafovali-na-150-tysiach-rublei-za-aktsiiu-kprf-posle-vyborov-v-gosdumu-news) штраф в размере 250 тысяч рублей.
+Митинги против фальсификаций на выборах [состоялись](2021/09/25/posle-aktsii-kprf-v-moskve-nekotorye-protestuiushchie-poshli-k-gosdume-i-kremliu-na-krasnoi-ploshchadi-zaderzhali-odnogo.md) под эгидой КПРФ 20 и 25 сентября. Московского мундепа Сергея Цукасова [арестовали](2021/09/27/moskovskogo-mundepa-sergeia-tsukasova-arestovali-na-10-sutok-i-oshtrafovali-na-20-tysiach-rublei-za-odnu-i-tu-zhe-aktsii.md) на 10 суток и оштрафовали на 20 тысяч рублей за участие в этих акциях, а депутату Мосгордумы Екатерине Енгалычевой [назначили](2021/10/04/deputata-mosgordumy-engalychevu-oshtrafovali-na-150-tysiach-rublei-za-aktsiiu-kprf-posle-vyborov-v-gosdumu-news.md) штраф в размере 250 тысяч рублей.
 
 #### **внесен Минюстом в реестр СМИ, выполняющих функцию «иностранного агента»*

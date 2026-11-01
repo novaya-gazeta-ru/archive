@@ -27,4 +27,4 @@ tags: ""
 
 Коллективный Шадрин может быть удовлетворен.
 
-**Читайте также:** https://novayagazeta.ru/articles/2019/06/25/81029-zelfira-tregulova-seychas-nikto-ne-planiruet-prostranstva-tak-schedro
+**Читайте также:** [Зельфира Трегулова: «Сейчас никто не планирует пространства так щедро»](2019/06/25/81029-zelfira-tregulova-seychas-nikto-ne-planiruet-prostranstva-tak-schedro.md)

@@ -19,7 +19,7 @@ tags: "иноагенты, холод, шендерович, sn"
 
 В списке под номером 111 в реестре значится гендиректор киноклуба «Нефть» в Ярославле Андрей Алексеев*. Как [отмечает](https://7x7-journal.ru/articles/2021/12/30/vmesto-itogov-geroi-i-antigeroi-yaroslavskoj-oblasti-v-2021-godu) издание 7х7, кинопредприниматель организовывал в городе лекции и арт-показы. В 2020 году ему пришлось свернуть несколько своих проектов из-за давления властей, пишет 7х7.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany
+**Читайте также:** [https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany)
 
 На сегодняшний день в реестре Минюста фигурирует уже более 110 имен и названий изданий. Зачастую ведомство обновляет список «иноагентов» в последний день рабочей недели, однако в этот раз ближайшая пятница выпадает на 31 декабря, этот день объявлен выходным.
 

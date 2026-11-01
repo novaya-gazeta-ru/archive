@@ -33,6 +33,6 @@ tags: ""
 
 В 2024 году Путин поручал правительству рассмотреть вопрос о создании отечественного «аналога PlayStation». Осенью глава Минпромторга Алиханов заявил, что прототипы российской игровой консоли «уже существуют», но государство пока не поддерживает их разработку.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/24/velikobritaniia-zapretila-postavki-v-rossiiu-kontrollerov-dlia-igrovykh-pristavok-ikh-ispolzuiut-dlia-upravleniia-dronami-na-fronte-news
+**Читайте также:** [Великобритания запретила поставки в Россию контроллеров для игровых приставок: их используют для управления дронами на фронте](2025/04/24/velikobritaniia-zapretila-postavki-v-rossiiu-kontrollerov-dlia-igrovykh-pristavok-ikh-ispolzuiut-dlia-upravleniia-dronam.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/12/vsled-za-prokatnymi-udostovereniiami-dlia-kompiuternykh-igr-vlasti-reshili-identifitsirovat-geimerov-a-steam-mogut-zablokirovat-news
+**Читайте также:** [Вслед за «прокатными удостоверениями» для компьютерных игр власти решили идентифицировать геймеров, а Steam могут заблокировать](2024/12/12/vsled-za-prokatnymi-udostovereniiami-dlia-kompiuternykh-igr-vlasti-reshili-identifitsirovat-geimerov-a-steam-mogut-zablo.md)

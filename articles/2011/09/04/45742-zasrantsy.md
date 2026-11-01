@@ -23,7 +23,7 @@ tags: "блог, боты, как это делается"
 		<tbody>
 			<tr>
 				<td>
-					<font size="3"><strong><img align="left" alt="" border="0" hspace="0" src="http://novayagazeta.ru/ai/article.1583388/pics.1.jpg" style="width: 80px; height: 80px;"></strong></font></td>
+					<font size="3"><strong><img align="left" alt="" border="0" hspace="0" src="[http://novayagazeta.ru/ai/article.1583388/pics.1.jpg](https://web.archive.org/web/*/http://novayagazeta.ru/ai/article.1583388/pics.1.jpg)" style="width: 80px; height: 80px;"></strong></font></td>
 			</tr>
 		</tbody>
 	</table>

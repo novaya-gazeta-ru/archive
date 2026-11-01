@@ -21,6 +21,6 @@ tags: "украина, минобороны, погибшие, sn"
 
 По последним предварительным данным Минобороны Украины, потери ВС России за время вооруженного конфликта ориентировочно составили 5840 человек.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/02/putin-nastupaet-na-ukrainu-den-sedmoi-onlain
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/02/putin-nastupaet-na-ukrainu-den-sedmoi-onlain](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/02/putin-nastupaet-na-ukrainu-den-sedmoi-onlain)
 
 В Министерстве обороны России отрицают данные украинской стороны о потерях военнослужащих, сбитых самолетах, разбомбленной бронетехнике и заявляют, что не обстреливают украинские города.

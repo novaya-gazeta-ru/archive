@@ -54,4 +54,4 @@ tags: "дело сафронова, госизмена, давление, пра
 >
 > **6.03.22**
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/09/nikhau-eto-telefon-shpiona
+**Читайте также:** [Нихау, это телефон шпиона?..](2022/02/09/nikhau-eto-telefon-shpiona.md)

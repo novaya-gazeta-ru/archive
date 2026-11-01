@@ -23,6 +23,6 @@ tags: "ng, агора, уголовное дело, прокуратура, су
 
 Согласно другому обвинению о «публичном оправдании терроризма» (ч. 1 ст. 205.2 УК), Полюдовой вменяют ее высказывания о действиях «лубянского стрелка» Евгения Манюрова, который 19 декабря 2019 года открыл стрельбу у зданий ФСБ на Лубянке.
 
-В октябре 2017 года краснодарская активистка Дарья Полюдова [вышла](https://www.novayagazeta.ru/news/2017/10/20/136293-organizator-marsha-za-federalizatsiyu-kubani-osvobodilas-iz-kolonii) на свободу после почти двух лет в колонии-поселении по делу о призывах к сепаратизму и экстремизму. Впоследствии она [переехала](https://novayagazeta.ru/news/2018/12/14/147646-sud-na-desyat-sutok-arestoval-aktivistku-polyudovu-za-odinochnyy-piket) в Москву и принимала участие в одиночных пикетах и митингах.
+В октябре 2017 года краснодарская активистка Дарья Полюдова [вышла](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/10/20/136293-organizator-marsha-za-federalizatsiyu-kubani-osvobodilas-iz-kolonii) на свободу после почти двух лет в колонии-поселении по делу о призывах к сепаратизму и экстремизму. Впоследствии она [переехала](https://web.archive.org/web/*/https://novayagazeta.ru/news/2018/12/14/147646-sud-na-desyat-sutok-arestoval-aktivistku-polyudovu-za-odinochnyy-piket) в Москву и принимала участие в одиночных пикетах и митингах.
 
 **link:** https://new.novayagazeta.ru/articles/2015/09/25/65756-svergnutye-protokolom

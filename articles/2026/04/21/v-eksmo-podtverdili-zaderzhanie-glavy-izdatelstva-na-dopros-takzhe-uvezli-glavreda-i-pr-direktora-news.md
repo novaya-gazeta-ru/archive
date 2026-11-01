@@ -25,4 +25,4 @@ tags: "эксмо, дело издателей"
 
 **«Движение ЛГБТ» признано в РФ экстремистской организацией, деятельность запрещена*
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/04/21/siloviki-prishli-s-obyskom-v-izdatelstvo-eksmo-smi-pishut-o-zaderzhanii-gendirektora-evgeniia-kapeva-news
+**Читайте также:** [Силовики пришли с обыском в издательство «Эксмо». СМИ пишут о задержании гендиректора Евгения Капьева&nbsp;](2026/04/21/siloviki-prishli-s-obyskom-v-izdatelstvo-eksmo-smi-pishut-o-zaderzhanii-gendirektora-evgeniia-kapeva-news.md)

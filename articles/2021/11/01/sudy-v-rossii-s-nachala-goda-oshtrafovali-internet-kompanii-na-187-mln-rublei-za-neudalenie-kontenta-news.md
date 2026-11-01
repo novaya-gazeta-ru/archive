@@ -17,8 +17,8 @@ tags: "роскомнадзор, тикток, фейсбук, google, facebook,
 
 За неудаление запрещенной информации компаниям грозит штраф от трех до восьми миллионов рублей (ч. 5 ст. могут 13.41 КоАП). За повторное нарушение установлен оборотный штраф (от 1/10 до 1/5 от годовой выручки).
 
-В сентябре Роскомнадзор [сообщал](https://novayagazeta.ru/articles/2021/10/18/roskomnadzor-s-nachala-goda-v-sotssetiakh-udaleno-bolee-400-tys-zapreshchennykh-materialov-30-iz-nikh-po-zhalobam-grazhdan-news), что за девять месяцев 2021 в соцсетях было удалено 166 тыс. запрещенных материалов в категориях «наркотики», «пропаганда самоубийства» и «детская порнография». Это на 42% больше аналогичного периода 2020 года.
+В сентябре Роскомнадзор [сообщал](2021/10/18/roskomnadzor-s-nachala-goda-v-sotssetiakh-udaleno-bolee-400-tys-zapreshchennykh-materialov-30-iz-nikh-po-zhalobam-grazhd.md), что за девять месяцев 2021 в соцсетях было удалено 166 тыс. запрещенных материалов в категориях «наркотики», «пропаганда самоубийства» и «детская порнография». Это на 42% больше аналогичного периода 2020 года.
 
-Ранее РКН впервые [потребовал](https://novayagazeta.ru/articles/2021/10/27/roskomnadzor-snova-potreboval-primenit-k-facebook-oborotnyi-shtraf-za-neudalenie-nezakonnogo-kontenta-news) применить к Google оборотный штраф за неудаление «незаконного» контента. Новый штраф может составить в размере от 5% до 10% годовой выручки, его точную сумму определит суд.
+Ранее РКН впервые [потребовал](2021/10/27/roskomnadzor-snova-potreboval-primenit-k-facebook-oborotnyi-shtraf-za-neudalenie-nezakonnogo-kontenta-news.md) применить к Google оборотный штраф за неудаление «незаконного» контента. Новый штраф может составить в размере от 5% до 10% годовой выручки, его точную сумму определит суд.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/28/postpravdnadzor
+**Читайте также:** [Постправднадзор](2021/09/28/postpravdnadzor.md)

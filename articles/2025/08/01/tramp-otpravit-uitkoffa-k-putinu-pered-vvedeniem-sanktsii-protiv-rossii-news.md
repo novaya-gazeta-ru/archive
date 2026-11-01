@@ -21,4 +21,4 @@ tags: ""
 
 Когда Уиткофф прилетит в Москву — пока неясно, в настоящее время он по своим прямым обязанностям спецпредставителя Трампа по Ближнему Востоку находится там с визитом — посещая Катар и Израиль, 1 августа он может посетить Сектор Газа, где продолжается острый гуманитарный кризис.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/25/spetsposlannik-trampa-stiv-uitkoff-v-chetvertyi-raz-priletel-v-moskvu-on-privez-putinu-finalnye-usloviia-sdelki-ssha-po-ukraine-news
+**Читайте также:** [Спецпосланник Трампа Стив Уиткофф в четвертый раз прилетел в Москву, он привез Путину «финальные» условия сделки США по Украине](2025/04/25/spetsposlannik-trampa-stiv-uitkoff-v-chetvertyi-raz-priletel-v-moskvu-on-privez-putinu-finalnye-usloviia-sdelki-ssha-po-.md)

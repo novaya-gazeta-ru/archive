@@ -49,6 +49,6 @@ tags: ""
 
 > В прокуратуре уточнили, что, как только приговор вступит в законную силу, чиновник лишится места главы ЗАТО.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/22/v-sizo-umer-zhalovavshiisia-na-neokazanie-medpomoshchi-uchastnik-svidetelei-iegovy-news
+**Читайте также:** [В СИЗО умер жаловавшийся на неоказание медпомощи участник «Свидетелей Иеговы»*](2025/03/22/v-sizo-umer-zhalovavshiisia-na-neokazanie-medpomoshchi-uchastnik-svidetelei-iegovy-news.md)
 
 *Приморье*

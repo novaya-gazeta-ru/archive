@@ -13,7 +13,7 @@ tags: "песков, чечня, преследования, угрозы, кр�
 
 *Сравниваем две реплики от 14 апреля 2017 года*
 
-**link:** https://novayagazeta.ru/articles/2017/04/13/72146-zayavlenie-novoy-gazety-v-svyazi-s-otkrytymi-ugrozami-prozvuchavshimi-v-adres-redaktsii
+**link:** [Заявление «Новой газеты» в связи с открытыми угрозами, прозвучавшими в адрес редакции](2017/04/13/72146-zayavlenie-novoy-gazety-v-svyazi-s-otkrytymi-ugrozami-prozvuchavshimi-v-adres-redaktsii.md)
 
 Заявление «Новой газеты» в связи с открытыми угрозами, прозвучавшими в адрес редакции
 

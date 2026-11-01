@@ -23,6 +23,6 @@ tags: ""
 
 Брать жилье под ипотеку 21% готовы все меньше россиян. При этом правительство продолжает придумывать способы стимулирования кредитования населения, но таргетирует его на узкоспециальные группы: молодых чиновников или многодетные семьи. Льготной ипотекой все еще могут воспользоваться желающие получить жилье на присоединенных территориях России, а также жители северных территорий РФ.
 
-Итоги четырехлетней дорогой госпрограммы по субсидированию ипотечных гредитов оказались [не совсем теми](https://novayagazeta.ru/articles/2024/06/28/prodaem-pravo-zhit-v-kredit-dorogo), которые предполагало правительство.
+Итоги четырехлетней дорогой госпрограммы по субсидированию ипотечных гредитов оказались [не совсем теми](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/06/28/prodaem-pravo-zhit-v-kredit-dorogo), которые предполагало правительство.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/26/schetnaia-palata-nashla-rossiianina-s-26-lgotnymi-ipotekami-i-eshche-15-tysiachi-chelovek-vziavshikh-kazhdyi-bolshe-piati-ipotek-s-gospodderzhkoi-news
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/26/schetnaia-palata-nashla-rossiianina-s-26-lgotnymi-ipotekami-i-eshche-15-tysiachi-chelovek-vziavshikh-kazhdyi-bolshe-piati-ipotek-s-gospodderzhkoi-news](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/26/schetnaia-palata-nashla-rossiianina-s-26-lgotnymi-ipotekami-i-eshche-15-tysiachi-chelovek-vziavshikh-kazhdyi-bolshe-piati-ipotek-s-gospodderzhkoi-news)

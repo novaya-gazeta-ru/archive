@@ -15,7 +15,7 @@ tags: "грозный, милашина, угрозы, чечня"
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><a href="http://www.grozny-inform.ru/news/express/60420/" target="_blank"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/06/09/1433866589_664603_54.png" style="width: 340px; height: 471px; float: right;"></a></td>
+			<td class="g-justify-right"><a href="http://www.grozny-inform.ru/news/express/60420/" target="_blank"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/06/09/1433866589_664603_54.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/06/09/1433866589_664603_54.png)" style="width: 340px; height: 471px; float: right;"></a></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Материал на сайте «Грозный-информ» — по <a href="http://www.grozny-inform.ru/news/express/60420/" target="_blank">ссылке</a></sup></td>
@@ -37,9 +37,9 @@ tags: "грозный, милашина, угрозы, чечня"
 
 Перу Вараева доверяют самые острые темы, имеющие политическое значение. В частности, кроме серии публикаций о расследовании Елены Милашиной он отметился публикациями «Лживый Ходорковский и презренные либералы в фильме «Семья», «Хватит кормить Навального», «Шарли» ли я? Нет, я не «Шарли».
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/columns/68429.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/06/09/1433867439_486509_49.png" style="width: 91px; height: 105px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/columns/68429.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/68429.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/06/09/1433867439_486509_49.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/06/09/1433867439_486509_49.png)" style="width: 91px; height: 105px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/columns/68429.html" target="_blank"><strong>Последний репортаж из села Байтарки. Наш корреспондент Елена Милашина видела невесту за два дня до свадьбы</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/columns/68429.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/68429.html)" target="_blank"><strong>Последний репортаж из села Байтарки. Наш корреспондент Елена Милашина видела невесту за два дня до свадьбы</strong></a></p>]*
 
 без купюр
 

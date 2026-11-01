@@ -27,4 +27,4 @@ tags: ""
 
 Нынешний премьер-министр Италии Джорджа Мелони заявила, что критика пресс-секретаря МИД Марии Захаровой в адрес президента Маттарелы «оскорбляет весь итальянский народ».
 
-Мелони вместе с другими лидерами стран ЕС [обсуждает](https://novayagazeta.ru/articles/2025/02/18/pogovoril-s-prezidentom-trampom-a-zatem-s-prezidentom-zelenskim-makron-prokommentiroval-vstrechu-evropeiskikh-liderov-v-parizhe-news) продолжение военной помощи Украине и необходимость участия Евросоюза за столом переговоров при выработке гарантий безопасности Украины и самой Европы.
+Мелони вместе с другими лидерами стран ЕС [обсуждает](2025/02/18/pogovoril-s-prezidentom-trampom-a-zatem-s-prezidentom-zelenskim-makron-prokommentiroval-vstrechu-evropeiskikh-liderov-v-.md) продолжение военной помощи Украине и необходимость участия Евросоюза за столом переговоров при выработке гарантий безопасности Украины и самой Европы.

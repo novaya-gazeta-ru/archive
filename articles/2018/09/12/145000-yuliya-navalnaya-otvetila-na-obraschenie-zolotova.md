@@ -21,10 +21,10 @@ tags: "nt, золотов, навальный"
 
 «Я их не боюсь. И всех призываю не бояться. Вот мой ответ. А Алексей ответит, когда выйдет», — добавила она.
 
-**link:** https://novayagazeta.ru/articles/2018/09/12/77803-slezaya-s-satisfkatsii
+**link:** [Слезая с сатисфакции](2018/09/12/77803-slezaya-s-satisfkatsii.md)
 
-11 сентября глава Росгвардии Виктор Золотов [записал](https://www.novayagazeta.ru/news/2018/09/11/144942-glava-rosgvardii-zapisal-videoobraschenie-k-navalnomu-posle-rassledovaniya-fbk) видеобращение к Алексею Навальному, в котором чиновник вызвал оппозиционера на дуэль, «пообещав сделать из него отбивную». Причиной стало расследование Фонда борьбы с коррупцией (ФБК) о возможных хищениях при закупке продуктов для сотрудников Росгвардии. В Кремле [сообщили](https://www.novayagazeta.ru/news/2018/09/11/144948-luchshe-takuyu-klevetu-presekat-na-kornyu-peskov-prokommentiroval-obeschanie-zolotova-sdelat-iz-navalnogo-otbivnuyu), что Золотов не согласовывал «вызов на дуэль», и добавили: «Иногда с бессовестной клеветой можно бороться любыми способами».
+11 сентября глава Росгвардии Виктор Золотов [записал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/09/11/144942-glava-rosgvardii-zapisal-videoobraschenie-k-navalnomu-posle-rassledovaniya-fbk) видеобращение к Алексею Навальному, в котором чиновник вызвал оппозиционера на дуэль, «пообещав сделать из него отбивную». Причиной стало расследование Фонда борьбы с коррупцией (ФБК) о возможных хищениях при закупке продуктов для сотрудников Росгвардии. В Кремле [сообщили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/09/11/144948-luchshe-takuyu-klevetu-presekat-na-kornyu-peskov-prokommentiroval-obeschanie-zolotova-sdelat-iz-navalnogo-otbivnuyu), что Золотов не согласовывал «вызов на дуэль», и добавили: «Иногда с бессовестной клеветой можно бороться любыми способами».
 
 27 августа Тверской суд Москвы назначил Навальному 30 суток административного ареста за нарушения на акции протеста 28 января.
 
-**link:** https://novayagazeta.ru/articles/2018/09/12/77800-zolotov-navalnyy
+**link:** [Место для дуэли](2018/09/12/77800-zolotov-navalnyy.md)

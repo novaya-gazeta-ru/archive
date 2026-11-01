@@ -25,4 +25,4 @@ tags: "петербург, коронавирус, ограничения, qr-к
 
 За последние сутки в Петербурге [выявили](https://www.gov.spb.ru/covid-19/) 1 538 случаев заражения COVID-19, умерли 65 человек.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/12/babushek-pridavili-qr-kodami
+**Читайте также:** [Бабушек придавили QR-кодами](2021/11/12/babushek-pridavili-qr-kodami.md)

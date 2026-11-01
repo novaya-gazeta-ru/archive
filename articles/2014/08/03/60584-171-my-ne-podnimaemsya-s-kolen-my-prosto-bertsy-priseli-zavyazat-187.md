@@ -13,9 +13,9 @@ tags: ""
 
 *На площади за спорткомплексом «Олимпийский»  между Уголком зверей дедушки Дурова и строящейся мечетью  в субботу собрались около 4 тысяч сторонников независимости Восточной Украины.*
 
-[](http://www.novayagazeta.ru/photos/64678.html)
+[](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/64678.html)
 
-[Фоторепортаж Евгения Фельдмана](http://www.novayagazeta.ru/photos/64678.html)
+[Фоторепортаж Евгения Фельдмана](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/64678.html)
 
 Проход на «Битву за русский Донбасс» предполагал определенный дресс-код: твоя футболка должна говорить за тебя. «Няш-мяш, Крым наш», «Новороссия: воля и труд», «Вежливые люди: вежливые, добрые, свои», «Битва за Луганск», переоформленные афиши фильмов с портретом Стрелкова — «300 стрелковцев» и «Неудержимые» — или обычные белые, с которых он глядит с молчаливым укором. Пришедшие в «гражданском», могли переодеться тут же: правда, отстояв очередь в два десятка человек. В разбитом шатре орудовала девушка лет 20 в легком белом платье: «Все по тысяче, деньги кладем в коробку. Не нравится за Луганск? Да, есть «Битва за Новороссию», можете флаг отдельно купить. Икс-элька, на вас налезет».
 
@@ -37,7 +37,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/08/03/1407015679_153566_8.jpg" style="width: 330px; height: 330px;"><sup>Фото автора</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/08/03/1407015679_153566_8.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/08/03/1407015679_153566_8.jpg)" style="width: 330px; height: 330px;"><sup>Фото автора</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -57,7 +57,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/08/03/1407015699_083267_32.jpg" style="width: 340px; height: 340px;"><sup>Фото автора</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/08/03/1407015699_083267_32.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/08/03/1407015699_083267_32.jpg)" style="width: 340px; height: 340px;"><sup>Фото автора</sup></td>
 		</tr>
 	</tbody>]*
 

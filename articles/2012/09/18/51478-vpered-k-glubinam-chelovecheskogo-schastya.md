@@ -207,7 +207,7 @@ _28 апреля среди руководителей строительств�
 		<tr>
 			<td>
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/17/1347906104_148105_71.jpg" style="width: 360px; height: 324px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/17/1347906104_148105_71.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/17/1347906104_148105_71.jpg)" style="width: 360px; height: 324px; "></p>
 				<p class="g-justify-right">
 					<sup>Юрий Градов</sup></p>
 			</td>

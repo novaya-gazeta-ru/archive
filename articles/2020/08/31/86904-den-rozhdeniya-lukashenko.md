@@ -37,4 +37,4 @@ tags: "протесты, день рождения, фотогалерея, лу
 
 *Дмитрий, минчанин, с 9 августа начал коллекционировать плакаты, с которыми выходят демонстранты: «Да, я собираю плакаты. Мы с друзьями первые три дня ездили и собирали все плакаты, которые люди оставляли. Коммунальщики хотели их сжечь, а мы забрали. Устроим когда-нибудь музей». Фото: Ирина Тумакова / «Новая»*
 
-**link:** https://novayagazeta.ru/articles/2020/08/30/86885-protesty-v-belarusi-den-22-chto-proishodit-online
+**link:** [https://novayagazeta.ru/articles/2020/08/30/86885-protesty-v-belarusi-den-22-chto-proishodit-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/30/86885-protesty-v-belarusi-den-22-chto-proishodit-online)

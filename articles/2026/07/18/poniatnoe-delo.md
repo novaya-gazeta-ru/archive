@@ -18,4 +18,4 @@ tags: ""
 И понятное дело, я очень надеюсь,\
 Что никто не обрежет судьбы провода.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/11/akh-esli-by-roditsia-mne-akuloiu
+**Читайте также:** [Ах, если бы родиться мне акулою](2026/07/11/akh-esli-by-roditsia-mne-akuloiu.md)

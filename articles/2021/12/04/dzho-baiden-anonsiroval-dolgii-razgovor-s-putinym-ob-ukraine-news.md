@@ -21,6 +21,6 @@ tags: "байден, путин, украина, sn"
 
 Точная дата переговоров российского и американского лидеров пока неизвестна. Пресс-секретарь Путина Дмитрий Песков сообщал, что они могут состояться в формате видеоконференции уже на следующей неделе — 7 декабря.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/02/rossiiu-predupredili-ne-trogai-ukrainu
+**Читайте также:** [Россию предупредили: не трогай Украину!](2021/12/02/rossiiu-predupredili-ne-trogai-ukrainu.md)
 
 Ранее сегодня агентство Associated Press со ссылкой на источники сообщило, что американская разведка [ожидает](https://apnews.com/article/joe-biden-europe-russia-ukraine-vladimir-putin-9ef2a191af25e2920a0a1c75ccbe4c13) наступления 175 тысяч российских военных на территорию Украины в начале 2022 года. Тем временем агентство Bloomberg [передает](https://www.bloomberg.com/news/articles/2021-12-03/ukraine-buys-more-armed-drones-from-turkey-than-disclosed-and-angers-russia), что Киев с 2019 года закупил у Турции не менее десяти дронов «Байрактар»: это в несколько раз больше, чем было объявлено.

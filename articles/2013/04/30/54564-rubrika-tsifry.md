@@ -27,4 +27,4 @@ tags: ""
 
 **2022 рубля 78 копеек** составляет единовременная денежная выплата инвалидам Чернобыля.
 
-**link:** https://novayagazeta.ru/news/64513.html
+**link:** [https://novayagazeta.ru/news/64513.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/64513.html)

@@ -21,8 +21,8 @@ tags: "дугин, санкции, сша, украина"
 
 Помимо Евразийского союза из организаций ограничительные меры распространятся на Российский национальный коммерческий банк.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/news/1692173.html" target="_blank"><span style="color:#B22222;"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/03/06/1425615929_358519_20.jpg" style="width: 100px; height: 75px;"></span></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/news/1692173.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1692173.html)" target="_blank"><span style="color:#B22222;"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/03/06/1425615929_358519_20.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/03/06/1425615929_358519_20.jpg)" style="width: 100px; height: 75px;"></span></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/news/1692173.html" target="_blank"><strong>США из-за санкций заблокировали активы российских банков на $640 млн</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/news/1692173.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1692173.html)" target="_blank"><strong>США из-за санкций заблокировали активы российских банков на $640 млн</strong></a></p>]*
 
-6 марта стало известно, что США заблокировали активы российских банков «СМП Банк» и «Россия» на 640 млн долларов. Американский президент Барак Обама неделю назад, 4 марта, подписал [указ](http://www.novayagazeta.ru/news/1692098.html) о продлении санкций против граждан и компаний России и Украины, введенных в связи с украинским кризисом и присоединением Крыма к РФ.
+6 марта стало известно, что США заблокировали активы российских банков «СМП Банк» и «Россия» на 640 млн долларов. Американский президент Барак Обама неделю назад, 4 марта, подписал [указ](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1692098.html) о продлении санкций против граждан и компаний России и Украины, введенных в связи с украинским кризисом и присоединением Крыма к РФ.

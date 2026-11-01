@@ -21,9 +21,9 @@ tags: ""
 
 Как сообщает правозащитный центр «Вясна», Статкевич уже находится дома в Беларуси.
 
-Николай Статкевич [был в числе 52-х политзаключенных](https://novayagazeta.ru/articles/2025/09/11/lukashenko-otpustil-52-politzakliuchennykh-sredi-nikh-nikolai-statkevich-i-14-inostrantsev-ssha-obeshchaiut-minsku-poteplenie-v-otnosheniiakh-news), помилованных Лукашенко в сентябре 2025 года.
+Николай Статкевич [был в числе 52-х политзаключенных](2025/09/11/lukashenko-otpustil-52-politzakliuchennykh-sredi-nikh-nikolai-statkevich-i-14-inostrantsev-ssha-obeshchaiut-minsku-potep.md), помилованных Лукашенко в сентябре 2025 года.
 
-Помилование означало немедленную депортацию в Литву. Статкевич отказался покидать страну: СМИ облетел кадр с камеры видеонаблюдения, где Статкевич [сидит на нейтральной полосе](https://novayagazeta.ru/articles/2025/09/11/vypushchennyi-segodnia-iz-tiurmy-politzakliuchennyi-nikolai-statkevich-otkazalsia-pokidat-belarus-news). А после он пешком вернулся в Беларусь, где его [снова отправили в колонию](https://novayagazeta.ru/articles/2025/09/15/belorusskogo-politzeka-statkevicha-otkazavshegosia-pokidat-stranu-vernuli-v-koloniiu-smi-news).
+Помилование означало немедленную депортацию в Литву. Статкевич отказался покидать страну: СМИ облетел кадр с камеры видеонаблюдения, где Статкевич [сидит на нейтральной полосе](2025/09/11/vypushchennyi-segodnia-iz-tiurmy-politzakliuchennyi-nikolai-statkevich-otkazalsia-pokidat-belarus-news.md). А после он пешком вернулся в Беларусь, где его [снова отправили в колонию](2025/09/15/belorusskogo-politzeka-statkevicha-otkazavshegosia-pokidat-stranu-vernuli-v-koloniiu-smi-news.md).
 
 ![](_assets/0f/0f241c48a1e9cfc7b31099789670edc0.webp)
 
@@ -35,4 +35,4 @@ tags: ""
 >
 > Статкевич содержался в режиме «инкоммуникадо», то есть практически в полной изоляции, даже от родных.
 
-> ### О Николае Статкевиче читателям «Новой» недавно [рассказывала](https://novayagazeta.ru/articles/2025/09/17/nas-pytaiutsia-vyvezti-no-ia-im-etogo-ne-pozvoliu) Ирина Халип
+> ### О Николае Статкевиче читателям «Новой» недавно [рассказывала](2025/09/17/nas-pytaiutsia-vyvezti-no-ia-im-etogo-ne-pozvoliu.md) Ирина Халип

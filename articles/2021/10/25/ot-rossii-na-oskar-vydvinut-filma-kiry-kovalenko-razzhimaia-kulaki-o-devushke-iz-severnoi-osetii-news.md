@@ -17,8 +17,8 @@ tags: "оскар, сокуров, коваленко, разжимая кула
 
 Сама Коваленко родом из Нальчика, Кабардино-Балкария. «Разжимая кулаки» — вторая ее работа. Первый полнометражный фильм Коваленко «Софичка» был показан на Таллиннском кинофестивале в 2016 году.
 
-В июле Коваленко [получила](https://novayagazeta.ru/articles/2021/07/16/rossiiskii-rezhisser-kira-kovalenko-poluchila-gran-pri-programmy-osobyi-vzgliad-kannskogo-kinofestivalia) Гран-при программы «Особый взгляд» Каннского кинофестиваля за картину «Разжимая кулаки».
+В июле Коваленко [получила](2021/07/16/rossiiskii-rezhisser-kira-kovalenko-poluchila-gran-pri-programmy-osobyi-vzgliad-kannskogo-kinofestivalia.md) Гран-при программы «Особый взгляд» Каннского кинофестиваля за картину «Разжимая кулаки».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/18/kanny-kontekst
+**Читайте также:** [Канны. Контекст](2021/07/18/kanny-kontekst.md)
 
 94-я церемония вручения «Оскаров» пройдет 27 марта 2022 года в Лос-Анджелесе.

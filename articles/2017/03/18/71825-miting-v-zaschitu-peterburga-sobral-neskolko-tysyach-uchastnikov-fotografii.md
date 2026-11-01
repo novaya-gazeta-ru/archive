@@ -19,7 +19,7 @@ tags: "петербург, архнадзор, градозащитники, и�
 
 От трех до шести тысяч человек сегодня приняли участие в акции, названной «Марш в защиту города». Массовое мероприятие прошло на Марсовом поле и было согласовано властями города в формате митинга. Главные темы митинга: обсуждение передачи Исаакиевского собора РПЦ, застройки в районе Пулковской обсерватории, ситуации с Российской национальной библиотекой и Европейским университетом. Горожане требовали отмены всех этих инициатив, вновь называя их вредными для Петербурга.
 
-**link:** https://novayagazeta.ru/articles/2017/03/14/71783-v-istorii-s-isaakievskim-soborom-vse-bolshe-nestykovok-i-protivorechiy
+**link:** [В истории с Исаакиевским собором все больше нестыковок и противоречий](2017/03/14/71783-v-istorii-s-isaakievskim-soborom-vse-bolshe-nestykovok-i-protivorechiy.md)
 
 ![](_assets/31/31a4d37c41898b2cbd12a610bdb936c9.webp)
 
@@ -59,7 +59,7 @@ tags: "петербург, архнадзор, градозащитники, и�
 
 Студенты Европейского университета.
 
-**link:** https://novayagazeta.ru/articles/2017/02/20/71566-vot-est-prezident-a-est-nekaya-sila-kotoroy-na-nego-plevat
+**link:** [https://novayagazeta.ru/articles/2017/02/20/71566-vot-est-prezident-a-est-nekaya-sila-kotoroy-na-nego-plevat](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/02/20/71566-vot-est-prezident-a-est-nekaya-sila-kotoroy-na-nego-plevat)
 
 ![](_assets/66/66235da058427e0991295372634571c4.webp)
 

@@ -19,10 +19,10 @@ tags: "израиль, спецслужбы, коронавирус, омикр�
 
 По данным Times of Israel, представители канцелярии подчеркнули, что программу слежки приостановят в случае «широкой вспышки». Они не уточнили подробнее, при каких условиях это может произойти.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/23/kovid-navsegda-no-est-vozmozhnost-s-nim-pomiritsia
+**Читайте также:** [«Ковид навсегда. Но есть возможность с ним помириться»](2021/10/23/kovid-navsegda-no-est-vozmozhnost-s-nim-pomiritsia.md)
 
-Сегодня власти Израиля на две недели [закрыли](https://novayagazeta.ru/articles/2021/11/28/izrail-pervym-polnostiu-zakryl-granitsy-iz-za-novogo-shtamma-koronavirusa-omikron-news) въезд в страну для всех иностранцев из-за распространения нового штамма коронавируса «омикрон». Въехать в страну смогут только те граждане, кто получил специальное приглашение от правительственной комиссии.
+Сегодня власти Израиля на две недели [закрыли](2021/11/28/izrail-pervym-polnostiu-zakryl-granitsy-iz-za-novogo-shtamma-koronavirusa-omikron-news.md) въезд в страну для всех иностранцев из-за распространения нового штамма коронавируса «омикрон». Въехать в страну смогут только те граждане, кто получил специальное приглашение от правительственной комиссии.
 
 Два дня назад в стране обнаружили первый случай заражения новым штаммом вируса, сегодня — еще один. По [данным](https://www.timesofisrael.com/liveblog_entry/health-ministry-says-7-people-in-israel-suspected-of-omicron-variant/) местного минздрава, еще несколько человек с подозрением на заражение «омикроном» сейчас находятся под наблюдением.
 
-Накануне случаи заражения штаммом коронавируса «омикрон» [зафиксировали](https://novayagazeta.ru/articles/2021/11/27/sluchai-zarazheniia-shtammom-koronavirusa-omikron-zafiksirovali-v-belgii-velikobritanii-germanii-i-italii-news) в Бельгии, Великобритании, Германии и Италии. В попытке сдержать распространение инфекции многие страны, включая [Россию](https://novayagazeta.ru/articles/2021/11/26/rossiia-ogranichit-aviasoobshchenie-s-riadom-stran-iz-za-rasprostraneniia-novogo-shtamma-kronovirusa-news), ограничили въезд для граждан из Гонконга и ряда южноафриканских стран.
+Накануне случаи заражения штаммом коронавируса «омикрон» [зафиксировали](2021/11/27/sluchai-zarazheniia-shtammom-koronavirusa-omikron-zafiksirovali-v-belgii-velikobritanii-germanii-i-italii-news.md) в Бельгии, Великобритании, Германии и Италии. В попытке сдержать распространение инфекции многие страны, включая [Россию](2021/11/26/rossiia-ogranichit-aviasoobshchenie-s-riadom-stran-iz-za-rasprostraneniia-novogo-shtamma-kronovirusa-news.md), ограничили въезд для граждан из Гонконга и ряда южноафриканских стран.

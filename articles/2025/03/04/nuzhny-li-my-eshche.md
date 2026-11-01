@@ -39,7 +39,7 @@ tags: "дитрих бонхеффер, сопротивление и покор
 
 Кто устоит? Не тот, чья последняя инстанция — рассудок, принципы, совесть, свобода и порядочность, а тот, кто готов всем этим пожертвовать, кому присуща ответственность, и чья жизнь — ответ на вопрос и зов Бога.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/07/20/prervannyi-polet-valkirii
+**Читайте также:** [https://novayagazeta.ru/articles/2024/07/20/prervannyi-polet-valkirii](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/07/20/prervannyi-polet-valkirii)
 
 ### *** * ***
 

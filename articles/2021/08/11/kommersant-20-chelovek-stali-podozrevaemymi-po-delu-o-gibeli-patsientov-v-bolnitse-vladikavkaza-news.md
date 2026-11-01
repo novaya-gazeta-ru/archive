@@ -15,10 +15,10 @@ tags: "уголовное дело, врачи, северная осетия, d
 
 Дело возбуждено по статье о выполнении работ или оказании услуг, не отвечающих требованиям безопасности, которые по неосторожности привели к смерти двух или более лиц (ч. 3 ст. 238 УК).
 
-Вчера [задержали](https://novayagazeta.ru/articles/2021/08/10/vo-vladikavkaze-zaderzhali-glavvracha-bolnitsy-gde-iz-za-proryva-kislorodnoi-truby-pogibli-deviat-chelovek-news) Владимира Плиева — главврача больницы, в которой произошла авария. Следствие планирует ходатайствовать о его аресте. Поломка кислородной системы [произошла](https://novayagazeta.ru/articles/2021/08/09/v-bolnitse-vladikavkaza-umerli-deviat-chelovek-iz-za-proryva-kislorodnoi-truby-news) в больнице 9 августа вечером. В результате кратковременной остановки подачи кислорода погибли 11 человек, которые были подключены к ИВЛ.
+Вчера [задержали](2021/08/10/vo-vladikavkaze-zaderzhali-glavvracha-bolnitsy-gde-iz-za-proryva-kislorodnoi-truby-pogibli-deviat-chelovek-news.md) Владимира Плиева — главврача больницы, в которой произошла авария. Следствие планирует ходатайствовать о его аресте. Поломка кислородной системы [произошла](2021/08/09/v-bolnitse-vladikavkaza-umerli-deviat-chelovek-iz-za-proryva-kislorodnoi-truby-news.md) в больнице 9 августа вечером. В результате кратковременной остановки подачи кислорода погибли 11 человек, которые были подключены к ИВЛ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/10/truba
+**Читайте также:** [Труба](2021/08/10/truba.md)
 
 Подобные инциденты происходили в Ростове-на-Дону и в Курске. В октябре прошлого года из-за перебоев с кислородом [погибли](https://www.rbc.ru/society/27/10/2020/5f9841f69a79475cd43aae5d) 13 пациентов в ростовской больнице. В медучреждении Курска сбой в подаче кислорода [привел](https://www.interfax-russia.ru/center/news/ugolovnoe-delo-vozbuzhdeno-iz-za-sboya-v-podache-kisloroda-bolnym-covid-19-v-kurskoy-bolnice) к смерти 14 человек. В обоих случаях СК возбуждал уголовные дела по статье о причинении смерти по неосторожности двум или более лицам (ч. 3 ст. 109 УК).
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/10/21/87625-otklyuchenie-sistemy
+**Читайте также:** [Отключение системы?](2020/10/21/87625-otklyuchenie-sistemy.md)

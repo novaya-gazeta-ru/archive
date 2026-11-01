@@ -77,4 +77,4 @@ tags: "беларусь, аресты, политзаключенные, дор�
 
 В обратном направлении вернутся не все. И они это знают. И все равно — едут.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/10/13/zasnut-zhertvoi-prosnutsia-vinovnym
+**Читайте также:** [Заснуть жертвой, проснуться виновным](2023/10/13/zasnut-zhertvoi-prosnutsia-vinovnym.md)

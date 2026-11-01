@@ -23,9 +23,9 @@ tags: "минюст, решение суда, сми-иноагенты, ино�
 
 А также минюст «выявил факты участия агентства в создании материалов иностранных СМИ» — например, политолог-востоковед и обозреватель «Росбалта» Михаил Магид [прокомментировал](https://www.svoboda.org/a/voda-po-cene-bitkoina-chem-protesty-v-irane-otlichayutsa-ot-rossiiskih/31395108.html) происходящее в Иране на «Радио Свобода»*. Схожим образом агентство якобы приняло участие в публикациях изданий [«Кавказ.Реалии»](https://www.kavkazr.com/a/30861838.html) и [«Крым.Реалии»](https://ru.krymr.com/a/krym-afganistan-mir-krymskaya-platforma/31415993.html)*.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany
+**Читайте также:** [https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany)
 
-Минюст [включил](https://novayagazeta.ru/articles/2021/10/15/miniust-vnes-izdaniia-rosbalt-i-republic-v-reestr-smi-inoagentov-news) агентство «Росбалт» в реестр «иноагентов» в октябре прошлого года. «Росбалтом» руководит супруга бывшего первого заместителя президента Владимира Путина в ФСБ и экс-главы ФСКН Виктора Черкесова Наталья. Главред агентства рассказал «Новой», что для него это стало «полной неожиданностью».
+Минюст [включил](2021/10/15/miniust-vnes-izdaniia-rosbalt-i-republic-v-reestr-smi-inoagentov-news.md) агентство «Росбалт» в реестр «иноагентов» в октябре прошлого года. «Росбалтом» руководит супруга бывшего первого заместителя президента Владимира Путина в ФСБ и экс-главы ФСКН Виктора Черкесова Наталья. Главред агентства рассказал «Новой», что для него это стало «полной неожиданностью».
 
 #### * Минюст РФ внес в реестр СМИ, выполняющих функцию «иностранного агента»
 

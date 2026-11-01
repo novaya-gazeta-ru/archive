@@ -23,4 +23,4 @@ tags: ""
 
 Брюссель добивается аналогичной адаптации визовой политики и от Сербии, однако Белград пока отказывается вводить подобную меру против России, явно поясняя, что оснований настолько жертвовать национальными интересами ради ускорения евроинтеграции пока не видит.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/09/es-usilivaet-vliianie-na-strany-zapadnykh-balkan-pooshchriat-ikh-chlenskimi-privilegiiami-po-chut-chut-budut-za-kazhdyi-shag-po-puti-reform-news
+**Читайте также:** [ЕС усиливает влияние на страны Западных Балкан: поощрять их членскими привилегиями «по чуть-чуть» будут за каждый шаг по пути реформ](2026/06/09/es-usilivaet-vliianie-na-strany-zapadnykh-balkan-pooshchriat-ikh-chlenskimi-privilegiiami-po-chut-chut-budut-za-kazhdyi-.md)

@@ -15,7 +15,7 @@ tags: "тюрьмы, колонии, фсин"
 
 *Продолжаем публиковать «Хроники ФСИН» — исследование жизни современной зоны*
 
-**link:** https://novayagazeta.ru/articles/2017/03/10/71733-podumaesh-ya-paru-zekov-obshelushu
+**link:** [«Подумаешь, я пару зэков обшелушу»](2017/03/10/71733-podumaesh-ya-paru-zekov-obshelushu.md)
 
 > **Справка «Новой**
 >

@@ -25,4 +25,4 @@ tags: "отставка, власти, правительство, болгар�
 
 На следующий день после телевизионной передачи министр подал заявления о своей отставке.
 
-**link:** https://novayagazeta.ru/news/2017/05/04/131323-v-novoe-pravitelstvo-bolgarii-voshli-konservatory-i-natsionalisty
+**link:** [https://novayagazeta.ru/news/2017/05/04/131323-v-novoe-pravitelstvo-bolgarii-voshli-konservatory-i-natsionalisty](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/05/04/131323-v-novoe-pravitelstvo-bolgarii-voshli-konservatory-i-natsionalisty)

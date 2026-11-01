@@ -20,7 +20,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/04/20/1334933258_203407_1.jpg" style="width: 300px; height: 400px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/04/20/1334933258_203407_1.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/04/20/1334933258_203407_1.jpg)" style="width: 300px; height: 400px; "><br>
 				<sup>В суд Вильсура Ганеевича привез внук. Фото автора</sup></td>
 		</tr>
 	</tbody>]*

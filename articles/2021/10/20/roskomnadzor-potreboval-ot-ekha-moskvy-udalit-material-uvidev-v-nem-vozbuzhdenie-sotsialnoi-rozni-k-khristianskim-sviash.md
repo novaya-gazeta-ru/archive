@@ -23,6 +23,6 @@ tags: "рознь, роскомнадзор, эхо москвы, невзоро
 
 В видеоролике Невзоров рассказал о том, как специальная комиссия по расследованию случаев сексуального насилия в Римско-католической церкви во Франции доложила, что с 1950 года жертвами священников-педофилов в стране стали 216 тысяч человек.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/06/pedofiliia-v-tserkvi-u-nikh-i-u-nas
+**Читайте также:** [Педофилия в церкви — «у них» и «у нас»](2021/10/06/pedofiliia-v-tserkvi-u-nikh-i-u-nas.md)
 
-Ранее «Эху Москвы» [назначили](https://novayagazeta.ru/articles/2021/10/19/ekhu-moskvy-naznachili-24-shtrafa-na-obshchuiu-summu-bolee-polumilliona-rublei-iz-za-upominanii-inoagentov-bez-markirovki-news) 24 штрафа на общую сумму более полумиллиона рублей из-за упоминаний «иностранных агентов» без маркировки (ч. 2.1 ст. 13.15 КоАП).
+Ранее «Эху Москвы» [назначили](2021/10/19/ekhu-moskvy-naznachili-24-shtrafa-na-obshchuiu-summu-bolee-polumilliona-rublei-iz-za-upominanii-inoagentov-bez-markirovk.md) 24 штрафа на общую сумму более полумиллиона рублей из-за упоминаний «иностранных агентов» без маркировки (ч. 2.1 ст. 13.15 КоАП).

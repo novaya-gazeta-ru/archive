@@ -75,4 +75,4 @@ tags: "москва, снегопад, уборка улиц, пробки, дв
 
 **Виктория Литвин**
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/11/27/my-eshche-schitaem-no-ushcherb-uzhe-kolossalnyi
+**Читайте также:** [«Мы еще считаем, но ущерб уже колоссальный»](2023/11/27/my-eshche-schitaem-no-ushcherb-uzhe-kolossalnyi.md)

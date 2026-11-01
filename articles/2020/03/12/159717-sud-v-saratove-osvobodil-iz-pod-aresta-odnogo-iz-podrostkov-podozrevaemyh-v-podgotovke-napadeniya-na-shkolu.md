@@ -15,8 +15,8 @@ tags: "арест, саратов, em"
 
 Меру пресечения школьнику изменили на запрет определенных действий. Позже второго подростка, проходящего по делу, [отпустили](https://tass.ru/proisshestviya/7955443) под домашний арест.
 
-ФСБ в конце февраля [сообщила](https://novayagazeta.ru/news/2020/02/26/159347-fsb-soobschila-o-zaderzhanii-podrostkov-gotovivshih-napadenie-na-shkolu-v-saratove) о задержании двух подростков, их заподозрили в подготовке нападения на школу. В спецслужбе говорили, что в одном из заброшенных бомбоубежищ дети хранили обрез охотничьего ружья.
+ФСБ в конце февраля [сообщила](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/02/26/159347-fsb-soobschila-o-zaderzhanii-podrostkov-gotovivshih-napadenie-na-shkolu-v-saratove) о задержании двух подростков, их заподозрили в подготовке нападения на школу. В спецслужбе говорили, что в одном из заброшенных бомбоубежищ дети хранили обрез охотничьего ружья.
 
-Подростки сначала заявили, что действительно хотели напасть на учебное заведение, но впоследствии [отказались](https://novayagazeta.ru/news/2020/03/03/159486-sami-ne-znayut-kak-tak-skazali-arestovannye-saratovskie-podrostki-otritsayut-chto-gotovili-napadenie-na-shkolu) от своих слов. Уполномоченный по правам ребенка в Саратовской области Татьяна Загородняя отмечала, что школьники «сами не знают, как так сказали».
+Подростки сначала заявили, что действительно хотели напасть на учебное заведение, но впоследствии [отказались](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/03/03/159486-sami-ne-znayut-kak-tak-skazali-arestovannye-saratovskie-podrostki-otritsayut-chto-gotovili-napadenie-na-shkolu) от своих слов. Уполномоченный по правам ребенка в Саратовской области Татьяна Загородняя отмечала, что школьники «сами не знают, как так сказали».
 
-**link:** https://novayagazeta.ru/articles/2020/03/03/84165-boytes-devochku
+**link:** [«Бойтесь девочку»](2020/03/03/84165-boytes-devochku.md)

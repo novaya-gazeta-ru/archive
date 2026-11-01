@@ -49,4 +49,4 @@ tags: ""
 
 **Наталья Синдеева**
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/19/kogda-nachinaetsia-vremia-mnogie-kollegi-vykliuchaiut-zvuk
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/19/kogda-nachinaetsia-vremia-mnogie-kollegi-vykliuchaiut-zvuk](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/19/kogda-nachinaetsia-vremia-mnogie-kollegi-vykliuchaiut-zvuk)

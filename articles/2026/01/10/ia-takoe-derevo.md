@@ -37,4 +37,4 @@ tags: ""
 >
 > Лариса Малюкова ведет телеграм-канал о кино и не только. [Подписывайтесь тут](https://t.me/larisamalukova).
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/01/05/chelovechestvo-eto-virus
+**Читайте также:** [Человечество — это вирус](2026/01/05/chelovechestvo-eto-virus.md)

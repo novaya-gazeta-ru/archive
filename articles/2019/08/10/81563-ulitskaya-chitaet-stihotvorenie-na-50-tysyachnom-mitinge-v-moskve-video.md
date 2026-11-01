@@ -33,4 +33,4 @@ tags: "за честные выборы, дело 212, москва, улицк�
 
 И за нами страна огромная, а за вами — воронки да вороны.
 
-**link:** https://novayagazeta.ru/articles/2019/08/10/81554-miting-na-saharova-10-avgusta-onlayn
+**link:** [https://novayagazeta.ru/articles/2019/08/10/81554-miting-na-saharova-10-avgusta-onlayn](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/08/10/81554-miting-na-saharova-10-avgusta-onlayn)

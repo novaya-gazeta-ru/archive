@@ -21,13 +21,13 @@ tags: ""
 
 С августа 2024 года Дуров является фигурантом большого дела по тяжким статьям уголовного кодекса Франции. Создателя мессенджера обвинили в игнорировании запросов спецслужб и предоставлении анонимной инфраструктуры мессенджера международной организованной преступности. В масштабном деле есть часть про сексуальную эксплуатацию несовершеннолетних.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/07/durov-zanialsia-ispravitelnoi-rabotoi
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/07/durov-zanialsia-ispravitelnoi-rabotoi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/07/durov-zanialsia-ispravitelnoi-rabotoi)
 
 За прошедший год Дуров серьезно обновил правила мессенджера в сторону сотрудничества с государствами. В нескольких странах открыты либо запланированы к открытию офисы Telegram. Мессенджер объявил о сотрудничестве со спецслужбами в делах, связанных с организованной преступностью.
 
-> Объявлено, что мессенджер [раскрывает данные пользователей по запросу спецслужб](https://novayagazeta.ru/articles/2024/09/23/ip-adresa-i-telefony-polzovatelei-telegram-narushaiushchikh-pravila-messendzhera-mogut-byt-peredany-v-pravookhranitelnye-organy-durov-news) разных стран — при предоставлении законных оснований для такого интереса.
+> Объявлено, что мессенджер [раскрывает данные пользователей по запросу спецслужб](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/23/ip-adresa-i-telefony-polzovatelei-telegram-narushaiushchikh-pravila-messendzhera-mogut-byt-peredany-v-pravookhranitelnye-organy-durov-news) разных стран — при предоставлении законных оснований для такого интереса.
 
-Telegram стал частично блокировать распространение шок-контента, а также не показывать контент каналов СМИ, в странах, где работа СМИ [«нарушает законодательство»](https://novayagazeta.ru/articles/2024/12/28/telegram-kanaly-riada-rossiiskikh-smi-perestali-otkryvatsia-v-es-iz-za-narusheniia-mestnogo-zakonodatelstva-rossiiskie-vlasti-gotoviat-otvet-news).
+Telegram стал частично блокировать распространение шок-контента, а также не показывать контент каналов СМИ, в странах, где работа СМИ [«нарушает законодательство»](2024/12/28/telegram-kanaly-riada-rossiiskikh-smi-perestali-otkryvatsia-v-es-iz-za-narusheniia-mestnogo-zakonodatelstva-rossiiskie-v.md).
 
 При этом Telegram и сам Дуров продолжают настаивать: личные данные пользователей надежно защищены.
 
@@ -35,6 +35,6 @@ Telegram стал частично блокировать распростран
 
 Telegram попал в перечень РКН, как и еще 12 сервисов, в числе которых — TikTok, Zoom, Viber, Spotify, Pinterest, Twitch, Google, Apple и заблокированные в РФ Twitter (теперь — X) и сервисы Metа*.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/16/detskii-mir-obiavil-ob-ukhode-iz-inostrannogo-messendzhera-telegram-soslavshis-na-novyi-zakon-a-zatem-udalil-post-news
+**Читайте также:** [«Детский мир» объявил об уходе из «иностранного мессенджера» Telegram, сославшись на «новый закон», а затем удалил пост](2025/07/16/detskii-mir-obiavil-ob-ukhode-iz-inostrannogo-messendzhera-telegram-soslavshis-na-novyi-zakon-a-zatem-udalil-post-news.md)
 
 #### * Признана экстремистской организацией и запрещена в России. Среди соцсетей Meta — Facebook и Instagram.

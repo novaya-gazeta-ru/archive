@@ -23,4 +23,4 @@ tags: "минкульт, крым, взятки, аксенов, sf"
 
 Министерство культуры Крыма Новосельская возглавляет с февраля 2014 года.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/07/obshchestvennost-pust-idet-s-bogom
+**Читайте также:** [Общественность пусть идет с богом](2021/09/07/obshchestvennost-pust-idet-s-bogom.md)

@@ -135,4 +135,4 @@ tags: "собаки, кошки, белгород, курск, помощь, с�
 
 *Текст подготовлен совместно с «Кедр. медиа» (властями РФ признан«иноагентом»).*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/05/sobakino-serdechko-zamerlo
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/05/sobakino-serdechko-zamerlo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/05/sobakino-serdechko-zamerlo)

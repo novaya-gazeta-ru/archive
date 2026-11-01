@@ -17,7 +17,7 @@ tags: ""
 		<tr>
 			<td>
 				<p class="g-justify-right">
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/12/1336829119_009979_33.jpg" style="width: 350px; height: 233px; "><br>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/12/1336829119_009979_33.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/12/1336829119_009979_33.jpg)" style="width: 350px; height: 233px; "><br>
 					<sup>Фото: Евгений Фельдман — «Новая»</sup></p>
 				<p class="g-justify-right">
 					<img alt="Петр Саруханов — «Новая»" src="https://static.novayagazeta.ru/storage/c/2012/05/12/1336933176_365987_38.jpg" style="width: 350px; height: 235px; "></p>

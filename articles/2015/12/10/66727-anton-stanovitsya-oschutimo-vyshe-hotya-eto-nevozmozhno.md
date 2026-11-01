@@ -25,9 +25,9 @@ tags: "краснодарский край, приговор, суды"
 
 Антон говорит: «Я понимаю».
 
-**link:** https://novayagazeta.ru/society/62881.html
+**link:** [https://novayagazeta.ru/society/62881.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/62881.html)
 
-**link:** https://novayagazeta.ru/society/62881.html
+**link:** [https://novayagazeta.ru/society/62881.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/62881.html)
 
 Прокурор Герасимов начинает неожиданно критично:
 

@@ -17,28 +17,28 @@ tags: ""
 
 1. _("Новая" № 136 от 3 декабря 2010 г.)_
 
-**[Жизнь — малина. Первоначальные накопления](https://novayagazeta.ru/society/555.html)**
+**[Жизнь — малина. Первоначальные накопления](https://web.archive.org/web/*/https://novayagazeta.ru/society/555.html)**
 
-**[Костяк цапков: персоналии](https://novayagazeta.ru/society/555.html)**
+**[Костяк цапков: персоналии](https://web.archive.org/web/*/https://novayagazeta.ru/society/555.html)**
 
-**[Тучные годы](https://novayagazeta.ru/society/555.html)**
+**[Тучные годы](https://web.archive.org/web/*/https://novayagazeta.ru/society/555.html)**
 
-**[Легализация](https://novayagazeta.ru/society/555.html)**
+**[Легализация](https://web.archive.org/web/*/https://novayagazeta.ru/society/555.html)**
 
-**[Чем живут местные. Молодежь](https://novayagazeta.ru/society/555.html)**
+**[Чем живут местные. Молодежь](https://web.archive.org/web/*/https://novayagazeta.ru/society/555.html)**
 
 2. _("Новая" № 137 от 6 декабря 2010 г.)_
 
-**[Девочки. Как выбирать жертву](https://novayagazeta.ru/society/529.html)**
+**[Девочки. Как выбирать жертву](https://web.archive.org/web/*/https://novayagazeta.ru/society/529.html)**
 
-**[Учителя](https://novayagazeta.ru/society/529.html)**
+**[Учителя](https://web.archive.org/web/*/https://novayagazeta.ru/society/529.html)**
 
-**[Галина Крошка](https://novayagazeta.ru/society/529.html)**
+**[Галина Крошка](https://web.archive.org/web/*/https://novayagazeta.ru/society/529.html)**
 
 3. _("Новая" №138 от 8 декабря 2010 г.)_
 
-**[Менты](https://novayagazeta.ru/society/499.html)**
+**[Менты](https://web.archive.org/web/*/https://novayagazeta.ru/society/499.html)**
 
-**[Родители](https://novayagazeta.ru/society/499.html)**
+**[Родители](https://web.archive.org/web/*/https://novayagazeta.ru/society/499.html)**
 
-**[Месть цапкам](https://novayagazeta.ru/society/499.html)**
+**[Месть цапкам](https://web.archive.org/web/*/https://novayagazeta.ru/society/499.html)**

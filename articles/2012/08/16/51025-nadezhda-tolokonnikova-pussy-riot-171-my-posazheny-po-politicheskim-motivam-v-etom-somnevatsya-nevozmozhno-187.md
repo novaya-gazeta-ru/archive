@@ -22,7 +22,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" class="g-image-align-right" src="http://www.novayagazeta.ru/storage/c/2012/08/16/1345305802_849708_14.jpg" style="width: 360px; height: 511px; ">
+				<img alt="" class="g-image-align-right" src="[http://www.novayagazeta.ru/storage/c/2012/08/16/1345305802_849708_14.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/08/16/1345305802_849708_14.jpg)" style="width: 360px; height: 511px; ">
 				<p class="g-justify-right">
 					<br>
 					<sup>Этот запрос «Новой» на интервью «мариновали» в Хамовническом суде больше месяца</sup></p>
@@ -37,11 +37,11 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" class="g-image-align-right" src="http://www.novayagazeta.ru/storage/c/2012/08/16/1345305802_985381_48.jpg" style="width: 360px; height: 509px; "></td>
+				<img alt="" class="g-image-align-right" src="[http://www.novayagazeta.ru/storage/c/2012/08/16/1345305802_985381_48.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/08/16/1345305802_985381_48.jpg)" style="width: 360px; height: 509px; "></td>
 		</tr>
 		<tr>
 			<td>
-				<img alt="" class="g-image-align-right" src="http://www.novayagazeta.ru/storage/c/2012/08/16/1345305803_121214_16.jpg" style="width: 360px; height: 509px; ">
+				<img alt="" class="g-image-align-right" src="[http://www.novayagazeta.ru/storage/c/2012/08/16/1345305803_121214_16.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/08/16/1345305803_121214_16.jpg)" style="width: 360px; height: 509px; ">
 				<p>
 					&nbsp;</p>
 				<p class="g-justify-right">

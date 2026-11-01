@@ -23,4 +23,4 @@ tags: ""
 
 …Речь не идет о запрете знаков квадратной формы, которыми пользуются владельцы японских и американских автомобилей, добавили в СПЧ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/10/02/robota-v-deputaty-veteranov-v-muzei-uchenykh-von
+**Читайте также:** [Робота в депутаты, ветеранов — в музеи, ученых — вон!](2025/10/02/robota-v-deputaty-veteranov-v-muzei-uchenykh-von.md)

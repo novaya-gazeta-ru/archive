@@ -16,17 +16,17 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/11/19/1353326452_937240_95.jpg" style="width: 360px; height: 482px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/11/19/1353326452_937240_95.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/19/1353326452_937240_95.jpg)" style="width: 360px; height: 482px;"><br>
 				<sup>Водитель Хаммера капрал Юван Бен Уриэль</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/11/19/1353326453_250719_32.jpg" style="width: 360px; height: 270px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/11/19/1353326453_250719_32.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/19/1353326453_250719_32.jpg)" style="width: 360px; height: 270px;"><br>
 				<sup>Инструктор систем противотанковой обороны, сержант Наама Зиль</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/11/19/1353326453_554506_8.jpg" style="width: 360px; height: 270px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/11/19/1353326453_554506_8.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/19/1353326453_554506_8.jpg)" style="width: 360px; height: 270px;"><br>
 				<sup>Заместитель командира подразделения офицер Элла Ульман</sup></td>
 		</tr>
 	</tbody>]*

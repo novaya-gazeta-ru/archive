@@ -25,4 +25,4 @@ tags: ""
 
 «Надеюсь, это не приведет к стимулированию импорта сельхозтехники в РФ. У нас и так на заводе стоит нераспроданным полугодовой запас тракторов и комбайнов. Лучше б добились разрешения поставок нашей техники в страны Запада».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/27/proizvoditel-bytovoi-tekhniki-ariston-pervym-obiavil-o-vozvrashchenii-v-rossiiu-putin-otmenil-vneshnee-upravlenie-ego-rossiiskoi-dochki-news
+**Читайте также:** [Производитель бытовой техники Ariston первым объявил о возвращении в Россию. Путин отменил внешнее управление его российской «дочки»](2025/03/27/proizvoditel-bytovoi-tekhniki-ariston-pervym-obiavil-o-vozvrashchenii-v-rossiiu-putin-otmenil-vneshnee-upravlenie-ego-ro.md)

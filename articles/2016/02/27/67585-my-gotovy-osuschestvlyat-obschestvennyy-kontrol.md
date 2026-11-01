@@ -13,9 +13,9 @@ tags: "алексеева, выборы, демократическая коал
 
 Я как инициатор обращения к лидерам демократических партий, опубликованного 24 февраля «Новой газетой», восприняла с надеждой благожелательную реакцию, выраженную в ответах на это обращение Э. Э. Слабуновой и М. М. Касьянова.
 
-**link:** https://novayagazeta.ru/politics/71944.html
+**link:** [https://novayagazeta.ru/politics/71944.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/71944.html)
 
-**link:** https://novayagazeta.ru/politics/71944.html
+**link:** [https://novayagazeta.ru/politics/71944.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/71944.html)
 
 Я и мои коллеги, подписавшие обращение, считаем крайне важным согласие обеих сторон на общественный контроль и арбитраж. Мы готовы предложить наших представителей, способных выполнять такие функции, людей уважаемых, которых невозможно заподозрить в какой либо предвзятости.
 
@@ -23,6 +23,6 @@ tags: "алексеева, выборы, демократическая коал
 
 Знаю, что эта позиция разделяется всеми подписавшими данное обращение в максимальной степени. Мы ждем скорых и недвусмысленных ответов на наше обращение. И в первую очередь — подтверждения готовности принятия общественного контроля.
 
-**link:** https://novayagazeta.ru/comments/71954.html
+**link:** [https://novayagazeta.ru/comments/71954.html](https://web.archive.org/web/*/https://novayagazeta.ru/comments/71954.html)
 
-**link:** https://novayagazeta.ru/comments/71954.html
+**link:** [https://novayagazeta.ru/comments/71954.html](https://web.archive.org/web/*/https://novayagazeta.ru/comments/71954.html)

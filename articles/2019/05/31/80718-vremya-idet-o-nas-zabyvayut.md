@@ -33,7 +33,7 @@ tags: "теракт , магнитогорск"
 
 Но пять месяцев — ​еще не так много. Еще можно оживить память. И еще нельзя отмахнуться: «Это было давно».
 
-**novaya:** https://novayagazeta.ru/articles/2019/01/25/79321-husnidin-dolzhen-priznatsya-chto-vzorval-dom
+**novaya:** [«Хуснидин должен признаться, что взорвал дом»](2019/01/25/79321-husnidin-dolzhen-priznatsya-chto-vzorval-dom.md)
 
 > # Часть 1. Дом без выхода
 

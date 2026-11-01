@@ -47,7 +47,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/09/27/1411826774_031936_51.jpg" style="width: 320px; height: 187px;"><sup>Автомобиль преступников</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/09/27/1411826774_031936_51.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/09/27/1411826774_031936_51.jpg)" style="width: 320px; height: 187px;"><sup>Автомобиль преступников</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -83,7 +83,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/09/27/1411826538_469608_90.jpg" style="width: 320px; height: 426px;"><sup>Алексей Цыганов</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/09/27/1411826538_469608_90.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/09/27/1411826538_469608_90.jpg)" style="width: 320px; height: 426px;"><sup>Алексей Цыганов</sup></td>
 		</tr>
 	</tbody>]*
 

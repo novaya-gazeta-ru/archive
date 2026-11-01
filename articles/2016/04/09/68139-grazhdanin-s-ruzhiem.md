@@ -29,9 +29,9 @@ Minuteman («минитмен») — человек с ружьем, готов�
 
 В случае отказа отпустить национальных гвардейцев на сборы или на задания работодателей могут привлечь к уголовной ответственности.
 
-**link:** https://novayagazeta.ru/columns/72580.html
+**link:** [https://novayagazeta.ru/columns/72580.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/72580.html)
 
-**link:** https://novayagazeta.ru/columns/72580.html
+**link:** [https://novayagazeta.ru/columns/72580.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/72580.html)
 
 # В стране
 

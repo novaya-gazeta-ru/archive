@@ -29,4 +29,4 @@ tags: ""
 
 Горячева иск пока не видела, подчеркнув, что это «не личный конфликт, а политический спор о том, как государство должно защищать женщин и детей».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/01/oksana-timofeeva-voina-eto-tochno-ne-triumf-zhivotnogo-nachala
+**Читайте также:** [Оксана Тимофеева: «Война — это точно не триумф животного начала»](2026/07/01/oksana-timofeeva-voina-eto-tochno-ne-triumf-zhivotnogo-nachala.md)

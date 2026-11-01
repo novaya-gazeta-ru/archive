@@ -36,7 +36,7 @@ tags: "бензин, топливо, как это устроено"
 
 > если экспортировать дизтопливо так и не разрешат, то внутри страны оно сбыта не найдет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/09/14/ostorozhno-stulia-pod-pravitelstvom-razezzhaiutsia
+**Читайте также:** [Осторожно, стулья под правительством разъезжаются](2023/09/14/ostorozhno-stulia-pod-pravitelstvom-razezzhaiutsia.md)
 
 Дело здесь даже не в ценах, а в физическом объеме топлива, нужного российскому транспорту.
 
@@ -60,7 +60,7 @@ tags: "бензин, топливо, как это устроено"
 
 В общем, правительство сделало бизнесу предложение, от которого нельзя отказываться. «Наша ключевая задача в том, чтобы цены на заправках в течение года росли на уровне не выше инфляции», — сообщил Новак. А официальная инфляция ожидается на уровне 6%.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/08/15/a-vy-razve-ne-zametili-chto-zarplata-uzhe-kak-15-let-nazad
+**Читайте также:** [https://novayagazeta.ru/articles/2023/08/15/a-vy-razve-ne-zametili-chto-zarplata-uzhe-kak-15-let-nazad](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/08/15/a-vy-razve-ne-zametili-chto-zarplata-uzhe-kak-15-let-nazad)
 
 ## **А что случилось?**
 

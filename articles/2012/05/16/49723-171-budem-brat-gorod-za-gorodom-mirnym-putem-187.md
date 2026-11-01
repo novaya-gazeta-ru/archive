@@ -16,7 +16,7 @@ tags: "чистые пруды"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/16/1337118386_985960_48.jpg" style="width: 350px; height: 233px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/16/1337118386_985960_48.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/16/1337118386_985960_48.jpg)" style="width: 350px; height: 233px; "><br>
 				<sup>Николай Левшиц, Алиса Образцова, Сева Чагаев и Абай (на заднем плане). Фото: Анна Артемьева/«Новая газета»</sup></td>
 		</tr>
 	</tbody>]*
@@ -38,7 +38,7 @@ tags: "чистые пруды"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/16/1337162355_082219_28.jpg" style="width: 350px; height: 233px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/16/1337162355_082219_28.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/16/1337162355_082219_28.jpg)" style="width: 350px; height: 233px; "><br>
 				<sup>Сева. Фото: Анна Артемьева/«Новая газета»</sup></td>
 		</tr>
 	</tbody>]*
@@ -58,7 +58,7 @@ tags: "чистые пруды"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/16/1337162587_745334_20.jpg" style="width: 350px; height: 233px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/16/1337162587_745334_20.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/16/1337162587_745334_20.jpg)" style="width: 350px; height: 233px; "><br>
 				<sup>Коля. Фото: Анна Артемьева/«Новая газета»</sup></td>
 		</tr>
 	</tbody>]*
@@ -76,7 +76,7 @@ tags: "чистые пруды"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/16/1337162725_993523_24.jpg" style="width: 350px; height: 233px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/16/1337162725_993523_24.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/16/1337162725_993523_24.jpg)" style="width: 350px; height: 233px; "><br>
 				<sup>Алиса. Фото: Анна Артемьева/«Новая газета»</sup></td>
 		</tr>
 	</tbody>]*

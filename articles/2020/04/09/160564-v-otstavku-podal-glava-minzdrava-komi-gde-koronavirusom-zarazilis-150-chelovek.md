@@ -17,8 +17,8 @@ tags: "kb, коронавирус, минздрав, коми"
 
 В Коми, по [данным](https://xn--80aesfpebagmfblc0a.xn--p1ai/#) на утро 9 апреля, подтверждено 150 случаев заболевания коронавирусом, трое человек скончались. Республика занимает четвертое место по числу заразившихся.
 
-Первым и самым крупным очагом распространения болезни стала Эжвинская больница. Коронавирус [подтвержден](https://tass.ru/obschestvo/8199111) у 66 ее пациентов, медучреждение находится на строгом карантине. Позднее о карантине [объявили](https://novayagazeta.ru/news/2020/04/07/160508-v-komi-v-chetvertoy-po-schetu-bolnitse-ob-yavlen-karantin-iz-za-covid-19) еще несколько больниц республики.
+Первым и самым крупным очагом распространения болезни стала Эжвинская больница. Коронавирус [подтвержден](https://tass.ru/obschestvo/8199111) у 66 ее пациентов, медучреждение находится на строгом карантине. Позднее о карантине [объявили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/04/07/160508-v-komi-v-chetvertoy-po-schetu-bolnitse-ob-yavlen-karantin-iz-za-covid-19) еще несколько больниц республики.
 
-На прошлой неделе в отставку [ушел](https://novayagazeta.ru/news/2020/04/02/160356-glava-respubliki-komi-sergey-gaplikov-napisal-zayavlenie-ob-otstavke) глава Коми Сергей Гапликов. На этой должности его сменил экс-руководитель Федерального медико-биологического агентства Владимир Уйба.
+На прошлой неделе в отставку [ушел](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/04/02/160356-glava-respubliki-komi-sergey-gaplikov-napisal-zayavlenie-ob-otstavke) глава Коми Сергей Гапликов. На этой должности его сменил экс-руководитель Федерального медико-биологического агентства Владимир Уйба.
 
-**link:** https://novayagazeta.ru/articles/2020/04/02/84676-gubernatoram-severa-poslali-doktora
+**link:** [Губернаторам Севера послали доктора](2020/04/02/84676-gubernatoram-severa-poslali-doktora.md)

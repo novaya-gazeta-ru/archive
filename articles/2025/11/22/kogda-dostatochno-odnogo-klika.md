@@ -125,7 +125,7 @@ tags: "политзаключенные, ольга комлева, фбк, ди
 
 Комлева несколько лет была волонтером уфимского штаба Алексея Навального**. Во время оппозиционных митингов 2021 года ее несколько раз задерживали и штрафовали. МВД и Росгвардия подали к ней иски на 5,6 млн рублей, требуя компенсаций за работу силовиков на протестах. У активистки были арестованы банковские счета, дом и автомобиль.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/04/20/syn-ponial-vse-pravilno-on-uzhe-perezhil-odin-obysk
+**Читайте также:** [https://novayagazeta.ru/articles/2024/04/20/syn-ponial-vse-pravilno-on-uzhe-perezhil-odin-obysk](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/04/20/syn-ponial-vse-pravilno-on-uzhe-perezhil-odin-obysk)
 
 ## Госизмена и шпионаж
 
@@ -147,7 +147,7 @@ tags: "политзаключенные, ольга комлева, фбк, ди
 
 В ФСБ указали, что москвича уже отправили в СИЗО, а у него дома провели обыски. Когда именно его задержали, неизвестно.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/01/za-slova-za-tishinu-vsekh-podriad
+**Читайте также:** [За слова. За тишину. Всех подряд](2025/11/01/za-slova-za-tishinu-vsekh-podriad.md)
 
 ### *** * ***
 

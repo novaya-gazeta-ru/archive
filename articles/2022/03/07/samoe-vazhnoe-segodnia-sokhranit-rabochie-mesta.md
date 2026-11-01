@@ -33,4 +33,4 @@ tags: "нлмк, лисин, официально, санкции, спецоп�
 >
 > **Владимир Лисин**, председатель совета директоров НЛМК
 
-**English version:** https://novayagazeta.ru/articles/2022/03/07/the-most-critical-for-us-today-is-to-maintain-jobs
+**English version:** [«The most critical for us today is to maintain jobs»](2022/03/07/the-most-critical-for-us-today-is-to-maintain-jobs.md)

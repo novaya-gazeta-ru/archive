@@ -19,13 +19,13 @@ tags: "ирак, исламское государство, коалиция"
 
 При этом источник агентства Reuters в Пентагоне заявил, что коалиция во главе с США пока не может подтвердить информацию о взятии комплекса правительственных зданий под контроль.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/news/1698817.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/12/16/1450273187_729785_8.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222 ;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/news/1698817.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1698817.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/12/16/1450273187_729785_8.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/12/16/1450273187_729785_8.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222 ;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/news/1698817.html" target="_blank"><strong>В России появилась брошюра «Страшная сказка ИГИЛ» </strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/news/1698817.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1698817.html)" target="_blank"><strong>В России появилась брошюра «Страшная сказка ИГИЛ» </strong></a></p>]*
 
-Финальная часть операции по освобождению города, населенного преимущественно суннитами, [началась](http://www.novayagazeta.ru/news/1698964.html) 22 декабря.
+Финальная часть операции по освобождению города, населенного преимущественно суннитами, [началась](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1698964.html) 22 декабря.
 
-Незадолго до этого армии удалось [взять](http://www.novayagazeta.ru/news/1698559.html) под контроль западную часть города, заняв район Тамим. После чего командование объявило о планах установить контроль над всем городом, однако местные жители просили отложить атаку, утверждая, что боевики удерживают в заложниках большое число людей и угрожают им.
+Незадолго до этого армии удалось [взять](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1698559.html) под контроль западную часть города, заняв район Тамим. После чего командование объявило о планах установить контроль над всем городом, однако местные жители просили отложить атаку, утверждая, что боевики удерживают в заложниках большое число людей и угрожают им.
 
 Местных жителей о наступлении армии предупредили с помощью листовок, распространенных военной авиацией.
 

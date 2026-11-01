@@ -30,9 +30,9 @@ tags: ""
 *[media: &nbsp;]*
 
 *[media: <blockquote>
-<p><strong><a href="http://www.novayagazeta.ru/inquests/56599.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2013/02/05/1360079448_940969_52.jpg" style="width: 100px; height: 75px;"></a><span style="color: rgb(178, 34, 34);">Читайте также:&nbsp;</span></strong></p>
+<p><strong><a href="[http://www.novayagazeta.ru/inquests/56599.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/56599.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2013/02/05/1360079448_940969_52.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/02/05/1360079448_940969_52.jpg)" style="width: 100px; height: 75px;"></a><span style="color: rgb(178, 34, 34);">Читайте также:&nbsp;</span></strong></p>
 
-<p><strong><a href="http://www.novayagazeta.ru/inquests/56599.html" target="_blank">«Ив Роше» посадит в России три миллиона деревьев и двух братьев Навальных?</a></strong></p>
+<p><strong><a href="[http://www.novayagazeta.ru/inquests/56599.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/56599.html)" target="_blank">«Ив Роше» посадит в России три миллиона деревьев и двух братьев Навальных?</a></strong></p>
 
 <div>&nbsp;</div>
 </blockquote>]*

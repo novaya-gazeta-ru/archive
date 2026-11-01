@@ -21,4 +21,4 @@ tags: ""
 
 Голодовку он объявил в знак протеста из-за условий содержания: администрация регулярно отправляет его в ШИЗО и не дает писем с воли. Кригер просил передать информацию об искусственной изоляции правозащитникам.
 
-Активиста Кригера приговорили к 7 годам по статье «оправдание терроризма» и «призывы к экстремистской деятельности». В поддержку политзека в октябре начальнику орловской колонии [написала письмо](https://novayagazeta.ru/articles/2025/10/14/vokalistka-gruppy-garbage-vstupilas-za-65-letnego-politzeka-mikhaila-krigera-on-tretii-den-derzhit-sukhuiu-golodovku-s-trebovaniem-ne-izolirovat-ego-ot-liudei-news) вокалистка группы Garbage.
+Активиста Кригера приговорили к 7 годам по статье «оправдание терроризма» и «призывы к экстремистской деятельности». В поддержку политзека в октябре начальнику орловской колонии [написала письмо](2025/10/14/vokalistka-gruppy-garbage-vstupilas-za-65-letnego-politzeka-mikhaila-krigera-on-tretii-den-derzhit-sukhuiu-golodovku-s-t.md) вокалистка группы Garbage.

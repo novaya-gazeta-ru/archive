@@ -59,4 +59,4 @@ tags: ""
 
 Но понимать это власти не хотят, искать объяснения не готовы, стремиться понимать не привыкли. А подготовить новый запрет — это и привычно, и приятно, и рука уже хорошо набита.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/05/kvadrober-s-aifonom-skloniaet-k-abortu-germionu-greindzher
+**Читайте также:** [Квадробер с айфоном склоняет к аборту Гермиону Грейнджер](2024/10/05/kvadrober-s-aifonom-skloniaet-k-abortu-germionu-greindzher.md)

@@ -23,7 +23,7 @@ _Когда поэтов убивают, Бессмертье в мире убы
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/02/10/1392047597_766070_71.jpg" style="width: 360px; height: 362px;"><sup>Александр Пушкин. Рисунки на полях рукописей</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/02/10/1392047597_766070_71.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/02/10/1392047597_766070_71.jpg)" style="width: 360px; height: 362px;"><sup>Александр Пушкин. Рисунки на полях рукописей</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -47,7 +47,7 @@ _«Но поздно. Тихо спит Одесса; И бездыханна и
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/02/10/1392047598_059602_82.jpg" style="width: 360px; height: 503px;"><sup>Александр Пушкин. Рисунки на полях рукописей</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/02/10/1392047598_059602_82.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/02/10/1392047598_059602_82.jpg)" style="width: 360px; height: 503px;"><sup>Александр Пушкин. Рисунки на полях рукописей</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -131,7 +131,7 @@ _«О, сколько нам открытий чудных Готовят про
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/02/10/1392047598_342564_14.jpg" style="width: 360px; height: 482px;"><sup>Александр Пушкин. Рисунки на полях рукописей</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/02/10/1392047598_342564_14.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/02/10/1392047598_342564_14.jpg)" style="width: 360px; height: 482px;"><sup>Александр Пушкин. Рисунки на полях рукописей</sup></td>
 		</tr>
 	</tbody>]*
 

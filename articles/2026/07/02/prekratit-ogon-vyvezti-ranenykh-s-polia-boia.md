@@ -39,7 +39,7 @@ tags: ""
 
 ПОДПИСАТЬ ПЕТИЦИЮ
 
-**Свидетельства выживших:** https://novayagazeta.ru/articles/2026/07/01/sashka-dve-nedeli-v-zemlianke-lezhal-on-sebe-paltsy-otrezal
+**Свидетельства выживших:** [«Сашка две недели в землянке лежал — он себе пальцы отрезал»](2026/07/01/sashka-dve-nedeli-v-zemlianke-lezhal-on-sebe-paltsy-otrezal.md)
 
 Мы обратились к нобелевским лауреатам с просьбой также поддержать наше обращение.
 

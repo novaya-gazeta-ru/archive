@@ -11,4 +11,4 @@ tags: ""
 
 # «Новое расследование» о деле Германа Галдецкого (53,2 мегабайта)
 
-[Скачать видео](https://novayagazeta.ru/storage/d/2006/01/22/gald-rassled.rm)
+[Скачать видео](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2006/01/22/gald-rassled.rm)

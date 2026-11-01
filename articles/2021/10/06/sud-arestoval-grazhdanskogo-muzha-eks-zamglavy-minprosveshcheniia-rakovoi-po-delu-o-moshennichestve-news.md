@@ -15,10 +15,10 @@ tags: "ракова, сбер, мошенничество, суд, муж, ша�
 
 Артур Стеценко был задержан по подозрению в мошенничестве в особо крупном размере (ч. 4 ст. 159 УК). По данным следствия, пока его жена работала в Фонде новых форм развития образования, Стеценко был фиктивно трудоустроен в эту организацию. С 2017 по 2019 год под видом заработной платы он получил свыше 9 млн рублей.
 
-Бывшую замглавы Минпросвещения России Марину Ракову, пропавшую после обысков по делу о хищении более 50 млн рублей, также[задержали](https://novayagazeta.ru/articles/2021/10/06/propavshuiu-posle-obyskov-po-delu-o-khishchenii-eks-zamglavy-minprosveshcheniia-rakovu-zaderzhali-news) сегодня в Москве. Ей предъявлено обвинение по статье о мошенничестве в особо крупном размере.
+Бывшую замглавы Минпросвещения России Марину Ракову, пропавшую после обысков по делу о хищении более 50 млн рублей, также[задержали](2021/10/06/propavshuiu-posle-obyskov-po-delu-o-khishchenii-eks-zamglavy-minprosveshcheniia-rakovu-zaderzhali-news.md) сегодня в Москве. Ей предъявлено обвинение по статье о мошенничестве в особо крупном размере.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/02/oskolochnye-granty
+**Читайте также:** [Осколочные гранты](2021/10/02/oskolochnye-granty.md)
 
-В качестве подрядчика в деле о хищениях [фигурирует](https://novayagazeta.ru/articles/2021/09/30/shaninka-figuriruet-v-kachestve-podriadchika-v-ugolovnom-dele-eks-zamglavy-minprosveshcheniia-rakovoi-news) Российско-британская Московская высшая школа социальных и экономических наук — Шанинка.
+В качестве подрядчика в деле о хищениях [фигурирует](2021/09/30/shaninka-figuriruet-v-kachestve-podriadchika-v-ugolovnom-dele-eks-zamglavy-minprosveshcheniia-rakovoi-news.md) Российско-британская Московская высшая школа социальных и экономических наук — Шанинка.
 
-Ракова занимала пост заместителя министра просвещения России с октября 2018 года по март 2020 года. Тогда глава Сбербанка Герман Греф объявил о ее назначении на пост вице-президента банка. После предъявления обвинения Ракову [уволили](https://novayagazeta.ru/articles/2021/10/06/eks-zamglavy-minprosveshcheniia-rakovu-uvolili-s-posta-vitse-prezidenta-sberbanka-posle-obvineniia-v-khishchenii-50-mln-rublei-news) с этой должности.
+Ракова занимала пост заместителя министра просвещения России с октября 2018 года по март 2020 года. Тогда глава Сбербанка Герман Греф объявил о ее назначении на пост вице-президента банка. После предъявления обвинения Ракову [уволили](2021/10/06/eks-zamglavy-minprosveshcheniia-rakovu-uvolili-s-posta-vitse-prezidenta-sberbanka-posle-obvineniia-v-khishchenii-50-mln-.md) с этой должности.

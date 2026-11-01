@@ -19,4 +19,4 @@ tags: "москва, следственный комитет, домашний �
 
 Басманный суд Москвы отправил режиссера Кирилла Серебренникова под домашний арест до 19 октября. Таким образом было удовлетворено ходатайство стороны обвинения. Сам режиссер просил суд отпустить его, чтобы иметь возможность работать.
 
-**link:** https://novayagazeta.ru/articles/2017/08/22/73553-nichto-za-poslednie-neskolko-mesyatsev-tak-ne-vredilo-putinu-kak-delo-serebrennikova
+**link:** [Ничто за последнее время так не вредило Путину, как «дело Серебренникова»](2017/08/22/73553-nichto-za-poslednie-neskolko-mesyatsev-tak-ne-vredilo-putinu-kak-delo-serebrennikova.md)

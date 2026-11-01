@@ -39,4 +39,4 @@ tags: "кризис, экономика, китай, сша"
 
 Только триллионы плохих ипотечных кредитов, выданных банками США во главе с Lehman Brothers, смогли потрясти эту махину. Масштабы той картины в сравнении с предполагаемым банкротством Evergrande несопоставимы. Нет у этой строительной конторы такого веса в экономике.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/04/15/padaiushchego-podtolkni
+**Читайте также:** [https://novayagazeta.ru/articles/2021/04/15/padaiushchego-podtolkni](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/04/15/padaiushchego-podtolkni)

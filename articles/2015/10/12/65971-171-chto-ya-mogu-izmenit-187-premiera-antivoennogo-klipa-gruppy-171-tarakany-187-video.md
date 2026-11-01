@@ -13,6 +13,6 @@ tags: "музыка, протестная песня, рок"
 
 «Против всех войн вообще». Разве с такой позицией будешь в центре внимания? Впрочем, нам это удалось». Читайте интервью лидера группы «Тараканы!» Дмитрия Спирина (Сида) — «Новой газете».
 
-**link:** https://novayagazeta.ru/arts/67407.html
+**link:** [https://novayagazeta.ru/arts/67407.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/67407.html)
 
-**link:** https://novayagazeta.ru/arts/67407.html
+**link:** [https://novayagazeta.ru/arts/67407.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/67407.html)

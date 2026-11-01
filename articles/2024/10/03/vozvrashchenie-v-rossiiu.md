@@ -13,7 +13,7 @@ tags: "юлия ауг, петрвская, отмена"
 
 *Актриса Юлия Ауг. Круговорот запретов и отмен в стране невыученных уроков*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/12/na-segodniashnee-tv-ia-ne-vernus-ni-na-kakikh-usloviiakh
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/12/na-segodniashnee-tv-ia-ne-vernus-ni-na-kakikh-usloviiakh](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/12/na-segodniashnee-tv-ia-ne-vernus-ni-na-kakikh-usloviiakh)
 
 Читайте также
 

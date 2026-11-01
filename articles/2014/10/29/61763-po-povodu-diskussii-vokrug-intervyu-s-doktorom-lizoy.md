@@ -19,4 +19,4 @@ tags: ""
 
 *Муратов и его коллеги*
 
-**link:** https://novayagazeta.ru/society/65836.html
+**link:** [https://novayagazeta.ru/society/65836.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/65836.html)

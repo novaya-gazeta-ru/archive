@@ -25,4 +25,4 @@ tags: "челябинск, сероводород, выбросы, эколог�
 
 Безруков отметил, что основная масса загрязняющих веществ в воздухе ушла вдоль реки, поэтому жители не так сильно почувствовали влияние выбросов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/02/neobkhodimo-prinimat-reshenie-pereseliat-zhitelei-ili-net
+**Читайте также:** [«Необходимо принимать решение — переселять жителей или нет»](2021/07/02/neobkhodimo-prinimat-reshenie-pereseliat-zhitelei-ili-net.md)

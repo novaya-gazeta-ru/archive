@@ -27,4 +27,4 @@ tags: ""
 
 Напомним, что Украина готова обсуждать с США план послевоенного восстановления на 800 миллиардов долларов в течение 10 лет, он же «План процветания». Неизвестно, обсуждали ли его сегодня Трамп и Зеленский.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/01/22/tramp-uchredil-sovet-mira-i-nazval-sebia-ego-predsedatelem-v-sovet-ne-voshli-glavnye-evropeiskie-partnery-ssha-news
+**Читайте также:** [Трамп учредил Совет мира и назвал себя его председателем. В Совет не вошли главные европейские партнеры США](2026/01/22/tramp-uchredil-sovet-mira-i-nazval-sebia-ego-predsedatelem-v-sovet-ne-voshli-glavnye-evropeiskie-partnery-ssha-news.md)

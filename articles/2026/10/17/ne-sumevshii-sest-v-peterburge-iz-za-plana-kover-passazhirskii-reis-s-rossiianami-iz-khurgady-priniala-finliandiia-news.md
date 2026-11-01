@@ -29,4 +29,4 @@ tags: ""
 
 Сам петербургский аэропорт Пулково выступал ночью резервным для рейсов, которые не могли сесть в Москве, пассажиров отправляли из Петербурга в Москву наземным транспортом.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/10/16/v-belgorodskoi-oblasti-posle-ataki-bpla-raneny-4-passazhirki-reisovogo-avtobusa-opershtab-soobshchil-u-odnoi-iz-zhertv-diagnostirovana-nezavershennaia-amputatsiia-nogi-news
+**Читайте также:** [В Белгородской области после атаки БПЛА ранены 4 пассажирки рейсового автобуса. Оперштаб: у одной из жертв «диагностирована незавершенная ампутация ноги»](2026/10/16/v-belgorodskoi-oblasti-posle-ataki-bpla-raneny-4-passazhirki-reisovogo-avtobusa-opershtab-soobshchil-u-odnoi-iz-zhertv-d.md)

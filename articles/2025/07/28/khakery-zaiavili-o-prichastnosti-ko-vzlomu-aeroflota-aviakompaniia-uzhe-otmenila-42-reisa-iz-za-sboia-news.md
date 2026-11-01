@@ -31,4 +31,4 @@ tags: "аэрофлот, хакеры, сбой"
 
 На фоне сбоя котировки «Аэрофлота» на Мосбирже упали на почти на 4%, [отмечает](https://www.forbes.ru/investicii/542750-akcii-aeroflota-upali-pocti-na-4-na-fone-otmeny-rejsov-iz-za-sboa-v-sisteme)Forbes.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/28/aeroflot-predupredil-o-massovykh-zaderzhkakh-i-otmenakh-reisov-iz-za-sboia-news
+**Читайте также:** [«Аэрофлот» предупредил о массовых задержках и отменах рейсов из-за сбоя](2025/07/28/aeroflot-predupredil-o-massovykh-zaderzhkakh-i-otmenakh-reisov-iz-za-sboia-news.md)

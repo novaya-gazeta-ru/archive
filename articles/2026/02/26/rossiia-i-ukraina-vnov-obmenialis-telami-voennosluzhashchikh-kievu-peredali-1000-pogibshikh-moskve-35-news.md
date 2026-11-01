@@ -19,6 +19,6 @@ tags: ""
 
 Помощь в организации обмена оказывал, как и ранее, Международный Красный Крест.
 
-Предыдущий обмен телами [состоялся](https://novayagazeta.ru/articles/2026/01/29/rossiia-i-ukraina-obmenialas-telami-voennosluzhashchikh-kreml-ob-energeticheskom-peremirii-poka-ne-kommentiruem-news) 29 января 2026 года. Соотношение было примерно таким же: 1000 на 38.
+Предыдущий обмен телами [состоялся](2026/01/29/rossiia-i-ukraina-obmenialas-telami-voennosluzhashchikh-kreml-ob-energeticheskom-peremirii-poka-ne-kommentiruem-news.md) 29 января 2026 года. Соотношение было примерно таким же: 1000 на 38.
 
 Переговоры российской и украинской делегации при участии США должны продолжиться в марте в Женеве.

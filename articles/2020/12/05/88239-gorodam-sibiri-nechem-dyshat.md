@@ -19,4 +19,4 @@ tags: "Greenpeace, здоровье, загрязнение, сибирь, эк�
 
 > Проверьте качество воздуха у себя в регионе с помощью инструкций от Greenpeace
 
-**link:** https://novayagazeta.ru/articles/2020/11/13/87942-baba-masha-i-ee-burzhuyka
+**link:** [Баба Маша и ее буржуйка](2020/11/13/87942-baba-masha-i-ee-burzhuyka.md)

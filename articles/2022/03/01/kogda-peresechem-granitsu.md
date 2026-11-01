@@ -33,7 +33,7 @@ tags: "петербург, политэмиграция, заграница, ф�
 
 — Еду домой, в Лондон, очень надеюсь, что, когда наконец мы пересечем границу, у меня перестанет болеть желудок и отпустит ужас последних дней.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/01/putin-posmertnyi-politicheskii-proekt
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/01/putin-posmertnyi-politicheskii-proekt](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/01/putin-posmertnyi-politicheskii-proekt)
 
 У Артема багажа с собой было меньше, чем у всех остальных. Он приезжал в Россию всего на несколько дней, но его обратный рейс в Барселону отменили. Надеется, что хоть через Хельсинки ему повезет уехать.
 

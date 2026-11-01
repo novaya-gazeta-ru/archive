@@ -57,7 +57,7 @@ tags: "венеция, кинофестивали, кино"
 
 *Кадр из фильма «Человек, который удивил всех». Kinopoisk.ru*
 
-**link:** https://novayagazeta.ru/articles/2018/08/28/77634-mostra-kotoraya-udivit-vseh
+**link:** [Мостра, которая удивит всех](2018/08/28/77634-mostra-kotoraya-udivit-vseh.md)
 
 Viva Mexico
 

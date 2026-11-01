@@ -19,4 +19,4 @@ tags: ""
 
 Но в [сегодняшнем отчете](https://mid.ru/ru/foreign_policy/news/2000649/) «О российско-американских консультациях в Стамбуле» МИД заявил, что обсуждались пути преодоления многочисленных «раздражителей», «доставшихся в наследство от предыдущих американских администраций». И «дискуссии прошли в деловом ключе».
 
-Трамп вчера [продлил на год](https://novayagazeta.ru/articles/2025/02/28/tramp-prodlil-na-god-sanktsii-protiv-rossii-nakanune-vstrechi-s-zelenskim-v-vashingtone-news) санкции против России, введенные еще в 2014-м году и с тех пор расширяемые.
+Трамп вчера [продлил на год](2025/02/28/tramp-prodlil-na-god-sanktsii-protiv-rossii-nakanune-vstrechi-s-zelenskim-v-vashingtone-news.md) санкции против России, введенные еще в 2014-м году и с тех пор расширяемые.

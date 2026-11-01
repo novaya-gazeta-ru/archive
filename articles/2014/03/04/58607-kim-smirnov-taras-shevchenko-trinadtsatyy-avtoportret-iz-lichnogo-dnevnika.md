@@ -14,17 +14,17 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2014/03/04/1393937221_096195_68.jpg" style="text-align: right; width: 340px; height: 409px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/03/04/1393937221_096195_68.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/03/04/1393937221_096195_68.jpg)" style="text-align: right; width: 340px; height: 409px;"><br>
 				<em><sup>Автопортрет 1860</sup></em></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2014/03/04/1393937220_800521_4.jpg" style="width: 340px; height: 299px; float: right;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/03/04/1393937220_800521_4.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/03/04/1393937220_800521_4.jpg)" style="width: 340px; height: 299px; float: right;"><br>
 				<em><sup>Автопортрет 1845</sup></em></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2014/03/04/1393937220_489242_25.jpg" style="width: 340px; height: 454px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/03/04/1393937220_489242_25.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/03/04/1393937220_489242_25.jpg)" style="width: 340px; height: 454px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">

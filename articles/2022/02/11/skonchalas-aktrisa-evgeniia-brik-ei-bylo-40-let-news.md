@@ -17,7 +17,7 @@ tags: "ng, актриса, смерть"
 
 > **прощание**
 >
-> ### [В ней не было ничего пафосного. Только жизнелюбие. Памяти Евгении Брик](https://novayagazeta.ru/articles/2022/02/11/v-nei-ne-bylo-nichego-pafosnogo-tolko-zhizneliubie)
+> ### [В ней не было ничего пафосного. Только жизнелюбие. Памяти Евгении Брик](2022/02/11/v-nei-ne-bylo-nichego-pafosnogo-tolko-zhizneliubie.md)
 
 ![](_assets/44/447bd80630c43b81b45193d88f2b5844.webp)
 

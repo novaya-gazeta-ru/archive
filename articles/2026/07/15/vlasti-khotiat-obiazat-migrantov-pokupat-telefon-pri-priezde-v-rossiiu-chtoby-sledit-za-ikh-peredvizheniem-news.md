@@ -25,4 +25,4 @@ tags: "мигранты, мвд"
 
 -
 
-Власти ужесточают условия для мигрантов в последние несколько лет. Ранее Госдума [приняла](https://novayagazeta.ru/articles/2026/07/08/gosduma-obiazala-migrantov-platit-nalogi-avansom-a-ikh-detei-poluchat-patenty-kak-tolko-im-ispolnitsia-18-let-news) законы, которые обяжут их платить налоги авансом, а детей мигрантов — получать патенты, как только им исполнится 18 лет.
+Власти ужесточают условия для мигрантов в последние несколько лет. Ранее Госдума [приняла](2026/07/08/gosduma-obiazala-migrantov-platit-nalogi-avansom-a-ikh-detei-poluchat-patenty-kak-tolko-im-ispolnitsia-18-let-news.md) законы, которые обяжут их платить налоги авансом, а детей мигрантов — получать патенты, как только им исполнится 18 лет.

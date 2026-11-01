@@ -23,4 +23,4 @@ tags: ""
 
 Инициаторы поправок обратились с идеей в Минздрав, указывает SHOT.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/11/27/prinesi-sigaretu-vnesi-vklad-v-pobedu
+**Читайте также:** [«Принеси сигарету — внеси вклад в Победу!»](2023/11/27/prinesi-sigaretu-vnesi-vklad-v-pobedu.md)

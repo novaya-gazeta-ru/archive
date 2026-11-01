@@ -27,4 +27,4 @@ tags: ""
 
 В случае с «Госуслуги. Авто» можно показать цифровую копию водительских прав и СТС, однако документе все равно должны быть в бумажном виде в наличии.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/03/vologodskaia-prokuratura-zapretila-shkolam-naviazyvat-messendzher-max-uchenikam-i-ikh-roditeliam-news
+**Читайте также:** [Вологодская прокуратура запретила школам навязывать мессенджер MAX ученикам и их родителям](2026/02/03/vologodskaia-prokuratura-zapretila-shkolam-naviazyvat-messendzher-max-uchenikam-i-ikh-roditeliam-news.md)

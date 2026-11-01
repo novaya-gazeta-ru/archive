@@ -11,8 +11,8 @@ tags: "днр, захарченко, избиение, каныгин, прав�
 
 # Вопросы «Новой газеты» Захарченко А.В., главе самопровозглашенной ДНР
 
-**link:** https://novayagazeta.ru/society/68871.html
+**link:** [https://novayagazeta.ru/society/68871.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/68871.html)
 
-**link:** https://novayagazeta.ru/society/68871.html
+**link:** [https://novayagazeta.ru/society/68871.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/68871.html)
 
 > Читайте также:

@@ -23,8 +23,8 @@ tags: ""
 
 Тараненко и еще одного координатора проекта «Сибирь правовая», Дмитрия Камынина, [арестовали](https://ovdinfo.org/express-news/2022/01/20/sibirskomu-pravozashchitniku-god-nahodyashchemusya-v-sizo-ne-vydayut-obuvi) в феврале прошлого года по делу о вымогательстве (ч. 2 ст. 163 УК). По версии следствия, они вымогали 20 тысяч рублей с жительницы Кемерова.
 
-В июне 2020 года Тараненко и Камынин опубликовали [статью](https://www.sibreal.org/a/30689884.html) о пытках и избиениях заключенных в исправительных колониях №5, №22 и №37 Кемеровской области. В ответ на публикацию администрации ИК [подали](https://novayagazeta.ru/articles/2020/09/10/164196-tri-kolonii-kemerovskoy-oblasti-podali-isk-o-zaschite-chesti-dostoinstva-i-delovoy-reputatsii-iz-za-teksta-o-pytkah) на правозащитников иск в суд о защите чести.
+В июне 2020 года Тараненко и Камынин опубликовали [статью](https://www.sibreal.org/a/30689884.html) о пытках и избиениях заключенных в исправительных колониях №5, №22 и №37 Кемеровской области. В ответ на публикацию администрации ИК [подали](2020/09/10/164196-tri-kolonii-kemerovskoy-oblasti-podali-isk-o-zaschite-chesti-dostoinstva-i-delovoy-reputatsii-iz-za-teksta-o-pytk.md) на правозащитников иск в суд о защите чести.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/08/19/86731-vzyat-na-izlom
+**Читайте также:** [Взять на излом](2020/08/19/86731-vzyat-na-izlom.md)
 
 \

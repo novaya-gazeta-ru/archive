@@ -19,4 +19,4 @@ tags: ""
 
 > **есть продолжение**
 >
-> ### [ФСБ обвинила в госизмене Павла Андреева*, сооснователя медиа «7х7»* и «Револьт-центра». По делу прошли обыски у журналистов и активистов в разных частях страны.](https://novayagazeta.ru/articles/2025/07/08/fsb-obvinila-v-gosizmene-pavla-andreeva-soosnovatelia-media-7kh7-i-revolt-tsentra-po-delu-proshli-obyski-u-zhurnalistov-i-aktivistov-v-raznykh-chastiakh-strany-news)
+> ### [ФСБ обвинила в госизмене Павла Андреева*, сооснователя медиа «7х7»* и «Револьт-центра». По делу прошли обыски у журналистов и активистов в разных частях страны.](2025/07/08/fsb-obvinila-v-gosizmene-pavla-andreeva-soosnovatelia-media-7kh7-i-revolt-tsentra-po-delu-proshli-obyski-u-zhurnalistov-.md)

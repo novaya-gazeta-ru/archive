@@ -16,24 +16,24 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<sup>&nbsp;<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/12/10/1355136607_333293_54.jpg" style="width: 360px; height: 540px;">Граффити фабрики.&nbsp;Фото: Анна АРТЕМЬЕВА — «Новая»</sup></td>
+				<sup>&nbsp;<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/12/10/1355136607_333293_54.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/12/10/1355136607_333293_54.jpg)" style="width: 360px; height: 540px;">Граффити фабрики.&nbsp;Фото: Анна АРТЕМЬЕВА — «Новая»</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/12/10/1355136607_700600_58.jpg" style="width: 360px; height: 240px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/12/10/1355136607_700600_58.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/12/10/1355136607_700600_58.jpg)" style="width: 360px; height: 240px;"><br>
 				<sup>Гости лаборатории детских праздников Fun-Formula примеряют костюмы супергероев</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/12/10/1355136608_024188_53.jpg" style="width: 360px; height: 240px;"><br>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/12/10/1355136608_024188_53.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/12/10/1355136608_024188_53.jpg)" style="width: 360px; height: 240px;"><br>
 					<sup>Картины Риммы Хадиевой — портреты героев фильма «Шапито-шоу»</sup><br>
 					<sup>в студии «Свои 2000»</sup>
 			</p></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/12/10/1355136614_415773_65.jpg" style="width: 360px; height: 240px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/12/10/1355136614_415773_65.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/12/10/1355136614_415773_65.jpg)" style="width: 360px; height: 240px;"><br>
 				<sup>Предновогодняя ярмарка во дворе «Фабрики»</sup></td>
 		</tr>
 	</tbody>]*

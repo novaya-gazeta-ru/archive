@@ -63,4 +63,4 @@ tags: "сорокин, лгбт, книги, издательство аст, к
 
 #### ** Борис Акунин и Борис Гребенщиков внесены властями РФ в реестр «иноагентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/01/19/tsa-napala-na-rossiiu-nu-i-ka-tozhe
+**Читайте также:** [https://novayagazeta.ru/articles/2024/01/19/tsa-napala-na-rossiiu-nu-i-ka-tozhe](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/01/19/tsa-napala-na-rossiiu-nu-i-ka-tozhe)

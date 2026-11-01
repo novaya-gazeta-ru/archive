@@ -13,7 +13,7 @@ tags: ""
 
 > **есть продолжение**
 >
-> ### Макрон, Стармер, Мерц и Мелони собрались в Париже прямо к открытию Ормузского пролива. [И пообещали обеспечить его безопасность — вопреки воле Трампа](https://novayagazeta.ru/articles/2026/04/17/makron-starmer-merts-i-meloni-sobralis-v-parizhe-priamo-k-otkrytiiu-ormuzskogo-proliva-i-poobeshchali-obespechit-ego-bezopasnost-vopreki-vole-trampa-news)
+> ### Макрон, Стармер, Мерц и Мелони собрались в Париже прямо к открытию Ормузского пролива. [И пообещали обеспечить его безопасность — вопреки воле Трампа](2026/04/17/makron-starmer-merts-i-meloni-sobralis-v-parizhe-priamo-k-otkrytiiu-ormuzskogo-proliva-i-poobeshchali-obespechit-ego-bez.md)
 
 На время прекращения огня между Израилем и Ливаном и продолжающимися переговорами Ирана и США Ормузский пролив будет полноценно открыт по согласованному маршруту (он проходит вблизи иранской территории) для всех коммерческих судов, [заявил](https://x.com/araghchi/status/2045121573124759713) глава иранского МИДА Аббас Аракчи в соцсети X.
 

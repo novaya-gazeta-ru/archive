@@ -19,4 +19,4 @@ tags: "sn, минск, протесты, беларусь"
 
 Жители Минска и других городов уже второй день подряд выходят на улицы в знак несогласия с итогами выборов президента. По официальным данным, Александр Лукашенко набрал более 80% голосов, а его главная соперница — Светлана Тихановская — около 10%. Демонстранты считают эти результаты сфальсифицированными.
 
-**link:** https://novayagazeta.ru/articles/2020/08/09/86587-vybory-prezidenta-belarusi-online
+**link:** [https://novayagazeta.ru/articles/2020/08/09/86587-vybory-prezidenta-belarusi-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/09/86587-vybory-prezidenta-belarusi-online)

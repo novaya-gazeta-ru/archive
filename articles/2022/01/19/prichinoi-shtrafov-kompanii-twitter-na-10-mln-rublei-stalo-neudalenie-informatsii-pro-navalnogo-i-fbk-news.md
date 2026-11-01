@@ -15,14 +15,14 @@ tags: "ркн, роскомнадзор, твиттер, фейсбук, мет�
 
 Из документов следует, что Роскомнадзор (РКН) направил в Twitter уведомление, с требованием удалить с сайта информацию, нарушающую российское законодательство и содержащую «призывы к участию в несанкционированной акции 18 сентября 2021 года, сведения о деятельности ФБК, Алексея Навального, Марии Певчих, Леонида Волкова, оценку событий в Пермском государственном университете».
 
-В решении суда отмечается, что Twitter проигнорировал этот запрос РКН и не удалил запрещенные публикации в течение суток как того требует закон. В связи с этим за нарушение порядка ограничения доступа к информации (ст. 13.41 КоАП) мировой суд Таганского района Москвы [оштрафовал](https://novayagazeta.ru/articles/2021/12/16/sud-oshtrafoval-meta-i-twitter-eshche-na-13-i-10-millionov-rublei-sootvetstvenno-za-neudalenie-zapreshchennoi-informatsii-news) Twitter на 10 млн рублей суммарно по двум протоколам.
+В решении суда отмечается, что Twitter проигнорировал этот запрос РКН и не удалил запрещенные публикации в течение суток как того требует закон. В связи с этим за нарушение порядка ограничения доступа к информации (ст. 13.41 КоАП) мировой суд Таганского района Москвы [оштрафовал](2021/12/16/sud-oshtrafoval-meta-i-twitter-eshche-na-13-i-10-millionov-rublei-sootvetstvenno-za-neudalenie-zapreshchennoi-informatsi.md) Twitter на 10 млн рублей суммарно по двум протоколам.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/12/khronika-tekushchikh-repressii-vypusk-4
+**Читайте также:** [https://novayagazeta.ru/articles/2021/12/12/khronika-tekushchikh-repressii-vypusk-4](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/12/12/khronika-tekushchikh-repressii-vypusk-4)
 
 По словам заместителя главы РКН Вадима Субботина, за неудаление запрещенной информации компаниям Google, Facebook и Twitter уже назначили штрафов на общую сумму более 140 млн рублей.
 
-В декабре за повторное нарушение закона об ограничении доступа к информации мировой судья [назначил](https://novayagazeta.ru/articles/2021/12/24/sud-v-moskve-oshtrafoval-google-na-72-mlrd-rublei-za-povtornoe-neudalenie-zapreshchennoi-informatsii-news) Google оборотный штраф размером 7,2 млрд рублей. Позже в тот же день оборотный штраф по такой же статье [назначили](https://novayagazeta.ru/articles/2021/12/24/sud-v-moskve-naznachil-kompanii-meta-facebook-oborotnyi-shtraf-v-razmere-19-mlrd-rublei-news) и Meta (Facebook), его размер составил 1,9 млрд рублей.
+В декабре за повторное нарушение закона об ограничении доступа к информации мировой судья [назначил](2021/12/24/sud-v-moskve-oshtrafoval-google-na-72-mlrd-rublei-za-povtornoe-neudalenie-zapreshchennoi-informatsii-news.md) Google оборотный штраф размером 7,2 млрд рублей. Позже в тот же день оборотный штраф по такой же статье [назначили](2021/12/24/sud-v-moskve-naznachil-kompanii-meta-facebook-oborotnyi-shtraf-v-razmere-19-mlrd-rublei-news.md) и Meta (Facebook), его размер составил 1,9 млрд рублей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/26/oborot-nad-atlantikoi
+**Читайте также:** [Оборот над Атлантикой](2021/12/26/oborot-nad-atlantikoi.md)
 
 #### **Мосгорсуд признал Фонд борьбы с коррупцией экстремистской структурой и запретил его деятельность на территории РФ, он внесен Минюстом в список НКО, выполняющих функцию иностранного агента*

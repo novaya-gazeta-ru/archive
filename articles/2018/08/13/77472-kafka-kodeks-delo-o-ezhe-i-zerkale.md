@@ -29,7 +29,7 @@ tags: "комикс"
 
 *Реальные судебные истории — в комиксах. Премьера рубрики*
 
-**link:** https://novayagazeta.ru/articles/2018/08/13/77482-chto-takoe-kafka-kodeks
+**link:** [Что такое «Кафка-кодекс»](2018/08/13/77482-chto-takoe-kafka-kodeks.md)
 
 ![](_assets/77/7738098d95176932f8b45245d8c02828.webp)
 

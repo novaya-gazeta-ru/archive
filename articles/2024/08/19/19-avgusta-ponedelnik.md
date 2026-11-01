@@ -57,4 +57,4 @@ tags: "путч, август 1991, 19 августа"
 
 Когда кажется, что все навсегда и все безнадежно на этой прямой, бесконечно серой дороге — возможно, уже через секунду вас ждет крутой поворот. 33 года назад именно так и произошло.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/12/my-s-toboi
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/12/my-s-toboi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/12/my-s-toboi)

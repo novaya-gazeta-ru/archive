@@ -31,7 +31,7 @@ tags: "письма, сша, кндр, ким чен ын, трамп, пись�
 
 *Ким и Трамп в Сингапуре. Фото: Reuters*
 
-**link:** https://novayagazeta.ru/articles/2020/06/16/85859-kndr-vzorvala-ofis-svyazi-s-yuzhnoy-koreey-i-gotovitsya-vvesti-voyska-v-dmz
+**link:** [https://novayagazeta.ru/articles/2020/06/16/85859-kndr-vzorvala-ofis-svyazi-s-yuzhnoy-koreey-i-gotovitsya-vvesti-voyska-v-dmz](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/06/16/85859-kndr-vzorvala-ofis-svyazi-s-yuzhnoy-koreey-i-gotovitsya-vvesti-voyska-v-dmz)
 
 > **ким — трампу. 10.06.19**
 >
@@ -45,4 +45,4 @@ tags: "письма, сша, кндр, ким чен ын, трамп, пись�
 
 > Я уверяю Ваше Превосходительство, что моё уважение к Вам никогда не ослабнет. Еще раз поздравляю Ваше Превосходительство с днем рождения. Надеюсь, Ваше Превосходительство всегда будет чувствовать себя хорошо и достигнет успехов в работе. От лица своей семьи передаю наилучшие пожелания Первой Леди и остальным членам Вашей семьи. Искренне Ваш, Ким Чен Ын 10 июня 2019
 
-**link:** https://novayagazeta.ru/articles/2019/04/24/80341-vladivostok-nakrylo-vozhdem
+**link:** [Владивосток накрыло вождем](2019/04/24/80341-vladivostok-nakrylo-vozhdem.md)

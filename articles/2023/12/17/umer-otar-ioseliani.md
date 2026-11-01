@@ -27,4 +27,4 @@ tags: ""
 >
 > А молодая публика все равно не идет упорно на настоящее кино».
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/12/24/otar-ioseliani-pit-ne-s-kem-vo-frantsii-vot-eto-ochen-vazhno-media
+**Читайте также:** [Отар Иоселиани: «Пить не с кем во Франции, вот это очень важно»](2022/12/24/otar-ioseliani-pit-ne-s-kem-vo-frantsii-vot-eto-ochen-vazhno-media.md)

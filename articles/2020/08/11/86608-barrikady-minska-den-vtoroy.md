@@ -25,7 +25,7 @@ tags: "баррикады, фотогалерея, лукашенко, прот�
 
 *Еще до начала массовых протестов силовики выхватывали прохожих с улиц. Фото: EPA*
 
-**link:** https://novayagazeta.ru/articles/2020/08/09/86587-vybory-prezidenta-belarusi-online
+**link:** [https://novayagazeta.ru/articles/2020/08/09/86587-vybory-prezidenta-belarusi-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/09/86587-vybory-prezidenta-belarusi-online)
 
 ![](_assets/1e/1e256533deccb388d0492d310b39f43b.webp)
 
@@ -39,7 +39,7 @@ tags: "баррикады, фотогалерея, лукашенко, прот�
 
 *В разных точках Минска стали появляться баррикады. Фото: Наталья Федосенко / ТАСС*
 
-**link:** https://novayagazeta.ru/articles/2020/08/10/86598-slozhi-schity
+**link:** [«Сложи щиты!»](2020/08/10/86598-slozhi-schity.md)
 
 ![](_assets/02/02f9b2ba2a114cacdd4239af964ffb8f.webp)
 
@@ -61,7 +61,7 @@ tags: "баррикады, фотогалерея, лукашенко, прот�
 
 *Фото: Reuters*
 
-**link:** https://novayagazeta.ru/articles/2020/08/10/86605-pobedil-uslovno-dosrochno
+**link:** [Победил условно-досрочно](2020/08/10/86605-pobedil-uslovno-dosrochno.md)
 
 ![](_assets/2b/2b923587179dcd4d3703c6905b5eb14c.webp)
 

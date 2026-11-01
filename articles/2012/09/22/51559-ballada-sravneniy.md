@@ -14,7 +14,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/22/1348428388_110622_85.png" style="width: 300px; height: 355px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/22/1348428388_110622_85.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/22/1348428388_110622_85.png)" style="width: 300px; height: 355px; "><br>
 				<sup>Петр Саруханов — «Новая»</sup></td>
 		</tr>
 	</tbody>]*

@@ -21,8 +21,8 @@ tags: "сша, деньги, байден, em"
 
 В прошлом году разгорелся скандал из-за газодобывающей украинской компании Burisma Holdings, в совет директоров которой ранее входил Хантер Байден. Поводом для начала разбирательства послужил телефонный разговор Трампа с президентом Украины Владимиром Зеленским в июле прошлого года.
 
-В нем, как [посчитали](https://novayagazeta.ru/news/2019/12/19/157781-palata-predstaviteley-progolosovala-za-impichment-trampa) в нижней палате Конгресса, Трамп якобы призывал начать расследование попыток Джозефа Байдена оградить Burisma от расследования генпрокуратуры Украины. Из-за этого Сенат США рассматривал вопрос об импичменте Трампа, но в итоге его [оправдал](https://novayagazeta.ru/news/2020/02/06/158864-senatory-otklonili-obvineniya-trampa-v-prevyshenii-polnomochiy-na-golosovanii-po-impichmentu).
+В нем, как [посчитали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/12/19/157781-palata-predstaviteley-progolosovala-za-impichment-trampa) в нижней палате Конгресса, Трамп якобы призывал начать расследование попыток Джозефа Байдена оградить Burisma от расследования генпрокуратуры Украины. Из-за этого Сенат США рассматривал вопрос об импичменте Трампа, но в итоге его [оправдал](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/02/06/158864-senatory-otklonili-obvineniya-trampa-v-prevyshenii-polnomochiy-na-golosovanii-po-impichmentu).
 
 В мае этого года украинский депутат Андрей Деркач [обнародовал](https://interfax.com.ua/news/press-conference/663179.html) записи, на которых, как утверждалось, Байден разговаривает с экс-президентом Украины Петром Порошенко. Речь на записях идет о необходимости увольнения Виктора Шокина, который на тот момент был генпрокурором, потому что в отношении Burisma тогда велось несколько разбирательств.
 
-**link:** https://novayagazeta.ru/articles/2020/05/05/85232-impichment-kak-koronakrizis-pyataya-seriya
+**link:** [Импичмент как коронакризис. Пятая серия](2020/05/05/85232-impichment-kak-koronakrizis-pyataya-seriya.md)

@@ -16,11 +16,11 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<a href="http://www.novayagazeta.ru/photos/55017.html"><img alt="" src="https://static.novayagazeta.ru/storage/c/2012/10/19/1350608168_251979_5.jpg" style="width: 565px; height: 377px; "></a></td>
+				<a href="[http://www.novayagazeta.ru/photos/55017.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/55017.html)"><img alt="" src="https://static.novayagazeta.ru/storage/c/2012/10/19/1350608168_251979_5.jpg" style="width: 565px; height: 377px; "></a></td>
 		</tr>
 		<tr>
 			<td>
-				<a href="http://www.novayagazeta.ru/photos/55017.html"><strong>Фоторепортаж</strong></a></td>
+				<a href="[http://www.novayagazeta.ru/photos/55017.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/55017.html)"><strong>Фоторепортаж</strong></a></td>
 		</tr>
 	</tbody>]*
 

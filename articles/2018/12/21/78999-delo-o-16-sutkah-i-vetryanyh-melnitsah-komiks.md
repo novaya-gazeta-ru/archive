@@ -66,18 +66,18 @@ tags: "суды, права человека, комикс, пономарев"
 > **Предыдущие выпуски<br>
 &nbsp;**
 >
-> ### [Дело о черном пятне](https://www.novayagazeta.ru/articles/2018/11/27/78716-delo-o-chernom-pyatne-komiks)\
+> ### [Дело о черном пятне](2018/11/27/78716-delo-o-chernom-pyatne-komiks.md)\
 >
-> ### [Дело о «симфоническом терроризме»](https://www.novayagazeta.ru/articles/2018/11/19/78589-delo-o-simfonicheskom-terrorizme-komiks)\
+> ### [Дело о «симфоническом терроризме»](2018/11/19/78589-delo-o-simfonicheskom-terrorizme-komiks.md)\
 >
-> ### [Комикс про любовь](https://www.novayagazeta.ru/articles/2018/10/29/78386-pro-lyubov)\
+> ### [Комикс про любовь](2018/10/29/78386-pro-lyubov.md)\
 >
-> ### [Дело о двух узбеках и одном паспорте](https://www.novayagazeta.ru/articles/2018/10/09/78111-delo-o-dvuh-uzbekah-i-odnom-pasporte)\
+> ### [Дело о двух узбеках и одном паспорте](2018/10/09/78111-delo-o-dvuh-uzbekah-i-odnom-pasporte.md)\
 >
-> ### [Дело о телефоне следователя](https://www.novayagazeta.ru/articles/2018/09/24/77938-telefon-sledovatelya)\
+> ### [Дело о телефоне следователя](2018/09/24/77938-telefon-sledovatelya.md)\
 >
-> ### [Дело о вмешательстве в выборы](https://www.novayagazeta.ru/articles/2018/09/07/77727-kafka-kodeks-delo-o-vmeshatelstve-v-vybory)\
+> ### [Дело о вмешательстве в выборы](2018/09/07/77727-kafka-kodeks-delo-o-vmeshatelstve-v-vybory.md)\
 >
-> ### [Дело об ореховом фермере](https://www.novayagazeta.ru/articles/2018/08/27/77618-kafka-kodeks-delo-ob-orehovom-fermere)\
+> ### [Дело об ореховом фермере](2018/08/27/77618-kafka-kodeks-delo-ob-orehovom-fermere.md)\
 >
-> ### [Дело о Еже в Зазеркалье](https://www.novayagazeta.ru/articles/2018/08/13/77472-kafka-kodeks-delo-o-ezhe-i-zerkale)\
+> ### [Дело о Еже в Зазеркалье](2018/08/13/77472-kafka-kodeks-delo-o-ezhe-i-zerkale.md)\

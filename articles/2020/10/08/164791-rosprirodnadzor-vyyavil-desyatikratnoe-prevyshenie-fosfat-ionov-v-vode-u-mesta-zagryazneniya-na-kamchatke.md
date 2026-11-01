@@ -26,7 +26,7 @@ tags: "экологическое бедствие, камчатка,   ng"
 
 *Места загрязнений. Карта: «Новая газета»*
 
-*[media: Представители Гринписа <a href="https://novayagazeta.ru/news/2020/10/07/164763-glava-kamchatki-poobeschal-rekultivirovat-kozelskiy-poligon-nahodyaschiysya-ryadom-s-mestom-ekologicheskoy-katastrofy" target="_blank">выдвигали </a>версию о том, что экологическая катастрофа произошла из-за&nbsp;полигона ядохимикатов Козельский, находящегося неподалеку. По их версии, химикаты могли попасть в грунтовые воды, вытечь к подножию вулкана Козельский и протечь в реку Налычева.]*
+*[media: Представители Гринписа <a href="[https://novayagazeta.ru/news/2020/10/07/164763-glava-kamchatki-poobeschal-rekultivirovat-kozelskiy-poligon-nahodyaschiysya-ryadom-s-mestom-ekologicheskoy-katastrofy](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/07/164763-glava-kamchatki-poobeschal-rekultivirovat-kozelskiy-poligon-nahodyaschiysya-ryadom-s-mestom-ekologicheskoy-katastrofy)" target="_blank">выдвигали </a>версию о том, что экологическая катастрофа произошла из-за&nbsp;полигона ядохимикатов Козельский, находящегося неподалеку. По их версии, химикаты могли попасть в грунтовые воды, вытечь к подножию вулкана Козельский и протечь в реку Налычева.]*
 
 Однако глава Камчатского края Владимир Солодов уверил, что, по его мнению, нет данных, которые бы показали, что катастрофа произошла из-за Козельского полигона.
 
@@ -34,8 +34,8 @@ tags: "экологическое бедствие, камчатка,   ng"
 
 Роспотребнадзор ранее [заявлял](https://ria.ru/20201008/ryba-1578751268.html), что проверил выловленную в океане у берегов Камчатки рыбу и не увидел превышения вредных веществ после загрязнения акватории Авачинского залива. Гепрокуратура [отчиталась](http://genproc.gov.ru/smi/news/genproc/news-1891260/), что исследования песка и воды с Халактырского пляжа на Камчатке показали наличие лишь горюче-смазочных материалов.
 
-**link:** https://novayagazeta.ru/articles/2020/10/05/87391-povedenie-vodorosley
+**link:** [«Поведение водорослей»](2020/10/05/87391-povedenie-vodorosley.md)
 
-На прошлой неделе жители Камчатки [сообщили](https://novayagazeta.ru/news/2020/10/02/164656-na-poberezhie-kamchatki-i-kurilskih-ostrovov-nashli-sotni-pogibshih-morskih-zhivotnyh-grinpis-nazval-proishodyaschee-katastrofoy) о множестве трупов морских животных и беспозвоночных, выброшенных на берег Тихого океана. Также были обнаружены масляные пятна и загрязнения в реке Налычева. Ученые ДВФУ [обнаружили](https://novayagazeta.ru/news/2020/10/08/164780-kamchatka) у берегов Камчатки помутнения зеленого цвета и пятно длиной в 40 километров.
+На прошлой неделе жители Камчатки [сообщили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/02/164656-na-poberezhie-kamchatki-i-kurilskih-ostrovov-nashli-sotni-pogibshih-morskih-zhivotnyh-grinpis-nazval-proishodyaschee-katastrofoy) о множестве трупов морских животных и беспозвоночных, выброшенных на берег Тихого океана. Также были обнаружены масляные пятна и загрязнения в реке Налычева. Ученые ДВФУ [обнаружили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/08/164780-kamchatka) у берегов Камчатки помутнения зеленого цвета и пятно длиной в 40 километров.
 
-Следственный комитет [возбудил](https://novayagazeta.ru/news/2020/10/07/164752-sk-vozbudil-delo-o-narushenii-pravil-obrascheniya-s-opasnymi-othodami-posle-katastrofy-na-kamchatke) дело из-за загрязнения акватории Авачинского залива и гибели там морских животных по статьям о нарушении правил обращения экологически опасных веществ и отходов (ч. 2 ст. 247 УК) и загрязнении морской среды (ч. 2 ст. 252 УК).
+Следственный комитет [возбудил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/07/164752-sk-vozbudil-delo-o-narushenii-pravil-obrascheniya-s-opasnymi-othodami-posle-katastrofy-na-kamchatke) дело из-за загрязнения акватории Авачинского залива и гибели там морских животных по статьям о нарушении правил обращения экологически опасных веществ и отходов (ч. 2 ст. 247 УК) и загрязнении морской среды (ч. 2 ст. 252 УК).

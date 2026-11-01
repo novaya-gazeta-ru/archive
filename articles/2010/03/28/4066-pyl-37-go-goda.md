@@ -34,4 +34,4 @@ tags: ""
 **Яна Яковлева** ,\
 _специально для «Новой»_
 
-**[СМОТРЕТЬ ОН-ЛАЙН КОНФЕРЕНЦИЮ С АВТОРОМ](https://novayagazeta.ru/online/84.html)**
+**[СМОТРЕТЬ ОН-ЛАЙН КОНФЕРЕНЦИЮ С АВТОРОМ](https://web.archive.org/web/*/https://novayagazeta.ru/online/84.html)**

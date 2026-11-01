@@ -21,6 +21,6 @@ tags: "путин, рейтинги, падение"
 
 Ранее служба [объявляла](http://rbc.ru/politics/14/05/2026/6a05f52a9a794794eadef668) о смене методологии опроса — это произошло почти сразу после того, как рейтинги Путина упали до минимума с начала военных действий в Украине.
 
-Социологи [добавили](https://novayagazeta.ru/articles/2026/05/22/fom-v-netelefonnom-oprose-rossiian-zafiksiroval-snizhenie-reitinga-putina-do-urovnia-nachala-svo-news) к телефонному опросу поквартирный обход: опросы показали временный рост рейтингов. До этого ВЦИОМ две недели не публиковал данные о доверии и одобрении деятельности политиков и органов власти.
+Социологи [добавили](2026/05/22/fom-v-netelefonnom-oprose-rossiian-zafiksiroval-snizhenie-reitinga-putina-do-urovnia-nachala-svo-news.md) к телефонному опросу поквартирный обход: опросы показали временный рост рейтингов. До этого ВЦИОМ две недели не публиковал данные о доверии и одобрении деятельности политиков и органов власти.
 
-- Рейтинги властей стабильно падают на фоне массовых отключений интернета и усилением блокировок Telegram. Как [сообщал](https://novayagazeta.ru/articles/2026/04/14/bloomberg-v-kremle-zadumalis-o-smiagchenii-blokirovok-interneta-na-fone-padaiushchikh-reitingov-putina-peskov-grazhdane-ponimaiut-neobkhodimost-etikh-mer-news) Bloomberg, на этом фоне в Кремле даже задумались о смягчении интернет-ограничений
+- Рейтинги властей стабильно падают на фоне массовых отключений интернета и усилением блокировок Telegram. Как [сообщал](2026/04/14/bloomberg-v-kremle-zadumalis-o-smiagchenii-blokirovok-interneta-na-fone-padaiushchikh-reitingov-putina-peskov-grazhdane-.md) Bloomberg, на этом фоне в Кремле даже задумались о смягчении интернет-ограничений

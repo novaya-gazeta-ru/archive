@@ -21,7 +21,7 @@ tags: "kn, biontech, pfizer, евросоюз, вакцина, здравоох�
 
 ЕК уже заключила контракты на поставку вакцин против коронавируса с производителями Johnson&Johnson, AstraZeneca и Sanofi-GSK.
 
-**link:** https://novayagazeta.ru/articles/2020/11/04/87832-deus-ex-vaktsina
+**link:** [Deus ex вакцина](2020/11/04/87832-deus-ex-vaktsina.md)
 
 В понедельник компании Biontech и Pfizer [заявили](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-announce-vaccine-candidate-against), что разработанная ими вакцина показала эффективность в 90% случаев и будет зарегистрирована в ноябре. Производители завершили третью фазу испытаний с 43538 участниками и заявили, что до конца 2020 года готовы произвести около 50 млн доз вакцины, а в 2021 году — более миллиарда доз.
 

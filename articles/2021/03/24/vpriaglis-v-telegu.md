@@ -13,7 +13,7 @@ tags: "telegram, дуров, инвестиции, интернет, мессе�
 
 *Зачем Россия вложила деньги в Telegram: три основные версии*
 
-23 марта создатель мессенджера Telegram Павел Дуров [объявил](https://novayagazeta.ru/articles/2021/03/23/telegram-privlek-bolee-1-mlrd-v-khode-razmeshcheniia-bondov-v-investitsiiakh-uchastvoval-i-rossiiskii-gosfond) о привлечении более чем миллиарда долларов в ходе размещения облигаций своей компании. По его замыслу, средства инвесторов помогут Telegram «расти во всем мире, придерживаться своих ценностей и (!) оставаться независимым» в ближайшие десятилетия, а то и столетия.
+23 марта создатель мессенджера Telegram Павел Дуров [объявил](2021/03/23/telegram-privlek-bolee-1-mlrd-v-khode-razmeshcheniia-bondov-v-investitsiiakh-uchastvoval-i-rossiiskii-gosfond.md) о привлечении более чем миллиарда долларов в ходе размещения облигаций своей компании. По его замыслу, средства инвесторов помогут Telegram «расти во всем мире, придерживаться своих ценностей и (!) оставаться независимым» в ближайшие десятилетия, а то и столетия.
 
 По [данным](https://www.forbes.ru/finansy-i-investicii/423117-kniga-zayavok-na-razmeshchenie-obligaciy-telegram-perepodpisana-pochti-v) источников Forbes, спрос на облигации стал ажиотажным: с середины марта книгу заявок Telegram Group Inc. переподписали в два раза.
 

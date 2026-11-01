@@ -33,6 +33,6 @@ tags: ""
 
 Некоторые уже возместили ущерб, обращают внимание журналисты «Коммерсанта», но это не помогло им смягчить себе меру пресечения.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/15/voronezhskii-ministr-turizma-poluchal-dengi-s-kontraktnikov-kotorym-obeshchal-sluzhbu-pri-kukhniakh-no-oni-popadali-v-shturmoviki-news
+**Читайте также:** [Воронежский министр туризма получал деньги с контрактников, которым обещал службу при кухнях — но они попадали в штурмовики](2025/07/15/voronezhskii-ministr-turizma-poluchal-dengi-s-kontraktnikov-kotorym-obeshchal-sluzhbu-pri-kukhniakh-no-oni-popadali-v-sh.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/01/figuranty-dela-o-khishchenii-24-mlrd-rublei-postavili-v-armiiu-30-tysiach-negodnykh-bronezhiletov-poluchennye-s-voennykh-dengi-vozili-v-bolshom-rozovom-chemodane-news
+**Читайте также:** [Фигуранты дела о хищении 2,4 млрд рублей поставили в армию 30 тысяч негодных бронежилетов. Полученные с военных деньги возили в «большом розовом чемодане»](2025/08/01/figuranty-dela-o-khishchenii-24-mlrd-rublei-postavili-v-armiiu-30-tysiach-negodnykh-bronezhiletov-poluchennye-s-voennykh.md)

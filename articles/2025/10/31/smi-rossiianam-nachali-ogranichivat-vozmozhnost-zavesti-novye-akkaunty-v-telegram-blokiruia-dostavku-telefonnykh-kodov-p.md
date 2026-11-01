@@ -25,9 +25,9 @@ tags: ""
 
 За предоставление своих SIM-карт (абонентских номеров) третьим лицам в РФ и так уже предусмотрены штрафы.
 
-Российские власти ввели требования предустанавливать на новые телефоны на прилавках госмессенджер MAX, всю цифровую коммуникацию бюджетной сферы (образовательной, медицинской, спортивной) переводят в MAX [безальтернативно](https://novayagazeta.ru/articles/2025/07/30/messendzher-max-stal-obiazatelnym-servisom-dlia-vizirovaniia-dokumentov-s-elektronnoi-podpisiu-tak-vlasti-pytaiutsia-obespechit-pritok-auditorii-news).
+Российские власти ввели требования предустанавливать на новые телефоны на прилавках госмессенджер MAX, всю цифровую коммуникацию бюджетной сферы (образовательной, медицинской, спортивной) переводят в MAX [безальтернативно](2025/07/30/messendzher-max-stal-obiazatelnym-servisom-dlia-vizirovaniia-dokumentov-s-elektronnoi-podpisiu-tak-vlasti-pytaiutsia-obe.md).
 
-Одновременно в стране уже несколько месяцев блокируют возможность звонков по Telegram. А в последнее время сразу в нескольких регионах стали [полноценно блокировать Telegram](https://novayagazeta.ru/articles/2025/10/30/v-krymu-ogranichili-rabotu-telegram-i-whatsapp-dlia-klientov-vsekh-operatorov-i-internet-provaiderov-news) и как текстовой мессенджер, ссылаясь на «требования безопасности».
+Одновременно в стране уже несколько месяцев блокируют возможность звонков по Telegram. А в последнее время сразу в нескольких регионах стали [полноценно блокировать Telegram](2025/10/30/v-krymu-ogranichili-rabotu-telegram-i-whatsapp-dlia-klientov-vsekh-operatorov-i-internet-provaiderov-news.md) и как текстовой мессенджер, ссылаясь на «требования безопасности».
 
 Основатель Telegram Павел Дуров, регулярно выступающий с критикой любой цензуры в разных частях планеты, не комментировал российские блокировки.
 

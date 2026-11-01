@@ -27,4 +27,4 @@ tags: ""
 
 «Новая» восхищается мужеством Михаила Бекетова, желает ему выздоровления и дарит на Новый год эту прекрасную вещицу, которая поможет ему держать связь с миром.
 
-**P.S.** _Реквизиты Фонда помощи Михаилу Бекетову есть на сайтах beketov-fond.ru и _[_www.novayagazeta.ru_](https://novayagazeta.ru/society/1283.html)
+**P.S.** _Реквизиты Фонда помощи Михаилу Бекетову есть на сайтах beketov-fond.ru и _[_www.novayagazeta.ru_](https://web.archive.org/web/*/https://novayagazeta.ru/society/1283.html)

@@ -17,6 +17,6 @@ tags: "польша, дипломаты, российские дипломаты
  \
  Посла России в Польше Сергея Андреева вызвали в польский МИД, [сообщает](https://t.me/rbc_news/45376) РБК.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/19/ikh-sapog-sviat
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/19/ikh-sapog-sviat](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/19/ikh-sapog-sviat)
 
-Ранее Латвия, Литва, Эстония и Болгария [объявили](https://novayagazeta.ru/articles/2022/03/18/latviia-litva-estoniia-i-bolgariia-obiavili-o-vysylke-rossiiskikh-diplomatov-news) о высылке российских дипломатов. В МИД Эстонии отметили, что трое дипломатов «принимали непосредственное и активное участие в подрыве безопасности Эстонии и распространении пропаганды, оправдывающей военные действия России».
+Ранее Латвия, Литва, Эстония и Болгария [объявили](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/18/latviia-litva-estoniia-i-bolgariia-obiavili-o-vysylke-rossiiskikh-diplomatov-news) о высылке российских дипломатов. В МИД Эстонии отметили, что трое дипломатов «принимали непосредственное и активное участие в подрыве безопасности Эстонии и распространении пропаганды, оправдывающей военные действия России».

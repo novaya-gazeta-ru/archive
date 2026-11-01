@@ -23,4 +23,4 @@ tags: ""
 
 > Порошенко, соперника Зеленского на выборах 2019 года, по словам спецслужб, сейчас отдельно подозревают в том, что он якобы «поставил Украину в энергетическую зависимость от РФ».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/12/tramp-soobshchil-o-telefonnom-razgovore-s-putinym-i-nachale-peregovorov-po-konfliktu-v-ukraine-news
+**Читайте также:** [Трамп сообщил о телефонном звонке Путину и начале переговоров по конфликту в Украине](2025/02/12/tramp-soobshchil-o-telefonnom-razgovore-s-putinym-i-nachale-peregovorov-po-konfliktu-v-ukraine-news.md)

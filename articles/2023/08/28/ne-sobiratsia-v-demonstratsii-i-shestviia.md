@@ -29,4 +29,4 @@ tags: "чвк вагнера, кладбище, захоронения"
 
 **Екатеринбург**
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/08/26/piramidki-vmesto-krestov
+**Читайте также:** [Пирамидки вместо крестов](2023/08/26/piramidki-vmesto-krestov.md)

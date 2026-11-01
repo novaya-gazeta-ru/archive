@@ -21,10 +21,10 @@ tags: "днр, украина, оон"
 
 «Лучший для нас формат — это полицейская миссия Евросоюза. Это будет наиболее эффективным гарантом безопасности в ситуации, когда слово мира не соблюдается ни Россией, ни теми, кого она поддерживает», — сказал украинский лидер Петр Порошенко на заседании СНБО.
 
-Отметим, что в своем возражении на инициативу Киева, постпред России при ООН Виталий Чуркин [указал](http://www.novayagazeta.ru/news/1691776.html), что минскими соглашениями от 12 февраля предусмотрено разрешение для ДНР и ЛНР на создание собственной полиции. Чуркин также подчеркнул, что Москва не приемлет новых инициатив и предлагает следовать уже согласованному плану действий.
+Отметим, что в своем возражении на инициативу Киева, постпред России при ООН Виталий Чуркин [указал](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1691776.html), что минскими соглашениями от 12 февраля предусмотрено разрешение для ДНР и ЛНР на создание собственной полиции. Чуркин также подчеркнул, что Москва не приемлет новых инициатив и предлагает следовать уже согласованному плану действий.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/society/67334.html" target="_blank"><span style="color:#B22222;"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/02/18/1424256895_451255_70.jpg" style="width: 100px; height: 75px;"></span></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/society/67334.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/67334.html)" target="_blank"><span style="color:#B22222;"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/02/18/1424256895_451255_70.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/02/18/1424256895_451255_70.jpg)" style="width: 100px; height: 75px;"></span></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/society/67334.html" target="_blank"><strong>«Если бы не война, как круто мы бы все изменили» </strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/society/67334.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/67334.html)" target="_blank"><strong>«Если бы не война, как круто мы бы все изменили» </strong></a></p>]*
 
 12 февраля в Минске главы России, Украины, Франции и Германии в ходе 16-часовых переговоров подписали соглашение о перемирии на территории Донецкой и Луганской областей.

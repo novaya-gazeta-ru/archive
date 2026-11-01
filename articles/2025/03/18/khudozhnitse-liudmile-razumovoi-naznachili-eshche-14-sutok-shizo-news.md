@@ -24,4 +24,4 @@ tags: "разумова, шизо, политзаключенные"
 
 **👉 Мы публиковали письма Людмилы Разумовой. Почитайте их.Минюст считает «иноагентами»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/06/ubivaiut-menia-za-to-chto-ia-govoriu-pravdu-o-nikh
+**Читайте также:** [«Убивают меня за то, что я говорю правду о них»](2025/03/06/ubivaiut-menia-za-to-chto-ia-govoriu-pravdu-o-nikh.md)

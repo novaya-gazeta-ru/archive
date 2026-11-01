@@ -25,8 +25,8 @@ tags: "умное голосование, роспатент, силовики, 
 
 Умаров и его бывший партнер Ахмедов в свою очередь заявили, что не знают Маздогова и понятия не имеют, как его номер оказался в контактных данных.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/27/politiku-zablokirovali
+**Читайте также:** [Политику заблокировали](2021/07/27/politiku-zablokirovali.md)
 
-Суд накануне [запретил](https://novayagazeta.ru/articles/2021/09/05/sud-zapretil-google-i-iandeksu-pokazyvat-slovosochetanie-umnoe-golosovanie-v-poiskovoi-vydache-news#) Google и «Яндексу» показывать в поисковой выдаче словосочетание «Умное голосование» в качестве обеспечительной меры по иску ставропольской компании «Вулинтертрейд». В июне Роспатент [зарегистрировал](https://www.fips.ru/registers-doc-view/fips_servlet?DB=RUTMAP&DocNumber=2021740437&TypeFile=html#Delo) товарный знак «Умное голосование» по ее заявке.
+Суд накануне [запретил](2021/09/05/sud-zapretil-google-i-iandeksu-pokazyvat-slovosochetanie-umnoe-golosovanie-v-poiskovoi-vydache-news.md) Google и «Яндексу» показывать в поисковой выдаче словосочетание «Умное голосование» в качестве обеспечительной меры по иску ставропольской компании «Вулинтертрейд». В июне Роспатент [зарегистрировал](https://www.fips.ru/registers-doc-view/fips_servlet?DB=RUTMAP&DocNumber=2021740437&TypeFile=html#Delo) товарный знак «Умное голосование» по ее заявке.
 
 Заявку одобрили менее, чем за месяц с момента подачи. При этом на сайте органа [указано](https://new.fips.ru/news/uskorennyj-poryadok-rassmotreniya-zayavok/), что услуга ускоренного порядка рассмотрения заявок на товарные знаки может сократить время принятия решения до двух месяцев.

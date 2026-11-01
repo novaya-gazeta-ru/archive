@@ -17,7 +17,7 @@ tags: "яблоко, пусть всегда будет солнце, сверд
 
 Свердловский областной суд отменил регистрацию списка партии «Яблоко» на выборах в Заксобрание региона, сообщила партийная пресс-служба. Иск об этом подавала партия ЛДПР, его [поддержали](https://t.me/yabloko_press/3605) областной избирком и прокуратура.
 
-Напомним, ЛДПР обвинила «Яблоко» в нарушениях правил агитации и финансирования кампании, а также авторских прав, повторив большую часть аргументов, которые ранее [использовались](https://novayagazeta.ru/articles/2026/08/17/verkhovnyi-sud-v-apelliatsii-utverdil-otmenu-registratsii-iabloka-iavlinskii-eto-govorit-o-printsipialnom-otkaze-ot-chestnykh-konkurentnykh-vyborov-v-rossii-news) для сноса федерального списка «Яблока» с выборов в Госдуму.
+Напомним, ЛДПР обвинила «Яблоко» в нарушениях правил агитации и финансирования кампании, а также авторских прав, повторив большую часть аргументов, которые ранее [использовались](2026/08/17/verkhovnyi-sud-v-apelliatsii-utverdil-otmenu-registratsii-iabloka-iavlinskii-eto-govorit-o-printsipialnom-otkaze-ot-ches.md) для сноса федерального списка «Яблока» с выборов в Госдуму.
 
 Представитель свердловского избиркома на заседании признал, что на этапе выдвижения и регистрации списка у комиссии претензий к участию партии в выборах не было. Смену позиции он объяснил [итогами заседания](http://xn--l1a/) в Верховном суде.
 
@@ -29,8 +29,8 @@ tags: "яблоко, пусть всегда будет солнце, сверд
 
 -
 
-Ранее депутатов от «Яблока» лишили возможности идти на парламентские выборы в [Санкт-Петербурге](https://novayagazeta.ru/articles/2026/08/19/iabloku-okonchatelno-otkazali-v-uchastii-v-vyborakh-v-zaksobranie-peterburga-news), Карелии и [Пскове](https://novayagazeta.ru/articles/2026/08/25/spisok-iabloka-tselikom-sniali-s-vyborov-v-pskovskoi-oblasti-po-isku-rodiny-a-v-kaliningradskoi-sud-prinial-takoi-zhe-isk-ot-kommunistov-rossii-protiv-iabloka-news) — в этих трех регионах партия имела фракции в законодательных собраниях и высокие шансы пройти в следующий созыв.
+Ранее депутатов от «Яблока» лишили возможности идти на парламентские выборы в [Санкт-Петербурге](2026/08/19/iabloku-okonchatelno-otkazali-v-uchastii-v-vyborakh-v-zaksobranie-peterburga-news.md), Карелии и [Пскове](2026/08/25/spisok-iabloka-tselikom-sniali-s-vyborov-v-pskovskoi-oblasti-po-isku-rodiny-a-v-kaliningradskoi-sud-prinial-takoi-zhe-is.md) — в этих трех регионах партия имела фракции в законодательных собраниях и высокие шансы пройти в следующий созыв.
 
 -
 
-О том, что «Яблоко» собирается делать в этих условиях, в эфире «Новой» [рассказывал](https://novayagazeta.ru/articles/2026/08/27/plan-b-iabloka) председатель партии Николай Рыбаков.
+О том, что «Яблоко» собирается делать в этих условиях, в эфире «Новой» [рассказывал](2026/08/27/plan-b-iabloka.md) председатель партии Николай Рыбаков.

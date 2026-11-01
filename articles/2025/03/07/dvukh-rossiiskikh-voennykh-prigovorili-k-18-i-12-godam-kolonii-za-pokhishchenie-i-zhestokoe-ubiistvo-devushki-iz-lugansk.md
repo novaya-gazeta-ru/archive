@@ -29,4 +29,4 @@ tags: ""
 
 Айдын Жамидулов, контрактник с 2022 года, [публиковал свои стихи](https://t.me/mod_russia/22013) о спецоперации в сборниках Минобороны.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/13/tysiachi-liudei-v-zabaikale-potrebovali-ne-dat-uiti-na-svo-ubiitse-zastrelivshemu-byvshuiu-zhenu-petitsiia-on-uzhe-podpisal-kontrakt-news
+**Читайте также:** [Тысячи людей в Забайкалье потребовали не дать уйти на СВО убийце, застрелившему бывшую жену, — петиция. Он уже подписал контракт](2025/02/13/tysiachi-liudei-v-zabaikale-potrebovali-ne-dat-uiti-na-svo-ubiitse-zastrelivshemu-byvshuiu-zhenu-petitsiia-on-uzhe-podpi.md)

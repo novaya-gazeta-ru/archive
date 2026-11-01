@@ -13,4 +13,4 @@ tags: "днр, каныгин"
 
 Спецкор «Новой» Павел Каныгин — о том, как его задержали «органы безопасности ДНР», проверяли на наркотики и депортировали в Россию.
 
-**link:** https://novayagazeta.ru/news/1694556.html
+**link:** [https://novayagazeta.ru/news/1694556.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1694556.html)

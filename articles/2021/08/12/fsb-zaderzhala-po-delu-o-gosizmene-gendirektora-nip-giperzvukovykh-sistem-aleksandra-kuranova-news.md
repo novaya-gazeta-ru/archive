@@ -23,4 +23,4 @@ tags: "госизмена, арест , лефортовский суд, нип�
 
 Александр Куранов — генеральный директор и главный конструктор ОАО «НИПГС» ХК «Ленинец», доктор технических наук, профессор кафедры cистем и технологий управления Санкт-Петербургского государственного политехнического университета. Он [является](http://www.hypersonics.ru/employees/kuranov_al) автором более 120 научных трудов, в том числе патентов и авторских свидетельств.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/05/28/spisok-rossiian-osuzhdennykh-po-state-gosizmena-1997-2020-gg
+**Читайте также:** [https://novayagazeta.ru/articles/2021/05/28/spisok-rossiian-osuzhdennykh-po-state-gosizmena-1997-2020-gg](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/05/28/spisok-rossiian-osuzhdennykh-po-state-gosizmena-1997-2020-gg)

@@ -13,7 +13,7 @@ tags: ""
 
 *К 20 годовщине штурма Белого дома публикуем и выкладываем для скачивания книгу Алексея Поликовского*
 
-- Скачать **[PDF](http://www.novayagazeta.ru/storage/b/2013/10/03/Osenniie_proghulki_-_Alexey_Polikovskiy.pdf)** (684.00 KB) - Скачать **[EPUB](http://www.novayagazeta.ru/storage/b/2013/10/03/Osenniie_proghulki_-_Alexey_Polikovskiy.epub)** (436.00 KB) — _для чтения на мобильных устройствах_
+- Скачать **[PDF](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/b/2013/10/03/Osenniie_proghulki_-_Alexey_Polikovskiy.pdf)** (684.00 KB) - Скачать **[EPUB](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/b/2013/10/03/Osenniie_proghulki_-_Alexey_Polikovskiy.epub)** (436.00 KB) — _для чтения на мобильных устройствах_
 
 \
  Это книга о гражданской войне в центре Москвы в октябре 1993 года. Вы могли себе представить, что на крыше вашего дома засядут снайперы, что по маршруту троллейбуса пойдут танки, что витки колючей проволоки, которой обнесли Белый дом, разорвут на сувениры, а на стене небоскреба на Калининском появятся отметки от пуль? Нет, представить все это было нельзя, но все кошмары в истории казались невозможными до того, как случились.

@@ -89,4 +89,4 @@ tags: "расследование, убийство, вороненков, ма�
 
 Еще меньше сведений о том, успел ли Денис Вороненков до собственной гибели сообщить что-либо важное по вопросам, о которых, как считалось, он знал слишком много.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/03/24/84482-kak-ukrainskie-sledovateli-nashli-i-poteryali-zakazchika-ubiystva-eks-deputata-gosdumy-material-grati
+**Читайте также:** [Три года ждут](2020/03/24/84482-kak-ukrainskie-sledovateli-nashli-i-poteryali-zakazchika-ubiystva-eks-deputata-gosdumy-material-grati.md)

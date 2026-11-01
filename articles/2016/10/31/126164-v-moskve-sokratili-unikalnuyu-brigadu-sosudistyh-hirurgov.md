@@ -15,7 +15,7 @@ tags: "москва, медицина"
 
 «Ну вот, видимо, и пришло наше время...(…) С 01.11.2016 вы уж как-нибудь без нас…. “Вы держитесь там, вам всего доброго, хорошего настроения и здоровья!”», — написал он.
 
-**link:** https://novayagazeta.ru/news/2016/10/31/126166-glavvrach-bolnitsy-im-pirogova-gorodskuyu-vyezdnuyu-brigadu-peredali-v-gorod
+**link:** [https://novayagazeta.ru/news/2016/10/31/126166-glavvrach-bolnitsy-im-pirogova-gorodskuyu-vyezdnuyu-brigadu-peredali-v-gorod](https://web.archive.org/web/*/https://novayagazeta.ru/news/2016/10/31/126166-glavvrach-bolnitsy-im-pirogova-gorodskuyu-vyezdnuyu-brigadu-peredali-v-gorod)
 
 41-е отделение оказывало консультативную и хирургическую помощь больным с острой сосудистой патологией и было единственной в Москве выездной бригадой экстренной ангиохирургической помощи. Дежуривший на сутках хирург выезжал на вызовы в столичные стационары и оказывал любую экстренную и плановую помощь, выполняя операции везде, где есть операционные.
 

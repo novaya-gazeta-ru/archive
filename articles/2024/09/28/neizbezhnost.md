@@ -18,4 +18,4 @@ tags: ""
  Она всех похоронит\
  И ваших и наших
 
-**Другое великостишие:** https://novayagazeta.ru/articles/2024/09/14/strannoe-i-temnoe
+**Другое великостишие:** [https://novayagazeta.ru/articles/2024/09/14/strannoe-i-temnoe](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/14/strannoe-i-temnoe)

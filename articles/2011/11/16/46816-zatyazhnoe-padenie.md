@@ -51,4 +51,4 @@ tags: ""
 
 *[media: &nbsp;]*
 
-*[media: О том, как падают наши космические аппараты и почему мы теряем их в таком количестве — <a href="http://www.novayagazeta.ru/economy/48330.html">читайте</a> мнения экспертов.]*
+*[media: О том, как падают наши космические аппараты и почему мы теряем их в таком количестве — <a href="[http://www.novayagazeta.ru/economy/48330.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/economy/48330.html)">читайте</a> мнения экспертов.]*

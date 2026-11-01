@@ -103,4 +103,4 @@ tags: "лженаука, технологии, минобороны"
 
 Хотя разница, конечно, есть. Млимо и Вовока совершенно точно не пилили казенных денег на проекте превращения пуль белых в ореховые скорлупки.
 
-**link:** https://novayagazeta.ru/articles/2019/03/10/79814-ya-ne-govoril-chto-ona-ploskaya-no-dokazhite-chto-ona-kruglaya
+**link:** [«Я не говорил, что она плоская, но докажите, что она круглая»](2019/03/10/79814-ya-ne-govoril-chto-ona-ploskaya-no-dokazhite-chto-ona-kruglaya.md)

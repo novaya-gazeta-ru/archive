@@ -51,4 +51,4 @@ tags: ""
 
 Даже не смешно, а до смешного стыдно. Однако, как ни парадоксально, реальность из жизни и реальность с выставки слишком далеко разошлись, чтобы организаторы ПМЭФ были способны это почувствовать.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/05/donastroika-vo-vremia-chudovishch-togo-chem-mozhno-gorditsia
+**Читайте также:** [«Донастройка» того, чем «можно гордиться» во «время чудовищ»](2026/06/05/donastroika-vo-vremia-chudovishch-togo-chem-mozhno-gorditsia.md)

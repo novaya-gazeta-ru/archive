@@ -19,8 +19,8 @@ tags: "омикрон, коронавирус, голикова, sn"
 
 — заявила она на рассмотрении законопроекта о QR-кодах в ходе заседания фракции «Единая Россия» в Госдуме
 
-Первые два случаи заражения «омикроном» — новым штаммом коронавируса — [зафиксировали](https://novayagazeta.ru/articles/2021/12/06/rospotrebnadzor-v-rossii-u-pribyvshikh-iz-iuar-zafiksirovali-dva-pervykh-sluchaia-zarazheniia-omikronom-news) в России несколько дней назад. Его выявили у пациентов, приехавших их ЮАР. Сейчас они находятся в обсерваторе.
+Первые два случаи заражения «омикроном» — новым штаммом коронавируса — [зафиксировали](2021/12/06/rospotrebnadzor-v-rossii-u-pribyvshikh-iz-iuar-zafiksirovali-dva-pervykh-sluchaia-zarazheniia-omikronom-news.md) в России несколько дней назад. Его выявили у пациентов, приехавших их ЮАР. Сейчас они находятся в обсерваторе.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/02/naskolko-strashen-omikron
+**Читайте также:** [Насколько страшен омикрон?](2021/12/02/naskolko-strashen-omikron.md)
 
-Впервые новый штамм B.1.1.529 обнаружили у больного в Ботсване, затем он распространился по всему миру и был выявлен во многих странах Европы. Всемирная организация здравоохранения (ВОЗ) [квалифицировала](https://novayagazeta.ru/articles/2021/11/26/voz-kvalifitsirovala-novyi-shtamm-koronavirusa-kak-vyzyvaiushchii-opaseniia-ego-oboznachili-bukvoi-omikron-news) его как «вызывающий опасения». Россия из-за «омикрона» с 28 ноября [приостановила](https://novayagazeta.ru/articles/2021/11/26/rossiia-ogranichit-aviasoobshchenie-s-riadom-stran-iz-za-rasprostraneniia-novogo-shtamma-kronovirusa-news) въезд на свою территорию из Гонконга и восьми южноафриканских стран.
+Впервые новый штамм B.1.1.529 обнаружили у больного в Ботсване, затем он распространился по всему миру и был выявлен во многих странах Европы. Всемирная организация здравоохранения (ВОЗ) [квалифицировала](2021/11/26/voz-kvalifitsirovala-novyi-shtamm-koronavirusa-kak-vyzyvaiushchii-opaseniia-ego-oboznachili-bukvoi-omikron-news.md) его как «вызывающий опасения». Россия из-за «омикрона» с 28 ноября [приостановила](2021/11/26/rossiia-ogranichit-aviasoobshchenie-s-riadom-stran-iz-za-rasprostraneniia-novogo-shtamma-kronovirusa-news.md) въезд на свою территорию из Гонконга и восьми южноафриканских стран.

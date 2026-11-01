@@ -23,6 +23,6 @@ tags: ""
 
 При этом убытки «Газпрома» за 9 месяцев 2024 года составили рекордные 300 млрд рублей, что следует из отчета самой компании. Убыток, по сути, был «бумажным» — обесценились нефинансовые активы компании, но, конечно, сказалось и отсутствие продаж на рынках Европы.
 
-На этом фоне, с одной стороны, «Газпром» объявил [о массовых увольнениях](https://novayagazeta.ru/articles/2025/01/13/gazprom-mozhet-sokratit-bolee-1600-sotrudnikov-radi-ekonomii-fonda-oplaty-truda-news) персонала — но с другой он инвестирует в строительство небоскребов в Лахта-Центре Петербурга и возводит [80-метровый триумфальный столп](https://novayagazeta.ru/articles/2025/01/04/gubernator-beglov-zapustil-stroitelstvo-82-metrovogo-triumfalnogo-stolpa-u-gazpromovskogo-lakhta-tsentra-news) в честь победы Петра I в Северной войне…
+На этом фоне, с одной стороны, «Газпром» объявил [о массовых увольнениях](2025/01/13/gazprom-mozhet-sokratit-bolee-1600-sotrudnikov-radi-ekonomii-fonda-oplaty-truda-news.md) персонала — но с другой он инвестирует в строительство небоскребов в Лахта-Центре Петербурга и возводит [80-метровый триумфальный столп](2025/01/04/gubernator-beglov-zapustil-stroitelstvo-82-metrovogo-triumfalnogo-stolpa-u-gazpromovskogo-lakhta-tsentra-news.md) в честь победы Петра I в Северной войне…
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/10/gaz-perekryt-na-ocheredi-neft
+**Читайте также:** [Газ перекрыт, на очереди нефть](2025/01/10/gaz-perekryt-na-ocheredi-neft.md)

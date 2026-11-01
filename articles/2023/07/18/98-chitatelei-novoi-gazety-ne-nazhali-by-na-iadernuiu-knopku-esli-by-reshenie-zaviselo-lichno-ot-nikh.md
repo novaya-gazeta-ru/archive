@@ -13,7 +13,7 @@ tags: "ядерное оружие, ядерное сдерживание"
 
 *Результаты телеграм-опроса, в котором приняли участие 15 тысяч человек*
 
-https://novayagazeta.ru/svg/23aa4a8f164c40529ae03e04f3912388.svg
+[https://novayagazeta.ru/svg/23aa4a8f164c40529ae03e04f3912388.svg](https://web.archive.org/web/*/https://novayagazeta.ru/svg/23aa4a8f164c40529ae03e04f3912388.svg)
 
 Впрочем, за последнее время мы заметили и другие инициативы.
 
@@ -29,4 +29,4 @@ https://novayagazeta.ru/svg/23aa4a8f164c40529ae03e04f3912388.svg
 >
 > Мы, члены Совета по внешней и оборонной политике, считаем такие предложения абсолютно неприемлемыми и безоговорочно осуждаем их.
 
-Такие оценцки от государственных экспертов выглядят почти фрондой. Читайте [полный текст заявления](https://novayagazeta.ru/articles/2023/07/18/o-prizyvakh-k-razviazyvaniiu-iadernoi-voiny). И мнение о том, [как понимать](https://novayagazeta.ru/articles/2023/07/18/malenkii-bunt-protiv-bolshogo-iadernogo-udara) этот документ сегодня.
+Такие оценцки от государственных экспертов выглядят почти фрондой. Читайте [полный текст заявления](2023/07/18/o-prizyvakh-k-razviazyvaniiu-iadernoi-voiny.md). И мнение о том, [как понимать](2023/07/18/malenkii-bunt-protiv-bolshogo-iadernogo-udara.md) этот документ сегодня.

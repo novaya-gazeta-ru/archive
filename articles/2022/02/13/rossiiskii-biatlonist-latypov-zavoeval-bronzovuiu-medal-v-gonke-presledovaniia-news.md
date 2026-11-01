@@ -17,8 +17,8 @@ tags: ""
 
 Эта медаль стала 15-ой для россиян в общем командном зачете. Всего на счету российской сборной четыре золотые, четыре серебряных и семь бронзовых медалей.
 
-Ранее российские лыжники [завоевали](https://novayagazeta.ru/articles/2022/02/13/sbornaia-rossii-zavoevala-olimpiiskoe-zoloto-v-muzhskoi-lyzhnoi-estafete-4kh10-km-news) золото в мужском этапе эстафетной гонки 4х10 км. Накануне и российские лыжницы [принесли](https://novayagazeta.ru/articles/2022/02/12/sbornaia-rossii-zavoevala-zolotuiu-medal-v-zhenskoi-lyzhnoi-estafete-4kh5-km-na-olimpiade-vpervye-s-2006-goda-news) команде золотую медаль, они пришли первыми в эстафете 4х5 км.
+Ранее российские лыжники [завоевали](2022/02/13/sbornaia-rossii-zavoevala-olimpiiskoe-zoloto-v-muzhskoi-lyzhnoi-estafete-4kh10-km-news.md) золото в мужском этапе эстафетной гонки 4х10 км. Накануне и российские лыжницы [принесли](2022/02/12/sbornaia-rossii-zavoevala-zolotuiu-medal-v-zhenskoi-lyzhnoi-estafete-4kh5-km-na-olimpiade-vpervye-s-2006-goda-news.md) команде золотую медаль, они пришли первыми в эстафете 4х5 км.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/12/iavlenie-vserossiiskoi-prukhi
+**Читайте также:** [Явление «всероссийской прухи»](2022/02/12/iavlenie-vserossiiskoi-prukhi.md)
 
 Всего в Играх принимают участие более четырех тысяч атлетов из 91 страны. В семи видах спорта разыгрываются 109 комплектов медалей. Олимпиада завершится 20 февраля.

@@ -13,6 +13,6 @@ tags: "армения, жкх, протесты"
 
 О том, что происходит в Ереване — читайте в материалах «Новой газеты» и специальных репортажах Дианы Хачатрян по ссылке:
 
-**link:** https://novayagazeta.ru/topics/152.html
+**link:** [https://novayagazeta.ru/topics/152.html](https://web.archive.org/web/*/https://novayagazeta.ru/topics/152.html)
 
-**link:** https://novayagazeta.ru/topics/152.html
+**link:** [https://novayagazeta.ru/topics/152.html](https://web.archive.org/web/*/https://novayagazeta.ru/topics/152.html)

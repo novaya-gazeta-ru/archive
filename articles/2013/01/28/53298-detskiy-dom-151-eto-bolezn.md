@@ -16,12 +16,12 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right" style="">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/01/28/1359385159_414080_89.jpg" style="width: 300px; height: 300px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/01/28/1359385159_414080_89.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/01/28/1359385159_414080_89.jpg)" style="width: 300px; height: 300px;"><br>
 				<sup>Клинический психолог Татьяна МОРОЗОВА&nbsp;</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right" style="">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/01/28/1359385159_693651_40.jpg" style="width: 300px; height: 388px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/01/28/1359385159_693651_40.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/01/28/1359385159_693651_40.jpg)" style="width: 300px; height: 388px;"><br>
 				<sup>Детский невролог Святослав ДОВБНЯ</sup></td>
 		</tr>
 		<tr>

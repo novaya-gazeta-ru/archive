@@ -41,4 +41,4 @@ tags: ""
 
 Интересный факт обнаружили благодаря декларации главы комитета Госдумы по информполитике **Сергея Боярского**. Депутат за один летний день 2025 года якобы купил сразу 6 земельных участков общей стоимостью почти 1 миллиард рублей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/21/izbirkom-peterburga-poterial-dokumenty-11-kandidatov-ot-iabloka-im-grozit-otkaz-v-registratsii-donesti-spravki-nelzia-news
+**Читайте также:** [Избирком Петербурга «потерял» документы 11 кандидатов от «Яблока». Им грозит отказ в регистрации — донести справки нельзя](2026/07/21/izbirkom-peterburga-poterial-dokumenty-11-kandidatov-ot-iabloka-im-grozit-otkaz-v-registratsii-donesti-spravki-nelzia-ne.md)

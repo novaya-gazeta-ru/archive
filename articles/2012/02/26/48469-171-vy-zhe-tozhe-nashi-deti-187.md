@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/02/26/1330266535_055935_34.jpg" style="width: 360px; height: 278px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/02/26/1330266535_055935_34.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/02/26/1330266535_055935_34.jpg)" style="width: 360px; height: 278px; "><br>
 				<sup>Фото: Валерия Гречина</sup></td>
 		</tr>
 	</tbody>]*

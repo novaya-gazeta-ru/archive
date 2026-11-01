@@ -15,7 +15,7 @@ tags: "авиакатастрофа, крушение, самолеты, фра�
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/03/30/1427712624_011871_85.png" style="width: 340px; height: 248px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/03/30/1427712624_011871_85.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/03/30/1427712624_011871_85.png)" style="width: 340px; height: 248px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Ministère de l'Intérieur / SIRPA-gendarmerie / F.BALSAMO</sup></td>
@@ -47,9 +47,9 @@ tags: "авиакатастрофа, крушение, самолеты, фра�
 
 ...Склоны гор, усеянные мелкими осколками, некоторые из которых дымились, увидел французский горный спасатель Жан-Себастьян Бод, когда его вертолет в 11:07 завис над местом падения «аэробуса». Целых тел нет: спасатели насчитают около 600 фрагментов. Было сразу ясно, что выживших не могло быть, рассказал он в интервью Bild.
 
-*[media: <p><a href="http://www.novayagazeta.ru/topics/144.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/03/27/1427457889_983361_2.png" style="width: 100px; height: 75px;"></a><span style="color:#B22222;"><strong>Следите за темой:</strong></span></p>
+*[media: <p><a href="[http://www.novayagazeta.ru/topics/144.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/topics/144.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/03/27/1427457889_983361_2.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/03/27/1427457889_983361_2.png)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;"><strong>Следите за темой:</strong></span></p>
 
-<p><a href="http://www.novayagazeta.ru/topics/144.html" target="_blank"><strong>Крушение A320 в Альпах</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/topics/144.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/topics/144.html)" target="_blank"><strong>Крушение A320 в Альпах</strong></a></p>]*
 
 «Мы прилетели туда и увидели сюрреалистическую картину. Мы, конечно, не привыкли иметь дело с таким количеством жертв», — делится впечатлениями бывалый спасатель.
 

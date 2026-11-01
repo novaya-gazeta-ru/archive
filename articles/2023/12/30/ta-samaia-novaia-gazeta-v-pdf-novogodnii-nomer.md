@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *Как выживала редакция «Новой» за время СВО, запрос на мир — главный итог года, а еще: рейтинг жестокости судей и проповеди отверженных священников*
 
-https://novayagazeta.ru/issues/3282
+[https://novayagazeta.ru/issues/3282](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3282)

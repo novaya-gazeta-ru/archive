@@ -21,6 +21,6 @@ tags: "германия , выборы, левые, kn"
 
 На прошедших 26 сентября парламентских выборах в ФРГ победила Социал-демократическая партия Германии, набрав 25,7% голосов. Вторую по численности фракцию в немецком парламенте сформирует блок Христианско-демократического и Христианско-социального союзов, за него свои голоса отдали 24,1% избирателей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/16/konets-merkelizma-chto-dalshe
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/16/konets-merkelizma-chto-dalshe](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/16/konets-merkelizma-chto-dalshe)
 
-В новом составе парламента ФРГ мандаты [распределились](https://novayagazeta.ru/articles/2021/09/27/sotsial-demokraty-vyigrali-parlamentskie-vybory-v-germanii-blok-merkel-s-nebolshim-otstavaniem-idet-vtorym-news) следующим образом: СДПГ получила 206 мест, ХДС/ХСС — 196, «Зеленые» — 118, Свободная демократическая партия — 92, «Альтернатива для Германии» — 83, «Левые» — 39, а Союз южношлезвигских избирателей — 1.
+В новом составе парламента ФРГ мандаты [распределились](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/27/sotsial-demokraty-vyigrali-parlamentskie-vybory-v-germanii-blok-merkel-s-nebolshim-otstavaniem-idet-vtorym-news) следующим образом: СДПГ получила 206 мест, ХДС/ХСС — 196, «Зеленые» — 118, Свободная демократическая партия — 92, «Альтернатива для Германии» — 83, «Левые» — 39, а Союз южношлезвигских избирателей — 1.

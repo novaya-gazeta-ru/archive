@@ -17,6 +17,6 @@ tags: "увольнение, метро, суды, sn"
 
 Это первый сотрудник московского метрополитена, которому удалось отстоять свои права в суде после массового увольнения с предприятия. Оно было связано с регистрацией некоторых работников на сайте «Свободу Навальному!» и участием в протестных митингах.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/05/15/protest-soshel-s-relsov
+**Читайте также:** [https://novayagazeta.ru/articles/2021/05/15/protest-soshel-s-relsov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/05/15/protest-soshel-s-relsov)
 
-Работы тогда [лишились](https://novayagazeta.ru/articles/2021/05/14/otkrytye-media-ne-menee-40-sotrudnikov-moskovskogo-metro-byli-uvoleny-iz-za-mitinga-v-podderzhku-navalnogo) не менее 40 сотрудников метрополитена: им предложили уволиться по соглашению сторон, а в случае отказа грозили расторгнуть трудовой договор по статье за прогулы, даже если их не было.
+Работы тогда [лишились](2021/05/14/otkrytye-media-ne-menee-40-sotrudnikov-moskovskogo-metro-byli-uvoleny-iz-za-mitinga-v-podderzhku-navalnogo.md) не менее 40 сотрудников метрополитена: им предложили уволиться по соглашению сторон, а в случае отказа грозили расторгнуть трудовой договор по статье за прогулы, даже если их не было.

@@ -21,4 +21,4 @@ tags: "sn, россия, коронавирус, вакцина"
 
 «КовиВак» стал третьей российской вакциной от коронавируса. Первым зарегистрировали препарат «Спутник V», разработанный центром имени Гамалеи, а следом в гражданский оборот поступила вакцина «ЭпиВакКорона» от центра «Вектор» Роспотребнадзора.
 
-**link:** https://novayagazeta.ru/articles/2021/02/18/89279-kolites-vam-govoryat
+**link:** [https://novayagazeta.ru/articles/2021/02/18/89279-kolites-vam-govoryat](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/02/18/89279-kolites-vam-govoryat)

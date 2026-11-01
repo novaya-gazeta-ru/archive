@@ -19,12 +19,12 @@ tags: "активисты, обыски, владивосток, волков, �
 
 Открытие штаба политика Алексея Навального во Владивостоке запланировано на 15 мая.
 
-**link:** https://novayagazeta.ru/news/2017/03/26/130159-na-antikorruptsionnom-mitinge-vo-vladivostoke-zaderzhali-bolee-30-chelovek
+**link:** [https://novayagazeta.ru/news/2017/03/26/130159-na-antikorruptsionnom-mitinge-vo-vladivostoke-zaderzhali-bolee-30-chelovek](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/03/26/130159-na-antikorruptsionnom-mitinge-vo-vladivostoke-zaderzhali-bolee-30-chelovek)
 
-Отметим, что открытия штабов политика не раз сопровождалось инцидентами. В Краснодаре во время пресс-конференции в штаб Навального [ворвалась](https://www.novayagazeta.ru/news/2017/04/20/130888-v-krasnodare-na-predvybornyy-shtab-navalnogo-napali-lyudi-v-forme-kazakov) толпа, одетых в форму казаков. Они устроили в помещении погром и скрылись.
+Отметим, что открытия штабов политика не раз сопровождалось инцидентами. В Краснодаре во время пресс-конференции в штаб Навального [ворвалась](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/04/20/130888-v-krasnodare-na-predvybornyy-shtab-navalnogo-napali-lyudi-v-forme-kazakov) толпа, одетых в форму казаков. Они устроили в помещении погром и скрылись.
 
 В ночь на 23 марта в Санкт-Петербурге неизвестные подожгли дверь в штаб Алексея Навального. В тот же день сторонники политика написали заявление в полицию.
 
-Ранее на открытии предвыборного штаба в Барнауле политика [облили](https://www.novayagazeta.ru/news/2017/03/20/129976-navalnogo-oblili-zelenkoy-na-otkrytii-predvybornogo-shtaba-v-barnaule) зеленкой.
+Ранее на открытии предвыборного штаба в Барнауле политика [облили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/03/20/129976-navalnogo-oblili-zelenkoy-na-otkrytii-predvybornogo-shtaba-v-barnaule) зеленкой.
 
-В Томске руководителю местного предвыборного штаба оппозиционера Алене Хлестуновой и ее заместителю Ксении Фадеевой [залили](https://www.novayagazeta.ru/news/2017/03/17/129927-rukovoditelyam-shtaba-navalnogo-v-tomske-zalili-penoy-dveri-kvartir) монтажной пеной двери квартир, облили краской, проткнули колеса и запенили выхлопные трубы машин.
+В Томске руководителю местного предвыборного штаба оппозиционера Алене Хлестуновой и ее заместителю Ксении Фадеевой [залили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/03/17/129927-rukovoditelyam-shtaba-navalnogo-v-tomske-zalili-penoy-dveri-kvartir) монтажной пеной двери квартир, облили краской, проткнули колеса и запенили выхлопные трубы машин.

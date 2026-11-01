@@ -24,4 +24,4 @@ tags: "украина, реакция, журналисты, иноагенты,
 - [Подписывайтесь](https://www.youtube.com/c/Продолжениеследует) на YouTube-канал «Продолжение следует»
 - [Telegram-канал](https://t.me/prodolzheniesleduetpodcast) [проекта](https://t.me/prodolzheniesleduetpodcast)
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/27/ia-ne-ianukovich-begat-nikuda-ne-budu
+**Читайте также:** [«Я не Янукович, бегать никуда не буду»](2021/11/27/ia-ne-ianukovich-begat-nikuda-ne-budu.md)

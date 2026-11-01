@@ -17,12 +17,12 @@ tags: "зачистка, беларусь , минюст, ликвидация, 
 
 Ранее Минюст [вынес](https://baj.by/be/content/minyust-vynes-bazhu-papyaredzhanne-i-patrabue-da-zautra-dac-adkaz-ofis-apyachatany) предупреждение БАЖ, в котором говорилось о том, что ассоциация не предоставила все запрошенные ранее документы, и что у министерства возникли вопросы к договорам для юридических адресов некоторых филиалов организации. 14 июля, когда силовики в Беларуси проводили массовые обыски у журналистов и правозащитников, дверь в офис Белорусской ассоциации журналистов выломали, а затем опечатали.
 
-При этом БАЖ [проинформировала](https://baj.by/be/content/minyust-podal-v-verhovnyy-sud-isk-o-likvidacii-belorusskoy-associacii-zhurnalistov) Минюст об отсутствии доступа к запрашиваемым документам. Силовики в феврале [пришли](https://novayagazeta.ru/articles/2021/02/16/167890-siloviki-prishli-s-obyskami-k-rukovoditelyam-belorusskoy-assotsiatsii-zhurnalistov-i-pravozaschitnikam-po-vsey-strane) с обысками к руководителям организации.
+При этом БАЖ [проинформировала](https://baj.by/be/content/minyust-podal-v-verhovnyy-sud-isk-o-likvidacii-belorusskoy-associacii-zhurnalistov) Минюст об отсутствии доступа к запрашиваемым документам. Силовики в феврале [пришли](2021/02/16/167890-siloviki-prishli-s-obyskami-k-rukovoditelyam-belorusskoy-assotsiatsii-zhurnalistov-i-pravozaschitnikam-po-vsey-st.md) с обысками к руководителям организации.
 
 «Белорусская ассоциация журналистов» — негосударственное объединение граждан, которые [занимаются](https://baj.by/ru/prabaj) профессиональной журналистской деятельностью либо содействуют ее развитию, отмечается на сайте организации.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/16/pridut-ko-vsem-u-kogo-est-dver
+**Читайте также:** [Придут ко всем, у кого есть дверь](2021/07/16/pridut-ko-vsem-u-kogo-est-dver.md)
 
-В июле белорусские силовики начали [приходить](https://novayagazeta.ru/articles/2021/07/09/belorusskie-siloviki-prishli-s-obyskom-k-zhurnalistke-izdaniia-onliner) с обысками к журналистам различных изданий, таких как Onliner, «Брестская газета», «Виртуальный Брест», «Наша Нива». Последняя накануне [сообщила](https://novayagazeta.ru/articles/2021/07/13/nasha-niva-prekratila-rabotu-v-belarusi-iz-za-davleniia-silovikov) о прекращении работы в стране из-за возросшего давления правоохранителей.
+В июле белорусские силовики начали [приходить](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/09/belorusskie-siloviki-prishli-s-obyskom-k-zhurnalistke-izdaniia-onliner) с обысками к журналистам различных изданий, таких как Onliner, «Брестская газета», «Виртуальный Брест», «Наша Нива». Последняя накануне [сообщила](2021/07/13/nasha-niva-prekratila-rabotu-v-belarusi-iz-za-davleniia-silovikov.md) о прекращении работы в стране из-за возросшего давления правоохранителей.
 
 Заместитель начальника следственного управления КГБ Беларуси Константин Бычек заявил, что в стране «осуществляется широкомасштабная операция по зачистке от радикально настроенных лиц».

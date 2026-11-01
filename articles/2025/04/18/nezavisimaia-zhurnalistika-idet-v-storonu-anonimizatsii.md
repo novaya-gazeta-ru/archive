@@ -155,6 +155,6 @@ tags: "медиазона, сергей смирнов, суды, донаты"
 
 Я вообще никогда не хотел уезжать и собирался жить всю жизнь в России. Для меня эмиграция — абсолютно неожиданная вещь, но при этом надо стараться адекватно оценивать возможности вернуться. Мне кажется, пока это не очень возможно.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/10/zaniatie-nezavisimoi-zhurnalistikoi-priravneno-k-ekstremizmu
+**Читайте также:** [https://novayagazeta.ru/articles/2025/04/10/zaniatie-nezavisimoi-zhurnalistikoi-priravneno-k-ekstremizmu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2025/04/10/zaniatie-nezavisimoi-zhurnalistikoi-priravneno-k-ekstremizmu)
 
 #### * Минюст внес в реестр «иностранных агентов».

@@ -13,7 +13,7 @@ tags: "палажченко, трамп, выбры в америке"
 
 *Чего ждать от команды нового президента США — объясняет Павел Палажченко*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/08/tramp-dal-polgoda-na-zavershenie-rossiisko-ukrainskogo-voennogo-konflikta-zaiavil-o-pretenziiakh-ssha-na-grenlandiiu-kanadu-panamskii-kanal-news
+**Читайте также:** [Трамп дал полгода на завершение российско-украинского военного конфликта, заявил о претензиях США на Гренландию, Канаду, Панамский канал](2025/01/08/tramp-dal-polgoda-na-zavershenie-rossiisko-ukrainskogo-voennogo-konflikta-zaiavil-o-pretenziiakh-ssha-na-grenlandiiu-kan.md)
 
 Павел Палажченко, специальный корреспондент «Новой газеты», делится своими впечатлениями о результатах американских выборов, анализирует ошибки демократов и объясняет, как Трамп смог привлечь избирателей, пострадавших от деиндустриализации.
 

@@ -13,7 +13,7 @@ tags: ""
 
 > **есть продолжение**
 >
-> **Посольство Сирии в Москве **[**подняло флаг повстанцев**](https://novayagazeta.ru/articles/2024/12/09/posolstvo-sirii-v-moskve-podnialo-flag-povstantsev-asad-s-semei-ukrylsia-v-rossii-ssha-i-izrail-nanesli-aviaudary-po-tseliam-v-sirii-glavnoe-news)**. Асад с семьей укрылся в России. США и Израиль нанесли авиаудары по целям в Сирии.**
+> **Посольство Сирии в Москве **[**подняло флаг повстанцев**](2024/12/09/posolstvo-sirii-v-moskve-podnialo-flag-povstantsev-asad-s-semei-ukrylsia-v-rossii-ssha-i-izrail-nanesli-aviaudary-po-tse.md)**. Асад с семьей укрылся в России. США и Израиль нанесли авиаудары по целям в Сирии.**
 
 ![](_assets/fc/fc258272491755de1aeb7a6e0b6a7abf.webp)
 
@@ -27,9 +27,9 @@ tags: ""
 
 Ранее к диалогу с Турцией Асада призвал и Иран, глава МИД которого встретился с турецким коллегой в Анкаре в начале декабря.
 
-Семью Асада открыто призвали покинуть страну власти Египта и Иордании, рассказал Wall Street Journal. А «Новая» на днях рассказывала, что семья Асада [уже может быть в России](https://novayagazeta.ru/articles/2024/12/02/vrag-moego-vraga). По крайней мере, старший сын Асада на днях [защитил диссертацию](https://novayagazeta.ru/articles/2024/12/04/syn-bashara-asada-zashchitil-v-mgu-kandidatskuiu-dissertatsiiu-news) в МГУ.
+Семью Асада открыто призвали покинуть страну власти Египта и Иордании, рассказал Wall Street Journal. А «Новая» на днях рассказывала, что семья Асада [уже может быть в России](2024/12/02/vrag-moego-vraga.md). По крайней мере, старший сын Асада на днях [защитил диссертацию](2024/12/04/syn-bashara-asada-zashchitil-v-mgu-kandidatskuiu-dissertatsiiu-news.md) в МГУ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/02/vrag-moego-vraga
+**Читайте также:** [Враг моего врага](2024/12/02/vrag-moego-vraga.md)
 
 Россия — а, кроме нее, еще Иран — вот и все союзники режима Асада. После разгрома признанного террористическим «Исламского государства», в котором Россия выступала по одну сторону с коалицией стран НАТО, Асаду тогда удалось сохранить влияние в стране, раздираемой гражданской войной, только при активной поддержке России.
 

@@ -17,20 +17,20 @@ tags: "google, блокировка, блокировка сайтов, дуро
 
 Рогозов отметил, что «уже сейчас end-to-end шифрование начинает использоваться повсеместно».  «Мы верим, что стремление к безопасному общению интернет-пользователей не станет причиной исчезновения средств коммуникации. Прогресс неостановим», — подчеркнул он.
 
-**link:** https://novayagazeta.ru/articles/2018/04/26/76318-roskomnadzor-slomal-runet
+**link:** [Роскомнадзор сломал Рунет](2018/04/26/76318-roskomnadzor-slomal-runet.md)
 
 Он также пояснил, что end-to-end — это «шифрование, которое происходит на конечном устройстве пользователя. Передача каких-либо ключей и получение доступа к информации за пределами устройства невозможна по определению. Так работают большинство ведущих сервисов обмена сообщениями в мире. Оконечное шифрование позволяет обеспечить конфиденциальность разговоров и защиту от получения к ним доступа третьей стороной».
 
 Представитель компании рассказал, что из-за действий Роскомнадзора соцсети «пришлось отключить интеграцию сервиса ReCaptcha, который „ВКонтакте“ использует для борьбы со спамом, и поддержку технологии AMP, позволяющей мгновенно открывать внешние страницы в наших мобильных приложениях».
 
-**link:** https://novayagazeta.ru/articles/2018/04/26/76319-vlasti-molchat-a-panika-narastaet
+**link:** [«Власти молчат, а паника нарастает!»](2018/04/26/76319-vlasti-molchat-a-panika-narastaet.md)
 
-Ранее в «Яндексе» [заявили](https://www.novayagazeta.ru/news/2018/04/27/141297-yandeks-blokirovka-telegram-yavlyaetsya-udarom-po-vsemu-runetu), что блокировка Telegram стала «ударом по всему рунету». «Мы не считаем эту ситуацию нормальной. Российский рынок может развиваться только в условиях открытой конкуренции», — заявили в компании.
+Ранее в «Яндексе» [заявили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/04/27/141297-yandeks-blokirovka-telegram-yavlyaetsya-udarom-po-vsemu-runetu), что блокировка Telegram стала «ударом по всему рунету». «Мы не считаем эту ситуацию нормальной. Российский рынок может развиваться только в условиях открытой конкуренции», — заявили в компании.
 
-В ночь на 27 апреля Роскомнадзор [добавил](https://www.novayagazeta.ru/news/2018/04/27/141290-roskomnadzor-zablokiroval-ip-adresa-twitter-vkonatkte-yandeks-i-facebook) в реестр запрещенных сайтов IP-адреса Twitter, «ВКонтакте», Facebook, «Одноклассников», Yahoo и пять адресов «Яндекса». Пользователи этих ресурсов временно лишились доступа к ним. Утром Роскомнадзор [удалил](http://www.novayagazeta.ru/news/2018/04/27/141293-roskomnadzor-udalil-iz-reestra-zapreschennyh-saytov-ip-adresa-yandeksa-vkontakte-i-odnoklassnikov) эти адреса из реестра.
+В ночь на 27 апреля Роскомнадзор [добавил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/04/27/141290-roskomnadzor-zablokiroval-ip-adresa-twitter-vkonatkte-yandeks-i-facebook) в реестр запрещенных сайтов IP-адреса Twitter, «ВКонтакте», Facebook, «Одноклассников», Yahoo и пять адресов «Яндекса». Пользователи этих ресурсов временно лишились доступа к ним. Утром Роскомнадзор [удалил](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/2018/04/27/141293-roskomnadzor-udalil-iz-reestra-zapreschennyh-saytov-ip-adresa-yandeksa-vkontakte-i-odnoklassnikov) эти адреса из реестра.
 
-**link:** https://novayagazeta.ru/articles/2018/04/24/76294-vtorzhenie-kibervandalov
+**link:** [Вторжение кибервандалов](2018/04/24/76294-vtorzhenie-kibervandalov.md)
 
-Роскомнадзор с середины апреля пытается заблокировать мессенджер Telegram Павла Дурова, однако у него ничего не выходит. Мессенджер, хоть и с перебоями, но работает. Однако из-за блокировок возникли проблемы у российских сайтов, которые используют облачные IP-адреса Amazon и Google, с воскресенья с перебоями работают и основные сервисы Google. Компания-разработчик программного обеспечения Flexbby [оценила](https://www.novayagazeta.ru/news/2018/04/26/141268-uscherb-biznesa-iz-za-blokirovki-telegram-otsenili-v-2-mlrd) суммарный ущерб бизнеса в $2 млрд.
+Роскомнадзор с середины апреля пытается заблокировать мессенджер Telegram Павла Дурова, однако у него ничего не выходит. Мессенджер, хоть и с перебоями, но работает. Однако из-за блокировок возникли проблемы у российских сайтов, которые используют облачные IP-адреса Amazon и Google, с воскресенья с перебоями работают и основные сервисы Google. Компания-разработчик программного обеспечения Flexbby [оценила](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/04/26/141268-uscherb-biznesa-iz-za-blokirovki-telegram-otsenili-v-2-mlrd) суммарный ущерб бизнеса в $2 млрд.
 
-Юристы проекта «Роскомсвобода» [призвали](https://www.novayagazeta.ru/news/2018/04/24/141226-roskomsvoboda-prizvala-zhalovatsya-na-blokirovki-roskomnadzora-v-mvd) пользователей интернета, пострадавших от действий Роскомнадзора, писать жалобы в МВД. 30 апреля в Москве [состоится](https://www.novayagazeta.ru/news/2018/04/26/141283-vlasti-moskvy-soglasovali-provedenie-mitinga-protiv-blokirovki-telegram) митинг против блокировки Telegram.
+Юристы проекта «Роскомсвобода» [призвали](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/04/24/141226-roskomsvoboda-prizvala-zhalovatsya-na-blokirovki-roskomnadzora-v-mvd) пользователей интернета, пострадавших от действий Роскомнадзора, писать жалобы в МВД. 30 апреля в Москве [состоится](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/04/26/141283-vlasti-moskvy-soglasovali-provedenie-mitinga-protiv-blokirovki-telegram) митинг против блокировки Telegram.

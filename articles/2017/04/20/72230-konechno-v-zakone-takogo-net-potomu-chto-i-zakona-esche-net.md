@@ -33,7 +33,7 @@ tags: "пятиэтажки, снос, москва, муниципальные 
 
 **Анастасия Бордунова**
 
-**link:** https://novayagazeta.ru/articles/2017/04/01/71989-zdes-u-menya-poyavilas-koshka-i-konchilos-detstvo
+**link:** [«Здесь у меня появилась кошка и кончилось детство»](2017/04/01/71989-zdes-u-menya-poyavilas-koshka-i-konchilos-detstvo.md)
 
 # Текстильщики
 
@@ -87,7 +87,7 @@ tags: "пятиэтажки, снос, москва, муниципальные 
 
 **Елена Костюченко**
 
-**link:** https://novayagazeta.ru/articles/2017/04/20/72227-bolshinstvo-avtorov-zakonoproekta-o-snose-pyatietazhek-ego-dazhe-ne-chitali
+**link:** [«Большинство «авторов» законопроекта о сносе пятиэтажек его даже не читали»](2017/04/20/72227-bolshinstvo-avtorov-zakonoproekta-o-snose-pyatietazhek-ego-dazhe-ne-chitali.md)
 
 # Красная Пресня
 
@@ -217,7 +217,7 @@ tags: "пятиэтажки, снос, москва, муниципальные 
 
 — Уже проводится обзвон по домам, которые, возможно, будут включены в программу. Он проводиться будет до 10 мая. Мнения всех жильцов учтем.
 
-**link:** https://novayagazeta.ru/articles/2017/04/06/72044-chetyrnadtsat-tezisov-inzhenera-samoshina
+**link:** [Четырнадцать тезисов инженера Самошина](2017/04/06/72044-chetyrnadtsat-tezisov-inzhenera-samoshina.md)
 
 Одна из жительниц кирпичной пятиэтажки Ольга удивленно пожимает плечами:
 

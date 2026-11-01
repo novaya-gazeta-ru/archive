@@ -17,14 +17,14 @@ tags: "чечня, телеграм-каналы, правозащитники, 
 
 Правозащитник предположил, что их могли «силой вывезти для записи видео, на котором они будут оскорблять и ругать нашу семью». По словам Янгулбаева, родственники были на связи до того, как его мать Зарему Мусаев насильно вывезли из Нижнего Новгорода.
 
-В декабре Янгулбаев [рассказывал](https://novayagazeta.ru/articles/2021/12/28/v-piatigorske-iurista-komiteta-protiv-pytok-dostavili-v-politsiiu-posle-obyska-ranee-on-rasskazal-o-propazhe-okolo-40-svoikh-rodstvennikov-v-chechne-news) о пропаже около 40 своих родственников в Чечне. Тогда юрист предположил, что это может быть связано с его профессиональной деятельностью или с тем, что власти Чечни подозревают его в причастности к телеграм-каналу «Адат».
+В декабре Янгулбаев [рассказывал](2021/12/28/v-piatigorske-iurista-komiteta-protiv-pytok-dostavili-v-politsiiu-posle-obyska-ranee-on-rasskazal-o-propazhe-okolo-40-sv.md) о пропаже около 40 своих родственников в Чечне. Тогда юрист предположил, что это может быть связано с его профессиональной деятельностью или с тем, что власти Чечни подозревают его в причастности к телеграм-каналу «Адат».
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takogo-ne-mozhet-byt
+**Читайте также:** [«Я поняла, что это чеченцы, так как давно работаю в Чечне»](2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takog.md)
 
-В четверг в нижегородскую квартиру отца правозащитника — Сайди Янгулбаева — [пришли](https://novayagazeta.ru/articles/2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takogo-ne-mozhet-byt) представители чеченского ГУ МВД по городу Грозному. Силовики пытались похитить не только жену Янгулбаева Зарему Мусаеву, но и его самого.
+В четверг в нижегородскую квартиру отца правозащитника — Сайди Янгулбаева — [пришли](2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takog.md) представители чеченского ГУ МВД по городу Грозному. Силовики пытались похитить не только жену Янгулбаева Зарему Мусаеву, но и его самого.
 
 В итоге полицейские увезли жену Янгулбаева Зарему Мусаеву, страдающую диабетом второго типа, без одежды и необходимых лекарств. По словам правозащитников, супруге Янгулбаева необходимо делать уколы инсулина пять раз в день. В эфире «Дождя»* Янгулбаев-младший [сообщил](https://tvrain.ru/news/syn_pohischennoj_chechenskimi_silovikami_zhenschiny_zajavil_chto_k_nej_ne_puskajut_advokata-546335/), что адвоката к матери не пускают.
 
-Евросоюз [призывал](https://novayagazeta.ru/articles/2022/01/23/evrosoiuz-prizval-rossiiskie-vlasti-osvobodit-zhenu-federalnogo-sudi-nasilno-vyvezennuiu-v-chechniu-news) российские власти освободить Зарему Мусаеву.
+Евросоюз [призывал](2022/01/23/evrosoiuz-prizval-rossiiskie-vlasti-osvobodit-zhenu-federalnogo-sudi-nasilno-vyvezennuiu-v-chechniu-news.md) российские власти освободить Зарему Мусаеву.
 
 #### * внесены Минюстом в список СМИ, выполняющих функцию иностранного агента

@@ -19,6 +19,6 @@ tags: "ng, ройзман, арест, суд, екатеринбург"
 
 Всего на Ройзмана составили три административных протокола о нарушениях митингового законодательства из-за акций в поддержку Навального: два протокола — по статье об организации акций 31 января и 21 апреля (ч. 2 ст. 20.2 КоАП), третий — за участие в митинге 21 апреля (ч. 5 ст. 20.2 КоАП). По словам адвоката, все заседания должны пройти сегодня, 12 мая.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/26/pervyi-priznak-prilichnogo-cheloveka
+**Читайте также:** [«Первый признак приличного человека»](2021/03/26/pervyi-priznak-prilichnogo-cheloveka.md)
 
-О том, что Ройзмана вызвали в полицию для составления протокола об организации митинга, [стало](https://novayagazeta.ru/articles/2021/05/11/eks-mera-ekaterinburga-roizmana-vyzvali-v-politsiiu-dlia-sostavleniia-protokola-ob-organizatsii-mitinga) известно накануне. Ранее политика уже [привлекали](https://novayagazeta.ru/articles/2021/03/26/sud-v-ekaterinburge-oshtrafoval-evgeniia-roizmana-za-aktsiiu-v-podderzhku-navalnogo) к административной отвественности из-за январских акций в поддержку Навального, в совокупности он получил 40 тысяч рублей штрафа.
+О том, что Ройзмана вызвали в полицию для составления протокола об организации митинга, [стало](2021/05/11/eks-mera-ekaterinburga-roizmana-vyzvali-v-politsiiu-dlia-sostavleniia-protokola-ob-organizatsii-mitinga.md) известно накануне. Ранее политика уже [привлекали](2021/03/26/sud-v-ekaterinburge-oshtrafoval-evgeniia-roizmana-za-aktsiiu-v-podderzhku-navalnogo.md) к административной отвественности из-за январских акций в поддержку Навального, в совокупности он получил 40 тысяч рублей штрафа.

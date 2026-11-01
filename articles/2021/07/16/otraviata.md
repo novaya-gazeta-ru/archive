@@ -27,7 +27,7 @@ Grange Park Opera небольшой оперный театр, основанн
 
 > попав на первую репетицию, я пришла в восторг от того, как огромный оркестр удивительно точно передавал нашу жизнь», — признается вдова Александра Литвиненко.
 
-**Есть продолжение:** https://novayagazeta.ru/articles/2021/07/17/lugovoi-skazal-chto-operu-napisali-zapadnye-spetssluzhby-nu-a-kto-eshche
+**Есть продолжение:** [«Луговой сказал, что оперу написали западные спецслужбы. Ну а кто еще?!»](2021/07/17/lugovoi-skazal-chto-operu-napisali-zapadnye-spetssluzhby-nu-a-kto-eshche.md)
 
 # **Действующие лица и исполнители оперы**
 

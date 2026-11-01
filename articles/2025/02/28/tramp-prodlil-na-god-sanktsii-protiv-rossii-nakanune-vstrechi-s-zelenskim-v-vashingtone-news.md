@@ -19,6 +19,6 @@ tags: ""
 
 > после подписания договора о совместном использовании редкоземельных металлов Украины с Зеленским, допускают приход американских компаний на украинскую землю. Трамп назвал это лучшей гарантией долгосрочного перемирия.
 
-Санкции против России в третью годовщину начала военных действий [ввел Евросоюз](https://novayagazeta.ru/articles/2025/02/24/es-vvel-sanktsii-protiv-milliardera-vladimira-evtushenkova-propagandistki-kristiny-potupchik-i-aktera-mikhaila-galustiana-news).
+Санкции против России в третью годовщину начала военных действий [ввел Евросоюз](2025/02/24/es-vvel-sanktsii-protiv-milliardera-vladimira-evtushenkova-propagandistki-kristiny-potupchik-i-aktera-mikhaila-galustian.md).
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/26/kak-peretrampit-trampa
+**Читайте также:** [Как перетрампить Трампа](2025/02/26/kak-peretrampit-trampa.md)

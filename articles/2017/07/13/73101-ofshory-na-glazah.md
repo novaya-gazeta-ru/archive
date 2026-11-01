@@ -41,7 +41,7 @@ tags: "патриотизм, иностранный агент, кипр, офш
 
 Основная цель комиссии Климова — анализировать деятельность иностранных государств и предлагать законодательные инициативы по защите от их «враждебной активности» и «нагнетания протестных настроений» с помощью СМИ, НКО и других «агентов влияния».
 
-**link:** https://novayagazeta.ru/articles/2017/06/28/72946-v-sovfede-zadumalis-o-blokirovke-inostrannyh-russkoyazychnyh-smi
+**link:** [https://novayagazeta.ru/articles/2017/06/28/72946-v-sovfede-zadumalis-o-blokirovke-inostrannyh-russkoyazychnyh-smi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/06/28/72946-v-sovfede-zadumalis-o-blokirovke-inostrannyh-russkoyazychnyh-smi)
 
 В силу того, что независимых и неподконтрольных властям СМИ на территории России почти не осталось, сенаторы решили взяться и за иностранные СМИ, пишущие на русском.
 

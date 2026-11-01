@@ -31,4 +31,4 @@ tags: "якутия, пожары, sf"
 
 По [данным](https://tass.ru/proisshestviya/12102687) на 11 августа, в Красноярском крае более 900 населенных пунктов задымлены из–за лесных пожаров в Якутии.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/10/mikroraion-ogon-sozhral-za-15-minut
+**Читайте также:** [«Микрорайон огонь сожрал за 15 минут»](2021/08/10/mikroraion-ogon-sozhral-za-15-minut.md)

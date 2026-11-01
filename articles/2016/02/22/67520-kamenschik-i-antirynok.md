@@ -37,9 +37,9 @@ tags: "абсурд, арест, домодедово, силовики"
 
 Сразу после теракта тогдашний президент Дмитрий Медведев заявил, что в теракте виновата служба безопасности аэропорта «Домодедово», беспрепятственно пустившая террориста в зал прилетов и не остановившая его у рамки металлоискателя, стоящей у входа в аэропорт.
 
-**link:** https://novayagazeta.ru/society/71880.html
+**link:** [https://novayagazeta.ru/society/71880.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/71880.html)
 
-**link:** https://novayagazeta.ru/society/71880.html
+**link:** [https://novayagazeta.ru/society/71880.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/71880.html)
 
 Заявление президента Медведева противоречило международной практике, здравому смыслу и действовавшим на тот момент российским законам и подзаконным актам.
 

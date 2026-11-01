@@ -27,6 +27,6 @@ tags: "сбой, вконтакте, ростелеком, мтс, em"
 
 Причины сбоев пока неизвестны. ТАСС во «ВКонтакте» [сообщили](https://tass.ru/obschestvo/13623839), что восстанавливают работу соцсети.
 
-В конце декабря прошлого года пользователи из России, Украины и Беларуси [сообщили](https://novayagazeta.ru/articles/2021/12/27/v-rabote-telegram-proizoshel-masshtabnyi-sboi-polzovateli-iz-rossii-ukrainy-i-belarusi-soobshchaiut-o-nepoladkakh-news) о масштабном сбое в работе мессенджера Telegram. До этого, в начале октября по всему миру [произошел](https://novayagazeta.ru/articles/2021/10/05/rabota-sotssetei-normalizovalas-v-facebook-sviazali-sboi-s-izmeneniiami-konfiguratsii-magistralnykh-marshrutizatorov-news) сбой сервисов Facebook Inc. Он продлился около 6-7 часов и стал крупнейшим в истории компании.
+В конце декабря прошлого года пользователи из России, Украины и Беларуси [сообщили](2021/12/27/v-rabote-telegram-proizoshel-masshtabnyi-sboi-polzovateli-iz-rossii-ukrainy-i-belarusi-soobshchaiut-o-nepoladkakh-news.md) о масштабном сбое в работе мессенджера Telegram. До этого, в начале октября по всему миру [произошел](2021/10/05/rabota-sotssetei-normalizovalas-v-facebook-sviazali-sboi-s-izmeneniiami-konfiguratsii-magistralnykh-marshrutizatorov-new.md) сбой сервисов Facebook Inc. Он продлился около 6-7 часов и стал крупнейшим в истории компании.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/06/razryv-pupoviny
+**Читайте также:** [«Разрыв пуповины»](2021/10/06/razryv-pupoviny.md)

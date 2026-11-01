@@ -13,7 +13,7 @@ tags: "кыргызстан, выборы"
 
 *Похороны мумии, война компроматов и дальнобойщики с удочкой. Видеоколонка*
 
-**link:** https://novayagazeta.ru/articles/2017/10/17/74230-vybiray-ne-vybiray-pobedit-sooronbay
+**link:** [«Выбирай не выбирай — победит Сооронбай»](2017/10/17/74230-vybiray-ne-vybiray-pobedit-sooronbay.md)
 
 «Выбирай не выбирай — победит Сооронбай»
 

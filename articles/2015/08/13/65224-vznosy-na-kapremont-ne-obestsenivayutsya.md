@@ -39,9 +39,9 @@ tags: "жкх, степашин, экономика"
 
 **С.С.:** Да, и это очень большая проблема.
 
-**link:** https://novayagazeta.ru/society/69451.html
+**link:** [https://novayagazeta.ru/society/69451.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/69451.html)
 
-**link:** https://novayagazeta.ru/society/69451.html
+**link:** [https://novayagazeta.ru/society/69451.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/69451.html)
 
 **—Вы говорите, что нельзя обманывать граждан. А что бы вы им предложили в нынешней ситуации?**
 
@@ -73,9 +73,9 @@ tags: "жкх, степашин, экономика"
 
 **К.Ц.:** Да, это принцип отложенного платежа. Важно отметить, что платеж привязан не к человеку, а к жилому помещению, то есть при смене собственника выплаченные деньги остаются «в доме».
 
-**link:** https://novayagazeta.ru/economy/69342.html
+**link:** [https://novayagazeta.ru/economy/69342.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/69342.html)
 
-**link:** https://novayagazeta.ru/economy/69342.html
+**link:** [https://novayagazeta.ru/economy/69342.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/69342.html)
 
 **—Но отчисления в пенсионный фонд платятся от дохода, если человек не зарабатывает, то он и не платит. А что делать, если нет объективной возможности отчислять деньги на капремонт?**
 

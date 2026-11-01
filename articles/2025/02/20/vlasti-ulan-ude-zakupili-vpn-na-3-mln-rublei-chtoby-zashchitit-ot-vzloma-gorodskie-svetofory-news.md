@@ -21,8 +21,8 @@ VPN нужен, чтобы защитить 87 светофоров Улан-У�
 
 > Роскомнадзор получил право самостоятельно принимать решение блокировать ресурсы, где описываются способы обхода ограничений.
 
-В ноябре РКН запретил любую «научную информацию» про VPN, но [разрешил](https://novayagazeta.ru/articles/2024/11/21/rkn-zapretil-nauchnuiu-informatsiiu-pro-vpn-no-razreshil-rasskazyvat-o-ego-ispolzovanii-dlia-zashchishchennogo-udalennogo-dostupa-news) такие сервисы для корпоративных целей.
+В ноябре РКН запретил любую «научную информацию» про VPN, но [разрешил](2024/11/21/rkn-zapretil-nauchnuiu-informatsiiu-pro-vpn-no-razreshil-rasskazyvat-o-ego-ispolzovanii-dlia-zashchishchennogo-udalennog.md) такие сервисы для корпоративных целей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/25/slovo-iz-trekh-bukv
+**Читайте также:** [Слово из трех букв](2024/11/25/slovo-iz-trekh-bukv.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/20/v-peterburge-ulichnye-kamery-nauchat-raspoznavat-etnicheskuiu-identichnost-lits-smolnyi-news
+**Читайте также:** [В Петербурге уличные камеры научат распознавать «этническую идентичность» лиц — Смольный](2025/02/20/v-peterburge-ulichnye-kamery-nauchat-raspoznavat-etnicheskuiu-identichnost-lits-smolnyi-news.md)

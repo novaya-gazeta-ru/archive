@@ -23,11 +23,11 @@ tags: "ng, сми, проект, баданин"
 
 Баданин уже обучался журналистике в Стэнфордском университете в 2017-2018 годах, после того как получил стипендию, и именно во время этой программы он решил создать «Проект».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/16/shest-let-za-proekt
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/16/shest-let-za-proekt](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/16/shest-let-za-proekt)
 
-Генпрокуратура 15 июля [признала](https://novayagazeta.ru/articles/2021/07/16/proekt-obiavil-o-likvidatsii-iurlitsa-priznannogo-nezhelatelnym-izdanie-prodolzhit-rabotu) деятельность компании Project Media, Inc. «нежелательной» на территории России. Параллельно с этим Минюст [внес](https://minjust.gov.ru/ru/documents/7755/) в реестр СМИ, выполняющих функции иностранного агента, журналистов «Проекта», включая главреда Баданина.
+Генпрокуратура 15 июля [признала](2021/07/16/proekt-obiavil-o-likvidatsii-iurlitsa-priznannogo-nezhelatelnym-izdanie-prodolzhit-rabotu.md) деятельность компании Project Media, Inc. «нежелательной» на территории России. Параллельно с этим Минюст [внес](https://minjust.gov.ru/ru/documents/7755/) в реестр СМИ, выполняющих функции иностранного агента, журналистов «Проекта», включая главреда Баданина.
 
-В конце июля Баданин и редактор издания Михаил Рубин** [объявили](https://novayagazeta.ru/articles/2021/07/29/redaktory-proekta-roman-badanin-i-mikhail-rubin-zaiavili-chto-ne-planiruiut-vozvrashchatsia-v-rossiiu-i-evakuiruiut-ostalnykh-zhurnalistov-izdaniia) об эвакуации своих сотрудников из России. Сами они находятся за рубежом и пока не планируют возвращаться на родину.
+В конце июля Баданин и редактор издания Михаил Рубин** [объявили](2021/07/29/redaktory-proekta-roman-badanin-i-mikhail-rubin-zaiavili-chto-ne-planiruiut-vozvrashchatsia-v-rossiiu-i-evakuiruiut-osta.md) об эвакуации своих сотрудников из России. Сами они находятся за рубежом и пока не планируют возвращаться на родину.
 
 #### *Генпрокуратура признала организацию «нежелательной» на территории РФ
 

@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *На обложке — Ил-22, сбитый ЧВК «Вагнера» в Воронежской области. Отвечаем на вопросы о пригожинском мятеже*
 
-https://novayagazeta.ru/issues/3257
+[https://novayagazeta.ru/issues/3257](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3257)

@@ -13,4 +13,4 @@ tags: "воронеж, пожары"
 
 В результате пожара в психоневрологическом интернате в Воронежской области погибли 23 человека. «Новая газета» публикует фотографии интерната, сделанные в июле 2011 года.
 
-**link:** https://novayagazeta.ru/news/1698711.html
+**link:** [https://novayagazeta.ru/news/1698711.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1698711.html)

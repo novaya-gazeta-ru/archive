@@ -27,8 +27,8 @@ tags: ""
 
 Эти свидетельства нужны для постановки нового спектакля. Отряд Жени Беркович собирается ставить его к 9 мая, уже «без мест и конкурсов».
 
-Женю Беркович и драматурга Светлану Петрийчук в июле 2024 года [приговорили](https://novayagazeta.ru/articles/2024/07/08/sudia-oglasil-prigovor-zhene-berkovich-i-svetlane-petriichuk-po-6-let-kolonii-stolko-i-zaprashivala-prokuror-news) к 6 годам колонии по делу об «оправдании терроризма» в спектакле «Финист Ясный Сокол» (который получил две премии «Золотая Маска»). Процесс закрыли от публики после выступления свидетелей обвинения.
+Женю Беркович и драматурга Светлану Петрийчук в июле 2024 года [приговорили](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/07/08/sudia-oglasil-prigovor-zhene-berkovich-i-svetlane-petriichuk-po-6-let-kolonii-stolko-i-zaprashivala-prokuror-news) к 6 годам колонии по делу об «оправдании терроризма» в спектакле «Финист Ясный Сокол» (который получил две премии «Золотая Маска»). Процесс закрыли от публики после выступления свидетелей обвинения.
 
-В феврале 2025 года Беркович [этапировали](https://novayagazeta.ru/articles/2025/02/06/rezhissera-zheniu-berkovich-etapirovali-iz-moskvy-v-ik-3-kostromskoi-oblasti-advokat-news) из СИЗО в костромскую ИК-3. Светлану Петрийчук [отправили](https://novayagazeta.ru/articles/2025/02/21/svetlanu-petriichuk-etapirovali-v-mozhaiskuiu-zhenskuiu-ik-5-v-moskovskoi-oblasti-news) в другую колонию — можайскую ИК-5.
+В феврале 2025 года Беркович [этапировали](2025/02/06/rezhissera-zheniu-berkovich-etapirovali-iz-moskvy-v-ik-3-kostromskoi-oblasti-advokat-news.md) из СИЗО в костромскую ИК-3. Светлану Петрийчук [отправили](2025/02/21/svetlanu-petriichuk-etapirovali-v-mozhaiskuiu-zhenskuiu-ik-5-v-moskovskoi-oblasti-news.md) в другую колонию — можайскую ИК-5.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/07/09/svetlana-i-zhenia-skazali-chto-nikogda-ne-priznaiutsia-v-tom-chego-ne-sovershali
+**Читайте также:** [https://novayagazeta.ru/articles/2024/07/09/svetlana-i-zhenia-skazali-chto-nikogda-ne-priznaiutsia-v-tom-chego-ne-sovershali](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/07/09/svetlana-i-zhenia-skazali-chto-nikogda-ne-priznaiutsia-v-tom-chego-ne-sovershali)

@@ -23,8 +23,8 @@ tags: "москва, локдаун, коронавирусные огранич
 
 «Регионы будут сами принимать решение о введении ограничительных мер, исходя из эпидемиологической ситуации», — сообщил источник «Интерфакса». — «Система здравоохранения на данном этапе справляется».
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/15/omikron-prishel-v-stolitsy
+**Читайте также:** [https://novayagazeta.ru/articles/2022/01/15/omikron-prishel-v-stolitsy](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/01/15/omikron-prishel-v-stolitsy)
 
-За последние сутки в России [выявили](https://novayagazeta.ru/articles/2022/01/17/v-rossii-vyiavili-30-726-novykh-sluchaev-zarazheniia-koronavirusom-eto-maksimum-s-nachala-dekabria-news) 30 726 новых случаев заражения коронавирусом — это максимум с начала года. В Москве за сутки COVID-19 выявили у 7529 человек (на 1049 больше, чем накануне).
+За последние сутки в России [выявили](2022/01/17/v-rossii-vyiavili-30-726-novykh-sluchaev-zarazheniia-koronavirusom-eto-maksimum-s-nachala-dekabria-news.md) 30 726 новых случаев заражения коронавирусом — это максимум с начала года. В Москве за сутки COVID-19 выявили у 7529 человек (на 1049 больше, чем накануне).
 
-17 января совет Госдумы единогласно [снял](https://novayagazeta.ru/articles/2022/01/17/sovet-gosdumy-snial-s-rassmotreniia-zakonoproekt-ot-qr-kodakh-news) с рассмотрения законопроект о введении QR-кодов в общественных местах. Накануне правительство [отложило](https://novayagazeta.ru/articles/2022/01/14/seichas-novye-vyzovy-pravitelstvo-otlozhilo-rassmotrenie-zakonoproekta-o-qr-kodakh-news) рассмотрение законопроекта о QR-кодах во втором чтении. Вице-премьер Татьяна Голикова сказала, что решение было принято в связи с «высокой неопределенностью развития эпидемиологической ситуации».
+17 января совет Госдумы единогласно [снял](2022/01/17/sovet-gosdumy-snial-s-rassmotreniia-zakonoproekt-ot-qr-kodakh-news.md) с рассмотрения законопроект о введении QR-кодов в общественных местах. Накануне правительство [отложило](2022/01/14/seichas-novye-vyzovy-pravitelstvo-otlozhilo-rassmotrenie-zakonoproekta-o-qr-kodakh-news.md) рассмотрение законопроекта о QR-кодах во втором чтении. Вице-премьер Татьяна Голикова сказала, что решение было принято в связи с «высокой неопределенностью развития эпидемиологической ситуации».

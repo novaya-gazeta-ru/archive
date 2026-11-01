@@ -15,4 +15,4 @@ tags: "митинги, оппозиция, коррупция, навальны�
 
 В акциях сторонников Навального 12 июня приняли участие жители почти 200 городов по всей России. В Москве, где протесты прошла на территории фестиваля реконструкторов «Времена и эпохи», были задержаны более 700 человек. Как это было — смотрите в нашем сюжете.
 
-**link:** https://novayagazeta.ru/articles/2017/06/12/72771-den-rossii-protiv-korruptsii-v-regionah-prohodyat-aktsii-storonnikov-navalnogo-est-zaderzhannye
+**link:** [День России против коррупции: только в Москве и Петербурге более 1200 задержанных. Навальному дали 30 суток. Хроника](2017/06/12/72771-den-rossii-protiv-korruptsii-v-regionah-prohodyat-aktsii-storonnikov-navalnogo-est-zaderzhannye.md)

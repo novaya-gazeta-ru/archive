@@ -30,11 +30,11 @@ _Вторая справа — начальник ИК-28 Мартынова М.
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<a href="http://www.novayagazeta.ru/storage/c/2013/02/07/1360234324_817403_31.jpg"><img alt="" height="275" src="http://www.novayagazeta.ru/storage/c/2013/02/07/1360234324_817403_31.jpg" width="200"></a></p>
+					<a href="[http://www.novayagazeta.ru/storage/c/2013/02/07/1360234324_817403_31.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/02/07/1360234324_817403_31.jpg)"><img alt="" height="275" src="[http://www.novayagazeta.ru/storage/c/2013/02/07/1360234324_817403_31.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/02/07/1360234324_817403_31.jpg)" width="200"></a></p>
 				<p>
-					<a href="http://www.novayagazeta.ru/storage/c/2013/02/07/1360234324_218711_64.jpg"><img alt="" height="275" src="http://www.novayagazeta.ru/storage/c/2013/02/07/1360234324_218711_64.jpg" width="200"></a></p>
+					<a href="[http://www.novayagazeta.ru/storage/c/2013/02/07/1360234324_218711_64.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/02/07/1360234324_218711_64.jpg)"><img alt="" height="275" src="[http://www.novayagazeta.ru/storage/c/2013/02/07/1360234324_218711_64.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/02/07/1360234324_218711_64.jpg)" width="200"></a></p>
 				<p>
-					<a href="http://www.novayagazeta.ru/storage/c/2013/02/07/1360234324_525437_36.jpg"><img alt="" height="275" src="http://www.novayagazeta.ru/storage/c/2013/02/07/1360234324_525437_36.jpg" width="200"></a></p>
+					<a href="[http://www.novayagazeta.ru/storage/c/2013/02/07/1360234324_525437_36.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/02/07/1360234324_525437_36.jpg)"><img alt="" height="275" src="[http://www.novayagazeta.ru/storage/c/2013/02/07/1360234324_525437_36.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/02/07/1360234324_525437_36.jpg)" width="200"></a></p>
 				<p>
 					<sup>На основании этого документа в отряд к «первоходам» подселили неоднократно судимых &nbsp;зечек. Документы кликабельны</sup></p>
 			</td>
@@ -53,7 +53,7 @@ _Вторая справа — начальник ИК-28 Мартынова М.
 		Иванова: «Она (Алехина) сильно раздражает. Никто так не раздражает, как она. Может быть, на тот момент, когда увижу ее, какая реакция будет, я не знаю, я не могу сказать этого. Я вот сейчас скажу, что у меня нормально все будет, а, допустим, ее увижу, и у меня начнется истерика или еще что-то, или я накинусь, ну я не знаю, я не могу этого сказать».</p>]*
 
 *[media: <p>
-		Качур: «Я не восприму этого человека, вы меня хоть убейте. Хоть что мне говорите, я не восприму ее нормально, у меня на нее реакция. Меня так никто не злил, как Алехина. Вот такая у меня агрессия» (<em>полная запись высказываний Качур и Ивановой о конфликте с Алехиной <a href="http://www.novayagazeta.ru/politics/56366.html"><strong>опубликована в №7 «Новой» от 23 января</strong></a></em>).</p>]*
+		Качур: «Я не восприму этого человека, вы меня хоть убейте. Хоть что мне говорите, я не восприму ее нормально, у меня на нее реакция. Меня так никто не злил, как Алехина. Вот такая у меня агрессия» (<em>полная запись высказываний Качур и Ивановой о конфликте с Алехиной <a href="[http://www.novayagazeta.ru/politics/56366.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/56366.html)"><strong>опубликована в №7 «Новой» от 23 января</strong></a></em>).</p>]*
 
 Осужденная Алехина находится в «безопасном месте» с 22 ноября 2012 года. Максимальное нахождение в «безопасном месте» — 90 дней, т.е. 19 февраля 2013 года Алехина должна будет вернуться в отряд, что является небезопасным для нее.
 

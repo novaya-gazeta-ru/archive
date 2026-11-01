@@ -17,6 +17,6 @@ tags: ""
 
 **Произведено: «НО. Медиа из России»:** https://youtu.be/AVFmlkO6ATo?si=jiQbwWvrWEGdtXGQ
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/10/30/nas-ubili
+**Читайте также:** [Нас убили](2026/10/30/nas-ubili.md)
 
 #### * Минюст РФ включил в реестр «иноагентов».

@@ -25,8 +25,8 @@ tags: "исламское государство, сирия"
 
 Между тем у этого блестящего плана, как уже подмечали, есть свои риски. Основной из них исходит не от администрации Обамы, которая, скорее всего, будет действовать вполне прагматически и продолжит диалог с Россией, но от джихадистов — этим как раз никакой диалог не нужен.
 
-**link:** https://novayagazeta.ru/columns/70193.html
+**link:** [https://novayagazeta.ru/columns/70193.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/70193.html)
 
-**link:** https://novayagazeta.ru/columns/70193.html
+**link:** [https://novayagazeta.ru/columns/70193.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/70193.html)
 
 Скоро нам нужно будет смотреть уже не на Сирию, а на южную границу Таджикистана — туда, где ИГИЛ грозит заключить тактический союз с Талибаном.

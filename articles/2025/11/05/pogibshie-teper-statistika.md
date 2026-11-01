@@ -91,4 +91,4 @@ tags: "белгород, белгородская область, обстрел
 
 > Этот материал вышел в тринадцатом номере «Новая газета. Журнал». Купить его можно в [онлайн-магазине](https://t.me/LLCNewSalesBot/Catalog) наших партнеров.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/10/13/my-moralno-umerli-khodit-prosit-net-sil
+**Читайте также:** [«Мы морально умерли. Ходить просить — нет сил»](2025/10/13/my-moralno-umerli-khodit-prosit-net-sil.md)

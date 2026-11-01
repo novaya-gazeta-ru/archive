@@ -39,4 +39,4 @@ tags: ""
 >
 > В связи с новыми обстоятельствами полиция [возбудила второе уголовное дело](https://www.e1.ru/text/criminal/2024/12/03/74834117/). Но по новому российскому закону следствие в отношение подписавших контракт с Минобороны и ушедших в СВО приостанавливается.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/15/reinkarnatsiia-generala-rommelia-blazhennyi-pedofil
+**Читайте также:** [Реинкарнация генерала Роммеля — «блаженный» педофил?](2024/10/15/reinkarnatsiia-generala-rommelia-blazhennyi-pedofil.md)

@@ -21,6 +21,6 @@ tags: "ng, forbes, женщины, богатство"
 
 > Совокупное состояние участниц рейтинга Forbes выросло за год на 14,6 млрд долларов — с 10,7 млрд до 25,3 млрд долларов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/16/federatsiia-trekh-tolstiakov
+**Читайте также:** [Федерация Трех толстяков](2021/06/16/federatsiia-trekh-tolstiakov.md)
 
-В марте 2021 года основательница интернет-магазина Wildberries Татьяна Бакальчук [возглавила](https://novayagazeta.ru/articles/2021/03/01/168235-forbes-osnovatelnitsa-wildberries-vozglavila-spisok-zhenschin-zarabotavshih-aktivy-samostoyatelno) подготовленный Forbes список self-made женщин (заработавших активы самостоятельно). Годом ранее Forbes [оценивал](https://www.forbes.ru/rating/407717-25-bogateyshih-zhenshchin-rossii-2020) состояние Бакальчук в 1,1 млрд долларов.
+В марте 2021 года основательница интернет-магазина Wildberries Татьяна Бакальчук [возглавила](2021/03/01/168235-forbes-osnovatelnitsa-wildberries-vozglavila-spisok-zhenschin-zarabotavshih-aktivy-samostoyatelno.md) подготовленный Forbes список self-made женщин (заработавших активы самостоятельно). Годом ранее Forbes [оценивал](https://www.forbes.ru/rating/407717-25-bogateyshih-zhenshchin-rossii-2020) состояние Бакальчук в 1,1 млрд долларов.

@@ -15,7 +15,7 @@ tags: "2020"
 
 > **есть продолжение**
 >
-> ### [Обнуление и гульфик.](https://novayagazeta.ru/articles/2020/12/31/88592-obnulenie-i-gulfik)
+> ### [Обнуление и гульфик.](2020/12/31/88592-obnulenie-i-gulfik.md)
 
 ![](_assets/e4/e491d4f1c76e42310530fbf0c0b43cc9.webp)
 

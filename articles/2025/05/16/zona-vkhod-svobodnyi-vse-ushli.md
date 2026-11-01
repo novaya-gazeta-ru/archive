@@ -83,4 +83,4 @@ tags: "приморье, колония, волчанец, зона особог
 
 > Этот текст вышел во [втором](http://t.me/LLCNewSalesBot/Catalog)номере журнала «Новое обозрение».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/31/voobshche-mnogie-ukhodiat
+**Читайте также:** [«Вообще многие уходят»](2025/03/31/voobshche-mnogie-ukhodiat.md)

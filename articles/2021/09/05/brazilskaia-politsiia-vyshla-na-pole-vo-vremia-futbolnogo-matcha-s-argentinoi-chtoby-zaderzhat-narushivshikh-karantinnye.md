@@ -19,4 +19,4 @@ tags: "футбол, карантин, бразилия, аргентина, sf"
 
 В Бразилии за все время пандемии, согласно данным университета Джонса Хопкинса, [выявили](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) 20,8 млн случаев заражения COVID-19. За последние сутки в стране [заболели](https://covid19.who.int/region/amro/country/br) еще более 20 тысяч человек.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/10/biznes-kak-idiotizm
+**Читайте также:** [Бизнес как идиотизм](2021/08/10/biznes-kak-idiotizm.md)

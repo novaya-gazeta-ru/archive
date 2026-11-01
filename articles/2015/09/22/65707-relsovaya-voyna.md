@@ -24,7 +24,7 @@ tags: "беженцы, специальный репортаж"
 Вот группа друзей от скуки вскрывает пачку с печеньем и по одному отправляет их в свободное плавание, провожая взглядом. На перилах кто-то вывел маркером No one is illegal.
 
 *[media: <div>
-<p class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/09/22/1442931833_684655_76.jpg" style="width: 570px; height: 380px;"><br>
+<p class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/09/22/1442931833_684655_76.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/09/22/1442931833_684655_76.jpg)" style="width: 570px; height: 380px;"><br>
 <sup>Фото: Екатерина Фомина / «Новая газета»</sup></p>
 </div>]*
 
@@ -70,13 +70,13 @@ tags: "беженцы, специальный репортаж"
 
 Его зовут Мустафа, он из Сирии, его десятилетний пузатый кудрявый брат Али бегает вокруг с мыльными пузырями, выдувает нам их прямо в лицо.
 
-**link:** https://novayagazeta.ru/society/70002.html
+**link:** [https://novayagazeta.ru/society/70002.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70002.html)
 
-**link:** https://novayagazeta.ru/society/70002.html
+**link:** [https://novayagazeta.ru/society/70002.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70002.html)
 
 Замечая мой бездомный рюкзак, брошенный на землю, сирийцы начинают суетиться: к кому в палатку его спрятать — от дождя. Мужчина в возрасте, не говорящий по-английски, просто встает с земли и по-хозяйски, без разговоров, прячет его к себе в палатку.
 
-*[media: <p class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/09/22/1442931833_979328_45.jpg" style="width: 570px; height: 380px;"><br>
+*[media: <p class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/09/22/1442931833_979328_45.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/09/22/1442931833_979328_45.jpg)" style="width: 570px; height: 380px;"><br>
 <sup>Фото: Екатерина Фомина / «Новая газета»</sup></p>]*
 
 Некоторые все же не ставят палатки, ложатся, завернувшись в пледы, на сырую землю: боятся упустить автобус. Образовались две очереди: для семей и для одиноких мужчин, автобусы для них будут разные. Но даже такое разделение вызывает конфликты. Кто-то из словенских активистов притащил громкоговоритель и прокричал в него: «Open border for everyone!» И громкоговоритель пошел по рукам. Хорошо одетая женщина из Афганистана кричит:
@@ -91,7 +91,7 @@ tags: "беженцы, специальный репортаж"
 
 Наверное, имеют в виду ночь на субботу на КПП в Хармице: полицейские привели собак для устрашения, кто-то из распаленных молодых людей кинул в полицейских бутылку с водой, полиция ответила слезоточивым газом.
 
-*[media: <p class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/09/22/1442932024_615938_20.jpg" style="width: 570px; height: 380px;"><br>
+*[media: <p class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/09/22/1442932024_615938_20.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/09/22/1442932024_615938_20.jpg)" style="width: 570px; height: 380px;"><br>
 <sup>Фото: Екатерина Фомина / «Новая газета»</sup></p>]*
 
 В «мужской» очереди перепалка:
@@ -122,9 +122,9 @@ tags: "беженцы, специальный репортаж"
 
 — Мы уже здесь, назад пути нет, — отвечают мужчины.
 
-**link:** https://novayagazeta.ru/society/69970.html
+**link:** [https://novayagazeta.ru/society/69970.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/69970.html)
 
-**link:** https://novayagazeta.ru/society/69970.html
+**link:** [https://novayagazeta.ru/society/69970.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/69970.html)
 
 Появляется парень с камерой без опознавательных знаков канала.
 

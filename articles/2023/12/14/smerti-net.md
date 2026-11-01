@@ -67,4 +67,4 @@ tags: "розанова, синявский, диссиденты, журнал 
 
 #### * Внесен Минюстом РФ в реестр иностранных агентов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2018/03/23/75914-mariya-rozanova-opasaytes-kurortov-i-podglyadyvayuschih
+**Читайте также:** [«А вы уверены, что такая Россия нужна?»](2018/03/23/75914-mariya-rozanova-opasaytes-kurortov-i-podglyadyvayuschih.md)

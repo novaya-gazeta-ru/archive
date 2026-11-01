@@ -241,4 +241,4 @@ tags: "антропология, русский мир, империя, эксп
 
 Примерно так можно ответить на вопрос: почему русский мир не империя?
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/07/29/liudi-vsegda-prichastny-dazhe-esli-schitaiut-sebia-slabymi
+**Читайте также:** [Люди всегда причастны, даже если считают себя слабыми](2023/07/29/liudi-vsegda-prichastny-dazhe-esli-schitaiut-sebia-slabymi.md)

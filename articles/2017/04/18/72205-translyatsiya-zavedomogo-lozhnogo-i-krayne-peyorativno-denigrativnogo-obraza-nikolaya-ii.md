@@ -47,7 +47,7 @@ tags: "фильм, реакция, поклонская, экспертиза, �
 
 <...>
 
-**link:** https://novayagazeta.ru/articles/2017/02/14/71513-hrislamskoe-gosudarstvo
+**link:** [https://novayagazeta.ru/articles/2017/02/14/71513-hrislamskoe-gosudarstvo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/02/14/71513-hrislamskoe-gosudarstvo)
 
 <...>
 
@@ -69,4 +69,4 @@ tags: "фильм, реакция, поклонская, экспертиза, �
 
 Хорошо бы кто-нибудь объяснил степень бессмысленности этих занятий молодому юристу Поклонской, которая явно только еще учится. Сценарий — негодный предмет для исследования. Кино — аудиовизуальное творение. Над сценарием должны поработать режиссер, оператор, актеры, вся съемочная группа. Можно конечно, исследовать сценарий, синопсис, тизер, трейлер… но это не влияет на судьбу фильма в прокате. Зритель составит собственное мнение. Жаль, что Поклонская этого не знает. Надеюсь, постепенно всем миром мы научим ее этим простым азам, и она станет юридически более подкованной.
 
-**link:** https://novayagazeta.ru/articles/2017/02/11/71477-tsivilizatsionnaya-matilda
+**link:** [https://novayagazeta.ru/articles/2017/02/11/71477-tsivilizatsionnaya-matilda](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/02/11/71477-tsivilizatsionnaya-matilda)

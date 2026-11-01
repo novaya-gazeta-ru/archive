@@ -25,4 +25,4 @@ Bloomberg [отмечает](https://www.bloomberg.com/news/articles/2022-01-17/
 
 Еще одним фактором роста цен Bloomberg называет снижение опасений по поводу влияния штамма «омикрон» на спрос, а также укрепление рынка сырой нефти в Азии.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/16/s-i-m-na-severnoi-trube
+**Читайте также:** [С. и М. на северной трубе](2021/12/16/s-i-m-na-severnoi-trube.md)

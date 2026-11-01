@@ -15,7 +15,7 @@ tags: "похищение, избиение, чечня, полиция, сил�
 
 > **реакция**
 >
-> ### [«Предпочитаем не верить»: Кремль прокомментировал новость о похищении жены федерального судьи в Нижнем Новгороде](https://novayagazeta.ru/articles/2022/01/21/predpochitaem-ne-verit-kreml-prokommentiroval-novost-o-pokhishchenii-zheny-federalnogo-sudi-v-nizhnem-novgorode-news)
+> ### [«Предпочитаем не верить»: Кремль прокомментировал новость о похищении жены федерального судьи в Нижнем Новгороде](2022/01/21/predpochitaem-ne-verit-kreml-prokommentiroval-novost-o-pokhishchenii-zheny-federalnogo-sudi-v-nizhnem-novgorode-news.md)
 
 > *Обновлено 22:09. Добавлены пояснения адвоката Натальи Добронравовой, ставшей свидетельницей попытки похищения судьи Янгулбаева, избиения и вывоза его жены Заремы из квартиры в Нижнем Новгороде.*
 
@@ -79,4 +79,4 @@ tags: "похищение, избиение, чечня, полиция, сил�
 
 Дежурный УФСБ по Нижнему Новгороду, с которым связалась «Новая газета» и который отказался представиться, сказал: «Такого не может быть».
 
-**Читайте также:** https://novayagazeta.ru/articles/2018/07/27/77313-student-kritikovavshiy-chechenskie-vlasti-umiraet-v-groznenskom-sizo
+**Читайте также:** [Подавление протеста](2018/07/27/77313-student-kritikovavshiy-chechenskie-vlasti-umiraet-v-groznenskom-sizo.md)

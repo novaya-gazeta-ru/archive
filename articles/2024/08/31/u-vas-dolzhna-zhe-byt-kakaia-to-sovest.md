@@ -39,7 +39,7 @@ tags: ""
 
 «И я это делаю не из-за ненависти к тем или иным политическим деятелям, а из соображений борьбы за истину, любви к истине. <…> Надеюсь, наши действия привели к тому, что в Республике Алтай стало меньше цинковых гробов. Даже если на один гроб меньше — эти 10 лет работы были не зря», — отметил издатель и процитировал Александра Солженицына: «Насилию нечем прикрыться, кроме лжи, а ложь может держаться только насилием».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/30/dazhe-esli-na-odin-grob-menshe-znachit-rabotal-ne-zria
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/30/dazhe-esli-na-odin-grob-menshe-znachit-rabotal-ne-zria](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/30/dazhe-esli-na-odin-grob-menshe-znachit-rabotal-ne-zria)
 
 ***
 
@@ -129,7 +129,7 @@ tags: ""
 
 По версии следствия, «неустановленное лицо» 29 сентября 2021 года подписалось на ежемесячные пожертвования ФБК по 300 рублей и сделало шесть таких платежей до 25 февраля 2022 года.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/10/anonimnaia-sluzhba-bezopasnosti-strany
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/10/anonimnaia-sluzhba-bezopasnosti-strany](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/10/anonimnaia-sluzhba-bezopasnosti-strany)
 
 \
  ***

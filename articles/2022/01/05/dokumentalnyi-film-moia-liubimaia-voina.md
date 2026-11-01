@@ -13,4 +13,4 @@ tags: ""
 
 *Весь день 6 января смотрите на сайте «Новой газеты» в программе новогоднего фестиваля*
 
-https://novayagazeta.ru/articles/2021/12/27/smotrite-dok-afisha-filmov-2-12-ianvaria-na-saite-novoi?utm_source=anons
+[Спасибо 130 тысячам зрителей!](2021/12/27/smotrite-dok-afisha-filmov-2-12-ianvaria-na-saite-novoi.md)

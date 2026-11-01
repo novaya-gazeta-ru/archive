@@ -13,7 +13,7 @@ tags: ""
 
 *Это должно было случиться. Мы начинаем сбор подписей за досрочный роспуск Государственной Думы*
 
-# [Сбор подписей тут](http://www.novayagazeta.ru/inquiries/12.html)
+# [Сбор подписей тут](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquiries/12.html)
 
 **Более 100 000 подписей против этого подлого закона о запрете усыновления иностранцами российских сирот, собранные на сайте «Новой» всего за два дня, были переданы в Государственную думу перед окончательным голосованием.**
 
@@ -39,7 +39,7 @@ tags: ""
 
 Госдума совсем распустилась…
 
-# [#давайраспускайся!](http://www.novayagazeta.ru/inquiries/12.html)
+# [#давайраспускайся!](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquiries/12.html)
 
 Как будет устроен сбор подписей. И почему именно так
 
@@ -65,4 +65,4 @@ tags: ""
 *[media: &nbsp;]*
 
 *[media: <h2>
-		<a href="http://www.novayagazeta.ru/inquiries/12.html">#давайраспускайся! Сбор подписей тут</a></h2>]*
+		<a href="[http://www.novayagazeta.ru/inquiries/12.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquiries/12.html)">#давайраспускайся! Сбор подписей тут</a></h2>]*

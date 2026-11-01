@@ -19,8 +19,8 @@ tags: "коррупция, московская область"
 
 По версии следствия, зампрокурора Московской области Александр Игнатенко и его подчиненный Дмитрий Урумов организовал группировку, в которую вошли ногинский городской прокурор Владимир Глебов, клинский прокурор Эдуард Каплун и другие силовики, получавшие взятки за «крышевание» казино.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/inquests/56825.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2013/02/19/1361269205_066838_78.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/inquests/56825.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/56825.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2013/02/19/1361269205_066838_78.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/02/19/1361269205_066838_78.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/inquests/56825.html" target="_blank"><strong>Подмосковный игорный скандал подходит к своей кульминации. Диспозиция перед решающей битвой</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/inquests/56825.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/56825.html)" target="_blank"><strong>Подмосковный игорный скандал подходит к своей кульминации. Диспозиция перед решающей битвой</strong></a></p>]*
 
 С 2011 года Каплун находился в международном розыске и скрывался на территории Израиля, однако в 2012 добровольно приехал на допрос в СК. Вскоре после этого, уголовное дело о получении взятки в отношении Каплуна было закрыто.

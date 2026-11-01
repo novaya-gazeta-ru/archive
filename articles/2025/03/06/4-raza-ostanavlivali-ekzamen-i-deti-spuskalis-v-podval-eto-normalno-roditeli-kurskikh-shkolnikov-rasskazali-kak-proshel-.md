@@ -33,4 +33,4 @@ tags: ""
 
 Минобороны и губернатор Хинштейн ничего не сообщали о работе ПВО в Курске 5 марта.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/07/revoliutsiia-troechnikov
+**Читайте также:** [Революция троечников](2025/02/07/revoliutsiia-troechnikov.md)

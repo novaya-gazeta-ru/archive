@@ -23,4 +23,4 @@ tags: ""
 
 Они, сообщает ФСБ, якобы выполняли заказ «через Telegram».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/12/taina-releinogo-shkafa
+**Читайте также:** [Тайна релейного шкафа](2025/11/12/taina-releinogo-shkafa.md)

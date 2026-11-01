@@ -17,11 +17,11 @@ tags: "дальнобойщики, протесты"
 
 «5-6 машин задержали между Кизляром и Бабаюртом (Дагестан). Мы остановились впереди, со мной 35 машин, будем ждать, чем закончится. Звонили ребята из Оренбурга, которые хотели принять участие в акции, их тоже остановили на выезде из области, вообще сказали: ждите до 1 декабря. Впервые на домашних постах такое. Раньше только на пограничных пунктах могли спросить, куда едем. Срывают акцию», — рассказал водитель Аскер по телефону. Он сообщил, что сотрудники инспекции даже у пассажиров легковых автомобилей интересуются, не следует ли она на акцию протеста.
 
-*[media: <p><span style="color:#B22222;"><strong><a href="http://www.novayagazeta.ru/topics/166.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/11/12/1447348087_368027_20.png" style="width: 100px; height: 75px;"></a>Следите за темой:</strong></span></p>
+*[media: <p><span style="color:#B22222;"><strong><a href="[http://www.novayagazeta.ru/topics/166.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/topics/166.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/11/12/1447348087_368027_20.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/11/12/1447348087_368027_20.png)" style="width: 100px; height: 75px;"></a>Следите за темой:</strong></span></p>
 
-<p><a href="http://www.novayagazeta.ru/topics/166.html" target="_blank"><strong>Дальнобойщики против «Платона»</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/topics/166.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/topics/166.html)" target="_blank"><strong>Дальнобойщики против «Платона»</strong></a></p>]*
 
-Акция протеста дальнобойщиков [запланирована](http://www.novayagazeta.ru/news/1698302.html) на 30 ноября. В этот день со всей России пустые фуры должны были съехаться к Москве и заблокировать МКАД.
+Акция протеста дальнобойщиков [запланирована](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1698302.html) на 30 ноября. В этот день со всей России пустые фуры должны были съехаться к Москве и заблокировать МКАД.
 
 Координатор акции протеста дальнобойщиков в Петербурге Сергей Гуляев после неудачной попытки встретиться с министром транспорта объявил о мирном «походе на Кремль»: «Мы идем на Кремль донести до первого лица, раз не слышит министр».
 

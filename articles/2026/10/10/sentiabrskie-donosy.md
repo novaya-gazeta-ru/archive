@@ -45,4 +45,4 @@ tags: ""
 
 *Приморье*
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/16/stukachat-prodolzhaet-rabotu
+**Читайте также:** [«Стукачат» продолжает работу](2026/03/16/stukachat-prodolzhaet-rabotu.md)

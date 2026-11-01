@@ -13,4 +13,4 @@ tags: ""
 
 *Мировая премьера. Только 12 января*
 
-https://novayagazeta.ru/articles/2021/12/27/smotrite-dok-afisha-filmov-2-12-ianvaria-na-saite-novoi?utm_source=anons
+[Спасибо 130 тысячам зрителей!](2021/12/27/smotrite-dok-afisha-filmov-2-12-ianvaria-na-saite-novoi.md)

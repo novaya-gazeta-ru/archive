@@ -11,11 +11,11 @@ tags: "антимайдан, выборы 2015, наблюдения"
 
 # 13 сентября. Единый день голосования (ОНЛАЙН)
 
-[ Фоторепортаж Евгения Фельдмана с выборов в Костромской области](http://www.novayagazeta.ru/photos/69905.html)
+[ Фоторепортаж Евгения Фельдмана с выборов в Костромской области](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/69905.html)
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/news/1696505.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/09/14/1442203350_531839_57.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте продолжение:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/news/1696505.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1696505.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/09/14/1442203350_531839_57.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/09/14/1442203350_531839_57.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте продолжение:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/news/1696505.html" target="_blank"><strong>Леонид Волков: Ясно, что не проходим, но работаем до конца. «Парнас» не прошел в Костромскую облдуму</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/news/1696505.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1696505.html)" target="_blank"><strong>Леонид Волков: Ясно, что не проходим, но работаем до конца. «Парнас» не прошел в Костромскую облдуму</strong></a></p>]*
 
 **08:43** Костромская полиция отпустила активиста Анатолия Капустина.
 
@@ -137,7 +137,7 @@ tags: "антимайдан, выборы 2015, наблюдения"
 
 <p>Я считаю, что сегодня уровень фальсификаций в день голосования снизился, а выборы остались такими же неконкурентными, как и ранее. При этом надо отметить, что у администраций есть желание сымитировать их реально повышением явки любыми способами.</p>]*
 
-**20:08Кострома.** Сообщают о сборе митинга «Антимайдана»: сюда съезжаются байкеры. Если вы забыли, что такое «Антимайдан» — почитайте, мы когда-то сделали о них хороший [материал](http://www.novayagazeta.ru/society/66859.html). Но вот [здесь](https://www.youtube.com/watch?v=_nak-T7kIA8&feature=youtu.be) можно за 30 секунд понять, что это за организация.
+**20:08Кострома.** Сообщают о сборе митинга «Антимайдана»: сюда съезжаются байкеры. Если вы забыли, что такое «Антимайдан» — почитайте, мы когда-то сделали о них хороший [материал](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/66859.html). Но вот [здесь](https://www.youtube.com/watch?v=_nak-T7kIA8&feature=youtu.be) можно за 30 секунд понять, что это за организация.
 
 *[media: <p dir="ltr" lang="ru">Сейчас в <a href="https://twitter.com/hashtag/%D0%9A%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%BC%D0%B0?src=hash">#Кострома</a> прибыли 4 автобуса <a href="https://twitter.com/hashtag/%D0%90%D0%BD%D1%82%D0%B8%D0%BC%D0%B0%D0%B9%D0%B4%D0%B0%D0%BD?src=hash">#Антимайдан</a>, около 15 байкеров. Построились для прослушивания чьих-то речей <a href="http://t.co/PxuTUn96Kd">pic.twitter.com/PxuTUn96Kd</a></p>
 — Andrey Borodulin (@aa_borodulin) <a href="https://twitter.com/aa_borodulin/status/643105247234236416">13 сентября 2015</a>]*
@@ -202,7 +202,7 @@ tags: "антимайдан, выборы 2015, наблюдения"
 
 *[media: <p><span class="message_content"><strong>16:47</strong> В следственном изоляторе №1 города Иркутска участие в местных выборах приняли 103% избирателей, <a href="http://irksib.ru/index.php/politika/1893-v-irkutskom-sizo-1-progolosovalo-103-izbiratelej" target="_blank">сообщает</a> портал ИркСиб со ссылкой на территориальную избирательную комиссию. По информации издания, в списках голосующих числятся 650 арестантов и работников исправительного учреждения, однако сумели проголосовали 670 избирателей, причем, 20 из них — по открепительным удостоверениям. </span></p>]*
 
-[ Фоторепортаж Евгения Фельдмана / «Новая»](http://www.novayagazeta.ru/photos/69905.html)
+[ Фоторепортаж Евгения Фельдмана / «Новая»](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/69905.html)
 
 **16:42Новосибирск** . Полиция проверяет информацию о пропаже 500 бюллетеней в территориальной избирательной комиссии Советского района, [сообщает](http://www.flashsiberia.com/news/vybory-v-novosibirske-propazha-byulleteney-skupka-golosov-podvoz-izbirateley) Flashsiberia.По словам председателя ТИКа Игоря Цихановича сотрудники просто обсчитались. Также правоохранительные органы Новосибирска задержали подозреваемых в скупке голосов. Якобы за фотографию бюллетеня с отметкой «за нужного кандидата» платят по 500 рублей.
 

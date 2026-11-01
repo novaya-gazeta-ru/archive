@@ -17,8 +17,8 @@ tags: "активы, олигархи, европа, санкции, замор�
 
 Польша заморозила на счетах на своей территории около 33 млн долларов (140 млн злотых). Об этом пресс-секретарь правительства Петр Мюллер [сообщил](https://twitter.com/PiotrMuller/status/1506263217261228033) в твиттере.
 
-Ранее Франция [заморозила](https://novayagazeta.ru/articles/2022/03/20/frantsiia-zamorozila-aktivy-tsentrobanka-rossii-na-summu-22-mlrd-evro-news) средства Центробанка России на сумму 22 млрд евро, а также счета и недвижимость частных лиц, попавших под санкции.
+Ранее Франция [заморозила](2022/03/20/frantsiia-zamorozila-aktivy-tsentrobanka-rossii-na-summu-22-mlrd-evro-news.md) средства Центробанка России на сумму 22 млрд евро, а также счета и недвижимость частных лиц, попавших под санкции.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/18/bez-dezodorantov-i-zhenskikh-trusikov
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/18/bez-dezodorantov-i-zhenskikh-trusikov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/18/bez-dezodorantov-i-zhenskikh-trusikov)
 
 Министр экономики и финансов Франции Брюно Ле Мэр заявил, что власти Франции заморозили средства на счетах частных лиц во французских учреждениях на сумму 150 млн евро. На территории страны, по его словам, заморожена недвижимость общей стоимостью полмиллиарда евро, принадлежащая примерно 30 россиянам.

@@ -13,12 +13,12 @@ tags: "суды, «Омбудсмен полиции»"
 
 Мировой судья Судебного участка № 6 Вологды прекратила уголовное дело о распространении порнографии (ч. 1 ст. 242 УК) против администратора паблика «Омбудсмен полиции» Игоря Худякова. Об этом «Новой газете» рассказал адвокат Максим Пашков.
 
-Дело против бывшего сотрудника ФСИН, который администраторовал паблик «Омбудсмен полиции» во «ВКонтакте», завели весной. Его [арестовали](https://novayagazeta.ru/news/2020/05/25/161765-v-moskve-arestovali-administratora-ombudsmena-politsii-po-delu-o-publikatsii-v-sotssetyah-intimnyh-fotografiey) по обвинению в том, что он вместе с основателем паблика Владимиром Воронцовым в сентябре 2018 года опубликовал в соцсетях интимные фотографии сотрудницы МВД.
+Дело против бывшего сотрудника ФСИН, который администраторовал паблик «Омбудсмен полиции» во «ВКонтакте», завели весной. Его [арестовали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/05/25/161765-v-moskve-arestovali-administratora-ombudsmena-politsii-po-delu-o-publikatsii-v-sotssetyah-intimnyh-fotografiey) по обвинению в том, что он вместе с основателем паблика Владимиром Воронцовым в сентябре 2018 года опубликовал в соцсетях интимные фотографии сотрудницы МВД.
 
-В середине июля после того, как Худяков признал вину и из обвинения в распространении порнографии [убрали](https://novayagazeta.ru/news/2020/07/20/163146-administratora-pablika-ombudsmen-politsii-reshili-osvobodit-iz-pod-strazhi) пункт о совершении преступления группой лиц, его выпустили из СИЗО.
+В середине июля после того, как Худяков признал вину и из обвинения в распространении порнографии [убрали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/07/20/163146-administratora-pablika-ombudsmen-politsii-reshili-osvobodit-iz-pod-strazhi) пункт о совершении преступления группой лиц, его выпустили из СИЗО.
 
-Худякова [арестовали](https://novayagazeta.ru/news/2020/05/25/161765-v-moskve-arestovali-administratora-ombudsmena-politsii-po-delu-o-publikatsii-v-sotssetyah-intimnyh-fotografiey) в конце мая по обвинению в том, что он вместе с основателем паблика «Омбудсмен полиции» опубликовал в соцсетях интимные фотографии сотрудницы МВД.
+Худякова [арестовали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/05/25/161765-v-moskve-arestovali-administratora-ombudsmena-politsii-po-delu-o-publikatsii-v-sotssetyah-intimnyh-fotografiey) в конце мая по обвинению в том, что он вместе с основателем паблика «Омбудсмен полиции» опубликовал в соцсетях интимные фотографии сотрудницы МВД.
 
 Воронцов находится под арестом с начала мая. Против него [возбудили](https://zona.media/chronicle/vorontsov#35451) 14 уголовных дел: два — о вымогательстве (ч. 2 ст. 163 УК), три — о распространении порнографии (ст. 242 УК), одно — о клевете (ч. 2 ст. 128.1 УК) и восемь — об оскорблении представителя власти (ст. 319 УК).
 
-**link:** https://novayagazeta.ru/articles/2020/08/13/86649-zazhalo-v-konveyere
+**link:** [Зажало в конвейере](2020/08/13/86649-zazhalo-v-konveyere.md)

@@ -19,6 +19,6 @@ tags: "шахматы, россия, норвегия, sn"
 
 «Допустил ряд нелогичных решений. Я защищался не лучшим образом, но после ошибки по ходу партии не было особого желания это делать. В любом случае задача остается та же — выиграть. Теперь нужно одержать две победы», — [сообщил](https://tass.ru/sport/13116619) он.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/12/19/88440-vse-razbrelis-po-kletkam
+**Читайте также:** [https://novayagazeta.ru/articles/2020/12/19/88440-vse-razbrelis-po-kletkam](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/12/19/88440-vse-razbrelis-po-kletkam)
 
-Шестая партия матча также [завершилась](https://novayagazeta.ru/articles/2021/12/04/norvezhskii-shakhmatist-magnus-karlsen-obygral-rossiianina-nepomniashchego-v-samoi-dlinnoi-partii-za-koronu-news) победой Карлсена. Этот поединок длился почти 8 часов. Это была самая долгая партия за всю историю турнира: всего шахматисты сделали 136 ходов. Остальные встречи закончились ничьей.
+Шестая партия матча также [завершилась](2021/12/04/norvezhskii-shakhmatist-magnus-karlsen-obygral-rossiianina-nepomniashchego-v-samoi-dlinnoi-partii-za-koronu-news.md) победой Карлсена. Этот поединок длился почти 8 часов. Это была самая долгая партия за всю историю турнира: всего шахматисты сделали 136 ходов. Остальные встречи закончились ничьей.

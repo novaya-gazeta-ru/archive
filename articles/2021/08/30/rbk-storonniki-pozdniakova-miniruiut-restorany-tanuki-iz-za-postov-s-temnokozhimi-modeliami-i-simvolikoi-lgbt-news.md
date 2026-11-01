@@ -21,6 +21,6 @@ tags: "мужское государство, тануки, лгбт, da"
 
 В воскресенье сайт «Тануки» [подвергся](https://echo.msk.ru/news/2895458-echo.html) DDos-атаке. Тогда же представители МГ потребовали рестораторов извиниться и удалить публикации, а после отказа «объявили войну».
 
-Недавно по схожим причинам МГ [атаковало](https://novayagazeta.ru/articles/2021/08/28/servis-dostavki-sushi-iobidoiobi-izvinilsia-za-reklamu-s-temnokozhim-muzhchinoi-posle-ugroz-muzhskogo-gosudarstva-news) другой ресторан японской кухни — «ЁбиДоёби». Сервис доставки опубликовал в соцсетях рекламу с темнокожим мужчиной. После угроз, поступивших от радикальной группировки, сеть удалила посты и [принесла](https://www.instagram.com/p/CTHxnAWKAHs/?utm_medium=copy_link) извинения.
+Недавно по схожим причинам МГ [атаковало](2021/08/28/servis-dostavki-sushi-iobidoiobi-izvinilsia-za-reklamu-s-temnokozhim-muzhchinoi-posle-ugroz-muzhskogo-gosudarstva-news.md) другой ресторан японской кухни — «ЁбиДоёби». Сервис доставки опубликовал в соцсетях рекламу с темнокожим мужчиной. После угроз, поступивших от радикальной группировки, сеть удалила посты и [принесла](https://www.instagram.com/p/CTHxnAWKAHs/?utm_medium=copy_link) извинения.
 
 \

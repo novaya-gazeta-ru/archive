@@ -25,6 +25,6 @@ tags: "эхо москвы, покушение, нападение, фельге
 
 Сегодня же суд арестовал Грица до 23 декабря.
 
-**link:** https://novayagazeta.ru/articles/2017/10/23/74303-aleksey-venediktov-u-nego-byl-rukopisnyy-plan-pomescheniy-redaktsii
+**link:** [Алексей Венедиктов: «У него был рукописный план помещений редакции»](2017/10/23/74303-aleksey-venediktov-u-nego-byl-rukopisnyy-plan-pomescheniy-redaktsii.md)
 
-**link:** https://novayagazeta.ru/articles/2017/10/24/74304-psihi-i-spetssluzhby
+**link:** [Психи и спецслужбы](2017/10/24/74304-psihi-i-spetssluzhby.md)

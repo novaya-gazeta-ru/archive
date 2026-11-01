@@ -19,8 +19,8 @@ tags: "уголовное дело, азербайджан, em"
 
 Азербайджан направил запрос в Россию об оказании правовой помощи по делу.
 
-**link:** https://novayagazeta.ru/articles/2020/10/07/87416-voyna-u-yuzhnyh-vorot
+**link:** [Война у южных ворот](2020/10/07/87416-voyna-u-yuzhnyh-vorot.md)
 
-Армения и Азербайджан в ночь с пятницы на субботу во время переговоров в Москве договорились о перемирии в Нагорном, начиная с 12:00 10 октября по местному времени (11:00 мск). После вступления режима в силу стороны [начали ](http://novayagazeta.ru/news/2020/10/12/164854-na-tretie-utro-posle-peregovorov-armeniya-i-azerbaydzhan-vnov-obvinili-drug-druga-v-narushenii-peremiriya)[обвинять](https://novayagazeta.ru/news/2020/10/12/164854-na-tretie-utro-posle-peregovorov-armeniya-i-azerbaydzhan-vnov-obvinili-drug-druga-v-narushenii-peremiriya) друг друга в его нарушении.
+Армения и Азербайджан в ночь с пятницы на субботу во время переговоров в Москве договорились о перемирии в Нагорном, начиная с 12:00 10 октября по местному времени (11:00 мск). После вступления режима в силу стороны [начали ](https://web.archive.org/web/*/http://novayagazeta.ru/news/2020/10/12/164854-na-tretie-utro-posle-peregovorov-armeniya-i-azerbaydzhan-vnov-obvinili-drug-druga-v-narushenii-peremiriya)[обвинять](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/12/164854-na-tretie-utro-posle-peregovorov-armeniya-i-azerbaydzhan-vnov-obvinili-drug-druga-v-narushenii-peremiriya) друг друга в его нарушении.
 
 Конфликт на линии соприкосновения в Нагорном Каарабахе обострился 27 сентября. Армения и Азербайджан обвинили друг друга в эскалации. Под обстрелы попадают населенные пункты.

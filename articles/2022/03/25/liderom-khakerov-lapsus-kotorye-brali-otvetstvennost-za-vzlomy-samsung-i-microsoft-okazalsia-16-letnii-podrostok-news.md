@@ -23,4 +23,4 @@ tags: "хакеры, британия, Lapsus$, kn"
 
 Группировка Lapsus$ брала на себя ответственность за взломы таких компаний как Microsoft, Okta, Nvidia, Ubisoft, Samsung и Vodafone. Но не известно, действительно ли технологических гигантов взломали эти хакеры.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/15/millionery-iz-khrushchob
+**Читайте также:** [Миллионеры из хрущоб](2022/01/15/millionery-iz-khrushchob.md)

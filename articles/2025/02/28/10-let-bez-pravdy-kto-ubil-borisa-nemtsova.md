@@ -25,6 +25,6 @@ tags: ""
 
 **Произведено: «НО.Медиа из России»:** https://www.youtube.com/watch?v=nxMFhmFUO5I
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/27/nemtsov-most-2025
+**Читайте также:** [Немцов Мост-2025](2025/02/27/nemtsov-most-2025.md)
 
 #### * Признан Минюстом РФ иностранным агентом.

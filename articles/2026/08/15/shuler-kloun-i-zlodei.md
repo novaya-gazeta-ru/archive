@@ -18,4 +18,4 @@ tags: ""
 И я скажу вам: это не коварство,\
 А просто страхов и фантазий царство.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/08/nad-nami-odinochestva-luna
+**Читайте также:** [Над нами — одиночества луна](2026/08/08/nad-nami-odinochestva-luna.md)

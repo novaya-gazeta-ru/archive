@@ -27,4 +27,4 @@ tags: "меркель, германия"
 
 Новый генеральный секретарь ХДС Аннегрета Крамп-Карренбауэр получила в свою поддержку 98,9% голосов.
 
-**link:** https://novayagazeta.ru/articles/2018/01/23/75244-nemetskie-sotsial-demokraty-soglasilis-na-peregovory-s-partiey-merkel-o-pravitelstvennoy-koalitsii
+**link:** [Возвращение с «ямайки»](2018/01/23/75244-nemetskie-sotsial-demokraty-soglasilis-na-peregovory-s-partiey-merkel-o-pravitelstvennoy-koalitsii.md)

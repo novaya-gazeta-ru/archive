@@ -23,16 +23,16 @@ tags: ""
 
 *Скриншот из соцсети «Вконтакте»*
 
-США по итогам переговоров с Украиной в Саудовской Аравии предложили России немедленное прекращение огня на 30 дней. В Москву детали соглашения привез спецпосланник Стив Уиткофф, среди которых было и предложение Трампа [пощадить жизни](https://novayagazeta.ru/articles/2025/03/14/tramp-zaiavil-chto-poprosil-putina-poshchadit-ukrainskikh-voennykh-v-kurskoi-oblasti-news) украинских солдат в Курской области. Путин встретил Уиткоффа в Кремле, они поговорили за закрытыми дверями.
+США по итогам переговоров с Украиной в Саудовской Аравии предложили России немедленное прекращение огня на 30 дней. В Москву детали соглашения привез спецпосланник Стив Уиткофф, среди которых было и предложение Трампа [пощадить жизни](2025/03/14/tramp-zaiavil-chto-poprosil-putina-poshchadit-ukrainskikh-voennykh-v-kurskoi-oblasti-news.md) украинских солдат в Курской области. Путин встретил Уиткоффа в Кремле, они поговорили за закрытыми дверями.
 
-Но ранее Путин [публично заявил](https://novayagazeta.ru/articles/2025/03/14/kreml-putin-lichno-vstretil-spetsposlannika-uitkoffa-i-peredal-trampu-novye-signaly-po-ukrainskomu-voprosu-news), что
+Но ранее Путин [публично заявил](2025/03/14/kreml-putin-lichno-vstretil-spetsposlannika-uitkoffa-i-peredal-trampu-novye-signaly-po-ukrainskomu-voprosu-news.md), что
 
-> в целом идею Трампа о прекращении огня Россия поддерживает — однако есть «нюансы»: «здесь и сейчас» прекращение огня без предварительных условий, со слов Путина, выгодно лишь Украине и [игнорирует «первопричины](https://novayagazeta.ru/articles/2025/03/13/putin-vremennoe-prekrashchenie-ognia-v-interesakh-kieva-a-dolgosrochnoe-peremirie-trebuet-ustraneniia-pervoprichin-konflikta-i-obsuzhdeniia-mekhanizma-garantii-news) конфликта»,
+> в целом идею Трампа о прекращении огня Россия поддерживает — однако есть «нюансы»: «здесь и сейчас» прекращение огня без предварительных условий, со слов Путина, выгодно лишь Украине и [игнорирует «первопричины](2025/03/13/putin-vremennoe-prekrashchenie-ognia-v-interesakh-kieva-a-dolgosrochnoe-peremirie-trebuet-ustraneniia-pervoprichin-konfl.md) конфликта»,
 
 окружаемая группировка ВСУ в Курской области может сдасться, но для этого Киев должен приказать ей сложить оружие, а для контроля режима прекращения огня по всей линии соприкосновения российско-украинских войск сначала требуется детально обсудить механизмы контроля.
 
-После этого Вашингтон [возобновил поставки](https://novayagazeta.ru/articles/2025/03/14/kreml-putin-lichno-vstretil-spetsposlannika-uitkoffa-i-peredal-trampu-novye-signaly-po-ukrainskomu-voprosu-news) вооружения Киеву и не запретил крупнейшим российским банкам в качестве исключения пользоваться американской платежной системой для получения средств за экспорт энергоресурсов.
+После этого Вашингтон [возобновил поставки](2025/03/14/kreml-putin-lichno-vstretil-spetsposlannika-uitkoffa-i-peredal-trampu-novye-signaly-po-ukrainskomu-voprosu-news.md) вооружения Киеву и не запретил крупнейшим российским банкам в качестве исключения пользоваться американской платежной системой для получения средств за экспорт энергоресурсов.
 
 Однако стороны продолжают обмен «сигналами».
 
-**Смотрите также:** https://novayagazeta.ru/articles/2025/03/14/vse-karty-kotorye-nam-pokazyvali-vvodili-liudei-v-zabluzhdenie
+**Смотрите также:** [«Все карты, которые нам показывали, вводили людей в заблуждение»](2025/03/14/vse-karty-kotorye-nam-pokazyvali-vvodili-liudei-v-zabluzhdenie.md)

@@ -101,9 +101,9 @@ tags: "военнопленные, днр, минские соглашения, 
 
 — Абсолютно верно. Как заявляет Украина, в Минских соглашениях прописан пункт: отпустить всех незаконно удерживаемых и заложников. У нас нет незаконно удерживаемых, и у нас нет заложников. У нас все уже под следствием.
 
-**link:** https://novayagazeta.ru/columns/71745.html
+**link:** [https://novayagazeta.ru/columns/71745.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/71745.html)
 
-**link:** https://novayagazeta.ru/columns/71745.html
+**link:** [https://novayagazeta.ru/columns/71745.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/71745.html)
 
 **—А когда продолжатся переговоры?**
 

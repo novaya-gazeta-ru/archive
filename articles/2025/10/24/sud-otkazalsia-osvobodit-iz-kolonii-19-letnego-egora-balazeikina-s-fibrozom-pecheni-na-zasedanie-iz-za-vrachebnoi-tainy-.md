@@ -19,4 +19,4 @@ tags: ""
 
 Тюремная медкомиссия допустила его к отбыванию срока.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/03/esli-mne-stanovitsia-tiazhko-ia-ukhozhu-k-vam-k-pismam-k-liudiam
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/03/esli-mne-stanovitsia-tiazhko-ia-ukhozhu-k-vam-k-pismam-k-liudiam](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/03/esli-mne-stanovitsia-tiazhko-ia-ukhozhu-k-vam-k-pismam-k-liudiam)

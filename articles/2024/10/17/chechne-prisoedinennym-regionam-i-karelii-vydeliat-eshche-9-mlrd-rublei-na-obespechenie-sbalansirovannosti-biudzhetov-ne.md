@@ -21,6 +21,6 @@ tags: ""
 
 Чечня — один из самых дотационных регионов России. С 2014 к концу 2023 года объем федеральных дотаций в бюджет региона сократился с 64% до 40%, [сообщал](https://www.kommersant.ru/doc/6394848) председатель правительства Чечни Муслим Хучиев. Согласно [закону о бюджете](https://www.consultant.ru/document/cons_doc_LAW_462891/ba84e51209572d3846f8f34ef8cf61effa25324f/) на 2024 год, для Чечни уже были предусмотрены дотации в размере 48,27 млрд рублей.
 
-В 2022 году Рамзан Кадыров [заявлял](https://novayagazeta.ru/articles/2022/01/25/kadyrov-utochnil-chto-godovoi-biudzhet-chechni-sostavliaet-375-mlrd-rublei-ranee-on-zaiavil-chto-rossiia-za-god-tratit-za-300-mlrd-deneg-na-soderzhanie-respubliki-news), что российские власти тратят «по 300 млрд рублей в год» на содержание Чечни. Несоответствие этой цифры открытым данным бюджета Кадыров позднее объяснил тем, что «не владеет в совершенстве профессиональным и углубленным русским языком».
+В 2022 году Рамзан Кадыров [заявлял](2022/01/25/kadyrov-utochnil-chto-godovoi-biudzhet-chechni-sostavliaet-375-mlrd-rublei-ranee-on-zaiavil-chto-rossiia-za-god-tratit-z.md), что российские власти тратят «по 300 млрд рублей в год» на содержание Чечни. Несоответствие этой цифры открытым данным бюджета Кадыров позднее объяснил тем, что «не владеет в совершенстве профессиональным и углубленным русским языком».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/12/chtob-bylo-chem-sluzhivykh-liudei-pozhalovat
+**Читайте также:** [«Чтоб было, чем служивых людей пожаловать»](2024/10/12/chtob-bylo-chem-sluzhivykh-liudei-pozhalovat.md)

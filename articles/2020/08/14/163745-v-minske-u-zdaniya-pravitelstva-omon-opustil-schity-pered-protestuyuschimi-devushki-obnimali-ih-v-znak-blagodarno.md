@@ -17,4 +17,4 @@ tags: "протесты, омон, минск"
 
 При этом телеканал «Белсат» [передает](https://t.me/belsat/12493), что на проспекте Независимости начались перебои с интернетом. Тем временем, по данным Tut.by, по проспекту уже[ движутся](https://t.me/vybory_smotri/3115) машины силовиков, а из Дома правительства выходит все больше и больше правоохранителей.
 
-**link:** https://novayagazeta.ru/articles/2020/08/14/86664--online
+**link:** [https://novayagazeta.ru/articles/2020/08/14/86664--online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/14/86664--online)

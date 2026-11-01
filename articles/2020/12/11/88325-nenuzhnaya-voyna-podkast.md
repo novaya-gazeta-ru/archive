@@ -27,7 +27,7 @@ tags: "пленные, война в чечне, чечня, война"
 >
 > ### [Apple Podcasts](http://apple.co/2ICnLys) || [Google Podcasts](http://bit.ly/3qJKuK9) || [Castbox](http://bit.ly/344IrXz) || [SoundCloud](http://bit.ly/2W2lL5A) || [Яндекс Музыка](https://music.yandex.ru/album/12679441/track/74815553)
 >
-> ### [«Пьяных русских офицеров боялись больше, чем боевиков».](https://novayagazeta.ru/articles/2020/12/11/88328-pyanyh-russkih-ofitserov-boyalis-bolshe-chem-boevikov-video)
+> ### [«Пьяных русских офицеров боялись больше, чем боевиков».](2020/12/11/88328-pyanyh-russkih-ofitserov-boyalis-bolshe-chem-boevikov-video.md)
 
 Автор заметок: **Вячеслав Измайлов** Текст читает: **Леонид Парфёнов** Редактор: **Наталья Жданова** Звукорежиссер: **Федор Балашов** Композиторы: **Алина Ануфриерко и Александр Глушков** Консультант проекта: **Чарльз Мейнз (Charles Maynes)** Автор идеи и исполнительный продюсер: **Павел Каныгин**
 

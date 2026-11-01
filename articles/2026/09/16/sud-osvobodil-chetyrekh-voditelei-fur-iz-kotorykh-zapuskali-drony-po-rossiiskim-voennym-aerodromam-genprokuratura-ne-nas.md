@@ -27,4 +27,4 @@ tags: "ВСУ, паутина, дальнобойщики, освобожден�
 
 -
 
-Сами дальнобойщики вину [отрицали](https://novayagazeta.ru/articles/2026/01/31/dalnoboishchikam-fury-kotorykh-ispolzovala-ukrainskaia-razvedka-dlia-tainoi-operatsii-pautina-prediavili-novye-obvineniia-oni-otritsaiut-vinu-news). По их словам, они не знали о спрятанных в грузах беспилотниках, а после их запуска сами вызвали силовиков и пытались сбивать дроны.
+Сами дальнобойщики вину [отрицали](2026/01/31/dalnoboishchikam-fury-kotorykh-ispolzovala-ukrainskaia-razvedka-dlia-tainoi-operatsii-pautina-prediavili-novye-obvinenii.md). По их словам, они не знали о спрятанных в грузах беспилотниках, а после их запуска сами вызвали силовиков и пытались сбивать дроны.

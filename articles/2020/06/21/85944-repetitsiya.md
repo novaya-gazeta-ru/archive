@@ -45,7 +45,7 @@ tags: "армия, репетиция, парад победы, быков"
 
 Гордость похоронена, Вместо воли каша… Родина-то Родина, Да уже не наша.
 
-**link:** https://novayagazeta.ru/articles/2020/06/20/85941-shagom-maski
+**link:** [Шагом маски](2020/06/20/85941-shagom-maski.md)
 
 Челядь благодарная Веселится с голоду. Марширует армия По родному городу,
 
@@ -55,4 +55,4 @@ tags: "армия, репетиция, парад победы, быков"
 
 И не ждите, гарные, Не случится чуда, Нету Красной армии — Выбить их отсюда.
 
-**link:** https://novayagazeta.ru/articles/2020/06/13/85825-parad-v-odin-konets
+**link:** [https://novayagazeta.ru/articles/2020/06/13/85825-parad-v-odin-konets](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/06/13/85825-parad-v-odin-konets)

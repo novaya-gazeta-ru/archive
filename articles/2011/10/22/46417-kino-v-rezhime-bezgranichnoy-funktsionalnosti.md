@@ -22,7 +22,7 @@ tags: ""
 	<p>
 		Четыре дня возможно спорных, но интереснейших современных киноработ.&nbsp; В конкурсе фильмы из Бразилии, Чехии, Германии, Голландии. Устроители форума доказывают зрителю, что арт-кино может быть экспрессивным, трогающим, волнующим. В эти четыре дня мировой кинематограф предстанет во всей своей многоликости: День документального кино, День короткого метра, День анимации, День «Свои 2000» (в ней художники, режиссеры, поэты, близкие этому движению представят свои работы) , «Московская полночь».</p>
 	<p>
-		Все подробности о фестивале на официальном&nbsp;<a href="http://www.novayagazeta.ru/admin/document.html?parent_id=20&amp;parent_class=NovayaGazeta%3A%3AContent%3A%3AStructure&amp;class=NovayaGazeta%3A%3AContent%3A%3ANews">сайте</a>.</p>
+		Все подробности о фестивале на официальном&nbsp;<a href="[http://www.novayagazeta.ru/admin/document.html?parent_id=20&amp;parent_class=NovayaGazeta%3A%3AContent%3A%3AStructure&amp;class=NovayaGazeta%3A%3AContent%3A%3ANews](https://web.archive.org/web/*/http://www.novayagazeta.ru/admin/document.html?parent_id=20&amp;parent_class=NovayaGazeta%3A%3AContent%3A%3AStructure&amp;class=NovayaGazeta%3A%3AContent%3A%3ANews)">сайте</a>.</p>
 	<p>
 		Итак, идите в кино и умрите в нем, если сможете!&nbsp;</p>
 	<p>

@@ -17,11 +17,11 @@ tags: "теннис, большой теннис, австралия, джоко
 
 Защита Джоковича планирует обжаловать решение в ближайшее время. Если дело не удастся выиграть в суде, то теннисиста депортируют из страны.
 
-Ранее спортсмен [признался](https://novayagazeta.ru/articles/2022/01/12/dzhokovich-priznalsia-v-narushenii-karantina-pri-polozhitelnom-teste-na-covid-19-i-predostavlenii-lozhnykh-dannykh-news) в том, что предоставил ложные данные в туристической декларации для въезда в Австралию. Он назвал наличие неточностей в своем заявлении ненамеренной ошибкой. Именно проблемы с документами стали причиной того, что 5 января Джоковича [задержали](https://novayagazeta.ru/articles/2022/01/05/tennisista-dzhokovicha-ne-pustili-na-australia-open-soslavshis-na-oshibku-s-vizoi-ranee-bolelshchiki-vozmushchalis-ego-dopusku-do-turnira-bez-privivki-news) и аннулировали его визу в первый раз.
+Ранее спортсмен [признался](2022/01/12/dzhokovich-priznalsia-v-narushenii-karantina-pri-polozhitelnom-teste-na-covid-19-i-predostavlenii-lozhnykh-dannykh-news.md) в том, что предоставил ложные данные в туристической декларации для въезда в Австралию. Он назвал наличие неточностей в своем заявлении ненамеренной ошибкой. Именно проблемы с документами стали причиной того, что 5 января Джоковича [задержали](2022/01/05/tennisista-dzhokovicha-ne-pustili-na-australia-open-soslavshis-na-oshibku-s-vizoi-ranee-bolelshchiki-vozmushchalis-ego-d.md) и аннулировали его визу в первый раз.
 
-Несмотря на это накануне теннисиста [включили](https://novayagazeta.ru/articles/2022/01/13/zaderzhannogo-po-prilete-v-melburn-serbskogo-tennisista-novaka-dzhokovicha-vkliuchili-v-zherebevku-australian-open-news) в жеребьевку Открытого чемпионата Австралии (Australia Open). В первом круге он должен был сыграть с соотечественником Миомиром Кецмановичем.
+Несмотря на это накануне теннисиста [включили](2022/01/13/zaderzhannogo-po-prilete-v-melburn-serbskogo-tennisista-novaka-dzhokovicha-vkliuchili-v-zherebevku-australian-open-news.md) в жеребьевку Открытого чемпионата Австралии (Australia Open). В первом круге он должен был сыграть с соотечественником Миомиром Кецмановичем.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/29/lasitskene-italiia-i-russkie-raketki
+**Читайте также:** [Ласицкене, Италия и русские ракетки](2021/12/29/lasitskene-italiia-i-russkie-raketki.md)
 
 Ранее Джокович получил разрешение участвовать в Открытом чемпионате Австралии (Australia Open) без прививки от COVID-19. Информация о том, что он поедет на соревнование без вакцины, вызвала волну негодования в соцсетях. По правилам чемпионата все участники должны быть полностью вакцинированы от коронавируса.
 

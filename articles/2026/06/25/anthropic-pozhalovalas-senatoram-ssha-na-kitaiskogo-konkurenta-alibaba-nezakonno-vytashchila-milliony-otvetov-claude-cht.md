@@ -27,4 +27,4 @@ Anthropic не впервые обвиняет китайские компани
 \
 Мощная модель Anthropic вызвала переполох в администрации Трампа, [писала](https://www.forbes.ru/tekhnologii/562915-anthropic-zakryla-dostup-k-samym-mosnym-ii-modelam-fable-5-i-mythos-5) WSJ в мае. Вице-президент США Джей Ди Вэнс после этого обсудил с главами крупнейших компаний в ИИ-отрасли угрозы новых моделей. Он опасался, что такие технологии способны быстро парализовать работу госучреждений. Вскоре Белый дом [потребовал](https://www.forbes.ru/tekhnologii/562915-anthropic-zakryla-dostup-k-samym-mosnym-ii-modelam-fable-5-i-mythos-5) от Anthropic закрыть доступ к Fable 5 и Mythos 5 для иностранцев, в том числе для проживающих в США — и даже для сотрудников самой компании Anthropic за рубежом. Тогда Anthropic отключила доступ к этим ИИ-моделям для всех пользователей.
 
-**А в это время в России:** https://novayagazeta.ru/articles/2026/06/25/regulirovanie-kazhdogo-utiuga
+**А в это время в России:** [Регулирование каждого утюга](2026/06/25/regulirovanie-kazhdogo-utiuga.md)

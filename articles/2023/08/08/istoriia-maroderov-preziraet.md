@@ -71,7 +71,7 @@ tags: "венедиктов, иноагенты, эхо москвы, памят
 
 — Думаю, за пошлину внесения в Росреестр.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/10/26/razgovarivat-nado-ne-s-temi-kto-s-vami-uzhe-soglasen-media
+**Читайте также:** [&nbsp;«Разговаривать надо не с теми, кто с вами уже согласен»](2022/10/26/razgovarivat-nado-ne-s-temi-kto-s-vami-uzhe-soglasen-media.md)
 
 **— А бороться будете?**
 

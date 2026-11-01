@@ -17,8 +17,8 @@ tags: "meta, zoom, роскомнадзор, закон о приземлени�
  \
  В рамках «закон о приземлении» иностранные компании должны разместить на своих ресурсах электронную форму для обращений и зарегистрировать личный кабинет на официальном сайте Роскомнадзора.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/25/kosmos-dolzhen-idti-na-posadku
+**Читайте также:** [Космос должен идти на посадку](2021/11/25/kosmos-dolzhen-idti-na-posadku.md)
 
-Ранее компания Apple в рамках исполнения этого закона [завела](https://novayagazeta.ru/articles/2022/01/14/apple-pervoi-zavela-lichnyi-kabinet-na-saite-rkn-eto-nuzhno-dlia-prizemleniia-kompanii-news) личный кабинет на сайте РКН и [открыла](https://novayagazeta.ru/articles/2022/02/04/apple-otkryla-ofis-v-rossii-v-ramkakh-ispolneniia-zakona-o-prizemlenii-news) офис в России. Эти же действия выполнил музыкальный сервис Spotify. Также личный кабинет на сайте РКН завели компания Twitter, Inc., мессенджер Viber и социальная сеть Likee.
+Ранее компания Apple в рамках исполнения этого закона [завела](2022/01/14/apple-pervoi-zavela-lichnyi-kabinet-na-saite-rkn-eto-nuzhno-dlia-prizemleniia-kompanii-news.md) личный кабинет на сайте РКН и [открыла](2022/02/04/apple-otkryla-ofis-v-rossii-v-ramkakh-ispolneniia-zakona-o-prizemlenii-news.md) офис в России. Эти же действия выполнил музыкальный сервис Spotify. Также личный кабинет на сайте РКН завели компания Twitter, Inc., мессенджер Viber и социальная сеть Likee.
 
 Социальная сеть TikTok зарегистрировалась на сайте РКН и выполнила другое требование регулятора — создала форму для электронных обращений граждан на своем сайте.

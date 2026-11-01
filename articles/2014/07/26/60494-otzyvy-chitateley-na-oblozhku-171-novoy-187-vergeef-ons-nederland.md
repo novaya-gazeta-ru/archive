@@ -15,7 +15,7 @@ tags: ""
 
 ![](_assets/60/60291bffda21d3acf6bc93bae01b5260.webp)
 
-[Отзывы читателей на обложку «Новой» в оригинале](http://www.novayagazeta.ru/comments/64593.html)
+[Отзывы читателей на обложку «Новой» в оригинале](https://web.archive.org/web/*/http://www.novayagazeta.ru/comments/64593.html)
 
 **Спасибо** за первую полосу
 

@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2014/01/09/1389273393_465187_98.jpg" style="width: 360px; height: 480px;"><sup>Михаил Савва. Фото: Евгений Титов —&nbsp;«Новая»</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/01/09/1389273393_465187_98.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/01/09/1389273393_465187_98.jpg)" style="width: 360px; height: 480px;"><sup>Михаил Савва. Фото: Евгений Титов —&nbsp;«Новая»</sup></td>
 		</tr>
 	</tbody>]*
 

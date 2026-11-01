@@ -23,6 +23,6 @@ tags: "гулаг, правда гулага"
 
 Подробнее об Израиле Аркадьевиче Мазусе — читайте в проекте «Новой газеты» «58-я. Неизъятое».
 
-**link:** https://novayagazeta.ru/apps/gulag/60338.html
+**link:** [https://novayagazeta.ru/apps/gulag/60338.html](https://web.archive.org/web/*/https://novayagazeta.ru/apps/gulag/60338.html)
 
-**link:** https://novayagazeta.ru/apps/gulag/60338.html
+**link:** [https://novayagazeta.ru/apps/gulag/60338.html](https://web.archive.org/web/*/https://novayagazeta.ru/apps/gulag/60338.html)

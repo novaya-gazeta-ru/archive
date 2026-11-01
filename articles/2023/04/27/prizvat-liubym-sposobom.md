@@ -31,4 +31,4 @@ tags: "повестки, армия , электронные повестки"
 
 \
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/04/26/oblavy-alternativnaia-sluzhba-i-prizyv-odnim-dnem
+**Читайте также:** [Облавы, альтернативная служба и «призыв одним днем»](2023/04/26/oblavy-alternativnaia-sluzhba-i-prizyv-odnim-dnem.md)

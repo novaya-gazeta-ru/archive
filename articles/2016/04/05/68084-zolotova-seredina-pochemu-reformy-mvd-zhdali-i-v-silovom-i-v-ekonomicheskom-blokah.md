@@ -13,9 +13,9 @@ tags: "мвд, полиция, реформа мвд, силовики, фскн
 
 **Президент России Владимир Путин на встрече с главами ведомств заявил о своем решении реформировать структуру правоохранительных органов**
 
-**link:** https://novayagazeta.ru/news/1702114.html
+**link:** [https://novayagazeta.ru/news/1702114.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1702114.html)
 
-**link:** https://novayagazeta.ru/news/1702114.html
+**link:** [https://novayagazeta.ru/news/1702114.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1702114.html)
 
 **Что изменится?**
 

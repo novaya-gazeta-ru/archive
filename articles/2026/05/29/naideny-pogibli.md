@@ -43,4 +43,4 @@ tags: "аниматоры, убийство, кирилл чубко, татья
 
 Следующее заседание по «делу аниматоров» состоится в Краснодарском краевом суде 11 июня. Будет оглашен приговор.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/05/26/maniak-na-schetu-kotorogo-15-zhertv-sbezhal-iz-gospitalia-kuda-popal-po-raneniiu-na-svo-i-uzhe-polgoda-skryvaetsia-v-lenoblasti-polgoda-voennye-ob-etom-molchali-news
+**Читайте также:** [Маньяк, на счету которого 15 жертв, сбежал из госпиталя, куда попал по ранению на СВО, и уже полгода скрывается в Ленобласти. Полгода военные об этом молчали](2026/05/26/maniak-na-schetu-kotorogo-15-zhertv-sbezhal-iz-gospitalia-kuda-popal-po-raneniiu-na-svo-i-uzhe-polgoda-skryvaetsia-v-len.md)

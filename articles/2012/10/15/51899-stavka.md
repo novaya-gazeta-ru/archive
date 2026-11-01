@@ -23,7 +23,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right" style="">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/15/1350292057_471164_31.jpg" style="width: 300px; height: 300px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/15/1350292057_471164_31.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/15/1350292057_471164_31.jpg)" style="width: 300px; height: 300px; "><br>
 				<sup>Фото: Анна Артемьева/«Новая газета»</sup></td>
 		</tr>
 	</tbody>]*

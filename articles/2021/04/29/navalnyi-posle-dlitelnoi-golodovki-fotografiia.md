@@ -17,6 +17,6 @@ tags: "навальный, голодовка, суды"
 
 > **А в это время**
 >
-> ### [Леонид Волков объявил о закрытии штабов Навального по стране.](https://novayagazeta.ru/articles/2021/04/29/leonid-volkov-ofitsialno-obiavil-o-zakrytii-seti-shtabov-navalnogo)
+> ### [Леонид Волков объявил о закрытии штабов Навального по стране.](2021/04/29/leonid-volkov-ofitsialno-obiavil-o-zakrytii-seti-shtabov-navalnogo.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/02/20/89313-sila-v-pravde-eto-zapoved-blazhennyh-v-formate-tvittera
+**Читайте также:** [«Сила в правде. Это заповедь блаженных в формате твиттера»](2021/02/20/89313-sila-v-pravde-eto-zapoved-blazhennyh-v-formate-tvittera.md)

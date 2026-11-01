@@ -21,7 +21,7 @@ tags: ""
 
 В частности, за отказ сотрудничать был заблокирован сервис анонимной почты Startmail и оштрафован швейцарский защищенный мессенджер Threema: оба внесены в реестр.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/19/roskomnadzor-obiasnil-novuiu-volnu-blokirovok-youtube-neuvazheniem-google-k-rossii-news
+**Читайте также:** [Роскомнадзор объяснил новую волну блокировок Youtube «неуважением» Google к России](2024/12/19/roskomnadzor-obiasnil-novuiu-volnu-blokirovok-youtube-neuvazheniem-google-k-rossii-news.md)
 
 #### * Принадлежит компании META, признанной в России экстремистской. Ее деятельность запрещена.
 

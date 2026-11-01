@@ -33,9 +33,9 @@ tags: "депортация, нарушения, обыски, полонски�
 
 Теперь тот же Хейсейл говорит, что россиянина выдворили из страны из-за того, что у него не было действующего паспорта. Тогда непонятно: на какой документ Полонскому поставили визу?
 
-**link:** https://novayagazeta.ru/inquests/68478.html
+**link:** [https://novayagazeta.ru/inquests/68478.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/68478.html)
 
-**link:** https://novayagazeta.ru/inquests/68478.html
+**link:** [https://novayagazeta.ru/inquests/68478.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/68478.html)
 
 Гражданская супруга Полонского Ольга Дерипаска заявила «Новой», что ее мужа отправили в «Матросскую тишину», чтобы лишить возможности судиться в Лондонском суде с теми, кто отобрал его активы. Обыски на острове Кохдекуль Дерипаска также связывает с процессами в Лондоне:
 

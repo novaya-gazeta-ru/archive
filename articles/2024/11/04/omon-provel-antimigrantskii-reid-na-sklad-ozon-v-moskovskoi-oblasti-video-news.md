@@ -21,4 +21,4 @@ tags: ""
 
 В Ozon открестились: «ни один сотрудник компании не был задержан». Объяснили это тем, что на складе работали субподрядчики компании, и проверять качество документов работников — обязанность их, а не Ozon.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/02/mozhno-vyiti-na-polnotsennuiu-zarplatu-studentam-v-peterburge-poobeshchali-1000-rublei-za-chetyrekhchasovuiu-uborku-snega-news
+**Читайте также:** [«Можно выйти на полноценную зарплату…» Студентам в Петербурге пообещали 1000 рублей за четырехчасовую уборку снега](2024/11/02/mozhno-vyiti-na-polnotsennuiu-zarplatu-studentam-v-peterburge-poobeshchali-1000-rublei-za-chetyrekhchasovuiu-uborku-sneg.md)

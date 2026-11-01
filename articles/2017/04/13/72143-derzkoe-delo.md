@@ -73,7 +73,7 @@ tags: "беслан, южная осетия, теракт , еспч, спец�
 
 — Мы как фанатики собирали людей, их показания, до 2013 года работали почти без юристов, сами, — вспоминает Элла.
 
-**link:** https://novayagazeta.ru/articles/2017/04/13/72136-pochemu-reshenie-espch-po-delu-beslana-vazhno-dlya-kazhdogo-iz-nas
+**link:** [Что случилось в Беслане 1 — 3 сентября 2004 года](2017/04/13/72136-pochemu-reshenie-espch-po-delu-beslana-vazhno-dlya-kazhdogo-iz-nas.md)
 
 ![](_assets/ea/ea30f163b8e40d4e540cce9e87f3964f.webp)
 

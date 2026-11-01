@@ -21,7 +21,7 @@ tags: ""
 
 Силовики утверждают, что задержанная ранее наносила «проукраинские надписи» в общественных местах Московской области, а также якобы пыталась поджечь некий объект РЖД.
 
-На прошлой неделе в Петербурге [задержали двух женщин](https://novayagazeta.ru/articles/2025/06/26/v-peterburge-za-nedeliu-arestovali-dvukh-zhenshchin-vypolniavshikh-zadaniia-kuratorov-iz-ukrainy-eshche-odnoi-nadeli-naruchniki-na-sudovoi-kukhne-v-novorossiiske-news) по подозрению в терроризме.
+На прошлой неделе в Петербурге [задержали двух женщин](2025/06/26/v-peterburge-za-nedeliu-arestovali-dvukh-zhenshchin-vypolniavshikh-zadaniia-kuratorov-iz-ukrainy-eshche-odnoi-nadeli-nar.md) по подозрению в терроризме.
 
 Одна, Ярослава Чумакова, призналась при задержании, что собирала данные о месте жительства и автомобилях людей, на которых указывали кураторы из телефона. ФСБ объявило, что интерес украинских спецслужб вызвали конкретные сотрудники Минобороны РФ. Чумаковой грозит до 20 лет тюрьмы.
 

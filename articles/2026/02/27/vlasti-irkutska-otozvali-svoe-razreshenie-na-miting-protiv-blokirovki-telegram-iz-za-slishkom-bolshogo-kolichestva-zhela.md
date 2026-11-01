@@ -29,4 +29,4 @@ tags: ""
 
 В Хабаровске акцию согласовали на 6 марта на окраине города. [Во Владивостоке](https://t.me/KrasnyPriboy/1704), Петропавловске-Камчатском и Новосибирске активистам отказали, а в Воронеже мэрия отказалась даже принимать документы у заявителей
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/26/rbk-s-aprelia-telegram-v-rossii-budet-polnotsenno-rabotat-tolko-na-fronte-news
+**Читайте также:** [РБК: с апреля Telegram в России будет работать «только на фронте»](2026/02/26/rbk-s-aprelia-telegram-v-rossii-budet-polnotsenno-rabotat-tolko-na-fronte-news.md)

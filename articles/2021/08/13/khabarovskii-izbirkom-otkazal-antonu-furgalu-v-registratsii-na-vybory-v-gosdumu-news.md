@@ -25,7 +25,7 @@ tags: "фургал, госдума, подписи, хабаровский кр
 
 Ранее 29-летний Антон Фургал рассказал «Новой газете», что собирается в Госдуму, «чтобы продолжить дело отца». «Решение выдвигаться — не мое единоличное, оно принято совместно с отцом», — уточнил он.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/09/anton-furgal-ia-prekrashchu-svoiu-deiatelnost-kogda-otpustiat-ottsa
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/09/anton-furgal-ia-prekrashchu-svoiu-deiatelnost-kogda-otpustiat-ottsa](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/09/anton-furgal-ia-prekrashchu-svoiu-deiatelnost-kogda-otpustiat-ottsa)
 
 Сергея Фургала задержали в июле прошлого года, ему вменяется организация убийств бизнесменов в середине 2000-х. Свою вину экс-глава Хабаровского края не признает и считает преследование политически мотивированным. После отставки Фургала регион возглавил Михаил Дегтярев, занимавший до этого пост депутата Госдумы от ЛДПР.
 

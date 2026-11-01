@@ -19,9 +19,9 @@ tags: "донбасс, донецк, украина"
 
 Согласно опубликованному в ночь на сегодня [отчету](http://www.osce.org/ru/ukraine-smm/162151) мониторинговой миссии ОБСЕ в Донбассе, сепаратисты использовали танки Т-64 и Т-72, 122-мм артиллерийские орудия, систему залпового огня «Град», БМП и грузовики с зенитными пушками.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/news/1694298.html" target="_blank"><span><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/06/04/1433417472_603237_7.jpg" style="width: 100px; height: 75px;"></span></a><span>Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/news/1694298.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1694298.html)" target="_blank"><span><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/06/04/1433417472_603237_7.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/06/04/1433417472_603237_7.jpg)" style="width: 100px; height: 75px;"></span></a><span>Читайте также:</span></strong></p>
 
-<p><strong><a href="http://www.novayagazeta.ru/news/1694298.html" target="_blank">МИД Франции потребовал немедленного прекращения боев в Донбассе</a></strong></p>]*
+<p><strong><a href="[http://www.novayagazeta.ru/news/1694298.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1694298.html)" target="_blank">МИД Франции потребовал немедленного прекращения боев в Донбассе</a></strong></p>]*
 
 В ночь на среду, 3 июня, в районе Марьинки в Донецкой области возобновились боевые действия между силами ВС Украины и бойцами ДНР. В течение ночи и дня применялась артиллерия, что подтвердили в Генштабе ВС Украины. Обстрелы прекратились вечером 3 июня.
 

@@ -14,7 +14,7 @@ tags: "футбол"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/08/08/1375963639_565921_19.jpg" style="width: 360px; height: 239px;"><sup>Сулейман Керимов.&nbsp;Фото: РИА «Новости»</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/08/08/1375963639_565921_19.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/08/08/1375963639_565921_19.jpg)" style="width: 360px; height: 239px;"><sup>Сулейман Керимов.&nbsp;Фото: РИА «Новости»</sup></td>
 		</tr>
 	</tbody>]*
 

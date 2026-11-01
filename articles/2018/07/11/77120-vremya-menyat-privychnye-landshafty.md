@@ -25,4 +25,4 @@ tags: "москва, память, анна политковская"
 
 Время сбора — 13 июля, 14.00. Место сбора — Потаповский переулок, 3.
 
-**link:** https://novayagazeta.ru/articles/2017/10/06/74086-u-zakazchika-est-alibi-politicheskoe
+**link:** [У заказчика есть алиби. Политическое](2017/10/06/74086-u-zakazchika-est-alibi-politicheskoe.md)

@@ -25,11 +25,11 @@ tags: "ng, мемориал, задержания"
 
 11 ноября Генпрокуратура России обратилась в Верховный суд РФ с требованием ликвидировать общество «Мемориал», а также подразделения организации — правозащитный центр, архив, библиотеку и музей. В качестве причины ведомство указало систематические нарушения законодательства об «иностранных агентах», а именно — отсутствие маркировки у материалов организации.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/18/prizyvaem-prokuraturu-otozvat-iski-protiv-memoriala
+**Читайте также:** [«Призываем прокуратуру отозвать иски против "Мемориала"»](2021/11/18/prizyvaem-prokuraturu-otozvat-iski-protiv-memoriala.md)
 
-К правозащитному центру возникли претензии и у московской прокуратуры: ее представители [нашли](https://novayagazeta.ru/articles/2021/11/12/prokuratura-moskvy-nashla-v-deiatelnosti-pts-memorial-psikhologicheskie-priznaki-opravdaniia-terroristicheskikh-organizatsii-news) в деятельности ПЦ «Мемориал»* «психологические и лингвистические признаки» оправдания террористических организаций.
+К правозащитному центру возникли претензии и у московской прокуратуры: ее представители [нашли](2021/11/12/prokuratura-moskvy-nashla-v-deiatelnosti-pts-memorial-psikhologicheskie-priznaki-opravdaniia-terroristicheskikh-organiza.md) в деятельности ПЦ «Мемориал»* «психологические и лингвистические признаки» оправдания террористических организаций.
 
-В «Мемориале» [назвали](https://memohrc.org/ru/news_old/generalnaya-prokuratura-podala-isk-o-likvidacii-mezhdunarodnogo-memoriala) требование Генпрокуратуры «политическим решением об уничтожении общества», которое занимается «историей политических репрессий и защитой прав человека». Там заявили, что никаких законных оснований для ликвидации «Мемориала» нет. Организацию [поддержали](https://novayagazeta.ru/articles/2021/11/15/v-podderzhku-memoriala-vystupili-bolee-100-pravozashchitnikov-i-deiatelei-iskusstva-a-takzhe-60-chlenov-ran-news), в частности, более 100 правозащитников и деятелей искусства, а также 60 членов Российской академии наук.
+В «Мемориале» [назвали](https://memohrc.org/ru/news_old/generalnaya-prokuratura-podala-isk-o-likvidacii-mezhdunarodnogo-memoriala) требование Генпрокуратуры «политическим решением об уничтожении общества», которое занимается «историей политических репрессий и защитой прав человека». Там заявили, что никаких законных оснований для ликвидации «Мемориала» нет. Организацию [поддержали](2021/11/15/v-podderzhku-memoriala-vystupili-bolee-100-pravozashchitnikov-i-deiatelei-iskusstva-a-takzhe-60-chlenov-ran-news.md), в частности, более 100 правозащитников и деятелей искусства, а также 60 членов Российской академии наук.
 
 *Обновлено 15:37. Добавлена информация о числе задержанных к 15:30*
 

@@ -21,10 +21,10 @@ tags: "чубайс, роснано, отставка, отъезд, sf"
 >
 > **16:58** Пресс-секретарь президента России Дмитрий Песков [подтвердил](https://t.me/rian_ru/155212) РИА Новости, что Анатолий Чубайс уволился по собственному желанию. «Уехал он из России или нет — его личное дело», — добавил Песков.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/24/chubais-i-rok-izobiliia
+**Читайте также:** [Чубайс и рок изобилия](2021/11/24/chubais-i-rok-izobiliia.md)
 
-Владимир Путин [назначил](https://novayagazeta.ru/articles/2020/12/04/166195-putin-naznachil-chubaysa-spetspredstavitelem-prezidenta-po-svyazyam-s-mezhdunarodnymi-organizatsiyami) Анатолия Чубайса спецпредставителем президента по связям с международными организациями в декабре 2020 года.
+Владимир Путин [назначил](2020/12/04/166195-putin-naznachil-chubaysa-spetspredstavitelem-prezidenta-po-svyazyam-s-mezhdunarodnymi-organizatsiyami.md) Анатолия Чубайса спецпредставителем президента по связям с международными организациями в декабре 2020 года.
 
 До этого в течение 12 лет руководил «Роснано».
 
-Ранее председатель фонда «Сколково» , экс вице-премьер России Аркадий Дворкович принял решение [покинуть](https://novayagazeta.ru/articles/2022/03/18/dvorkovich-ushel-s-posta-predsedatelia-fonda-skolkovo-ranee-on-vystupal-protiv-boevykh-deistvii-v-ukraine-news) пост. Он дал интервью изданию Mother Jones, в котором выступил за мирное урегулирование ситуации в Украине.
+Ранее председатель фонда «Сколково» , экс вице-премьер России Аркадий Дворкович принял решение [покинуть](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/18/dvorkovich-ushel-s-posta-predsedatelia-fonda-skolkovo-ranee-on-vystupal-protiv-boevykh-deistvii-v-ukraine-news) пост. Он дал интервью изданию Mother Jones, в котором выступил за мирное урегулирование ситуации в Украине.

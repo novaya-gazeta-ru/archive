@@ -19,4 +19,4 @@ tags: "режиссеры, каннский кинофестиваль, росс
 
 Фестиваль в Каннах в этом году проходит с 6 по 17 июля. Завтра он завершится вручением главного приза — «Золотой пальмовой ветви».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/10/kira-kovalenko-sviazannye-nadezhnoi-tsepiu-my-ne-umeem-razgovarivat-drug-s-drugom
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/10/kira-kovalenko-sviazannye-nadezhnoi-tsepiu-my-ne-umeem-razgovarivat-drug-s-drugom](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/10/kira-kovalenko-sviazannye-nadezhnoi-tsepiu-my-ne-umeem-razgovarivat-drug-s-drugom)

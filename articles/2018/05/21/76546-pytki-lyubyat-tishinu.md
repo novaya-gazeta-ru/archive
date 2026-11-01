@@ -21,7 +21,7 @@ tags: "права человека, акции протеста, фсб, пен�
 
 Целью акции организаторы назвали привлечение внимания общества к «ставшей уже нормой» практике применения пыток сотрудниками полиции и ФСБ. Мероприятие было согласовано властями города.
 
-**link:** https://novayagazeta.ru/articles/2018/05/17/76495-klopy-iz-fsb
+**link:** [Клопы из ФСБ](2018/05/17/76495-klopy-iz-fsb.md)
 
 ![](_assets/7e/7e0cfb3e0f5cbd025fd97cd624bee161.webp)
 
@@ -47,13 +47,13 @@ tags: "права человека, акции протеста, фсб, пен�
 
 *Фото: Елена Лукьянова / «Новая газета в Петербурге»*
 
-**link:** https://novayagazeta.ru/articles/2018/02/20/75563-blat-komitet-gosudarstvennoy-bezopasnosti
+**link:** [«Блат-комитет» государственной безопасности](2018/02/20/75563-blat-komitet-gosudarstvennoy-bezopasnosti.md)
 
 ![](_assets/2f/2f999da46dd10edc2db9f21492518057.webp)
 
 *Фото: Елена Лукьянова / «Новая газета в Петербурге»*
 
-**link:** https://novayagazeta.ru/articles/2018/05/17/76499-klaus-pokazal-klass
+**link:** [Клаус показал класс](2018/05/17/76499-klaus-pokazal-klass.md)
 
 ![](_assets/62/628a4cfaa0ac33d2d22519742e47176d.webp)
 

@@ -15,7 +15,7 @@ tags: "убийство, италия, роккелли, kb"
 
 Обвинение просило приговорить Маркива к 17 годам заключения. Защита требовала его освобождения в связи с недостатком улик. Российская сторона не ответила за запросы итальянского следствия, поэтому Маркиву вменяли только убийство Роккелли. В связи с этим суд проходил в Павии, родном городе Роккелли.
 
-**link:** https://novayagazeta.ru/articles/2019/05/28/80683-on-ne-dolzhen-byt-edinstvennym-kto-poneset-otvetstvennost
+**link:** [«Он не должен быть единственным, кто понесет ответственность»](2019/05/28/80683-on-ne-dolzhen-byt-edinstvennym-kto-poneset-otvetstvennost.md)
 
 Андрей Миронов и Андреа Роккелли погибли в мае 2014 года в результате минометного обстрела у подножия горы Карачун под Славянском, который тогда контролировали пророссийские сепаратисты.
 
@@ -25,6 +25,6 @@ tags: "убийство, италия, роккелли, kb"
 
 *Андрей Миронов и Андреа Роккелли. Фото из архива*
 
-Защита Маркива [настаивает](https://www.novayagazeta.ru/news/2019/03/21/150215-sud-italyanskoy-pavii-doprosil-ukraintsa-obvinyaemogo-v-prednamerennom-ubiystve-fotozhurnalista-rokkelli-i-pravozaschitnika-mironova-pod-slavyanskom%C2%A0), что Миронов и Роккелли находились в зоне боевых действий без опознавательных знаков и стали жертвами перекрестного огня, а он узнал об убийстве только после звонка знакомых журналистов.
+Защита Маркива [настаивает](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/03/21/150215-sud-italyanskoy-pavii-doprosil-ukraintsa-obvinyaemogo-v-prednamerennom-ubiystve-fotozhurnalista-rokkelli-i-pravozaschitnika-mironova-pod-slavyanskom%C2%A0), что Миронов и Роккелли находились в зоне боевых действий без опознавательных знаков и стали жертвами перекрестного огня, а он узнал об убийстве только после звонка знакомых журналистов.
 
-Свидетелем по делу [проходил](https://www.novayagazeta.ru/news/2018/12/06/147381-svidetel-po-delu-ob-ubiystve-zhurnalistov-mironova-i-rokelli-v-donbasse-dal-pokazaniya-v-sude) французский фотожурналист Уильям Рогелон, который находился в том же автомобиле, что и погибшие журналисты, был ранен, но выжил.
+Свидетелем по делу [проходил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/12/06/147381-svidetel-po-delu-ob-ubiystve-zhurnalistov-mironova-i-rokelli-v-donbasse-dal-pokazaniya-v-sude) французский фотожурналист Уильям Рогелон, который находился в том же автомобиле, что и погибшие журналисты, был ранен, но выжил.

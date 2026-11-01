@@ -25,9 +25,9 @@ tags: "библиотека ИНИОН, травля"
 
 30 апреля Пивоваров вызван на допрос в Следственный комитет.
 
-**link:** https://novayagazeta.ru/columns/68093.html
+**link:** [https://novayagazeta.ru/columns/68093.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/68093.html)
 
-**link:** https://novayagazeta.ru/columns/68093.html
+**link:** [https://novayagazeta.ru/columns/68093.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/68093.html)
 
 Я записала интервью с Юрием Сергеевичем, еще в то время, когда он работал директором Института. Разговор получился в целом «про хозяйство». Академик рассказывал про то, что в ИНИОН была хорошая противопожарная система. Но — ручная. Чтобы сделать современную систему, требовалось 60 миллионов. А давали всего два…
 

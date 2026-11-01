@@ -17,9 +17,9 @@ tags: "суды, краснодарский край"
 
 *Фото: Елена НИКИТЧЕНКО / ТАСС*
 
-**link:** https://novayagazeta.ru/inquests/69827.html
+**link:** [https://novayagazeta.ru/inquests/69827.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/69827.html)
 
-**link:** https://novayagazeta.ru/inquests/68193.html
+**link:** [https://novayagazeta.ru/inquests/68193.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/68193.html)
 
 **— Анна, это первый подобный случай в современной судебной практике?**
 

@@ -83,4 +83,4 @@ tags: ""
 
 *Страницы книги «Метео-Чертик. Труды и дни. 1941»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2019/12/25/83289-talant-nezakonnoy-radosti
+**Читайте также:** [Талант незаконной радости](2019/12/25/83289-talant-nezakonnoy-radosti.md)

@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/05/27/1401189875_020219_34.jpg" style="width: 340px; height: 226px;"><sup>Фото: <a href="http://www.pravmir.ru/" target="_blank">«Православие и мир»</a></sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/05/27/1401189875_020219_34.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/05/27/1401189875_020219_34.jpg)" style="width: 340px; height: 226px;"><sup>Фото: <a href="http://www.pravmir.ru/" target="_blank">«Православие и мир»</a></sup></td>
 		</tr>
 	</tbody>]*
 

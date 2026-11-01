@@ -25,4 +25,4 @@ tags: "депутат, полицейский, дпс, уголовное дел
 
 Бурнашов работал депутатом от Пермского края в Госдуме VII созыва. В июне 2021 года он проиграл праймериз и не вошел в состав нового созыва нижней палаты парламента.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/15/luchshe-peite-no-ne-protestuite
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/15/luchshe-peite-no-ne-protestuite](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/15/luchshe-peite-no-ne-protestuite)

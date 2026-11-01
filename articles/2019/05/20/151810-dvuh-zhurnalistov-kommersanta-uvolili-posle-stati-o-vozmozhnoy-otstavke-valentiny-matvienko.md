@@ -13,7 +13,7 @@ tags: "«коммерсант», увольнения, журналисты"
 
 > **продолжение**
 >
-> [«Не считаем, что ситуация может быть поводом для комментариев»: пресс-секретарь Матвиенко — об&nbsp;увольнении журналистов «Ъ»](https://www.novayagazeta.ru/news/2019/05/20/151818-ne-schitaem-chto-situatsiya-mozhet-byt-povodom-dlya-kommentariev-press-sekretar-matvienko-ob-uvolnenii-zhurnalistov)
+> [«Не считаем, что ситуация может быть поводом для комментариев»: пресс-секретарь Матвиенко — об&nbsp;увольнении журналистов «Ъ»](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/05/20/151818-ne-schitaem-chto-situatsiya-mozhet-byt-povodom-dlya-kommentariev-press-sekretar-matvienko-ob-uvolnenii-zhurnalistov)
 
 Спецкор газеты «Коммерсант» Иван Сафронов и корреспондент отдела политики Максим Иванов уйдут из издания после статьи о возможной отставке спикера Совета Федерации Валентины Матвиенко. Об этом Сафронов [сообщил](https://www.facebook.com/isafronov/posts/10219767763932544) в фейсбуке.
 
@@ -29,8 +29,8 @@ tags: "«коммерсант», увольнения, журналисты"
 
 Бывший журналист газеты рассказал «Би-би-си», что на статью владельцу «Коммерсанта» Алишеру Усманову жаловалась сама Матвиенко. Представитель бизнесмена отказался от комментариев. Другой экс-сотрудник издания добавил, что после выхода статьи якобы «обсуждалось увольнение самого Желонкина, но тому "удалось отбиться"».
 
-Материал о возможной отставке Валентины Матвиенко [вышел](https://www.novayagazeta.ru/news/2019/04/17/150937-smi-uznali-o-vozmozhnom-uhode-valentiny-matvienko-s-posta-spikera-soveta-federatsii) 17 апреля: по данным журналистов, спикер Совфеда планировала после этого возглавить Пенсионный фонд, а ее место должен был занять глава Службы внешней разведки Сергей Нарышкин. Авторами материала значились еще трое журналистов.
+Материал о возможной отставке Валентины Матвиенко [вышел](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/04/17/150937-smi-uznali-o-vozmozhnom-uhode-valentiny-matvienko-s-posta-spikera-soveta-federatsii) 17 апреля: по данным журналистов, спикер Совфеда планировала после этого возглавить Пенсионный фонд, а ее место должен был занять глава Службы внешней разведки Сергей Нарышкин. Авторами материала значились еще трое журналистов.
 
-**link:** https://novayagazeta.ru/articles/2018/07/24/77267-glyantsevyy-kreml
+**link:** [Кто ласкает Кремль](2018/07/24/77267-glyantsevyy-kreml.md)
 
-В марте из петербургской редакции «Коммерсанта» [уволили](http://www.novayagazeta.ru/news/2019/03/19/150126-zhurnalistka-kommersanta-rasskazala-chto-ee-uvolili-iz-za-nedovolstva-vlastey-osvescheniem-izbiratelnoy-kampanii-vrio-gubernatora-peterburga) журналистку Марию Карпенко, поскольку она, помимо основной работы, вела свой [телеграм-канал](https://t.me/rotondamariinski) «Ротонда». Сама журналистка [говорила](https://www.novayagazeta.ru/news/2019/03/19/150126-zhurnalistka-kommersanta-rasskazala-chto-ee-uvolili-iz-za-nedovolstva-vlastey-osvescheniem-izbiratelnoy-kampanii-vrio-gubernatora-peterburga), что решение было связано с резкой критикой врио губернатора Петербурга Александра Беглова: по ее словам, глава издательского дома Владимир Желонкин называл канал «активизмом, несовместимым с журналистским статусом».
+В марте из петербургской редакции «Коммерсанта» [уволили](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/2019/03/19/150126-zhurnalistka-kommersanta-rasskazala-chto-ee-uvolili-iz-za-nedovolstva-vlastey-osvescheniem-izbiratelnoy-kampanii-vrio-gubernatora-peterburga) журналистку Марию Карпенко, поскольку она, помимо основной работы, вела свой [телеграм-канал](https://t.me/rotondamariinski) «Ротонда». Сама журналистка [говорила](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/03/19/150126-zhurnalistka-kommersanta-rasskazala-chto-ee-uvolili-iz-za-nedovolstva-vlastey-osvescheniem-izbiratelnoy-kampanii-vrio-gubernatora-peterburga), что решение было связано с резкой критикой врио губернатора Петербурга Александра Беглова: по ее словам, глава издательского дома Владимир Желонкин называл канал «активизмом, несовместимым с журналистским статусом».

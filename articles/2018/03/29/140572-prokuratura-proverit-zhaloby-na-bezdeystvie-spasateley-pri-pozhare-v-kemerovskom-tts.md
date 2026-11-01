@@ -21,8 +21,8 @@ tags: "nt, тц зимняя вишня, кемерово, мчс"
 
 Как рассказал Сабадаш, в прокуратуре жалобу приняли. Аналогичную жалобу подала еще одна семья.
 
-**link:** https://novayagazeta.ru/articles/2018/03/27/75962-mne-vse-ravno-kto-zaper-dver-vernite-moih-detey
+**link:** [«Мне все равно, кто запер дверь, верните моих детей!»](2018/03/27/75962-mne-vse-ravno-kto-zaper-dver-vernite-moih-detey.md)
 
 По словам Востриковой, во время пожара ей позвонила дочь, которая сказала, что она заперта вместе с другими детьми в зале кинотеатра в торговом центре и что там отключили свет и началось возгорание. Женщина прибыла в торговый центр, но находившиеся там пожарные в кинозал идти отказались, сославшись на то, что ждут бригаду спасателей.
 
-Напомним, пожар в ТЦ «Зимняя вишня» в центре Кемерова начался днем 25 марта и распространился на площади 1,6 тысяч кв. м. По официальным данным, [погибли](https://www.novayagazeta.ru/news/2018/03/27/140512-rodstvenniki-soobschili-o-gibeli-41-rebenka-v-pozhare-v-kemerove) 64 человека, из которых 41 ребенок. Еще 67 [пострадали](https://www.novayagazeta.ru/news/2018/03/27/140509-istochnik-chislo-pogibshih-v-kemerove-uvelichilos-do-67).
+Напомним, пожар в ТЦ «Зимняя вишня» в центре Кемерова начался днем 25 марта и распространился на площади 1,6 тысяч кв. м. По официальным данным, [погибли](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/03/27/140512-rodstvenniki-soobschili-o-gibeli-41-rebenka-v-pozhare-v-kemerove) 64 человека, из которых 41 ребенок. Еще 67 [пострадали](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/03/27/140509-istochnik-chislo-pogibshih-v-kemerove-uvelichilos-do-67).

@@ -19,6 +19,6 @@ tags: "шахта, кузбасс, обрушение, уголь, горняк�
 
 24 марта прокуратура Кемеровской области [организовала](https://epp.genproc.gov.ru/web/proc_42/mass-media/news?item=72556869) проверку по факту случившегося.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/28/neizvestnyi-podvig-shakhtera-tsyganova
+**Читайте также:** [Неизвестный подвиг шахтера Цыганова](2021/11/28/neizvestnyi-podvig-shakhtera-tsyganova.md)
 
-В ноябре прошлого года на угольной шахте «Листвяжная» в городе Белове в Кемеровской области произошли взрыв и пожар. Всего на момент трагедии, по данным МЧС, в шахте находились 285 горняков. 51 человек [погиб](https://novayagazeta.ru/articles/2021/12/15/sud-otpravil-v-sizo-sobstvennika-shakhty-listviazhnaia-mikhaila-fediaeva-po-delu-o-vzryve-v-rezultate-kotorogo-pogib-51-chelovek-news) в результате случившегося, среди них 46 горняков и пять спасателей.
+В ноябре прошлого года на угольной шахте «Листвяжная» в городе Белове в Кемеровской области произошли взрыв и пожар. Всего на момент трагедии, по данным МЧС, в шахте находились 285 горняков. 51 человек [погиб](2021/12/15/sud-otpravil-v-sizo-sobstvennika-shakhty-listviazhnaia-mikhaila-fediaeva-po-delu-o-vzryve-v-rezultate-kotorogo-pogib-51-.md) в результате случившегося, среди них 46 горняков и пять спасателей.

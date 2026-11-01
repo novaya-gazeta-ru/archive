@@ -13,7 +13,7 @@ tags: ""
 
 > **Есть продолжение**
 >
-> ### [«Схвативший меня мужчина оказался инициативным местным жителем». Журналистку «Кедра»* отпустили из полиции Туапсе после 5-часового задержания](https://novayagazeta.ru/articles/2026/04/28/skhvativshii-menia-muzhchina-okazalsia-initsiativnym-mestnym-zhitelem-zhurnalistku-kedra-otpustili-iz-politsii-tuapse-posle-5-chasovogo-zaderzhaniia-news)
+> ### [«Схвативший меня мужчина оказался инициативным местным жителем». Журналистку «Кедра»* отпустили из полиции Туапсе после 5-часового задержания](2026/04/28/skhvativshii-menia-muzhchina-okazalsia-initsiativnym-mestnym-zhitelem-zhurnalistku-kedra-otpustili-iz-politsii-tuapse-po.md)
 
 ![](_assets/b3/b3e25cd8925b828451228686b948687a.webp)
 
@@ -27,6 +27,6 @@ tags: ""
 
 > Анастасия успела сообщить, что ее удерживает мужчина в штатском, в кепке с надписью «М 24», похожей на логотип телеканала «Москва 24». Однако в редакции телеканала «Кедру» сообщили, что его представители сейчас не работают в Туапсе.
 
-Инфраструктура туапсинского НПЗ сегодня ночью вновь [была атакована](https://novayagazeta.ru/articles/2026/04/28/v-tuapse-posle-ataki-dronov-vnov-zagorelsia-na-dniakh-potushennyi-npz-zhitelei-blizlezhashchikh-raionov-evakuiruiut-nad-gorodom-chernyi-dym-news) беспилотниками, снова возник пожар, утром над заводом стоит черный дым. Оперштаб сообщил об эвакуации людей из района, соседнего с НПЗ.
+Инфраструктура туапсинского НПЗ сегодня ночью вновь [была атакована](2026/04/28/v-tuapse-posle-ataki-dronov-vnov-zagorelsia-na-dniakh-potushennyi-npz-zhitelei-blizlezhashchikh-raionov-evakuiruiut-nad-.md) беспилотниками, снова возник пожар, утром над заводом стоит черный дым. Оперштаб сообщил об эвакуации людей из района, соседнего с НПЗ.
 
 #### * Минюст включил в реестр иноагентов.

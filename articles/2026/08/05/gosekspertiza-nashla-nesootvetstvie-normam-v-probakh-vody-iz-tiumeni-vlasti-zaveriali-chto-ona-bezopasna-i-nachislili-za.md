@@ -19,11 +19,11 @@ tags: "тюмень, экология"
 
 > «Росводоканал Тюмень» [заявлял](https://nashgorod.ru/news/2026-07-22/voda-vonyaet-a-my-platim-mogut-li-tyumentsy-sdelat-pereraschet-za-vodu-iz-za-ee-zapaha-5642621), что вода соответствует нормам безопасности, поэтому сделать перерасчет «не получится».
 
-Губернатор Тюменской области Александр Моор [заверил](https://novayagazeta.ru/articles/2026/07/30/gubernator-obiasnil-prichinu-voniuchei-vodoprovodnoi-vody-v-tiumeni-unikalnym-prirodnym-iavleniem-v-regione-chs-news), что вода соответствует санитарным нормам, не угрожает жизни человека — но с оговоркой о «некоторых отклонениях по органолептическим показателям».
+Губернатор Тюменской области Александр Моор [заверил](2026/07/30/gubernator-obiasnil-prichinu-voniuchei-vodoprovodnoi-vody-v-tiumeni-unikalnym-prirodnym-iavleniem-v-regione-chs-news.md), что вода соответствует санитарным нормам, не угрожает жизни человека — но с оговоркой о «некоторых отклонениях по органолептическим показателям».
 
 -
 
-Проблемы с водой в Тюмени [наблюдаются](https://t.me/novaya_pishet/59199) с середины июля. Жители жалуются на вонь, описывая запах как смесь болот, гниющей рыбы и фекалий. Моор [объяснял](https://novayagazeta.ru/articles/2026/07/30/gubernator-obiasnil-prichinu-voniuchei-vodoprovodnoi-vody-v-tiumeni-unikalnym-prirodnym-iavleniem-v-regione-chs-news) это таким «уникальным природным явлением», как обилие осадков: в реку Туру попало «большое количество органических соединений», и рыба стала гибнуть.
+Проблемы с водой в Тюмени [наблюдаются](https://t.me/novaya_pishet/59199) с середины июля. Жители жалуются на вонь, описывая запах как смесь болот, гниющей рыбы и фекалий. Моор [объяснял](2026/07/30/gubernator-obiasnil-prichinu-voniuchei-vodoprovodnoi-vody-v-tiumeni-unikalnym-prirodnym-iavleniem-v-regione-chs-news.md) это таким «уникальным природным явлением», как обилие осадков: в реку Туру попало «большое количество органических соединений», и рыба стала гибнуть.
 
 -
 

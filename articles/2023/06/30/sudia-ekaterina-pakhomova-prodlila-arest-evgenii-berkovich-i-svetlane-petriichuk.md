@@ -15,6 +15,6 @@ tags: "петрийчук, беркович, финист ясный сокол,
 
 #### * Признано террористическим и запрещено в РФ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/06/30/chto-budet-s-detmi-medlennoe-ubivanie
+**Читайте также:** [«Что будет с детьми?» — «Медленное убивание»](2023/06/30/chto-budet-s-detmi-medlennoe-ubivanie.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/06/30/ia-repetirovala-ostroumnuiu-rech-no-posmotrela-na-svoiu-semiu-i-poniala-chto-nichego-ostroumnogo-ne-proiskhodit
+**Читайте также:** [«Я репетировала остроумную речь, но посмотрела на свою семью и поняла, что ничего остроумного не происходит»](2023/06/30/ia-repetirovala-ostroumnuiu-rech-no-posmotrela-na-svoiu-semiu-i-poniala-chto-nichego-ostroumnogo-ne-proiskhodit.md)

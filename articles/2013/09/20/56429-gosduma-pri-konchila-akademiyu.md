@@ -16,7 +16,7 @@ tags: "наука"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/09/20/1379631846_550468_6.jpg" style="width: 250px; height: 375px;"><sup>Фото: Маргарита Рогова — «Новая»</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/09/20/1379631846_550468_6.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/09/20/1379631846_550468_6.jpg)" style="width: 250px; height: 375px;"><sup>Фото: Маргарита Рогова — «Новая»</sup></td>
 		</tr>
 	</tbody>]*
 

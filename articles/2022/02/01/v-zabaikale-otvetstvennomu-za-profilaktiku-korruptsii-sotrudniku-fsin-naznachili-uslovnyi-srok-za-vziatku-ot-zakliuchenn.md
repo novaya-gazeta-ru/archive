@@ -19,6 +19,6 @@ tags: "взятка, забайкалье, фсин, sn"
 
 «Чита.ру» также стало известно, что одного из заключенных забайкальской ИК-8 признали виновным в даче взятки в обмен на содействие в условно-досрочном освобождении. Взяткодатель получил 3 года реального срока.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/21/pod-obodkom-unitaza-gaishnaia-palochka
+**Читайте также:** [Под ободком унитаза — гаишная палочка](2021/07/21/pod-obodkom-unitaza-gaishnaia-palochka.md)
 
-В России за прошлый год [зарегистрировали](https://novayagazeta.ru/articles/2022/01/19/v-rossii-za-2021-god-zaregistrirovali-bolee-185-tysiachi-prestuplenii-sviazannykh-s-vziatkami-eto-na-27-bolshe-chem-godom-ranee-news) более 18,5 тысячи преступлений, связанных с взятками — это на 27% больше, чем годом ранее. Всего МВД зафиксировало более 35 тысяч коррупционных преступлений
+В России за прошлый год [зарегистрировали](2022/01/19/v-rossii-za-2021-god-zaregistrirovali-bolee-185-tysiachi-prestuplenii-sviazannykh-s-vziatkami-eto-na-27-bolshe-chem-godo.md) более 18,5 тысячи преступлений, связанных с взятками — это на 27% больше, чем годом ранее. Всего МВД зафиксировало более 35 тысяч коррупционных преступлений

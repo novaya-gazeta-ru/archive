@@ -17,7 +17,7 @@ tags: "акционизм, пандемия, коронавирус, реакц�
 
 *Фото: Silvia Izquierdo / AP / ТАСС*
 
-**link:** https://novayagazeta.ru/articles/2020/04/11/84846-klinicheskiy-karantin
+**link:** [Клинический карантин](2020/04/11/84846-klinicheskiy-karantin.md)
 
 Клинический карантин
 

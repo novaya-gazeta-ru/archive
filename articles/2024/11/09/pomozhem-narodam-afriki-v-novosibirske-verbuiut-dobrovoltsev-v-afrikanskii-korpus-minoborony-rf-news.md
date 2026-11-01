@@ -29,6 +29,6 @@ QR-код ведет на телеграм-аккаунт AfricaKorpus Filin, а
 
 *Высадка в Буркина-Фасо в январе 2024 года. Фото: телеграм-канал «Африканского корпуса»*
 
-При этом в Африке на службе у местных правителей продолжают действовать и остатки ЧВК «Вагнер». Летом стало известно о том, что «вагнеровцы» попали в засаду к отрядам туарегов и [были разбиты в Мали](https://novayagazeta.ru/articles/2024/07/31/razgrom-v-kanone).
+При этом в Африке на службе у местных правителей продолжают действовать и остатки ЧВК «Вагнер». Летом стало известно о том, что «вагнеровцы» попали в засаду к отрядам туарегов и [были разбиты в Мали](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/07/31/razgrom-v-kanone).
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/07/31/razgrom-v-kanone
+**Читайте также:** [https://novayagazeta.ru/articles/2024/07/31/razgrom-v-kanone](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/07/31/razgrom-v-kanone)

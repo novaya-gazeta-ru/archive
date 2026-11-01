@@ -19,6 +19,6 @@ tags: "центробанк, ключевая ставка, деньги, инф
 
 ЦБ допускает возможность дальнейшего повышения ключевой ставки на ближайших заседаниях.
 
-В декабре Центробанк также [поднял](https://novayagazeta.ru/articles/2021/12/17/tsentrobank-podnial-kliuchevuiu-stavku-do-85-godovykh-eto-sedmoe-povyshenie-podriad-s-marta-2021-goda-news) ключевую ставку на один процентный пункт — до 8,5% годовых. Это было седьмое повышение подряд с марта 2021 года.
+В декабре Центробанк также [поднял](2021/12/17/tsentrobank-podnial-kliuchevuiu-stavku-do-85-godovykh-eto-sedmoe-povyshenie-podriad-s-marta-2021-goda-news.md) ключевую ставку на один процентный пункт — до 8,5% годовых. Это было седьмое повышение подряд с марта 2021 года.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/10/bolshie-stavki
+**Читайте также:** [Большие ставки](2022/02/10/bolshie-stavki.md)

@@ -33,9 +33,9 @@ tags: "кризис, путин, украина"
 
 Но потом ситуация ухудшилась, а в конце января снова превратилась в катастрофу.
 
-**link:** https://novayagazeta.ru/news/1691081.html
+**link:** [https://novayagazeta.ru/news/1691081.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1691081.html)
 
-**link:** https://novayagazeta.ru/news/1691081.html
+**link:** [https://novayagazeta.ru/news/1691081.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1691081.html)
 
 Видимо, в декабре нужно было обращать особое внимание на путинские слова про то, что мир «может произойти или произойдет».
 

@@ -41,7 +41,7 @@ tags: "разгон, полиция, парламент, протесты, гр�
 
 *Фото: Давид Пипиа / Jam-news.net*
 
-**link:** https://novayagazeta.ru/articles/2019/06/25/81024-te-kogo-pret-ot-gruzii-vse-ravno-priedut
+**link:** [«Ну что, мы вас всех уже избили?»](2019/06/25/81024-te-kogo-pret-ot-gruzii-vse-ravno-priedut.md)
 
 ![](_assets/a4/a491ecb8741d36ae3cd9d2011918b678.webp)
 

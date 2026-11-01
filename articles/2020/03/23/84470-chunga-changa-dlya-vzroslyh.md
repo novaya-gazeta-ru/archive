@@ -41,7 +41,7 @@ tags: "табаков, тнт premier, тнт, премьера, сериалы"
 
 Авторы говорят, что их кино — психотерапевтическое, контейнер для стрессов.
 
-**link:** https://novayagazeta.ru/articles/2020/03/22/84442-protivovirusnyy-dokumenalnyy-festival-sovmestno-s-artdokfestom
+**link:** [Противовирусный докфест «Новой» и Артдокфеста завершен. Спасибо 70 000 зрителям!](2020/03/22/84442-protivovirusnyy-dokumenalnyy-festival-sovmestno-s-artdokfestom.md)
 
 > Актуально для запертых в карантине со своими шкафами в эпоху самоизоляции с туманными перспективами.
 

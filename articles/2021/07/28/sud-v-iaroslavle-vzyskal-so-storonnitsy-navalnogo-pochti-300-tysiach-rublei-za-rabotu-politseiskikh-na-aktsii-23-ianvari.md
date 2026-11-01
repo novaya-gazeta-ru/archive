@@ -19,8 +19,8 @@ tags: "ng, навальный, митинги"
 
 После этого ведомство [сократило](https://t.me/apologia/3803) сумму иска на 40%, отказавшись раскрывать данные о работниках бюро специальных технических мероприятий и оперативно-поискового бюро, так как информация о них составляет гостайну.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/04/28/za-iznos-dubinki
+**Читайте также:** [За износ дубинки](2021/04/28/za-iznos-dubinki.md)
 
-Ранее с требованием выплатить компенсацию за работу на митингах полиция обращалась в суд в [Кемерове](https://novayagazeta.ru/articles/2021/06/18/kemerovskie-politseiskie-potrebovali-ot-organizatorov-aktsii-v-podderzhku-navalnogo-pochti-700-tysiach-rublei-za-rabotu-v-vykhodnye), [Омске](https://novayagazeta.ru/articles/2021/05/20/v-omske-politsiia-potrebovala-so-storonnikov-navalnogo-pochti-polmilliona-rublei-za-rabotu-v-vykhodnye-na-aktsii-23-ianvaria), [Пензе](https://novayagazeta.ru/articles/2021/04/12/politsiia-penzy-potrebovala-ot-glavy-mestnogo-shtaba-navalnogo-900-tysiach-rublei-za-vyplaty-silovikam-rabotavshim-v-vykhodnoi-23-ianvaria), [Челябинске](https://novayagazeta.ru/articles/2021/04/28/za-iznos-dubinki) и [Кирове](https://ovdinfo.org/express-news/2021/06/16/kirovskaya-policiya-hochet-okolo-300-tysyach-rubley-ot-aktivistov-iz-za).
+Ранее с требованием выплатить компенсацию за работу на митингах полиция обращалась в суд в [Кемерове](2021/06/18/kemerovskie-politseiskie-potrebovali-ot-organizatorov-aktsii-v-podderzhku-navalnogo-pochti-700-tysiach-rublei-za-rabotu-.md), [Омске](2021/05/20/v-omske-politsiia-potrebovala-so-storonnikov-navalnogo-pochti-polmilliona-rublei-za-rabotu-v-vykhodnye-na-aktsii-23-ianv.md), [Пензе](2021/04/12/politsiia-penzy-potrebovala-ot-glavy-mestnogo-shtaba-navalnogo-900-tysiach-rublei-za-vyplaty-silovikam-rabotavshim-v-vyk.md), [Челябинске](2021/04/28/za-iznos-dubinki.md) и [Кирове](https://ovdinfo.org/express-news/2021/06/16/kirovskaya-policiya-hochet-okolo-300-tysyach-rubley-ot-aktivistov-iz-za).
 
 #### *Мосгорсуд признал сеть региональных штабов Навального экстремистскими структурами и запретил их деятельность на территории РФ

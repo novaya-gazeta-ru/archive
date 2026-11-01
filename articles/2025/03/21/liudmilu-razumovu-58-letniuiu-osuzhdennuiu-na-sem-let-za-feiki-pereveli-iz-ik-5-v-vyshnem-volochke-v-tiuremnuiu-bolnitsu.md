@@ -15,9 +15,9 @@ tags: ""
 
 *Людмила Разумова в суде*
 
-Напомним: протестуя из-за надуманных рапортов с последующими взысканиями и из-за неоказания необходимой медицинской помощи в ИК-5 в Вышнем Волочке, Людмила Разумова [объявила сухую голодовку](https://novayagazeta.ru/articles/2025/03/06/ubivaiut-menia-za-to-chto-ia-govoriu-pravdu-o-nikh) с 28 февраля. Осужденная требовала перевести ее в тюремную больницу в городе Торжок.
+Напомним: протестуя из-за надуманных рапортов с последующими взысканиями и из-за неоказания необходимой медицинской помощи в ИК-5 в Вышнем Волочке, Людмила Разумова [объявила сухую голодовку](2025/03/06/ubivaiut-menia-za-to-chto-ia-govoriu-pravdu-o-nikh.md) с 28 февраля. Осужденная требовала перевести ее в тюремную больницу в городе Торжок.
 
-Она [прекратила голодовку](https://novayagazeta.ru/articles/2025/03/14/prekratit-sukhuiu-golodovku-politzakliuchennuiu-liudmilu-razumovu-ubedil-politik-i-byvshii-politzek-vladimir-kara-murza-news) 12 марта. После прекращения голодовки ее [опять поместили](https://novayagazeta.ru/articles/2025/03/18/khudozhnitse-liudmile-razumovoi-naznachili-eshche-14-sutok-shizo-news) в ШИЗО.
+Она [прекратила голодовку](2025/03/14/prekratit-sukhuiu-golodovku-politzakliuchennuiu-liudmilu-razumovu-ubedil-politik-i-byvshii-politzek-vladimir-kara-murza-.md) 12 марта. После прекращения голодовки ее [опять поместили](2025/03/18/khudozhnitse-liudmile-razumovoi-naznachili-eshche-14-sutok-shizo-news.md) в ШИЗО.
 
 В прокуратуру, в УФСИН Тверской области и во ФСИН России в последние дни были направлены тысячи обращений в поддержку требований Людмилы Разумовой.
 

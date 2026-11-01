@@ -71,4 +71,4 @@ tags: "запрет абортов, аборты, прерывание бере�
 
 Как-то не верится в случайность этой фразы.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/06/19/nravstvennost-eto-ili-stydno-ili-ne-stydno
+**Читайте также:** [«Нравственность — это или стыдно, или не стыдно»](2023/06/19/nravstvennost-eto-ili-stydno-ili-ne-stydno.md)

@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/07/22/1406037302_770578_40.jpg" style="width: 340px; height: 241px;"><br>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/07/22/1406037302_770578_40.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/07/22/1406037302_770578_40.jpg)" style="width: 340px; height: 241px;"><br>
 			<span style="font-size: 10px; text-align: right;">Фото: REUTERS</span></td>
 		</tr>
 		<tr>

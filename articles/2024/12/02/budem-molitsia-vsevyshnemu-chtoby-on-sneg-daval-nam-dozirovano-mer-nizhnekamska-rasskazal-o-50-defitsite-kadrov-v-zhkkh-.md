@@ -17,10 +17,10 @@ tags: ""
 
 Пока «город чистый», но в дальнейшем все будет зависеть от обильности снегопадов, отметил мэр. «Если будет как в прошлом году, будет достаточно сложно. Будем молиться всевышнему, чтобы он снег давал нам дозировано. Хазрат и батюшка здесь. Меньше грешить, больше просить, как говорится, больше благодарить всевышнего за то, что он нам дает. Мы не должны забывать, что живем в непростое время», — добавил Муллин.
 
-В начале ноября в Петербурге спикер ЗакСа Александр Бельский заявил, что студентам будут платить [по тысяче рублей за четыре часа](https://novayagazeta.ru/articles/2024/11/02/mozhno-vyiti-na-polnotsennuiu-zarplatu-studentam-v-peterburge-poobeshchali-1000-rublei-za-chetyrekhchasovuiu-uborku-snega-news) уборки снега.
+В начале ноября в Петербурге спикер ЗакСа Александр Бельский заявил, что студентам будут платить [по тысяче рублей за четыре часа](2024/11/02/mozhno-vyiti-na-polnotsennuiu-zarplatu-studentam-v-peterburge-poobeshchali-1000-rublei-za-chetyrekhchasovuiu-uborku-sneg.md) уборки снега.
 
 Петербург, как и другие регионы, испытывает дефицит рабочей силы, при том что в городе активно проходят антимиграционные мероприятия. Так, к октябрю 2024 года власти депортировали более 6 тысяч трудовых мигрантов — в два раза больше, чем за весь прошлый год.
 
-Дворники в ноябре [возглавили](https://novayagazeta.ru/articles/2024/11/16/dvorniki-stali-samoi-defitsitnoi-spetsialnostiu-v-rossii-na-noiabr-2024-goda-issledovanie-news) рейтинг самых дефицитных специальностей в России, испытывающей недостаток рабочей силы и одновременного ужесточающей миграционную политику.
+Дворники в ноябре [возглавили](2024/11/16/dvorniki-stali-samoi-defitsitnoi-spetsialnostiu-v-rossii-na-noiabr-2024-goda-issledovanie-news.md) рейтинг самых дефицитных специальностей в России, испытывающей недостаток рабочей силы и одновременного ужесточающей миграционную политику.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/02/v-minpromtorge-obvinili-kurerov-kotorye-zarabatyvaiut-bolshe-professorov-v-tom-chto-oni-zamedliaiut-ekonomiku-i-otuchaiut-rossiian-ot-magazinov-news
+**Читайте также:** [В Минпромторге обвинили курьеров в том, что они замедляют экономику и отучают россиян от магазинов](2024/12/02/v-minpromtorge-obvinili-kurerov-kotorye-zarabatyvaiut-bolshe-professorov-v-tom-chto-oni-zamedliaiut-ekonomiku-i-otuchaiu.md)

@@ -17,7 +17,7 @@ tags: ""
 
 «Такая мера, как заключение под стражу — это крайняя мера для особо опасных граждан, чтобы отгородить от общества. Даниил не скрывался от суда, не угрожал свидетелям, давал полные и исчерпывающие ответы», — отметил адвокат.
 
-**link:** https://novayagazeta.ru/articles/2019/08/11/81568-kolokol-i-falanga
+**link:** [Колокол и фаланга](2019/08/11/81568-kolokol-i-falanga.md)
 
 Червонный предоставил справку из штаба Жданова, о том что в летнее время студент подрабатывал, характеристики от казачьего кадетского корпуса и от генерала-полковника Николая Золотова и петицию от Новой газеты.
 
@@ -29,6 +29,6 @@ tags: ""
 
 Почему не выбрана мера пресечения подписка о невыезде? Или это экономически не выгодно? Вы готовы прокормить семью из пяти человек, пока я нахожусь здесь, в СИЗО?».
 
-**link:** https://novayagazeta.ru/articles/2019/08/08/81532-bratstvo-vypusknikov-mgtu-im-baumana-prizvalo-vystupit-v-podderzhku-arestovannyh-studentov-zhukova-i-konona
+**link:** [«Наши дети любят свою страну!»](2019/08/08/81532-bratstvo-vypusknikov-mgtu-im-baumana-prizvalo-vystupit-v-podderzhku-arestovannyh-studentov-zhukova-i-konona.md)
 
-Ранее Мосгорсуд оставил в СИЗО трех других фигурантов дела о массовых беспорядках: волонтера штаба Соболь [Алексея Миняйло](https://www.novayagazeta.ru/news/2019/08/15/154357-volontera-shtaba-sobol-alekseya-minyaylo-ostavili-pod-arestom-on-prekratil-golodovku), студента Высшей школы экономики [Егора Жукова](https://www.novayagazeta.ru/news/2019/08/15/154343-mosgorsud-ostavil-pod-arestom-obvinyaemogo-v-massovyh-besporyadkah-studenta-vshe-egora-zhukova), блогера [Владислава Синицу](https://www.novayagazeta.ru/news/2019/08/15/154349-sud-ostavil-pod-strazhey-blogera-obvinyaemogo-v-prizyvah-k-rasprave-nad-detmi-politseyskih) и [Кирилла Жукова](https://www.novayagazeta.ru/news/2019/08/15/154347-mosgorsud-ostavil-v-sizo-figuranta-dela-o-massovyh-besporyadkah-popytavshegosya-podnyat-zabralo-na-shleme-silovika), который попытался поднять забрало у омоновца.
+Ранее Мосгорсуд оставил в СИЗО трех других фигурантов дела о массовых беспорядках: волонтера штаба Соболь [Алексея Миняйло](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/08/15/154357-volontera-shtaba-sobol-alekseya-minyaylo-ostavili-pod-arestom-on-prekratil-golodovku), студента Высшей школы экономики [Егора Жукова](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/08/15/154343-mosgorsud-ostavil-pod-arestom-obvinyaemogo-v-massovyh-besporyadkah-studenta-vshe-egora-zhukova), блогера [Владислава Синицу](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/08/15/154349-sud-ostavil-pod-strazhey-blogera-obvinyaemogo-v-prizyvah-k-rasprave-nad-detmi-politseyskih) и [Кирилла Жукова](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/08/15/154347-mosgorsud-ostavil-v-sizo-figuranta-dela-o-massovyh-besporyadkah-popytavshegosya-podnyat-zabralo-na-shleme-silovika), который попытался поднять забрало у омоновца.

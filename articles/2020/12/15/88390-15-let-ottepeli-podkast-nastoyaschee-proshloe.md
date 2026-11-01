@@ -25,4 +25,4 @@ tags: "подкаст"
 
 Вспоминаем, как реагировала на свободу советская власть и как глашатаи свободы — шестидесятники — встречали реакцию системы.
 
-**link:** https://novayagazeta.ru/articles/2020/12/06/88253-poslednee-desyatiletie-sovetskoy-vlasti
+**link:** [Последнее десятилетие советской власти](2020/12/06/88253-poslednee-desyatiletie-sovetskoy-vlasti.md)

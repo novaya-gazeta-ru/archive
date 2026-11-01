@@ -19,4 +19,4 @@ tags: "депутаты, диссертации, диссернет, em"
 
 Евгений Москвичев – четвертый депутат Госдумы, лишенный ученой степени. Согласно информации на сайте «Диссернета», ранее ее лишили экс-депутата «Справедливой России» [Алексея Казакова](https://www.dissernet.org/expertise/kazakovav2011.htm), и двух парламентариев от «Единой России»: [Ришата Абубакирова](https://www.dissernet.org/expertise/abubakirovrf2009.htm) и [Валерия Гальченко](https://www.dissernet.org/expertise/galchenkovv2013.htm).
 
-**link:** https://novayagazeta.ru/articles/2018/12/19/78982-popali-v-pereplet
+**link:** [Попали в переплет](2018/12/19/78982-popali-v-pereplet.md)

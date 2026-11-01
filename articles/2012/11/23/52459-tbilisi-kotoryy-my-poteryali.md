@@ -16,20 +16,20 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/11/22/1353576865_329478_58.jpg" style="width: 360px; height: 542px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/11/22/1353576865_329478_58.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/22/1353576865_329478_58.jpg)" style="width: 360px; height: 542px;"><br>
 				<sup>Фото: Татьяна Малкина</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/11/22/1353576865_645243_12.jpg" style="width: 360px; height: 240px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/11/22/1353576865_645243_12.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/22/1353576865_645243_12.jpg)" style="width: 360px; height: 240px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/11/22/1353576874_715744_46.jpg" style="width: 360px; height: 542px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/11/22/1353576874_715744_46.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/22/1353576874_715744_46.jpg)" style="width: 360px; height: 542px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/11/22/1353576865_954125_87.jpg" style="width: 360px; height: 240px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/11/22/1353576865_954125_87.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/22/1353576865_954125_87.jpg)" style="width: 360px; height: 240px;"></td>
 		</tr>
 	</tbody>]*
 

@@ -41,9 +41,9 @@ tags: "следственный комитет, чечня, яценюк"
 
 Только-только победил Майдан, никакого Порошенко еще нет, а есть Яценюк, Тягнибок, Кличко и Дмитрий Ярош, о которых силовики докладывают Путину, что они на деньги США собираются устроить геноцид русским. Еще жив Музычко.
 
-**link:** https://novayagazeta.ru/politics/69864.html
+**link:** [https://novayagazeta.ru/politics/69864.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/69864.html)
 
-**link:** https://novayagazeta.ru/politics/69864.html
+**link:** [https://novayagazeta.ru/politics/69864.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/69864.html)
 
 Соответственно, в показаниях нет Порошенко, а есть Ярош, Яценюк и Тягнибоки (Кличко, возможно, догадались не упоминать, потому что его в 1996 году видела по телевизора пара миллиардов человек, и вовсе не в Чечне, а на Олимпиаде в Атланте).
 

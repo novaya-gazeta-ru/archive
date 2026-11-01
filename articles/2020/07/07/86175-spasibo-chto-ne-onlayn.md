@@ -59,4 +59,4 @@ tags: "драйв-ин, лужники, концерты"
 
 Кто-то и в этом усмотрит нарушение и риск для здоровья. Но если можно проводить концерты на Красной площади в День независимости и военные парады, то почему нельзя так?
 
-**link:** https://novayagazeta.ru/articles/2020/05/15/85381-pyat-tysyach-evro-muzykantu-iz-podzemnogo-perehoda
+**link:** [Пять тысяч евро музыканту из подземного перехода](2020/05/15/85381-pyat-tysyach-evro-muzykantu-iz-podzemnogo-perehoda.md)

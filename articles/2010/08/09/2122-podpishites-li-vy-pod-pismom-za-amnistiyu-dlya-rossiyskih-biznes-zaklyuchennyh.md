@@ -13,6 +13,6 @@ tags: ""
 
 *Всего проголосовало: 14 757 читателей «Новой»*
 
-*[media: <br><a href="http://www.novayagazeta.ru/vote/">novayagazeta.ru/vote/</a>]*
+*[media: <br><a href="[http://www.novayagazeta.ru/vote/](https://web.archive.org/web/*/http://www.novayagazeta.ru/vote/)">novayagazeta.ru/vote/</a>]*
 
-http://www.novayagazeta.ru/vote/
+[http://www.novayagazeta.ru/vote/](https://web.archive.org/web/*/http://www.novayagazeta.ru/vote/)

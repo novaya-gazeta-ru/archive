@@ -13,7 +13,7 @@ tags: "em, азербайджан, армения, нагорный караба
 
 > **Есть продолжение**
 >
-> [Обострение конфликта в Нагорном Карабахе: что известно?](https://novayagazeta.ru/articles/2020/09/27/87262-konflikt-v-nagornom-karabahe)&nbsp;
+> [Обострение конфликта в Нагорном Карабахе: что известно?](2020/09/27/87262-konflikt-v-nagornom-karabahe.md)&nbsp;
 
 Столица непризнанной Нагорно-Карабахской республики (НКР) Степанакерт и ее другие населенные пункты подверглись обстрелу. Омбудсмен Нагорного Карабаха Артак Бегларян заявил о гибели женщины и ребенка в Мартунинском районе, [пишет](https://www.interfax.ru/world/728790) Интерфакс.
 
@@ -29,6 +29,6 @@ tags: "em, азербайджан, армения, нагорный караба
 >
 > **11:39** Президент Азербайджана Ильхам Алиев [объявил](https://ru.oxu.az/politics/425069) о жертвах среди мирного населения и военных. Армянское правительство, в свою очередь, [объявило](https://tass.ru/mezhdunarodnaya-panorama/9561681) в стране всеобщую мобилизацию и военное положение.&nbsp;
 
-Военные столкновения на азербайджано-армянской границе из-за статуса Нагорного Карабаха также [происходили](https://novayagazeta.ru/news/2020/07/12/162963-na-granitse-armenii-i-azerbaydzhana-proizoshli-stolknoveniya) в июле после взаимного обвинения в нарушении режима прекращения огня, установленного в 1994 году. И Армения, и Азербайджан сообщали о жертвах и раненых среди военнослужащих и мирных жителей. После этого стычки между представителями двух диаспор [происходили](https://novayagazeta.ru/news/2020/07/25/163275-v-moskve-zaderzhali-devyat-uchastnikov-novyh-stolknoveniy-armyan-s-azerbaydzhantsami) в Москве.
+Военные столкновения на азербайджано-армянской границе из-за статуса Нагорного Карабаха также [происходили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/07/12/162963-na-granitse-armenii-i-azerbaydzhana-proizoshli-stolknoveniya) в июле после взаимного обвинения в нарушении режима прекращения огня, установленного в 1994 году. И Армения, и Азербайджан сообщали о жертвах и раненых среди военнослужащих и мирных жителей. После этого стычки между представителями двух диаспор [происходили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/07/25/163275-v-moskve-zaderzhali-devyat-uchastnikov-novyh-stolknoveniy-armyan-s-azerbaydzhantsami) в Москве.
 
-**link:** https://novayagazeta.ru/articles/2020/07/26/86415-stydno-za-teh-kto-razvyazal-vdali-ot-rodiny-varvarskoe-proyavlenie-natsionalizma
+**link:** [«Стыдно за тех, кто развязал вдали от Родины варварское проявление национализма»](2020/07/26/86415-stydno-za-teh-kto-razvyazal-vdali-ot-rodiny-varvarskoe-proyavlenie-natsionalizma.md)

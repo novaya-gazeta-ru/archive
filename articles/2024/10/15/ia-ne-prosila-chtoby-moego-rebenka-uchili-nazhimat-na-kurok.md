@@ -75,7 +75,7 @@ tags: ""
 
 Но это было уже позже. С той встречи меня спокойно отпустили.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/02/leto-s-pistoletom
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/02/leto-s-pistoletom](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/02/leto-s-pistoletom)
 
 ## Второе третирование
 
@@ -123,7 +123,7 @@ tags: ""
 
 **Записал Иван Жилин**
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/04/22/ia-ne-znaiu-chto-oni-mogut-sdelat
+**Читайте также:** [https://novayagazeta.ru/articles/2024/04/22/ia-ne-znaiu-chto-oni-mogut-sdelat](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/04/22/ia-ne-znaiu-chto-oni-mogut-sdelat)
 
 С 2024 года в российских школах вместо ОБЖ ввели новый предмет — ОБЗР (основы безопасности и защиты Родины). Военный модуль в нем обязательный, в рамках него должны изучаться даже «особенности военной службы по контракту». Добиться индивидуального учебного плана, в котором бы была исключительно мирная тематика, теперь невозможно. В этих условиях правозащитники[рекомендуют](https://docs.google.com/document/d/1VG-diBWbJreH3CM5S6U8Q003Fvoz_0WjPB83LoyqiJM/edit?tab=t.0) обратиться к федеральному закону «Об образовании», который дает право на семейное образование и на самообразование.
 

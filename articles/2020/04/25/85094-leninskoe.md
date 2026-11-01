@@ -75,4 +75,4 @@ tags: "стихи, революция, путин, ленин"
 
 *Запрятали и забыли (арго).
 
-**link:** https://novayagazeta.ru/articles/2020/04/22/85046-lenin-drug-pechnikov-ili-pervyy-gosudarstvennyy-terrorist-podkast
+**link:** [Ленин — друг печников или первый государственный террорист? Подкаст](2020/04/22/85046-lenin-drug-pechnikov-ili-pervyy-gosudarstvennyy-terrorist-podkast.md)

@@ -101,4 +101,4 @@ tags: "павел буре, хоккей"
 
 *Павел Буре. Фото: Агентство «Москва»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/25/tysiacha-i-odna-shaiba
+**Читайте также:** [Тысяча и одна шайба](2026/03/25/tysiacha-i-odna-shaiba.md)

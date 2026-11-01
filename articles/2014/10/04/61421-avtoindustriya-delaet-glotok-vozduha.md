@@ -13,9 +13,9 @@ tags: ""
 
 *Тенденции и тайны парижского автосалона*
 
-[](http://www.novayagazeta.ru/photos/65552.html)
+[](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/65552.html)
 
-[Галерея фотографий с Парижского автосалона 2014](http://www.novayagazeta.ru/photos/65552.html)
+[Галерея фотографий с Парижского автосалона 2014](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/65552.html)
 
 **«Так много друзей собралось вокруг наших машин», — говорил многолетний шефFerrariЛука ди Монтеземоло.**
 
@@ -43,7 +43,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/10/04/1412433555_057334_21.jpg" style="width: 360px; height: 228px;"><sup>Фото автора</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/10/04/1412433555_057334_21.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/10/04/1412433555_057334_21.jpg)" style="width: 360px; height: 228px;"><sup>Фото автора</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -51,7 +51,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/10/04/1412428220_773111_87.jpg" style="width: 360px; height: 241px;"><sup>Фото: EPA</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/10/04/1412428220_773111_87.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/10/04/1412428220_773111_87.jpg)" style="width: 360px; height: 241px;"><sup>Фото: EPA</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -65,7 +65,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/10/04/1412426527_441579_11.jpg" style="width: 360px; height: 239px;"><sup>Франсуа Олланд. Фото: EPA</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/10/04/1412426527_441579_11.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/10/04/1412426527_441579_11.jpg)" style="width: 360px; height: 239px;"><sup>Франсуа Олланд. Фото: EPA</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -77,7 +77,7 @@ tags: ""
 
 Но пока до этого далековато.
 
-В пятницу на фоне _Eolab_ [набирал](https://novayagazeta.ru/articles/2014/10/04/61421-avtoindustriya-delaet-glotok-vozduha?export=1#)Сентябрьский рейтинг — 13%. недостающие очки президент Олланд. «Франция — в авангарде автомобильной индустрии будущего», — говорил президент.
+В пятницу на фоне _Eolab_ [набирал](2014/10/04/61421-avtoindustriya-delaet-glotok-vozduha.md)Сентябрьский рейтинг — 13%. недостающие очки президент Олланд. «Франция — в авангарде автомобильной индустрии будущего», — говорил президент.
 
 И страна на этом не остановится.
 
@@ -93,11 +93,11 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/10/04/1412428221_085256_96.jpg" style="width: 360px; height: 239px;"><sup>Фото: EPA</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/10/04/1412428221_085256_96.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/10/04/1412428221_085256_96.jpg)" style="width: 360px; height: 239px;"><sup>Фото: EPA</sup></td>
 		</tr>
 	</tbody>]*
 
-Да и в этом случае лучше подкрепить показ наглядной агитацией. Например, Карл-Томаc Нoйманн, президент _GM_ _Groupe_ _Europe_ вызвал из-за кулис Клаудию Шиффер в тигровом [платье](https://novayagazeta.ru/articles/2014/10/04/61421-avtoindustriya-delaet-glotok-vozduha?export=1#)Volkswagen пригласил тренера сборной Франции по футболу Дидье Дешама, актрису Катрин Денев и певицу Патрисию Каас. KIA выставила футбольный Кубок Европы. Volvo позвал Златана Ибрагимовича…. «Испытайте наших супермоделей», — говорил Нойманн, предлагая журналистам и Клаудию, и бюджетный автомобильчик _Opel_ _Corsa_. Забыв про автомобильчик, журналисты рванули к Шиффер — словно и вправду надеялись ее «испытать». В крайнем случае, прижаться к ней щекою, сделать с ней «селфи» и пульнуть фоточку в «инстаграмчик». Так что рекламная модель была подобрана идеально.
+Да и в этом случае лучше подкрепить показ наглядной агитацией. Например, Карл-Томаc Нoйманн, президент _GM_ _Groupe_ _Europe_ вызвал из-за кулис Клаудию Шиффер в тигровом [платье](2014/10/04/61421-avtoindustriya-delaet-glotok-vozduha.md)Volkswagen пригласил тренера сборной Франции по футболу Дидье Дешама, актрису Катрин Денев и певицу Патрисию Каас. KIA выставила футбольный Кубок Европы. Volvo позвал Златана Ибрагимовича…. «Испытайте наших супермоделей», — говорил Нойманн, предлагая журналистам и Клаудию, и бюджетный автомобильчик _Opel_ _Corsa_. Забыв про автомобильчик, журналисты рванули к Шиффер — словно и вправду надеялись ее «испытать». В крайнем случае, прижаться к ней щекою, сделать с ней «селфи» и пульнуть фоточку в «инстаграмчик». Так что рекламная модель была подобрана идеально.
 
 Вот и я поддался всеобщему психозу и упомянул автомобиль, который не представляет ничего революционного. Кроме цены. Впрочем, это сейчас самое главное.
 
@@ -123,7 +123,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/10/04/1412431445_202377_30.jpg" style="width: 360px; height: 254px;"><sup>Фото: EPA</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/10/04/1412431445_202377_30.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/10/04/1412431445_202377_30.jpg)" style="width: 360px; height: 254px;"><sup>Фото: EPA</sup></td>
 		</tr>
 	</tbody>]*
 

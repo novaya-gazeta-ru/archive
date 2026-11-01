@@ -27,10 +27,10 @@ tags: ""
 
 Утверждалось, что MAХ поможет бороться с телефонным «кураторством» мошенников, которые разводят россиян на деньги (по году цифры доходят до нескольких миллиардов рублей украденных средств) и противоправные действия.
 
-Однако мошенники [уже доказали](https://novayagazeta.ru/articles/2025/09/08/max-zablokiroval-67-tysiach-podozritelnykh-akkauntov-v-gosudarstvennom-messendzhere-aktivizirovalis-moshenniki-news), что умеют обманывать россиян и в MAXе. Как оказалось, этого в Кремле [и не исключали](https://t.me/novaya_pishet/53435)…
+Однако мошенники [уже доказали](2025/09/08/max-zablokiroval-67-tysiach-podozritelnykh-akkauntov-v-gosudarstvennom-messendzhere-aktivizirovalis-moshenniki-news.md), что умеют обманывать россиян и в MAXе. Как оказалось, этого в Кремле [и не исключали](https://t.me/novaya_pishet/53435)…
 
-К госмессенджеру [есть вопросы](https://novayagazeta.ru/articles/2025/07/15/pravitelstvo-ofitsialno-poruchilo-vk-razvivat-edinyi-gosmessendzher-max-dlia-vsego-analogichnyi-kitaiskomu-wechat-news) у независимых технических специалистов, которые проводили аудит кода и принципа работы приложения на смартфонах. Дело в том, что MAX после установки якобы получает доступ к большинству модулей смартфона, другим приложениям, историям браузеров, звонков и текстам с экрана…
+К госмессенджеру [есть вопросы](2025/07/15/pravitelstvo-ofitsialno-poruchilo-vk-razvivat-edinyi-gosmessendzher-max-dlia-vsego-analogichnyi-kitaiskomu-wechat-news.md) у независимых технических специалистов, которые проводили аудит кода и принципа работы приложения на смартфонах. Дело в том, что MAX после установки якобы получает доступ к большинству модулей смартфона, другим приложениям, историям браузеров, звонков и текстам с экрана…
 
 Одновременно с этим критику MAX власти в стране стали воспринимать болезненно. Появились предложения проверять таких критиков на предмет «иноагентства». Без исключения все опросы по поводу установки или использования MAX в нашем телеграм-канале взламывают боты, [накручивая голоса](https://t.me/novaya_pishet/53534) сторонникам госмессенджера.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/30/messendzher-max-stal-obiazatelnym-servisom-dlia-vizirovaniia-dokumentov-s-elektronnoi-podpisiu-tak-vlasti-pytaiutsia-obespechit-pritok-auditorii-news
+**Читайте также:** [Мессенджер Max стал обязательным сервисом для визирования документов с электронной подписью. Так власти пытаются обеспечить приток аудитории](2025/07/30/messendzher-max-stal-obiazatelnym-servisom-dlia-vizirovaniia-dokumentov-s-elektronnoi-podpisiu-tak-vlasti-pytaiutsia-obe.md)

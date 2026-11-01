@@ -29,6 +29,6 @@ tags: ""
 
 Апостолевского задержали на выходе из дома.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/10/tsik-zaveril-spiski-kandidatov-iabloka-na-vyborakh-v-gosdumu-reshenie-ob-ikh-registratsii-na-vyborakh-primut-do-15-avgusta-news
+**Читайте также:** [ЦИК заверил списки кандидатов «Яблока» на выборах в Госдуму. Решение об их регистрации на выборах примут до 15 августа](2026/07/10/tsik-zaveril-spiski-kandidatov-iabloka-na-vyborakh-v-gosdumu-reshenie-ob-ikh-registratsii-na-vyborakh-primut-do-15-avgus.md)
 
 #### * Принадлежат Meta, которая признана экстремистской организацией и запрещена в России

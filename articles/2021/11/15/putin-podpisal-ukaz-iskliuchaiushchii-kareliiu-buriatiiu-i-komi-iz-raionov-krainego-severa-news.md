@@ -21,6 +21,6 @@ tags: "путин, крайний север, северные надбавки,
 
 Власти Карелии [заверили](https://www.interfax-russia.ru/northwest/main/territorii-karelii-sohranyat-status-rayonov-kraynego-severa-i-priravnennyh-k-nim-mestnostey-vlasti), что жители республики продолжат получать надбавки к заработной плате за работу в районах Крайнего Севера и приравненных к ним. Несмотря на указ, в Карелии сохраняются территории Крайнего Севера. В пресс-службе главы Бурятии также [подтвердили](https://ria.ru/20211115/sever-1759127237.html), что «северные» надбавки сохранятся.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/19/poslednie-vertolety
+**Читайте также:** [Последние вертолеты](2021/03/19/poslednie-vertolety.md)
 
 Согласно [закону](http://www.consultant.ru/document/cons_doc_LAW_1786/7b1d47143212ba09e75fe3d3b3433d8d4702295a/) России от 1993 года, лицам, работающим в районах Крайнего Севера и приравненных к ним местностях, выплачивается процентная надбавка к зарплате за стаж работы в таких районах или местностях. Также жители этих районов [получают](http://pravo.gov.ru/proxy/ips/?doc_itself=&infostr=xO7q8+zl7fIg7vLu4fDg5uDl8vH/IO3lIOIg7+7x6+Xk7eXpIPDl5ODq9ujo&nd=102021716&page=1&rdk=0#I0) льготы и дополнительные отпуска.

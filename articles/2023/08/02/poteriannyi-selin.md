@@ -72,4 +72,4 @@ tags: "селин, пруст, первая мировая война, сво, �
 
 Культура возвращает ее обратно.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/07/25/iskusstvo-gromozdkikh-abbreviatur
+**Читайте также:** [Искусство громоздких аббревиатур](2023/07/25/iskusstvo-gromozdkikh-abbreviatur.md)

@@ -13,9 +13,9 @@ tags: "боинг, днр, исследование, россия, украин�
 
 *Военный ученый, испытатель средств ПВО, проанализировал ранее опубликованный доклад его коллег из российского ВПК*
 
-**link:** https://novayagazeta.ru/inquests/68332.html
+**link:** [https://novayagazeta.ru/inquests/68332.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/68332.html)
 
-**link:** https://novayagazeta.ru/inquests/68376.html
+**link:** [https://novayagazeta.ru/inquests/68376.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/68376.html)
 
 **Сегодня представляем вашему вниманию мнение военного ученого, испытывавшего зенитные комплексы средней дальности, сотрудника одной из организаций, занимающихся исследованиями в интересах ПВО. Имя мы не указываем, учитывая его служебные обстоятельства.**
 

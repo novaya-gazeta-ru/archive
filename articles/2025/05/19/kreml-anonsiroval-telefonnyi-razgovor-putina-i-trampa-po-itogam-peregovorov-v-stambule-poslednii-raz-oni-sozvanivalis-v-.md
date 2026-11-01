@@ -17,12 +17,12 @@ tags: ""
 
 Пресс-секретарь также высказался на тему возможной личной встречи двух президентов, но снова без конкретики: многое зависит от личных договоренностей лидеров, а сама встреча должна быть хорошо подготовлена, сказал он.
 
-17 мая Дональд Трамп [объявил в соцсети](https://novayagazeta.ru/articles/2025/05/17/tramp-obiavil-o-zvonke-putinu-19-maia-v-10-utra-a-zatem-on-pozvonit-zelenskomu-i-stranam-nato-news), что намерен созвониться с Владимиром Путиным а затем с Владимиром Зеленским по теме прекращения огня.
+17 мая Дональд Трамп [объявил в соцсети](2025/05/17/tramp-obiavil-o-zvonke-putinu-19-maia-v-10-utra-a-zatem-on-pozvonit-zelenskomu-i-stranam-nato-news.md), что намерен созвониться с Владимиром Путиным а затем с Владимиром Зеленским по теме прекращения огня.
 
 «Темы на звонке будут: как остановить «кровавую баню» <…> и торговля», — писал президент США.
 
-Ранее в интервью американским телеканалам Трамп положительно оценил результаты встречи в Стамбуле, в ходе которой Россия и Украина договорились о масштабном обмене пленными ([1000 на 1000](https://novayagazeta.ru/articles/2025/05/16/medinskii-anonsiroval-skoryi-bolshoi-obmen-1000-na-1000-voennoplennykh-s-ukrainoi-po-itogam-pervogo-raunda-priamykh-peregovorov-zaiavlenie-news)), и отверг версию о «недостаточной вовлеченности» РФ в переговорный процесс.
+Ранее в интервью американским телеканалам Трамп положительно оценил результаты встречи в Стамбуле, в ходе которой Россия и Украина договорились о масштабном обмене пленными ([1000 на 1000](2025/05/16/medinskii-anonsiroval-skoryi-bolshoi-obmen-1000-na-1000-voennoplennykh-s-ukrainoi-po-itogam-pervogo-raunda-priamykh-pere.md)), и отверг версию о «недостаточной вовлеченности» РФ в переговорный процесс.
 
-После возвращения Трампа в Белый дом он созванивался с Путиным как минимум дважды. Во время последнего официального разговора 18 марта стороны договорились о [прекращении на 30 дней](https://novayagazeta.ru/articles/2025/03/18/putin-i-tramp-po-telefonu-dogovorilis-o-prekrashchenii-na-30-dnei-obstrelov-energoobektov-v-zone-boevykh-deistvii-news) обстрелов энергообъектов в зоне боевых действий.
+После возвращения Трампа в Белый дом он созванивался с Путиным как минимум дважды. Во время последнего официального разговора 18 марта стороны договорились о [прекращении на 30 дней](2025/03/18/putin-i-tramp-po-telefonu-dogovorilis-o-prekrashchenii-na-30-dnei-obstrelov-energoobektov-v-zone-boevykh-deistvii-news.md) обстрелов энергообъектов в зоне боевых действий.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/05/19/peregovory-tantsuiushchikh-dervishei
+**Читайте также:** [Переговоры танцующих дервишей](2025/05/19/peregovory-tantsuiushchikh-dervishei.md)

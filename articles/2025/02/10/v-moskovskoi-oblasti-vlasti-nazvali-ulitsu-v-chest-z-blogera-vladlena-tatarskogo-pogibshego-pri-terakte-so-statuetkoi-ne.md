@@ -27,10 +27,10 @@ tags: ""
 
 А что с мемориалом застреленному 10 лет назад у Кремля Борису Немцову
 
-[Петиция](https://www.change.org/p/%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D1%8B%D0%B9-%D0%B7%D0%BD%D0%B0%D0%BA-%D0%BD%D0%B0-%D0%BC%D0%B5%D1%81%D1%82%D0%B5-%D0%B3%D0%B8%D0%B1%D0%B5%D0%BB%D0%B8-%D0%B1%D0%BE%D1%80%D0%B8%D1%81%D0%B0-%D0%BD%D0%B5%D0%BC%D1%86%D0%BE%D0%B2%D0%B0) с призывом [установить памятный знак](https://novayagazeta.ru/articles/2025/01/28/soratniki-nemtsova-k-10-godovshchine-obiavili-sbor-podpisei-pod-prizyvom-ustanovit-pamiatnyi-znak-na-meste-ego-ubiistva-9-let-nazad-meriia-im-otkazala-soslavshis-na-sroki-news) в честь Бориса Немцова на Большом Москворецком мосту на 10 февраля собрала почти 7 тысяч подписей.
+[Петиция](https://www.change.org/p/%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D1%8B%D0%B9-%D0%B7%D0%BD%D0%B0%D0%BA-%D0%BD%D0%B0-%D0%BC%D0%B5%D1%81%D1%82%D0%B5-%D0%B3%D0%B8%D0%B1%D0%B5%D0%BB%D0%B8-%D0%B1%D0%BE%D1%80%D0%B8%D1%81%D0%B0-%D0%BD%D0%B5%D0%BC%D1%86%D0%BE%D0%B2%D0%B0) с призывом [установить памятный знак](2025/01/28/soratniki-nemtsova-k-10-godovshchine-obiavili-sbor-podpisei-pod-prizyvom-ustanovit-pamiatnyi-znak-na-meste-ego-ubiistva-.md) в честь Бориса Немцова на Большом Москворецком мосту на 10 февраля собрала почти 7 тысяч подписей.
 
 2025-й год — 10-я годовщина его убийства: Немцова застрелили возле Кремля. 9 лет назад чиновники мэрии отказались рассматривать аналогичную петицию, собравшую тогда 30 тысяч голосов: они сослались на закон, согласно которому для установки мемориала требуется, чтобы после смерти человека прошло «не менее 10 лет».
 
 Сайт «Немцов Мост» и сообщество вокруг него уже десятилетие [не прекращают активность](https://nemtsov-most.org/), регулярно публикуют отчеты о погоде и фотографии с мемориала, он все еще там.
 
-**Смотрите на эту же тему:** https://novayagazeta.ru/articles/2024/02/28/nemtsov-most-2024-chto-nas-zhdet-dalshe
+**Смотрите на эту же тему:** [https://novayagazeta.ru/articles/2024/02/28/nemtsov-most-2024-chto-nas-zhdet-dalshe](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/02/28/nemtsov-most-2024-chto-nas-zhdet-dalshe)

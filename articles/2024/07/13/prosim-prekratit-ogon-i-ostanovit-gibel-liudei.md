@@ -17,6 +17,6 @@ tags: ""
 
 **Произведено: «Новая газета»:** https://www.youtube.com/watch?v=v3iEV2iDksU
 
-**Полный текст письма:** https://novayagazeta.ru/articles/2024/07/13/ne-ubivat-drug-druga-a-spasat-planetu
+**Полный текст письма:** [https://novayagazeta.ru/articles/2024/07/13/ne-ubivat-drug-druga-a-spasat-planetu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/07/13/ne-ubivat-drug-druga-a-spasat-planetu)
 
 #### * Минюст считает иноагентом, а мы нет.

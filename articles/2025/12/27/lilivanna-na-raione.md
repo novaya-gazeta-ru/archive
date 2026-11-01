@@ -205,7 +205,7 @@ tags: ""
 
 — Чего, говорю, тебе не сидится в тепле? Безумным надо быть, чтобы работу в тепле поменять на столбы, — объясняет она.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/21/chto-ne-tak-s-zakonom-ob-otrabotkakh-dlia-studentov-medikov
+**Читайте также:** [Что не так с законом об отработках для студентов-медиков?](2025/11/21/chto-ne-tak-s-zakonom-ob-otrabotkakh-dlia-studentov-medikov.md)
 
 ## «Не пропустила ни одной пневмонии»
 

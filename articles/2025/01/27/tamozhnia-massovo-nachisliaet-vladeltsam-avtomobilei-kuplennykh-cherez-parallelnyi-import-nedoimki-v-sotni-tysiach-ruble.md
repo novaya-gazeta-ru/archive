@@ -23,4 +23,4 @@ tags: ""
 
 ФТС в ответ на запрос журналистов о величине недоимки сообщила, что в 2024 году ее размер составила 535,9 млн рублей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/07/est-zadachi-kotorye-rossii-stali-prosto-ne-po-plechu
+**Читайте также:** [«Есть задачи, которые России стали просто не по плечу»](2024/12/07/est-zadachi-kotorye-rossii-stali-prosto-ne-po-plechu.md)

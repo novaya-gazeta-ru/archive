@@ -17,6 +17,6 @@ tags: "россия, коронавирус, em"
 
 Скончались за сутки от COVID-19 764 человека по стране (днем ранее — 787). В том числе 106 смертей от инфекции зафиксировали в Москве и 101 — в Петербурге.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu)
 
 В России четвертую неделю подряд фиксируется рекордная смертность от коронавируса, [отмечает](https://tass.ru/obschestvo/11929167) ТАСС. За последние семь дней оперштаб зарегистрировал 5417 летальных исходов от COVID-19 по стране. Предыдущий максимум — 5 077 смертей — зарегистрировали на прошлой неделе.

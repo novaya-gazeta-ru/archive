@@ -47,4 +47,4 @@ tags: ""
 
 СК возбудил дело о халатности [против энергетиков](https://t.me/sledcom_press/26891).
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/01/23/v-sugrobe-video
+**Читайте также:** [В сугробе. Видео](2026/01/23/v-sugrobe-video.md)

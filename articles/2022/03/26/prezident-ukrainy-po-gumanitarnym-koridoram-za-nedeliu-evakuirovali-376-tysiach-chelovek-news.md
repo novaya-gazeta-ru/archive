@@ -23,6 +23,6 @@ tags: "зеленский, гуманитарные коридоры, мариу
 
 «Мы решили начать исключительную гуманитарную операцию, которую мы обсудим в ближайшее время в ходе разговора с президентом Путиным. Вместе с Турцией и Грецией мы собираемся запустить гуманитарную операцию, чтобы эвакуировать всех желающих покинуть Мариуполь», — сказал он ([цитата](https://tass.ru/mezhdunarodnaya-panorama/14190457) по ТАСС).
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/25/boevye-deistviia-v-ukraine-den-30-glavnoe
+**Читайте также:** [Боевые действия в Украине. День 30. Главное](2022/03/25/boevye-deistviia-v-ukraine-den-30-glavnoe.md)
 
-Минобороны РФ ранее[заявило](https://novayagazeta.ru/articles/2022/03/20/minoborony-rf-zaiavilo-o-gotovnosti-otkryt-gumanitarnye-koridory-21-marta-vedomstvo-nastaivaet-na-pismennom-otvete-ukrainy-do-5-utra-news), что в Мариуполе находятся 130 тысяч мирных жителей. При этом, по словам официального представителя МИД России Марии Захаровой, «Минобороны России ежедневно [организует](https://novayagazeta.ru/articles/2022/03/23/mid-rf-moskva-i-kiev-proveli-uzhe-dva-obmena-plennymi-news)гуманитарные коридоры и эвакуацию мирных жителей из населенных пунктов».
+Минобороны РФ ранее[заявило](2022/03/20/minoborony-rf-zaiavilo-o-gotovnosti-otkryt-gumanitarnye-koridory-21-marta-vedomstvo-nastaivaet-na-pismennom-otvete-ukrai.md), что в Мариуполе находятся 130 тысяч мирных жителей. При этом, по словам официального представителя МИД России Марии Захаровой, «Минобороны России ежедневно [организует](2022/03/23/mid-rf-moskva-i-kiev-proveli-uzhe-dva-obmena-plennymi-news.md)гуманитарные коридоры и эвакуацию мирных жителей из населенных пунктов».

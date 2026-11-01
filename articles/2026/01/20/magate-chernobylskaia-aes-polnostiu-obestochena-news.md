@@ -23,6 +23,6 @@ tags: ""
 
 > **читайте также**
 >
-> ### Инженер-физик Андрей Ожаровский [рассказывал](https://novayagazeta.ru/articles/2026/01/12/pshik-no-radioaktivnyi-i-na-mnogie-pokoleniia) в интервью «Новой», чем грозят военные действия рядом с АЭС — как украинскими, так и российскими.
+> ### Инженер-физик Андрей Ожаровский [рассказывал](2026/01/12/pshik-no-radioaktivnyi-i-na-mnogie-pokoleniia.md) в интервью «Новой», чем грозят военные действия рядом с АЭС — как украинскими, так и российскими.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/01/17/magate-dobilos-lokalnogo-peremiriia-mezhdu-rossiei-i-ukrainoi-dlia-novogo-remonta-zaporozhskoi-aes-a-posle-povrezhdeniia-chernobylskoi-aes-atomshchiki-proinspektiruiut-10-ukrainskikh-elektropodstantsii-news
+**Читайте также:** [МАГАТЭ добилось локального перемирия между Россией и Украиной для нового ремонта Запорожской АЭС. А после повреждения Чернобыльской АЭС атомщики проинспектируют 10 украинских электроподстанций](2026/01/17/magate-dobilos-lokalnogo-peremiriia-mezhdu-rossiei-i-ukrainoi-dlia-novogo-remonta-zaporozhskoi-aes-a-posle-povrezhdeniia.md)

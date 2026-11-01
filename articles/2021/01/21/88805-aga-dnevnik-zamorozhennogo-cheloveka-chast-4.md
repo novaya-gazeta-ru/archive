@@ -45,4 +45,4 @@ tags: "якутск, вечная мерзлота, еда, философия, 
 
 > **В ПРЕДЫДУЩИХ СЕРИЯХ «ДНЕВНИКА ЗАМОРОЖЕННОГО ЧЕЛОВЕКА»**
 >
-> ##### [Часть первая. «Син биир буолбаат?»](https://novayagazeta.ru/articles/2021/01/17/88747-sin-biir-buolbaat) ##### [Часть вторая. «Чумпу»](https://novayagazeta.ru/articles/2021/01/18/88760-chumpu-dnevnik-zamorozhennogo-cheloveka-chast-2) ##### [Часть третья. «Айыы»](https://novayagazeta.ru/articles/2021/01/20/88792-ayyy)
+> ##### [Часть первая. «Син биир буолбаат?»](2021/01/17/88747-sin-biir-buolbaat.md) ##### [Часть вторая. «Чумпу»](2021/01/18/88760-chumpu-dnevnik-zamorozhennogo-cheloveka-chast-2.md) ##### [Часть третья. «Айыы»](2021/01/20/88792-ayyy.md)

@@ -17,7 +17,7 @@ tags: ""
 		<tr>
 			<td>
 				<p class="g-justify-right">
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/06/26/1340696767_695073_17.jpg" style="width: 360px; height: 540px; "><br>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/06/26/1340696767_695073_17.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/06/26/1340696767_695073_17.jpg)" style="width: 360px; height: 540px; "><br>
 					<sup>Фото предоставлено пресс-службой артиста</sup></p>
 			</td>
 		</tr>

@@ -205,4 +205,4 @@ tags: "художник, искусство, стрит-арт, политзэк
 
 **Анастасия Федько**
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/09/22/nadezhd-nikakikh-ne-bylo
+**Читайте также:** [«Надежд никаких не было»](2023/09/22/nadezhd-nikakikh-ne-bylo.md)

@@ -23,4 +23,4 @@ tags: "еда, gallina blanca, супы, фас, sf"
 
 Непальская CG Foods входит в CG Corp. Ее учредили в ноябре 2021 года. CG Foods выпускает лапшу быстрого приготовления под брендом Wai Wai, производит картофельные чипсы, кондитерские изделия. CG Corp также занимается банковским бизнесом, продажей электроники, управлением сетью отелей, пишет «Коммерсант». Forbes [отмечает](https://www.forbes.ru/biznes/451729-vladelec-brenda-gallina-blanca-resil-ujti-iz-rossii), что состояние бенефициара CG Corp Бинода Чаудхари оценивается в 1,4 млрд долларов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/10/ura-eda-prichalila-prosrochennaia
+**Читайте также:** [«Ура! Еда причалила!» Просроченная…](2021/11/10/ura-eda-prichalila-prosrochennaia.md)

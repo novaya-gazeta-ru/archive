@@ -123,4 +123,4 @@ tags: "книги, алексанян, юкос"
 
 Они не победят.
 
-**link:** https://novayagazeta.ru/articles/2020/10/02/87341-fragmen-knigi
+**link:** [Хулиган и рыцарь, не ставший конформистом](2020/10/02/87341-fragmen-knigi.md)

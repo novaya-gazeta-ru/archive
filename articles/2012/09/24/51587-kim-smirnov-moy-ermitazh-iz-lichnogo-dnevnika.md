@@ -15,7 +15,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348594560_457748_10.jpg" style="width: 360px; height: 252px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348594560_457748_10.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348594560_457748_10.jpg)" style="width: 360px; height: 252px; "></p>
 				<p>
 					<sup>Эрмитаж, открытый для всех, для всего света</sup></p>
 			</td>
@@ -23,7 +23,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348594560_921271_98.jpg" style="width: 360px; height: 361px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348594560_921271_98.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348594560_921271_98.jpg)" style="width: 360px; height: 361px; "></p>
 				<p>
 					<sup>Поднимаюсь по Иорданской лестнице…</sup></p>
 			</td>
@@ -31,7 +31,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<strong style="text-align: right; "><em><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348507597_771646_4.jpg" style="width: 360px; height: 462px; "></em></strong></p>
+					<strong style="text-align: right; "><em><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348507597_771646_4.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348507597_771646_4.jpg)" style="width: 360px; height: 462px; "></em></strong></p>
 				<p>
 					<sup>… и неожиданно, как заколдованный, остаюсь у «Возвращения блудного сына», никуда дальше не иду</sup></p>
 			</td>
@@ -39,7 +39,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348594583_153318_6.jpg" style="width: 360px; height: 411px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348594583_153318_6.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348594583_153318_6.jpg)" style="width: 360px; height: 411px; "></p>
 				<p>
 					<sup>«Три женщины» Пикассо</sup></p>
 			</td>
@@ -47,7 +47,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348594583_425543_49.jpg" style="width: 360px; height: 426px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348594583_425543_49.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348594583_425543_49.jpg)" style="width: 360px; height: 426px; "></p>
 				<p>
 					<sup><span style="vertical-align: super; ">«Портрет актрисы Антонии Сарате» Гойи</span></sup></p>
 			</td>
@@ -55,7 +55,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348594582_862993_42.jpg" style="width: 360px; height: 486px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348594582_862993_42.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348594582_862993_42.jpg)" style="width: 360px; height: 486px; "></p>
 				<p>
 					<sup>Венера Таврическая</sup></p>
 			</td>
@@ -63,7 +63,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<font size="1">О</font><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348595838_477019_26.jpg" style="width: 360px; height: 463px; "></p>
+					<font size="1">О</font><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348595838_477019_26.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348595838_477019_26.jpg)" style="width: 360px; height: 463px; "></p>
 				<p>
 					<sup>Камея Гонзага</sup></p>
 			</td>
@@ -71,7 +71,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348598029_269758_85.jpg" style="width: 360px; height: 512px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348598029_269758_85.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348598029_269758_85.jpg)" style="width: 360px; height: 512px; "></p>
 				<p>
 					<sup>Павел...</sup></p>
 			</td>
@@ -79,7 +79,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348598029_547711_44.jpg" style="width: 360px; height: 540px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348598029_547711_44.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348598029_547711_44.jpg)" style="width: 360px; height: 540px; "></p>
 				<p>
 					<sup>...и Ляля</sup></p>
 			</td>
@@ -87,7 +87,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348598028_968951_77.jpg" style="width: 360px; height: 288px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348598028_968951_77.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348598028_968951_77.jpg)" style="width: 360px; height: 288px; "></p>
 				<p>
 					<sup>Один из легендарных директоров Эрмитажа Борис Борисович Пиотровский</sup></p>
 				<p>
@@ -97,7 +97,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348594812_535731_73.jpg" style="width: 360px; height: 325px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348594812_535731_73.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348594812_535731_73.jpg)" style="width: 360px; height: 325px; "></p>
 				<p>
 					<sup>«Даная» Рембранта</sup></p>
 			</td>
@@ -105,7 +105,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348594812_822922_14.jpg" style="width: 360px; height: 480px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348594812_822922_14.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348594812_822922_14.jpg)" style="width: 360px; height: 480px; "></p>
 				<p>
 					<sup>Наш домашний талисман — довоенный мишка, переживший Ленинградскую блокаду</sup></p>
 			</td>
@@ -113,7 +113,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348594854_515120_37.jpg" style="width: 360px; height: 255px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348594854_515120_37.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348594854_515120_37.jpg)" style="width: 360px; height: 255px; "></p>
 				<p>
 					<sup>«Кузница» Джозефа Райта</sup></p>
 			</td>
@@ -121,7 +121,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348594854_798121_56.jpg" style="width: 360px; height: 460px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348594854_798121_56.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348594854_798121_56.jpg)" style="width: 360px; height: 460px; "></p>
 				<p>
 					<sup>Леонардо да Винчи. «Мадонна Литта»…</sup></p>
 			</td>
@@ -129,7 +129,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348594883_382884_49.png" style="width: 360px; height: 360px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348594883_382884_49.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348594883_382884_49.png)" style="width: 360px; height: 360px; "></p>
 				<p>
 					<sup>... и «Мадонна Бенуа</sup></p>
 			</td>
@@ -137,7 +137,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348594883_719244_14.jpg" style="width: 360px; height: 480px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348594883_719244_14.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348594883_719244_14.jpg)" style="width: 360px; height: 480px; "></p>
 				<p>
 					&nbsp;</p>
 				<p style="margin-left:36.0pt;">
@@ -148,7 +148,7 @@ tags: ""
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/24/1348594924_488371_62.jpg" style="width: 360px; height: 247px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/24/1348594924_488371_62.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/24/1348594924_488371_62.jpg)" style="width: 360px; height: 247px; "></td>
 		</tr>
 		<tr>
 			<td>

@@ -19,4 +19,4 @@ tags: ""
 
 Это сделает ценовую политику перевозчиков более прозрачной, считает Минтранс.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/07/mezhdunarodnyi-reis-s-migrantami-v-aeroportu-cheliabinska-vstretili-sotrudniki-voenkomata-i-politsiia-vrucheny-povestki-news
+**Читайте также:** [Международный рейс с мигрантами в аэропорту Челябинска встретили сотрудники военкомата и полиция, вручены повестки](2024/11/07/mezhdunarodnyi-reis-s-migrantami-v-aeroportu-cheliabinska-vstretili-sotrudniki-voenkomata-i-politsiia-vrucheny-povestki-.md)

@@ -25,13 +25,13 @@ tags: "следственный комитет, камчатка, em"
 
 «Гринпис» считает, что точку в расследовании причин экологической катастрофы поставить нельзя. Алимов подчеркнул, что пока готовы не все пробы, организация продолжает работу.
 
-**link:** https://novayagazeta.ru/articles/2020/10/13/87499-kto-slomal-okean
+**link:** [Кто сломал океан?](2020/10/13/87499-kto-slomal-okean.md)
 
 Катастрофа на Камчатке произошла в начале октября. Местные жители сообщили о массовой гибели морских животных в Авачинской бухте. Трупы мертвых морских животных нашли и в других местах на Камчатке.
 
-Представители «Гринписа» выдвигали версию о том, что экологическая катастрофа произошла из-за полигона ядохимикатов Козельский, находящегося неподалеку. РАН и власти Камчатки это [отрицают](https://novayagazeta.ru/news/2020/10/12/164875-gubernator-kamchatki-rasskazal-o-novyh-mestah-gibeli-morskih-zhivotnyh-v-regione).
+Представители «Гринписа» выдвигали версию о том, что экологическая катастрофа произошла из-за полигона ядохимикатов Козельский, находящегося неподалеку. РАН и власти Камчатки это [отрицают](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/12/164875-gubernator-kamchatki-rasskazal-o-novyh-mestah-gibeli-morskih-zhivotnyh-v-regione).
 
-«Гринпис» [отмечал](http://https//novayagazeta.ru/news/2020/10/14/164934-grinpis-sledy-raketnogo-topliva-ne-obnaruzheny-v-probah-s-kamchatki), что первые результаты проб воды и биоматериалов показали наличие компонентов нефтяных фракций, жирных кислот и эфиров, хлорсодержащих и других соединений. Следов ракетного топлива обнаружено [не было](https://novayagazeta.ru/news/2020/10/14/164934-grinpis-sledy-raketnogo-topliva-ne-obnaruzheny-v-probah-s-kamchatki).
+«Гринпис» [отмечал](http://https//novayagazeta.ru/news/2020/10/14/164934-grinpis-sledy-raketnogo-topliva-ne-obnaruzheny-v-probah-s-kamchatki), что первые результаты проб воды и биоматериалов показали наличие компонентов нефтяных фракций, жирных кислот и эфиров, хлорсодержащих и других соединений. Следов ракетного топлива обнаружено [не было](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/14/164934-grinpis-sledy-raketnogo-topliva-ne-obnaruzheny-v-probah-s-kamchatki).
 
 > **обновлено**
 >

@@ -17,14 +17,14 @@ tags: "следственный комитет, забайкалье, фсин, 
 
 По словам Афанасьева, сотрудники колонии избили не только их, но и еще нескольких осужденных. «Заключенных вывели из камеры №5 … и потом начали по одному человеку куда-то выводить, как я понял, для полного обыска. <…> В это время я услышал, что кто-то из заключенных кричит, что его бьют... Когда начали интересоваться, нас начали травить газом... У нас началась слезоточивость, кашель, в горле горело от газа», — сообщил он правозащитникам.
 
-**link:** https://novayagazeta.ru/articles/2018/08/01/77361-vse-budet-izmeneno-i-privedeno-v-sootvetstvie
+**link:** [«Все будет изменено и приведено в соответствие»](2018/08/01/77361-vse-budet-izmeneno-i-privedeno-v-sootvetstvie.md)
 
 По словам Афанасьева, он слышал крики заключенных и щелчки электрошокера и из другой камеры. В разговоре с юристами Нохрин добавил, что одного заключенного увезли из колонии, потому что он был слишком избит.
 
 Правозащитники встретились с осужденными 11 июля спустя три дня после футбольного матча. Они обратились в Следственный комитет (СК) России с просьбой расследовать инцидент и поставили в известность прокурора, однако ответа до сих пор не получили.
 
-**link:** https://novayagazeta.ru/articles/2018/07/29/77333-pytochnaya-menyaet-vyvesku
+**link:** [Пыточная меняет вывеску](2018/07/29/77333-pytochnaya-menyaet-vyvesku.md)
 
-За последние две недели СМИ сообщили о нескольких случаях жесткого обращения с осужденными в российских колониях, в том числе во [Владимирской](https://www.novayagazeta.ru/articles/2018/07/26/77289-promochil-nogi-v-kartsere-i-umer-ot-pnevmonii), [Свердловской](https://www.novayagazeta.ru/news/2018/07/25/143603-v-ekaterinburge-prokuratura-nachala-proverku-posle-smerti-zaklyuchennogo-v-kolonii) и [Брянской](https://www.novayagazeta.ru/news/2018/07/24/143564-v-bryanskoy-zaderzhali-sotrudnika-kolonii-posle-smerti-zaklyuchennogo-ot-pytok) областях.
+За последние две недели СМИ сообщили о нескольких случаях жесткого обращения с осужденными в российских колониях, в том числе во [Владимирской](2018/07/26/77289-promochil-nogi-v-kartsere-i-umer-ot-pnevmonii.md), [Свердловской](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/07/25/143603-v-ekaterinburge-prokuratura-nachala-proverku-posle-smerti-zaklyuchennogo-v-kolonii) и [Брянской](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/07/24/143564-v-bryanskoy-zaderzhali-sotrudnika-kolonii-posle-smerti-zaklyuchennogo-ot-pytok) областях.
 
-Толчком стала [публикация](https://www.novayagazeta.ru/articles/2018/07/20/77222-10-minut-v-klasse-vospitatelnoy-raboty) видео от 2017 года из ярославской колонии №1, на котором несколько сотрудников Федеральной службы исполнения наказаний избивали заключенного Евгения Макарова. По делу о пытках арестованы восемь сотрудников колонии. Против следователя Радиона Свирского, отказавшего открыть производство после сообщений об избиениях год назад, [возбудили](https://www.novayagazeta.ru/news/2018/07/31/143760-sk-vozbudil-delo-protiv-sledovatelya-otkazavshegosya-rassledovat-pytki-v-yaroslavskoy-kolonii) уголовное дело.
+Толчком стала [публикация](2018/07/20/77222-10-minut-v-klasse-vospitatelnoy-raboty.md) видео от 2017 года из ярославской колонии №1, на котором несколько сотрудников Федеральной службы исполнения наказаний избивали заключенного Евгения Макарова. По делу о пытках арестованы восемь сотрудников колонии. Против следователя Радиона Свирского, отказавшего открыть производство после сообщений об избиениях год назад, [возбудили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/07/31/143760-sk-vozbudil-delo-protiv-sledovatelya-otkazavshegosya-rassledovat-pytki-v-yaroslavskoy-kolonii) уголовное дело.

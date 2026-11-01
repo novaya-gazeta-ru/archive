@@ -37,4 +37,4 @@ tags: ""
 
 *Скриншот из видео Следственного комитета РФ*
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/20/vlasti-zaporozhskoi-oblasti-zaiavili-o-polnom-kontrole-nad-trassoi-novorossiia-kotoraia-snabzhaet-krym-minoborony-ob-etom-ne-soobshchalo-news
+**Читайте также:** [Власти Запорожской области заявили о «полном контроле» над трассой «Новороссия», которая снабжает Крым. Минобороны об этом не сообщало](2026/07/20/vlasti-zaporozhskoi-oblasti-zaiavili-o-polnom-kontrole-nad-trassoi-novorossiia-kotoraia-snabzhaet-krym-minoborony-ob-eto.md)

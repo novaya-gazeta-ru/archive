@@ -59,7 +59,7 @@ The International Red Cross gave him a loess pass — a paper with which he coul
 
 Such letter does indeed exist. In August, when the Russian court made the decision about the deportation, the Deputy Minister of Justice, knowing how the information circulates within the Bailiffs Service, tried to prevent the inevitable. But we weren't able to explain to the bailiffs that the Deputy Minister hadn’t prohibited them from releasing Ali if he wanted to leave Russia on his terms. So, we contacted the Ministry of Justice, which quickly realized the absurdity of the situation and sent another letter with clarifications to the bailiffs.
 
-**link:** https://novayagazeta.ru/articles/2017/11/30/74748-media-nikogda-nichego-ne-zabyvaet
+**link:** [«Я прошу талантливой солидарности»](2017/11/30/74748-media-nikogda-nichego-ne-zabyvaet.md)
 
 It was October 7. The week after the bailiffs presented the new conditions. The thing is, the complaint about Ali receiving a refusal to grant the refugee status had already been moving around in judicial echelons for a long time. The bailiffs demanded the decision of the appellate body regarding this case on paper. But, practically, they knew that to get the paper one has to waste a few more weeks. Thus, we realized: the bailiffs were simply inventing excuses not to release Ali. The question is why?
 

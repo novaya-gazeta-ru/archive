@@ -13,7 +13,7 @@ tags: ""
 
 *Белгород: история подъезда, которого больше нет. Видео*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/21/vy-privezete-nam-voinu
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/21/vy-privezete-nam-voinu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/21/vy-privezete-nam-voinu)
 
 Читайте также
 

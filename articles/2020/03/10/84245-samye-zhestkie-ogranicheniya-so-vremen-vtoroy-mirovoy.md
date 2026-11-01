@@ -53,7 +53,7 @@ tags: ""
 
 В понедельник премьер-министр Италии дал интервью газете La Repubblica, назвав вспышку коронавируса «самым темным часом» в стране. «В эти дни я вспоминаю старые речи Черчилля: это наш самый темный час, но мы его переживем», — заявил он.
 
-**link:** https://novayagazeta.ru/articles/2020/03/10/84239-mutant-vedet-sebya-kak-opasnyy-virus-no-on-lokalnyy
+**link:** [«Мутант ведет себя как опасный вирус, но он локальный»](2020/03/10/84239-mutant-vedet-sebya-kak-opasnyy-virus-no-on-lokalnyy.md)
 
 **Франция**
 
@@ -69,7 +69,7 @@ tags: ""
 
 Муниципальные выборы, первый тур которых назначен на 15 марта, пока остаются в силе.
 
-**link:** https://novayagazeta.ru/articles/2020/03/07/84214-maski-po-retseptu-zapret-na-potselui-i-distantsiya-v-metr
+**link:** [Маски по рецепту, запрет на поцелуи и дистанция в метр](2020/03/07/84214-maski-po-retseptu-zapret-na-potselui-i-distantsiya-v-metr.md)
 
 **Испания**
 
@@ -127,4 +127,4 @@ tags: ""
 
 МИД **Чехии** приостановил выдачу виз гражданам Ирана.
 
-**link:** https://novayagazeta.ru/articles/2020/02/25/84068-italyantsy-prosto-bezbashennye
+**link:** [«Итальянцы просто безбашенные»](2020/02/25/84068-italyantsy-prosto-bezbashennye.md)

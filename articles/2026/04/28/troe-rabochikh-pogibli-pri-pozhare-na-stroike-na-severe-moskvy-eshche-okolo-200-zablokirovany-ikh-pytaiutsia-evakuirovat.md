@@ -13,7 +13,7 @@ tags: ""
 
 > **Есть продолжение**
 >
-> ### [В пожаре на московской стройке погибли восемь человек — СК](https://novayagazeta.ru/articles/2026/04/28/v-pozhare-na-moskovskoi-stroike-pogibli-vosem-chelovek-sk-news)
+> ### [В пожаре на московской стройке погибли восемь человек — СК](2026/04/28/v-pozhare-na-moskovskoi-stroike-pogibli-vosem-chelovek-sk-news.md)
 
 ![](_assets/8f/8f1962704950798dd08d06344642d40f.webp)
 

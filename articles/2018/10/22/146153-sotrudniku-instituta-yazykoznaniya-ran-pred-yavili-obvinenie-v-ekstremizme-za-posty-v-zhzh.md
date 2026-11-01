@@ -19,4 +19,4 @@ tags: "жж, экстремизм, москва, 282, va"
 
 Дело против Алексея Касьяна [завели](https://ovdinfo.org/express-news/2018/06/08/na-sotrudnika-instituta-yazykoznaniya-ran-zaveli-ugolovnoe-delo-iz-za-posta) в июне этого года. В рамках обысков в доме у лингвиста сотрудники правоохранительных органов, как [писал ](https://twitter.com/nik_kassian/status/1005012012898963456)его сын Николай Касьян, изъяли всю технику, листовки и несколько книг.
 
-**link:** https://novayagazeta.ru/articles/2018/10/03/78056-mozhno-i-bez-ekstremizma
+**link:** [Можно и без экстремизма](2018/10/03/78056-mozhno-i-bez-ekstremizma.md)

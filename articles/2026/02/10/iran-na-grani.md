@@ -13,7 +13,7 @@ tags: "иран, михаил маргелов, орехъ, алексей ку�
 
 *Экономика, протесты и будущее режима. Обсуждаем ситуацию в Иране с Михаилом Маргеловым*
 
-**Смотрите также:** https://novayagazeta.ru/articles/2026/01/31/kak-migratsionnaia-politika-trampa-meniaet-ameriku-i-raskalyvaet-respublikantsev
+**Смотрите также:** [Как миграционная политика Трампа меняет Америку и раскалывает республиканцев?](2026/01/31/kak-migratsionnaia-politika-trampa-meniaet-ameriku-i-raskalyvaet-respublikantsev.md)
 
 Почему в Иране вспыхнули январские протесты.
 

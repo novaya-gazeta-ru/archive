@@ -111,7 +111,7 @@ ___
 
 А СМИ Петербурга сообщили о недовольстве губернатора кандидатурой Вовненко как директора Исаакия: это место для мужчины, якобы заявили в окружении Полтавченко.
 
-**link:** https://novayagazeta.ru/articles/2017/02/19/71563-perezhili-blokadu-i-eto-perezhivem
+**link:** [https://novayagazeta.ru/articles/2017/02/19/71563-perezhili-blokadu-i-eto-perezhivem](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/02/19/71563-perezhili-blokadu-i-eto-perezhivem)
 
 Вскоре Смольный опроверг эти сообщения СМИ, назвав их «классическим примером фейк ньюс»: «Кандидатуры выбираются по принципу профессионализма, гендерный принцип не практикуется».
 

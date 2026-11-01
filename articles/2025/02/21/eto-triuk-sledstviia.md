@@ -21,4 +21,4 @@ tags: ""
 
 И на одном из заседаний следователь чеченского СК Тарамов прямо сказал, что не даст нам ознакомиться с материалами дела по той простой причине, что я напишу про него «плохую статью»...
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/21/demonstrativnoe-neuvazhenie-prav-poterpevshikh-sviazano-s-lichnostiu-zakazchika-napadeniia
+**Читайте также:** [«Демонстративное неуважение прав потерпевших связано с личностью заказчика»](2025/02/21/demonstrativnoe-neuvazhenie-prav-poterpevshikh-sviazano-s-lichnostiu-zakazchika-napadeniia.md)

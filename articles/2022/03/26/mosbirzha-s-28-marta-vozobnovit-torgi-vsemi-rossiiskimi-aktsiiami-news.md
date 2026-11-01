@@ -19,6 +19,6 @@ tags: "цб, центробанк, Мосбиржа, акции, ep"
 
 Торги срочными контрактами на акции, по которым в обычном режиме проводятся торги базовым активом, будут проходить в период с 10:00 до 14:00 мск в обычном режиме, а далее — в адресном режиме.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/24/krepost-kotoruiu-stroil-tsb
+**Читайте также:** [Крепость, которую строил ЦБ](2022/03/24/krepost-kotoruiu-stroil-tsb.md)
 
-Центробанк 24 марта [возобновил](https://novayagazeta.ru/articles/2022/03/23/tsentrobank-vozobnovil-torgi-aktsiiami-na-mosbirzhe-posle-mesiachnogo-pereryva-news) торги акциями на Мосбирже после месячного перерыва. Изначально ЦБ разрешил торговать акциями лишь 33 компаний — речь идет о бумагах, входящих в индекс Мосбиржи. С 25 марта [открылись](https://novayagazeta.ru/articles/2022/03/24/na-mosbirzhe-s-25-marta-otkroiutsia-torgi-aktsiiami-v-rezhime-peregovornykh-sdelok-news) торги акциями в режиме переговорных сделок.
+Центробанк 24 марта [возобновил](2022/03/23/tsentrobank-vozobnovil-torgi-aktsiiami-na-mosbirzhe-posle-mesiachnogo-pereryva-news.md) торги акциями на Мосбирже после месячного перерыва. Изначально ЦБ разрешил торговать акциями лишь 33 компаний — речь идет о бумагах, входящих в индекс Мосбиржи. С 25 марта [открылись](2022/03/24/na-mosbirzhe-s-25-marta-otkroiutsia-torgi-aktsiiami-v-rezhime-peregovornykh-sdelok-news.md) торги акциями в режиме переговорных сделок.

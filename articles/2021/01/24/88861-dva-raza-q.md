@@ -99,4 +99,4 @@ QAnon вышел за рубежи США. Значит, дело не стол�
 
 > **Читайте по теме**
 >
-> [Как Qanon пересек океан и укрепился в Германии](https://novayagazeta.ru/articles/2021/01/24/88860-zagovorschiki-germanskoy-imperii)
+> [Как Qanon пересек океан и укрепился в Германии](2021/01/24/88860-zagovorschiki-germanskoy-imperii.md)

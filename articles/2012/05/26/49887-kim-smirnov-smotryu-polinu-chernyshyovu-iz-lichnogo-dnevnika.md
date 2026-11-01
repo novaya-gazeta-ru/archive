@@ -15,7 +15,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/26/1338022506_714380_33.jpg" style="width: 360px; height: 528px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/26/1338022506_714380_33.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/26/1338022506_714380_33.jpg)" style="width: 360px; height: 528px; "></p>
 				<p>
 					<sup>Полина Чернышёва и её работы:</sup></p>
 			</td>
@@ -23,7 +23,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/26/1338022506_896400_15.jpg" style="width: 360px; height: 488px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/26/1338022506_896400_15.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/26/1338022506_896400_15.jpg)" style="width: 360px; height: 488px; "></p>
 				<p>
 					<sup>«Девочка с голубем». Монотипия.</sup></p>
 			</td>
@@ -31,7 +31,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/26/1338022507_085748_59.jpg" style="width: 360px; height: 528px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/26/1338022507_085748_59.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/26/1338022507_085748_59.jpg)" style="width: 360px; height: 528px; "></p>
 				<p>
 					&nbsp;</p>
 				<p>
@@ -41,7 +41,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/26/1338022520_591961_19.jpg" style="width: 360px; height: 441px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/26/1338022520_591961_19.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/26/1338022520_591961_19.jpg)" style="width: 360px; height: 441px; "></p>
 				<p>
 					&nbsp;</p>
 				<p>
@@ -51,7 +51,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<sup><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/26/1338022520_805976_40.jpg" style="width: 360px; height: 515px; "></sup></p>
+					<sup><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/26/1338022520_805976_40.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/26/1338022520_805976_40.jpg)" style="width: 360px; height: 515px; "></sup></p>
 				<p>
 					&nbsp;</p>
 				<p>
@@ -60,12 +60,12 @@ tags: ""
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/26/1338022521_004638_85.jpg" style="width: 360px; height: 451px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/26/1338022521_004638_85.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/26/1338022521_004638_85.jpg)" style="width: 360px; height: 451px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/26/1338022532_186333_34.jpg" style="width: 360px; height: 250px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/26/1338022532_186333_34.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/26/1338022532_186333_34.jpg)" style="width: 360px; height: 250px; "></p>
 				<p>
 					<sup>«Антилопа Гну». Акварель.</sup></p>
 			</td>
@@ -73,7 +73,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/26/1338022532_356822_71.jpg" style="width: 360px; height: 478px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/26/1338022532_356822_71.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/26/1338022532_356822_71.jpg)" style="width: 360px; height: 478px; "></p>
 				<p>
 					<sup>«Лестница в Гурзуфе». Акварель.</sup></p>
 			</td>
@@ -81,7 +81,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/26/1338022532_551022_46.jpg" style="width: 360px; height: 229px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/26/1338022532_551022_46.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/26/1338022532_551022_46.jpg)" style="width: 360px; height: 229px; "></p>
 				<p>
 					<sup>Полина Чернышёва поздравляет Сергея Конёнкова с юбилеем</sup></p>
 			</td>

@@ -19,7 +19,7 @@ tags: ""
 
 **Некоторые российские СМИ именуют их «наблюдателями ОБСЕ», но это вранье: никакого отношения к ОБСЕ они не имеют.**
 
-*[media: <h2><a href="http://www.novayagazeta.ru/news/1688953.html" target="_blank"><strong><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2014/11/02/1414939353_170629_57.jpg" style="width: 100px; height: 75px;"><span style="color:#B22222;">Как проходили выборы в самопровозглашенных республиках на востоке Украины</span> —<br>
+*[media: <h2><a href="[http://www.novayagazeta.ru/news/1688953.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1688953.html)" target="_blank"><strong><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2014/11/02/1414939353_170629_57.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/11/02/1414939353_170629_57.jpg)" style="width: 100px; height: 75px;"><span style="color:#B22222;">Как проходили выборы в самопровозглашенных республиках на востоке Украины</span> —<br>
 в хронике «Новой газеты»</strong></a></h2>]*
 
 Кто же отправился в Донбасс? Все те же знакомые лица — смесь ультранационалистов, зоологических антисемитов и убежденных путинистов.

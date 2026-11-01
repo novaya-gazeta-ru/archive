@@ -21,4 +21,4 @@ tags: ""
 
 МВД Польши сообщило, что диаметр воронки составляет около десяти метров, а фрагменты разбросаны на значительной площади. «Объект» упал примерно в двух километрах от ближайших жилых домов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/17/v-polshe-nachali-gotovit-pravovoi-rezhim-polnoi-gotovnosti-k-voine-news
+**Читайте также:** [В Польше начали готовить правовой режим «полной готовности» к войне](2026/07/17/v-polshe-nachali-gotovit-pravovoi-rezhim-polnoi-gotovnosti-k-voine-news.md)

@@ -25,7 +25,7 @@ tags: "интернет, петербург, тролли"
 
 — Нет.
 
-**link:** https://novayagazeta.ru/politics/68627.html
+**link:** [https://novayagazeta.ru/politics/68627.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/68627.html)
 
 Людмила и ее защита, напротив, настаивают на продолжении разбирательства с «фабрикой троллей»:
 

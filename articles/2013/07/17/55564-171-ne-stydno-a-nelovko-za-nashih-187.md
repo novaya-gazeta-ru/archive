@@ -18,7 +18,7 @@ _Светлана, 18 лет, г. Ульяновск, студентка 1 ку�
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/17/1374061469_748882_94.jpg" style="width: 350px; height: 191px;"><sup>Фото: kazan24.ru</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/17/1374061469_748882_94.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/17/1374061469_748882_94.jpg)" style="width: 350px; height: 191px;"><sup>Фото: kazan24.ru</sup></td>
 		</tr>
 	</tbody>]*
 

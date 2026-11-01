@@ -14,7 +14,7 @@ tags: ""
 *[media: <div>
 		Специальный корреспондент "Новой" Ирек Муртазин рассказывает о пропаже 32 тонн драгоценных металлов. Расследование по делу фактически не ведется.</div>
 	<div>
-		Читайте в "Новой" №82 от 29 июля 2013 года и <a href="http://www.novayagazeta.ru/inquests/59266.html">на сайте</a>.</div>
+		Читайте в "Новой" №82 от 29 июля 2013 года и <a href="[http://www.novayagazeta.ru/inquests/59266.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/59266.html)">на сайте</a>.</div>
 	<div>
 		<em>При участии Ольги Кузьминой.</em></div>
 	<div>

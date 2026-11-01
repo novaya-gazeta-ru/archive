@@ -27,10 +27,10 @@ tags: "мэрия, задержания, em"
 
 Об одиночных пикетах Жданов ранее [сообщил](https://www.facebook.com/zhdanovivan/posts/2229735577144745) в своем фейсбуке.
 
-Напомним, 20 июля, [прошел](https://www.novayagazeta.ru/news/2019/07/20/153516-v-moskve-na-prospekte-saharova-nachinaetsya-soglasovannaya-aktsiya-za-dopusk-oppozitsionnyh-kandidatov-k-vyboram-v-gorodskuyu-dumu) крупный митинг на проспекте Сахарова за допуск независимых кандидатов до выборов в Мосгордуму. На акцию, по данным «Белого счетчика», вышли больше 22 тысяч человек.
+Напомним, 20 июля, [прошел](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/07/20/153516-v-moskve-na-prospekte-saharova-nachinaetsya-soglasovannaya-aktsiya-za-dopusk-oppozitsionnyh-kandidatov-k-vyboram-v-gorodskuyu-dumu) крупный митинг на проспекте Сахарова за допуск независимых кандидатов до выборов в Мосгордуму. На акцию, по данным «Белого счетчика», вышли больше 22 тысяч человек.
 
-Протестные акции длились всю неделю. 14 июля [состоялась](https://www.novayagazeta.ru/news/2019/07/14/153320-u-mosgorizbiroma-nachalis-stolknoveniya-uchastnikov-aktsii-s-politsiey-est-zaderzhannye) первая «встреча с кандидатами», акция властями Москвы согласована не была. В ходе нее протестующие дошли до здания мэрии Москвы, а затем до МГИКа, где требовали встречи с главой комиссии Валентином Горбуновым. Во время столкновений с полицией были задержаны почти 40 человек.
+Протестные акции длились всю неделю. 14 июля [состоялась](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/07/14/153320-u-mosgorizbiroma-nachalis-stolknoveniya-uchastnikov-aktsii-s-politsiey-est-zaderzhannye) первая «встреча с кандидатами», акция властями Москвы согласована не была. В ходе нее протестующие дошли до здания мэрии Москвы, а затем до МГИКа, где требовали встречи с главой комиссии Валентином Горбуновым. Во время столкновений с полицией были задержаны почти 40 человек.
 
 С понедельника по пятницу на Трубной площади каждый вечер проводились «встречи с кандидатами», на несогласованные акции каждый день выходили около тысячи человек.
 
-**link:** https://novayagazeta.ru/articles/2019/07/21/81324-tranzitnaya-situatsiya
+**link:** [Транзитная ситуация](2019/07/21/81324-tranzitnaya-situatsiya.md)

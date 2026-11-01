@@ -69,7 +69,7 @@ tags: "трамп, илон маск, crew dragon, falcon, spacex, наса, с�
 
 Планируется, что экипаж вернется на землю, точнее, приводнится в Атлантическом океане на борту SpaceX Dragon.
 
-**link:** https://novayagazeta.ru/articles/2020/05/27/85568-kak-vam-takoe-ot-ilona-maska-pilotiruemyy-polet-crew-dragon-nachinaet-novuyu-eru-v-kosmonavtike-chto-ob-etom-govoryat-kosmonavty-spetsialisty-i-pisateli-fantasty-vnutri-pryamaya-translyatsiya-starta
+**link:** [Как вам такое от Илона Маска?](2020/05/27/85568-kak-vam-takoe-ot-ilona-maska-pilotiruemyy-polet-crew-dragon-nachinaet-novuyu-eru-v-kosmonavtike-chto-ob-etom-govor.md)
 
 **И о вирусе**
 
@@ -83,6 +83,6 @@ COVID-19 внес свои изменения в космические риту
 
 Этот контракт с НАСА для него лишь еще один шаг к главной цели жизни — строительству огромного космолета Starship и отправке на Марс экспедиции колонистов. Не больше и не меньше! В субботу его все поздравляли с успешным стартом. В ЦУПе звучал американский гимн и песня австралийской группы AC/DC Back in Black, что в данном случае, означало «возвращаясь в черноту космоса». Но накануне в пятницу неудачей закончилось очередное, уже четвертое по счету, испытание прототипа корабля Starship, и Маск признал, что в его программу колонизации Луны и Марса будут внесены коррективы, в том числе временные. Как обычно, в жизни победы и неудачи идут рядом, но сегодня Америка говорит о большой космической победе.
 
-**link:** https://novayagazeta.ru/articles/2020/03/29/84577-oneweb-otdelenie-pervoy-stupeni
+**link:** [OneWeb — отделение первой ступени](2020/03/29/84577-oneweb-otdelenie-pervoy-stupeni.md)
 
 *Вашингтон*

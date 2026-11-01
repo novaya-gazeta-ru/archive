@@ -22,6 +22,6 @@ tags: "мединский, путин, история, sn"
 > - Выработка единого подхода к историческому просвещению
 > - Подготовка предложений по информационному обеспечению контрпропагандистских мероприятий
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/11/prestupleniia-protiv-istorii
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/11/prestupleniia-protiv-istorii](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/11/prestupleniia-protiv-istorii)
 
 Сейчас Владимир Мединский работает помощником российского президента. Он также является председателем Российского военно-исторического общества

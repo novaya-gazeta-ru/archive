@@ -19,6 +19,6 @@ tags: "украина, зеленский, политика"
  \
  Зеленский заявил, что повлиять на олигархов, которые уехали из страны, он не может, но все равно считает, что они не должны были покидать Украину. Он отметил, что его семья вместе с ним остается в стране.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/14/letiat-oligarkhi-i-utki
+**Читайте также:** [Летят олигархи и «утки»](2022/02/14/letiat-oligarkhi-i-utki.md)
 
-Ранее стало известно, что из Украины [улетели](https://novayagazeta.ru/articles/2022/02/14/letiat-oligarkhi-i-utki) на бизнес-джетах и чартерах некоторые олигархи и политики. Также около 30 стран [призвали](https://novayagazeta.ru/articles/2022/02/12/16-stran-za-sutki-prizvali-svoikh-grazhdan-pokinut-ukrainu-iz-za-opasenii-voennoi-eskalatsii-so-storony-rossii-news) своих граждан покинуть Украину из-за опасений военной эскалации со стороны России.
+Ранее стало известно, что из Украины [улетели](2022/02/14/letiat-oligarkhi-i-utki.md) на бизнес-джетах и чартерах некоторые олигархи и политики. Также около 30 стран [призвали](2022/02/12/16-stran-za-sutki-prizvali-svoikh-grazhdan-pokinut-ukrainu-iz-za-opasenii-voennoi-eskalatsii-so-storony-rossii-news.md) своих граждан покинуть Украину из-за опасений военной эскалации со стороны России.

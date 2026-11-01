@@ -17,8 +17,8 @@ tags: "ng, безос, amazon"
 
 Безос был гендиректором Amazon ровно 27 лет — со дня основания компании 5 июля 1994 года. Он, по информации портала, останется председателем правления и теперь намерен уделять больше времени другим проектам, в том числе созданной им компании Blue Origin.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/04/07/konets-kosmokursa
+**Читайте также:** [Конец «КосмоКурса»](2021/04/07/konets-kosmokursa.md)
 
-Ранее стало известно, что Безос вместе с его [братом Марком](https://novayagazeta.ru/articles/2021/06/07/osnovatel-amazon-dzheff-bezos-obiavil-o-planakh-otpravitsia-v-kosmos-na-sozdannom-ego-kompaniei-korable), а также с 82-летней первой женщиной-инспектором по безопасности полетов в Федеральном управлении гражданской авиации (FAA) США [Уолли Фанк](https://novayagazeta.ru/articles/2021/07/01/osnovatel-amazon-dzheff-bezos-soobshchil-chto-v-suborbitalnyi-polet-vmeste-s-nim-otpravitsia-82-letniaia-uolli-fank) совершит суборбитальный полет на созданном Blue Origin космическом корабле New Shepard.
+Ранее стало известно, что Безос вместе с его [братом Марком](2021/06/07/osnovatel-amazon-dzheff-bezos-obiavil-o-planakh-otpravitsia-v-kosmos-na-sozdannom-ego-kompaniei-korable.md), а также с 82-летней первой женщиной-инспектором по безопасности полетов в Федеральном управлении гражданской авиации (FAA) США [Уолли Фанк](2021/07/01/osnovatel-amazon-dzheff-bezos-soobshchil-chto-v-suborbitalnyi-polet-vmeste-s-nim-otpravitsia-82-letniaia-uolli-fank.md) совершит суборбитальный полет на созданном Blue Origin космическом корабле New Shepard.
 
-Помимо этого, одно из шести мест на корабле космическая компания Blue Origin [разыграет](https://novayagazeta.ru/articles/2021/05/06/chto-proizoshlo-za-noch-6-maia-korotko) на онлайн-аукционе, который пройдет в три этапа. По планам, средства направят в фонд Club for the Future, который призван стимулировать и поддерживать людей, занимающихся естественными науками и инженерией.
+Помимо этого, одно из шести мест на корабле космическая компания Blue Origin [разыграет](2021/05/06/chto-proizoshlo-za-noch-6-maia-korotko.md) на онлайн-аукционе, который пройдет в три этапа. По планам, средства направят в фонд Club for the Future, который призван стимулировать и поддерживать людей, занимающихся естественными науками и инженерией.

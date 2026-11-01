@@ -61,4 +61,4 @@ tags: "режиссер бычков, михаил бычков, воронеж�
 
 Заявления об уходе из Камерного театра уже подали ведущие актрисы театра Наталья Шевченко,Татьяна Бабенкова и Яна Кузина.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/11/25/tvorcheskaia-sostavliaiushchaia-nikogo-ne-volnuet
+**Читайте также:** [«Творческая составляющая» никого не волнует](2023/11/25/tvorcheskaia-sostavliaiushchaia-nikogo-ne-volnuet.md)

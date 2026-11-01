@@ -53,4 +53,4 @@ tags: "дотации, кавказ, ингушетия, минфин, банк�
 
 **Анна Титова,** специально для «Новой газеты»
 
-**link:** https://novayagazeta.ru/articles/2020/06/17/85883-za-chey-schet-rossiya-budet-vybiratsya-iz-krizisa
+**link:** [За чей счет Россия будет выбираться из кризиса?](2020/06/17/85883-za-chey-schet-rossiya-budet-vybiratsya-iz-krizisa.md)

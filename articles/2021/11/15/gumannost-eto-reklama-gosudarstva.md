@@ -147,4 +147,4 @@ tags: "спинальная атрофия, сма, спинраза, минзд
 
 > **Продолжение**
 >
-> Читайте [историю Кристины Тепляковой](https://novayagazeta.ru/articles/2021/11/15/ia-stala-chuvstvovat-spinu-predstavliaete) в спецвыпуске «Новой».
+> Читайте [историю Кристины Тепляковой](2021/11/15/ia-stala-chuvstvovat-spinu-predstavliaete.md) в спецвыпуске «Новой».

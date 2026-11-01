@@ -23,8 +23,8 @@ tags: "армия, барнаул, ростов-на-дону"
 
 Кудрявцев закончил срочную службу в конце декабря, но решил продолжить ее по контракту. Родственники ожидали солдата 18 декабря дома, поскольку у него должен был начаться отпуск, однако Кудрявцев не приехал, рассказав о сборе всех контрактников в части для отправки в командировку. Переход на контрактную службу солдат объяснил хорошим отношением сослуживцев.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/news/1691658.html" target="_blank"><span style="color: rgb(178, 34, 34);"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/02/14/1423918828_745295_35.jpg" style="width: 100px; height: 75px;"></span></a><span style="color: rgb(178, 34, 34);">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/news/1691658.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1691658.html)" target="_blank"><span style="color: rgb(178, 34, 34);"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/02/14/1423918828_745295_35.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/02/14/1423918828_745295_35.jpg)" style="width: 100px; height: 75px;"></span></a><span style="color: rgb(178, 34, 34);">Читайте также:</span></strong></p>
 
-<p><strong><a href="http://www.novayagazeta.ru/news/1691658.html" target="_blank">Минобороны проверит жалобы мурманских контрактников на принуждение ехать в Украину</a></strong></p>]*
+<p><strong><a href="[http://www.novayagazeta.ru/news/1691658.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1691658.html)" target="_blank">Минобороны проверит жалобы мурманских контрактников на принуждение ехать в Украину</a></strong></p>]*
 
 14 февраля Министерство обороны пообещало проверить жалобы мурманских контрактников на принуждение отправиться в командировку в Ростов. Контрактники рассказали журналистам и члену Совета по правам человека при президенте РФ о предупреждениях начальства, что военнослужащие при командировке, возможно, пересекут границу Украины.

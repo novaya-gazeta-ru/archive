@@ -15,9 +15,9 @@ tags: "отравление, фбк, навальный, ng"
 
 Она [добавила](https://twitter.com/Kira_Yarmysh/status/1296329965940756482?s=20), что врач, который в 10 утра обещал сказать результаты анализов через 2 часа, теперь говорит, что они будут готовы еще через 2 часа, а с лечащим врачом Навального Анастасией Васильевой он разговаривать отказывается.
 
-Утром 20 августа у Алексея Навального [диагностировали ](https://novayagazeta.ru/news/2020/08/20/163828-u-navalnogo-diagnostirovali-toksicheskoe-otravlenie-vo-vremya-pereleta-iz-tomska-v-moskvu)токсическое отравление во время перелета из Томска в Москву. На [кадрах ](https://twitter.com/Sandy_mustache/status/1296338160369180672?s=20)очевидцев из салона самолета слышно, как Навальный кричит от боли. В связи с тем, что политику стало плохо, лайнер экстренно посадили в Омске и вызвали скорую помощь. В больницу, куда доставили политика, вызвали полицию.
+Утром 20 августа у Алексея Навального [диагностировали ](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/08/20/163828-u-navalnogo-diagnostirovali-toksicheskoe-otravlenie-vo-vremya-pereleta-iz-tomska-v-moskvu)токсическое отравление во время перелета из Томска в Москву. На [кадрах ](https://twitter.com/Sandy_mustache/status/1296338160369180672?s=20)очевидцев из салона самолета слышно, как Навальный кричит от боли. В связи с тем, что политику стало плохо, лайнер экстренно посадили в Омске и вызвали скорую помощь. В больницу, куда доставили политика, вызвали полицию.
 
-**link:** https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online
+**link:** [https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online)
 
 Ярмыш подтвердила «Новой» эту информацию и заявила, что это было намеренное отравление. По ее [предположению](https://twitter.com/Kira_Yarmysh/status/1296296624831029258?s=20), политика могли отравить чем-то подмешанным в чай: «Это было единственное, что он пил с утра. Врачи говорят, что токсин быстрее всосался через горячую жидкость».
 

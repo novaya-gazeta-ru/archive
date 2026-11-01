@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/22/1343030215_542148_31.jpg" style="width: 360px; height: 240px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/22/1343030215_542148_31.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/22/1343030215_542148_31.jpg)" style="width: 360px; height: 240px; "><br>
 				<sup>Богдан Ступка на съемках фильма «Иванов».<br>
 				Фото: Анна Артемьева</sup></td>
 		</tr>
@@ -107,7 +107,7 @@ _В год, когда Ступка сыграл свои главные кин�
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/22/1343030321_754658_98.jpg" style="width: 360px; height: 540px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/22/1343030321_754658_98.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/22/1343030321_754658_98.jpg)" style="width: 360px; height: 540px; "><br>
 				<sup>Фото: Анна Артемьева</sup></td>
 		</tr>
 	</tbody>]*

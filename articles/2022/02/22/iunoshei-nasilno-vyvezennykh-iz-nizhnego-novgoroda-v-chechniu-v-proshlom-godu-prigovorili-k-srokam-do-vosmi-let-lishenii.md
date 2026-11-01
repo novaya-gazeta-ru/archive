@@ -15,7 +15,7 @@ tags: "ng, суды, чечня, приговор"
 
 Магамадову суд назначил год в тюрьме и семь лет — в колонии строгого режима, Исаеву — шесть лет колонии общего режима.
 
-Представитель прокуратуры на заседании 11 февраля [просил](https://novayagazeta.ru/articles/2022/02/11/obvinenie-zaprosilo-85-let-i-65-let-zakliucheniia-salekhu-magamadovu-i-ismailu-isaevu-nasilno-vyvezennym-god-nazad-iz-nizhnego-novgoroda-v-chechniu-news) приговорить Магамадова к восьми с половиной годам колонии, Исаева — шесть с половиной годам заключения.
+Представитель прокуратуры на заседании 11 февраля [просил](2022/02/11/obvinenie-zaprosilo-85-let-i-65-let-zakliucheniia-salekhu-magamadovu-i-ismailu-isaevu-nasilno-vyvezennym-god-nazad-iz-ni.md) приговорить Магамадова к восьми с половиной годам колонии, Исаева — шесть с половиной годам заключения.
 
 Как рассказали «Новой» в кризисной группе «СК SOS»,
 
@@ -39,4 +39,4 @@ tags: "ng, суды, чечня, приговор"
 
 Юношей насильно вывезли из Нижнего Новгорода в Чечню 4 февраля 2021 года. Их поместили в СИЗО-1 Грозного. Долгое время адвокатов к подзащитным не пускали, им не предоставляли материалы дела. Затем их обвинили по делу об участии в незаконном вооруженном формировании путем предоставления продуктов. По версии следствия, молодые люди передали одному из членов НВФ хлеб, сок, чай и шоколад.
 
-Как [заявляли](https://novayagazeta.ru/articles/2021/03/25/ia-krichal-ot-boli-pokhishchennye-chechenskie-iunoshi-podali-zaiavlenie-v-sk-po-faktu-pytok-so-storony-silovikov-v-2020-2021-godakh) правозащитники, задержанным пришлось подписать заявления и показания под пытками. Юноши [объявляли](https://novayagazeta.ru/articles/2021/12/21/pokhishchennye-chechenskimi-silovikami-magamadov-i-isaev-obiavili-golodovku-sud-otkazalsia-peredat-ikh-delo-v-drugoi-region-news) голодовку из-за отказа судьи передать их дело в другой регион.
+Как [заявляли](2021/03/25/ia-krichal-ot-boli-pokhishchennye-chechenskie-iunoshi-podali-zaiavlenie-v-sk-po-faktu-pytok-so-storony-silovikov-v-2020-.md) правозащитники, задержанным пришлось подписать заявления и показания под пытками. Юноши [объявляли](2021/12/21/pokhishchennye-chechenskimi-silovikami-magamadov-i-isaev-obiavili-golodovku-sud-otkazalsia-peredat-ikh-delo-v-drugoi-reg.md) голодовку из-за отказа судьи передать их дело в другой регион.

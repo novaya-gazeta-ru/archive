@@ -31,12 +31,12 @@ tags: ""
 
 *Фото: Виктория Артемьева / «Новая газета»*
 
-Напомним, мемориальную доску Анны Политковской [разбили днем 18 января](https://novayagazeta.ru/articles/2026/01/18/redaktsiia-novoi-gazety-i-deti-anny-politkovskoi-trebuiut-nakazat-vandalov-razbivshikh-memorialnuiu-dosku-ee-imeni-na-lesnoi-ulitse-news). К вечеру активисты заменили ее на временную с тем же текстом: «В этом доме жила и была злодейски убита 7 октября 2006 года Анна Политковская». Но через несколько часов [сорвали и ее](https://novayagazeta.ru/articles/2026/01/19/vandaly-vo-vtoroi-raz-za-sutki-sbili-pamiatnuiu-dosku-anny-politkovskoi-s-doma-gde-ona-zhila-i-gde-ee-ubili-svoiu-prichastnost-k-vandalizmu-ranee-priznali-neonatsisty-news).
+Напомним, мемориальную доску Анны Политковской [разбили днем 18 января](2026/01/18/redaktsiia-novoi-gazety-i-deti-anny-politkovskoi-trebuiut-nakazat-vandalov-razbivshikh-memorialnuiu-dosku-ee-imeni-na-le.md). К вечеру активисты заменили ее на временную с тем же текстом: «В этом доме жила и была злодейски убита 7 октября 2006 года Анна Политковская». Но через несколько часов [сорвали и ее](2026/01/19/vandaly-vo-vtoroi-raz-za-sutki-sbili-pamiatnuiu-dosku-anny-politkovskoi-s-doma-gde-ona-zhila-i-gde-ee-ubili-svoiu-pricha.md).
 
-Причастность к вандализму [признали неонацисты](https://novayagazeta.ru/articles/2026/01/19/memorialnuiu-dosku-anny-politkovskoi-unichtozhili-neonatsisty-smi-ugrozy-poluchili-i-organizatory-ezhegodnoi-aktsii-19-ianvaria-pamiati-stasa-markelov-i-nasti-baburovoi-news), рассказав об этом в закрытых чатах, о чем «Новая газета» упоминала.
+Причастность к вандализму [признали неонацисты](2026/01/19/memorialnuiu-dosku-anny-politkovskoi-unichtozhili-neonatsisty-smi-ugrozy-poluchili-i-organizatory-ezhegodnoi-aktsii-19-i.md), рассказав об этом в закрытых чатах, о чем «Новая газета» упоминала.
 
 Уничтожение доски Политковской произошло накануне годовщины убийства адвоката Стаса Маркелова и журналистки Насти Бабуровой неонаци-боевиком из организации «БОРН».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/01/19/aktsii-pamiati-stasa-markelova-i-nasti-baburovoi-fotografii
+**Читайте также:** [Акция памяти Стаса Маркелова и Насти Бабуровой. Фотографии](2026/01/19/aktsii-pamiati-stasa-markelova-i-nasti-baburovoi-fotografii.md)
 
 #### * Признана террористической организацией.

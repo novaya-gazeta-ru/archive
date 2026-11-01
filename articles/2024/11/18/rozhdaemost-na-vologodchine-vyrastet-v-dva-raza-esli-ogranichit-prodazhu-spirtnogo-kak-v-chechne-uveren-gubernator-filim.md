@@ -23,6 +23,6 @@ tags: ""
 
 Меры по ограничению продажи спиртного должны в 1,5-2 раза поднять рождаемость в регионе в ближайшую пятилетку, прогнозирует Филимонов. Глава региона объявил, что руководство федерального Минздрава «полностью поддерживает» эту инициативу.
 
-За 10 месяцев 2024 года розничные продажи алкоголя в России [достигли максимальных показателей](https://novayagazeta.ru/articles/2024/11/18/rossiiane-za-2024-god-pobili-rekord-po-pokupkam-alkogolia-news) за последние семь лет.
+За 10 месяцев 2024 года розничные продажи алкоголя в России [достигли максимальных показателей](2024/11/18/rossiiane-za-2024-god-pobili-rekord-po-pokupkam-alkogolia-news.md) за последние семь лет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/11/esli-khotiat-dadim-im-takoe-pravo-gubernator-vologodchiny-predlozhil-sozdat-okolofutbolnye-patruli-dlia-borby-s-narkomaniei-news
+**Читайте также:** [«Если хотят, дадим им такое право». Губернатор Вологодчины предложил создать «околофутбольные» патрули для борьбы с наркоманией](2024/10/11/esli-khotiat-dadim-im-takoe-pravo-gubernator-vologodchiny-predlozhil-sozdat-okolofutbolnye-patruli-dlia-borby-s-narkoman.md)

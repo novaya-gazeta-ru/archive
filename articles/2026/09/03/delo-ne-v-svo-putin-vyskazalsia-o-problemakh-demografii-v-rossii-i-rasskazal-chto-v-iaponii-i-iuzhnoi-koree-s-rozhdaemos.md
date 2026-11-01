@@ -25,7 +25,7 @@ tags: "демография, демографический кризис, рож
 
 По его словам, чтобы повысить рождаемость, государству нужно создавать стимулы для семей, особенно молодых женщин, а также менять «общественное сознание».
 
-В июле президент Казахстана Касым-Жомарт Токаев [призывал](https://novayagazeta.ru/articles/2026/07/25/nikto-ne-znaet-kak-vyiti-iz-situatsii-no-mozhno-zamorozit-vse-eto-delo-tokaev-predlozhil-putinu-prekratit-boevye-deistviia-i-peredal-emu-signaly-iz-evropy-i-ssha-news) Путина подумать о заморозке военных действий.
+В июле президент Казахстана Касым-Жомарт Токаев [призывал](2026/07/25/nikto-ne-znaet-kak-vyiti-iz-situatsii-no-mozhno-zamorozit-vse-eto-delo-tokaev-predlozhil-putinu-prekratit-boevye-deistvi.md) Путина подумать о заморозке военных действий.
 
 > «Жалко, молодые люди гибнут, это генофонд братских народов — России и Украины. Все это надо останавливать»,
 

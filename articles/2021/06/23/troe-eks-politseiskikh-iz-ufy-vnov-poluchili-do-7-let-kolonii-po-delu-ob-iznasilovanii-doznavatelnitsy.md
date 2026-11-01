@@ -17,8 +17,8 @@ tags: "полицейское насилие, изнасилование, уфа
 
 По версии следствия, в ночь на 30 октября 2018 года в ОВД по Уфимскому району глава отдела полиции Эдуард Матвеев, глава отдела полиции по Кармаскалинскому району Салават Галиев и глава отдела по вопросам миграции МВД по Уфимскому району Павел Яромчук изнасиловали 23-летнюю Гульназ Фатхисламову. Факт изнасилования [подтверждали](http://newsbash.ru/society/accidents/6904-poyavilis-rezultaty-dnk-ekspertizy-doznavatelya-iz-ufy-obvinivshey-treh-policeyskih-v-iznasilovanii.html) результаты биоэкспертизы.
 
-В декабре 2019 года фигурантам дела [вынесли](https://novayagazeta.ru/news/2019/12/26/157969-byvshih-bashkirskih-politseyskih-prigovorili-k-srokam-do-7-let-za-iznasilovanie-doznavatelnitsy) приговор. Матвеев получил семь лет колонии, Галиев, как и Яромчук — шесть лет. Суд также постановил взыскать с них 3 млн рублей в пользу потерпевшей. Фигуранты дела свою вину не признали.
+В декабре 2019 года фигурантам дела [вынесли](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/12/26/157969-byvshih-bashkirskih-politseyskih-prigovorili-k-srokam-do-7-let-za-iznasilovanie-doznavatelnitsy) приговор. Матвеев получил семь лет колонии, Галиев, как и Яромчук — шесть лет. Суд также постановил взыскать с них 3 млн рублей в пользу потерпевшей. Фигуранты дела свою вину не признали.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/08/zabralo-otpustilo
+**Читайте также:** [Забрало отпустило](2021/06/08/zabralo-otpustilo.md)
 
-Верховный суд Башкирии 3 июня 2020 года [оправдал](https://novayagazeta.ru/news/2020/06/03/162004-verhovnyy-sud-bashkirii-opravdal-dvuh-eks-politseyskih-po-delu-ob-iznasilovanii-doznavatelnitsy-v-ovd) Галиева и Матвеева, а Яромчуку смягчил наказание с шести лет колонии до четырех. В ноябре того же года кассационный суд в Самаре отменил это решение и отправил дело на пересмотр.
+Верховный суд Башкирии 3 июня 2020 года [оправдал](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/06/03/162004-verhovnyy-sud-bashkirii-opravdal-dvuh-eks-politseyskih-po-delu-ob-iznasilovanii-doznavatelnitsy-v-ovd) Галиева и Матвеева, а Яромчуку смягчил наказание с шести лет колонии до четырех. В ноябре того же года кассационный суд в Самаре отменил это решение и отправил дело на пересмотр.

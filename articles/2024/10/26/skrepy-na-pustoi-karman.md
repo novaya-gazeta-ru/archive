@@ -74,4 +74,4 @@ tags: ""
 
 «Новая» направила запрос в администрацию Владивостока с просьбой прояснить ситуацию с «духовно-нравственными» учебниками. На момент сдачи материала ответа не было.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/31/prevrashchenie-kafki-v-etichnoe-semevedenie
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/31/prevrashchenie-kafki-v-etichnoe-semevedenie](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/31/prevrashchenie-kafki-v-etichnoe-semevedenie)

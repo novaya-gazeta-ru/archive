@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/11/1373540094_266821_59.jpg" style="width: 360px; height: 249px;"><sup>Администрация Пугачева.&nbsp;Фото Веры Салмановой</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/11/1373540094_266821_59.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/11/1373540094_266821_59.jpg)" style="width: 360px; height: 249px;"><sup>Администрация Пугачева.&nbsp;Фото Веры Салмановой</sup></td>
 		</tr>
 	</tbody>]*
 

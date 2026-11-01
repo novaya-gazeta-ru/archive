@@ -24,11 +24,11 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/11/12/1384274532_902819_30.jpg" style="width: 186px; height: 273px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/11/12/1384274532_902819_30.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/11/12/1384274532_902819_30.jpg)" style="width: 186px; height: 273px;"></td>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/11/12/1384274533_551769_85.jpg" style="width: 186px; height: 273px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/11/12/1384274533_551769_85.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/11/12/1384274533_551769_85.jpg)" style="width: 186px; height: 273px;"></td>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/11/12/1384274533_252130_27.jpg" style="width: 186px; height: 273px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/11/12/1384274533_252130_27.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/11/12/1384274533_252130_27.jpg)" style="width: 186px; height: 273px;"></td>
 		</tr>
 	</tbody>]*
 

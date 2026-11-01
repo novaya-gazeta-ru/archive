@@ -39,4 +39,4 @@ tags: "лгбт, пропаганда, цензура, снегурочка"
 
 *Приморье *
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/12/27/ne-korol-to-golyi-ili-gibel-bogov
+**Читайте также:** [Не король-то голый, или Гибель «богов»](2023/12/27/ne-korol-to-golyi-ili-gibel-bogov.md)

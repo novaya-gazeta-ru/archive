@@ -45,9 +45,9 @@ tags: "война, днр, лнр, перемирие, украина"
 
 «Любое поползновение Киева в сторону НАТО или какого-либо иного антироссийского военного союза неприемлемо для нас, — говорится в заявлении Пушилина и Дайнеко. — В таком случае мы немедленно прервем взаимодействие с Киевом и будем считать Минские договоренности ничтожными».
 
-**link:** https://novayagazeta.ru/politics/67346.html
+**link:** [https://novayagazeta.ru/politics/67346.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/67346.html)
 
-**link:** https://novayagazeta.ru/politics/67346.html
+**link:** [https://novayagazeta.ru/politics/67346.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/67346.html)
 
 **17 февраля. Владимир Путин оправдал нарушение перемирия сепаратистами в Дебальцево**
 

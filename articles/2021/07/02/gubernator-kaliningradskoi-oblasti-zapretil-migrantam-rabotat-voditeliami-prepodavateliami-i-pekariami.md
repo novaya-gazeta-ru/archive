@@ -19,6 +19,6 @@ tags: ""
 
 Указ вступит в силу через три месяца и будет действовать год.
 
-В марте 2019 года глава Якутии [подписал](https://novayagazeta.ru/news/2019/03/28/150396-glava-yakutii-podpisal-ukaz-o-zaprete-brat-na-rabotu-migrantov-na-territorii-regiona) указ, запрещающий на территории региона брать на работу мигрантов. Запрет распространяется на патенты по 33 видам видам экономической деятельности.
+В марте 2019 года глава Якутии [подписал](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/03/28/150396-glava-yakutii-podpisal-ukaz-o-zaprete-brat-na-rabotu-migrantov-na-territorii-regiona) указ, запрещающий на территории региона брать на работу мигрантов. Запрет распространяется на патенты по 33 видам видам экономической деятельности.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/24/privivka-est-a-zhara-rabote-ne-pomekha
+**Читайте также:** [«Прививка есть — а жара работе не помеха»](2021/06/24/privivka-est-a-zhara-rabote-ne-pomekha.md)

@@ -13,9 +13,9 @@ tags: ""
 
 *На исходе второй недели протестов турецкая полиция заливает водой и слезоточивым газом парк Гези и площадь Таксим*
 
-# [](http://www.novayagazeta.ru/photos/58591.html)
+# [](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/58591.html)
 
-[Instagram Елены Рачевой](http://www.novayagazeta.ru/photos/58591.html)
+[Instagram Елены Рачевой](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/58591.html)
 
 Подробнее о том, что происходило в столице Турции в ночь с 13 на 14 июня, читайте в заметке Елены Рачевой "Правительство Турции пошло на диалог с протестантами. В Стамбуле - перемирие"
 

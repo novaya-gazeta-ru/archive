@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" class="g-image-align-right" src="http://www.novayagazeta.ru/storage/c/2014/07/10/1405010837_973197_39.png" style="width: 320px; height: 225px;"><sup>Геннадий Корбан</sup></td>
+			<td class="g-justify-right"><img alt="" class="g-image-align-right" src="[http://www.novayagazeta.ru/storage/c/2014/07/10/1405010837_973197_39.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/07/10/1405010837_973197_39.png)" style="width: 320px; height: 225px;"><sup>Геннадий Корбан</sup></td>
 		</tr>
 	</tbody>]*
 

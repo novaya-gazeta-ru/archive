@@ -59,4 +59,4 @@ tags: "скулшутинг, шутинг, брянск, школы"
 
 Подготовил **Макар Ситкин**
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/10/01/pritselnaia-nenavist-media
+**Читайте также:** [Прицельная ненависть](2022/10/01/pritselnaia-nenavist-media.md)

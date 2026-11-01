@@ -43,9 +43,9 @@ Z и V — символы «спецоперации», которые акти�
 
 Стандартно мыслит и сфера образования: Сеть пестрит фотографиями, на которых искомая буква выложена то телами юных физкультурников, то, как в Североморске Мурманской области, в нее выстроены воспитанники детсада. В Казани и вовсе для этого использовали пациентов детского хосписа.
 
-Чувствуется, недолго думали и мурманские чиновники, которые [нарядились](https://novayagazeta.ru/articles/2022/03/13/tekstilnye-voiska) в худи с приличествующим случаю принтом. Не отличаются необычностью и разного калибра значки, наклейки на авто, кружки и брелоки, которых уже не счесть в интернет-магазинах. Это как носки и пена для бритья на 23 февраля!
+Чувствуется, недолго думали и мурманские чиновники, которые [нарядились](2022/03/13/tekstilnye-voiska.md) в худи с приличествующим случаю принтом. Не отличаются необычностью и разного калибра значки, наклейки на авто, кружки и брелоки, которых уже не счесть в интернет-магазинах. Это как носки и пена для бритья на 23 февраля!
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/18/stolko-materei-seichas-moliatsia-chto-bog-ne-spravliaetsia
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/18/stolko-materei-seichas-moliatsia-chto-bog-ne-spravliaetsia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/18/stolko-materei-seichas-moliatsia-chto-bog-ne-spravliaetsia)
 
 Творческим подходом отличились петербуржцы. На местных заправках кофе стали наливать в стаканчики с надписью «Za кофе». А дорожные знаки получили Z-подсветку. Впрочем, главный питерский креатив — это, конечно, [ролик](https://www.instagram.com/p/CbH4NI5sbam/?utm_medium=copy_link), в котором стражи порядка прощают граффитчика, распознав в его произведении всё ту же букву.
 
@@ -57,4 +57,4 @@ Z и V — символы «спецоперации», которые акти�
 
 Впрочем, с креативом на сакральную тему надо быть осторожнее. В Сургуте суд оштрафовал на 40 тысяч рублей местного жителя за оскорбление сакральной буквы: его нелицеприятная расшифровка символа была расценена судом как дискредитация Вооруженных сил.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/18/v-peterburge-proshel-patrioticheskii-miting-kontsert-za-rossiiu-zhurnalistam-prishlos-dosmatrivat-ego-v-avtozake
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/18/v-peterburge-proshel-patrioticheskii-miting-kontsert-za-rossiiu-zhurnalistam-prishlos-dosmatrivat-ego-v-avtozake](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/18/v-peterburge-proshel-patrioticheskii-miting-kontsert-za-rossiiu-zhurnalistam-prishlos-dosmatrivat-ego-v-avtozake)

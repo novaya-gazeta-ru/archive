@@ -15,7 +15,7 @@ tags: "кеворкова, суды"
 
 *Надежда Кеворкова в суде. Кадр: «Новая газета»*
 
-Во 2-ом Западном окружном военном суде прошло первое заседание по [делу](https://novayagazeta.ru/articles/2025/02/24/sud-ostavil-pod-strazhei-65-letniuiu-zhurnalistku-nadezhdu-kevorkovu-news) журналистки Надежды Кеворковой, обвиняемой в «оправдании терроризма» за два поста в телеграм-канале.
+Во 2-ом Западном окружном военном суде прошло первое заседание по [делу](2025/02/24/sud-ostavil-pod-strazhei-65-letniuiu-zhurnalistku-nadezhdu-kevorkovu-news.md) журналистки Надежды Кеворковой, обвиняемой в «оправдании терроризма» за два поста в телеграм-канале.
 
 Заседание должно было пройти в маленьком зале на шесть мест, однако его решили перенести в большой зал, так как на оглашение обвинительного заключения собралось большое количество журналистов, родственников и друзей Кеворковой, отмечает корреспондент «Новой».
 
@@ -27,4 +27,4 @@ tags: "кеворкова, суды"
 
 Следующее заседание должно состояться в среду, 12 марта. Тогда же могут состояться и прения. Адвокаты не исключают, что судья может удалиться в совещательную комнату для написания приговора уже на этой неделе.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/05/13/zhurnalistku-nadezhdu-kevorkovu-vkliuchili-v-reestr-ekstremistov-i-terroristov-rezko-ogranichiv-v-grazhdanskikh-pravakh-sud-po-ee-delu-eshche-ne-nachinalsia-news
+**Читайте также:** [https://novayagazeta.ru/articles/2024/05/13/zhurnalistku-nadezhdu-kevorkovu-vkliuchili-v-reestr-ekstremistov-i-terroristov-rezko-ogranichiv-v-grazhdanskikh-pravakh-sud-po-ee-delu-eshche-ne-nachinalsia-news](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/05/13/zhurnalistku-nadezhdu-kevorkovu-vkliuchili-v-reestr-ekstremistov-i-terroristov-rezko-ogranichiv-v-grazhdanskikh-pravakh-sud-po-ee-delu-eshche-ne-nachinalsia-news)

@@ -27,6 +27,6 @@ tags: ""
 
 Так, на «после выборов» чиновники [уже переносили](https://t.me/novaya_pishet/58085) внедрение платы за использование VPN, технологический сбор на иностранную цифровую технику, а перед властями остро стоит вопрос и о сокращении госрасходов на фоне растущего дефицита бюджета.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/23/rossiia-budet-svo
+**Читайте также:** [Россия будет сво..!](2026/06/23/rossiia-budet-svo.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/05/19/mifologiia-ozhidanii-tolko-vot-ne-letiat-lebedi
+**Читайте также:** [Мифология ожиданий. Только вот не летят лебеди…](2026/05/19/mifologiia-ozhidanii-tolko-vot-ne-letiat-lebedi.md)

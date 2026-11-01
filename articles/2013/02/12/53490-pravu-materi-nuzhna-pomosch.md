@@ -13,4 +13,4 @@ tags: ""
 
 *[media: &nbsp;]*
 
-*[media: <a href="http://www.novayagazeta.ru/society/56642.html">Фонд, который помогает родственникам погибших солдат и выигрывает суды у Минобороны, на грани выживания. Короче, друзья, нужно скинуться</a>]*
+*[media: <a href="[http://www.novayagazeta.ru/society/56642.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/56642.html)">Фонд, который помогает родственникам погибших солдат и выигрывает суды у Минобороны, на грани выживания. Короче, друзья, нужно скинуться</a>]*

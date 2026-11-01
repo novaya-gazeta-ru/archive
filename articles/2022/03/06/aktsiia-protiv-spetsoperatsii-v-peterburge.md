@@ -58,7 +58,7 @@ tags: "петербург, протесты, спецоперация, заде�
 
 *Фото: Артем Лешко / для «Новой»‎*
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/06/iskusno-poimali-na-ploshchadi-iskusstv
+**Читайте также:** [Искусно поймали на площади Искусств](2022/03/06/iskusno-poimali-na-ploshchadi-iskusstv.md)
 
 Фото: Артем Лешко / для «Новой»‎
 

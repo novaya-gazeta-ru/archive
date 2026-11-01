@@ -161,7 +161,7 @@ Dassault Aviation — среди прочего — производитель �
 
 А Макрон до конца своего второго (и последнего) срока, то есть до 2027 года, пообещал «представить» первый французский пассажирский самолет с «ультранизким потреблением».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/06/14/pomoiki-atakuiut-aeroporty
+**Читайте также:** [https://novayagazeta.ru/articles/2023/06/14/pomoiki-atakuiut-aeroporty](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/06/14/pomoiki-atakuiut-aeroporty)
 
 54-й Парижский авиакосмический салон проходит с 19 по 25 июня. Традиционно он проводится раз в два года, но предыдущий форум был отменен из-за ковида.
 

@@ -15,10 +15,10 @@ tags: "роскомнадзор, штрафы, telegram, kn"
 
 Суд признал Telegram виновным в неудалении запрещенной информации (ч. 2 ст. 13.41 КоАП). В итоге сумма штрафов, назначенных Telegram с начала 2021 года, составила около 40 млн рублей.
 
-По данным Роскомнадзора, всего суды в России с января по ноябрь [оштрафовали](https://novayagazeta.ru/articles/2021/11/01/sudy-v-rossii-s-nachala-goda-oshtrafovali-internet-kompanii-na-187-mln-rublei-za-neudalenie-kontenta-news) интернет-компании более чем на 187 млн рублей за неудаление контента.
+По данным Роскомнадзора, всего суды в России с января по ноябрь [оштрафовали](2021/11/01/sudy-v-rossii-s-nachala-goda-oshtrafovali-internet-kompanii-na-187-mln-rublei-za-neudalenie-kontenta-news.md) интернет-компании более чем на 187 млн рублей за неудаление контента.
 
-На прошлой неделе суд [оштрафовал](https://novayagazeta.ru/articles/2021/11/08/sud-oshtrafoval-google-i-telegram-na-2-i-4-mln-rublei-za-neudalenie-zapreshchennoi-informatsii-news) Google и Telegram на 2 и 4 млн рублей за это же нарушение.
+На прошлой неделе суд [оштрафовал](2021/11/08/sud-oshtrafoval-google-i-telegram-na-2-i-4-mln-rublei-za-neudalenie-zapreshchennoi-informatsii-news.md) Google и Telegram на 2 и 4 млн рублей за это же нарушение.
 
-РКН также впервые [потребовал](https://novayagazeta.ru/articles/2021/10/27/roskomnadzor-snova-potreboval-primenit-k-facebook-oborotnyi-shtraf-za-neudalenie-nezakonnogo-kontenta-news) применить к Google и Facebook оборотный штраф за неудаление «незаконного» контента. Новый штраф может составить в размере от 5% до 10% годовой выручки, его точную сумму определит суд. К Telegram подобная мера не применялась.
+РКН также впервые [потребовал](2021/10/27/roskomnadzor-snova-potreboval-primenit-k-facebook-oborotnyi-shtraf-za-neudalenie-nezakonnogo-kontenta-news.md) применить к Google и Facebook оборотный штраф за неудаление «незаконного» контента. Новый штраф может составить в размере от 5% до 10% годовой выручки, его точную сумму определит суд. К Telegram подобная мера не применялась.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/11/metodichka-po-raschleneniiu-facebook
+**Читайте также:** [Методичка по расчленению Facebook](2021/10/11/metodichka-po-raschleneniiu-facebook.md)

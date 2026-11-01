@@ -29,9 +29,9 @@ tags: "дело кашина"
 
 Впрочем, волна возмущения и сенсационные утечки пока ни к каким официальным последствиям не привели.
 
-**link:** https://novayagazeta.ru/politics/69974.html
+**link:** [https://novayagazeta.ru/politics/69974.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/69974.html)
 
-**link:** https://novayagazeta.ru/politics/69974.html
+**link:** [https://novayagazeta.ru/politics/69974.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/69974.html)
 
 # Схроны
 
@@ -79,9 +79,9 @@ tags: "дело кашина"
 
 **P.S.* **На наш взгляд, очевидно: свидетелям, давшим показания (и членам их семей), арестованным подозреваемым, которые также дают признательные показания, и, конечно, самому Олегу Кашину в сложившейся ситуации угрожает серьезная опасность. «Новая газета» еще раз призывает компетентные органы выделить для обеспечения сохранности их жизни и здоровья государственную охрану.*
 
-**link:** https://novayagazeta.ru/arts/69973.html
+**link:** [https://novayagazeta.ru/arts/69973.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/69973.html)
 
-**link:** https://novayagazeta.ru/arts/69973.html
+**link:** [https://novayagazeta.ru/arts/69973.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/69973.html)
 
 # Сплошные угрозы
 

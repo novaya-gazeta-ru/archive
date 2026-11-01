@@ -23,4 +23,4 @@ tags: ""
 
 На место прибыли экстренные службы и вылетела комиссия Воздушно-космических сил.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/28/vodolaz-pogib-pri-ochistke-moria-ot-mazuta-v-anape-news
+**Читайте также:** [Водолаз погиб при очистке моря от мазута в Анапе](2025/02/28/vodolaz-pogib-pri-ochistke-moria-ot-mazuta-v-anape-news.md)

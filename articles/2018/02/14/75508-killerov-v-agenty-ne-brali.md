@@ -13,7 +13,7 @@ tags: ""
 
 *Чем кейс Госфильмофонда отличается от классической практики советских спецслужб*
 
-**link:** https://novayagazeta.ru/articles/2018/02/14/75509-bond-iz-filmofonda
+**link:** [Бонд из фильмофонда](2018/02/14/75509-bond-iz-filmofonda.md)
 
 ![](_assets/c3/c3dbb4a9b2b4ab03f2969c27f65eb752.webp)
 

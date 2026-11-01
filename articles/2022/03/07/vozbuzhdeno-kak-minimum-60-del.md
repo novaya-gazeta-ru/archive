@@ -31,7 +31,7 @@ tags: "адвокаты, минобороны, репрессии, угрозы,
 
 — Плакаты, посты, высказывания. Буквально: слова «Нет <слову, которое запрещено Роскомнадзором>». Это основное. Основное — именно за такую формулировку.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/07/putin-na-nashei-storone-18
+**Читайте также:** [«Путин на нашей стороне!» (18+)](2022/03/07/putin-na-nashei-storone-18.md)
 
 **— Какова тактика защиты в случае с обвинениями по новой статье?**
 
@@ -49,4 +49,4 @@ tags: "адвокаты, минобороны, репрессии, угрозы,
 
 *(Статья 207.3 УК РФ предусматривает до 15 лет лишения свободы).*
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/01/o-rabote-v-usloviiakh-voennogo-vremeni
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/01/o-rabote-v-usloviiakh-voennogo-vremeni](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/01/o-rabote-v-usloviiakh-voennogo-vremeni)

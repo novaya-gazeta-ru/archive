@@ -19,4 +19,4 @@ tags: "гибдд, сбой, da"
 
 Утром читатели «Фонтанки» [рассказали](https://www.fontanka.ru/2021/12/18/70325606/) о затруднениях с получением государственных услуг в отделениях ГИБДД. Согласно их информации, «люди с утра стояли в очередях, сегодня ничего сделать не смогли, [им] сказали попробовать прийти завтра». Издание подтвердило, что сбой затронул всю Россию.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/04/v-rabote-facebook-instagram-i-whatsapp-zafiksirovan-globalnyi-sboi-news
+**Читайте также:** [В работе Facebook, Instagram и WhatsApp зафиксирован глобальный сбой. Главное](2021/10/04/v-rabote-facebook-instagram-i-whatsapp-zafiksirovan-globalnyi-sboi-news.md)

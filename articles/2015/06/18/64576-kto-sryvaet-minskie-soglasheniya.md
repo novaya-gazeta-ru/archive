@@ -61,6 +61,6 @@ tags: "днр, лнр, минские соглашения, провокация
 
 Наблюдатели отметили также, что только на одной из семи осмотренных площадок украинской армии все ранее переписанное вооружение находилось на месте. На остальных шести 17 единиц ранее переписанного тяжелого вооружения не были обнаружены.
 
-**link:** https://novayagazeta.ru/columns/68841.html
+**link:** [https://novayagazeta.ru/columns/68841.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/68841.html)
 
-**link:** https://novayagazeta.ru/columns/68841.html
+**link:** [https://novayagazeta.ru/columns/68841.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/68841.html)

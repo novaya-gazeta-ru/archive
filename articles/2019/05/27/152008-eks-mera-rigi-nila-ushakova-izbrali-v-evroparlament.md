@@ -21,4 +21,4 @@ tags: "евросоюз, выборы, европарламент, em"
 
 Выборы в Европарламент прошли 23-26 мая в 28 странах, входящих в Европейский союз. Явка на выборах [составила](https://twitter.com/Europarl_EN/status/1132773174486151169) 50,5%, это самый высокий показатель за 20 лет.
 
-**link:** https://novayagazeta.ru/articles/2019/05/26/80658-sila-revansha-le-pen-vyigrala-duel-u-makrona-na-evropeyskih-vyborah
+**link:** [Сила реванша: какую победу одержала Ле Пен над Макроном](2019/05/26/80658-sila-revansha-le-pen-vyigrala-duel-u-makrona-na-evropeyskih-vyborah.md)

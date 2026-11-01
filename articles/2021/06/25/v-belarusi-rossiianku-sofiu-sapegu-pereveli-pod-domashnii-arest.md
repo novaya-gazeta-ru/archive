@@ -27,6 +27,6 @@ tags: "em , беларусь, домашний арест, протасевич,
 
 Сапегу задержали 23 мая в минском аэропорту вместе с Протасевичем. После этого члены президентского Совета по правам человека (СПЧ) обратились главе МИД России Сергею Лаврову с просьбой о помощи в освобождении россиянки.
 
-Девушку [арестовали](«https://novayagazeta.ru/articles/2021/05/25/rossiianku-sofiu-sapegu-arestovali-v-minske-na-dva-mesiatsa») на два месяца. Затем этого провластный телеграм-канал «Желтые сливы» [опубликовал](«https://novayagazeta.ru/articles/2021/05/25/istochnik-arestovannuiu-v-belarusi-rossiianku-sofiu-sapegu-podozrevaiut-v-organizatsii-massovykh-besporiadkov») видео «допроса» Софьи, на котором она под запись «признается» в администрировании телеграм-канала «Черная книга Беларуси» с персональными данными силовиков (решением суда в Гомеле признан экстремистским на территории РБ).
+Девушку [арестовали](2021/05/25/rossiianku-sofiu-sapegu-arestovali-v-minske-na-dva-mesiatsa.md) на два месяца. Затем этого провластный телеграм-канал «Желтые сливы» [опубликовал](2021/05/25/istochnik-arestovannuiu-v-belarusi-rossiianku-sofiu-sapegu-podozrevaiut-v-organizatsii-massovykh-besporiadkov.md) видео «допроса» Софьи, на котором она под запись «признается» в администрировании телеграм-канала «Черная книга Беларуси» с персональными данными силовиков (решением суда в Гомеле признан экстремистским на территории РБ).
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/19/u-protasevicha-inogo-puti-prosto-net
+**Читайте также:** [«У Протасевича иного пути просто нет»](2021/06/19/u-protasevicha-inogo-puti-prosto-net.md)

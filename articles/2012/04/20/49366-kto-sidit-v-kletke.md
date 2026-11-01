@@ -14,7 +14,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/04/20/1334877242_503751_99.jpg" style="width: 360px; height: 240px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/04/20/1334877242_503751_99.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/04/20/1334877242_503751_99.jpg)" style="width: 360px; height: 240px; "><br>
 				<sup>Все фото: Екатерина Фомина</sup></td>
 		</tr>
 	</tbody>]*

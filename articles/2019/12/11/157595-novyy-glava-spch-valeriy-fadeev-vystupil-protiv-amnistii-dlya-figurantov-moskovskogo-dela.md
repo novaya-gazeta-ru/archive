@@ -19,6 +19,6 @@ tags: "спч, фадеев, va"
 
 Накануне состоялось ежегодное заседание Совета по правам человека с участием президента Владимира Путина. Хотя уголовное преследование участников протестов было темой обсуждения на нем, проект амнистии там не затрагивали — как и ставшие причиной для акций нарушения на выборах в Мосгордуму.
 
-**link:** https://novayagazeta.ru/articles/2019/12/11/83117-razgovor-s-pervym-litsom-ne-o-tom
+**link:** [Разговор с первым лицом не о том](2019/12/11/83117-razgovor-s-pervym-litsom-ne-o-tom.md)
 
 Разработка проекта амнистии началась при прежнем главе Совета Михаиле Федотове еще до начала летних протестов. По [словам](https://openmedia.io/infometer/prezidium-spch-odobril-vklyuchenie-v-amnistiyu-figurantov-moskovskogo-dela-no-proekt-peresmotryat-iz-za-smeny-rukovodstva/) автора проекта судьи Конституционного суда в отставке Тамары Морщаковой, включение фигурантов «московского дела» должно было устранить возможные ошибки при вынесении приговоров. Еще в сентябре проект одобрил президиум СПЧ, однако после смены руководства в октябре документ [решили ](https://openmedia.io/infometer/prezidium-spch-odobril-vklyuchenie-v-amnistiyu-figurantov-moskovskogo-dela-no-proekt-peresmotryat-iz-za-smeny-rukovodstva/)«доработать».

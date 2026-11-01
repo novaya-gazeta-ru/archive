@@ -77,9 +77,9 @@ tags: "михалков, оскар"
 
 — А кого надо было? Миндадзе? Германа-младшего? Юрия Быкова? Не смешите, лейтенант.
 
-**link:** https://novayagazeta.ru/arts/65656.html
+**link:** [https://novayagazeta.ru/arts/65656.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/65656.html)
 
-**link:** https://novayagazeta.ru/arts/65656.html
+**link:** [https://novayagazeta.ru/arts/65656.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/65656.html)
 
 Майор средних лет, с белыми от бешенства глазами (Виталий Кищенко):
 

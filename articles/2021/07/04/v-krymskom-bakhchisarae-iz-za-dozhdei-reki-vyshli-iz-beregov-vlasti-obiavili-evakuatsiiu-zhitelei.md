@@ -17,6 +17,6 @@ tags: "вода , крым, ялта, sn"
 
 В Бахчисарайском районе из берегов вышли реки Бельбек и Коккозка. Также в Байдарской долине вышла из берегов река Бага. Кроме того, о подтоплении нескольких улиц сообщили и власти Ялты.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/17/troe-za-lodkoi-ne-schitaia-press-sluzhby
+**Читайте также:** [Трое — за лодкой, не считая пресс-службы](2021/06/17/troe-za-lodkoi-ne-schitaia-press-sluzhby.md)
 
-В середине июня в Керчи из-за сильных дождей [оказались](https://novayagazeta.ru/articles/2021/06/17/v-kerchi-bolee-200-domov-zatopilo-v-rezultate-silnykh-livnei-na-mesto-pribyl-glava-kryma-i-osmotrel-gorod-na-naduvnoi-lodke-video) затоплены более 200 домов, без света остались больница и центр города. Также из-за непогоды пострадала Ялта и ряд других городов на южном берегу полуострова.
+В середине июня в Керчи из-за сильных дождей [оказались](2021/06/17/v-kerchi-bolee-200-domov-zatopilo-v-rezultate-silnykh-livnei-na-mesto-pribyl-glava-kryma-i-osmotrel-gorod-na-naduvnoi-lo.md) затоплены более 200 домов, без света остались больница и центр города. Также из-за непогоды пострадала Ялта и ряд других городов на южном берегу полуострова.

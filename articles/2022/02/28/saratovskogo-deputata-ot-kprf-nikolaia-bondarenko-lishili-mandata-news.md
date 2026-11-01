@@ -23,6 +23,6 @@ tags: "бондаренко, кпрф, мандат, лишение мандат
 
 Бондаренко считает, что это решение было политически мотивированным и на самом деле его лишили мандата из-за оппозиционной деятельности. В своих видео он часто критикует власти Саратова. На канал коммуниста подписано 1,7 миллиона человек.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/16/teper-vse-protiv-geny
+**Читайте также:** [Теперь все против Гены](2021/11/16/teper-vse-protiv-geny.md)
 
-17 февраля Бондаренко [оштрафовали](https://novayagazeta.ru/articles/2022/02/17/saratovskogo-deputata-ot-kprf-nikolaia-bondarenko-oshtrafovali-na-300-tysiach-rublei-za-aktsiiu-protesta-posle-vyborov-v-gosdumu-news) на 300 тысяч за акцию протеста после выборов в Госдуму. Митинги проходили под эгидой КПРФ 20 и 25 сентября 2021 года.
+17 февраля Бондаренко [оштрафовали](2022/02/17/saratovskogo-deputata-ot-kprf-nikolaia-bondarenko-oshtrafovali-na-300-tysiach-rublei-za-aktsiiu-protesta-posle-vyborov-v.md) на 300 тысяч за акцию протеста после выборов в Госдуму. Митинги проходили под эгидой КПРФ 20 и 25 сентября 2021 года.

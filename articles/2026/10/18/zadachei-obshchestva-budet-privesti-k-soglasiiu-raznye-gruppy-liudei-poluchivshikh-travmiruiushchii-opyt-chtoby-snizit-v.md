@@ -11,4 +11,4 @@ tags: ""
 
 # Задачей общества будет привести к согласию разные группы людей, получивших травмирующий опыт, чтобы снизить всепожирающее насилие
 
-https://novayagazeta.ru/articles/2026/10/18/eto-ne-mozhet-dlitsia-vechno?utm_source=cit
+[Это не может длиться вечно](2026/10/18/eto-ne-mozhet-dlitsia-vechno.md)

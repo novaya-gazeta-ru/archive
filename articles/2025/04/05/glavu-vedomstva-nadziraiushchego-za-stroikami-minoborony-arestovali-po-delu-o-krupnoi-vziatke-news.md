@@ -29,4 +29,4 @@ tags: ""
 
 По сведениям из материалов дела, Иванов якобы получил взятку от бизнесменов для бонусов при строительстве корпусов военных училищ. Иванов был уволен из МО с формулировкой «в связи с утратой доверия». Дело его только начали слушать в Мосгорсуде.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/07/27/delo-generalov
+**Читайте также:** [https://novayagazeta.ru/articles/2024/07/27/delo-generalov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/07/27/delo-generalov)

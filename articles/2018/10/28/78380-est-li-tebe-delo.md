@@ -33,7 +33,7 @@ tags: "новое величие, дело сети, митинги, репре�
 
 *Фото: Екатерина Архипова, специально для «Новой в Петербурге»*
 
-**link:** https://novayagazeta.ru/articles/2018/10/28/78381-probit-stenu-molchaniya
+**link:** [«Пробить стену молчания»](2018/10/28/78381-probit-stenu-molchaniya.md)
 
 ![](_assets/f2/f2a002ecf47c3bf4dbac792e775a8cf5.webp)
 
@@ -59,7 +59,7 @@ tags: "новое величие, дело сети, митинги, репре�
 
 *Фото: Вита Чикнаева, специально для «Новой в Петербурге»*
 
-**link:** https://novayagazeta.ru/articles/2018/10/25/78347-poshivochnyy-tseh-naslednikov-dzerzhinskogo
+**link:** [Пошивочный цех наследников Дзержинского](2018/10/25/78347-poshivochnyy-tseh-naslednikov-dzerzhinskogo.md)
 
 ![](_assets/2d/2df0702c55930d62ea7fabe7d7b92cda.webp)
 

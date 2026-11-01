@@ -13,9 +13,9 @@ tags: "лекарства, медицина"
 
 *Из больниц и аптек пропали импортные лекарства, которые в России были всегда, даже в самые трудные времена*
 
-**link:** https://novayagazeta.ru/comments/71708.html
+**link:** [https://novayagazeta.ru/comments/71708.html](https://web.archive.org/web/*/https://novayagazeta.ru/comments/71708.html)
 
-**link:** https://novayagazeta.ru/comments/71708.html
+**link:** [https://novayagazeta.ru/comments/71708.html](https://web.archive.org/web/*/https://novayagazeta.ru/comments/71708.html)
 
 Врачам сегодня вслед за Шекспиром, впору повторить: «Порвалась дней связующая нить!» А что еще можно сказать, если перед ними больной, которому показано жизненно необходимое лекарство, но его в России нет? Первый сигнал тревоги послали из Екатеринбурга сотрудники детского благотворительного фонда «Мы вместе», им предоставил слово местный телеканал.
 

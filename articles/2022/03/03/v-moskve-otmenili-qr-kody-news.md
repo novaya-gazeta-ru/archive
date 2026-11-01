@@ -19,6 +19,6 @@ tags: "QR-коды, коронавирус, COVID-19, собянин, москв
 
 Домашний режим для москвичей старше 60 лет и граждан с хроническими заболеваниями теперь будет рекомендательным.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/20/pochem-immunitet-dlia-naroda
+**Читайте также:** [https://novayagazeta.ru/articles/2022/01/20/pochem-immunitet-dlia-naroda](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/01/20/pochem-immunitet-dlia-naroda)
 
-Ранее Минздрав [объявил](https://novayagazeta.ru/articles/2022/02/08/minzdrav-qr-kody-po-nalichiiu-antitel-nachnut-vydavat-s-21-fevralia-news) о начале выдачи с 21 февраля в России сертификатов c QR-кодом по положительному результату теста на антитела к COVID-19. Их могут получить россияне и иностранцы.
+Ранее Минздрав [объявил](2022/02/08/minzdrav-qr-kody-po-nalichiiu-antitel-nachnut-vydavat-s-21-fevralia-news.md) о начале выдачи с 21 февраля в России сертификатов c QR-кодом по положительному результату теста на антитела к COVID-19. Их могут получить россияне и иностранцы.

@@ -19,7 +19,7 @@ tags: "ng, минюст, иноагенты"
 
 Адвокаты АНО «Астрея» будут оспаривать иск о ликвидации организации в суде по той причине, что последствия для организации диспропорциональны к допущенным нарушениям, добавили правозащитники.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/20/glavnyi-reestr-fizlits-iurlits-i-vsego-takogo-inostrannogo
+**Читайте также:** [https://novayagazeta.ru/articles/2021/08/20/glavnyi-reestr-fizlits-iurlits-i-vsego-takogo-inostrannogo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/08/20/glavnyi-reestr-fizlits-iurlits-i-vsego-takogo-inostrannogo)
 
 Организация «Астрея» была создана в 2007 году и объединила адвокатов, правозащитников, исследователей в области российского и международного права. ЕСПЧ принял 66 положительных постановлений по делам «Астреи», поданным в партнерстве с «Правовой инициативой». Люди получили компенсацию морального и материального ущерба.
 

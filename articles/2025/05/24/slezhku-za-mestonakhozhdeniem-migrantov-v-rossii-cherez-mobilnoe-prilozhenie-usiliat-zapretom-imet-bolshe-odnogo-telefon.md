@@ -27,6 +27,6 @@ tags: ""
 
 Иногда такие рейды сопровождаются выдачей выписываемых тут же повесток в военкомат — если у иностранного гражданина оказывается на руках новый российский паспорт.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/11/vitse-spiker-gosdumy-predlozhil-dobavit-v-prilozheniia-taksi-funktsiiu-otkaza-ot-voditelia-migranta-news
+**Читайте также:** [Вице-спикер Госдумы предложил добавить в приложения такси функцию «отказа от водителя-мигранта»](2025/04/11/vitse-spiker-gosdumy-predlozhil-dobavit-v-prilozheniia-taksi-funktsiiu-otkaza-ot-voditelia-migranta-news.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/24/prosnulis-vse-v-ekonomicheskom-chude
+**Читайте также:** [Проснулись все в экономическом чуде](2025/04/24/prosnulis-vse-v-ekonomicheskom-chude.md)

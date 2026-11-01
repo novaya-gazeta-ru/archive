@@ -21,8 +21,8 @@ tags: "санкции, украина, ростех, кибератаки, sf"
 
 СНБ Украины также применил санкции против четырех юридических и шести физических лиц, «аффилированных со спецслужбами Российской Федерации». По данным ведомства, эти лица причастны к разработке компонентов вируса NotPetya.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/18/ikh-v-dver-a-oni-v-okno
+**Читайте также:** [Их в дверь, а они — в окно!](2021/06/18/ikh-v-dver-a-oni-v-okno.md)
 
-В 2017 году вирус-вымогатель «Petya.A», позже переименованный в NotPetya, атаковал компьютеры нескольких десятков крупных компаний в России и Украине. По данным правительства США, от кибератак также пострадали американские граждане. Служба безопасности Украины [обвинила](https://www.novayagazeta.ru/news/2017/07/01/133063-sbu-obvinila-rossiyskie-spetssluzhby-v-prichastnosti-k-atake-virusa-petya) российские спецслужбы в причастности к кибератаке на системы украинских учреждений.
+В 2017 году вирус-вымогатель «Petya.A», позже переименованный в NotPetya, атаковал компьютеры нескольких десятков крупных компаний в России и Украине. По данным правительства США, от кибератак также пострадали американские граждане. Служба безопасности Украины [обвинила](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/07/01/133063-sbu-obvinila-rossiyskie-spetssluzhby-v-prichastnosti-k-atake-virusa-petya) российские спецслужбы в причастности к кибератаке на системы украинских учреждений.
 
-The Washington Post [писала](https://novayagazeta.ru/news/2018/01/13/138587-wp-uznala-o-vozmozhnoy-prichastnosti-rossii-k-rasprostraneniyu-virusa-notpetya-na-ukraine), что ЦРУ связывает распространение вируса NotPetya летом 2017 года с хакерами российского ГРУ.
+The Washington Post [писала](https://web.archive.org/web/*/https://novayagazeta.ru/news/2018/01/13/138587-wp-uznala-o-vozmozhnoy-prichastnosti-rossii-k-rasprostraneniyu-virusa-notpetya-na-ukraine), что ЦРУ связывает распространение вируса NotPetya летом 2017 года с хакерами российского ГРУ.

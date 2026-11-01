@@ -21,4 +21,4 @@ tags: ""
 
 «Детский мир» с 2023 года — частная компания, акции которой уже не торгуются на бирже. Она не является госкомпанией, а принадлежит большей частью частным владельцам.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/16/rossiian-khotiat-shtrafovat-za-poisk-i-chtenie-materialov-v-internete-i-messendzherakh-a-takzhe-za-ssylki-na-vpn-servisy-news
+**Читайте также:** [Россиян хотят штрафовать за поиск и чтение материалов в интернете и мессенджерах, а также за ссылки на VPN-сервисы](2025/07/16/rossiian-khotiat-shtrafovat-za-poisk-i-chtenie-materialov-v-internete-i-messendzherakh-a-takzhe-za-ssylki-na-vpn-servisy.md)

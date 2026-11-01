@@ -25,4 +25,4 @@ tags: "путин, климат, g20, глобальное потепление,
 
 Итальянское агентство ANSA со ссылкой на дипломатические источники [утверждает](https://www.ansa.it/sito/notizie/speciali/editoriali/2021/10/30/g20-seconda-giornata-vertice-a-centro-il-dossier-clima_54168a95-cbe4-469c-8daf-9d4fa20124f1.html), что участники саммита достигли соглашения по ограничению потепления климата не более чем на 1,5 градуса.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/28/mnogogolovoe-gidro
+**Читайте также:** [Многоголовое гидро](2021/10/28/mnogogolovoe-gidro.md)

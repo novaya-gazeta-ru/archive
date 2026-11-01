@@ -13,7 +13,7 @@ tags: ""
 
 > **есть продолжение**
 >
-> ### [МИД Азербайджана вызвал посла РФ из-за «неприемлемого насилия» в ходе облав в Екатеринбурге. Двое азербайджанцев скончались при задержании, несколько ранены](https://novayagazeta.ru/articles/2025/06/28/mid-azerbaidzhana-vyzval-posla-rf-iz-za-nepriemlemogo-nasiliia-v-khode-oblav-v-ekaterinburge-dvoe-azerbaidzhantsev-skonchalis-pri-zaderzhanii-neskolko-raneny-news)
+> ### [МИД Азербайджана вызвал посла РФ из-за «неприемлемого насилия» в ходе облав в Екатеринбурге. Двое азербайджанцев скончались при задержании, несколько ранены](2025/06/28/mid-azerbaidzhana-vyzval-posla-rf-iz-za-nepriemlemogo-nasiliia-v-khode-oblav-v-ekaterinburge-dvoe-azerbaidzhantsev-skonc.md)
 
 СМИ Екатеринбурга сообщают об облавах силовиков на граждан Азербайджана, задержаны почти 50 человек из диаспоры по подозрению в убийстве, произошедшем еще в 2001 году. Один из главных подозреваемых скончался [от сердечного приступа](https://t.me/e1_news/188507), когда к нему ворвался спецназ, сообщает екатеринбургское издание E1.
 

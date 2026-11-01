@@ -221,7 +221,7 @@ tags: "политзаключенные, переписка, обмен, лев�
 
  **28.07**
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/07/23/napugannykh-bolshe-chem-golodnykh
+**Читайте также:** [https://novayagazeta.ru/articles/2024/07/23/napugannykh-bolshe-chem-golodnykh](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/07/23/napugannykh-bolshe-chem-golodnykh)
 
 ## Сергей Улукшонов: «Я все еще наивен и верю в человечность людей»
 

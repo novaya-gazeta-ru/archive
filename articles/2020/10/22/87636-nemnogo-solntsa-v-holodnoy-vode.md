@@ -37,4 +37,4 @@ tags: "бавария, локомотив, краснодар, футбол, л�
 
 И одной удачи тут явно будет мало.
 
-**link:** https://novayagazeta.ru/articles/2020/10/20/87600-komu-vendel-a-komu-marks-lenin
+**link:** [Кому — Вендел, а кому — Маркс Ленин](2020/10/20/87600-komu-vendel-a-komu-marks-lenin.md)

@@ -23,7 +23,7 @@ tags: "instagram, facebook, meta, экстремизм, прокуратура, 
 
 > В итоге Роскомнадзор [заявил](https://rkn.gov.ru/news/rsoc/news74180.htm), что ограничит доступ к Instagram из-за «призывов к насилию» в отношении россиян, но даст пользователям время до 00:00 14 марта, чтобы уйти с платформы.
 
-Facebook же [заблокирован](https://novayagazeta.ru/articles/2022/03/03/v-rossii-zablokirovali-facebook-saity-meduzy-i-bi-bi-si-news) в России уже неделю.
+Facebook же [заблокирован](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/03/v-rossii-zablokirovali-facebook-saity-meduzy-i-bi-bi-si-news) в России уже неделю.
 
 При этом госагентства со ссылкой на источники [сообщили](https://t.me/rian_ru/152837), что мессенджер WhatsApp, предварительно, не будет затронут мерами против компании Meta, так как он является «средством общения, а не размещения информации».
 

@@ -113,9 +113,9 @@ tags: "как устроено, крым"
 
 Экскурсия с дегустацией стоит 520 рублей с человека.
 
-**link:** https://novayagazeta.ru/society/68240.html
+**link:** [https://novayagazeta.ru/society/68240.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/68240.html)
 
-**link:** https://novayagazeta.ru/society/68240.html
+**link:** [https://novayagazeta.ru/society/68240.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/68240.html)
 
 # «Если надо — еще пояса затянем»
 

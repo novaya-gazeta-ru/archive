@@ -21,4 +21,4 @@ tags: "сколково, роснано"
 
 Что произошло с грандиозными проектами президентов Медведева и Путина — объясняет экономист Сергей Алексашенко.
 
-**link:** https://novayagazeta.ru/articles/2020/11/24/88101-osvoili-sotni-milliardov-rubley-no-nikakogo-razvitiya-ne-prinesli
+**link:** [«Освоили сотни миллиардов рублей, но никакого развития не принесли»](2020/11/24/88101-osvoili-sotni-milliardov-rubley-no-nikakogo-razvitiya-ne-prinesli.md)

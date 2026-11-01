@@ -51,7 +51,7 @@ tags: "технологии, гаджеты, беспилотники, бпла"
 
 В течение трех последних месяцев принятыми армией и ВПК России мерами (при участии гражданских чиновников московского правительства) зоны ПВО Москвы были модернизированы. Это выразилось в том, что в столицу тихоходные дроны ВСУ [с 23 августа не залетают](https://topdep.ru/drones-attack-moscow?ysclid=lmjlv4kziw923884669). Но при групповых запусках отдельные экземпляры Topaz получат шанс прорваться, и «поединок щита и меча» продолжится.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/08/07/bespilotniki-kak-listovki
+**Читайте также:** [Беспилотники как листовки](2023/08/07/bespilotniki-kak-listovki.md)
 
 ## **Не пора ли написать?**
 
@@ -105,6 +105,6 @@ tags: "технологии, гаджеты, беспилотники, бпла"
 
 ## опрос соучастников «новой газеты»
 
-https://novayagazeta.ru/svg/1c687bc5323e4478bb937e1583d37cdd.svg
+[https://novayagazeta.ru/svg/1c687bc5323e4478bb937e1583d37cdd.svg](https://web.archive.org/web/*/https://novayagazeta.ru/svg/1c687bc5323e4478bb937e1583d37cdd.svg)
 
-https://novayagazeta.ru/svg/51f105c4c7ba42b6bc5fc157cc80e6c8.svg
+[https://novayagazeta.ru/svg/51f105c4c7ba42b6bc5fc157cc80e6c8.svg](https://web.archive.org/web/*/https://novayagazeta.ru/svg/51f105c4c7ba42b6bc5fc157cc80e6c8.svg)

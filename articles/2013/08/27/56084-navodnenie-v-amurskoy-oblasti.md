@@ -11,7 +11,7 @@ tags: "амур"
 
 # Наводнение в Амурской области
 
-[Поднимается уровень беды. Нужна наша помощь!](http://www.novayagazeta.ru/society/59712.html)
+[Поднимается уровень беды. Нужна наша помощь!](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/59712.html)
 
 *[media: #next_pages_container { width: 5px; hight: 5px; position: absolute; top: -100px; left: -100px; z-index: 2147483647 !important; }]*
 

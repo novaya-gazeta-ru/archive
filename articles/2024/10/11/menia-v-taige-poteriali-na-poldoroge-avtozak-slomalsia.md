@@ -167,7 +167,7 @@ tags: "политзэки, узник совести сутягин, сутяг�
 
 Но я ушел. Сейчас просто работаю в одном из университетов старой британской истории.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/20/na-pervom-etape-liustratsiia-mozhet-kosnutsia-trekh-piati-tysiach-sudei
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/20/na-pervom-etape-liustratsiia-mozhet-kosnutsia-trekh-piati-tysiach-sudei](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/20/na-pervom-etape-liustratsiia-mozhet-kosnutsia-trekh-piati-tysiach-sudei)
 
 **Зоя Светова.** Ваш уход из военного института как-то связан с тем, что в том же 2018 году случилось отравление вашего коллеги по обмену Сергея Скрипаля? Я помню, что тогда у всех русских, которые жили Британии и которых вместе с ним обменивали, были проблемы с охраной. Была какая-то суматоха в связи с делом Скрипаля.
 
@@ -203,7 +203,7 @@ tags: "политзэки, узник совести сутягин, сутяг�
 
 Я хотел бы вернуться в страну своего детства, своей юности, но ее больше нет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/27/tserkov-ona-dlia-menia-kak-rodina
+**Читайте также:** [«Церковь — она для меня, как родина…»](2024/09/27/tserkov-ona-dlia-menia-kak-rodina.md)
 
 **Зоя Светова**. Это грустно.
 

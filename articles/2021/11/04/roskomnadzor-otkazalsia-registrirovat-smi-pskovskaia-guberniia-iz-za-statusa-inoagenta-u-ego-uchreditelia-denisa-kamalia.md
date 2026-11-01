@@ -19,10 +19,10 @@ tags: ""
 
 Таким образом, включение Камалягина в реестр СМИ, выполняющих функцию «иностранного агента», свидетельствует о том, что его контролирует кто-то из-за рубежа, считают в ведомстве.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/01/12-popravok-v-zakony-ob-inoagentakh
+**Читайте также:** [12 поправок в законы об «иноагентах»](2021/09/01/12-popravok-v-zakony-ob-inoagentakh.md)
 
-Псковского журналиста и главного редактора издания «Псковская губерния» Дениса Камалягина одним из первых [внесли](https://novayagazeta.ru/articles/2020/12/28/166800-minyust-vpervye-vklyuchil-fizlits-v-reestr-inoagentov-sredi-nih-lev-ponomarev) в реестр «иноагентов» — в декабре 2020 года. В качестве оснований для включения в список минюст [указал](https://www.currenttime.tv/a/russia-foreign-agents/31241559.html) переводы из-за рубежа в размере 4 тысяч рублей в 2019 году и 8 тысяч рублей в 2020 году. В октябре областной суд Пскова [оставил](https://www.interfax.ru/russia/797367) это решение в силе.
+Псковского журналиста и главного редактора издания «Псковская губерния» Дениса Камалягина одним из первых [внесли](2020/12/28/166800-minyust-vpervye-vklyuchil-fizlits-v-reestr-inoagentov-sredi-nih-lev-ponomarev.md) в реестр «иноагентов» — в декабре 2020 года. В качестве оснований для включения в список минюст [указал](https://www.currenttime.tv/a/russia-foreign-agents/31241559.html) переводы из-за рубежа в размере 4 тысяч рублей в 2019 году и 8 тысяч рублей в 2020 году. В октябре областной суд Пскова [оставил](https://www.interfax.ru/russia/797367) это решение в силе.
 
-Весной Камалягин [перевел](https://novayagazeta.ru/articles/2021/05/05/dolzhny-budut-ukazyvat-chto-sviazany-s-inoagentami-priznannyi-inoagentom-zhurnalist-kamaliagin-perevel-dengi-chinovnikam-iz-pskova) небольшие суммы денег губернатору Псковской области Михаилу Ведерникову, мэру Пскова Ивану Цецерскому и депутату Госдумы от региона Александру Козловскому, чтобы они стали аффилированными с «иноагентом». Чиновники вернули средства обратно.
+Весной Камалягин [перевел](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/05/05/dolzhny-budut-ukazyvat-chto-sviazany-s-inoagentami-priznannyi-inoagentom-zhurnalist-kamaliagin-perevel-dengi-chinovnikam-iz-pskova) небольшие суммы денег губернатору Псковской области Михаилу Ведерникову, мэру Пскова Ивану Цецерскому и депутату Госдумы от региона Александру Козловскому, чтобы они стали аффилированными с «иноагентом». Чиновники вернули средства обратно.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/05/oskolki-pskovskogo-cheloveka
+**Читайте также:** [Осколки псковского человека](2021/08/05/oskolki-pskovskogo-cheloveka.md)

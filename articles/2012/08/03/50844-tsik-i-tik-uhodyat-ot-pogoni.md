@@ -13,18 +13,18 @@ tags: ""
 
 *Остросюжетные подробности регистрации кандидатов в депутаты местного самоуправления Тывы*
 
-[](http://www.novayagazeta.ru/storage/c/2012/08/02/1343941717_134664_40.jpg)\
+[](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/08/02/1343941717_134664_40.jpg)\
  ^Петр Саруханов — «Новая»
 
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<a href="http://www.novayagazeta.ru/storage/c/2012/08/02/1343912689_850818_45.jpg"><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/08/02/1343912690_004149_41.jpg" style="width: 360px; height: 313px; "></a><br>
+				<a href="[http://www.novayagazeta.ru/storage/c/2012/08/02/1343912689_850818_45.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/08/02/1343912689_850818_45.jpg)"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/08/02/1343912690_004149_41.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/08/02/1343912690_004149_41.jpg)" style="width: 360px; height: 313px; "></a><br>
 				<sup>Решение об отказе в регистрации списка кандидатов от РПР. Нажмите для увеличения</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<a href="http://www.novayagazeta.ru/storage/c/2012/08/02/1343912690_138396_92.jpg"><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/08/02/1343912707_343071_64.jpg" style="width: 360px; height: 398px; "></a><br>
+				<a href="[http://www.novayagazeta.ru/storage/c/2012/08/02/1343912690_138396_92.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/08/02/1343912690_138396_92.jpg)"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/08/02/1343912707_343071_64.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/08/02/1343912707_343071_64.jpg)" style="width: 360px; height: 398px; "></a><br>
 				<sup>Расписка ТИКа о полученных от РПР документах. Нажмите для увеличения</sup></td>
 		</tr>
 	</tbody>]*

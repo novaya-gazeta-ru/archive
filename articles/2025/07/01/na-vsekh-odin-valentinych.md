@@ -275,4 +275,4 @@ tags: "белгород, сироты, детский дом, валерий г�
 
  **Ирина Дудка**
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/19/vashimi-izvineniiami-nevozmozhno-oplatit-arendu
+**Читайте также:** [«Вашими извинениями невозможно оплатить аренду»](2025/06/19/vashimi-izvineniiami-nevozmozhno-oplatit-arendu.md)

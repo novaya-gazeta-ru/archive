@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *Жестокость превратилась в патриотизм, а доказать силу готовы и карательной акцией на своей территории… А еще — о биографии Михалкова и влиянии СВО на рождаемость*
 
-https://novayagazeta.ru/issues/3271
+[https://novayagazeta.ru/issues/3271](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3271)

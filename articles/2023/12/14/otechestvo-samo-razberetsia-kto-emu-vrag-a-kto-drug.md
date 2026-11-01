@@ -75,4 +75,4 @@ tags: ""
 
 Например, заявления о необходимости смены власти на выборах.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/12/12/skazhite-chestno-kakie-prava-vam-ne-nraviatsia
+**Читайте также:** [Скажите честно: какие права вам не нравятся](2023/12/12/skazhite-chestno-kakie-prava-vam-ne-nraviatsia.md)

@@ -16,15 +16,15 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/28/1343467844_635969_32.jpg" style="width: 360px; height: 240px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/28/1343467844_635969_32.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/28/1343467844_635969_32.jpg)" style="width: 360px; height: 240px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/28/1343467844_775361_92.jpg" style="width: 360px; height: 240px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/28/1343467844_775361_92.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/28/1343467844_775361_92.jpg)" style="width: 360px; height: 240px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/28/1343467844_906357_92.jpg" style="width: 360px; height: 240px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/28/1343467844_906357_92.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/28/1343467844_906357_92.jpg)" style="width: 360px; height: 240px; "><br>
 				<sup>Фото: Василий Соловейкин</sup></td>
 		</tr>
 	</tbody>]*

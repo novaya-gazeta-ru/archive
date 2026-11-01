@@ -67,7 +67,7 @@ tags: "мемориал, реакция"
 
 <…> Кремль хочет, чтобы российская общественность сосредоточила внимание на иностранных врагах, а не на преступлениях, совершаемых диктаторами дома.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/29/u-gosudarstva-chesti-i-dostoinstva-net
+**Читайте также:** [«У государства чести и достоинства нет»](2021/12/29/u-gosudarstva-chesti-i-dostoinstva-net.md)
 
 # [**Spiegel — Германия**](https://www.spiegel.de/ausland/russland-verbot-der-menschenrechtsorganisation-memorial-kommentar-a-05769795-5e1a-4c8f-9d5c-b92b45ce0c58)
 

@@ -13,7 +13,7 @@ tags: ""
 
 *Историк Кузнецов, вспоминая газеты и журналы, которые выписывали советские семьи, прошелся и по коммунистической утопии*
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/05/08/zakon-o-chistote-piva-tsarskaia-vodka-i-dvuglavyi-orel
+**Читайте также:** [Закон о чистоте пива, царская водка и двуглавый орёл](2026/05/08/zakon-o-chistote-piva-tsarskaia-vodka-i-dvuglavyi-orel.md)
 
 Читайте также
 

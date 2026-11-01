@@ -15,7 +15,7 @@ tags: "9 мая, память"
 
 *[media: <tbody>
 		<tr>
-			<td><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/04/27/1430216391_730218_82.jpg" style="width: 570px; height: 380px;"></td>
+			<td><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/04/27/1430216391_730218_82.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/04/27/1430216391_730218_82.jpg)" style="width: 570px; height: 380px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Новосибирск. В роли ветеранов войны — депутаты городского совета</sup></td>
@@ -28,25 +28,25 @@ tags: "9 мая, память"
 
 *[media: <tbody>
 		<tr>
-			<td><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/04/27/1430216302_086215_53.jpg" style="width: 570px; height: 380px;"></td>
+			<td><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/04/27/1430216302_086215_53.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/04/27/1430216302_086215_53.jpg)" style="width: 570px; height: 380px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><span style="font-size: 12px;"><sup>Ижевск. Без комментариев</sup></span></td>
 		</tr>
 		<tr>
-			<td><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/04/27/1430216745_784150_86.jpg" style="width: 570px; height: 380px;"></td>
+			<td><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/04/27/1430216745_784150_86.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/04/27/1430216745_784150_86.jpg)" style="width: 570px; height: 380px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><span style="font-size: 12px;"><sup>В супермаркетах Москвы</sup></span></td>
 		</tr>
 		<tr>
-			<td><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/04/27/1430217007_922772_17.jpg" style="width: 570px; height: 380px;"></td>
+			<td><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/04/27/1430217007_922772_17.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/04/27/1430217007_922772_17.jpg)" style="width: 570px; height: 380px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><span style="font-size: 12px;"><sup>Создателей этого плаката вдохновил известный монумент&nbsp;американским морским пехотинцам «Бронзовые солдаты Арлингтона»</sup></span></td>
 		</tr>
 		<tr>
-			<td><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/04/27/1430217102_401499_96.jpg" style="width: 570px; height: 380px;"></td>
+			<td><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/04/27/1430217102_401499_96.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/04/27/1430217102_401499_96.jpg)" style="width: 570px; height: 380px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><span style="font-size: 12px;"><sup>Самара. В роли советского истребителя — американский Mustang-1</sup></span></td>

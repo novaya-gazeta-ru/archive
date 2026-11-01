@@ -17,10 +17,10 @@ tags: "война, днр, россия, украина"
 
 По словам сепаратиста, группой командовал некий офицер СБУ Александр Сулик. Все 12 человек были «ликвидированы». Представитель ДНР заявил, что в среднем каждый день выявляется по 2-3 группы подобных «диверсантов».
 
-*[media: <p><strong>&lt;a data-cke-saved-href="http://www.novayagazeta.ru/society/65502.html target=" href="http://www.novayagazeta.ru/society/65502.html target=" _blank"=""&gt;<img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2014/10/01/1412119088_968015_69.jpg" style="width: 100px; height: 75px;"><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong>&lt;a data-cke-saved-href="[http://www.novayagazeta.ru/society/65502.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/65502.html) target=" href="[http://www.novayagazeta.ru/society/65502.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/65502.html) target=" _blank"=""&gt;<img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2014/10/01/1412119088_968015_69.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/10/01/1412119088_968015_69.jpg)" style="width: 100px; height: 75px;"><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/society/65502.html" target="_blank"><strong>«Он не был добровольцем». Переписка корреспондента «Новой» с женой офицера российской армии Захара Тимина, погибшего на Донбассе </strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/society/65502.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/65502.html)" target="_blank"><strong>«Он не был добровольцем». Переписка корреспондента «Новой» с женой офицера российской армии Захара Тимина, погибшего на Донбассе </strong></a></p>]*
 
-Ранее премьер-министр непризнанной Донецкой республики Александр Захарченко [заявлял](http://www.novayagazeta.ru/news/1686314.html), что российские военные сражаются в Донбассе вместо отпуска.
+Ранее премьер-министр непризнанной Донецкой республики Александр Захарченко [заявлял](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1686314.html), что российские военные сражаются в Донбассе вместо отпуска.
 
 Международное сообщество не раз обвиняло Россию в вооруженной поддержке сепаратистов востока Украины, в том числе — посредством участия армии в конфликте. Россия эти обвинения отвергает.

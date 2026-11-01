@@ -21,7 +21,7 @@ tags: "репрессии, полиция, акции протеста, мити
 
 По данным полиции, акция собрала 1 700 человек, организаторы [заявили](http://www.rbc.ru/rbcfreenews/5b1d09219a7947bfbb5d4201?from=newsfeed) РБК о трех тысячах.
 
-10 июня в Москве [проходит](https://www.novayagazeta.ru/news/2018/06/10/142389-v-moskve-nachalsya-miting-oppozitsii-za-svobodnuyu-rossiyu-bez-repressiy-i-proizvola) согласованная с властями акция «За свободную Россию без репрессий и произвола». Ее организаторами являются правозащитные организации и политические партии.
+10 июня в Москве [проходит](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/06/10/142389-v-moskve-nachalsya-miting-oppozitsii-za-svobodnuyu-rossiyu-bez-repressiy-i-proizvola) согласованная с властями акция «За свободную Россию без репрессий и произвола». Ее организаторами являются правозащитные организации и политические партии.
 
 ![](_assets/a8/a83723f14fbe1c17f882090353a0ab89.webp)
 

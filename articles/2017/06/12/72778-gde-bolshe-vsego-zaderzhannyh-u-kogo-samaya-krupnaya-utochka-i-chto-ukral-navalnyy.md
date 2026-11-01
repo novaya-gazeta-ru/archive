@@ -21,7 +21,7 @@ tags: "задержания, полиция, москва, регионы, пр�
 
 *Задержание участника митинга сотрудниками полиции. Тверская улица, Москва. Фото: Влад Докшин / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2017/06/12/72776-protest-konchilsya-nachalas-borba-za-vlast
+**link:** [Протест кончился. Началась борьба за власть. От редакции](2017/06/12/72776-protest-konchilsya-nachalas-borba-za-vlast.md)
 
 ![](_assets/a9/a98e5382d929a171627021b0eddd868a.webp)
 
@@ -39,7 +39,7 @@ tags: "задержания, полиция, москва, регионы, пр�
 
 *Полиция действовала жестко, когда отталкивала людей с Тверской улицы. Москва. Фото: Влад Докшин / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2017/06/12/72771-den-rossii-protiv-korruptsii-v-regionah-prohodyat-aktsii-storonnikov-navalnogo-est-zaderzhannye
+**link:** [День России против коррупции: только в Москве и Петербурге более 1200 задержанных. Навальному дали 30 суток. Хроника](2017/06/12/72771-den-rossii-protiv-korruptsii-v-regionah-prohodyat-aktsii-storonnikov-navalnogo-est-zaderzhannye.md)
 
 ![](_assets/a7/a71da0cdec8f2150c7f061bfbb201e8f.webp)
 

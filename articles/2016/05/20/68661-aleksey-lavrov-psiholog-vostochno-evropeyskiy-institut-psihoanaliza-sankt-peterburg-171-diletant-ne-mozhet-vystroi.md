@@ -29,9 +29,9 @@ tags: "дети, интернет, суицид"
 
 — Данные вопросы изучались нейропсихологами. Существует такая дисциплина — экспериментальная нейропсихология. То есть тема подобной манипуляции никак не ящик Пандоры, существуют общеизвестные факты использования манипуляционного воздействия, их описания. Все это можно найти в научных источниках. Но истинный смысл данных исследований понятен, естественно, только профессионалам.
 
-**link:** https://novayagazeta.ru/society/73089.html
+**link:** [https://novayagazeta.ru/society/73089.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/73089.html)
 
-**link:** https://novayagazeta.ru/society/73089.html
+**link:** [https://novayagazeta.ru/society/73089.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/73089.html)
 
 **— Есть ли врожденный иммунитет у психики от манипуляций?**
 

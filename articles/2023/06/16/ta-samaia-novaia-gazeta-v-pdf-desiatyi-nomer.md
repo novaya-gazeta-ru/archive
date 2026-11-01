@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *Репортаж из обстреливаемой Белгородской области, о работе волонтеров в затопленной Херсонской области, встанут ли ЧВК под Минобороны, и Мосгорсуд «в разрезе»*
 
-https://novayagazeta.ru/issues/3255
+[https://novayagazeta.ru/issues/3255](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3255)

@@ -17,9 +17,9 @@ tags: "дети, награда, патрушев, путин"
 
 Назначение Патрушева прокомментировал пресс-секретарь президента России Дмитрий Песков, [передает](http://www.interfax.ru/russia/434188) Интерфакс. По его словам, количество детей высокопоставленных чиновников на постах в госкомпании не является «аномальным». В уважающих себя компаниях набирают на работу людей «только по показаниям их квалификации, таланта и возможной отдачи от их работы», добавил Песков.
 
-*[media: <p><span style="color:#B22222;"><strong><a href="http://www.novayagazeta.ru/news/1691000.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/01/21/1421855019_254836_23.jpeg" style="width: 100px; height: 75px;"></a>Читайте также:</strong></span></p>
+*[media: <p><span style="color:#B22222;"><strong><a href="[http://www.novayagazeta.ru/news/1691000.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1691000.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/01/21/1421855019_254836_23.jpeg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/01/21/1421855019_254836_23.jpeg)" style="width: 100px; height: 75px;"></a>Читайте также:</strong></span></p>
 
-<p><a href="http://www.novayagazeta.ru/news/1691000.html" target="_blank"><strong>Путин наградил 26-летнего сына Сечина медалью «за большой вклад в развитие топливно-энергетического комплекса и многолетний добросовестный труд»</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/news/1691000.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1691000.html)" target="_blank"><strong>Путин наградил 26-летнего сына Сечина медалью «за большой вклад в развитие топливно-энергетического комплекса и многолетний добросовестный труд»</strong></a></p>]*
 
 По данным РБК, Андрей Патрушев в последние годы занимался шельфовыми проектами в России и других странах. Ранее он занимал должность замгендиректора «Газпром добыча шельф Южно-Сахалинск» и замруководителя «Зарубежнефти».
 

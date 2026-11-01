@@ -11,7 +11,7 @@ tags: ""
 
 # Экс-президент Саркози покинул тюремную камеру. Что известно
 
-Не прошло и месяца с того дня (21 октября), как [несколько сотен фанатов провожали](https://novayagazeta.ru/articles/2025/10/21/eks-prezident-frantsii-sarkozi-nachal-otbyvat-nakazanie-v-tiurme-sante-prigovorennyi-k-piati-godam-po-delu-kaddafi-on-provedet-za-reshetkoi-ne-bolshe-mesiatsa-nadeiutsia-advokaty-news) экс-президента Франции Николя Саркози в парижскую тюрьму Санте (отбывать [«5-летний срок» по «делу Каддафи»](https://novayagazeta.ru/articles/2025/09/25/nikolia-sarkozi-priznali-vinovnym-v-privlechenii-sredstv-krovavogo-diktatora-livii-kaddafi-dlia-svoei-politicheskoi-karery)), и вот уже (10 ноября) поступило известие о его освобождении.
+Не прошло и месяца с того дня (21 октября), как [несколько сотен фанатов провожали](2025/10/21/eks-prezident-frantsii-sarkozi-nachal-otbyvat-nakazanie-v-tiurme-sante-prigovorennyi-k-piati-godam-po-delu-kaddafi-on-pr.md) экс-президента Франции Николя Саркози в парижскую тюрьму Санте (отбывать [«5-летний срок» по «делу Каддафи»](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2025/09/25/nikolia-sarkozi-priznali-vinovnym-v-privlechenii-sredstv-krovavogo-diktatora-livii-kaddafi-dlia-svoei-politicheskoi-karery)), и вот уже (10 ноября) поступило известие о его освобождении.
 
 Результат, который «Новая» предсказывала еще в день приговора, в конце сентября.
 

@@ -19,10 +19,10 @@ tags: "украина, минтранс, уголовное дело, генпр
 
 В заявлении Генпрокуратуры уточняется, что досудебное расследование в уголовном деле проводит следственное управление Службы безопасности Украины по Крыму.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/17/voina-s-ukrainoi-verit-li-zapadnym-smi-video
+**Читайте также:** [Война с Украиной: верить ли западным СМИ? Видео](2021/12/17/voina-s-ukrainoi-verit-li-zapadnym-smi-video.md)
 
-В ноябре СМИ со ссылкой на данные американской разведки [сообщали](https://novayagazeta.ru/articles/2021/11/22/bloomberg-soobshchil-o-podgotovke-moskvy-k-vtorzheniiu-v-ukrainu-v-kremle-eto-nazvali-vbrosom-i-kamufliazhem-dlia-agressivnykh-pomyslov-news), что Россия планирует напасть на Украину в начале следующего года, когда все войска соберутся у границы. В операции, по данным американской разведки, примет участие 100 батальонно-тактических групп численностью 100 тысяч человек. Агентство Associated Press со ссылкой на источники сообщало, что американская разведка [ожидает](https://apnews.com/article/joe-biden-europe-russia-ukraine-vladimir-putin-9ef2a191af25e2920a0a1c75ccbe4c13%C2%AB%20rel=%C2%BBnoopener%C2%AB%20target=%C2%BB_blank) наступления 175 тысяч российских военных.
+В ноябре СМИ со ссылкой на данные американской разведки [сообщали](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/22/bloomberg-soobshchil-o-podgotovke-moskvy-k-vtorzheniiu-v-ukrainu-v-kremle-eto-nazvali-vbrosom-i-kamufliazhem-dlia-agressivnykh-pomyslov-news), что Россия планирует напасть на Украину в начале следующего года, когда все войска соберутся у границы. В операции, по данным американской разведки, примет участие 100 батальонно-тактических групп численностью 100 тысяч человек. Агентство Associated Press со ссылкой на источники сообщало, что американская разведка [ожидает](https://apnews.com/article/joe-biden-europe-russia-ukraine-vladimir-putin-9ef2a191af25e2920a0a1c75ccbe4c13%C2%AB%20rel=%C2%BBnoopener%C2%AB%20target=%C2%BB_blank) наступления 175 тысяч российских военных.
 
-Страны G7 [опубликовали](https://novayagazeta.ru/articles/2021/12/12/agressiia-protiv-ukrainy-budet-imet-ogromnye-posledstviia-strany-g7-vypustili-zaiavlenie-iz-za-narashchivaniia-voennoi-moshchi-rossii-news#) совместное заявление, в котором осудили наращивание военной мощи России и агрессивную риторику в отношении Украины. В Кремле информацию о предполагаемом нападении на Украину отрицают.
+Страны G7 [опубликовали](2021/12/12/agressiia-protiv-ukrainy-budet-imet-ogromnye-posledstviia-strany-g7-vypustili-zaiavlenie-iz-za-narashchivaniia-voennoi-m.md) совместное заявление, в котором осудили наращивание военной мощи России и агрессивную риторику в отношении Украины. В Кремле информацию о предполагаемом нападении на Украину отрицают.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/17/napadete-nakazhem
+**Читайте также:** [Нападете — накажем](2021/12/17/napadete-nakazhem.md)

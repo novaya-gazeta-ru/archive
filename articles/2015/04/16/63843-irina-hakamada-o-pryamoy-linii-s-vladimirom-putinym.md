@@ -11,6 +11,6 @@ tags: "прямая линия, путин"
 
 # Ирина Хакамада о Прямой линии с Владимиром Путиным
 
-*[media: <h2><a href="http://www.novayagazeta.ru/news/1693187.html" target="_blank">Прямая линия с Владимиром Путиным (ХРОНИКА)</a></h2>]*
+*[media: <h2><a href="[http://www.novayagazeta.ru/news/1693187.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1693187.html)" target="_blank">Прямая линия с Владимиром Путиным (ХРОНИКА)</a></h2>]*
 
 *[media: &nbsp;]*

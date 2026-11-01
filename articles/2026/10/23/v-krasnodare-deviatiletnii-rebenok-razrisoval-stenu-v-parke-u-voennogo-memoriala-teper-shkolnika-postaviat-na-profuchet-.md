@@ -31,6 +31,6 @@ tags: ""
 
 Огромная белая каменная стена отделяет мемориальный комплекс от окружающего парка. В центре стены установлены мемориальные доски, на которых высечены фамилии жителей станицы, погибших на фронтах гражданской и Великой Отечественной войны.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/28/kak-vyzhigaiut-skvernu
+**Читайте также:** [Как выжигают «скверну»](2025/08/28/kak-vyzhigaiut-skvernu.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/09/05/prostite-nas-posetiteli-parka-politsiia-opublikovala-pokaiannye-video-shkolnikov-iz-kurska-razzhegshikh-koster-u-vechnogo-ognia-news
+**Читайте также:** [«Простите нас, посетители парка!» Полиция опубликовала покаянные видео школьников из Курска, разжегших костер у Вечного огня](2025/09/05/prostite-nas-posetiteli-parka-politsiia-opublikovala-pokaiannye-video-shkolnikov-iz-kurska-razzhegshikh-koster-u-vechnog.md)

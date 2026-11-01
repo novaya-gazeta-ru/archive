@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/05/22/1400747299_925362_70.jpg" style="width: 340px; height: 254px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/05/22/1400747299_925362_70.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/05/22/1400747299_925362_70.jpg)" style="width: 340px; height: 254px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup><a href="https://www.facebook.com/events/412797502193706/" target="_blank">Présentation</a> du rapport "Corruption en Russie : éviter le piège, lutter contre le fléau"</sup></td>

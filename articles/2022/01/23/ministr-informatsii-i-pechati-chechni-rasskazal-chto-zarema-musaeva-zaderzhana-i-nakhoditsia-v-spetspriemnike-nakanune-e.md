@@ -19,18 +19,18 @@ tags: "чечня, янгулбаевы, задержания, силовики,
 
 Во время эфира Дудаев также включил несколько аудиозаписей на чеченском. На одной из них, по его словам, якобы сын Мусаевой Ибрагим Янгулбаев говорит, что «ведет свою деятельность не для того, чтобы исправлять сторонников Кадырова, а чтобы их всех убить».
 
-В четверг в нижегородскую квартиру федерального судьи в отставке Сайди Янгулбаева [пришли](https://novayagazeta.ru/articles/2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takogo-ne-mozhet-byt) представители чеченского ГУ МВД по городу Грозному. Они увезли в неизвестном направлении жену Янгулбаева Зарему Мусаеву, страдающую диабетом второго типа, без одежды и необходимых лекарств.
+В четверг в нижегородскую квартиру федерального судьи в отставке Сайди Янгулбаева [пришли](2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takog.md) представители чеченского ГУ МВД по городу Грозному. Они увезли в неизвестном направлении жену Янгулбаева Зарему Мусаеву, страдающую диабетом второго типа, без одежды и необходимых лекарств.
 
 Чеченский омбудсмен Мансур Солтаев позже опубликовал видео беседы с Мусаевой, на котором женщина говорит, что «купили лекарства, никакого насилия [не применялось]».
 
 «Я знаю свою мать и сейчас на видео она в очень тяжелом состоянии и просто никакая», — прокомментировал Сын Мусаевой Абубакар Янгулбаев.
 
-Сам он [сообщил](https://novayagazeta.ru/articles/2022/01/23/syn-federalnogo-sudi-saidi-iangulbaeva-zaiavil-o-propazhe-svoikh-rodstvennikov-v-groznom-news), что около 15 его родственников из Грозного перестали выходить на связь. Янгулбаев предположил, что их могли «силой вывезти для записи видео, на котором они будут оскорблять и ругать нашу семью». В эфире «Дождя»* он заявил, что адвоката к матери не пускают.
+Сам он [сообщил](2022/01/23/syn-federalnogo-sudi-saidi-iangulbaeva-zaiavil-o-propazhe-svoikh-rodstvennikov-v-groznom-news.md), что около 15 его родственников из Грозного перестали выходить на связь. Янгулбаев предположил, что их могли «силой вывезти для записи видео, на котором они будут оскорблять и ругать нашу семью». В эфире «Дождя»* он заявил, что адвоката к матери не пускают.
 
-Глава Чечни Рамзан Кадыров [заявил](https://novayagazeta.ru/articles/2022/01/22/kadyrov-prigrozil-unichtozhit-iangulbaevykh-kak-posobnikov-terroristov-news), что Янгулбаевы якобы поддерживают экстремизм и терроризм, из-за чего их необходимо задержать, а в случае сопротивления — уничтожить.«Как бы там ни было, заявляю, что эту семейку ждет место либо в тюрьме, либо под землей. И это уже зависит не от меня», — считает Кадыров. После этого муж и дочь Мусаевой [покинули](https://novayagazeta.ru/articles/2022/01/22/eks-sudia-iangulbaev-chiu-zhenu-nasilno-vyvezli-iz-nizhnego-novgoroda-v-chechniu-pokinul-rossiiu-vmeste-s-docheriu-news) Россию.
+Глава Чечни Рамзан Кадыров [заявил](2022/01/22/kadyrov-prigrozil-unichtozhit-iangulbaevykh-kak-posobnikov-terroristov-news.md), что Янгулбаевы якобы поддерживают экстремизм и терроризм, из-за чего их необходимо задержать, а в случае сопротивления — уничтожить.«Как бы там ни было, заявляю, что эту семейку ждет место либо в тюрьме, либо под землей. И это уже зависит не от меня», — считает Кадыров. После этого муж и дочь Мусаевой [покинули](2022/01/22/eks-sudia-iangulbaev-chiu-zhenu-nasilno-vyvezli-iz-nizhnego-novgoroda-v-chechniu-pokinul-rossiiu-vmeste-s-docheriu-news.md) Россию.
 
-Пресс-секретарь президента России Дмитрий Песков [назвал](https://novayagazeta.ru/articles/2022/01/21/predpochitaem-ne-verit-kreml-prokommentiroval-novost-o-pokhishchenii-zheny-federalnogo-sudi-v-nizhnem-novgorode-news) «странной» новость о похищении супруги федерального судьи.
+Пресс-секретарь президента России Дмитрий Песков [назвал](2022/01/21/predpochitaem-ne-verit-kreml-prokommentiroval-novost-o-pokhishchenii-zheny-federalnogo-sudi-v-nizhnem-novgorode-news.md) «странной» новость о похищении супруги федерального судьи.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takogo-ne-mozhet-byt
+**Читайте также:** [«Я поняла, что это чеченцы, так как давно работаю в Чечне»](2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takog.md)
 
 #### * внесены Минюстом в список СМИ, выполняющих функцию иностранного агента

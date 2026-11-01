@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td><img alt="" class="g-image-align-right" src="http://www.novayagazeta.ru/storage/c/2014/04/26/1398503489_271607_44.jpg" style="width: 340px; height: 367px;"></td>
+			<td><img alt="" class="g-image-align-right" src="[http://www.novayagazeta.ru/storage/c/2014/04/26/1398503489_271607_44.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/04/26/1398503489_271607_44.jpg)" style="width: 340px; height: 367px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Марина&nbsp;НОВИКОВА-ГРУНД</sup></td>

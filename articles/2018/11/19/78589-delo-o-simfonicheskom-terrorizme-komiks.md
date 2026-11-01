@@ -39,7 +39,7 @@ tags: "государство, абсурд, музыканты, комикс, �
 
 **В предыдущих сериях:**
 
-**link:** https://novayagazeta.ru/articles/2018/08/13/77482-chto-takoe-kafka-kodeks
+**link:** [Что такое «Кафка-кодекс»](2018/08/13/77482-chto-takoe-kafka-kodeks.md)
 
 **Над проектом работают:**
 

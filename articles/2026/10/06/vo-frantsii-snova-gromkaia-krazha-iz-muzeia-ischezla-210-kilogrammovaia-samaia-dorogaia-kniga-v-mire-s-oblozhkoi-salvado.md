@@ -29,4 +29,4 @@ tags: "франция, кража, дали"
 
 -
 
-Это очередная громкая музейная кража во Франции. В октябре 2025 года преступники [обнесли](https://novayagazeta.ru/articles/2025/10/20/nevynosimaia-legkost-grabezha) Лувр, похитив драгоценности французской короны стоимостью 88 млн евро. В сентябре 2026 из музея Ренуара в Кань-сюр-Мер на Лазурном берегу неизвестные [вынесли](https://novayagazeta.ru/articles/2026/09/08/vo-frantsii-snova-ograbili-muzei-na-etot-raz-prestupniki-vynesli-kartiny-renuara-na-9-mln-evro-odno-iz-poloten-brosili-skryvaias-ot-pogoni-news) четыре картины художника, две из которых бросили при побеге.
+Это очередная громкая музейная кража во Франции. В октябре 2025 года преступники [обнесли](2025/10/20/nevynosimaia-legkost-grabezha.md) Лувр, похитив драгоценности французской короны стоимостью 88 млн евро. В сентябре 2026 из музея Ренуара в Кань-сюр-Мер на Лазурном берегу неизвестные [вынесли](2026/09/08/vo-frantsii-snova-ograbili-muzei-na-etot-raz-prestupniki-vynesli-kartiny-renuara-na-9-mln-evro-odno-iz-poloten-brosili-s.md) четыре картины художника, две из которых бросили при побеге.

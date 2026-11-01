@@ -15,7 +15,7 @@ tags: "нефть, экономика"
 
 *[media: <tbody>
 		<tr>
-			<td><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/01/23/1422035449_380671_23.png" style="width: 340px; height: 222px; float: right;"></td>
+			<td><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/01/23/1422035449_380671_23.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/01/23/1422035449_380671_23.png)" style="width: 340px; height: 222px; float: right;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>На встрече с членами правительства президент отказался признать структурный характер кризиса. &nbsp;Фото: пресс-служба Кремля</sup></td>
@@ -33,9 +33,9 @@ tags: "нефть, экономика"
 
 Но этот триллион — сюрприз! — в бюджет антикризисного плана не входит. Решение, о котором Шувалов докладывал Путину, было принято еще в прошлом году. Дополнительные деньги, 300 миллиардов рублей, получит ВЭБ, в том числе на санирование выкашиваемых в кризис предприятий.
 
-*[media: <p><span style="color:#B22222;"><strong><a href="http://www.novayagazeta.ru/economy/66907.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/01/20/1421867427_078452_94.jpg" style="width: 100px; height: 75px;"></a>Читайте также:</strong></span></p>
+*[media: <p><span style="color:#B22222;"><strong><a href="[http://www.novayagazeta.ru/economy/66907.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/economy/66907.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/01/20/1421867427_078452_94.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/01/20/1421867427_078452_94.jpg)" style="width: 100px; height: 75px;"></a>Читайте также:</strong></span></p>
 
-<p><a href="http://www.novayagazeta.ru/economy/66907.html" target="_blank"><strong>Экономист Игорь НИКОЛАЕВ — о «дорожной карте» борьбы с кризисом и о том, почему страна пока по ней не пойдет</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/economy/66907.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/economy/66907.html)" target="_blank"><strong>Экономист Игорь НИКОЛАЕВ — о «дорожной карте» борьбы с кризисом и о том, почему страна пока по ней не пойдет</strong></a></p>]*
 
 Будут и прямые бюджетные вливания, в агропром, промышленность, фармацевтику, но это меры не просто антикризисные, а скорее пожарные, во многом «отыгрывающие» девальвацию национальной валюты.
 

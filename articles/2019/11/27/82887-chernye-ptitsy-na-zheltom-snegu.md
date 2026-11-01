@@ -29,7 +29,7 @@ tags: "сегежа, экология, карелия"
 
 — Пахнет тут, конечно, от комбината, но любое предприятие дает какие-то выбросы, — говорит водитель. — Снег желтый я не видел, только от лиственницы вон желтые стебли падают. А птиц, насколько я знаю, только машины давили, когда подморозило — они у теплотрассы собирались.
 
-**link:** https://novayagazeta.ru/news/2019/11/20/157057-bloger-opublikovavshiy-foto-ekologicheskogo-bedstviya-v-segezhe-soobschil-ob-ugrozah
+**link:** [https://novayagazeta.ru/news/2019/11/20/157057-bloger-opublikovavshiy-foto-ekologicheskogo-bedstviya-v-segezhe-soobschil-ob-ugrozah](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/11/20/157057-bloger-opublikovavshiy-foto-ekologicheskogo-bedstviya-v-segezhe-soobschil-ob-ugrozah)
 
 На центральном бульваре в новой части города почти нет освещения. На деревьях висят пластиковые бутылки — кормушки для птиц, которые сделали пенсионеры. Молодой человек с наушниками в ушах говорит, что комбинат никак не связан с гибелью птиц:
 

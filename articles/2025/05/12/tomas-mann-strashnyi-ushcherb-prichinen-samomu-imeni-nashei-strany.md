@@ -85,4 +85,4 @@ tags: "томас манн, фашизм, пацифизм, гитлер, вто
 
 *Переводчик цитируемых отрывков Томаса Манна — Игорь Эбаноидзе.*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/07/31/kak-khoroshie-nemtsy-stali-plokhimi
+**Читайте также:** [Как хорошие немцы стали плохими](2024/07/31/kak-khoroshie-nemtsy-stali-plokhimi.md)

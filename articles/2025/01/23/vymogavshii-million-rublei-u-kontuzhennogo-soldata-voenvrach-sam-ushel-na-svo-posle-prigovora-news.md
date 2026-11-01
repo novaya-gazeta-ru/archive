@@ -29,4 +29,4 @@ tags: ""
 
 Не стали наказывать за дачу взятки и самого военнослужащего Ш.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/09/voennyi-vrach-vzhivlial-patsientam-oskolki-boepripasov-chtoby-imitirovat-raneniia-sk-rf-news
+**Читайте также:** [Военный врач вживлял пациентам осколки боеприпасов, чтобы имитировать ранения — СК РФ](2024/12/09/voennyi-vrach-vzhivlial-patsientam-oskolki-boepripasov-chtoby-imitirovat-raneniia-sk-rf-news.md)

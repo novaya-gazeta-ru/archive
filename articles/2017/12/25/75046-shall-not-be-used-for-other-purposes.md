@@ -47,7 +47,7 @@ I had no time to reply when a new message arrived:
 
 Several files were attached to the message. It appeared to be correspondence between lawyers form Russia and US discussing (in English) «Request for judicial assistance», sent to the Ministry of Justice of Ireland by a police captain from Tver Nikita Matveev, as well as other materials from the criminal cases initiated in Tver and Yaroslavl. Judging by the dates and content, both the request and materials, came to attention of the lawyers long before my article had been published.
 
-**link:** https://novayagazeta.ru/articles/2017/06/26/72915-produbliruyte-v-dublin
+**link:** [Продублируйте в Дублин!](2017/06/26/72915-produbliruyte-v-dublin.md)
 
 ![](_assets/35/355a3f17d2a124ed9280021ace5c80e3.webp)
 

@@ -25,12 +25,12 @@ tags: "1937, хранители памяти, репрессии"
 
 Сегодня мы публикуем две истории о хранителях памяти.
 
-**link:** https://novayagazeta.ru/articles/2017/11/02/74399-zdes-proizoshlo-grehopadenie-sudebnoy-sistemy
+**link:** [«Здесь произошло грехопадение судебной системы»](2017/11/02/74399-zdes-proizoshlo-grehopadenie-sudebnoy-sistemy.md)
 
-**link:** https://novayagazeta.ru/articles/2017/11/02/74418-rvy-eto-rana-kotoruyu-strashno-beredit
+**link:** [«Рвы — это рана, которую страшно бередить»](2017/11/02/74418-rvy-eto-rana-kotoruyu-strashno-beredit.md)
 
 Материал подготовлен совместно с «Мемориалом» в рамках проекта memo.media. Новые материалы будут появляться в этом разделе.
 
-**link:** https://novayagazeta.ru/articles/2017/11/15/74557-i-teper-tam-rovnymi-ryadami-lyudi-lezhat
+**link:** [«И теперь там ровными рядами люди лежат»](2017/11/15/74557-i-teper-tam-rovnymi-ryadami-lyudi-lezhat.md)
 
 P.S. Если вы знаете людей, которые борются за сохранение памяти о политических репрессиях в своем городе или среде, — пишите нам на редакционный адрес 2017@novayagazeta.ru (в теме письма укажите «хранители памяти»).

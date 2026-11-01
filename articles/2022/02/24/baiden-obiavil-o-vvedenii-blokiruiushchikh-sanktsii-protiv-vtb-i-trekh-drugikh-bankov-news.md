@@ -21,6 +21,6 @@ tags: "байден, санкции, россия, em"
 
 Байден сообщил, что завтра лидеры 27 стран-членов НАТО соберутся на саммит. С президентом России Владимиром Путиным президент США проводить переговоры не планирует.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/24/voina-putina-s-ukrainoi-pervye-16-chasov-korotko
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/24/voina-putina-s-ukrainoi-pervye-16-chasov-korotko](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/24/voina-putina-s-ukrainoi-pervye-16-chasov-korotko)
 
-До этого премьер Великобритании Борис Джонсон [заявил](https://novayagazeta.ru/articles/2022/02/24/boris-dzhonson-obiavil-o-vvedenii-blokiruiushchikh-sanktsii-protiv-vtb-i-aeroflota-news) о санкциях против ВТБ и «Аэрофлота». В рамках санкций Лондон заморозил все активы «ВТБ» и решил ввести ограничение на размер депозита, который могут держать граждане РФ на своих счетах в Великобритании. «Аэрофлот» же не сможет летать в страну.
+До этого премьер Великобритании Борис Джонсон [заявил](2022/02/24/boris-dzhonson-obiavil-o-vvedenii-blokiruiushchikh-sanktsii-protiv-vtb-i-aeroflota-news.md) о санкциях против ВТБ и «Аэрофлота». В рамках санкций Лондон заморозил все активы «ВТБ» и решил ввести ограничение на размер депозита, который могут держать граждане РФ на своих счетах в Великобритании. «Аэрофлот» же не сможет летать в страну.

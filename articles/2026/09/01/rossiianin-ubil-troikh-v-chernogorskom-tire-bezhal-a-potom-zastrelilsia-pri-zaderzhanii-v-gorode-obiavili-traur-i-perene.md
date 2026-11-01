@@ -31,6 +31,6 @@ tags: ""
 
 На утро 1 сентября даже публично сформулированной рабочей версии мотивов преступления нет.
 
-**Тема: Балканы:** https://novayagazeta.ru/articles/2026/08/31/cheshskaia-kontrrazvedka-predupredila-o-riskakh-odnorazovykh-diversii-v-strane-so-storony-agentov-neprofessionalov-zaverbovannykh-v-interesakh-rossiiskikh-spetssluzhb-news
+**Тема: Балканы:** [Чешская контрразведка предупредила о рисках «одноразовых» диверсий в стране со стороны агентов-непрофессионалов, завербованных в интересах российских спецслужб](2026/08/31/cheshskaia-kontrrazvedka-predupredila-o-riskakh-odnorazovykh-diversii-v-strane-so-storony-agentov-neprofessionalov-zaver.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/06/italiia-potrebovala-rassledovat-antisemitskii-intsident-protiv-svoikh-shkolnikov-na-bolgarskom-kurorte-pozdniaia-reaktsiia-premera-radeva-vozmutila-eshche-bolshe-news
+**Читайте также:** [Италия потребовала расследовать антисемитский инцидент против своих школьников на болгарском курорте. Поздняя реакция премьера Радева возмутила еще больше](2026/08/06/italiia-potrebovala-rassledovat-antisemitskii-intsident-protiv-svoikh-shkolnikov-na-bolgarskom-kurorte-pozdniaia-reaktsi.md)

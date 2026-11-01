@@ -35,9 +35,9 @@ tags: "москва"
 
 Ты дома.
 
-**link:** https://novayagazeta.ru/society/72624.html
+**link:** [https://novayagazeta.ru/society/72624.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/72624.html)
 
-**link:** https://novayagazeta.ru/society/72624.html
+**link:** [https://novayagazeta.ru/society/72624.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/72624.html)
 
 # Рюмочная «БухУчет» (Солянка, 2/6, по сути, на углу Солянки и Солянского проезда, по ступенькам — вниз).
 

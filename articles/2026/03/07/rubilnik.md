@@ -16,4 +16,4 @@ tags: ""
 Я в нашем мире отвечаю за рассвет,\
  поэтому я выключаю свет
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/28/v-sadu-rossiiskikh-naslazhdenii
+**Читайте также:** [В саду российских наслаждений](2026/02/28/v-sadu-rossiiskikh-naslazhdenii.md)

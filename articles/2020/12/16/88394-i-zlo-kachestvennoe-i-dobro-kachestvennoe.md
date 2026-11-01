@@ -93,4 +93,4 @@ tags: "онкология, болезнь"
 
 **Надежда Евдокимова** — **специально для «Новой»**
 
-**link:** https://novayagazeta.ru/articles/2020/02/09/83840-my-teryaem-detey-kotoryh-mogli-vylechit
+**link:** [«Мы теряем детей, которых могли вылечить»](2020/02/09/83840-my-teryaem-detey-kotoryh-mogli-vylechit.md)

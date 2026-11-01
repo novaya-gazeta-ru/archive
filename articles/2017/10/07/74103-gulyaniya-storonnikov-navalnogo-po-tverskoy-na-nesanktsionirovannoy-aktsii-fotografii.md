@@ -23,7 +23,7 @@ tags: "полиция, протесты, москва, навальный"
 
 «Новой газете» известно о задержании лишь одного человека.
 
-**link:** https://novayagazeta.ru/articles/2017/10/07/74099-aktsii-storonnikov-navalnogo-v-desyatkah-gorodov-rossii
+**link:** [В Москве впервые без массовых задержаний — но не в Питере](2017/10/07/74099-aktsii-storonnikov-navalnogo-v-desyatkah-gorodov-rossii.md)
 
 Видео: Федор Лабзин, Елена Мурганова, специально для «Новой газеты»
 

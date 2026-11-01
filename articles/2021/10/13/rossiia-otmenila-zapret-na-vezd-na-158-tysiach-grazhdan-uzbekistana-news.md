@@ -19,4 +19,4 @@ tags: "мигранты, узбекистан, россия, em"
 
 «Известия» со ссылкой на МВД [сообщали](https://iz.ru/1183480/maksim-khodykin/vyselennyi-punkt-za-chto-iz-rossii-deportirovali-bolee-13-tys-inostrantcev), что за первый квартал текущего года из России депортировали 1345 иностранцев. За аналогичный период прошлого года из страны выслали 1139 человек.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/10/davaite-s-nimi-zhestche
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/10/davaite-s-nimi-zhestche](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/10/davaite-s-nimi-zhestche)

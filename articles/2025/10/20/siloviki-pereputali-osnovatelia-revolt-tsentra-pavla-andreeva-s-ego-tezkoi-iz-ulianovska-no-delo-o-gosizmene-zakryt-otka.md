@@ -21,6 +21,6 @@ tags: ""
 
 Несмотря на эти нестыковки, следствие отказывается прекращать дело против основателя «Револьт-центра», утверждая, что вина в госизмене «подтверждена всеми собранными доказательствами по делу».
 
-После того, как УФСБ по Коми [возбудило дело о госизмене](https://novayagazeta.ru/articles/2025/07/08/fsb-obvinila-v-gosizmene-pavla-andreeva-soosnovatelia-media-7kh7-i-revolt-tsentra-po-delu-proshli-obyski-u-zhurnalistov-i-aktivistov-v-raznykh-chastiakh-strany-news) против Андреева, силовики пришли с обысками по адресам в 12 регионах России. Вскоре после этого «Револьт-центр» внесли в реестр «иноагентов», из-за чего центр [был вынужден](https://novayagazeta.ru/articles/2025/08/16/syktyvkarskii-revolt-tsentr-obiavil-o-zakrytii-nakanune-ego-priznali-inoagentom-news) прекратить работу.
+После того, как УФСБ по Коми [возбудило дело о госизмене](2025/07/08/fsb-obvinila-v-gosizmene-pavla-andreeva-soosnovatelia-media-7kh7-i-revolt-tsentra-po-delu-proshli-obyski-u-zhurnalistov-.md) против Андреева, силовики пришли с обысками по адресам в 12 регионах России. Вскоре после этого «Револьт-центр» внесли в реестр «иноагентов», из-за чего центр [был вынужден](2025/08/16/syktyvkarskii-revolt-tsentr-obiavil-o-zakrytii-nakanune-ego-priznali-inoagentom-news.md) прекратить работу.
 
 * Минюст считает «иноагентами».

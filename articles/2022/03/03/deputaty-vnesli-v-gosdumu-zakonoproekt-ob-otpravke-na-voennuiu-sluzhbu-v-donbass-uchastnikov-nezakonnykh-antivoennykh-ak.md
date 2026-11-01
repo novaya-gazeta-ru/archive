@@ -19,4 +19,4 @@ tags: "украина, россия, донбасс, sn"
 
 Авторы инициативы считают, что такие лица «должны увидеть своими глазами то, во что превратил киевский режим» территории ЛНР и ДНР. Пресс-секретарь российского президента Дмитрий Песков сомневается, что подобный закон будет принят. «Военная служба — привилегия, а не наказание», — [заявил](https://tass.ru/politika/13953789) он.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/03/uendi-sherman-my-budem-prodolzhat-dobivatsia-togo-chtoby-prezident-putin-videl-posledstviia-svoikh-deistvii
+**Читайте также:** [Уэнди Шерман: «Мы будем продолжать добиваться того, чтобы президент Путин видел последствия своих действий»](2022/03/03/uendi-sherman-my-budem-prodolzhat-dobivatsia-togo-chtoby-prezident-putin-videl-posledstviia-svoikh-deistvii.md)

@@ -35,7 +35,7 @@ tags: "реакция, алиев, нагорный карабах, азерба
 
 «Бог знает, что было бы, если бы мы не ушли оттуда вовремя. В моем доме разбиты окна, в стенах появились трещины», — говорит Миная.
 
-**link:** https://novayagazeta.ru/articles/2020/10/03/87351-prostye-azerbaydzhantsy-takie-zhe-lyudi-kak-i-my-i-oni-hotyat-togo-zhe-samogo
+**link:** [«Мы делаем то, что должны делать, — мы защищаемся»](2020/10/03/87351-prostye-azerbaydzhantsy-takie-zhe-lyudi-kak-i-my-i-oni-hotyat-togo-zhe-samogo.md)
 
 # Мобилизация
 

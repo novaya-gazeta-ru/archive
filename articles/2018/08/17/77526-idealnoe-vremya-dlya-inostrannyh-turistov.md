@@ -23,7 +23,7 @@ tags: "санкции, девальвация, кризис, турция"
 
 Огромная часть и спекулятивных, то есть кратковременных, и долгосрочных иностранных инвестиций в Турции — из США, а президент Эрдоган недавно крепко поссорился с президентом Трампом. США ввели санкции против Турции — своего партнера по НАТО (такого в истории еще не было!). Санкции США тоже ускоряют падение лиры.
 
-**link:** https://novayagazeta.ru/articles/2018/08/14/77496-chto-budet-s-rublem-esli-ssha-primut-polnyy-paket-novyh-sanktsiy-ob-yasnyayut-eksperty
+**link:** [Что произойдет с рублем, если США примут полный пакет новых санкций?](2018/08/14/77496-chto-budet-s-rublem-esli-ssha-primut-polnyy-paket-novyh-sanktsiy-ob-yasnyayut-eksperty.md)
 
 # За что Турцию подвергли санкциям?
 
@@ -38,7 +38,7 @@ tags: "санкции, девальвация, кризис, турция"
 
 Все это вместе привело к американским санкциям, прямо влияющим на курс национальной валюты.
 
-**link:** https://novayagazeta.ru/articles/2018/08/04/77394-adskiy-sanktsionnyy-zakon-chto-izvestno-o-novyh-sanktsiyah-protiv-rossii-podgotovlennyh-v-ssha
+**link:** [«Адский санкционный закон»](2018/08/04/77394-adskiy-sanktsionnyy-zakon-chto-izvestno-o-novyh-sanktsiyah-protiv-rossii-podgotovlennyh-v-ssha.md)
 
 # Внутренние факторы
 
@@ -54,4 +54,4 @@ tags: "санкции, девальвация, кризис, турция"
 
 **Записала Анастасия Тороп**
 
-**link:** https://novayagazeta.ru/articles/2016/10/19/70224-zakroyte-rty-nadente-hidzhaby
+**link:** [Закройте рты, наденьте хиджабы](2016/10/19/70224-zakroyte-rty-nadente-hidzhaby.md)

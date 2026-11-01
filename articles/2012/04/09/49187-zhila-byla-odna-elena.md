@@ -17,7 +17,7 @@ tags: ""
 		<tr>
 			<td>
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/04/09/1334053506_815734_52.jpg" style="width: 360px; height: 541px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/04/09/1334053506_815734_52.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/04/09/1334053506_815734_52.jpg)" style="width: 360px; height: 541px; "></p>
 				<p class="g-justify-right">
 					<sup>Надежда Маркина и Елена Екамасова</sup></p>
 			</td>

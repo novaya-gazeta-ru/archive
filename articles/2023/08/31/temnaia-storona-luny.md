@@ -203,4 +203,4 @@ tags: "космос, космодром, космодром васточный, 
 
 #### * Внесена в реестр «иноагентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/08/25/posle-togo-kak-samolet-poterial-krylo-on-mozhet-tolko-snizhatsia
+**Читайте также:** [https://novayagazeta.ru/articles/2023/08/25/posle-togo-kak-samolet-poterial-krylo-on-mozhet-tolko-snizhatsia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/08/25/posle-togo-kak-samolet-poterial-krylo-on-mozhet-tolko-snizhatsia)

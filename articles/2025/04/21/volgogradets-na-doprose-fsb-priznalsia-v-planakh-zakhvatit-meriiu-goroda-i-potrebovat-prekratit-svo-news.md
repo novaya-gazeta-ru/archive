@@ -23,8 +23,8 @@ tags: ""
 
 Это не первый отчет о задержании россиянина, действиями которого якобы руководили «кураторы из Украины», но впервые с таким мотивом.
 
-В начале апреля ФСБ сообщала [о срыве теракта](https://novayagazeta.ru/articles/2025/04/04/fsb-zaiavila-chto-predotvratila-terakt-v-obshchezhitii-voennykh-kursantov-v-podmoskove-u-tainika-so-vzryvchatkoi-zaderzhali-zaverbovannogo-voennogo-news) с подрывом общежития военных курсантов в Подмосковье. До того, в конце марта, ФСБ [показала задержание](https://novayagazeta.ru/articles/2025/03/28/fsb-pokazala-dopros-zaderzhannogo-u-tainika-so-vzryvchatkoi-iakoby-poseshchavshego-po-zadaniiu-ukrainskikh-kuratorov-liublinskii-ofis-mfts-v-moskve-news) россиянина у тайника со взрывчаткой, задержанный якобы посещал люблинский офис МФЦ в Москве по заданию украинских кураторов — с неясной целью.
+В начале апреля ФСБ сообщала [о срыве теракта](2025/04/04/fsb-zaiavila-chto-predotvratila-terakt-v-obshchezhitii-voennykh-kursantov-v-podmoskove-u-tainika-so-vzryvchatkoi-zaderzh.md) с подрывом общежития военных курсантов в Подмосковье. До того, в конце марта, ФСБ [показала задержание](2025/03/28/fsb-pokazala-dopros-zaderzhannogo-u-tainika-so-vzryvchatkoi-iakoby-poseshchavshego-po-zadaniiu-ukrainskikh-kuratorov-liu.md) россиянина у тайника со взрывчаткой, задержанный якобы посещал люблинский офис МФЦ в Москве по заданию украинских кураторов — с неясной целью.
 
 Визит в Волгоград в преддверьи дня Победы в конце апреля планируют Владимир Путин и Александр Лукашенко, об этом [заявил](https://t.me/tass_agency/311282) последний, его слова цитировало агентство «Белта».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/17/sotrudnik-fsb-predstavilsia-mne-sotrudnikom-sbu
+**Читайте также:** [«Сотрудник ФСБ представился мне сотрудником СБУ»](2025/04/17/sotrudnik-fsb-predstavilsia-mne-sotrudnikom-sbu.md)

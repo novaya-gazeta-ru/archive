@@ -167,7 +167,7 @@ tags: "ксения карпинская, театральное дело, ма�
 
 > Но теперь я уже могу сама выбрать, какое дело вести бесплатно и кому хотелось бы помочь.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/07/11/nichto-i-nikto-ne-smozhet-umalit-tsennost-i-verkhovenstvo-prava
+**Читайте также:** [«Ничто и никто не сможет умалить ценность и верховенство права»](2023/07/11/nichto-i-nikto-ne-smozhet-umalit-tsennost-i-verkhovenstvo-prava.md)
 
 **—Давление приходилось испытывать?**
 
@@ -235,4 +235,4 @@ tags: "ксения карпинская, театральное дело, ма�
 
 #### * Запрещенная в России террористическая организация.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/07/19/nash-sud-eto-chto-to-iz-garri-pottera
+**Читайте также:** [«Наш суд — это что-то из Гарри Поттера»](2023/07/19/nash-sud-eto-chto-to-iz-garri-pottera.md)

@@ -21,6 +21,6 @@ tags: ""
 
 Елену Лекиашвили задержали еще до начала акции в поддержку политика Алексея Навального 23 января. Уже после ее задержания жители города прошли от площади Труда до здания правительства Ярославской области.
 
-Задержания и аресты координаторов региональных штабов Навального продолжаются с 23 числа. Так, координатора петербургскогого штаба [арестовали](https://novayagazeta.ru/news/2021/01/24/167333-koordinatora-shtaba-alekseya-navalnogo-v-sankt-peterburge-arestovali-na-shest-sutok) на 6 суток, [екатеринбургского](https://novayagazeta.ru/news/2021/01/24/167330-sud-v-ekaterinburge-arestoval-koordinatora-shtaba-navalnogo-na-10-sutok) — на 10 суток, уфимского — на 5 суток.
+Задержания и аресты координаторов региональных штабов Навального продолжаются с 23 числа. Так, координатора петербургскогого штаба [арестовали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2021/01/24/167333-koordinatora-shtaba-alekseya-navalnogo-v-sankt-peterburge-arestovali-na-shest-sutok) на 6 суток, [екатеринбургского](https://web.archive.org/web/*/https://novayagazeta.ru/news/2021/01/24/167330-sud-v-ekaterinburge-arestoval-koordinatora-shtaba-navalnogo-na-10-sutok) — на 10 суток, уфимского — на 5 суток.
 
-**link:** https://novayagazeta.ru/articles/2021/01/25/88867-mvd-otkrylo-poshivochnyy-tseh
+**link:** [МВД открыло пошивочный цех](2021/01/25/88867-mvd-otkrylo-poshivochnyy-tseh.md)

@@ -20,9 +20,9 @@ tags: "боинг, украина"
 
 «Алмаз-Антей» пришел к выводу, что тип боевой части ракеты, выпущенной по самолету — это не 9Н314М (с двутаврами), а 9Н314, без двутавров, о чем говорилось в предудущем докладе. Гендиректор Новиков [напомнил](http://www.rbc.ru/textonlines/13/10/2015/561badeb9a794792a0a4dcf0), что последняя ракета типа 9М38 была выпущена в 1986 году, срок их действия — 25 лет. В 2011 году распоряжением генерального конструктора использование этих ракет было запрещено.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/inquests/70292.html" target="_blank"><span style="color:#B22222;"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/10/11/1444577574_058112_40.jpg" style="width: 100px; height: 75px;"></span></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/inquests/70292.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/70292.html)" target="_blank"><span style="color:#B22222;"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/10/11/1444577574_058112_40.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/10/11/1444577574_058112_40.jpg)" style="width: 100px; height: 75px;"></span></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><strong><a href="http://www.novayagazeta.ru/inquests/70292.html" target="_blank">МН17: «Виновные в этом преступлении не будут названы публично». Рассказывает один из бывших руководителей СБУ</a></strong></p>]*
+<p><strong><a href="[http://www.novayagazeta.ru/inquests/70292.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/70292.html)" target="_blank">МН17: «Виновные в этом преступлении не будут названы публично». Рассказывает один из бывших руководителей СБУ</a></strong></p>]*
 
 В ходе натурного эксперимента имитировался взрыв ракеты на 40-й секунде полета.
 
@@ -34,4 +34,4 @@ tags: "боинг, украина"
 
 Концерн опубликовал в открытом доступе [доклад](https://drive.google.com/folderview?id=0B2mlT2rfrGXkbmJQNU45T2dsRU0&usp=sharing) и [видеозапись](https://yadi.sk/i/40FlBCKejh8jc) натурного эксперимента.
 
-8 октября концерн «Алмаз-Антей» [объявил](http://www.novayagazeta.ru/news/1697112.html), что устроил эксперимент, обстреляв списанный самолет из «Бука», чтобы проверить свою версию о крушении 17 июля 2014 года пассажирского «Боинга» в Донецкой области.
+8 октября концерн «Алмаз-Антей» [объявил](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1697112.html), что устроил эксперимент, обстреляв списанный самолет из «Бука», чтобы проверить свою версию о крушении 17 июля 2014 года пассажирского «Боинга» в Донецкой области.

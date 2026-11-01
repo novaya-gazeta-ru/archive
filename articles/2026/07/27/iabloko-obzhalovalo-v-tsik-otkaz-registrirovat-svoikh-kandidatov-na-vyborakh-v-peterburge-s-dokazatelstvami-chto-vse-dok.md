@@ -21,4 +21,4 @@ tags: ""
 \
 «Яблоко» просит ЦИК отменить решение петербургского избиркома и зарегистрировать список кандидатов в депутаты ЗакСа.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/25/tainaia-politicheskaia-operatsiia
+**Читайте также:** [Тайная политическая операция](2026/07/25/tainaia-politicheskaia-operatsiia.md)

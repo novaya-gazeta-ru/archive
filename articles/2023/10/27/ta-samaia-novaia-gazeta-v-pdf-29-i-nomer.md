@@ -13,4 +13,4 @@ tags: ""
 
 *Депутат призвал «уничтожать россиян» в эфире госСМИ. Философ рассказал, почему жестокость стала бытовой нормой. А еще — как умирают сироты в России и другие тексты*
 
-https://novayagazeta.ru/issues/3274
+[https://novayagazeta.ru/issues/3274](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3274)

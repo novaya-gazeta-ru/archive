@@ -21,4 +21,4 @@ tags: "ковид, вакцинация, коронавирус, сингапу�
 
 Вакцинация в Сингапуре началась в декабре прошлого года. По [данным](https://www.moh.gov.sg/covid-19/vaccination) местного минздрава от 7 октября, 85% населения уже получили обе дозы одной из трех доступных в стране вакцин — Pfizer, Moderna или Sinovac-CoronaVac. Прививка доступна для всех граждан с 12 лет. Вчера министр здравоохранения [заявил](https://www.straitstimes.com/singapore/singapore-to-decide-on-covid-19-vaccine-for-kids-aged-5-to-11-in-november), что экспертный комитет рассматривает возможность допуска до вакцинации детей старше пяти лет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/02/nevaktsinirovannye-liudi-bolshoi-bioreaktor-dlia-virusov-mutantov
+**Читайте также:** [«Невакцинированные люди — большой биореактор для вирусов-мутантов»](2021/09/02/nevaktsinirovannye-liudi-bolshoi-bioreaktor-dlia-virusov-mutantov.md)

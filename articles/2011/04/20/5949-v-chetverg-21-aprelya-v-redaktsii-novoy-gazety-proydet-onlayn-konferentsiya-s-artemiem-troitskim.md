@@ -17,4 +17,4 @@ tags: ""
 
 Вопросы можно задавать тут в комментариях.
 
-Трансляция будет вестись **[ТУТ](https://novayagazeta.ru/online/49.html)** .
+Трансляция будет вестись **[ТУТ](https://web.archive.org/web/*/https://novayagazeta.ru/online/49.html)** .

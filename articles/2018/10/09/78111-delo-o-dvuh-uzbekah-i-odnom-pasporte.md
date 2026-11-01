@@ -37,10 +37,10 @@ tags: "абсурд, полиция, загранпаспорт, узбекис�
 
 **В предыдущих сериях:**
 
-**link:** https://novayagazeta.ru/articles/2018/08/13/77472-kafka-kodeks-delo-o-ezhe-i-zerkale
+**link:** [«Кафка-кодекс»: Дело о Еже и Зеркале](2018/08/13/77472-kafka-kodeks-delo-o-ezhe-i-zerkale.md)
 
-**link:** https://novayagazeta.ru/articles/2018/08/27/77618-kafka-kodeks-delo-ob-orehovom-fermere
+**link:** [«Кафка-кодекс»: Дело об ореховом фермере](2018/08/27/77618-kafka-kodeks-delo-ob-orehovom-fermere.md)
 
-**link:** https://novayagazeta.ru/articles/2018/09/07/77727-kafka-kodeks-delo-o-vmeshatelstve-v-vybory
+**link:** [«Кафка-кодекс»: Дело о вмешательстве в выборы](2018/09/07/77727-kafka-kodeks-delo-o-vmeshatelstve-v-vybory.md)
 
-**link:** https://novayagazeta.ru/articles/2018/09/24/77938-telefon-sledovatelya
+**link:** [«Доказухи ноль, алиби есть». Комикс](2018/09/24/77938-telefon-sledovatelya.md)

@@ -19,4 +19,4 @@ tags: "омск, дроны"
 
 Губернатор Хоценко [подтвердил](https://t.me/HocenkoVP/9286) атаку на логистический центр, но не назвал компанию, которой он принадлежит. По данным CМИ, речь идет о распределительном центре Ozon на улице Айвазовского.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/10/24/omsk-podvergsia-masshtabnoi-atake-dronov-v-gorode-slyshny-vzryvy-v-bolnitsakh-evakuiruiut-patsientov-news
+**Читайте также:** [Омск подвергся масштабной атаке дронов — в городе слышны взрывы, в больницах эвакуируют пациентов](2026/10/24/omsk-podvergsia-masshtabnoi-atake-dronov-v-gorode-slyshny-vzryvy-v-bolnitsakh-evakuiruiut-patsientov-news.md)

@@ -23,6 +23,6 @@ tags: ""
 \
 Визит Рэтклиффа в Москву был нужен, чтобы «предупредить Россию о недопустимости нападения на страны НАТО», [утверждали](https://www.wsj.com/politics/policy/cia-chiefs-surprise-moscow-trip-was-to-warn-russia-not-to-attack-nato-c2d997f3?utm_source=) источники газеты WSJ и CBS.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/27/dvoinaia-missiia-arkhiepiskopa-gallakhera
+**Читайте также:** [Двойная миссия архиепископа Галлахера](2026/08/27/dvoinaia-missiia-arkhiepiskopa-gallakhera.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/26/utki-bolshie-i-malye
+**Читайте также:** [Утки большие и малые](2026/08/26/utki-bolshie-i-malye.md)

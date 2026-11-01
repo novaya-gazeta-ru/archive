@@ -13,7 +13,7 @@ tags: "неуважение к власти, фейк-ньюс, законы, nt
 
 > **<span style="color:#a52a2a">Продолжение</span>**
 >
-> [Дмитрий Гудков подал иск в&nbsp;Верховный суд с&nbsp;требованием отменить&nbsp;закон&nbsp;о&nbsp;неуважении к&nbsp;власти](https://www.novayagazeta.ru/news/2019/03/29/150430-dmitriy-gudkov-podal-isk-v-verhovnyy-sud-s-trebovaniem-otmenit-zakon-o-neuvazhenii-k-vlasti?admin_access_token=b48e4af08f507fd95533d777f60f36efbcbf2400)
+> [Дмитрий Гудков подал иск в&nbsp;Верховный суд с&nbsp;требованием отменить&nbsp;закон&nbsp;о&nbsp;неуважении к&nbsp;власти](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/03/29/150430-dmitriy-gudkov-podal-isk-v-verhovnyy-sud-s-trebovaniem-otmenit-zakon-o-neuvazhenii-k-vlasti?admin_access_token=b48e4af08f507fd95533d777f60f36efbcbf2400)
 
 29 марта в России вступили в силу законы о запрете распространения [фейковых новостей](http://publication.pravo.gov.ru/Document/View/0001201903180022?index=0&rangeSize=1) и [оскорбления](http://publication.pravo.gov.ru/Document/View/0001201903180010?index=0&rangeSize=1) представителей власти в СМИ и интернете.
 
@@ -21,14 +21,14 @@ tags: "неуважение к власти, фейк-ньюс, законы, nt
 
 Информация будет признаваться подлежащей блокировке, если ее распространение несет «угрозу причинения вреда жизни или здоровью граждан, нарушения общественного порядка, создания помех работе систем стратегически важной инфраструктуры».
 
-**link:** https://novayagazeta.ru/articles/2019/03/09/79811-derzhat-tsifrovuyu-oboronu
+**link:** [Держать «цифровую оборону»](2019/03/09/79811-derzhat-tsifrovuyu-oboronu.md)
 
 Второй законопроект, о «явном неуважении» власти, предполагает штрафы от 30 до 100 тысяч рублей, повторное нарушение грозит арестом на срок до 15 суток или штрафом от 100 до 200 тысяч (третье и следующие правонарушения — от 200 до 300 тысяч).
 
 Нарушением будут считаться материалы, «в неприличной форме» отзывающиеся об обществе, государстве, государственных символах (флаге, гербе и гимне), Конституции и органах государственной власти (президенте, парламенте, правительстве и судах). Роскомнадзор будет блокировать эти публикации в досудебном порядке по обращению Генпрокуратуры.
 
-**link:** https://novayagazeta.ru/articles/2019/03/08/79797-prinuzhdenie-k-uvazheniyu
+**link:** [Принуждение к уважению](2019/03/08/79797-prinuzhdenie-k-uvazheniyu.md)
 
-Законопроекты о наказании за фейковые новости и оскорбления представителей власти в СМИ и интернете внесла в Госдуму группа депутатов во главе с сенатором Андреем Клишасом в декабре прошлого года. 18 марта законы [подписал](https://www.novayagazeta.ru/news/2019/03/18/150106-putin-podpisal-zakon-o-zaprete-feykovyh-novostey-i-oskorblenii-vlasti-v-smi-i-internete) президент России Владимир Путин.
+Законопроекты о наказании за фейковые новости и оскорбления представителей власти в СМИ и интернете внесла в Госдуму группа депутатов во главе с сенатором Андреем Клишасом в декабре прошлого года. 18 марта законы [подписал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/03/18/150106-putin-podpisal-zakon-o-zaprete-feykovyh-novostey-i-oskorblenii-vlasti-v-smi-i-internete) президент России Владимир Путин.
 
-После принятий Госдумой этих законопроектов Совет по правам человека при президенте России [призвал](https://www.novayagazeta.ru/news/2019/03/11/149894-spch-prizval-senatorov-otklonit-zakonoproekty-o-feykovyh-novostyah-i-yavnom-neuvazhenii-k-vlasti) Совет Федерации отклонить их и отправить на доработку. Против инициатив Клишаса [выступили](https://www.novayagazeta.ru/news/2019/03/12/149945-bolee-sta-zhurnalistov-i-pravozaschitnikov-vystupilo-protiv-zakonov-o-feyk-nyus-i-oskorblenii-vlasti-v-internete) более 100 журналистов и правозащитников. Они назвали законопроекты «государственными репрессиями против всего журналистского и писательского сообщества».
+После принятий Госдумой этих законопроектов Совет по правам человека при президенте России [призвал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/03/11/149894-spch-prizval-senatorov-otklonit-zakonoproekty-o-feykovyh-novostyah-i-yavnom-neuvazhenii-k-vlasti) Совет Федерации отклонить их и отправить на доработку. Против инициатив Клишаса [выступили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/03/12/149945-bolee-sta-zhurnalistov-i-pravozaschitnikov-vystupilo-protiv-zakonov-o-feyk-nyus-i-oskorblenii-vlasti-v-internete) более 100 журналистов и правозащитников. Они назвали законопроекты «государственными репрессиями против всего журналистского и писательского сообщества».

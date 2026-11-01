@@ -147,6 +147,6 @@ tags: ""
 
 *August Flowers. Фото: соцсети*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/02/terkin-v-bronezhilete-vozrozhdenie-instituta-blagorodnykh-devits-i-toksichnyi-cheburashka
+**Читайте также:** [Теркин в бронежилете, возрождение института благородных девиц и «токсичный Чебурашка»](2025/06/02/terkin-v-bronezhilete-vozrozhdenie-instituta-blagorodnykh-devits-i-toksichnyi-cheburashka.md)
 
 #### * Минюст РФ внес в реестр «иностранных агентов»

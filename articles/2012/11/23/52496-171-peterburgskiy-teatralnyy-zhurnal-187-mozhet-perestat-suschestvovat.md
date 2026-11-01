@@ -15,10 +15,10 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/11/23/1353688738_339114_75.jpg" style="width: 360px; height: 522px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/11/23/1353688738_339114_75.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/23/1353688738_339114_75.jpg)" style="width: 360px; height: 522px;"></td>
 		</tr>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/11/23/1353688651_969095_19.jpg" style="width: 360px; height: 526px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/11/23/1353688651_969095_19.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/23/1353688651_969095_19.jpg)" style="width: 360px; height: 526px;"></td>
 		</tr>
 	</tbody>]*
 

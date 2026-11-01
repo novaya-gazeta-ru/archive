@@ -23,8 +23,8 @@ tags: "байден , россия, украина, путин, воздушно
 
 «Когда будет написана история этой эпохи, война Путина с Украиной сделает Россию слабее, а остальной мир — сильнее», — заявил президент США.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/01/putin-nastupaet-na-ukrainu-den-shestoi-onlain
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/01/putin-nastupaet-na-ukrainu-den-shestoi-onlain](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/01/putin-nastupaet-na-ukrainu-den-shestoi-onlain)
 
-Накануне США [ввели](https://novayagazeta.ru/articles/2022/02/28/ssha-vveli-sanktsii-protiv-banka-rossii-minfina-i-fonda-natsionalnogo-blagosostoianiia-news) санкции против Банка России, российского Минфина и Фонда национального благосостояния (ФНБ) из-за действий России в Украине.
+Накануне США [ввели](2022/02/28/ssha-vveli-sanktsii-protiv-banka-rossii-minfina-i-fonda-natsionalnogo-blagosostoianiia-news.md) санкции против Банка России, российского Минфина и Фонда национального благосостояния (ФНБ) из-за действий России в Украине.
 
-Ранее США, Канада, ЕС, Франция, Германия, Италия и Великобритания [выпустили](https://novayagazeta.ru/articles/2022/02/26/putin-vedet-voinu-s-ukrainoi-den-tretii-onlain) совместное заявление об отключении России от SWIFT. В нем они объявили, что намерены создать оперативную группу, которая будет выявлять и замораживать активы подпадающих под санкции лиц и компаний, а также координировать действия против дезинформации.
+Ранее США, Канада, ЕС, Франция, Германия, Италия и Великобритания [выпустили](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/26/putin-vedet-voinu-s-ukrainoi-den-tretii-onlain) совместное заявление об отключении России от SWIFT. В нем они объявили, что намерены создать оперативную группу, которая будет выявлять и замораживать активы подпадающих под санкции лиц и компаний, а также координировать действия против дезинформации.

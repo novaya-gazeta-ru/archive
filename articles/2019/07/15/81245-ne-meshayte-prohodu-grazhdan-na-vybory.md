@@ -81,7 +81,7 @@ tags: "выборы, соболь, яшин, мосгордума, митинг�
 
 На этот момент на площади нет провокаторов. Только одинокая бабушка из НОДа раздает листовки за пересмотр статей Конституции, но на нее никто не обращает внимания. «Сербовцы»присоединятся к протестующим позже.
 
-**link:** https://novayagazeta.ru/articles/2019/07/14/81236-nesoglasovannaya-aktsiya-za-dopusk-nezavisimyh-kandidatov-na-vybory-v-mosgordumu
+**link:** [https://novayagazeta.ru/articles/2019/07/14/81236-nesoglasovannaya-aktsiya-za-dopusk-nezavisimyh-kandidatov-na-vybory-v-mosgordumu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/07/14/81236-nesoglasovannaya-aktsiya-za-dopusk-nezavisimyh-kandidatov-na-vybory-v-mosgordumu)
 
 «Если мы с вами проглотим наглое оскорбление, если стерпим плевок, значит грош нам цена! Давайте нашу встречу перенесем к мэрии Москвы», — решает Яшин. «Мы идем гулять», — подхватывает толпа любимый для Тверской лозунг (именно его кричат протестующие на всех последних оппозиционных акциях, проходивших здесь).
 

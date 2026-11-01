@@ -33,4 +33,4 @@ tags: "путин, обращение, вооруженный мятеж, угр
 
 Верю, что мы сбережем и отстоим то, что дорого и свято для нас. И вместе с нашей Родины мы одолеем любые испытания, станем еще сильнее.
 
-**Подробно о ситуации 23-24 июня 2023:** https://novayagazeta.ru/articles/2023/06/23/evgenii-prigozhin-vzbuntovalsia-protiv-rossiiskoi-armii-vozbuzhdeno-ugolovnoe-delo
+**Подробно о ситуации 23-24 июня 2023:** [«Мятеж» Пригожина 23—24 июня: хроника](2023/06/23/evgenii-prigozhin-vzbuntovalsia-protiv-rossiiskoi-armii-vozbuzhdeno-ugolovnoe-delo.md)

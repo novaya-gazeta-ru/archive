@@ -15,7 +15,7 @@ tags: ""
 
 > **Есть продолжение**
 >
-> ### [Полиция в Коми отказалась требовать ареста девятилетнего ребенка из-за сломанной фанерной инсталляции к 9 мая](https://novayagazeta.ru/articles/2026/06/04/politsiia-v-komi-otkazalas-trebovat-aresta-deviatiletnego-rebenka-iz-za-slomannoi-fanernoi-installiatsii-k-9-maia-news)
+> ### [Полиция в Коми отказалась требовать ареста девятилетнего ребенка из-за сломанной фанерной инсталляции к 9 мая](2026/06/04/politsiia-v-komi-otkazalas-trebovat-aresta-deviatiletnego-rebenka-iz-za-slomannoi-fanernoi-installiatsii-k-9-maia-news.md)
 
 «Мой сын боится спать. Он просыпается ночью и шепчет: «Мама, а меня не заберут?» Ему восемь лет. Он не преступник», — пост с такими словами 29 мая опубликовала на своей странице во «ВКонтакте» жительница Сыктывкара Анна Савельева.
 

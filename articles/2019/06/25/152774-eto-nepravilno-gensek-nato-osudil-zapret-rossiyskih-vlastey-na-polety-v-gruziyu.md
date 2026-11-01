@@ -17,14 +17,14 @@ tags: "нато, протесты, грузия, ek"
 
 Говоря об ухудшении отношений Москвы и Тбилиси, Столтенберг подчеркнул, что сейчас «важно сделать все для деэскалации этого конфликта и не прибегать к мерам, которые только усилят это напряжение».
 
-**link:** https://novayagazeta.ru/articles/2019/06/24/81012-v-tbilisi-antioligarhicheskiy-bunt
+**link:** [В Тбилиси — антиолигархический бунт](2019/06/24/81012-v-tbilisi-antioligarhicheskiy-bunt.md)
 
 «Но я считаю, что это неправильно — запрещать людям ездить в соседние страны в качестве туристов. Мы продолжим поддерживать территориальную целостность Грузии и помогать им с реформами, но в то же время будем настаивать на политических переговорах и решении конфликта, который начался еще много лет назад и длится до сих пор», — добавил генсек НАТО.
 
-Напомним, на прошлой неделе президент Владимир Путин [подписал](https://www.novayagazeta.ru/news/2019/06/21/152703-putin-zapretil-rossiyskim-aviakompaniyam-polety-v-gruziyu) указ, временно запрещающий российским авиакомпаниям осуществлять перевозки в Грузию с 8 июля. После этого Минтранс [сообщил](https://www.novayagazeta.ru/news/2019/06/22/152714-interfaks-gruzinskim-aviakompaniyam-zapretyat-letat-v-rossiyu), что грузинские авиакомпании с этого же дня временно не смогут летать в Россию.
+Напомним, на прошлой неделе президент Владимир Путин [подписал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/06/21/152703-putin-zapretil-rossiyskim-aviakompaniyam-polety-v-gruziyu) указ, временно запрещающий российским авиакомпаниям осуществлять перевозки в Грузию с 8 июля. После этого Минтранс [сообщил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/06/22/152714-interfaks-gruzinskim-aviakompaniyam-zapretyat-letat-v-rossiyu), что грузинские авиакомпании с этого же дня временно не смогут летать в Россию.
 
-**link:** https://novayagazeta.ru/articles/2019/06/22/81000-tbilisi-proschay
+**link:** [Тбилиси, прощай?](2019/06/22/81000-tbilisi-proschay.md)
 
 Запрет был связан с протестами в Тбилиси. Митинги начались 20 июня после выступления в парламенте депутата Госдумы Сергея Гаврилова, который говорил на русском языке с места, предназначенного для спикера парламента.
 
-Пресс-секретарь президента России Дмитрий Песков [заявил](https://www.novayagazeta.ru/news/2019/06/24/152739-rech-idet-o-vozvraschenii-situatsii-v-nerusofobskoe-ruslo-peskov-o-srokah-vozobnovleniya-poletov-rossiyskih-aviakompaniy-v-gruziyu), что перелеты из России в Грузию возобновятся, когда ситуация в этой стране вернется «в нерусофобское русло».
+Пресс-секретарь президента России Дмитрий Песков [заявил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/06/24/152739-rech-idet-o-vozvraschenii-situatsii-v-nerusofobskoe-ruslo-peskov-o-srokah-vozobnovleniya-poletov-rossiyskih-aviakompaniy-v-gruziyu), что перелеты из России в Грузию возобновятся, когда ситуация в этой стране вернется «в нерусофобское русло».

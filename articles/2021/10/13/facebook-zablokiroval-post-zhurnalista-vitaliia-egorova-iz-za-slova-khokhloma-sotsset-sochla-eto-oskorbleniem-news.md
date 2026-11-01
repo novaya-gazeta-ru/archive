@@ -20,6 +20,6 @@ Facebook заблокировал пост российского популяр
 
 Роскосмос украсил ракету «Союз» под хохлому в честь 800-летия Нижнего Новгорода, где и зародилась эта роспись.
 
-В сентябре бывший футболист сборной России Дмитрий Хохлов [подал](https://novayagazeta.ru/articles/2021/09/22/eks-futbolist-sbornoi-rossii-khokhlov-podal-v-sud-na-facebook-sotsset-blokiruet-ego-familiiu-kak-oskorblenie-ukraintsev-news) иск к Facebook из-за того, что соцсеть блокирует его фамилию в публикациях, также путая с уничижительным обращением к украинцам.
+В сентябре бывший футболист сборной России Дмитрий Хохлов [подал](2021/09/22/eks-futbolist-sbornoi-rossii-khokhlov-podal-v-sud-na-facebook-sotsset-blokiruet-ego-familiiu-kak-oskorblenie-ukraintsev-.md) иск к Facebook из-за того, что соцсеть блокирует его фамилию в публикациях, также путая с уничижительным обращением к украинцам.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/11/metodichka-po-raschleneniiu-facebook
+**Читайте также:** [Методичка по расчленению Facebook](2021/10/11/metodichka-po-raschleneniiu-facebook.md)

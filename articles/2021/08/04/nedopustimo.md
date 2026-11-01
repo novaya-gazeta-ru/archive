@@ -19,7 +19,7 @@ tags: "кандидаты, выборы, муниципальные депута
 
 ![](_assets/10/10bed6ac5f59cb95707713440bc5752c.webp)
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/06/nepravilnye-stepler-i-parlament
+**Читайте также:** [Неправильные степлер и парламент](2021/08/06/nepravilnye-stepler-i-parlament.md)
 
 Читайте также
 

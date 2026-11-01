@@ -13,4 +13,4 @@ tags: "та самая"
 
 *Конец государства в СИЗО Чечни, аргументы военных пенсионеров — новый идейный мейнстрим и за что New York Times называют «российской пропагандой»*
 
-https://novayagazeta.ru/issues/3270
+[https://novayagazeta.ru/issues/3270](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3270)

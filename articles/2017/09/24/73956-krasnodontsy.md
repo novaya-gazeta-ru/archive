@@ -13,7 +13,7 @@ tags: "лнр, луганск"
 
 *Про жизнь и смерть членов «Молодой гвардии» и их потомков*
 
-**link:** https://novayagazeta.ru/articles/2017/09/22/73933-krasnodontsy
+**link:** [https://novayagazeta.ru/articles/2017/09/22/73933-krasnodontsy](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/09/22/73933-krasnodontsy)
 
 # Часть 2. Про Луганск, где в 2014 году работала подпольная организация, а сегодня — университет и онкобольница, принимающие студентов и пациентов «с той стороны»
 

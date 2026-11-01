@@ -29,4 +29,4 @@ tags: ""
 
 Усилить контроль на границах для недопущения дефицита топлива [поручил](https://www.kommersant.ru/doc/8761128) еще в июне премьер-министр страны Олжас Бектено.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/07/gospodin-defitsit-i-tsifrovoi-rubl
+**Читайте также:** [Господин дефицит и цифровой рубль](2026/07/07/gospodin-defitsit-i-tsifrovoi-rubl.md)

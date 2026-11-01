@@ -27,7 +27,7 @@ tags: "ирина осипова, сизо, политзаключенные, д
 
 17 марта Осипову выписали из больницы. На тот момент все процессуальные сроки дознания прошли, и дело должны были закрыть. Задержание и все остальные процессуальные действия провели незаконно, обратил внимание адвокат Осиповой Дмитрий Джулай. Но несмотря на эти нарушения, прокуратура все-таки передала дело из дознания в следственные органы. А потом материалы оказались в суде.
 
-Однако мировой судья не стала рассматривать дело. Она удовлетворила ходатайство защиты и [вернула](https://mos-sud.ru/384/cases/criminal/details/b3522ffd-7faa-4d53-8631-8a6abcd64070?formType=shortForm&caseNumber=&participant=%D0%BE%D1%81%D0%B8%D0%BF%D0%BE%D0%B2%D0%B0&uid=&letterNumber=&year=&caseDateFrom=&caseDateTo=&caseFinalDateFrom=&caseFinalDateTo=&publishingState=&judge=&caseLegalForceDateFrom=&caseLegalForceDateTo=&hearingRangeDateFrom=&hearingRangeDateTo=&sessionRoom=&sessionRangeTimeFrom=&sessionRangeTimeTo=&sessionType=&docsDateFrom=&docsDateTo=&documentStatus=&documentType=) дело в прокуратуру из-за огромного количества процессуальных нарушений, допущенных в ходе дознания и отраженных обвинительном заключении. Ранее «Новая» подробно [рассказывала](https://novayagazeta.ru/articles/2025/04/04/insult-kak-sledstvennoe-deistvie) об этом деле и [суде](https://novayagazeta.ru/articles/2025/05/27/ia-ne-znaiu-kak-s-etim-zhit).
+Однако мировой судья не стала рассматривать дело. Она удовлетворила ходатайство защиты и [вернула](https://mos-sud.ru/384/cases/criminal/details/b3522ffd-7faa-4d53-8631-8a6abcd64070?formType=shortForm&caseNumber=&participant=%D0%BE%D1%81%D0%B8%D0%BF%D0%BE%D0%B2%D0%B0&uid=&letterNumber=&year=&caseDateFrom=&caseDateTo=&caseFinalDateFrom=&caseFinalDateTo=&publishingState=&judge=&caseLegalForceDateFrom=&caseLegalForceDateTo=&hearingRangeDateFrom=&hearingRangeDateTo=&sessionRoom=&sessionRangeTimeFrom=&sessionRangeTimeTo=&sessionType=&docsDateFrom=&docsDateTo=&documentStatus=&documentType=) дело в прокуратуру из-за огромного количества процессуальных нарушений, допущенных в ходе дознания и отраженных обвинительном заключении. Ранее «Новая» подробно [рассказывала](2025/04/04/insult-kak-sledstvennoe-deistvie.md) об этом деле и [суде](2025/05/27/ia-ne-znaiu-kak-s-etim-zhit.md).
 
 ## «Сына убили!»
 
@@ -71,7 +71,7 @@ tags: "ирина осипова, сизо, политзаключенные, д
 
 Судья Горбулина начала заседание с оглашения постановления первой инстанции о возврате дела в Мещанскую межрайонную прокуратуру. В мотивировочной части решения мировой судья указала, что обвинительное заключение «не соответствует требованию закона», допущен ряд нарушений, которые невозможно устранить в ходе судебного разбирательства, и, таким образом, нельзя вынести итоговое решение по делу. Так, в материалах дела отсутствует описание события преступления: когда и каким образом Осипова получила денежные средства «мошенническим способом» и как ими воспользовалась.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/04/insult-kak-sledstvennoe-deistvie
+**Читайте также:** [Инсульт как следственное действие](2025/04/04/insult-kak-sledstvennoe-deistvie.md)
 
 Гособвинение в своем представлении отрицает эти нарушения и требует, наоборот, вернуть дело в суд для рассмотрения по существу с новым составом. Прокурор Иван Колов в заседании выглядел безучастным: ничего к жалобе добавить не смог, остальное время сидел молча, уткнувшись в экран телефона.
 

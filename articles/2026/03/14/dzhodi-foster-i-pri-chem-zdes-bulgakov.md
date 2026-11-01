@@ -57,4 +57,4 @@ tags: ""
 >
 > Лариса Малюкова ведет телеграм-канал о кино и не только. [Подписывайтесь тут](https://t.me/larisamalukova).
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/04/ia-neznakomets-ia-zhiv-ia-mertv
+**Читайте также:** [Я — незнакомец, я жив, я мертв](2026/03/04/ia-neznakomets-ia-zhiv-ia-mertv.md)

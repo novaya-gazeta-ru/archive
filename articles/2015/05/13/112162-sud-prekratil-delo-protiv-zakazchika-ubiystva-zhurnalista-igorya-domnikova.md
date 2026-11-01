@@ -19,9 +19,9 @@ tags: "домников, суды, убийство"
 
 В марте 2015 года Главное следственное управление следственного комитета РФ по Москве предъявило 61-летнему Доровскому обвинение в окончательной редакции — в совершении преступления, предусмотренного ч. 4 ст. 33, п.«а» ч.3 ст.111 УК РФ (подстрекательство к умышленному причинению тяжкого вреда здоровью потерпевшему в связи с осуществлением им профессиональной деятельности).
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/inquests/67568.html" target="_blank"><span style="color:#A52A2A;"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/03/10/1425988141_498761_67.jpg" style="width: 100px; height: 75px;"></span></a><span style="color:#A52A2A;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/inquests/67568.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/67568.html)" target="_blank"><span style="color:#A52A2A;"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/03/10/1425988141_498761_67.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/03/10/1425988141_498761_67.jpg)" style="width: 100px; height: 75px;"></span></a><span style="color:#A52A2A;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/inquests/67568.html" target="_blank"><strong>Мясник. Назван заказчик убийства журналиста Игоря Домникова</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/inquests/67568.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/67568.html)" target="_blank"><strong>Мясник. Назван заказчик убийства журналиста Игоря Домникова</strong></a></p>]*
 
 Следствие установило, что в марте 2000 года Доровский, будучи тогда заместителем главы администрации Липецкой области, попросил знакомого предпринимателя Павла Сопота организовать нападение на журналиста с целью причинения тяжкого вреда его здоровью. Мотивом к совершению преступления стала месть за опубликованные Домниковым в период с мая 1999 по февраль 2000 года критические статьи об администрации области. Сопот привлек к делу своего знакомого — лидера преступной группировки «Тагирьяновских» Эдуарда Тагирьянова, который, в свою очередь, поручил нападение на Домникова членам своей организованной группы.
 

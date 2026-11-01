@@ -20,8 +20,8 @@ tags: "крым, поклонская"
 
 «В прошлом году, когда мы накануне Дня победы посещали ветеранов, один из них рассказал мне историю. Они с товарищем попали в передрягу, и ему было видение царя Николая Александровича, который помог ему спастись. И ветеран просил меня, чтобы по возможности Николай II тоже принял участие в «Бессмертном полку». Вот это пожелание мы и выполняем», — [рассказала](http://tass.ru/obschestvo/3267582) агентству Поклонская.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/columns/68373.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/05/12/1431431655_784390_67.png" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/columns/68373.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/68373.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/05/12/1431431655_784390_67.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/05/12/1431431655_784390_67.png)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/columns/68373.html" target="_blank"><strong>Алексей Тарасов — о том, как власти присвоили себе «Бессмертный полк» и чем это обернется</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/columns/68373.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/68373.html)" target="_blank"><strong>Алексей Тарасов — о том, как власти присвоили себе «Бессмертный полк» и чем это обернется</strong></a></p>]*
 
 Акция «Бессмертный полк», авторами которой являются журналисты частного томского телеканала «ТВ-2», проходит в регионах России 9 мая. Участники шествия несут портреты родственников, участвовавших в Великой отечественной войне.

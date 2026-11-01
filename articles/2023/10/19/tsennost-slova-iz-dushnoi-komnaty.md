@@ -87,4 +87,4 @@ tags: "скажи гордеевой, ирина ясина, михнов вой
 
 #### * Внесены в реестр «иноагентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/10/12/aty-baty-komikov-v-soldaty
+**Читайте также:** [https://novayagazeta.ru/articles/2023/10/12/aty-baty-komikov-v-soldaty](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/10/12/aty-baty-komikov-v-soldaty)

@@ -23,6 +23,6 @@ tags: "поп-музыка, пропаганда наркотиков, зюзи�
 
 Что конкретно стало поводом для составления протокола, не уточняется.
 
-Ранее Зюзинский суд по той же статье [оштрафовал](https://novayagazeta.ru/articles/2021/10/20/blogera-iuriia-dudia-oshtrafovali-na-100-tysiach-rublei-po-delu-o-propagande-narkotikov-v-interviu-s-ivangaem-i-morgenshternom-news) на 100 тысяч рублей журналиста Юрия Дудя, посчитав, что пропаганда запрещенных веществ содержится в интервью с рэпером Моргенштерном и видеоблогером Ивангаем. Моргенштерн также уже получал штраф на 100 тысяч рублей из-за клипов «Розовое вино-2» и Family.
+Ранее Зюзинский суд по той же статье [оштрафовал](2021/10/20/blogera-iuriia-dudia-oshtrafovali-na-100-tysiach-rublei-po-delu-o-propagande-narkotikov-v-interviu-s-ivangaem-i-morgensh.md) на 100 тысяч рублей журналиста Юрия Дудя, посчитав, что пропаганда запрещенных веществ содержится в интервью с рэпером Моргенштерном и видеоблогером Ивангаем. Моргенштерн также уже получал штраф на 100 тысяч рублей из-за клипов «Розовое вино-2» и Family.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/05/21/uznali-sistemu-iznutri-i-nachali-ogryzatsia
+**Читайте также:** [«Узнали систему изнутри и начали огрызаться»](2021/05/21/uznali-sistemu-iznutri-i-nachali-ogryzatsia.md)

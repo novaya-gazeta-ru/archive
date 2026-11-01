@@ -35,9 +35,9 @@ tags: "терроризм"
 
 В окружении Арафата с волнением следили, какой будет реакция на теракт. В мусульманской традиции считалось, что не пристало мужчинам вместо себя посылать на смерть женщин. Но палестинцы так восторженно реагировали на теракт, так радовались смерти молодой женщины, что в окружении Арафата решили: они сделали сильный ход, предложив новое оружие джихада — женщин-самоубийц.
 
-**link:** https://novayagazeta.ru/comments/71513.html
+**link:** [https://novayagazeta.ru/comments/71513.html](https://web.archive.org/web/*/https://novayagazeta.ru/comments/71513.html)
 
-**link:** https://novayagazeta.ru/comments/71513.html
+**link:** [https://novayagazeta.ru/comments/71513.html](https://web.archive.org/web/*/https://novayagazeta.ru/comments/71513.html)
 
 # Искусство вербовки
 

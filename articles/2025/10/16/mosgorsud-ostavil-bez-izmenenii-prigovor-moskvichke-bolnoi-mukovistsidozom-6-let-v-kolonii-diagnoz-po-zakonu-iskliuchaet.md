@@ -19,7 +19,7 @@ tags: ""
 
 Жалобу защиты с требованием переквалифицировать обвинение на хранение наркотиков без цели сбыта (ст. 228 ч. 2 УК) и назначить условное наказание не удовлетворено.
 
-Сегодняшнее заседание состоялось в результате [переноса со 2 октября](https://novayagazeta.ru/articles/2025/10/02/mosgorsud-otlozhil-rassmotrenie-apelliatsii-20-letnei-moskvichki-evgenii-lomakovoi-bolnoi-mukovistsidozom-sudi-dali-ei-vremia-podgotovit-poslednee-slovo-news): судьи дали возможность Ломаковой подготовиться к последнему слову.
+Сегодняшнее заседание состоялось в результате [переноса со 2 октября](2025/10/02/mosgorsud-otlozhil-rassmotrenie-apelliatsii-20-letnei-moskvichki-evgenii-lomakovoi-bolnoi-mukovistsidozom-sudi-dali-ei-v.md): судьи дали возможность Ломаковой подготовиться к последнему слову.
 
 Вот оно.
 

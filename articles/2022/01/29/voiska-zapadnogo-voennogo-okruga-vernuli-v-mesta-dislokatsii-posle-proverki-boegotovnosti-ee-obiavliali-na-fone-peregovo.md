@@ -21,7 +21,7 @@ tags: "учения, минобороны, западный военный ок�
 
 На аэродромы базирования уже вернулась авиация, а бригады связи, инженерные подразделения и подразделения химзащиты находятся в пути.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/27/podniaty-po-trevoge
+**Читайте также:** [«Учения с боевой стрельбой»](2022/01/27/podniaty-po-trevoge.md)
 
 Проверка сил Западного и Южного округов [началась](https://www.interfax.ru/russia/818301) 25 января на фоне безрезультатных переговоров России с НАТО и США. В Министерстве обороны РФ учения тогда назвали плановыми.
 
@@ -29,6 +29,6 @@ tags: "учения, минобороны, западный военный ок�
 
 Проверка боеготовности сил Западного округа проходила параллельно с переброской частей Восточного военного округа в Беларусь.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/20/bezliudnye-tekhnologii
+**Читайте также:** [https://novayagazeta.ru/articles/2022/01/20/bezliudnye-tekhnologii](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/01/20/bezliudnye-tekhnologii)
 
-22 января агентство Reuters [опубликовало](https://twitter.com/Reuters/status/1484175130020356100) спутниковые снимки, на которых, как утверждается, запечатлена концентрация техники ВС РФ недалеко от границы с Украиной. Также расследовательская группа Conflict Intelligence Team [сообщала](https://novayagazeta.ru/articles/2022/01/19/rossiiskie-voiska-pribyli-na-ucheniia-v-belarus-rassledovateli-cit-zametili-ikh-lager-v-90-km-ot-kievskoi-oblasti-news), что российские войска якобы находятся в 90 км от Киевской области — на территории Беларуси.
+22 января агентство Reuters [опубликовало](https://twitter.com/Reuters/status/1484175130020356100) спутниковые снимки, на которых, как утверждается, запечатлена концентрация техники ВС РФ недалеко от границы с Украиной. Также расследовательская группа Conflict Intelligence Team [сообщала](2022/01/19/rossiiskie-voiska-pribyli-na-ucheniia-v-belarus-rassledovateli-cit-zametili-ikh-lager-v-90-km-ot-kievskoi-oblasti-news.md), что российские войска якобы находятся в 90 км от Киевской области — на территории Беларуси.

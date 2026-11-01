@@ -37,4 +37,4 @@ tags: "москва, поэзия, пономарев"
 
 надежен, крепок, потрясающ. В нем злобный вой и дикий рев, на нем доска, на ней Исаич, внутри сидит Пономарев.
 
-**link:** https://novayagazeta.ru/articles/2018/12/07/78853-eto-pozornaya-zakazuha-vasha-chest
+**link:** [«Это позорная заказуха, Ваша честь»](2018/12/07/78853-eto-pozornaya-zakazuha-vasha-chest.md)

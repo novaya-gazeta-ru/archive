@@ -36,13 +36,13 @@ tags: "обмен пленными, обмен"
 
 *Фото: Андрей Новиков / «Громадское»*
 
-**link:** https://novayagazeta.ru/articles/2019/09/07/81884-dve-rodiny
+**link:** [Две родины](2019/09/07/81884-dve-rodiny.md)
 
 ![](_assets/f1/f187a19e58cbd427c14c36c52c1de025.webp)
 
 *Журналист, историк Станислав Клых. Фото: Андрей Новиков / «Громадское»*
 
-**link:** https://novayagazeta.ru/articles/2018/04/15/76187-hochetsya-zasnut-i-ne-prosnutsya-smert-stanovitsya-zhelannoy
+**link:** [«Хочется заснуть и не проснуться, смерть становится желанной»](2018/04/15/76187-hochetsya-zasnut-i-ne-prosnutsya-smert-stanovitsya-zhelannoy.md)
 
 ![](_assets/7c/7c3799a18cc65bda6d21b8b249f9cc1a.webp)
 
@@ -52,7 +52,7 @@ tags: "обмен пленными, обмен"
 
 *Сын украинского офицера Игоря Гриба Павел Гриб. Фото: Андрей Новиков / «Громадское»*
 
-**link:** https://novayagazeta.ru/articles/2019/02/02/79413-ya-kak-zver-v-kapkane
+**link:** [«Я как зверь в капкане»](2019/02/02/79413-ya-kak-zver-v-kapkane.md)
 
 ![](_assets/12/12379b0069cf6d12b6c672e6cee4309c.webp)
 
@@ -62,7 +62,7 @@ tags: "обмен пленными, обмен"
 
 *Активист крымского Евромайдана Александр Кольченко. Фото: Андрей Новиков / «Громадское»*
 
-**link:** https://novayagazeta.ru/articles/2019/09/07/81882-sentsova-da-osvobodili-a-nas-osvobozhdat-komu
+**link:** [Сенцова — да, освободили, а нас освобождать кому?](2019/09/07/81882-sentsova-da-osvobodili-a-nas-osvobozhdat-komu.md)
 
 ![](_assets/cf/cf25fc293c341a7a32e6c26778cb6332.webp)
 

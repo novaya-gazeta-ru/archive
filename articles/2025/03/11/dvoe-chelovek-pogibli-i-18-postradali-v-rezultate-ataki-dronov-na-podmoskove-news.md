@@ -25,4 +25,4 @@ tags: "москва, бпла, нападение"
 
 - Утром 11 марта в ходе нападения БПЛА на Москву и Московскую область системами ПВО были сбиты около сотни беспилотников. Власти [назвали](https://t.me/novaya_pishet/50354) атаку «самой массированной» с начала СВО.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/11/vlasti-moskvy-i-podmoskovia-soobshchili-o-samoi-massirovannoi-s-nachala-svo-atake-bespilotnikov-odin-chelovek-pogib-news
+**Читайте также:** [Власти Москвы и Подмосковья сообщили о самой массированной с начала СВО атаке беспилотников. Один человек погиб](2025/03/11/vlasti-moskvy-i-podmoskovia-soobshchili-o-samoi-massirovannoi-s-nachala-svo-atake-bespilotnikov-odin-chelovek-pogib-news.md)

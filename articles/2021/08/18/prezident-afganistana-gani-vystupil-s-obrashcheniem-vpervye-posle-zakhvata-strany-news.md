@@ -22,9 +22,9 @@ tags: "афганистан, гани, обращение, da"
 
 Также, на данный момент Гани находится в переговорах о своем возвращении в Афганистан.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/15/afganistan-voshel-v-talibskuiu-reku-vtoroi-raz
+**Читайте также:** [Афганистан вошел в талибскую реку второй раз](2021/08/15/afganistan-voshel-v-talibskuiu-reku-vtoroi-raz.md)
 
-Ранее власти ОАЭ [сообщили](https://novayagazeta.ru/articles/2021/08/18/vlasti-oae-soobshchili-chto-prezident-afganistana-gani-uekhal-v-emiraty-posle-vziatiia-kabula-talibami-news) о том, что президент Афганистана Ашраф Гани находится в Эмиратах.
+Ранее власти ОАЭ [сообщили](2021/08/18/vlasti-oae-soobshchili-chto-prezident-afganistana-gani-uekhal-v-emiraty-posle-vziatiia-kabula-talibami-news.md) о том, что президент Афганистана Ашраф Гани находится в Эмиратах.
 
 15 августа талибы без боя взяли столицу Афганистана Кабул и объявили об установлении полного контроля над территорией страны. На фоне происходящего президент Гани сложил свои полномочия и улетел за границу.
 

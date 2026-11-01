@@ -21,10 +21,10 @@ tags: "теннис, australian open, австралия, медведев, дж
 
 В этом году Джокович проиграл суд о восстановлении австралийской визы и вынужденно покинул страну.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/29/lasitskene-italiia-i-russkie-raketki
+**Читайте также:** [Ласицкене, Италия и русские ракетки](2021/12/29/lasitskene-italiia-i-russkie-raketki.md)
 
 Место Джоковича на Australia Open занял 29-летний итальянец Сальваторе Карузо, занимающий 150-е место в рейтинге Ассоциации теннисистов-профессионалов (ATP).
 
-Проблемы Джоковича с австралийским правительством начались 5 января, когда его [задержали](https://novayagazeta.ru/articles/2022/01/05/tennisista-dzhokovicha-ne-pustili-na-australia-open-soslavshis-na-oshibku-s-vizoi-ranee-bolelshchiki-vozmushchalis-ego-dopusku-do-turnira-bez-privivki-news) и аннулировали визу из-за ошибок в документах. Позже спортсмен [признался](https://novayagazeta.ru/articles/2022/01/12/dzhokovich-priznalsia-v-narushenii-karantina-pri-polozhitelnom-teste-na-covid-19-i-predostavlenii-lozhnykh-dannykh-news), что предоставил ложные данные в туристической декларации для въезда в Австралию. Он назвал наличие неточностей в своем заявлении ненамеренной ошибкой.
+Проблемы Джоковича с австралийским правительством начались 5 января, когда его [задержали](2022/01/05/tennisista-dzhokovicha-ne-pustili-na-australia-open-soslavshis-na-oshibku-s-vizoi-ranee-bolelshchiki-vozmushchalis-ego-d.md) и аннулировали визу из-за ошибок в документах. Позже спортсмен [признался](2022/01/12/dzhokovich-priznalsia-v-narushenii-karantina-pri-polozhitelnom-teste-na-covid-19-i-predostavlenii-lozhnykh-dannykh-news.md), что предоставил ложные данные в туристической декларации для въезда в Австралию. Он назвал наличие неточностей в своем заявлении ненамеренной ошибкой.
 
-Несмотря на проблемы с визой теннисисту все же разрешили остаться в стране и [включили](https://novayagazeta.ru/articles/2022/01/13/zaderzhannogo-po-prilete-v-melburn-serbskogo-tennisista-novaka-dzhokovicha-vkliuchili-v-zherebevku-australian-open-news) его в жеребьевку Открытого чемпионата Австралии (Australia Open). Позже его визу аннулировали повторно, так как теннисист не был вакцинирован от COVID-19.
+Несмотря на проблемы с визой теннисисту все же разрешили остаться в стране и [включили](2022/01/13/zaderzhannogo-po-prilete-v-melburn-serbskogo-tennisista-novaka-dzhokovicha-vkliuchili-v-zherebevku-australian-open-news.md) его в жеребьевку Открытого чемпионата Австралии (Australia Open). Позже его визу аннулировали повторно, так как теннисист не был вакцинирован от COVID-19.

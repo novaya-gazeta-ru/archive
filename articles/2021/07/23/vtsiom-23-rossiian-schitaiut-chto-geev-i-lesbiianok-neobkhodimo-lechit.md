@@ -19,6 +19,6 @@ tags: "ЛГБТ, опросы, вциом, однополые браки, sf"
 
 Еще 11% опрошенных считают представителей сексуальных меньшинств опасными. В 2015 году так думали 20% россиян.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/06/zdorovoe-pitanie-dlia-nezdorovogo-obshchestva
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/06/zdorovoe-pitanie-dlia-nezdorovogo-obshchestva](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/06/zdorovoe-pitanie-dlia-nezdorovogo-obshchestva)
 
 К однополым бракам, согласно опросу, отрицательно относятся 75% россиян. Этот показатель улучшился: в 2015 году такое мнение разделяли 80% опрошенных. Полностью поддерживают право на официальную регистрацию однополых браков 5% опрошенных.

@@ -61,4 +61,4 @@ tags: ""
 
 И потерпи еще немного.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/09/u-menia-byla-sobaka
+**Читайте также:** [У меня была собака…](2025/08/09/u-menia-byla-sobaka.md)

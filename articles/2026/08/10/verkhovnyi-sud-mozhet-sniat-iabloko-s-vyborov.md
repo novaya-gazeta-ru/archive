@@ -13,7 +13,7 @@ tags: ""
 
 *Трансляция из Верховного суда: ВИДЕО*
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/07/meniu-iz-dvukh-punktov
+**Читайте также:** [Меню из двух пунктов](2026/08/07/meniu-iz-dvukh-punktov.md)
 
 Читайте также
 

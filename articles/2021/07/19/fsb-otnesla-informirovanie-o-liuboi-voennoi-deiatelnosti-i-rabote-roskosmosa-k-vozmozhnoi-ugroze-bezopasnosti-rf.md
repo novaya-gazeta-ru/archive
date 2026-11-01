@@ -32,6 +32,6 @@ tags: "ng, фсб, президент, угрозы, роскосмос"
 
 Разглашение этих данных, которые могут составлять, а могут и не составлять государственную тайну, может повлечь угрозу безопасности России, считают в ФСБ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/13/sidit-na-asteroidakh
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/13/sidit-na-asteroidakh](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/13/sidit-na-asteroidakh)
 
-Сегодня также президент РФ Владимир Путин [внес](https://novayagazeta.ru/articles/2021/07/19/putin-vnes-v-gosdumu-zakonoproekt-o-prodlenii-predelnogo-sroka-sluzhby-generalov-i-marshalov) в Государственную думу законопроект, который позволяет увеличивать решением президента предельный возраст пребывания на военной службе для маршала, генерала армии и адмирала флота.
+Сегодня также президент РФ Владимир Путин [внес](2021/07/19/putin-vnes-v-gosdumu-zakonoproekt-o-prodlenii-predelnogo-sroka-sluzhby-generalov-i-marshalov.md) в Государственную думу законопроект, который позволяет увеличивать решением президента предельный возраст пребывания на военной службе для маршала, генерала армии и адмирала флота.

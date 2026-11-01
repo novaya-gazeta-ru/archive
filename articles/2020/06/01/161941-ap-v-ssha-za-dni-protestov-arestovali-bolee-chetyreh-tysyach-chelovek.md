@@ -21,4 +21,4 @@ tags: "em, аресты, протесты, сша"
 
 Комендантский час из-за протестов введен примерно в 40 американских городах, [отмечает](http://https//edition.cnn.com/us/live-news/george-floyd-protests-06-01-20/index.html%C2%A0) CNN. The New York Times [подсчитала](https://www.nytimes.com/2020/05/31/us/george-floyd-protests-live-updates.html), что для подавления беспорядков Нацгвардию задействовали по крайней мере в 21 штате.  Источники [CNN](http://edition.cnn.com/2020/05/31/politics/trump-underground-bunker-white-house-protests/index.html) и [NYT](http://www.nytimes.com/2020/05/31/us/politics/trump-protests-george-floyd.html?smid=tw-share) сообщили, что во время протестов у Белого дома президент США Дональд Трамп укрылся в бункере.
 
-**link:** https://novayagazeta.ru/articles/2020/05/30/85611-ya-ne-mogu-dyshat
+**link:** [«Я не могу дышать!»](2020/05/30/85611-ya-ne-mogu-dyshat.md)

@@ -29,9 +29,9 @@ tags: "крымские татары, поклонская, преследова
 
 — Обвинительное заключение написано общими фразами, — заключил адвокат Николай Полозов. — Складывается ощущение, что при помощи размытых формулировок прокуратура пытается скрыть тот факт, что и сама не обладает полной картиной случившегося, а просто рассчитывает выиграть дело по политическим причинам, поскольку подсудимые были на стороне Украины.
 
-**link:** https://novayagazeta.ru/society/71457.html
+**link:** [https://novayagazeta.ru/society/71457.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/71457.html)
 
-**link:** https://novayagazeta.ru/society/71457.html
+**link:** [https://novayagazeta.ru/society/71457.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/71457.html)
 
 Ответное слово взяла прокурор Крыма Наталья Поклонская.
 

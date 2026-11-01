@@ -51,7 +51,7 @@ tags: "навальный, яшин, мосгордума, выборы в мо�
 
 *Представитель Либертарианской партии Михаил Светов. Члены ЛПР организовали этот митинг. Фото: Влад Докшин / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2019/07/19/81298-ya-ne-mogu-postroit-prekrasnuyu-rossiyu-buduschego-v-odno-litso
+**link:** [https://novayagazeta.ru/articles/2019/07/19/81298-ya-ne-mogu-postroit-prekrasnuyu-rossiyu-buduschego-v-odno-litso](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/07/19/81298-ya-ne-mogu-postroit-prekrasnuyu-rossiyu-buduschego-v-odno-litso)
 
 ![](_assets/bd/bdd9b46ff2889d24f93698c8dc4196c6.webp)
 

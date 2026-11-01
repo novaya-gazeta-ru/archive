@@ -19,7 +19,7 @@ tags: ""
 
 По месту регистрации экс-мундепов в России ранее прошли обыски. А Азар, включенный в третью годовщину СВО в реестр иноагентов, еще и числился в федеральном розыске в РФ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/23/siloviki-prishli-s-obyskom-v-kvartiry-rodstvennikov-zhurnalista-ili-azara-i-byvshikh-moskovskikh-mundepov-po-delu-o-nezhelatelnoi-organizatsii-news
+**Читайте также:** [Силовики пришли с обыском в квартиры родственников журналиста Ильи Азара* и бывших московских мундепов по делу о «нежелательной организации»&nbsp;](2025/04/23/siloviki-prishli-s-obyskom-v-kvartiry-rodstvennikov-zhurnalista-ili-azara-i-byvshikh-moskovskikh-mundepov-po-delu-o-nezh.md)
 
 #### * Минюст включил в реестр иноагентов.
 

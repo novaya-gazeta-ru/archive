@@ -13,10 +13,10 @@ tags: ""
 
 *Элита в панике. По всем признакам борьба за президентское кресло уже началась. Но непонятно, на кого ставить. Самые нервные начинают — и проигрывают*
 
-**—** [Президент Медведев ответил на вопросы обозревателя «Новой» Андрея Колесникова](https://novayagazeta.ru/55/1783.html)
+**—** [Президент Медведев ответил на вопросы обозревателя «Новой» Андрея Колесникова](https://web.archive.org/web/*/https://novayagazeta.ru/55/1783.html)
 
-**—** [Расследование «Новой»: кто внес раскол в администрацию президента](https://novayagazeta.ru/politics/1788.html)
+**—** [Расследование «Новой»: кто внес раскол в администрацию президента](https://web.archive.org/web/*/https://novayagazeta.ru/politics/1788.html)
 
-**—** [Ну хватит уже нас катать на «Ладе»](https://novayagazeta.ru/politics/1781.html)
+**—** [Ну хватит уже нас катать на «Ладе»](https://web.archive.org/web/*/https://novayagazeta.ru/politics/1781.html)
 
-**—** [Как кепка тандем раскалывала](https://novayagazeta.ru/politics/1779.html)
+**—** [Как кепка тандем раскалывала](https://web.archive.org/web/*/https://novayagazeta.ru/politics/1779.html)

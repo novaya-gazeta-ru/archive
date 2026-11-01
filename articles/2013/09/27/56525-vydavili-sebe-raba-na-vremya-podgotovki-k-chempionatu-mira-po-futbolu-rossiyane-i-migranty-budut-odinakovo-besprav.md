@@ -16,7 +16,7 @@ tags: "профсоюзы, чемпионат мира"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/09/27/1380367149_378350_17.jpg" style="width: 360px; height: 252px;"><sup>Фото: РИА «Новости»</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/09/27/1380367149_378350_17.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/09/27/1380367149_378350_17.jpg)" style="width: 360px; height: 252px;"><sup>Фото: РИА «Новости»</sup></td>
 		</tr>
 	</tbody>]*
 

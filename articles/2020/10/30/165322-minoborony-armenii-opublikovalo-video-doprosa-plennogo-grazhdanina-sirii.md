@@ -20,13 +20,13 @@ tags: "kn, наемники, сирия, нагорный карабах"
 \
  По данным Еревана, Альшхер прибыл на линию фронта 19 октября вместе с 250 другими наемниками и рассчитывал на оплату в размере $2000. Перед приездом на линию соприкосновения наемники якобы проходили подготовку с турецкими инструкторами.
 
-Россия и Франция — сопредседатели Минской группы ОБСЕ — неоднократно [заявляли](https://novayagazeta.ru/articles/2020/10/01/87330-pyatye-sutki-stolknoveniy-v-karabahe-chto-izvestno), что располагают данными о наличии иностранных боевиков в регионе Нагорного Карабаха. Стороны конфликта также обвиняли друг друга в привлечении наемников из Сирии и Ливии, а Ереван [заявлял](https://novayagazeta.ru/news/2020/10/03/164671-pashinyan-utverzhdaet-chto-deystviyami-azerbaydzhana-protiv-armenii-rukovodyat-150-vysokopostavlennyh-voennyh-iz-turtsii) о работе турецких военных с азербайджанской армией. Глава Службы внешней разведки РФ Сергей Нарышкин [сообщил](https://novayagazeta.ru/news/2020/10/06/164726-glava-svr-v-nagornyy-karabah-perebrosili-boevikov-dzhebhat-an-nusry) о наличии данных о переброске в зону военных действий боевиков запрещенной в России террористической организации «Джебхат Ан-Нусра».
+Россия и Франция — сопредседатели Минской группы ОБСЕ — неоднократно [заявляли](2020/10/01/87330-pyatye-sutki-stolknoveniy-v-karabahe-chto-izvestno.md), что располагают данными о наличии иностранных боевиков в регионе Нагорного Карабаха. Стороны конфликта также обвиняли друг друга в привлечении наемников из Сирии и Ливии, а Ереван [заявлял](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/03/164671-pashinyan-utverzhdaet-chto-deystviyami-azerbaydzhana-protiv-armenii-rukovodyat-150-vysokopostavlennyh-voennyh-iz-turtsii) о работе турецких военных с азербайджанской армией. Глава Службы внешней разведки РФ Сергей Нарышкин [сообщил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/06/164726-glava-svr-v-nagornyy-karabah-perebrosili-boevikov-dzhebhat-an-nusry) о наличии данных о переброске в зону военных действий боевиков запрещенной в России террористической организации «Джебхат Ан-Нусра».
 
-**link:** https://novayagazeta.ru/articles/2020/10/23/87657-1800-dollarov-za-karabah
+**link:** [1800 долларов за Карабах](2020/10/23/87657-1800-dollarov-za-karabah.md)
 
-В середине октября The Washington Post [писала](https://novayagazeta.ru/news/2020/10/15/164937-wp-soobschila-o-gibeli-bolee-50-siriyskih-naemnikov-na-territorii-nagornogo-karabaha) о гибели 50 сирийских наемников в Карабахе.
+В середине октября The Washington Post [писала](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/15/164937-wp-soobschila-o-gibeli-bolee-50-siriyskih-naemnikov-na-territorii-nagornogo-karabaha) о гибели 50 сирийских наемников в Карабахе.
 
-> По данным «Новой газеты», с начала боестолкновений [погибли](https://novayagazeta.ru/articles/2020/10/23/87657-1800-dollarov-za-karabah) около 200 сирийских боевиков.
+> По данным «Новой газеты», с начала боестолкновений [погибли](2020/10/23/87657-1800-dollarov-za-karabah.md) около 200 сирийских боевиков.
 
 «Новая» также располагает сведениями о том, что вербовкой наемников занимаются командиры сформированной под эгидой Турции «Сирийской национальной армии», а также бригад «Сулейман Шах», «Хамза» и других объединений.
 
@@ -36,8 +36,8 @@ tags: "kn, наемники, сирия, нагорный карабах"
 
 > Президент Азербайджана Алиев уже [распорядился](https://ru.president.az/articles/44886) создать временную администрацию на подконтрольных Баку территориях НКР.
 
-**link:** https://novayagazeta.ru/articles/2020/10/21/87621-voyna-oskolkov-imperii
+**link:** [Война осколков империи](2020/10/21/87621-voyna-oskolkov-imperii.md)
 
-С начала нового конфликта в Нагорном-Карабахе прошло уже более месяца. 25 октября стороны при посредничестве США [договорились](https://novayagazeta.ru/news/2020/10/25/165187-armeniya-i-azerbaydzhan-dogovorilis-o-prekraschenii-ognya-s-utra-ponedelnika) о третьем перемирии с 7:00 мск понедельника, однако сразу же обвинили друг друга в нарушении условий.
+С начала нового конфликта в Нагорном-Карабахе прошло уже более месяца. 25 октября стороны при посредничестве США [договорились](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/25/165187-armeniya-i-azerbaydzhan-dogovorilis-o-prekraschenii-ognya-s-utra-ponedelnika) о третьем перемирии с 7:00 мск понедельника, однако сразу же обвинили друг друга в нарушении условий.
 
-Война унесла жизни около сотни мирных жителей по обе стороны конфликта. Армянская сторона также потеряла более тысячи военнослужащих, Баку потерь не раскрывает. Ранее президент России Владимир Путин [говорил](https://novayagazeta.ru/news/2020/10/22/165128-putin-poteri-po-obe-storony-konflikta-v-karabahe-sostavili-pochti-pyat-tysyach-chelovek), что, по его данным, с обеих сторон погибли около пяти тысяч человек.
+Война унесла жизни около сотни мирных жителей по обе стороны конфликта. Армянская сторона также потеряла более тысячи военнослужащих, Баку потерь не раскрывает. Ранее президент России Владимир Путин [говорил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/22/165128-putin-poteri-po-obe-storony-konflikta-v-karabahe-sostavili-pochti-pyat-tysyach-chelovek), что, по его данным, с обеих сторон погибли около пяти тысяч человек.

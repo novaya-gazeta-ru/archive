@@ -24,6 +24,6 @@ tags: "валиева, фигурное катание, допинг, sn"
 
 В пятницу международное агентство допинг-тестирования (ITA) объявило, что в допинг-тесте Валиевой, сделанном перед Олимпиадой в Пекине, нашли препарат триметазидин. Пробу у воспитанницы Этери Тутберидзе взяли 25 декабря 2021 года во время чемпионата России по фигурному катанию в Петербурге.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/10/apokalipsis-ne-segodnia
+**Читайте также:** [Апокалипсис не сегодня](2022/02/10/apokalipsis-ne-segodnia.md)
 
-После результатов Валиеву временно отстранили от соревнований. Однако 9 февраля Дисциплинарный антидопинговый комитет РУСАДА снял ограничения с Валиевой. Всемирное антидопинговое агентство [решило](https://novayagazeta.ru/articles/2022/02/11/wada-podast-zhalobu-na-reshenie-rusada-kotoroe-pozvolilo-rossiiskoi-figuristke-kamile-valievoi-prodolzhit-uchastie-v-olimpiade-news) оспорить отмену отстранения фигуристки. CAS жалобы МОК и WADA [зарегистрировал](https://www.tas-cas.org/en/general-information/news-detail/article/the-cas-ad-hoc-division-registers-the-applications-filed-by-the-ioc-and-wada-against-the-decision-is/).
+После результатов Валиеву временно отстранили от соревнований. Однако 9 февраля Дисциплинарный антидопинговый комитет РУСАДА снял ограничения с Валиевой. Всемирное антидопинговое агентство [решило](2022/02/11/wada-podast-zhalobu-na-reshenie-rusada-kotoroe-pozvolilo-rossiiskoi-figuristke-kamile-valievoi-prodolzhit-uchastie-v-oli.md) оспорить отмену отстранения фигуристки. CAS жалобы МОК и WADA [зарегистрировал](https://www.tas-cas.org/en/general-information/news-detail/article/the-cas-ad-hoc-division-registers-the-applications-filed-by-the-ioc-and-wada-against-the-decision-is/).

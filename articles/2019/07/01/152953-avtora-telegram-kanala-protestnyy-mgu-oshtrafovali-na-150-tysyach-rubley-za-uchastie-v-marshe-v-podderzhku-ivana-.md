@@ -17,6 +17,6 @@ tags: "штрафы, голунов, nt"
 
 Ранее сегодня Хорошевский районный суд Москвы  [арестовал](https://ovdinfo.org/express-news/2019/07/01/alekseya-navalnogo-arestovali-na-10-sutok-za-marsh-v-podderzhku-golunova) политика Алексея Навального на 10 суток по аналогичным обвинениям.
 
-**link:** https://novayagazeta.ru/articles/2019/06/14/80896-peregovory-na-marshe
+**link:** [https://novayagazeta.ru/articles/2019/06/14/80896-peregovory-na-marshe](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/06/14/80896-peregovory-na-marshe)
 
 Несанкционированный марш в поддержку Ивана Голунова и других преследуемых по антинаркотическим статьям прошел в Москве и в Санкт-Петербурге 12 июня. Протестующие собирались пройти от метро «Чистые пруды» мимо здания ФСБ на Лубянке к Петровке, 38, где находится ГУ МВД по Москве. Согласно данным «ОВД-Инфо», на акции в Москве было задержано не менее 530 человек.

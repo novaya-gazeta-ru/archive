@@ -41,7 +41,7 @@ tags: ""
 
 Возможно также, что таким проходным образом будет принят проект «на вырост»: в условиях продолжения спецоперации в Украине вооруженных сил, чтобы вводить их в другие страны, по-видимому, не хватит.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/18/polsha-razreshila-ekstradirovat-rossiiskogo-arkheologa-aleksandra-butiagina-v-ukrainu-verdikt-vynes-sudia-otstranennyi-v-sviazi-s-utratoi-doveriia-kotorogo-obiazali-zavershit-protsess-news
+**Читайте также:** [Польша разрешила экстрадировать российского археолога Александра Бутягина в Украину. Вердикт вынес судья, отстраненный в связи с утратой доверия, которого обязали завершить процесс](2026/03/18/polsha-razreshila-ekstradirovat-rossiiskogo-arkheologa-aleksandra-butiagina-v-ukrainu-verdikt-vynes-sudia-otstranennyi-v.md)
 
 > **От редакции**
 >

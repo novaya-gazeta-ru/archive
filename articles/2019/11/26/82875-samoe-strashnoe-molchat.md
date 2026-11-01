@@ -35,7 +35,7 @@ tags: "акции протеста, протест, москва, домашне
 
 Мы публикуем несколько историй из десятков рассказанных за этот вечер.
 
-**link:** https://novayagazeta.ru/articles/2019/11/16/82758-skolko-nuzhno-molchaniya
+**link:** [Сколько нужно молчания](2019/11/16/82758-skolko-nuzhno-molchaniya.md)
 
 Маша
 
@@ -115,7 +115,7 @@ tags: "акции протеста, протест, москва, домашне
 
 Убийцы должны быть за решеткой.
 
-**link:** https://novayagazeta.ru/articles/2019/11/25/82847-ya-tebya-seychas-suka-ubivat-budu
+**link:** [«Я тебя сейчас, сука, убивать буду»](2019/11/25/82847-ya-tebya-seychas-suka-ubivat-budu.md)
 
 Девушка, пожелавшая остаться анонимной
 

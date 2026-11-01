@@ -15,23 +15,23 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/11/28/1417187786_997208_33.png" style="width: 340px; height: 237px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/11/28/1417187786_997208_33.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/11/28/1417187786_997208_33.png)" style="width: 340px; height: 237px;"></td>
 		</tr>
 		<tr>
-			<td class="g-justify-right"><sup><em><a href="http://www.novayagazeta.ru/politics/66070.html" target="_blank">№ 128 от 14.11.2014</a></em></sup></td>
+			<td class="g-justify-right"><sup><em><a href="[http://www.novayagazeta.ru/politics/66070.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/66070.html)" target="_blank">№ 128 от 14.11.2014</a></em></sup></td>
 		</tr>
 		<tr>
-			<td class="g-justify-center"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/11/28/1417187701_575313_70.png" style="width: 251px; height: 300px;"></td>
+			<td class="g-justify-center"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/11/28/1417187701_575313_70.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/11/28/1417187701_575313_70.png)" style="width: 251px; height: 300px;"></td>
 		</tr>
 		<tr>
-			<td class="g-justify-right"><sup><em><a href="http://www.novayagazeta.ru/columns/66208.html" target="_blank">№ 132 от 24.11.2014</a></em></sup></td>
+			<td class="g-justify-right"><sup><em><a href="[http://www.novayagazeta.ru/columns/66208.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/66208.html)" target="_blank">№ 132 от 24.11.2014</a></em></sup></td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
 		</tr>
 	</tbody>]*
 
-**Через 10 дней после публикации моего интервью с ответственным секретарем Союза солдатских матерей (Валентина МЕЛЬНИКОВА: «Я спрашиваю, где уголовные дела по погибшим? Нет этих дел…». —  «Новая газета», [№ 128 от 14.11.2014](http://www.novayagazeta.ru/politics/66070.html)) в газете напечатаны «Возражения на некоторые критические выпады Валентины Мельниковой в адрес Минобороны» (см. «Новую», [№ 132 от 24.11.2014](http://www.novayagazeta.ru/columns/66208.html)). Автор — Валерий Ширяев, рубрика — «Полемика с переходом на личности».**
+**Через 10 дней после публикации моего интервью с ответственным секретарем Союза солдатских матерей (Валентина МЕЛЬНИКОВА: «Я спрашиваю, где уголовные дела по погибшим? Нет этих дел…». —  «Новая газета», [№ 128 от 14.11.2014](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/66070.html)) в газете напечатаны «Возражения на некоторые критические выпады Валентины Мельниковой в адрес Минобороны» (см. «Новую», [№ 132 от 24.11.2014](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/66208.html)). Автор — Валерий Ширяев, рубрика — «Полемика с переходом на личности».**
 
 Сразу скажу: с «полемикой» в тексте — не очень, а вот с «переходом на личности» — все в порядке. Вместо возражений по существу — воспоминания об офицерском прошлом, рассуждения о «личном неприязненном отношении Мельниковой к Шойгу» и стремление опорочить моего собеседника. Ну и, конечно, смертельная обида на нелестные «хмыри» и «офицерье».
 

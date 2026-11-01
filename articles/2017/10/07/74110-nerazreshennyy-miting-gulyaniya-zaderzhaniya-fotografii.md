@@ -35,7 +35,7 @@ tags: "смольный, навальный, избиение, задержан�
 
 *Один из участников акции в маске Путина. Марсово поле. Фото: Елена Лукьянова / «Новая газета в Петербурге»*
 
-**link:** https://novayagazeta.ru/articles/2017/10/07/74099-aktsii-storonnikov-navalnogo-v-desyatkah-gorodov-rossii
+**link:** [В Москве впервые без массовых задержаний — но не в Питере](2017/10/07/74099-aktsii-storonnikov-navalnogo-v-desyatkah-gorodov-rossii.md)
 
 ![](_assets/f0/f00d85bba138372b0984a0d35359ffc9.webp)
 
@@ -53,7 +53,7 @@ tags: "смольный, навальный, избиение, задержан�
 
 *В автозаке — Марина Букина, активист «Группа помощи задержанным». Фото: Елена Лукьянова / «Новая газета в Петербурге»*
 
-**link:** https://novayagazeta.ru/articles/2017/10/07/74104-rosgvardeets-udaril-menya-po-golove-dubinkoy-srazu-zhe-potekla-krov
+**link:** [«Росгвардеец ударил меня по голове дубинкой. Сразу же потекла кровь…»](2017/10/07/74104-rosgvardeets-udaril-menya-po-golove-dubinkoy-srazu-zhe-potekla-krov.md)
 
 ![](_assets/12/12c301f10fac0583ccb21b4d11e7fe7b.webp)
 
@@ -63,4 +63,4 @@ tags: "смольный, навальный, избиение, задержан�
 
 *Оцепление рядом с ТРЦ «Галерея». Фото: Елена Лукьянова / «Новая газета в Петербурге»*
 
-**link:** https://novayagazeta.ru/articles/2017/10/07/74103-gulyaniya-storonnikov-navalnogo-po-tverskoy-na-nesanktsionirovannoy-aktsii-fotografii
+**link:** [«Гуляния» сторонников Навального по Тверской на несогласованной акции](2017/10/07/74103-gulyaniya-storonnikov-navalnogo-po-tverskoy-na-nesanktsionirovannoy-aktsii-fotografii.md)

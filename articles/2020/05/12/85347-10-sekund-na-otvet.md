@@ -65,7 +65,7 @@ tags: "протесты, права человека, сериалы, интер
 
 Здесь нет, как в экзаменационных тестах, точного ответа. Каждый выбор — путь в неизведанное. В общем, все как в жизни.
 
-**link:** https://novayagazeta.ru/articles/2019/10/14/82360-pravozaschita-ne-udel-spetsialno-obuchennyh-lyudey
+**link:** [https://novayagazeta.ru/articles/2019/10/14/82360-pravozaschita-ne-udel-spetsialno-obuchennyh-lyudey](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/10/14/82360-pravozaschita-ne-udel-spetsialno-obuchennyh-lyudey)
 
 Жаль только, что сегодня, на пике проблем пандемии, кажется, что протестные проблемы и противостояние карательной системе — как плакаты и майки в защиту Голунова, которые мелькают в сериале — вчерашний день.
 

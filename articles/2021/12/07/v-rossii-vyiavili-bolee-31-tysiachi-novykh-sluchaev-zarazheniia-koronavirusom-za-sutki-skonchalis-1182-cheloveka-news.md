@@ -17,8 +17,8 @@ tags: "ng, COVID-19, коронавирус"
 
 За сутки скончались 1182 пациента с COVID-19, из них 94 — в Москве, 51 — в Петербурге, 52 — в Подмосковье. Всего с начала пандемии в стране, по данным оперативного штаба, умерли 283 644 человека с COVID.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/02/naskolko-strashen-omikron
+**Читайте также:** [Насколько страшен омикрон?](2021/12/02/naskolko-strashen-omikron.md)
 
-Более 90% случаев заражения штаммом «дельта» в России летом-осенью 2021 года пришлось на один вариант коронавируса — вариацию AY.122, [заявил](https://novayagazeta.ru/articles/2021/12/06/rospotrebnadzor-v-rossii-u-pribyvshikh-iz-iuar-zafiksirovali-dva-pervykh-sluchaia-zarazheniia-omikronom-news) один из авторов исследования российских ученых в MedRxiv, профессор Сколтеха Георгий Базыкин.
+Более 90% случаев заражения штаммом «дельта» в России летом-осенью 2021 года пришлось на один вариант коронавируса — вариацию AY.122, [заявил](2021/12/06/rospotrebnadzor-v-rossii-u-pribyvshikh-iz-iuar-zafiksirovali-dva-pervykh-sluchaia-zarazheniia-omikronom-news.md) один из авторов исследования российских ученых в MedRxiv, профессор Сколтеха Георгий Базыкин.
 
-Вариант AY.122 «дельты» появился в России в апреле 2021 года. Сейчас по всему миру распространился новый штамм короновируса — «омикрон». Роспотребнадзор накануне [сообщил](https://novayagazeta.ru/articles/2021/12/06/rospotrebnadzor-v-rossii-u-pribyvshikh-iz-iuar-zafiksirovali-dva-pervykh-sluchaia-zarazheniia-omikronom-news#), что у двух пациентов с положительным ПЦР-тестом, приехавших из ЮАР, подтвердили этот новый штамм.
+Вариант AY.122 «дельты» появился в России в апреле 2021 года. Сейчас по всему миру распространился новый штамм короновируса — «омикрон». Роспотребнадзор накануне [сообщил](2021/12/06/rospotrebnadzor-v-rossii-u-pribyvshikh-iz-iuar-zafiksirovali-dva-pervykh-sluchaia-zarazheniia-omikronom-news.md), что у двух пациентов с положительным ПЦР-тестом, приехавших из ЮАР, подтвердили этот новый штамм.

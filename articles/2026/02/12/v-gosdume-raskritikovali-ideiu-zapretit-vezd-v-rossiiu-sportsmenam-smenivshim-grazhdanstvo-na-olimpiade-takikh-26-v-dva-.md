@@ -29,4 +29,4 @@ tags: ""
 
 Сама Роднина регулярно опровергает наличие у нее американского гражданства, она всего лишь прожила и проработала в США 13 лет. В США у Родниной живет дочь.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/09/konkobezhets-skobrev-stavshii-memom-posle-priamoi-linii-s-putinym-v-2016-godu-pereekhal-v-ssha-on-avtor-dissertatsii-o-dukhovnosti-sportsmenov-news
+**Читайте также:** [Конькобежец Скобрев, ставший мемом после прямой линии с Путиным в 2016 году, переехал в США. Он автор диссертации о «духовности» спортсменов](2026/02/09/konkobezhets-skobrev-stavshii-memom-posle-priamoi-linii-s-putinym-v-2016-godu-pereekhal-v-ssha-on-avtor-dissertatsii-o-d.md)

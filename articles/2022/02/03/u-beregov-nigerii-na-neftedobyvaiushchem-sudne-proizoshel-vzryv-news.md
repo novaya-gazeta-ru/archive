@@ -19,4 +19,4 @@ tags: "взрыв, нефть, нигерия, sn"
 
 Trinity Spirit принадлежит нигерийской компании Shebah E&P. «Причина взрыва в настоящее время расследуется», — заверили ее представители.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/03/geopolitika-sdetonirovala
+**Читайте также:** [Геополитика сдетонировала](2021/08/03/geopolitika-sdetonirovala.md)

@@ -33,7 +33,7 @@ tags: "дипломатия, реакция, украина, сирия, хим�
 
 *Фото: Evan Vucci / AP / TASS*
 
-**link:** https://novayagazeta.ru/articles/2018/09/14/77831-tramp-nanosit-dvoynoy-udar
+**link:** [Трамп наносит «двойной удар»](2018/09/14/77831-tramp-nanosit-dvoynoy-udar.md)
 
 Документ состоит из двух частей и предлагает новые, по сравнению с прошлой редакцией, меры:
 

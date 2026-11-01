@@ -17,6 +17,6 @@ tags: ""
 
 **Наши корреспонденты — на месте событий.** \
 \
-[Химкинский лес: хроника событийНаталия Зотова,Елена Костюченко](https://novayagazeta.ru/society/2444.html)\
+[Химкинский лес: хроника событийНаталия Зотова,Елена Костюченко](https://web.archive.org/web/*/https://novayagazeta.ru/society/2444.html)\
 \
-[Погром: хроника событийНикита Гирин](https://novayagazeta.ru/society/2445.html)
+[Погром: хроника событийНикита Гирин](https://web.archive.org/web/*/https://novayagazeta.ru/society/2445.html)

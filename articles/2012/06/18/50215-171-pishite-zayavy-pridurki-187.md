@@ -17,14 +17,14 @@ tags: ""
 		<tr>
 			<td>
 				<p class="g-justify-right">
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/06/18/1340015148_740832_22.jpg" style="width: 302px; height: 310px; "><br>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/06/18/1340015148_740832_22.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/06/18/1340015148_740832_22.jpg)" style="width: 302px; height: 310px; "><br>
 					<sup>Александр Босых</sup></p>
 			</td>
 		</tr>
 		<tr>
 			<td class="g-justify-left">
 				<p class="g-justify-right">
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/03/15/1331841266_812516_23.jpg" style="width: 302px; height: 209px; "><br>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/03/15/1331841266_812516_23.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/03/15/1331841266_812516_23.jpg)" style="width: 302px; height: 209px; "><br>
 					<sup>14 марта. У здания Мосгорсуда. Александр Босых (слева) и Таисия Круговых. Фото ИТАР-ТАСС</sup></p>
 				<p>
 					&nbsp;</p>

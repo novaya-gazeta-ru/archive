@@ -37,7 +37,7 @@ tags: "дутерте, филиппины, мария ресса, нобелев
 
 Спустя несколько месяцев Комиссия по ценным бумагам и биржам Филиппин [отозвала](https://www.rappler.com/nation/maria-ressa-board-directors-charged-anti-dummy-law-violation-march-2019) лицензию Rappler, что многие восприняли как удар по свободе прессы в стране. Правозащитные организации назвали это решение политически мотивированным и обвинили администрацию Дутерте в попытке заглушить критику действующей власти. В итоге редакция оспорила решение в суде, сайт продолжает работать до сих пор.
 
-В 2018-м журнал Time [включил](https://novayagazeta.ru/articles/2018/12/13/78926-horoshie-lyudi-goda) Ресса в список журналистов года.
+В 2018-м журнал Time [включил](2018/12/13/78926-horoshie-lyudi-goda.md) Ресса в список журналистов года.
 
 ![](_assets/cf/cf9a892455a58f07428080278d75345f.webp)
 
@@ -59,12 +59,12 @@ tags: "дутерте, филиппины, мария ресса, нобелев
 
 В интервью Rappler Мария Ресса [заявила](https://www.rappler.com/world/global-affairs/interview-maria-ressa-nobel-peace-prize-laureate-2021), что Нобелевская премия — это заслуга всего издания, а не только ее личная.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/08/glavnyi-redaktor-novoi-gazety-dmitrii-muratov-i-filippinskaia-zhurnalistka-mariia-resa-stali-laureatami-nobelevskoi-premii-mira-news
+**Читайте также:** [Главный редактор «Новой газеты» Дмитрий Муратов и филиппинская журналистка Мария Ресса стали лауреатами Нобелевской премии мира](2021/10/08/glavnyi-redaktor-novoi-gazety-dmitrii-muratov-i-filippinskaia-zhurnalistka-mariia-resa-stali-laureatami-nobelevskoi-prem.md)
 
 «Мы сражаемся за факты, и когда мы живем в мире, где факты бывают спорными, когда крупнейшие дистрибьюторы новостей отдают приоритет лжи, злобе и ненависти, публикуя их быстрее фактов, тогда журналистика становится активизмом, — отметила она. — Это то самое изменение, через которое мы прошли в Rappler».
 
 «Журналистика никогда не была так важна, как сейчас», — сказала Мария Ресса, отметив важность проверки фактов в борьбе с коронавирусом и изменениями климата.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/08/vsia-novaia-gazeta-i-vse-kto-tam-rabotal-i-rabotaet-zhivye-i-ubitye-eto-ikh-premiia
+**Читайте также:** [Вся «Новая газета» и все, кто там работал и работает. Живые и убитые. Это их премия](2021/10/08/vsia-novaia-gazeta-i-vse-kto-tam-rabotal-i-rabotaet-zhivye-i-ubitye-eto-ikh-premiia.md)
 
 * **Елизавета Павлюк — для «Новой»* **

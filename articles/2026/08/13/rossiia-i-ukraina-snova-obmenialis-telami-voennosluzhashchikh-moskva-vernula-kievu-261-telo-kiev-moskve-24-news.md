@@ -13,7 +13,7 @@ tags: ""
 
 > **Есть продолжение**
 >
-> ### [Беларусь рассказала об обмене гражданскими между Россией и Украиной. В Россию вернулись 8 человек, в Украину — 7](https://novayagazeta.ru/articles/2026/08/13/belarus-rasskazala-ob-obmene-grazhdanskimi-mezhdu-rossiei-i-ukrainoi-v-rossiiu-vernulis-8-chelovek-v-ukrainu-7-news)
+> ### [Беларусь рассказала об обмене гражданскими между Россией и Украиной. В Россию вернулись 8 человек, в Украину — 7](2026/08/13/belarus-rasskazala-ob-obmene-grazhdanskimi-mezhdu-rossiei-i-ukrainoi-v-rossiiu-vernulis-8-chelovek-v-ukrainu-7-news.md)
 
 Новый гуманитарный обмен телами погибших между Россией и Украиной по формуле 261 на 24 [подтвердил](https://www.rbc.ru/politics/13/08/2026/6a7d7e8f9a794769118fc921) РБК Шамсаил Саралиев, член российской парламентской группы по вопросам СВО.
 

@@ -172,4 +172,4 @@ tags: "искусственный интеллект, технологии, пу
 
 — Ну… если очень нужно… я могу.
 
-**link:** https://novayagazeta.ru/articles/2017/08/05/73349-on-i-ona-stsena-na-dne-baykala
+**link:** [Он и она. Сцена на дне Байкала](2017/08/05/73349-on-i-ona-stsena-na-dne-baykala.md)

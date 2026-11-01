@@ -21,4 +21,4 @@ tags: "вакцинация, россия, европа, em"
 
 LCI обратил внимание, что Fazze.com входит в холдинг Adnow International — маркетинговую платформу, основанную россиянином Владимиром Башкиным. Впоследствии аккаунты сотрудников в LinkedIn были удалены, а Fazze.com и Adnow International на запросы СМИ не ответили.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/01/20/88796-gonka-ukolov
+**Читайте также:** [https://novayagazeta.ru/articles/2021/01/20/88796-gonka-ukolov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/01/20/88796-gonka-ukolov)

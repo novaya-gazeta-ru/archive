@@ -18,4 +18,4 @@ tags: ""
  Возможно, внутри —\
  Всего лишь рыба.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/22/kuda-ukhodiat-poezda
+**Читайте также:** [Куда уходят поезда](2025/03/22/kuda-ukhodiat-poezda.md)

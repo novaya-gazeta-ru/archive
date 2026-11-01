@@ -39,4 +39,4 @@ tags: ""
 
 Семьеведение не является обязательным предметом, его [преподают в рамках «Разговора о важном»](https://edu.gov.ru/press/8303/s-novogo-uchebnogo-goda-v-shkolah-budet-vveden-kurs-vneurochnyh-zanyatiy-semevedenie/) старшим подросткам. Нина Останина предлагает [сделать его обязательным](https://www.rbc.ru/life/news/67e6980a9a7947f7e971a986) для всех школьников.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/26/uzakonennaia-pedofiliia
+**Читайте также:** [Узаконенная педофилия](2025/03/26/uzakonennaia-pedofiliia.md)

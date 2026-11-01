@@ -17,4 +17,4 @@ tags: "москва, телефонные террористы, новая га�
 
 Подозрительных предметов не обнаружили, сотрудники вернулись на свои рабочие места.
 
-**link:** https://novayagazeta.ru/news/2017/09/27/135633-zdanie-redaktsii-novoy-gazety-evakuirovali-posle-anonimnogo-zvonka-o-bombe
+**link:** [https://novayagazeta.ru/news/2017/09/27/135633-zdanie-redaktsii-novoy-gazety-evakuirovali-posle-anonimnogo-zvonka-o-bombe](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/09/27/135633-zdanie-redaktsii-novoy-gazety-evakuirovali-posle-anonimnogo-zvonka-o-bombe)

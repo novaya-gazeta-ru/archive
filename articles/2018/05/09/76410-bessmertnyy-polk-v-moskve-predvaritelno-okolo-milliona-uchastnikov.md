@@ -65,4 +65,4 @@ tags: "9 мая, шествия, праздник, бессмертный пол
 
 *Фото: Виталий Кавтарадзе / специально для «Новой»*
 
-**link:** https://novayagazeta.ru/articles/2018/05/04/76367-moskvichi-i-tanki-repetitsiya-parada-pobedy-na-tverskoy-ulitse
+**link:** [https://novayagazeta.ru/articles/2018/05/04/76367-moskvichi-i-tanki-repetitsiya-parada-pobedy-na-tverskoy-ulitse](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2018/05/04/76367-moskvichi-i-tanki-repetitsiya-parada-pobedy-na-tverskoy-ulitse)

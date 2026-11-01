@@ -19,9 +19,9 @@ tags: "сша, кадыров, список магнитского"
 
 Санкции введены также против главы отдела МВД России по городу Аргун Аюба Катаева, Юлии Майоровой, Андрея Павлова и Алексея Шешени.
 
-В апреле этого года «Новая газета» [писала](https://www.novayagazeta.ru/articles/2017/04/04/72027-raspravy-nad-chechenskimi-geyami-publikuem-svidetelstva), что Катаев имеет отношение к пыткам геев в «тайной тюрьме». Глава РОВД Аргуна свою вину отрицал.
+В апреле этого года «Новая газета» [писала](2017/04/04/72027-raspravy-nad-chechenskimi-geyami-publikuem-svidetelstva.md), что Катаев имеет отношение к пыткам геев в «тайной тюрьме». Глава РОВД Аргуна свою вину отрицал.
 
-**link:** https://novayagazeta.ru/articles/2017/07/31/73298-rossiyskaya-lgbt-set-utverzhdaet-na-severnom-kavkaze-soversheny-desyatki-ubiystv-geev
+**link:** [«Российская ЛГБТ-сеть»: на Северном Кавказе совершены десятки убийств геев](2017/07/31/73298-rossiyskaya-lgbt-set-utverzhdaet-na-severnom-kavkaze-soversheny-desyatki-ubiystv-geev.md)
 
 Напомним, что «акт Магнитского» был принят властями США в декабре 2012 года после смерти юриста фонда Hermitage Capital Сергея Магнитского.
 

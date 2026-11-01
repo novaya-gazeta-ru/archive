@@ -11,9 +11,9 @@ tags: "послание, путин, россия"
 
 # 11 тезисов Владимира Путина из послания Федеральному собранию
 
-**link:** https://novayagazeta.ru/news/1698420.html
+**link:** [https://novayagazeta.ru/news/1698420.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1698420.html)
 
-**link:** https://novayagazeta.ru/news/1698420.html
+**link:** [https://novayagazeta.ru/news/1698420.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1698420.html)
 
 #1. Декриминализация экономических преступлений
 
@@ -41,9 +41,9 @@ tags: "послание, путин, россия"
 
 «Нужно ввести в оборот миллионы гектаров пашни, которые сейчас простаивают, находятся в руках крупных землевладельцев, причем заниматься сельским хозяйством многие из них не спешат», — считает глава государства.
 
-**link:** https://novayagazeta.ru/economy/70935.html
+**link:** [https://novayagazeta.ru/economy/70935.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/70935.html)
 
-**link:** https://novayagazeta.ru/economy/70935.html
+**link:** [https://novayagazeta.ru/economy/70935.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/70935.html)
 
 К 1 июня правительству поручено подготовить предложения, в том числе, соответствующие законопроекты. Депутатов попросили принять документ в осеннюю сессию 2016 года.
 
@@ -101,9 +101,9 @@ tags: "послание, путин, россия"
 
 «Ситуация, в которой есть признаки личной заинтересованности, конфликта интересов, мгновенно попадет в зону повышенного внимания контролирующих и правоохранительных органов. И конечно, гражданского общества», — считает Путин.
 
-**link:** https://novayagazeta.ru/inquests/70973.html
+**link:** [https://novayagazeta.ru/inquests/70973.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/70973.html)
 
-**link:** https://novayagazeta.ru/inquests/70973.html
+**link:** [https://novayagazeta.ru/inquests/70973.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/70973.html)
 
 В настоящее время чиновники обязаны представлять декларации о доходах и расходах, о наличии недвижимости и активов, в том числе зарубежных.
 

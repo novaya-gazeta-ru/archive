@@ -101,7 +101,7 @@ tags: "бездомные, благотворительность, москва,
 
 — Да, знаем… Надеемся, что теперь, может, кто-то другой встанет у руля и будет дальше рулить. Женщины не должны остаться без помощи.
 
-**link:** https://novayagazeta.ru/articles/2016/12/25/71025-vmesto-proschay-liza-glinka-ya-rabotayu-s-otverzhennymi-i-predannymi-i-ne-vse-menya-v-etom-ponimayut
+**link:** [Лиза Глинка: «Я работаю с отверженными и преданными. И не все меня в этом понимают»](2016/12/25/71025-vmesto-proschay-liza-glinka-ya-rabotayu-s-otverzhennymi-i-predannymi-i-ne-vse-menya-v-etom-ponimayut.md)
 
 Поздравив всех с Новым годом, мы прощаемся. Владимир протягивает ладонь:
 

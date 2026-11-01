@@ -39,4 +39,4 @@ tags: ""
 
 11 декабря Украина ударила ракетами ATACMS по Таганрогу. Россия ударила по критически важным объектам инфраструктуры Украины.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/12/kiev-udaril-raketami-atacms-po-aerodromu-v-taganroge-i-dronom-po-kazarme-chechenskoi-politsii-v-groznom-v-oboikh-sluchaiakh-est-ranenye-news
+**Читайте также:** [Киев ударил ракетами ATACMS по аэродрому в Таганроге и дроном по казарме чеченской полиции в Грозном. В обоих случаях есть раненые](2024/12/12/kiev-udaril-raketami-atacms-po-aerodromu-v-taganroge-i-dronom-po-kazarme-chechenskoi-politsii-v-groznom-v-oboikh-sluchai.md)

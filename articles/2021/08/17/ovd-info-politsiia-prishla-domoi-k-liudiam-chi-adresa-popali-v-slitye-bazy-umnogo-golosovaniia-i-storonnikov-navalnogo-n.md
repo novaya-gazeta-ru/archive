@@ -19,12 +19,12 @@ tags: "фбк, донаты, база, слив, полиция, kn"
 
 Полиция также приходила с визитом к спецкору «Новой газеты» Илье Азару, чей адрес также попал в утекшие базы. С чем связан визит — доподлинно неизвестно. Журналиста в этот момент не было дома.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/04/16/baza-volkova
+**Читайте также:** [«База Волкова»](2021/04/16/baza-volkova.md)
 
-База участников митинга «Свободу Навальному» [попала](https://novayagazeta.ru/articles/2021/04/16/v-internete-poiavilas-baza-elektronnykh-adresov-zaregistrirovavshikhsia-na-aktsiiu-svobodu-navalnomu) в Сеть в апреле этого года. Команда Навального тогда[заявила](https://novayagazeta.ru/articles/2021/05/31/komanda-navalnogo-obvinila-eks-sotrudnika-v-utechke-dannykh-storonnikov-politika-on-svoiu-prichastnost-k-slivu-otritsaet), что данные за вознаграждение якобы слил их бывший коллега Федор Горожанко. Горожанко [отрицал](https://novayagazeta.ru/articles/2021/06/02/nekrasivaia-istoriia) причастность к утечке. В некоторых случаях сотрудников госпредприятий, попавших в базу, [увольняли](https://novayagazeta.ru/articles/2021/05/18/metropoliten-ne-nuzhdaetsia-v-takikh-rabotnikakh) с работы.
+База участников митинга «Свободу Навальному» [попала](2021/04/16/v-internete-poiavilas-baza-elektronnykh-adresov-zaregistrirovavshikhsia-na-aktsiiu-svobodu-navalnomu.md) в Сеть в апреле этого года. Команда Навального тогда[заявила](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/05/31/komanda-navalnogo-obvinila-eks-sotrudnika-v-utechke-dannykh-storonnikov-politika-on-svoiu-prichastnost-k-slivu-otritsaet), что данные за вознаграждение якобы слил их бывший коллега Федор Горожанко. Горожанко [отрицал](2021/06/02/nekrasivaia-istoriia.md) причастность к утечке. В некоторых случаях сотрудников госпредприятий, попавших в базу, [увольняли](2021/05/18/metropoliten-ne-nuzhdaetsia-v-takikh-rabotnikakh.md) с работы.
 
 Слив базы данных зарегистрированных на «Умное голосование» москвичей [произошел](https://tjournal.ru/flood/413718-sliv-bazy-dannyh-umnogo-golosovaniya) в июле. IT-энтузиасты [указывали](https://habr.com/ru/post/568842/) команде Навального, что сайт голосования имел уязвимости, через которые «украсть» данные было несложно.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/02/nekrasivaia-istoriia
+**Читайте также:** [Некрасивая история](2021/06/02/nekrasivaia-istoriia.md)
 
 После признания ФБК экстремистской организацией финансовая поддержка команды Навального может преследоваться в России по закону. При этом в ФБК заявили, что протестировали «безопасную» систему сбора пожертвований. Основатель сервиса RedShieldVPN Владислав Здольников [нашел](https://t.me/itsorm2/102) в новой системе сбора донатов проблемы с анонимностью — сервис добавляет в отчет о платеже данные о том, через какой сайт и куда совершена транзакция. «К сожалению, будут уголовные дела. Они не могли не знать. Я не понимаю, зачем врать в таких вещах. Они-то в безопасности, но зачем врать жертвователям?» — написал Здольников.

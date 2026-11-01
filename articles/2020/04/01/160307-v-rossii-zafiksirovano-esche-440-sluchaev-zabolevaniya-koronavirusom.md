@@ -19,4 +19,4 @@ tags: "коронавирус, nt"
 
 В штабе подчеркнули, что Москве почти половина новых заболевших – 117 человек — в возрасте от 18 до 45 лет, еще 29 заразившихся — дети.
 
-**link:** https://novayagazeta.ru/articles/2020/04/01/84629-prichiny-italyanskoy-katastrofy
+**link:** [Причины итальянской катастрофы](2020/04/01/84629-prichiny-italyanskoy-katastrofy.md)

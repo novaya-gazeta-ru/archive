@@ -17,6 +17,6 @@ tags: "em, навальный, прокурор, госзащита"
 
 Сегодня Лефортовский районный суд Москвы на выездном заседании в покровской исправительной колонии №2, где находится Навальный после замены условного срока на реальный по делу «Ив Роше», начал рассматривать новое дело против политика. Ему вменяется в вину мошенничество (ч. 4 ст. 159 УК) и оскорбление судьи Веры Акимовой (ч. 1, ч. 2 ст. 297 УК). В общей сложности в деле шесть эпизодов.
 
-Следующее заседание [состоится](https://novayagazeta.ru/articles/2022/02/15/sud-naznachil-zasedanie-po-delu-navalnogo-na-21-fevralia-chtoby-dat-politiku-vremia-na-dlitelnoe-svidanie-s-zhenoi-news) 21 февраля. Суд учел, что 16 февраля у Навального назначено свидание с женой, поэтому решил продолжить рассмотрение дела через неделю.
+Следующее заседание [состоится](2022/02/15/sud-naznachil-zasedanie-po-delu-navalnogo-na-21-fevralia-chtoby-dat-politiku-vremia-na-dlitelnoe-svidanie-s-zhenoi-news.md) 21 февраля. Суд учел, что 16 февраля у Навального назначено свидание с женой, поэтому решил продолжить рассмотрение дела через неделю.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/15/aleksei-i-iuliia-navalnye-vstretilis-v-kolonii-na-zasedanii-vyezdnogo-suda-fotografiia
+**Читайте также:** [Алексей и Юлия Навальные встретились в колонии на заседании выездного суда. Фотография](2022/02/15/aleksei-i-iuliia-navalnye-vstretilis-v-kolonii-na-zasedanii-vyezdnogo-suda-fotografiia.md)

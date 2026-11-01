@@ -31,4 +31,4 @@ tags: "дом с маяком, лида мониава, марина власо�
 
 Марина Власова рассказывает о работе фонда, волонтерах, донорах и о том, почему даже небольшое регулярное пожертвование имеет значение.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/15/dom-s-maiakom-spas-moemu-synu-zhizn-on-uzhe-shkolu-zakonchil
+**Читайте также:** [«Дом с маяком» спас моему сыну жизнь, он уже школу закончил»](2026/09/15/dom-s-maiakom-spas-moemu-synu-zhizn-on-uzhe-shkolu-zakonchil.md)

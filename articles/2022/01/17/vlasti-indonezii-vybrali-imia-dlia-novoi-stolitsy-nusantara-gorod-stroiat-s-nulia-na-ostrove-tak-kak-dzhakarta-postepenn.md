@@ -23,4 +23,4 @@ tags: "индонезия, столица, джакарта, города, sf"
 
 Предполагается, что город Джакарта, в котором проживают более 10 млн человек, [останется](http://www.xinhuanet.com/english/asiapacific/20220117/63749d34f4a54c34bb218eb8688c14e6/c.html) деловым и экономическим центром Индонезии.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/04/v-indonezii-prosnulsia-vulkan-semeru-odin-chelovek-pogib-desiatki-postradali-video
+**Читайте также:** [В Индонезии проснулся вулкан Семеру, один человек погиб, десятки пострадали. Видео](2021/12/04/v-indonezii-prosnulsia-vulkan-semeru-odin-chelovek-pogib-desiatki-postradali-video.md)

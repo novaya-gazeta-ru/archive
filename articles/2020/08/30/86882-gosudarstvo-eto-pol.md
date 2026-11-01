@@ -109,7 +109,7 @@ tags: "трансгендер, лгбт"
 
 Я это читала и заплакала, от своих родителей я никогда бы такую поддержку не получила.
 
-**link:** https://novayagazeta.ru/news/2020/07/18/163116-v-peterburge-nachalis-zaderzhaniya-na-piketah-protiv-popravok-mizulinoy-ogranichivayuschih-prava-odnopolyh-par-i-transgenderov
+**link:** [https://novayagazeta.ru/news/2020/07/18/163116-v-peterburge-nachalis-zaderzhaniya-na-piketah-protiv-popravok-mizulinoy-ogranichivayuschih-prava-odnopolyh-par-i-transgenderov](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/07/18/163116-v-peterburge-nachalis-zaderzhaniya-na-piketah-protiv-popravok-mizulinoy-ogranichivayuschih-prava-odnopolyh-par-i-transgenderov)
 
 ### Миша
 
@@ -177,7 +177,7 @@ tags: "трансгендер, лгбт"
 
 С работы я просто уволился. Я был барменом в тренажерном зале. Если бы там начал переход, меня бы не поняли. Пошел на другую. Думал, там с чистого листа начну, но ничего не получилось.
 
-**link:** https://novayagazeta.ru/articles/2020/08/03/86504-novaya-etika-dlya-vseh-krasnaya-tryapka-seychas
+**link:** [«Новая этика» — для всех красная тряпка сейчас»](2020/08/03/86504-novaya-etika-dlya-vseh-krasnaya-tryapka-seychas.md)
 
 Паспорт женский, а внешность — нет, тогда уже были заметны изменения. На первом месяце прекращается цикл. На втором — начинает ломаться голос. На третьем — чуть повышается растительность на ногах.
 

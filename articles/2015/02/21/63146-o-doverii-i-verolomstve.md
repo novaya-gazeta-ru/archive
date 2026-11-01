@@ -63,9 +63,9 @@ tags: ""
 
 Так вот, подобный уклад вел к необыкновенной сплоченности, позволявшей выигрывать любые битвы. Сразу после примирения со своим братом Роберт отправился на Сицилию во главе 300 (трехсот, прописью) бойцов.
 
-**link:** https://novayagazeta.ru/arts/67159.html
+**link:** [https://novayagazeta.ru/arts/67159.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/67159.html)
 
-**link:** https://novayagazeta.ru/arts/67159.html
+**link:** [https://novayagazeta.ru/arts/67159.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/67159.html)
 
 # Георгий Маниак
 

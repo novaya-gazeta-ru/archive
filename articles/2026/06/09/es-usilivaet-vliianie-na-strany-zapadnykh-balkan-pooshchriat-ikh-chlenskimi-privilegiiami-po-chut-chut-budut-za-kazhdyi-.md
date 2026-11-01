@@ -45,4 +45,4 @@ tags: ""
 
 Новая политика ЕС к Балканам может стать в дальнейшем моделью для Украины и Молдовы. Кто знает, может, и Армении.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/02/serbiia-vnov-nachala-voennye-ucheniia-s-zapadnoi-koalitsiei-mesiats-nazad-byli-manevry-s-nato-a-s-rossiei-poslednii-raz-v-2021-godu-news
+**Читайте также:** [Сербия вновь начала военные учения с западной коалицией, месяц назад были маневры с НАТО. А с Россией последний раз — в 2021 году](2026/06/02/serbiia-vnov-nachala-voennye-ucheniia-s-zapadnoi-koalitsiei-mesiats-nazad-byli-manevry-s-nato-a-s-rossiei-poslednii-raz-.md)

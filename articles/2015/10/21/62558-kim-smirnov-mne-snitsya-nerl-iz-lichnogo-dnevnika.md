@@ -99,7 +99,7 @@ _«Есть церкви — вроде тыкв и палиц. А Нерль п
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/01/07/1420656928_720281_85.jpg" style="width: 330px; height: 490px; float: right;"><span>Последний кадр. Снимок, подаренный Димой Вишневским, мне особенно дорог. Он сделан 9 Мая, после схода большой воды</span></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/01/07/1420656928_720281_85.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/01/07/1420656928_720281_85.jpg)" style="width: 330px; height: 490px; float: right;"><span>Последний кадр. Снимок, подаренный Димой Вишневским, мне особенно дорог. Он сделан 9 Мая, после схода большой воды</span></td>
 		</tr>
 	</tbody>]*
 

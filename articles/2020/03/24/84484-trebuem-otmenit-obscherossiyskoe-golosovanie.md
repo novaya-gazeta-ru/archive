@@ -29,7 +29,7 @@ tags: "россия, пандемия, голосование, поправки 
 
 Мы уверены, что эти предложения скоро будут востребованы народом России.
 
-**link:** https://novayagazeta.ru/articles/2020/03/11/84262-nesmenyaemost-putina-uzurpatsiya-vlasti
+**link:** [Несменяемость Путина — узурпация власти](2020/03/11/84262-nesmenyaemost-putina-uzurpatsiya-vlasti.md)
 
 Учредители Общественного конституционного совета:
 

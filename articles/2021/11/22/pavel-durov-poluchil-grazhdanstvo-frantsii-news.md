@@ -31,4 +31,4 @@ tags: "дуров, франция, гражданство, телеграм, в�
 
 К 2021 году состояние Дурова [достигло](https://www.forbes.ru/milliardery/430473-deti-pavla-durova-vpervye-voshli-v-reyting-bogateyshih-naslednikov-forbes) 17,2 млрд долларов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/24/vpriaglis-v-telegu
+**Читайте также:** [Впряглись в «телегу»](2021/03/24/vpriaglis-v-telegu.md)

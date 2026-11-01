@@ -17,4 +17,4 @@ tags: "нефть, опек+, новак, sf"
 
 По [словам](https://tass.ru/ekonomika/10839127) вице-премьера Александра Новака, рост цен на нефть на 5% после решения ОПЕК+ свидетельствует о постепенном восстановлении рынка.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/03/19/84399-pochemu-za-torgovuyu-voynu-s-saudovskoy-araviey-zaplatit-rossiyskoe-naselenie
+**Читайте также:** [ОПЕК живет три года](2020/03/19/84399-pochemu-za-torgovuyu-voynu-s-saudovskoy-araviey-zaplatit-rossiyskoe-naselenie.md)

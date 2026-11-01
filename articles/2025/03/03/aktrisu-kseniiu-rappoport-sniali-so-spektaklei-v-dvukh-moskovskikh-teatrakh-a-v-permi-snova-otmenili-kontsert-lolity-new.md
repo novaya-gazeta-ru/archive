@@ -31,6 +31,6 @@ tags: ""
 
 Но в 2024 году концерты Лолиты в Перми и других городах уже отменяли. Причина: участие в злосчастной «голой вечеринке» и недостаточное раскаяние после нее.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/06/molis-i-kaisia
+**Читайте также:** [Молись и кайся&nbsp;](2025/02/06/molis-i-kaisia.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/16/kamufliazhnaia-shapochka-u-kotoroi-pirozhki-isportilis
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/16/kamufliazhnaia-shapochka-u-kotoroi-pirozhki-isportilis](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/16/kamufliazhnaia-shapochka-u-kotoroi-pirozhki-isportilis)

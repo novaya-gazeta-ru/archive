@@ -86,4 +86,4 @@ tags: ""
 
 Это было только начало, в котором многое неизвестно. Но в котором хотелось сделать шаг и пойти дальше. Туда, в тихое место. Где начинало светать.
 
-**Слушайте также:** https://novayagazeta.ru/articles/2024/11/17/kak-ne-poteriat-doverie-k-bogu-v-minuty-otchaianiia
+**Слушайте также:** [Как не потерять доверие к Богу в минуты отчаяния](2024/11/17/kak-ne-poteriat-doverie-k-bogu-v-minuty-otchaianiia.md)

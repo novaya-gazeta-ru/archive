@@ -41,9 +41,9 @@ tags: "ле пен, националисты, франция"
 
 Ле Пена-старшего обвинили в том, что он назвал внучку, которую партия выдвинула кандидатом на региональных выборах в декабре, неопытной и неспособной управлять таким регионом как Прованс-Альпы-Лазурный берег.
 
-**link:** https://novayagazeta.ru/politics/68001.html
+**link:** [https://novayagazeta.ru/politics/68001.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/68001.html)
 
-**link:** https://novayagazeta.ru/politics/68001.html
+**link:** [https://novayagazeta.ru/politics/68001.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/68001.html)
 
 К тому же, старик Ле Пен грозится, что выставит свою кандидатуру против внучкиной.
 

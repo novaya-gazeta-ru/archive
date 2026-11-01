@@ -15,8 +15,8 @@ tags: "обложка дня, лукашенко, протасевич"
 
 ![](_assets/3f/3f20ab7a485d85c3d006c5a5429200e2.webp)
 
-*Таким будет выпуск «Новой газеты» 26 мая 2021 года. Рисунок Петра Саруханова / «Новая газета». Ищите в киосках городов или заказывайте в нашем отделе распространения [по подписке](https://novayagazeta.ru/subscription).*
+*Таким будет выпуск «Новой газеты» 26 мая 2021 года. Рисунок Петра Саруханова / «Новая газета». Ищите в киосках городов или заказывайте в нашем отделе распространения [по подписке](https://web.archive.org/web/*/https://novayagazeta.ru/subscription).*
 
-— Европа [разрывает с Беларусью отношения](https://novayagazeta.ru/articles/2021/05/25/ni-deneg-ni-samoletov). — [Даже боевики ХАМАС](https://novayagazeta.ru/articles/2021/05/25/nekie-sily-reshili-nas-obolgat) не хотят ассоциировать себя с Лукашенко. — Россия пока [поддерживает, но стиснув зубы](https://novayagazeta.ru/articles/2021/05/25/diktatora-na-passazhira-ne-meniaem). — [Стенограмма переговоров](https://novayagazeta.ru/articles/2021/05/25/otkuda-prishla-rekomendatsiia-perenapravit-nas-v-minsk) рейса Ryanair с минскими диспетчерами перед разворотом на Минск.
+— Европа [разрывает с Беларусью отношения](2021/05/25/ni-deneg-ni-samoletov.md). — [Даже боевики ХАМАС](2021/05/25/nekie-sily-reshili-nas-obolgat.md) не хотят ассоциировать себя с Лукашенко. — Россия пока [поддерживает, но стиснув зубы](2021/05/25/diktatora-na-passazhira-ne-meniaem.md). — [Стенограмма переговоров](2021/05/25/otkuda-prishla-rekomendatsiia-perenapravit-nas-v-minsk.md) рейса Ryanair с минскими диспетчерами перед разворотом на Минск.
 
-**А еще смотрите в нашем стриме:** https://novayagazeta.ru/articles/2021/05/25/zakhvat-samoleta-s-eks-glavredom-nexta-politicheskie-presledovaniia-v-2021
+**А еще смотрите в нашем стриме:** [Захват самолета с экс-главредом NEXTA, политические преследования в 2021](2021/05/25/zakhvat-samoleta-s-eks-glavredom-nexta-politicheskie-presledovaniia-v-2021.md)

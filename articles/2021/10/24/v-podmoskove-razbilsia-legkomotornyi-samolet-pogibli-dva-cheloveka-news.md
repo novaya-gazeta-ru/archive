@@ -17,4 +17,4 @@ tags: ""
 
 По данным «Известий», самолет вылетел с аэродрома «Ватулино» и рухнул у аэроклуба «Аэроклассика», после падения он загорелся. Погибли пилот и пассажирка.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/10/tragediia-sluchilas-po-mnogochislennym-prosbam
+**Читайте также:** [Трагедия случилась «по многочисленным просьбам»](2021/10/10/tragediia-sluchilas-po-mnogochislennym-prosbam.md)

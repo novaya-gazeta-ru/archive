@@ -23,4 +23,4 @@ tags: ""
 
 Неделю назад глава ЦБ Эльвира Набиуллина рассказывала, что стоимость квартир в России выросла в два раза, став малодоступной, как раз из-за льготных правительственных программ. Льготы перегрели рынок, но темы строительства выросли всего на 10%. В итоге жилье стало еще более недоступным.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/06/28/prodaem-pravo-zhit-v-kredit-dorogo
+**Читайте также:** [https://novayagazeta.ru/articles/2024/06/28/prodaem-pravo-zhit-v-kredit-dorogo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/06/28/prodaem-pravo-zhit-v-kredit-dorogo)

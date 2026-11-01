@@ -31,4 +31,4 @@ tags: ""
 
 Были арестованы директор шахты Махраков и его зам Молоствов, начальник участка Герасименок. Они сидели в СИЗО.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/27/pomianem-patsanov-i-vse-poidem-dalshe-spuskatsia
+**Читайте также:** [«Помянем пацанов, и все. Пойдем дальше спускаться»](2021/11/27/pomianem-patsanov-i-vse-poidem-dalshe-spuskatsia.md)

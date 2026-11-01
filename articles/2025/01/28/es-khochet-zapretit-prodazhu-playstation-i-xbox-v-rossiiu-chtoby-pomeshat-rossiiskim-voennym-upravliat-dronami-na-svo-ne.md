@@ -17,8 +17,8 @@ tags: ""
 
 В 2024 году Путин поручал правительству рассмотреть вопрос о создании отечественного аналога PlayStation. Осенью глава Минпромторга Алиханов заявил, что прототипы российской игровой консоли якобы [уже существуют](https://tass.ru/ekonomika/21775297), но государство пока не поддерживает их разработку.
 
-В конце прошлого года чиновники предложили [ввести идентификацию всех геймеров](https://novayagazeta.ru/articles/2024/12/12/vsled-za-prokatnymi-udostovereniiami-dlia-kompiuternykh-igr-vlasti-reshili-identifitsirovat-geimerov-a-steam-mogut-zablokirovat-news) через «Госуслуги». Перед этим Минпромторг высказал идею [ввести аналог «прокатных удостоверений»](https://novayagazeta.ru/articles/2024/11/25/minpromtorg-obsudil-vvedenie-prokatnogo-udostovereniia-dlia-kompiuternykh-igr-news) и для игр, как для кино.
+В конце прошлого года чиновники предложили [ввести идентификацию всех геймеров](2024/12/12/vsled-za-prokatnymi-udostovereniiami-dlia-kompiuternykh-igr-vlasti-reshili-identifitsirovat-geimerov-a-steam-mogut-zablo.md) через «Госуслуги». Перед этим Минпромторг высказал идею [ввести аналог «прокатных удостоверений»](2024/11/25/minpromtorg-obsudil-vvedenie-prokatnogo-udostovereniia-dlia-kompiuternykh-igr-news.md) и для игр, как для кино.
 
 Российские разработчики указывали, что из-за подобных ограничений отрасль может пострадать: разработчики-россияне, зарабатывающие в основном на зарубежных рынках, столкнутся с ответными санкциями.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/23/kuvalda-protiv-geimerov
+**Читайте также:** [Кувалда против геймеров](2025/01/23/kuvalda-protiv-geimerov.md)

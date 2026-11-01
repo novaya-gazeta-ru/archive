@@ -25,7 +25,7 @@ tags: "экология, камчатка"
 
 *Фото: Матвей Парамошин / «Гринпис»*
 
-**link:** https://novayagazeta.ru/articles/2020/10/03/87356-konechno-eto-ne-nefteprodukty
+**link:** [«Основная версия — утечка ракетного топлива»](2020/10/03/87356-konechno-eto-ne-nefteprodukty.md)
 
 ![](_assets/a6/a6abb28b736bcdae0025b27545198e4e.webp)
 

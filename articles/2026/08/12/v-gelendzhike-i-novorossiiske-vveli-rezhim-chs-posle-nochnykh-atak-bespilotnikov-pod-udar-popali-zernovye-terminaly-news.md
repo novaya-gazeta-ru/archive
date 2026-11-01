@@ -25,4 +25,4 @@ tags: "новороссийск, геленджик, режим чс, атаки
 
 -
 
-Financial Times сообщила, что вице-президент США Джей Ди Вэнс лично [попросил](https://novayagazeta.ru/articles/2026/08/12/zelenskii-po-prosbe-vensa-soglasilsia-prekratit-udary-po-tankeram-u-novorossiiska-ft-ataki-na-gorod-prodolzhaiutsia-est-pogibshie-otkliuchena-podacha-vody-news) президента Украины Владимира Зеленского прекратить удары по судам в районе порта в Новороссийске. Дело в том, что через Каспийский трубопроводный консорциум в основном экспортируется нефть из Казахстана, в том числе та, которую добывают американские компании.
+Financial Times сообщила, что вице-президент США Джей Ди Вэнс лично [попросил](2026/08/12/zelenskii-po-prosbe-vensa-soglasilsia-prekratit-udary-po-tankeram-u-novorossiiska-ft-ataki-na-gorod-prodolzhaiutsia-est-.md) президента Украины Владимира Зеленского прекратить удары по судам в районе порта в Новороссийске. Дело в том, что через Каспийский трубопроводный консорциум в основном экспортируется нефть из Казахстана, в том числе та, которую добывают американские компании.

@@ -99,4 +99,4 @@ tags: "симона вейль, дада, колыбельная для рейх
 
 **Макс Володин**
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/06/knigi-kotorye-dolzhny-byli-byt-napisany
+**Читайте также:** [Книги, которые должны были быть написаны](2026/06/06/knigi-kotorye-dolzhny-byli-byt-napisany.md)

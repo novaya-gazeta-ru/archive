@@ -21,8 +21,8 @@ tags: "ng, вино, шампанское"
 
 > Тем временем головной офис Moët Hennessy [подтвердил](https://t.me/rian_ru/107056) РИА Новости, что компания останавливает поставки шампанского в Россию из-за нового закона.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/04/11/84837-chego-boitsya-alkogolik-na-karantine
+**Читайте также:** [Чего боится алкоголик на карантине](2020/04/11/84837-chego-boitsya-alkogolik-na-karantine.md)
 
-Президент РФ Владимир Путин в начале июля подписал [закон](https://novayagazeta.ru/articles/2021/07/02/moet-hennessy-predupredila-o-nevozmozhnosti-postavok-shampanskogo-v-rossiiu-iz-za-initsiativ-gosdumy-distribiutory-opasaiutsia-chto-rf-zapretit-nazyvat-vino-iz-shampani-shampanskim), в котором понятие «шампанское» исключается из пунктов, в которых сейчас оно перечисляется как тождественное определению «игристое вино».
+Президент РФ Владимир Путин в начале июля подписал [закон](2021/07/02/moet-hennessy-predupredila-o-nevozmozhnosti-postavok-shampanskogo-v-rossiiu-iz-za-initsiativ-gosdumy-distribiutory-opasa.md), в котором понятие «шампанское» исключается из пунктов, в которых сейчас оно перечисляется как тождественное определению «игристое вино».
 
 В письме дистрибьютор французской компании Moët Hennessy сообщал, что теперь слово «шампанское» якобы разрешается использовать только для «российского шампанского», а производителям из французского региона Шампань придется «переименовать их продукцию в «игристое вино».

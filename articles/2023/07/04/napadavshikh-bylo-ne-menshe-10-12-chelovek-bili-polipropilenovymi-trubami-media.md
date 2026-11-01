@@ -15,4 +15,4 @@ tags: "нападение, чечня, кадыров"
 
 > **от редакции**
 >
-> ### [О нападении на нашего обозревателя Елену Милашину и адвоката Александра Немова](https://novayagazeta.ru/articles/2023/07/04/napadenie-na-zhurnalistku-novoi-elenu-milashinu-i-advokata-aleksandra-nemova-glavnoe)
+> ### [О нападении на нашего обозревателя Елену Милашину и адвоката Александра Немова](2023/07/04/napadenie-na-zhurnalistku-novoi-elenu-milashinu-i-advokata-aleksandra-nemova-glavnoe.md)

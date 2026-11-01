@@ -183,6 +183,6 @@ tags: "отмена реабилитации , гулаг, руденко, ве�
 
 Подумать только: шесть с половиной миллионов только реабилитированных!
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/02/memento-shory
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/02/memento-shory](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/02/memento-shory)
 
 #### * Внесен Минюстом РФ в реестр «иноагентов» и ликвидирован.

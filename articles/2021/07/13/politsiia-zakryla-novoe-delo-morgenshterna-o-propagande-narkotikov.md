@@ -19,8 +19,8 @@ tags: "ng, моргенштерн, наркотики"
 
 Дело было возбуждено после поданной в УВД по ВАО Москвы жалобы на размещенные в интернете клипы песен «Виски на завтрак», «Smoke», «Я курю» и «Красное вино фристайл».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/05/21/uznali-sistemu-iznutri-i-nachali-ogryzatsia
+**Читайте также:** [«Узнали систему изнутри и начали огрызаться»](2021/05/21/uznali-sistemu-iznutri-i-nachali-ogryzatsia.md)
 
-В июне Зюзинский суд Москвы [признал](https://novayagazeta.ru/articles/2021/06/03/ziuzinskii-sud-moskvy-oshtrafoval-morgenshterna-na-100-tysiach-rublei-po-state-o-propagande-narkotikov-v-klipakh-rozovoe-vino-2-i-family) Моргенштерна виновным по административному делу по ч. 1 ст. 6.13 КоАП («Пропаганда либо незаконная реклама наркотических средств») из-за треков «Розовое вино 2» и Family. Его приговорили к штрафу в размере 100 тысяч рублей, позже рэпер обжаловал приговор, однако Мосгорсуд оставил его в силе.
+В июне Зюзинский суд Москвы [признал](2021/06/03/ziuzinskii-sud-moskvy-oshtrafoval-morgenshterna-na-100-tysiach-rublei-po-state-o-propagande-narkotikov-v-klipakh-rozovoe.md) Моргенштерна виновным по административному делу по ч. 1 ст. 6.13 КоАП («Пропаганда либо незаконная реклама наркотических средств») из-за треков «Розовое вино 2» и Family. Его приговорили к штрафу в размере 100 тысяч рублей, позже рэпер обжаловал приговор, однако Мосгорсуд оставил его в силе.
 
-В апреле [стало известно](https://novayagazeta.ru/articles/2021/04/26/stolichnaia-politsiia-nachala-administrativnoe-proizvodstvo-o-propagande-narkotikov-iz-za-interviu-iuriia-dudia), что главное управление МВД по Москве начало административное производство из-за интервью Юрия Дудя. На журналиста пожаловались активисты из Лиги безопасного интернета.
+В апреле [стало известно](2021/04/26/stolichnaia-politsiia-nachala-administrativnoe-proizvodstvo-o-propagande-narkotikov-iz-za-interviu-iuriia-dudia.md), что главное управление МВД по Москве начало административное производство из-за интервью Юрия Дудя. На журналиста пожаловались активисты из Лиги безопасного интернета.

@@ -35,4 +35,4 @@ tags: ""
 
 Никто из людей не пострадал.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/21/62-rossiian-ne-doverili-by-oruzhie-drugim-rossiianam-opros-russian-field-news
+**Читайте также:** [62% россиян не доверили бы оружие другим россиянам — опрос Russian Field](2024/12/21/62-rossiian-ne-doverili-by-oruzhie-drugim-rossiianam-opros-russian-field-news.md)

@@ -27,6 +27,6 @@ tags: "ростов-на-дону, рпц"
 
 «На стенах храма установлены уникальные мозаичные иконы, созданные вручную в мастерской женского монастыря Пресвятой Богородицы Всецарица в Аттике (Греция). В октябре 2014 на купола храма установлены кресты, высотой до двух метров», — говорится на сайте фонда.
 
-**link:** https://novayagazeta.ru/news/2014/05/22/100943-rostovchane-nachali-sbor-podpisey-protiv-peredachi-teatra-kukol-rpts
+**link:** [https://novayagazeta.ru/news/2014/05/22/100943-rostovchane-nachali-sbor-podpisey-protiv-peredachi-teatra-kukol-rpts](https://web.archive.org/web/*/https://novayagazeta.ru/news/2014/05/22/100943-rostovchane-nachali-sbor-podpisey-protiv-peredachi-teatra-kukol-rpts)
 
 Храм «возводится в память о знаменитой греческой Благовещенской церкви, построенной в 1907 году на пожертвования ростовчан», которая позже была закрыта, а затем и вовсе разрушена. Ктитором храма является Иван Саввиди. Проект благословил патриарх Алексий Второй.

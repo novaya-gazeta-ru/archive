@@ -49,7 +49,7 @@ tags: "университет, ограничения, студенты, doxa, �
 
 — Это должно дать право студенческим медиа пользоваться помещениями университета, его информационными ресурсами и т.д. Отличие заключается в отсутствии финансирования у студенческих инициатив, — уточняет Киселев.
 
-**link:** https://novayagazeta.ru/articles/2020/01/17/83501-est-negosudarstvennye-vuzy-a-mir-otkryt
+**link:** [https://novayagazeta.ru/articles/2020/01/17/83501-est-negosudarstvennye-vuzy-a-mir-otkryt](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/01/17/83501-est-negosudarstvennye-vuzy-a-mir-otkryt)
 
 # Бесконечное заседание
 

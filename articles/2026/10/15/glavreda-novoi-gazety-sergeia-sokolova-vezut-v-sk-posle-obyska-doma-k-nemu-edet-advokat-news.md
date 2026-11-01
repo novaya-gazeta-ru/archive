@@ -15,7 +15,7 @@ tags: "новая газета, обыски, давление на сми"
 
 > **Есть продолжение**
 >
-> ### [Главный редактор «Новой газеты» Сергей Соколов вышел с допроса в качестве свидетеля и приехал в редакцию](https://novayagazeta.ru/articles/2026/10/15/glavnyi-redaktor-novoi-gazety-sergei-sokolov-vyshel-s-doprosa-iz-sk-v-kachestve-svidetelia-i-priekhal-v-redaktsiiu-news)
+> ### [Главный редактор «Новой газеты» Сергей Соколов вышел с допроса в качестве свидетеля и приехал в редакцию](2026/10/15/glavnyi-redaktor-novoi-gazety-sergei-sokolov-vyshel-s-doprosa-iz-sk-v-kachestve-svidetelia-i-priekhal-v-redaktsiiu-news.md)
 
 Связь с главным редактором «Новой газеты» Сергеем Соколовым пропала около 12 часов 15 октября — прямо перед редакционной планеркой, которую главред должен был вести в московском офисе. Телефоны его оказались отключены.\
 \

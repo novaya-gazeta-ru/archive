@@ -35,4 +35,4 @@ tags: "лукашенко, беларусь, письма счастья"
 
 С собой прихватив сынка. Да помилует вас Господь, Последний диктатор Европы.
 
-**link:** https://novayagazeta.ru/articles/2020/08/16/86693-protesty-v-belarusi-den-sedmoy-online
+**link:** [Протесты в Беларуси: день восьмой. Онлайн](2020/08/16/86693-protesty-v-belarusi-den-sedmoy-online.md)

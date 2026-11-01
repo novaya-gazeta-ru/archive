@@ -37,7 +37,7 @@ tags: "химическое оружие, независимое расслед�
 
 «Какой смысл жаловаться властям на то, что, скорее всего, совершено по их же приказу? На какой результат вы рассчитываете?» — спрашивают у меня.
 
-**link:** https://novayagazeta.ru/articles/2020/12/15/88391-bolshoy-brat-na-sluzhbe-otkrytogo-obschestva
+**link:** [Большой Брат на службе Открытого Общества](2020/12/15/88391-bolshoy-brat-na-sluzhbe-otkrytogo-obschestva.md)
 
 Да, отвечаю я, мы все, подписавшие эти заявления, не очень наивные люди и прекрасно понимаем, насколько мал шанс на возбуждение уголовного дела. Тем более что вскоре после отравления Навального мы уже обращались с аналогичным требованием — и после длительного ожидания получили отписки или отказы.
 
@@ -59,4 +59,4 @@ tags: "химическое оружие, независимое расслед�
 
 Крот истории роет хорошо, хотя и медленно.
 
-**link:** https://novayagazeta.ru/articles/2020/12/18/88435-podkast-chto-novogo-agent-zapadnyh-spetssluzhb
+**link:** [https://novayagazeta.ru/articles/2020/12/18/88435-podkast-chto-novogo-agent-zapadnyh-spetssluzhb](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/12/18/88435-podkast-chto-novogo-agent-zapadnyh-spetssluzhb)

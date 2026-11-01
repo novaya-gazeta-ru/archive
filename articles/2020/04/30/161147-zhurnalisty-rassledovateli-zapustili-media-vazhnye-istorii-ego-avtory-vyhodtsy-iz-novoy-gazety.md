@@ -15,9 +15,9 @@ tags: "расследование, журналисты, сми"
 
 «Мы не верим в конкуренцию, — мы верим в кооперацию. Поэтому истории будем публиковать вместе с коллегами из независимых российских и лучших зарубежных изданий», — [говорится](https://www.istories.media/reportages/2020/04/30/o-chem-budut-vazhnie-istorii%C2%A0) на сайте проекта.
 
-Первые два расследования «Важные истории» [опубликовал](https://novayagazeta.ru/articles/2020/04/30/85152-posredniki-otechestva) при участии «Новой газеты».
+Первые два расследования «Важные истории» [опубликовал](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/04/30/85152-posredniki-otechestva) при участии «Новой газеты».
 
-**link:** https://novayagazeta.ru/articles/2020/04/30/85152-posredniki-otechestva
+**link:** [https://novayagazeta.ru/articles/2020/04/30/85152-posredniki-otechestva](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/04/30/85152-posredniki-otechestva)
 
 Кроме больших материалов на сайте есть раздел «Мастерская». В нем редакция планирует публиковать тексты и видео, об отдельных  инструментах, необходимых, например, для сбора, анализа и визуализации данных.
 

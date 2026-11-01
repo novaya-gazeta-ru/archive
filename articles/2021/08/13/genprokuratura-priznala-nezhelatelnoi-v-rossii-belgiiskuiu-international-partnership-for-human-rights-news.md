@@ -17,11 +17,11 @@ tags: "нежелательные организации, генпрокурат
 
 Ведомство направит сведения в Минюст для включения International Partnership for Human Rights в перечень организаций, деятельность который признана нежелательной в России. МППЧ станет 42-й в этом [списке](https://minjust.gov.ru/ru/documents/7756/).
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/16/shest-let-za-proekt
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/16/shest-let-za-proekt](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/16/shest-let-za-proekt)
 
 До этого Генпрокуратура признала деятельность компании Project Media, Inc. «нежелательной» на территории России. Параллельно с этим Минюст [внес](https://minjust.gov.ru/ru/documents/7755/) в реестр СМИ, выполняющих функции иностранного агента, нескольких журналистов «Проекта»*, в том числе главреда издания Романа Баданина**. Формальным поводом для признания издания «нежелательной организацией» послужил донос руководителя Федерального проекта по безопасности и борьбе с коррупцией Виталия Бородина, написанный 17 февраля.
 
-После случившегося «Проект» [объявил](https://novayagazeta.ru/articles/2021/07/16/proekt-obiavil-o-likvidatsii-iurlitsa-priznannogo-nezhelatelnym-izdanie-prodolzhit-rabotu) о ликвидации компании Project Media Inc., зарегистрированной в США. В конце июля Баданин и редактор издания Михаил Рубин** [сообщили](https://novayagazeta.ru/articles/2021/07/29/redaktory-proekta-roman-badanin-i-mikhail-rubin-zaiavili-chto-ne-planiruiut-vozvrashchatsia-v-rossiiu-i-evakuiruiut-ostalnykh-zhurnalistov-izdaniia) об эвакуации своих сотрудников из России. Сами они находятся за рубежом и пока не планируют возвращаться на родину.
+После случившегося «Проект» [объявил](2021/07/16/proekt-obiavil-o-likvidatsii-iurlitsa-priznannogo-nezhelatelnym-izdanie-prodolzhit-rabotu.md) о ликвидации компании Project Media Inc., зарегистрированной в США. В конце июля Баданин и редактор издания Михаил Рубин** [сообщили](2021/07/29/redaktory-proekta-roman-badanin-i-mikhail-rubin-zaiavili-chto-ne-planiruiut-vozvrashchatsia-v-rossiiu-i-evakuiruiut-osta.md) об эвакуации своих сотрудников из России. Сами они находятся за рубежом и пока не планируют возвращаться на родину.
 
 #### **Генпрокуратура признала деятельность организации нежелательной в России*
 

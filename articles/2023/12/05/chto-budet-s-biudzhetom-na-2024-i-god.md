@@ -13,7 +13,7 @@ tags: "бюджет"
 
 *Видеоэксплейнер от Дмитрия Прокофьева*
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/11/16/dano-est-lebed-rak-i-shchuka-zadacha-vybrat-dvukh
+**Читайте также:** [Дано: есть лебедь, рак и щука. Задача — выбрать двух](2023/11/16/dano-est-lebed-rak-i-shchuka-zadacha-vybrat-dvukh.md)
 
 Читайте также
 

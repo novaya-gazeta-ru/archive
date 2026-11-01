@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/09/02/1409672731_412454_96.jpg" style="width: 340px; height: 225px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/09/02/1409672731_412454_96.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/09/02/1409672731_412454_96.jpg)" style="width: 340px; height: 225px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Здание на Поварской. Фото: Пелагия БЕЛЯКОВА — «Новая»</sup></td>

@@ -25,4 +25,4 @@ tags: ""
 
 *И да, я это не о Нюте. Хотя, конечно, и о ней.*
 
-**link:** https://novayagazeta.ru/articles/2019/06/15/80897-dlya-menya-eto-byla-igra-na-chuzhom-pole-a-ya-hochu-pahat-na-svoem
+**link:** [«Для меня это была игра на чужом поле, а я хочу пахать на своем»](2019/06/15/80897-dlya-menya-eto-byla-igra-na-chuzhom-pole-a-ya-hochu-pahat-na-svoem.md)

@@ -107,7 +107,7 @@ tags: "дипломатия, пленные, российская армия, у
 
 — Да когда ты один в камере, будешь и черту лысому рад, — сказал Анатолий. — Специально их с Ерофеевым и держат порознь…
 
-**link:** https://novayagazeta.ru/articles/2015/08/02/65099-kapitan-erofeev-171-ya-kak-by-ne-odin-takoy-s-sashey-tut-sizhu-prosto-tolko-o-nas-rasskazyvayut-i-pishut-a-realno-takih-mnogo-187
+**link:** [Капитан Ерофеев: «Я как бы не один такой с Сашей тут сижу»](2015/08/02/65099-kapitan-erofeev-171-ya-kak-by-ne-odin-takoy-s-sashey-tut-sizhu-prosto-tolko-o-nas-rasskazyvayut-i-pishut-a-realno-.md)
 
 — Я знаю, что на него там давят, чтобы он все сказал… все, что им надо, — перебила Зинаида.
 
@@ -131,7 +131,7 @@ tags: "дипломатия, пленные, российская армия, у
 
 — Читали вот, — сказал мужчина, развернув экземпляр.
 
-**link:** https://novayagazeta.ru/articles/2015/05/22/64226-171-prikaza-primenyat-oruzhie-ne-bylo-187
+**link:** [«Приказа применять оружие не было»](2015/05/22/64226-171-prikaza-primenyat-oruzhie-ne-bylo-187.md)
 
 — А что это слово значит? — спросила Зинаида. — Странное какое-то.
 

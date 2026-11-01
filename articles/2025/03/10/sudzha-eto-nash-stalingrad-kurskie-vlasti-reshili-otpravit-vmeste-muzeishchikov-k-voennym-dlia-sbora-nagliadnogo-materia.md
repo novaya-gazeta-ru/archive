@@ -27,4 +27,4 @@ tags: ""
 
 Площадь занимаемой ВСУ территории Курской области, по данным Минобороны РФ, сокращается.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/24/moi-khram-umeshchaetsia-v-moem-chemodane
+**Читайте также:** [«Мой храм умещается в моем чемодане»](2025/02/24/moi-khram-umeshchaetsia-v-moem-chemodane.md)

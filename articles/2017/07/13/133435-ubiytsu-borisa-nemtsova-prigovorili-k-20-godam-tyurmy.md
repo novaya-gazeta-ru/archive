@@ -11,7 +11,7 @@ tags: "убийство, немцов"
 
 # Убийцу Бориса Немцова приговорили к 20 годам тюрьмы
 
-**link:** https://novayagazeta.ru/news/2017/07/13/133437-figurantov-dela-ob-ubiystve-borisa-nemtsova-prigovorili-k-srokam-ot-11-do-19-let
+**link:** [https://novayagazeta.ru/news/2017/07/13/133437-figurantov-dela-ob-ubiystve-borisa-nemtsova-prigovorili-k-srokam-ot-11-do-19-let](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/07/13/133437-figurantov-dela-ob-ubiystve-borisa-nemtsova-prigovorili-k-srokam-ot-11-do-19-let)
 
 ![](_assets/a0/a08aa2044bec88fbd250e634fb5993e2.webp)
 
@@ -29,14 +29,14 @@ tags: "убийство, немцов"
 
 «Это грязный процесс, нет ни одного доказательства его вины! Мой брат приехал в Москву учиться на юридическом факультете, а не для этого вот! — сказал старший брат Дадаева Шахрудин, — И самое обидное, что он десять лет отдал службе этой стране, а с ним вот так».
 
-Накануне прокурор [запросила](https://www.novayagazeta.ru/news/2017/07/12/133406-dadaevu-zaprosili-pozhiznennyy-srok) для Дадаева пожизненный срок в колонии особого режима, штраф 200 тысяч рублей, а также лишение военного звания и наград.
+Накануне прокурор [запросила](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/07/12/133406-dadaevu-zaprosili-pozhiznennyy-srok) для Дадаева пожизненный срок в колонии особого режима, штраф 200 тысяч рублей, а также лишение военного звания и наград.
 
-Напомним, 29 июня коллегия присяжных [признала](https://www.novayagazeta.ru/news/2017/06/29/133007-prisyazhnye-priznali-vseh-figurantov-dela-ob-ubiystve-nemtsova-vinovnymi-i-ne-zasluzhivayuschimi-snishozhdeniya) всех подсудимых виновными в убийстве Бориса Немцова. По версии следствия, Дадаев непосредственно убил Немцова на Большом Москворецком мосту шестью выстрелами в спину.  Также заседатели посчитали Дадаева не заслуживающим снисхождения.
+Напомним, 29 июня коллегия присяжных [признала](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/06/29/133007-prisyazhnye-priznali-vseh-figurantov-dela-ob-ubiystve-nemtsova-vinovnymi-i-ne-zasluzhivayuschimi-snishozhdeniya) всех подсудимых виновными в убийстве Бориса Немцова. По версии следствия, Дадаев непосредственно убил Немцова на Большом Москворецком мосту шестью выстрелами в спину.  Также заседатели посчитали Дадаева не заслуживающим снисхождения.
 
-**link:** https://novayagazeta.ru/articles/2017/07/01/72979-takaya-zhizn-chto-podelat
+**link:** [«Такая жизнь, что поделать»](2017/07/01/72979-takaya-zhizn-chto-podelat.md)
 
 Политик Борис Немцов был убит 27 февраля 2015 года на Большом Москворецком мосту.
 
 По версии обвинения, бывший военнослужащий батальона «Север» Заур Дадаев был непосредственным киллером, Анзор Губашев подвозил его на машине с места убийства, Шадид Губашев, Темирлан Эскерханов и Хамзат Бахаев обвинялись в том, что следили за политиком и помогали скрыться исполнителям.
 
-**link:** https://novayagazeta.ru/articles/2017/06/30/72969-verdikt-oglashen-vse-podsudimye-vinovny-i-ne-zasluzhivayut-snishozhdeniya
+**link:** [Вердикт оглашен: все подсудимые виновны и не заслуживают снисхождения](2017/06/30/72969-verdikt-oglashen-vse-podsudimye-vinovny-i-ne-zasluzhivayut-snishozhdeniya.md)

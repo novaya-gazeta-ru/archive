@@ -15,7 +15,7 @@ tags: "каннский кинофестиваль, кино, обзор"
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/05/12/1431428243_850394_96.jpg" style="width: 340px; height: 161px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/05/12/1431428243_850394_96.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/05/12/1431428243_850394_96.jpg)" style="width: 340px; height: 161px;"></td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>

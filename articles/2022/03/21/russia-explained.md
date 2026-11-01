@@ -36,7 +36,7 @@ Western countries have introduced an unprecedented raft of sanctions on Russia i
 
 **MEDICINE SHORTAGES. **Perhaps the most concerning reports are those of the absence of vital medicines in pharmacies. Those for thyroid diseases, epilepsy, diabetes — and other diseases — are missing from the shelves. The medicines that are available have become more expensive. One respondent reported: “The price of Maxidex (a Finnnish drug that treats eye infections) has increased significantly. It was about 350 rubles, and is now 530. Sulfasalazine (an American drug that treats rheumatoid arthritis and Crohn’s disease, among other conditions) has increased from 400 roubles to 520. The price of Movalis (another American drug that treats arthritis) also increased a lot: it was 800 rubles, now it’s 1,300.”
 
-*Read our data department’s full investigation *[*here*](https://novayagazeta.ru/articles/2022/03/17/kupi-menia-esli-smozhesh)*.*
+*Read our data department’s full investigation *[*here*](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/17/kupi-menia-esli-smozhesh)*.*
 
 # **The View from Mykolayiv * *Please note that this article contains images and descriptions that some may find disturbing. *
 
@@ -58,7 +58,7 @@ Mikolayiv, a major city on Ukraine’s Black Sea coast, has been on the front li
 
 **NEW LIFE AMIDST DEATH AND DESTRUCTION.** Mikolayiv’s maternity hospital No. 3 has seen 22 births since the “special operation” began. The basement of the building was converted into a delivery room. Lena Silvestrova, who had just given birth to a baby girl, told Kostyucheko of her fears. “The ‘special operation’ had just begun, and I had an approximate delivery date. I was very worried about when it would start. I was constantly in fear, waiting for it to happen […] I was lucky, I had a caesarean section between air raid alerts.” Alexei, her husband, comforts her as she lies in a metal gurney. “I just want to remember what it’s like to walk down the street without fear of gunshots”, he says. Nadezhda Sherstova, who has worked in the maternity hospital for 30 years, told Kostuchenko: “We only want peace. Please write this.”
 
-*Read Kostyuchenko’s full report *[*here*](https://novayagazeta.ru/articles/2022/03/12/nikolaev)*. *
+*Read Kostyuchenko’s full report *[*here*](2022/03/12/nikolaev.md)*. *
 
 # **Osvyannikova’s One Woman Protest, Explained**
 
@@ -76,9 +76,9 @@ On March 14, Marina Ovsvyannikova — an editor for the state-sponsored Channel 
 
 **A PLACE IN THE HISTORY BOOKS. **Minkin concludes his resounding support for Osvyannikova with the claim that she has “entered history”. “When politics in this country returns to normal and the madness of the State is no more, Marina Osvyannikova will be in textbooks. For heroes are always included in textbooks. Who, at that time, was the Minister of Truth, the Minister of Peace and Peacekeeping Operations, the Minister of Foreign Affairs […] will be forgotten.” It remains to be seen whether Minkin’s glowing prophecy will come to pass.
 
-*Read Minkin’s full analysis *[*here*](https://novayagazeta.ru/articles/2022/03/15/spasti-chest-strany)*.*
+*Read Minkin’s full analysis *[*here*](2022/03/15/spasti-chest-strany.md)*.*
 
-# **Bonus Round On March 22, Alexei Navalny is due to be sentenced yet again. The prosecution is pushing for a 13-year sentence. We report on the opposition leader’s **[**powerful closing remarks**](https://novayagazeta.ru/articles/2022/03/15/my-razoblachim-eshche-bolshe-liudei-kotorye-meshaiut-zhit-nashei-strane)** to Moscow’s Lefortovo Court.**
+# **Bonus Round On March 22, Alexei Navalny is due to be sentenced yet again. The prosecution is pushing for a 13-year sentence. We report on the opposition leader’s **[**powerful closing remarks**](2022/03/15/my-razoblachim-eshche-bolshe-liudei-kotorye-meshaiut-zhit-nashei-strane.md)** to Moscow’s Lefortovo Court.**
 
 ![](_assets/83/83f2c17ca3571f738c3f96cabfc18313.webp)
 
@@ -104,6 +104,6 @@ The last seven years of Russian actions in Ukraine has left approximately 13,500
 >
 > This newsletter drop is written and edited by several journalists at the Novaya Gazeta newsroom. Please, support our work by promoting our newsletter with *#RussiaExplained* hashtag on social media.
 >
-> To keep up with Novaya Gazeta’s reporting throughout the week, you can follow us on [Facebook](https://www.facebook.com/novgaz/), [Twitter](https://twitter.com/novaya_gazeta), [Instagram](https://www.instagram.com/novayagazeta/), and [Telegram](https://t.me/novaya_pishet). Our video content is available on [Youtube](https://www.youtube.com/user/novayagazeta) and don’t forget to visit our [website](https://www.novayagazeta.ru/) for the latest stories in Russian.
+> To keep up with Novaya Gazeta’s reporting throughout the week, you can follow us on [Facebook](https://www.facebook.com/novgaz/), [Twitter](https://twitter.com/novaya_gazeta), [Instagram](https://www.instagram.com/novayagazeta/), and [Telegram](https://t.me/novaya_pishet). Our video content is available on [Youtube](https://www.youtube.com/user/novayagazeta) and don’t forget to visit our [website](https://web.archive.org/web/*/https://www.novayagazeta.ru/) for the latest stories in Russian.
 >
 > *The Novaya Gazeta Team*

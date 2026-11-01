@@ -17,8 +17,8 @@ tags: "украина, обсе, эвакуация, война, sf"
 
 Решение принято на фоне военных действий России в Украине.
 
-Ранее президент Украины Владимир Зеленский заявил о разрыве дипломатических отношений с Россией. Он [ввел](https://novayagazeta.ru/articles/2022/02/24/zelenskii-vvel-voennoe-polozhenie-na-vsei-territorii-ukrainy-news) военное положение на всей территории Украины. МИД страны [призвал](https://mfa.gov.ua/news/rekomendaciyi-gromadyanam-ukrayini-u-zvyazku-iz-ostannimi-rishennyami-rosijskoyi-federaciyi-shcho-grubo-porushuyut-suverenitet-i-teritorialnu-cilisnist-ukrayini) граждан Украины «немедленно» покинуть Россию.
+Ранее президент Украины Владимир Зеленский заявил о разрыве дипломатических отношений с Россией. Он [ввел](2022/02/24/zelenskii-vvel-voennoe-polozhenie-na-vsei-territorii-ukrainy-news.md) военное положение на всей территории Украины. МИД страны [призвал](https://mfa.gov.ua/news/rekomendaciyi-gromadyanam-ukrayini-u-zvyazku-iz-ostannimi-rishennyami-rosijskoyi-federaciyi-shcho-grubo-porushuyut-suverenitet-i-teritorialnu-cilisnist-ukrayini) граждан Украины «немедленно» покинуть Россию.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/24/spetsialnaia-voennaia-operatsiia-na-territorii-ukrainy-interaktivnaia-karta
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/24/spetsialnaia-voennaia-operatsiia-na-territorii-ukrainy-interaktivnaia-karta](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/24/spetsialnaia-voennaia-operatsiia-na-territorii-ukrainy-interaktivnaia-karta)
 
 Президент России Владимир Путин около 5:30 утра мск объявил о начале «спецоперации» в Украине. «Мы будем стремиться к демилитаризации и денацификации Украины», — сказал он. В Минобороны России заявили, что «выводятся из строя военная инфраструктура, объекты ПВО, военные аэродромы и авиация украинской армии».

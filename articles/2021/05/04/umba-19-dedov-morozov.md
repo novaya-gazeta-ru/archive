@@ -65,4 +65,4 @@ tags: "мурманская область, колумбайн"
 
 > **Читайте ранее**
 >
-> ### [Умба. Тайное слово](https://novayagazeta.ru/articles/2021/05/03/umba-tainoe-slovo)
+> ### [Умба. Тайное слово](2021/05/03/umba-tainoe-slovo.md)

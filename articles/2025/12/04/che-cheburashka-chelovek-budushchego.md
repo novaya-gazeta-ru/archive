@@ -99,7 +99,7 @@ tags: ""
 
 «Теперь каждый, кто едет по Комсомольскому проспекту, может выйти у Союза писателей России», — отмечают там, обещая, что «ни писатели, ни читатели не заблудятся».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/12/02/dub-derevo-roza-tsvetok-gumanizm-rossiiskaia-traditsionnaia-tsennost
+**Читайте также:** [Дуб — дерево, роза — цветок, гуманизм — российская традиционная ценность](2025/12/02/dub-derevo-roza-tsvetok-gumanizm-rossiiskaia-traditsionnaia-tsennost.md)
 
 ### ***
 

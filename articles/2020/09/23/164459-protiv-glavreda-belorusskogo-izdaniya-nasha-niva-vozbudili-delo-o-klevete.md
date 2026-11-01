@@ -17,4 +17,4 @@ tags: "журналисты, беларусь, em"
 
 Мартиновича задержали сегодня утром, когда он вышел погулять с собакой. Силовики [провели](https://t.me/nashaniva/15950) у него дома обыск.
 
-**link:** https://novayagazeta.ru/articles/2020/09/23/87208-protesty-v-belarusi-den-46-chto-proishodit-online
+**link:** [Протесты в Беларуси, день 49](2020/09/23/87208-protesty-v-belarusi-den-46-chto-proishodit-online.md)

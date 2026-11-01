@@ -17,4 +17,4 @@ tags: ""
  Ты тайно видишь явное.\
  Но все это — только тени.
 
-**Другое великостишие:** https://novayagazeta.ru/articles/2024/08/31/chernoe-na-sinem
+**Другое великостишие:** [https://novayagazeta.ru/articles/2024/08/31/chernoe-na-sinem](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/31/chernoe-na-sinem)

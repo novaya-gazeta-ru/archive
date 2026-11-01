@@ -29,4 +29,4 @@ tags: ""
 - Марию Колеcникову арестовали в 2020-м году, а осенью 2021-го приговорили к 11 годам по делу о заговоре якобы с целью захвата власти в стране.
 - Виктор Бабарико, банкир и допущенный до президентской кампании независимый кандидат, неофициально победил на президентских выборах и во время массовых протестов был арестован, а в 2021-году приговорен к 14 года по делу о коррупции.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/10/09/belorusskaia-politzakliuchennaia-kolesnikova-v-pervom-za-25-goda-pisme-rodnym-vremia-nashei-vstrechi-neumolimo-priblizhaetsia-i-eto-budet-samyi-schastlivyi-den-news
+**Читайте также:** [Белорусская политзаключенная Колесникова в первом за 2,5 года письме родным: «Время нашей встречи неумолимо приближается — и это будет самый счастливый день»](2025/10/09/belorusskaia-politzakliuchennaia-kolesnikova-v-pervom-za-25-goda-pisme-rodnym-vremia-nashei-vstrechi-neumolimo-priblizha.md)

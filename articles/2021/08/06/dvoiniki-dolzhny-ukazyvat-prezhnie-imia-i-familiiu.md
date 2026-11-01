@@ -35,4 +35,4 @@ tags: "цик, письмо, двойники, вишневский, выбор�
 
 **Пресс-служба ЦИК России**
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/19/byt-deputatom-vishnevskim
+**Читайте также:** [Размножение депутата Вишневского](2021/07/19/byt-deputatom-vishnevskim.md)

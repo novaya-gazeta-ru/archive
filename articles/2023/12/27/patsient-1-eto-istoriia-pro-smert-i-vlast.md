@@ -13,7 +13,7 @@ tags: "резо гигинеишвили, кино"
 
 *Итоговый выпуск подкаста Ирины Петрвской «Смотри в оба» с режиссером Резо Гигинеишвили*
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/12/21/segodnia-izmenil-zhene-zavtra-rodine
+**Читайте также:** [https://novayagazeta.ru/articles/2023/12/21/segodnia-izmenil-zhene-zavtra-rodine](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/12/21/segodnia-izmenil-zhene-zavtra-rodine)
 
 Поговорили про судьбу его фильма «Пациент#1»: будет ли показ в России, реакция зрителей и критиков. Также обсудили отношение к смерти, ценность человеческой жизни и борьбу за власть.
 

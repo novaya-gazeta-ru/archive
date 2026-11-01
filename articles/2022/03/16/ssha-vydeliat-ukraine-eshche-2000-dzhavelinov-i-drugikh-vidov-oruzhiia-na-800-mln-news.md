@@ -25,4 +25,4 @@ tags: "джавелин, стингер, украина, сша, байден, k
 
 Ранее сегодня президент Украины Владимир Зеленский [обратился](https://www.youtube.com/watch?v=srN7n2jVQrg&ab_channel=WashingtonPost) к Конгрессу США и вновь запросил ввести бесполетную зону над своей страной. В качестве альтернативы Зеленский также предложил американским партнерам поставить в Украину системы противовоздушной обороны.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/03/uendi-sherman-my-budem-prodolzhat-dobivatsia-togo-chtoby-prezident-putin-videl-posledstviia-svoikh-deistvii
+**Читайте также:** [Уэнди Шерман: «Мы будем продолжать добиваться того, чтобы президент Путин видел последствия своих действий»](2022/03/03/uendi-sherman-my-budem-prodolzhat-dobivatsia-togo-chtoby-prezident-putin-videl-posledstviia-svoikh-deistvii.md)

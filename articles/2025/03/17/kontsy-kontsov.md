@@ -105,6 +105,6 @@ tags: "диктаторы, франсиско франко, Сантьяго К�
 
 А забывать не следует.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/04/30/prosveshchennyi-diktator-osoboi-tsivilizatsii-traditsionnykh-tsennostei
+**Читайте также:** [https://novayagazeta.ru/articles/2024/04/30/prosveshchennyi-diktator-osoboi-tsivilizatsii-traditsionnykh-tsennostei](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/04/30/prosveshchennyi-diktator-osoboi-tsivilizatsii-traditsionnykh-tsennostei)
 
 #### * Внесен властями РФ в реестр «иноагентов»

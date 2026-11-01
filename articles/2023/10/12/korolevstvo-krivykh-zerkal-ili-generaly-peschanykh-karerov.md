@@ -67,4 +67,4 @@ tags: "кино, премьера, кинопремьера, сериал, ки�
 >
 > Лариса Малюкова ведет телеграм-канал о кино и не только. [Подписывайтесь тут](https://t.me/larisamalukova).
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/10/11/ledianaia-skazka-iz-morozilnika
+**Читайте также:** [Ледяная сказка из морозильника](2023/10/11/ledianaia-skazka-iz-morozilnika.md)

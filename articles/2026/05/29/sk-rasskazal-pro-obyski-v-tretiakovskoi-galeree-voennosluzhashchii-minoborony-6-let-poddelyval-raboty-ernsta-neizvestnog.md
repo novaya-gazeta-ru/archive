@@ -13,7 +13,7 @@ tags: ""
 
 > **Есть продолжение**
 >
-> ### [«Ъ»: Константина Эрнста признали потерпевшим по делу мошенников, торговавших подделками работ Эрнста Неизвестного. Гендиректор Первого канала — «очень крупный собиратель»](https://novayagazeta.ru/articles/2026/06/01/gendirektora-pervogo-kanala-priznali-poterpevshim-po-delu-moshennikov-torgovavshikh-poddelkami-rabot-neizvestnogo-konstantin-ernst-ochen-krupnyi-sobiratel-news)
+> ### [«Ъ»: Константина Эрнста признали потерпевшим по делу мошенников, торговавших подделками работ Эрнста Неизвестного. Гендиректор Первого канала — «очень крупный собиратель»](2026/06/01/gendirektora-pervogo-kanala-priznali-poterpevshim-po-delu-moshennikov-torgovavshikh-poddelkami-rabot-neizvestnogo-konsta.md)
 
 ![](_assets/a4/a4f5df96aa7459e15dd9649fcf382cb6.webp)
 

@@ -81,4 +81,4 @@ P.S. One final issue will be published.
 
 **Власти РФ считают «иноагентами»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/10/30/nas-ubili
+**Читайте также:** [Нас убили](2026/10/30/nas-ubili.md)

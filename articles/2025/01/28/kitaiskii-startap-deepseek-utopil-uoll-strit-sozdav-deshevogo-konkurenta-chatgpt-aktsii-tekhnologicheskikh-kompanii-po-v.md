@@ -27,4 +27,4 @@ Nvidia и OpenAI [похвалили](https://www.forbes.ru/tekhnologii/529672-n
 
 DeepSeek возглавил чарт AppStore по количеству скачиваний. Однако вскоре он [приостановил](https://www.cnbc.com/2025/01/27/deepseek-hit-with-large-scale-cyberattack-says-its-limiting-registrations.html) регистрацию новых пользователей, сославшись на «масштабные вредоносные атаки».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/28/nu-i-i%20%20%D0%9D%D0%B5%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D0%BB%D0%B0%D1%81%D1%8C%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0
+**Читайте также:** [https://novayagazeta.ru/articles/2025/01/28/nu-i-i%20%20%D0%9D%D0%B5%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D0%BB%D0%B0%D1%81%D1%8C%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2025/01/28/nu-i-i%20%20%D0%9D%D0%B5%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D0%BB%D0%B0%D1%81%D1%8C%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0)

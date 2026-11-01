@@ -21,4 +21,4 @@ tags: "приговор, школа, пермский край"
 
 Защита Елены Погоржальской будет обжаловать приговор.
 
-**link:** https://novayagazeta.ru/articles/2019/09/18/82027-pobeg-iz-zelenoy-zony
+**link:** [Побег из «зеленой зоны»](2019/09/18/82027-pobeg-iz-zelenoy-zony.md)

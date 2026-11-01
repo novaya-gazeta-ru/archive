@@ -45,7 +45,7 @@ tags: "новая газета, москва, журналисты, анна п�
 
 *Фото: Влад Докшин/ «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2018/07/11/77120-vremya-menyat-privychnye-landshafty
+**link:** [Время менять привычные ландшафты](2018/07/11/77120-vremya-menyat-privychnye-landshafty.md)
 
 Напомним, журналистка «Новой газеты» Анна Политковская была убита 7 октября 2006 года в подъезде своего дома на улице Лесная в Москве.
 
@@ -53,4 +53,4 @@ tags: "новая газета, москва, журналисты, анна п�
 
 Однако заказчики убийства журналистки до сих пор не найдены.
 
-**link:** https://novayagazeta.ru/articles/2016/10/06/70089-ne-smeyte-govorit-chto-ubiystvo-raskryto-video
+**link:** [Не смейте говорить, что убийство раскрыто. Видеообращение редакции](2016/10/06/70089-ne-smeyte-govorit-chto-ubiystvo-raskryto-video.md)

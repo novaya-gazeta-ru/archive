@@ -39,9 +39,9 @@ tags: ""
 
 Еще они кричат: «Больше никогда», но этого даже самые свободные и бесстрашные люди мира не смогут добиться.
 
-**link:** https://novayagazeta.ru/society/66741.html
+**link:** [https://novayagazeta.ru/society/66741.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/66741.html)
 
-**link:** https://novayagazeta.ru/society/66741.html
+**link:** [https://novayagazeta.ru/society/66741.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/66741.html)
 
 Но если люди настроены так, как настроены французы, то страшным вещам намного труднее свершиться. У мерзавцев уходит почва из-под ног. Они оказываются в невесомости. «Франция сильнее, чем когда-либо! — кричат люди. — Вместе, едины, все французы!».
 

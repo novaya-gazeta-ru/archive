@@ -29,8 +29,8 @@ tags: "лукашенко, беларусь, cnn, sn"
 
 Комментируя ситуацию бортом Ryanair, политик вновь назвал «фантазиями» информацию о причастности спецслужб к экстренной посадке самолета в Минске. «Проведение спецслужбами подобной операции без нарушения каких-либо международных законов или инструкций дорого бы обошлось», — заметил Лукашенко.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/24/valensa-mne-skazal-ne-trebuite-ukhoda-lukashenko-trebuite-peregovorov
+**Читайте также:** [«Валенса мне сказал: «Не требуйте ухода Лукашенко, требуйте переговоров»](2021/09/24/valensa-mne-skazal-ne-trebuite-ukhoda-lukashenko-trebuite-peregovorov.md)
 
 Сегодня американский телеканал CNN опубликовал материал по итогам беседы с Лукашенко. Государственные белорусские СМИ сообщили, что журналисты [«пробили дно»](https://www.belta.by/president/view/cnn-probilo-dno-ostaviv-ot-chasovogo-intervjju-s-lukashenko-vsego-neskolko-fraz-462556-2021/): вырезали самые важные моменты и оставили из разговора лишь семь минут вопреки договоренностям с президентской пресс-службой. Лукашенко требовал, чтобы интервью вышло без купюр.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/29/tovarishchi-belorusy-kak-vashi-dedy-pobedili-na-voine
+**Читайте также:** [«Товарищи белорусы, как ваши деды победили на войне?»](2021/09/29/tovarishchi-belorusy-kak-vashi-dedy-pobedili-na-voine.md)

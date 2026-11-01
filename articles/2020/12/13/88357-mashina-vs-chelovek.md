@@ -135,4 +135,4 @@ tags: "книжные, искусственный интеллект, перев
 
 **Екатерина Тарарак, специально для «Новой»**
 
-**link:** https://novayagazeta.ru/articles/2020/12/12/88345-samye-chitaemye-knigi-2020-goda-video
+**link:** [Самые читаемые книги 2020 года. Видео](2020/12/12/88345-samye-chitaemye-knigi-2020-goda-video.md)

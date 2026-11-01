@@ -19,4 +19,4 @@ tags: "европа, бельгия, ai"
 
 При этом, по информации RTBF, было принято решение о продолжении карнавала, отменены лишь официальные мероприятия — вручение медалей и фейерверк.
 
-В ноябре прошлого года в Висконсине автомобиль [наехал](https://novayagazeta.ru/articles/2021/11/22/v-viskonsine-avtomobil-sbil-liudei-vo-vremia-rozhdestvenskogo-parada-neskolko-chelovek-pogibli-bolee-20-postradali-news) на людей на рождественском параде. В результате погибли пять человек, более 40 получили ранения.
+В ноябре прошлого года в Висконсине автомобиль [наехал](2021/11/22/v-viskonsine-avtomobil-sbil-liudei-vo-vremia-rozhdestvenskogo-parada-neskolko-chelovek-pogibli-bolee-20-postradali-news.md) на людей на рождественском параде. В результате погибли пять человек, более 40 получили ранения.

@@ -29,4 +29,4 @@ tags: ""
 
 * **Приморье* **
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/12/01/iznasiloval-ubil-kupil-pivka-i-poekhal-kupatsia
+**Читайте также:** [«Изнасиловал, убил, купил пивка и поехал купаться»](2023/12/01/iznasiloval-ubil-kupil-pivka-i-poekhal-kupatsia.md)

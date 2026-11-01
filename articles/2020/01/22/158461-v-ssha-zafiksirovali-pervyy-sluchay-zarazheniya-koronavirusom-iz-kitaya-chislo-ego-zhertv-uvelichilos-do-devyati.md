@@ -17,6 +17,6 @@ tags: ""
 
 Как [передает](https://www.reuters.com/article/us-china-health-transmission/china-virus-death-toll-rises-to-nine-as-pandemic-fears-mount-idUSKBN1ZL07C?il=0) Reuters, от нового коронавируса умерли уже девять человек, общее число инфицированных возросло до 440 человек. Всемирная организация здравоохранения назначила экстренное заседание, где эксперты оценят риски распространения вируса в мире.
 
-Китайские власти объявили о вспышке ранее неизвестного коронавируса 31 декабря. Специалисты предполагают, что он возник на одном из городских рынков морепродуктов. Случаи заражения также были зарегистрированы в Таиланде, Южной Корее и Японии. По словам китайских медиков, вирус передается от человека человеку и вызывает пневмонию. В США [приступили](https://novayagazeta.ru/news/2020/01/21/158438-v-ssha-nachali-razrabatyvat-vaktsinu-protiv-novogo-vida-koronavirusa-ot-nego-uzhe-umerli-chetyre-cheloveka) к разрабатке вакцины.
+Китайские власти объявили о вспышке ранее неизвестного коронавируса 31 декабря. Специалисты предполагают, что он возник на одном из городских рынков морепродуктов. Случаи заражения также были зарегистрированы в Таиланде, Южной Корее и Японии. По словам китайских медиков, вирус передается от человека человеку и вызывает пневмонию. В США [приступили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/01/21/158438-v-ssha-nachali-razrabatyvat-vaktsinu-protiv-novogo-vida-koronavirusa-ot-nego-uzhe-umerli-chetyre-cheloveka) к разрабатке вакцины.
 
-**link:** https://novayagazeta.ru/articles/2019/02/22/79659-mogli-zarazitsya-ne-tolko-korovy-no-i-lyudi
+**link:** [«Могли заразиться не только коровы, но и люди»](2019/02/22/79659-mogli-zarazitsya-ne-tolko-korovy-no-i-lyudi.md)

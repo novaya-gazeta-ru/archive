@@ -35,4 +35,4 @@ YouTube потребовал от блогера Феликса Глюкмана
 
 #### *редакция лишена возможности вставить гиперссылку на первоисточник из-за требований законодательства РФ
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/23/lovtsy-slov
+**Читайте также:** [https://novayagazeta.ru/articles/2021/06/23/lovtsy-slov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/06/23/lovtsy-slov)

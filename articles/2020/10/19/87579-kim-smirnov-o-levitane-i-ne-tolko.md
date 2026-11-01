@@ -13,7 +13,7 @@ tags: "литература, живопись"
 
 *Из личного дневника. Окончание*
 
-**link:** https://novayagazeta.ru/articles/2020/10/14/87508-kim-smirnov-o-levitane-chehove-i-ne-tolko
+**link:** [Ким Смирнов: О Левитане, Чехове и не только…](2020/10/14/87508-kim-smirnov-o-levitane-chehove-i-ne-tolko.md)
 
 # 18 октября 2010 г. Понедельник
 

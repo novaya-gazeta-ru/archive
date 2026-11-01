@@ -33,4 +33,4 @@ tags: "лукашенко, беларусь , кремль, ryanair, белав�
 
 «Фашистская гидра Запада пытается растоптать единство нашего народа» — примерно такие тексты сегодня почти ежедневно порождает официальное минское телевидение. Российская пропаганда не спорит: возможно, это те самые главные слова, которое она всегда мечтала сказать сама.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/05/28/belarus-golovnogo-mozga-kak-degradiruet-rezhim-lukashenko-i-kakova-v-etom-rol-rossii
+**Читайте также:** [https://novayagazeta.ru/articles/2021/05/28/belarus-golovnogo-mozga-kak-degradiruet-rezhim-lukashenko-i-kakova-v-etom-rol-rossii](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/05/28/belarus-golovnogo-mozga-kak-degradiruet-rezhim-lukashenko-i-kakova-v-etom-rol-rossii)

@@ -41,4 +41,4 @@ tags: ""
 
 Привлекая внимание к своему делу, Мария Бонцлер и в СИЗО продолжает вести правозащитную деятельность.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/26/sud-po-delu-o-gosizmene-marii-bontsler-voshel-v-fazu-absurda-posle-udaleniia-s-protsessa-trekh-advokatov-s-zasedanii-udalili-i-samu-bontsler-news
+**Читайте также:** [Суд по делу о «госизмене» Марии Бонцлер вошел в фазу абсурда: после удаления с процесса трех адвокатов с заседаний удалили и саму Бонцлер](2026/09/26/sud-po-delu-o-gosizmene-marii-bontsler-voshel-v-fazu-absurda-posle-udaleniia-s-protsessa-trekh-advokatov-s-zasedanii-uda.md)

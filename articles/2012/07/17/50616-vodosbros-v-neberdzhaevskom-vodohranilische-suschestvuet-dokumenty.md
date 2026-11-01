@@ -22,7 +22,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<a href="http://www.novayagazeta.ru/storage/b/2012/07/17/Smeta_vdhr.doc"><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/17/1342540100_518509_8.jpg" style="width: 565px; height: 349px; "></a></td>
+				<a href="[http://www.novayagazeta.ru/storage/b/2012/07/17/Smeta_vdhr.doc](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/b/2012/07/17/Smeta_vdhr.doc)"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/17/1342540100_518509_8.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/17/1342540100_518509_8.jpg)" style="width: 565px; height: 349px; "></a></td>
 		</tr>
 	</tbody>]*
 
@@ -32,4 +32,4 @@ tags: ""
 
 Мы не знаем, имеет ли отношение водосброс к случившейся катастрофе, однако сам факт технической возможности сброса воды считаем полностью доказанным.
 
-Ознакомиться с техническим заданием на реконструкцию Неберджаевского водохранилища можно [ЗДЕСЬ (3,5 Mb)](http://www.novayagazeta.ru/storage/b/2012/07/17/Tehzadanie_na_Neberdzh_vdhr.doc)
+Ознакомиться с техническим заданием на реконструкцию Неберджаевского водохранилища можно [ЗДЕСЬ (3,5 Mb)](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/b/2012/07/17/Tehzadanie_na_Neberdzh_vdhr.doc)

@@ -213,4 +213,4 @@ tags: ""
 
 #### * Минюст РФ внес в реестр «иноагентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/22/benzina-net-no-vy-ne-rugaites-matom
+**Читайте также:** [Бензина нет, но вы не ругайтесь матом](2026/08/22/benzina-net-no-vy-ne-rugaites-matom.md)

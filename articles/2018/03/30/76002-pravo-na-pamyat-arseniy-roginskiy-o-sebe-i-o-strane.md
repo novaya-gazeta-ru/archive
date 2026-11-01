@@ -17,7 +17,7 @@ tags: "опыт частного сопротивления, репрессии,
 
 По словам режиссера Людмилы Гордон, в этом фильме Арсений Рогинский впервые публично рассказал об очень личном и важном для него: рождении в ГУЛАГе, гибели отца в сталинской тюрьме, государственном терроре, долге историка и о том, почему в России массовое сознание отторгает память о тоталитарном прошлом.
 
-**link:** https://novayagazeta.ru/articles/2017/12/19/74980-on-byl-chelovekom-spokoynogo-i-umnogo-muzhestva-professionalnyy-istorik-arseniy-roginskiy-izuchal-russkoe-osvoboditelnoe-dvizhenie-i-usvoil-ego-luchshie-i-blagorodneyshie-cherty
+**link:** [Он был человеком спокойного и умного мужества](2017/12/19/74980-on-byl-chelovekom-spokoynogo-i-umnogo-muzhestva-professionalnyy-istorik-arseniy-roginskiy-izuchal-russkoe-osvobodi.md)
 
 Арсений Рогинский:
 

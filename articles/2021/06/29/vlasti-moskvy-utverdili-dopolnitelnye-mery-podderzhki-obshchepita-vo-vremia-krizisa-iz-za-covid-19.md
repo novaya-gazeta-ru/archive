@@ -23,9 +23,9 @@ tags: ""
 
 Максимальный размер конечной ставки — 6%. Размер компенсации по недополученным доходам банка — 4%, максимальный размер кредита — 500 млн руб.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/23/eshche-odin-lokdaun-ne-perezhivem
+**Читайте также:** [«Еще один локдаун не переживем»](2021/06/23/eshche-odin-lokdaun-ne-perezhivem.md)
 
-С 28 июня в Москве и Подмосковье попасть в заведения общепита [могут](https://novayagazeta.ru/articles/2021/06/23/vlasti-podmoskovia-vsled-za-moskvoi-zapretili-nevaktsinirovannym-grazhdanam-poseshchat-restorany-i-bary-bez-ptsr-testa) только посетители, «имеющие защиту от заболевания»: те, кто сделал прививку, недавно переболел или сделал ПЦР-тест в течение последних трех дней. При этом стало известно, что мошенники [начали](https://novayagazeta.ru/articles/2021/06/29/v-internete-nachali-prodavat-poddelnye-qr-kody-dlia-poseshcheniia-kafe-i-restoranov-v-moskve) продавать в интернете поддельные QR-коды для посещения кафе и ресторанов в Москве.
+С 28 июня в Москве и Подмосковье попасть в заведения общепита [могут](2021/06/23/vlasti-podmoskovia-vsled-za-moskvoi-zapretili-nevaktsinirovannym-grazhdanam-poseshchat-restorany-i-bary-bez-ptsr-testa.md) только посетители, «имеющие защиту от заболевания»: те, кто сделал прививку, недавно переболел или сделал ПЦР-тест в течение последних трех дней. При этом стало известно, что мошенники [начали](2021/06/29/v-internete-nachali-prodavat-poddelnye-qr-kody-dlia-poseshcheniia-kafe-i-restoranov-v-moskve.md) продавать в интернете поддельные QR-коды для посещения кафе и ресторанов в Москве.
 
 «Коммерсант» со ссылкой на опрошенных рестораторов [пишет](https://www.kommersant.ru/amp/4878731), что действующие с понедельника ограничения привели к падению выручки в московских заведениях на 50–90%.
 

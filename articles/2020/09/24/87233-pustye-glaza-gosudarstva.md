@@ -76,7 +76,7 @@ tags: "аптеки, как это устроено, минпромторг, м�
 
 И как жить больному?
 
-**link:** https://novayagazeta.ru/articles/2020/09/24/87231-ne-novichki
+**link:** [Не новички](2020/09/24/87231-ne-novichki.md)
 
 # 5.
 

@@ -23,7 +23,7 @@ tags: ""
 
 > **обновлено**
 >
-> ### [Госдума приняла поправки о штрафах за поиск заведомо экстремистских материалов в интернете](https://novayagazeta.ru/articles/2025/07/17/gosduma-priniala-popravki-o-shtrafakh-za-poisk-zavedomo-ekstremistskikh-materialov-v-internete-srazu-v-dvukh-chteniiakh-pered-kanikulami-news)
+> ### [Госдума приняла поправки о штрафах за поиск заведомо экстремистских материалов в интернете](2025/07/17/gosduma-priniala-popravki-o-shtrafakh-za-poisk-zavedomo-ekstremistskikh-materialov-v-internete-srazu-v-dvukh-chteniiakh-.md)
 
 Впервые в России предлагается штрафовать не изготовителей и не распространителей противоправного контента, а потребителей — обычных людей. Опасность законопроекту [придает размытость формулировок](https://t.me/novaya_pishet/52638) того, что именно считается «экстремизмом», а «заведомость» может обосновываться наличием у пользователя сервиса VPN.
 

@@ -32,4 +32,4 @@ tags: ""
 > **Vladimir Lisin**,\
 >  Chairman of the Board of Directors NLMK Group»
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/07/samoe-vazhnoe-segodnia-sokhranit-rabochie-mesta
+**Читайте также:** [«Самое важное сегодня — сохранить рабочие места»](2022/03/07/samoe-vazhnoe-segodnia-sokhranit-rabochie-mesta.md)

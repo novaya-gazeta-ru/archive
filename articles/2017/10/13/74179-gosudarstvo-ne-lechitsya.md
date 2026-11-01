@@ -41,4 +41,4 @@ tags: "минздрав"
 
 Зато «фанфурики» вернулись в свободную продажу.
 
-**link:** https://novayagazeta.ru/articles/2017/10/10/74139-tseloe-ozero-fanfurikov
+**link:** [Целое озеро «фанфуриков»](2017/10/10/74139-tseloe-ozero-fanfurikov.md)

@@ -19,6 +19,6 @@ tags: "днепр, солдаты, расстрел, украина, военн�
 
 Адвокат объяснил поступок Рябчука тем, что над ним издевались сослуживцы. Поэтому, пояснил адвокат, его подзащитный не хочет отбывать наказание в гауптвахте, чтобы не *«*возвращаться туда, где над ним издевались».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/12/dedovshchine-obiavlen-otboi
+**Читайте также:** [https://novayagazeta.ru/articles/2021/10/12/dedovshchine-obiavlen-otboi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/10/12/dedovshchine-obiavlen-otboi)
 
-Трагедия [произошла](https://novayagazeta.ru/articles/2022/01/27/v-dnepre-soldat-srochnik-rasstrelial-piaterykh-sosluzhivtsev-i-skrylsia-news) в ночь на 27 января на территории машиностроительного завода «Южмаш». Рябчук [расстрелял](https://graty.me/news/dejstviya-kotorye-unizhayut-ego-dostoinstvo-sud-v-dnepre-arestoval-naczgvardejcza-rasstrelyavshego-sosluzhivczev/) десять человек, среди которых девять сослуживцев и вахтерша завода. Он сбежал вместе с оружием и боеприпасами, но вскоре сдался полицейским. Вахтерша и четверо солдат погибли на месте, пятеро получили ранения, трое находятся в тяжелом состоянии.
+Трагедия [произошла](2022/01/27/v-dnepre-soldat-srochnik-rasstrelial-piaterykh-sosluzhivtsev-i-skrylsia-news.md) в ночь на 27 января на территории машиностроительного завода «Южмаш». Рябчук [расстрелял](https://graty.me/news/dejstviya-kotorye-unizhayut-ego-dostoinstvo-sud-v-dnepre-arestoval-naczgvardejcza-rasstrelyavshego-sosluzhivczev/) десять человек, среди которых девять сослуживцев и вахтерша завода. Он сбежал вместе с оружием и боеприпасами, но вскоре сдался полицейским. Вахтерша и четверо солдат погибли на месте, пятеро получили ранения, трое находятся в тяжелом состоянии.

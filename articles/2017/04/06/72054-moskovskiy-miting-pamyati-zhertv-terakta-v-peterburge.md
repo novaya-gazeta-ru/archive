@@ -33,7 +33,7 @@ tags: "москва, акции, массовки, память, манежна�
 
 *Фото: Антон Карлинер,специально для "Новой газеты"*
 
-**link:** https://novayagazeta.ru/articles/2017/04/06/72053-poskorbeli-i-hvatit
+**link:** [«Поскорбели и хватит»](2017/04/06/72053-poskorbeli-i-hvatit.md)
 
 ![](_assets/27/2739fbaa4d69ca30657e5c353fb337dd.webp)
 
@@ -67,7 +67,7 @@ tags: "москва, акции, массовки, память, манежна�
 
 *Фото: Антон Карлинер,специально для "Новой газеты"*
 
-**link:** https://novayagazeta.ru/articles/2017/04/06/72047-miting-antiterror
+**link:** [Митинг-антитеррор](2017/04/06/72047-miting-antiterror.md)
 
 ![](_assets/ad/adf0ccec093c7af901a9571be18610a8.webp)
 
@@ -81,7 +81,7 @@ tags: "москва, акции, массовки, память, манежна�
 
 *Фото: Антон Карлинер,специально для "Новой газеты"*
 
-**link:** https://novayagazeta.ru/articles/2017/04/05/72043-aleksandr-gorodnitskiy-peterburzhtsam
+**link:** [«Моим землякам...» Александр Городницкий — петербуржцам](2017/04/05/72043-aleksandr-gorodnitskiy-peterburzhtsam.md)
 
 ![](_assets/42/4206b666eb941a106470c20de468135c.webp)
 

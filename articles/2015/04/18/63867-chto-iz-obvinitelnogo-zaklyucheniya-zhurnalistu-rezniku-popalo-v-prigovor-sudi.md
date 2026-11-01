@@ -19,9 +19,9 @@ tags: "диссернет, приговор"
 <p><strong>Как мы установили еще в январе, огромные куски приговора братьям Навальным по «делу Ив Роше» были перенесены из обвинительного заключения, по всей видимости, «при помощи технических средств» — например, флешек. Во всяком случае, скопированных страниц в этом приговоре оказалось куда больше, чем уникальных</strong><strong>.</strong></p>
 
 <blockquote>
-<p><strong><a href="http://www.novayagazeta.ru/inquests/66977.html" target="_blank"><span style="color:#B22222;"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/01/26/1422234507_370511_74.jpg" style="width: 100px; height: 75px;"></span></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+<p><strong><a href="[http://www.novayagazeta.ru/inquests/66977.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/66977.html)" target="_blank"><span style="color:#B22222;"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/01/26/1422234507_370511_74.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/01/26/1422234507_370511_74.jpg)" style="width: 100px; height: 75px;"></span></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/inquests/66977.html" target="_blank"><strong>«Дело Ив Роше»: большую часть текста приговора братьям Навальным судья скопировала из обвинительного заключения</strong></a></p>
+<p><a href="[http://www.novayagazeta.ru/inquests/66977.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/66977.html)" target="_blank"><strong>«Дело Ив Роше»: большую часть текста приговора братьям Навальным судья скопировала из обвинительного заключения</strong></a></p>
 </blockquote>
 
 <p><strong>Похоже, что этот метод подготовки приговоров применяется судьями по всей России. Во всяком случае, судья Ленинского райсуда Ростова-на-Дону Владимир Строков, вынося приговор в отношении журналиста и блогера Сергея Резника, не сильно постеснялся воспользоваться творчеством следователей, которое был обязан не копировать, а тщательно проверить и вынести самостоятельный правосудный и справедливый приговор.</strong></p>

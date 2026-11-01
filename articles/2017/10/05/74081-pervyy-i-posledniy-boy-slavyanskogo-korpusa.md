@@ -95,7 +95,7 @@ tags: "исламское государство, минобороны, каза
 
 В результате стремительной атаки боевики захватили несколько населенных пунктов вдоль трассы, включая Эш-Шолу, где и попали в плен Роман Заболотный и Григорий Цуркану.
 
-**link:** https://novayagazeta.ru/articles/2017/09/26/73969-lihost-ili-golovotyapstvo
+**link:** [«Кто послал генерала на передовую?»](2017/09/26/73969-lihost-ili-golovotyapstvo.md)
 
 # Жертвы нефтяных амбиций
 
@@ -115,8 +115,8 @@ tags: "исламское государство, минобороны, каза
 
 Но летняя активизация Пешмерги и так называемой «Сирийской демократической армии», которую в США и Европе считают оппозицией Башару Асаду, внесла корректив в планы командования российской военной группировки в Сирии.
 
-**link:** https://novayagazeta.ru/articles/2016/06/01/68815-fabrika-trolley-anatomiya-protesta-ili-viskas-dlya-shkolnikov-chto-hochet-zabyt-kremlevskiy-povar-prigozhin
+**link:** [«Фабрика троллей», «Анатомия протеста» или «Вискас» для школьников](2016/06/01/68815-fabrika-trolley-anatomiya-protesta-ili-viskas-dlya-shkolnikov-chto-hochet-zabyt-kremlevskiy-povar-prigozhin.md)
 
 Мы не знаем, кто пролоббировал форсирование разблокирования Дейр-эз-Зора. То ли это сирийское военно-политическое руководство, то ли влиятельные представитель российского истеблишмента, но события начали развиваться по самому скверному для России сценарию. Погибли генерал-лейтенант Валерий Асапов и полковник Валерий Федянин. ИГИЛ захватил вагнеровцев Романа Заболотного и Григория Цуркану.
 
-**link:** https://novayagazeta.ru/news/2017/10/05/135898-deputat-gosdumy-rasskazal-o-gibeli-popavshih-v-plen-k-ig-rossiyan
+**link:** [https://novayagazeta.ru/news/2017/10/05/135898-deputat-gosdumy-rasskazal-o-gibeli-popavshih-v-plen-k-ig-rossiyan](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/10/05/135898-deputat-gosdumy-rasskazal-o-gibeli-popavshih-v-plen-k-ig-rossiyan)

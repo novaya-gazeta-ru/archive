@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *Злорадование от трагедии на Ближнем востоке объединило российских антисемитов, с «турбопатриотами» и наци. А еще: как убивают Байкал и почему белорусы стали кочевниками*
 
-https://novayagazeta.ru/issues/3273
+[https://novayagazeta.ru/issues/3273](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3273)

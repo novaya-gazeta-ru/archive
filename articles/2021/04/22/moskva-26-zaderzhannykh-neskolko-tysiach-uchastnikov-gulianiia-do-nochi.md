@@ -25,7 +25,7 @@ tags: "москва, протесты , навальный, конституци
 
 *Фото: Арден Аркман / «Новая газета»*
 
-**Как прошла акция в Москве:** https://novayagazeta.ru/articles/2021/04/22/rossiia-eto-i-my-tozhe
+**Как прошла акция в Москве:** [«Россия — это и мы тоже»](2021/04/22/rossiia-eto-i-my-tozhe.md)
 
 ![](_assets/6c/6cf541cc125222636beaf320d33dcd2d.webp)
 
@@ -51,7 +51,7 @@ tags: "москва, протесты , навальный, конституци
 
 *Фото: Влад Докшин / «Новая газета»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/04/22/gaitsovskaia-khvatka
+**Читайте также:** [Гайцовская хватка](2021/04/22/gaitsovskaia-khvatka.md)
 
 ![](_assets/c0/c0a238c84b9e1981a1e198a0388a40f6.webp)
 

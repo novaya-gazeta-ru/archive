@@ -13,7 +13,7 @@ tags: "телевидение, премьеры, осень 2025 , ирина п
 
 *Ирина Петровская и Арина Бородина анализируют главные премьеры и провалы сезона. И почему «Первый» канал скорее похож на «лавку древностей», а «вечные» программы стабильно собирают у экранов зрителей?*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/09/05/zhivoi-malakhov-i-gologramma-matskiavichiusa
+**Читайте также:** [https://novayagazeta.ru/articles/2025/09/05/zhivoi-malakhov-i-gologramma-matskiavichiusa](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2025/09/05/zhivoi-malakhov-i-gologramma-matskiavichiusa)
 
 Ирина Петровская рецензирует ТВ и Youtube
 

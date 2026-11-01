@@ -21,6 +21,6 @@ tags: "госуслуги, минцифры, детишин, шадаев, kn"
 
 Шадаев объяснил свою инициативу наличием множества сервисов, ориентированных на детей: «электронный дневник, доступ к цифровому контенту».
 
-В апреле этого года правительство РФ [анонсировало](https://novayagazeta.ru/articles/2021/04/12/pravosudie-onlain-pravitelstvo-rf-anonsirovalo-zapusk-shesti-novykh-superservisov-na-portale-gosuslug) запуск шести новых «суперсервисов» на «Госуслугах». Среди новых сервисов будут такие, как «Правосудие онлайн», «Уведомление и обжалование штрафов за нарушение ПДД онлайн», «Рождение ребенка», «Утрата близкого человека», «Трудовая миграция онлайн», «Мое здоровье онлайн».
+В апреле этого года правительство РФ [анонсировало](2021/04/12/pravosudie-onlain-pravitelstvo-rf-anonsirovalo-zapusk-shesti-novykh-superservisov-na-portale-gosuslug.md) запуск шести новых «суперсервисов» на «Госуслугах». Среди новых сервисов будут такие, как «Правосудие онлайн», «Уведомление и обжалование штрафов за нарушение ПДД онлайн», «Рождение ребенка», «Утрата близкого человека», «Трудовая миграция онлайн», «Мое здоровье онлайн».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/15/inostrannoe-vmeshatelstvo-v-vybory
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/15/inostrannoe-vmeshatelstvo-v-vybory](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/15/inostrannoe-vmeshatelstvo-v-vybory)

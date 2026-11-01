@@ -11,7 +11,7 @@ tags: ""
 
 # Дипломат Ушаков: Путин и Трамп обсудили обмен заключенными в формате «9 на 9»
 
-Помощник Путина дипломат Юрий Ушаков заявил, что во время [телефонного разговора](https://novayagazeta.ru/articles/2025/05/19/tramp-posle-razgovora-s-putinym-priamye-peregovory-moskvy-i-kieva-nachinaiutsia-nemedlenno-dlia-prekrashcheniia-ognia-storony-budut-soglasovyvat-usloviia-news) Дональда Трампа с Владимиром Путиным стороны обсудили обмен заключенными в формате 9 на 9 человек.
+Помощник Путина дипломат Юрий Ушаков заявил, что во время [телефонного разговора](2025/05/19/tramp-posle-razgovora-s-putinym-priamye-peregovory-moskvy-i-kieva-nachinaiutsia-nemedlenno-dlia-prekrashcheniia-ognia-st.md) Дональда Трампа с Владимиром Путиным стороны обсудили обмен заключенными в формате 9 на 9 человек.
 
 «Это важная гуманитарная акция, несколько подобных акций уже были совершены в течение недавних месяцев. Президенты отметили, что сейчас прорабатывается очередной такой обмен 9 на 9 человек», — [заявил](https://tass.ru/politika/23985999) Ушаков.
 
@@ -19,6 +19,6 @@ tags: ""
 
 Обмен заключенными между США и Россией интенсифицировались с приходом Трампа на второй президентский срок.
 
-Так, в феврале криптобанкира Александра Винника [обменяли](https://novayagazeta.ru/articles/2025/02/12/tramp-vstretilsia-v-belom-dome-s-vozvrashchennym-iz-rossii-markom-fogelem-i-anonsiroval-osvobozhdenie-eshche-odnogo-amerikantsa-news) на Марка Фогеля, задержанного в РФ за перевозку наркотиков. А в апреле США [вернули](https://novayagazeta.ru/articles/2025/04/10/ssha-zaiavili-o-novom-obmene-zakliuchennymi-s-rossiei-na-svobodu-vyshla-kseniia-karelina-osuzhdennaia-v-rf-na-12-let-za-perevod-50-v-ukrainskii-fond-news) Ксению Карелину, имеющую оба гражданства, которую в России осудили по статье «госизмена» за донат украинскому фонду. В Россию в результате этого обмена вернулся Артур Петров, отбывавший срок за поставку в РФ компонентов в обход санкций.
+Так, в феврале криптобанкира Александра Винника [обменяли](2025/02/12/tramp-vstretilsia-v-belom-dome-s-vozvrashchennym-iz-rossii-markom-fogelem-i-anonsiroval-osvobozhdenie-eshche-odnogo-amer.md) на Марка Фогеля, задержанного в РФ за перевозку наркотиков. А в апреле США [вернули](2025/04/10/ssha-zaiavili-o-novom-obmene-zakliuchennymi-s-rossiei-na-svobodu-vyshla-kseniia-karelina-osuzhdennaia-v-rf-na-12-let-za-.md) Ксению Карелину, имеющую оба гражданства, которую в России осудили по статье «госизмена» за донат украинскому фонду. В Россию в результате этого обмена вернулся Артур Петров, отбывавший срок за поставку в РФ компонентов в обход санкций.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/05/19/peregovory-tantsuiushchikh-dervishei
+**Читайте также:** [Переговоры танцующих дервишей](2025/05/19/peregovory-tantsuiushchikh-dervishei.md)

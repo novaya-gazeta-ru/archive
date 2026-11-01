@@ -13,9 +13,9 @@ tags: "европа, исламское государство, париж, ре
 
 *Российские кавалеры ордена Почетного легиона — о трагедии в Париже*
 
-**link:** https://novayagazeta.ru/photos/70729.html
+**link:** [https://novayagazeta.ru/photos/70729.html](https://web.archive.org/web/*/https://novayagazeta.ru/photos/70729.html)
 
-**link:** https://novayagazeta.ru/society/70727.html
+**link:** [https://novayagazeta.ru/society/70727.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70727.html)
 
 #Григорий Чхартишвили (Б. АКУНИН),
 

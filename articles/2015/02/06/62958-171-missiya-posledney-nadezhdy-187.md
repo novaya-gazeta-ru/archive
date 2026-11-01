@@ -21,17 +21,17 @@ tags: "германия, дипломатия, европа, меркель, п�
 
 Предыдущие дипломатические усилия Франции и Германии усадить за стол переговоров Россию и Украину в формате «нормандской четверки» и возобновить диалог между Киевом и донбасскими сепаратистами в рамках минских договоренностей не принесли результата.
 
-**link:** https://novayagazeta.ru/politics/66154.html
+**link:** [https://novayagazeta.ru/politics/66154.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66154.html)
 
-**link:** https://novayagazeta.ru/politics/66154.html
+**link:** [https://novayagazeta.ru/politics/66154.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66154.html)
 
 Теперь, возможно, по [мнению](http://www.welt.de/politik/ausland/article137178116/Wir-wissen-nicht-ob-das-heute-gelingt.html) главы Мюнхенской конференции по безопасности Вольфганга Ишингера, предпринята самая последняя попытка добиться прекращения огня, срыв которой не обещает ничего хорошего.
 
 Опытный политик Ишингер знает, о чем говорит — в дискуссию о необходимости поставок Украине летального оружия, и не только американского, но и странами НАТО, втягиваются уже широкие общественные круги.
 
-**link:** https://novayagazeta.ru/politics/66410.html
+**link:** [https://novayagazeta.ru/politics/66410.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66410.html)
 
-**link:** https://novayagazeta.ru/politics/66410.html
+**link:** [https://novayagazeta.ru/politics/66410.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66410.html)
 
 Так, согласно проведенному телеканалом ARD опросу, 70% немцев выражают озабоченность возможным обострением противостояния России и НАТО, а 78% полагают, что Москве нельзя доверять. При этом почти половина опрошенных высказалась за то, что бы Североатлантический альянс взял на себя большую ответственность за ситуацию в Украине.
 

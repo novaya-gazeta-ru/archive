@@ -21,4 +21,4 @@ tags: "сенаторы, сша, facebook"
 
 Во время его выступления речь также зашла о британской аналитической компании Cambridge Analytica. Как сообщала New York Times, компания сотрудничала со штабом Дональда Трампа и собрала данные 87 млн пользователей для анализа политических предпочтений избирателей.
 
-**link:** https://novayagazeta.ru/articles/2018/03/22/75906-bolshoy-brat-sledit-za-tvoimi-laykami
+**link:** [Большой Брат следит за твоими «лайками»](2018/03/22/75906-bolshoy-brat-sledit-za-tvoimi-laykami.md)

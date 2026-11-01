@@ -35,8 +35,8 @@ tags: "минобороны, сирия, турция"
 
 «Думаю, что космическая разведка США зафиксировала этот роковой полет, и уже 24 ноября Пентагон прекрасно знал, что у ВВС Турции не было достаточных оснований для нападения на самолет ВКС России», — считает пилот.
 
-**link:** https://novayagazeta.ru/politics/70875.html
+**link:** [https://novayagazeta.ru/politics/70875.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/70875.html)
 
-**link:** https://novayagazeta.ru/politics/70875.html
+**link:** [https://novayagazeta.ru/politics/70875.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/70875.html)
 
 Еще 24 ноября «Новая» предположила, что турецкий самолет, по всей видимости, караулил российский бомбардировщик. И даже если Су-24 и нарушил воздушное пространство Турции, то это нарушение было краткосрочным, продолжительностью не более шести секунд..

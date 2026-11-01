@@ -11,4 +11,4 @@ tags: ""
 
 # Открытие XI Зимних Паралимпийских Игр в Сочи
 
-#  [Сочи. Город за сутки до открытия XI Зимних Паралимпийских Игр](http://www.novayagazeta.ru/photos/62609.html)
+#  [Сочи. Город за сутки до открытия XI Зимних Паралимпийских Игр](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/62609.html)

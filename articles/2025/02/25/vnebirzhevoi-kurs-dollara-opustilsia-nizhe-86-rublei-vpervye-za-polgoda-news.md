@@ -13,10 +13,10 @@ tags: ""
 
 Стоимость доллара на внебиржевом рынке на минимуме [опустилась](https://ru.investing.com/currencies/usd-rub) до 85,75 рубля — это минимум с 8 августа 2024 года. Евро торгуется ниже 91 рубля. Юань — меньше 12 рублей.
 
-Рубль в последние недели укрепляется на фоне геополитических новостей: например, на фоне [переговоров Путина и Трампа](https://novayagazeta.ru/articles/2025/02/12/tramp-soobshchil-o-telefonnom-razgovore-s-putinym-i-nachale-peregovorov-po-konfliktu-v-ukraine-news) и [встречи делегаций](https://novayagazeta.ru/articles/2025/02/19/dvizhukha-v-er-riiade) России и США в Саудовской Аравии.
+Рубль в последние недели укрепляется на фоне геополитических новостей: например, на фоне [переговоров Путина и Трампа](2025/02/12/tramp-soobshchil-o-telefonnom-razgovore-s-putinym-i-nachale-peregovorov-po-konfliktu-v-ukraine-news.md) и [встречи делегаций](2025/02/19/dvizhukha-v-er-riiade.md) России и США в Саудовской Аравии.
 
 Кроме того, на этой неделе [завершается](https://bcs-express.ru/novosti-i-analitika/nastupaet-period-maksimal-nogo-predlozheniia-valiuty) налоговый период, пики налоговых платежей придутся на 25 и 28 февраля. А 27 февраля вступят в силу санкции США против российского нефтегазового сектора. Из-за этого компании продают иностранную валюту, что увеличивает ее предложение на рынке и еще больше давит на курс доллара.
 
 Динамика курса валют и дальше будет неопределенной.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/24/tramputatsiia-liberalnoi-demokratii
+**Читайте также:** [ТрамПутация либеральной демократии](2025/02/24/tramputatsiia-liberalnoi-demokratii.md)

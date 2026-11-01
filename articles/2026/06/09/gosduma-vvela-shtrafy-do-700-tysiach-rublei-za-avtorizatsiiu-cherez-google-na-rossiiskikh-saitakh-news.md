@@ -37,4 +37,4 @@ tags: ""
 
 Также закон вводит административную ответственность для владельцев ресурсов за раскрытие данных о работе системы оперативно-розыскных мероприятий и за нарушения при использовании рекомендательных алгоритмов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/08/sud-oshtrafoval-peterburzhtsa-za-diskreditatsiiu-armii-v-besede-na-dvoikh-v-messendzhere-sobesednik-zapisal-razgovor-i-dones-news
+**Читайте также:** [Суд оштрафовал петербуржца за «дискредитацию» армии в беседе на двоих в мессенджере. Собеседник записал разговор и донес](2026/06/08/sud-oshtrafoval-peterburzhtsa-za-diskreditatsiiu-armii-v-besede-na-dvoikh-v-messendzhere-sobesednik-zapisal-razgovor-i-d.md)

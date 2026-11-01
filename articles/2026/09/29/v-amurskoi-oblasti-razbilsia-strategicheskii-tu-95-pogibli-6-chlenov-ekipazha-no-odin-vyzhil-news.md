@@ -21,4 +21,4 @@ tags: ""
 
 Россия применяет Ту-95 в СВО.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/28/10-chelovek-pogibli-pri-pozhare-na-zavode-pirotekhniki-v-iaroslavskoi-oblasti-mchs-news
+**Читайте также:** [13 человек погибли при пожаре на заводе пиротехники в Ярославской области, один ранен — МЧС. Всего на заводе работало 15 человек](2026/09/28/10-chelovek-pogibli-pri-pozhare-na-zavode-pirotekhniki-v-iaroslavskoi-oblasti-mchs-news.md)

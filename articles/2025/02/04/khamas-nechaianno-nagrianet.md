@@ -31,4 +31,4 @@ tags: "владивосток, хамас, цахал, поддержка, из�
 
 *Владивосток*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/30/tam-umresh-i-ne-zametish
+**Читайте также:** [«Там умрешь и не заметишь»](2025/01/30/tam-umresh-i-ne-zametish.md)

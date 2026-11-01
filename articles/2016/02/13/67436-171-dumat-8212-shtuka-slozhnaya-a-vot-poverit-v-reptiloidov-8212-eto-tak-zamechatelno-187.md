@@ -31,9 +31,9 @@ tags: "болотное дело, монолог"
 
 Было ощущение, что такое может случиться, но не осознавал, что именно со мной.
 
-**link:** https://novayagazeta.ru/politics/71407.html
+**link:** [https://novayagazeta.ru/politics/71407.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/71407.html)
 
-**link:** https://novayagazeta.ru/politics/71407.html
+**link:** [https://novayagazeta.ru/politics/71407.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/71407.html)
 
 Нашел вчера свой старый телефон, последние эсэмэски от Мити и его жены. Мы накануне моего ареста, в пятницу, ходили в кафе все вместе. Они оба преподаватели — он долгое время в кадетке, она в лицее. Мы как-то шли вместе, после «Белого кольца», что ли, в метро спускаемся, и какой-то мальчоночек с половину Мити к нему: «Дмитрий Вячеславович». Оказалось, бывший его кадет — и с таким пиететом! Я прям даже загордился им! Такие творческие, нетривиальные, неравнодушные люди они. А потом я узнал, что и его закрыли.
 
@@ -63,9 +63,9 @@ tags: "болотное дело, монолог"
 
 Переформатировала ли меня тюрьма? Боюсь, что да. Я старался, конечно, сдерживать себя. Может, где-то я стал и лучше. А где-то хуже — потому что вера в человечество подорвана.
 
-**link:** https://novayagazeta.ru/politics/71147.html
+**link:** [https://novayagazeta.ru/politics/71147.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/71147.html)
 
-**link:** https://novayagazeta.ru/politics/71147.html
+**link:** [https://novayagazeta.ru/politics/71147.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/71147.html)
 
 Моя младшая уже вымахала выше старшей, с маму ростом теперь, до сих пор удивляюсь. И ментально они выросли. Мы не теряли связи, поэтому не возникло отторжения, когда я вернулся. Со старшей общались по поводу перспектив обучения, с младшей о ее таланте — она действительно хорошо рисует. Весь срок со мной пробыла фенечка, которую мне дочка на 23 февраля 2012 года подарила.
 
@@ -79,9 +79,9 @@ tags: "болотное дело, монолог"
 
 Сильных мстительных порывов нет. Надо молиться за врагов своих, это нормально. Что сделаешь? Когда-нибудь они осознают, что натворили. А может, и нет.
 
-**link:** https://novayagazeta.ru/society/70598.html
+**link:** [https://novayagazeta.ru/society/70598.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70598.html)
 
-**link:** https://novayagazeta.ru/society/70598.html
+**link:** [https://novayagazeta.ru/society/70598.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70598.html)
 
 Тюрьма научила, что все возвращается. Кровожадничать в тюрьме не принято. А на свободе люди не понимают этого.
 

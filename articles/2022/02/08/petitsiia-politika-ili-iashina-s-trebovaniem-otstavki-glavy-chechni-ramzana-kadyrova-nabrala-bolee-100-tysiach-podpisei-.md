@@ -21,10 +21,10 @@ tags: "ng, петиции, яшин, чечня"
 
 > Помимо этого, Яшин [записал](https://www.youtube.com/watch?v=qirqAIvv2S8) открытое обращение к Рамзану Кадырову и выложил его на YouTube. За сутки оно набрало более 2 млн просмотров.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/03/elena-milashina-pokidaet-rossiiskuiu-federatsiiu
+**Читайте также:** [Елена Милашина покидает Российскую Федерацию](2022/02/03/elena-milashina-pokidaet-rossiiskuiu-federatsiiu.md)
 
 Кадыров последние недели выступал с угрозами в адрес чеченской семьи Янгулбаевых после того, как силовики насильно вывезли в Чечню из Нижнего Новгорода Зарему Мусаеву — супругу экс-судьи Сайди Янгулбаева. Глава Чечни призвал иностранные государства «вышвырнуть» семью судьи в отставке — после случившегося с супругой Янгулбаев покинул Россию из-за угроз. Помимо этого, Кадыров призвал возбудить уголовные дела против правозащитника Игоря Каляпина, журналистки «Новой газеты» Елены Милашиной, а также редакций «Новой газеты» и «Дождя»*.
 
-«Новая газета» [обратилась](https://novayagazeta.ru/articles/2022/01/31/novaia-gazeta-podala-v-sk-zaiavlenie-na-kadyrova-nazvavshego-terroristami-chlena-spch-kaliapina-i-zhurnalistku-milashinu-news) в СК из-за высказываний Кадырова. Депутат Заксобрания Петербурга и зампред партии «Яблоко» Борис Вишневский по поводу слов главы Чечни, депутата Госдумы Адама Делимханова и чеченских силовиков, тоже угрожавших Янгулбаевым, [направил](https://novayagazeta.ru/articles/2022/02/04/ne-pitaiu-illiuzii-deputat-vishnevskii-poprosil-genprokuraturu-proverit-ugrozy-kadyrova-i-delimkhanova-news) обращение в Генпрокуратуру.
+«Новая газета» [обратилась](2022/01/31/novaia-gazeta-podala-v-sk-zaiavlenie-na-kadyrova-nazvavshego-terroristami-chlena-spch-kaliapina-i-zhurnalistku-milashinu.md) в СК из-за высказываний Кадырова. Депутат Заксобрания Петербурга и зампред партии «Яблоко» Борис Вишневский по поводу слов главы Чечни, депутата Госдумы Адама Делимханова и чеченских силовиков, тоже угрожавших Янгулбаевым, [направил](2022/02/04/ne-pitaiu-illiuzii-deputat-vishnevskii-poprosil-genprokuraturu-proverit-ugrozy-kadyrova-i-delimkhanova-news.md) обращение в Генпрокуратуру.
 
 #### *внесен Минюстом РФ в реестр СМИ, выполняющих функцию иностранного агента

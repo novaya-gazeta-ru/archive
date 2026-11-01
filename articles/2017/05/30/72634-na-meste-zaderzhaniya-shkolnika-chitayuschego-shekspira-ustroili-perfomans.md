@@ -15,4 +15,4 @@ tags: "акционизм, москва, перфоманс"
 
 У кинотеатра «Художественный» в Москве прошел перфоманс в поддержку подростка, задержанного недавно полицией за декламирование «Гамлета» у раскрытой сумки. Две девушки станцевали на улице под поэму Маяковского «Облако в штанах».
 
-**link:** https://novayagazeta.ru/news/2017/05/30/132027-mat-zaderzhannogo-v-moskve-malchika-zayavila-v-politsiyu-na-ego-machehu
+**link:** [https://novayagazeta.ru/news/2017/05/30/132027-mat-zaderzhannogo-v-moskve-malchika-zayavila-v-politsiyu-na-ego-machehu](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/05/30/132027-mat-zaderzhannogo-v-moskve-malchika-zayavila-v-politsiyu-na-ego-machehu)

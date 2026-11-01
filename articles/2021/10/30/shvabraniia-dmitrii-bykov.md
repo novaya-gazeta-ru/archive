@@ -71,4 +71,4 @@ tags: "пытки"
  Подняв кулак, спустив штаны,\
  Со шваброй…
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/26/to-est-eto-amerika-skazala-im-pytaite-nasiluite-zapisyvaite-vse-na-video
+**Читайте также:** [«То есть это Америка сказала им: «Пытайте, насилуйте, записывайте все на видео!»](2021/10/26/to-est-eto-amerika-skazala-im-pytaite-nasiluite-zapisyvaite-vse-na-video.md)

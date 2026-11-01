@@ -21,8 +21,8 @@ tags: "онк,   ng, фбк, зеленский"
 
 Накануне директор ФБК Иван Жданов рассказал о том, что Зеленский признал вину и отказался от адвоката. «Происходят какие-то страшные вещи. На Павла оказывается давление в СИЗО, мы опасаемся за возможность его правовой защиты», — сообщил тогда Жданов, назвав ситуацию «очень тревожной».
 
-Зеленского обвиняют в призывах к экстремизму (ч. 2 ст. 280 УК) из-за его твитов о самосожжении журналистки Ирины Славиной. Оператора ФБК [задержали](https://novayagazeta.ru/news/2021/01/15/167107-pravoohraniteli-zaderzhali-videooperatora-fbk-ego-dostavili-v-sledstvennyy-komitet) 15 января, утром в тот же день дома у него прошел обыск. По словам Зеленского, в ходе оперативных действий один из сотрудников ударил его по голове. Позже Пресненский суд Москвы [арестовал](https://novayagazeta.ru/news/2021/01/15/167126-sud-arestoval-videooperatora-fbk-zelenskogo-po-delu-o-prizyvah-k-ekstremizmu) Зеленского до 28 февраля.
+Зеленского обвиняют в призывах к экстремизму (ч. 2 ст. 280 УК) из-за его твитов о самосожжении журналистки Ирины Славиной. Оператора ФБК [задержали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2021/01/15/167107-pravoohraniteli-zaderzhali-videooperatora-fbk-ego-dostavili-v-sledstvennyy-komitet) 15 января, утром в тот же день дома у него прошел обыск. По словам Зеленского, в ходе оперативных действий один из сотрудников ударил его по голове. Позже Пресненский суд Москвы [арестовал](https://web.archive.org/web/*/https://novayagazeta.ru/news/2021/01/15/167126-sud-arestoval-videooperatora-fbk-zelenskogo-po-delu-o-prizyvah-k-ekstremizmu) Зеленского до 28 февраля.
 
-**link:** https://novayagazeta.ru/articles/2021/01/16/88733-serzhant-knyazev-protiv-operatora-zelenskogo
+**link:** [Сержант Князев против оператора Зеленского](2021/01/16/88733-serzhant-knyazev-protiv-operatora-zelenskogo.md)
 
 _*внесен Минюстом в список НКО, выполняющих функцию иноагента_

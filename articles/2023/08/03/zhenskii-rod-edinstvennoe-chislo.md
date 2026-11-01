@@ -57,4 +57,4 @@ tags: "выборг, кинофестиваль, окно в европу, кр�
 >
 > Лариса Малюкова ведет телеграм-канал о кино и не только. [Подписывайтесь тут](https://t.me/larisamalukova).
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/07/24/oppengeimer-glavnyi-film-goda-ob-otkrytiiakh-kotorye-nas-ubivaiut-media
+**Читайте также:** [«Оппенгеймер» — главный фильм года об открытиях, которые нас убивают](2023/07/24/oppengeimer-glavnyi-film-goda-ob-otkrytiiakh-kotorye-nas-ubivaiut-media.md)

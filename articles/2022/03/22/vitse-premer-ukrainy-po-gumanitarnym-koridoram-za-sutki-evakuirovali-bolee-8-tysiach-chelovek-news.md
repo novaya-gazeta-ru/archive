@@ -19,8 +19,8 @@ tags: "украина, верещук, гуманитарные коридоры
 
 *В условиях ведения боевых действий данную информацию оперативно проверить не удается. «Новая газета» обратилась в Минобороны РФ за разъяснением ситуации.*
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/21/dvadtsat-shestoi-den-boevykh-deistvii-v-ukraine-glavnoe
+**Читайте также:** [Двадцать шестой день боевых действий в Украине. Главное](2022/03/21/dvadtsat-shestoi-den-boevykh-deistvii-v-ukraine-glavnoe.md)
 
-Минобороны РФ ранее[заявило](https://novayagazeta.ru/articles/2022/03/20/minoborony-rf-zaiavilo-o-gotovnosti-otkryt-gumanitarnye-koridory-21-marta-vedomstvo-nastaivaet-na-pismennom-otvete-ukrainy-do-5-utra-news), что в Мариуполе находятся 130 тысяч мирных жителей. Ведомство предложило организовать выход из города украинских военных и иностранцев без оружия, а после этого пропустить гуманитарные колонны и провести эвакуацию мирного населения.\
+Минобороны РФ ранее[заявило](2022/03/20/minoborony-rf-zaiavilo-o-gotovnosti-otkryt-gumanitarnye-koridory-21-marta-vedomstvo-nastaivaet-na-pismennom-otvete-ukrai.md), что в Мариуполе находятся 130 тысяч мирных жителей. Ведомство предложило организовать выход из города украинских военных и иностранцев без оружия, а после этого пропустить гуманитарные колонны и провести эвакуацию мирного населения.\
  \
- Ирина Верещук в ответ [заявила](https://novayagazeta.ru/articles/2022/03/21/vitse-premer-ukrainy-ukrainskaia-armiia-v-mariupole-ne-slozhit-oruzhie-i-ne-pokinet-gorod-news#), что украинская армия в Мариуполе не сложит оружие и не покинет город.
+ Ирина Верещук в ответ [заявила](2022/03/21/vitse-premer-ukrainy-ukrainskaia-armiia-v-mariupole-ne-slozhit-oruzhie-i-ne-pokinet-gorod-news.md), что украинская армия в Мариуполе не сложит оружие и не покинет город.

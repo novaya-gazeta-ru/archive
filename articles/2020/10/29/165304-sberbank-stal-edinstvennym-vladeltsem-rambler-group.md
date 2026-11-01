@@ -19,4 +19,4 @@ tags: "sn, мамут, Rambler, сбербанк"
 
 На фоне новостей о покупке Rambler Group акции «Сбера» [начали](https://www.moex.com/ru/issue.aspx?board=TQBR&code=SBER) расти. Сейчас одна акция торгуется на уровне 205,5 рубля. Акционером Rambler Group «Сбер» стал в 2019 году, а этим летом увеличил свою долю в компании до 55%.
 
-**link:** https://novayagazeta.ru/articles/2020/09/26/87246-sber-vse-ravno-ostaetsya-bankom
+**link:** [«Сбер» все равно остается банком»](2020/09/26/87246-sber-vse-ravno-ostaetsya-bankom.md)

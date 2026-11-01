@@ -19,8 +19,8 @@ tags: "яхта, пумпянский, санкции, гибралтар, фи�
 
 «В настоящее время судно подлежит аресту маршалом адмиралтейства до дальнейшего распоряжения», — говорится в сообщении местных властей.\
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/11/nichego-ne-konfiskovano-no-vse-arestovano#
+**Читайте также:** [Ничего не конфисковано, но все арестовано](2022/03/11/nichego-ne-konfiskovano-no-vse-arestovano.md)
 
-Ранее в Испании [задержали](https://novayagazeta.ru/articles/2022/03/17/vlasti-ispanii-arestovali-135-metrovuiu-iakhtu-crescent-kotoruiu-sviazyvaiut-s-igorem-sechinym-news) 135-метровую яхту под названием «Crescent» («Полумесяц»). Агентство Reuters связывает яхту с главой «Роснефти» Игорем Сечиным, внесенным в санкционный список Евросоюза, США и Великобритании. 3 марта, министр экономики и финансов Франции Брюно Ле Мэр [сообщил](https://novayagazeta.ru/articles/2022/03/03/vlasti-frantsii-arestovali-iakhtu-amore-vero-kotoruiu-sviazyvaiut-s-igorem-sechinym-news) о конфискации яхты Amore Vero, которую также связывают с Сечиным, в порту Ла-Сьота на Лазурном берегу.
+Ранее в Испании [задержали](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/17/vlasti-ispanii-arestovali-135-metrovuiu-iakhtu-crescent-kotoruiu-sviazyvaiut-s-igorem-sechinym-news) 135-метровую яхту под названием «Crescent» («Полумесяц»). Агентство Reuters связывает яхту с главой «Роснефти» Игорем Сечиным, внесенным в санкционный список Евросоюза, США и Великобритании. 3 марта, министр экономики и финансов Франции Брюно Ле Мэр [сообщил](2022/03/03/vlasti-frantsii-arestovali-iakhtu-amore-vero-kotoruiu-sviazyvaiut-s-igorem-sechinym-news.md) о конфискации яхты Amore Vero, которую также связывают с Сечиным, в порту Ла-Сьота на Лазурном берегу.
 
-Также власти Гамбурга 3 марта [конфисковали](https://novayagazeta.ru/articles/2022/03/02/forbes-soobshchil-o-konfiskatsii-vlastiami-gamburga-156-metrovoi-iakhty-usmanova-news) 156-метровую яхту Dilbar российского бизнесмена Алишера Усманова, попавшего под санкции.
+Также власти Гамбурга 3 марта [конфисковали](2022/03/02/forbes-soobshchil-o-konfiskatsii-vlastiami-gamburga-156-metrovoi-iakhty-usmanova-news.md) 156-метровую яхту Dilbar российского бизнесмена Алишера Усманова, попавшего под санкции.

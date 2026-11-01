@@ -13,4 +13,4 @@ tags: ""
 
 *Академики РАН засекретили данные об экокатастрофах в Сибирской части России*
 
-https://novayagazeta.ru/issues/3101
+[https://novayagazeta.ru/issues/3101](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3101)

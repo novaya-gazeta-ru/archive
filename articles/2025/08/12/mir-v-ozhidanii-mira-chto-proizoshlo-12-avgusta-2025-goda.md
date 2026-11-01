@@ -111,7 +111,7 @@ tags: ""
 >
 > Колесников».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/11/mir-v-ozhidanii-mira-chto-proizoshlo-11-avgusta-2025-goda
+**Читайте также:** [Мир в ожидании мира. Что произошло 11 августа 2025 года](2025/08/11/mir-v-ozhidanii-mira-chto-proizoshlo-11-avgusta-2025-goda.md)
 
 #### * Объявлено экстремистским движением, деятельность в РФ запрещена.
 

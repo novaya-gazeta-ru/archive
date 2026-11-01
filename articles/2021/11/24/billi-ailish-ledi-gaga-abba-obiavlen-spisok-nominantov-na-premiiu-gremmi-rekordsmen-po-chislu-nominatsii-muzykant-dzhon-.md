@@ -19,8 +19,8 @@ tags: "ng, грэмми, сша"
 - Премию** «Песня года»** могут получить Эд Ширан («Bad Habits»), Алиша Кис и Бренди Карлайл («A Beautiful Noise»), Оливия Родриго («Drivers License»), H.E.R. («Fight for You»), Билли Айлиш («Happier Than Ever»), Doja Cat и SZA («Kiss Me More»), Silk Sonic («Leave the Door Open»), Lil Nas X («Montero»), Джастин Бибер («Peaches») и другие.
 - За номинацию **«Альбом года»** поборются Джон Батист («We Are»), Тони Беннетт и Леди Гага («Love for Sale»), Джастин Бибер («Justice»), Doja Cat («Planet Her»), Билли Айлиш («Happier Than Ever»), Тэйлор Свифт («Evermore»), Канье Уэст («Donda») и другие.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/15/drug-stepei-remiks
+**Читайте также:** [Друг степей ремикс](2021/03/15/drug-stepei-remiks.md)
 
 В списке номинантов на премию «Лучший новый исполнитель» значатся Аруж Афтаб, Джимми Аллен, Baby Keem, Finneas, Glass Animals и Japanese Breakfast.
 
-64-я церемония награждения победителей премии «Грэмми» пройдет в Лос-Анджелесе 31 января. «Грэмми»-2021 [прошла](https://novayagazeta.ru/articles/2021/03/15/h-e-r-teilor-svift-i-billi-ailish-poluchili-premiiu-gremmi) 14 марта в Лос-Анджелесе, Нью-Йорке и Нэшвилле в онлайн-режиме. Премия «Песня года» была присуждена композиции «I Can't Breathe» исполнительницы H.E.R.
+64-я церемония награждения победителей премии «Грэмми» пройдет в Лос-Анджелесе 31 января. «Грэмми»-2021 [прошла](2021/03/15/h-e-r-teilor-svift-i-billi-ailish-poluchili-premiiu-gremmi.md) 14 марта в Лос-Анджелесе, Нью-Йорке и Нэшвилле в онлайн-режиме. Премия «Песня года» была присуждена композиции «I Can't Breathe» исполнительницы H.E.R.

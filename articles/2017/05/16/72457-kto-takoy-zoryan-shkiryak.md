@@ -21,7 +21,7 @@ tags: "порошенко, телеком, вконтакте, яндекс, с�
 
 **И сегодня Шкиряк принимает поздравления от единомышленников. Что это за человек?**
 
-**link:** https://novayagazeta.ru/articles/2017/05/16/72454-poroshenko-zablokiroval-na-ukraine-rossiyskie-smi-sotsseti-i-it-kompanii
+**link:** [Порошенко заблокировал на Украине российские СМИ, соцсети и IT-компании (Обновлено)](2017/05/16/72454-poroshenko-zablokiroval-na-ukraine-rossiyskie-smi-sotsseti-i-it-kompanii.md)
 
 Зорян Шкиряк — уроженец Закарпатья, начинал в политике как гражданский активист, избирался депутатом горсовета Киева, активным участником Майдана. Участвовал в президентской кампании 2014 года, был назначен советником министра внутренних дел.
 
@@ -29,8 +29,8 @@ tags: "порошенко, телеком, вконтакте, яндекс, с�
 
 В марте 2015-го года Шкиряка назначили исполняющим обязанности руководителя Госслужбы по чрезвычайным ситуациям. Работал недолго, лишь до мая 2015-го: после эвакуации граждан Украины из Непала, где произошло землетрясение, стал жертвой медийного скандала (из-за опубликованной фотографии) и подал в отставку, вернувшись в МВД.
 
-**link:** https://novayagazeta.ru/articles/2017/05/16/72456-strelba-sebe-v-nogu-i-velikiy-ukrainskiy-fayrvol-kak-rossiyskie-vlasti-otreagirovali-na-sanktsii-ukrainy-protiv-sotssetey-i-it-kompaniy
+**link:** [«Стрельба себе в ногу» и «великий украинский файервол»](2017/05/16/72456-strelba-sebe-v-nogu-i-velikiy-ukrainskiy-fayrvol-kak-rossiyskie-vlasti-otreagirovali-na-sanktsii-ukrainy-protiv-so.md)
 
 В феврале 2017 г. телеканал «Россия-24» сообщил, что убийство полевого командира Гиви на Донбассе осуществили «некие Зорян и Шкиряк». Журналист решил, что это два разных человека. Ошибка благодаря популярности в украинских соцсетях тут же стала мемом.
 
-**link:** https://novayagazeta.ru/articles/2017/02/09/71454-eto-tebe-za-patsanov-pogibshih-pod-avdeevkoy
+**link:** [https://novayagazeta.ru/articles/2017/02/09/71454-eto-tebe-za-patsanov-pogibshih-pod-avdeevkoy](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/02/09/71454-eto-tebe-za-patsanov-pogibshih-pod-avdeevkoy)

@@ -27,4 +27,4 @@ tags: ""
 
 **[ОБСУДИТЬ НА ФОРУМЕ](http://www.otkpblto.ru/index.php?showtopic=16255)**
 
-[](http://www.novayagazeta.ru/vote2010_3/)
+[](https://web.archive.org/web/*/http://www.novayagazeta.ru/vote2010_3/)

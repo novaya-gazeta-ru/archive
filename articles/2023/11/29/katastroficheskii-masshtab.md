@@ -43,4 +43,4 @@ tags: "овд-инфо, политзаключенные"
 
 #### * Признаны Минюстом РФ «иноагентами».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/11/18/oskorbleniia-s-tseliu-provokatsii
+**Читайте также:** [Оскорбления «с целью провокации»](2023/11/18/oskorbleniia-s-tseliu-provokatsii.md)

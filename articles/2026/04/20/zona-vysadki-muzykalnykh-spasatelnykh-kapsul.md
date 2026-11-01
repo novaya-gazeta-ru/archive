@@ -69,4 +69,4 @@ tags: ""
 >
 > - **Слушать: **[**Apple.Music**](https://music.apple.com/us/album/i-sure-am-getting-sick-of-this-bowling-alley-ep/1867010955)**, **[**Telegram**](https://vk.com/away.php?to=https%3A%2F%2Ft.me%2Fzerowave%2F2663&utf=1)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/21/iadernaia-programma-irana-i-griby-s-glazami-v-riazani
+**Читайте также:** [«Ядерная программа Ирана и грибы с глазами в Рязани»](2025/06/21/iadernaia-programma-irana-i-griby-s-glazami-v-riazani.md)

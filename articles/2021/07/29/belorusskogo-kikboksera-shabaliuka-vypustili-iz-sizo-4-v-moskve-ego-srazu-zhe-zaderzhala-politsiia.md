@@ -29,8 +29,8 @@ tags: "спортсмены, беларусь, депортация, kn"
  \
  В феврале 2021 года издание Tribuna.com [сообщило](https://bytribuna.global.ssl.fastly.net/boxing/1093749506-master-sporta-ko-kikboksingu-shabalyuk-zaderzhan-v-moskve-emu-grozit-e.html) о задержании Шабалюка в Москве. Беларусь просит экстрадировать спортсмена в рамках дела о сопротивлении милиционеру (ст. 363 УК РБ). Ему грозит до пяти лет колонии. 11 августа в Москве [должно было пройти](https://vot-tak.tv/programmy/27-07-2021-libo-budut-derzhat-do-osvobozhdeniya-libo-kak-kudina-otvezut-vydast-li-rossiya-politzekov-belarusi/) обжалование решения Генпрокуратуры РФ о выдаче спортсмена в Беларусь.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/04/07/vozhd-silno-vozbudilsia
+**Читайте также:** [«Вождь сильно возбудился»](2021/04/07/vozhd-silno-vozbudilsia.md)
 
-22 июля Россия тайно [выдала](https://novayagazeta.ru/articles/2021/07/22/rossiia-vydala-obviniaemogo-v-belarusi-po-ugolovnomu-delu-bortsa-mma-nesmotria-na-zapret-espch) Беларуси бойца ММА Алексея Кудина, несмотря на запрет Европейского суда по правам человека. Сейчас Кудин находится в минском СИЗО №1. Ему также грозит до пяти лет лишения свободы по делу о сопротивлении силовикам во время протестов.
+22 июля Россия тайно [выдала](2021/07/22/rossiia-vydala-obviniaemogo-v-belarusi-po-ugolovnomu-delu-bortsa-mma-nesmotria-na-zapret-espch.md) Беларуси бойца ММА Алексея Кудина, несмотря на запрет Европейского суда по правам человека. Сейчас Кудин находится в минском СИЗО №1. Ему также грозит до пяти лет лишения свободы по делу о сопротивлении силовикам во время протестов.
 
-29 июля апелляционный суд в Москве [постановил](https://novayagazeta.ru/articles/2021/07/29/sud-v-moskve-postanovil-ekstradirovat-belorusskogo-anarkhista-andreia-kazimirov-vopreki-zapretu-espch) депортировать 22-летнего брестского анархиста Андрея Казимирова в Беларусь, также вопреки запрету ЕСПЧ. Активисту грозит до восьми лет колонии по делу о «массовых беспорядках».
+29 июля апелляционный суд в Москве [постановил](2021/07/29/sud-v-moskve-postanovil-ekstradirovat-belorusskogo-anarkhista-andreia-kazimirov-vopreki-zapretu-espch.md) депортировать 22-летнего брестского анархиста Андрея Казимирова в Беларусь, также вопреки запрету ЕСПЧ. Активисту грозит до восьми лет колонии по делу о «массовых беспорядках».

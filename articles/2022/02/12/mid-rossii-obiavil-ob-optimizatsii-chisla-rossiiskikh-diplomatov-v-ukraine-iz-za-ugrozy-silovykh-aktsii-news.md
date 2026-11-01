@@ -27,8 +27,8 @@ tags: "россия, украина, посольство, da"
 
 Также Захарова пояснила, что посольство России в Киеве и генеральные консульства во Львове, Одессе и Харькове продолжат выполнять свои основные функции.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/20/bezliudnye-tekhnologii
+**Читайте также:** [https://novayagazeta.ru/articles/2022/01/20/bezliudnye-tekhnologii](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/01/20/bezliudnye-tekhnologii)
 
-За последние сутки около 20 стран [призвали](https://novayagazeta.ru/articles/2022/02/12/16-stran-za-sutki-prizvali-svoikh-grazhdan-pokinut-ukrainu-iz-za-opasenii-voennoi-eskalatsii-so-storony-rossii-news) своих граждан покинуть Украину из-за опасений военной эскалации со стороны России. США попросили своих граждан, находящихся в Украине, покинуть страну в течение 24-48 часов. Агентство AP со ссылкой на источники в органах власти [сообщает](https://apnews.com/article/russia-ukraine-united-states-europe-russia-kyiv-ff41abf90650aa5f456cbb6aafa4c5b3), что Госдеп США скоро намерен объявить о начале эвакуации своих дипломатов из Киева.
+За последние сутки около 20 стран [призвали](2022/02/12/16-stran-za-sutki-prizvali-svoikh-grazhdan-pokinut-ukrainu-iz-za-opasenii-voennoi-eskalatsii-so-storony-rossii-news.md) своих граждан покинуть Украину из-за опасений военной эскалации со стороны России. США попросили своих граждан, находящихся в Украине, покинуть страну в течение 24-48 часов. Агентство AP со ссылкой на источники в органах власти [сообщает](https://apnews.com/article/russia-ukraine-united-states-europe-russia-kyiv-ff41abf90650aa5f456cbb6aafa4c5b3), что Госдеп США скоро намерен объявить о начале эвакуации своих дипломатов из Киева.
 
 Накануне издание Politico [сообщило](https://www.politico.com/news/2022/02/11/us-sending-3000-more-troops-to-poland-00008357) со ссылкой на источники, что данные разведки США указывают на 16 февраля как на «вероятную дату вторжения России в Украину». Помощники президента США Джо Байдена не подтвердили эту информацию официально, однако не исключили вероятность того, что «вторжение может начаться до окончания Олимпийских игр в Пекине — до 20 февраля».

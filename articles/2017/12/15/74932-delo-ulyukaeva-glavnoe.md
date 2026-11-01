@@ -67,7 +67,7 @@ tags: "роснефть, сечин, приговор, улюкаев, суды"
 
 *Фото: Виктория Одиссонова / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2017/12/07/74824-kraeugolnyy-kamen-moego-dela-zhestokost-i-vsedozvolennost-provokatorov
+**link:** [«Я слишком часто шел на компромиссы...» (аудио)](2017/12/07/74824-kraeugolnyy-kamen-moego-dela-zhestokost-i-vsedozvolennost-provokatorov.md)
 
 **Экспертиза**
 

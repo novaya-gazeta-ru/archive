@@ -15,7 +15,7 @@ tags: "сутуга, антифашисты"
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/07/31/1406820899_751704_67.jpg" style="width: 216px; height: 177px;"><sup>Алексей Сутуга. Фото: «Дождь»</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/07/31/1406820899_751704_67.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/07/31/1406820899_751704_67.jpg)" style="width: 216px; height: 177px;"><sup>Алексей Сутуга. Фото: «Дождь»</sup></td>
 		</tr>
 	</tbody>]*
 

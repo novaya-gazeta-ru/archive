@@ -13,15 +13,15 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/07/1347030966_562804_38.jpg" style="width: 360px; height: 435px; "><br>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/07/1347030966_562804_38.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/07/1347030966_562804_38.jpg)" style="width: 360px; height: 435px; "><br>
 			<sup>Эрьзя (C. Нефёдов). «Лев Толстой»</sup></td>
 		</tr>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/07/1347030966_695318_9.jpg" style="width: 360px; height: 443px; "><br>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/07/1347030966_695318_9.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/07/1347030966_695318_9.jpg)" style="width: 360px; height: 443px; "><br>
 			<sup>Д. Шмаринов. «Наташа Ростова в Отрадном»</sup></td>
 		</tr>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/07/1347030966_830599_95.jpg" style="width: 360px; height: 442px; "><br>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/07/1347030966_830599_95.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/07/1347030966_830599_95.jpg)" style="width: 360px; height: 442px; "><br>
 			<sup>Е. Лансаре. Одна из иллюстраций к «Хаджи-Мурату» Льва Толстого</sup>
 			<p>&nbsp;</p>
 			</td>

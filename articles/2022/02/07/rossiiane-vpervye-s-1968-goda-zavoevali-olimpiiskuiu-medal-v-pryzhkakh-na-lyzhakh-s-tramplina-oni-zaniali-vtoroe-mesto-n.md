@@ -17,12 +17,12 @@ tags: "олимпиада-2022, пекин-2022, лыжи, спортсмены,
 
 Это первая олимпийская медаль в этой дисциплине в российской истории. В 1968 году золотую медаль в прыжках с большого трамплина завоевал советский спортсмен Владимир Белоусов.
 
-Российские спортсмены [занимают](https://olympics.com/beijing-2022/olympic-games/ru/results/all-sports/medal-standings.htm) сейчас второе место в медальном зачете. На первом месте шведы с тремя золотыми медалями. Ранее сборная России по фигурному катанию [стала](https://novayagazeta.ru/articles/2022/02/07/sbornaia-rossii-po-figurnomu-kataniiu-vyigrala-zoloto-v-komandnykh-sorevnovaniiakh-news) первой в командном турнире.
+Российские спортсмены [занимают](https://olympics.com/beijing-2022/olympic-games/ru/results/all-sports/medal-standings.htm) сейчас второе место в медальном зачете. На первом месте шведы с тремя золотыми медалями. Ранее сборная России по фигурному катанию [стала](2022/02/07/sbornaia-rossii-po-figurnomu-kataniiu-vyigrala-zoloto-v-komandnykh-sorevnovaniiakh-news.md) первой в командном турнире.
 
 Россияне выступают под нейтральным флагом (ROC) из-за санкций Всемирного антидопингового агентства.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/07/v-podnebesnoi-naideno-zoloto-partii
+**Читайте также:** [В Поднебесной найдено золото партии](2022/02/07/v-podnebesnoi-naideno-zoloto-partii.md)
 
-Накануне российский лыжник Александр Большунов [выиграл](https://novayagazeta.ru/articles/2022/02/06/lyzhnik-aleksandr-bolshunov-prines-rossii-pervoe-olimpiiskoe-zoloto-news) золотую медаль в скиатлоне. Второе место в соревновании также занял россиянин — Денис Спицов. Чуть позже российская фристайлистка Анастасия Смирнова [заняла](https://novayagazeta.ru/articles/2022/02/06/rossiiskaia-fristailistka-anastasiia-smirnova-zavoevala-bronzovuiu-medal-v-mogule-na-olimpiade-v-pekine-news) третье место в могуле.
+Накануне российский лыжник Александр Большунов [выиграл](2022/02/06/lyzhnik-aleksandr-bolshunov-prines-rossii-pervoe-olimpiiskoe-zoloto-news.md) золотую медаль в скиатлоне. Второе место в соревновании также занял россиянин — Денис Спицов. Чуть позже российская фристайлистка Анастасия Смирнова [заняла](2022/02/06/rossiiskaia-fristailistka-anastasiia-smirnova-zavoevala-bronzovuiu-medal-v-mogule-na-olimpiade-v-pekine-news.md) третье место в могуле.
 
 В первый день серебряные и бронзовые медали в смешанной эстафете [выиграли](https://www.sport-interfax.ru/olimpiada-2022/820421) биатлонисты Ульяна Нигматуллина, Кристина Резцова, Александр Логинов и Эдуард Латыпов, а лыжница Наталья Непряева [принесла](https://www.bbc.com/russian/news-60249439?ocid=wsrussian.social.in-app-messaging.telegram..russiantelegram_.edit) России серебряную медаль в скиатлоне.

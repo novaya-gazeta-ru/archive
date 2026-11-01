@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/22/1348310055_763141_77.jpg" style="width: 360px; height: 270px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/22/1348310055_763141_77.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/22/1348310055_763141_77.jpg)" style="width: 360px; height: 270px; "><br>
 				<sup>Детская площадка — единственная в садовом товариществе. Она же — место народных сборов</sup></td>
 		</tr>
 	</tbody>]*

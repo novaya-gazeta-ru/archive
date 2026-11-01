@@ -123,4 +123,4 @@ _Многоуважаемый Платон Леонидович! Если бы �
 
 Президент также, насколько я его понимаю, заинтересован в том, чтобы эти вопросы решал СУД (а не «суд»).
 
-[http://lj.novayagazeta.ru/comments/?docId=783882&thread=5860945&docHash=e5c16f528efff0b9a01c6f23932ae116](https://novayagazeta.ru/comments/?docId=783882&thread=5860945&docHash=e5c16f528efff0b9a01c6f23932ae116)
+[http://lj.novayagazeta.ru/comments/?docId=783882&thread=5860945&docHash=e5c16f528efff0b9a01c6f23932ae116](https://web.archive.org/web/*/https://novayagazeta.ru/comments/?docId=783882&thread=5860945&docHash=e5c16f528efff0b9a01c6f23932ae116)

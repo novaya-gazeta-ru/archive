@@ -27,6 +27,6 @@ tags: ""
 
 **youtube:** https://www.youtube.com/watch?v=XQfWnHoWiLo
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/01/28/chto-proiskhodit-posle-svobody
+**Читайте также:** [Что происходит после свободы?](2026/01/28/chto-proiskhodit-posle-svobody.md)
 
 #### * Внесен властями РФ в реестр «иноагентов»

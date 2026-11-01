@@ -59,7 +59,7 @@ tags: "кондратьев, краснодарский край, туапсе, 
 
 **Татьяна (Туапсе).**
 
-**link:** https://novayagazeta.ru/articles/2018/10/25/78336-navodnenie-v-krasnodarskom-krae
+**link:** [Наводнение в Краснодарском крае](2018/10/25/78336-navodnenie-v-krasnodarskom-krae.md)
 
 # «В «Магниты» сейчас паромом отправляются фуры с продуктами»
 

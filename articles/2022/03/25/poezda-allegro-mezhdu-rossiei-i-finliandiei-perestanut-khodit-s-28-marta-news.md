@@ -23,6 +23,6 @@ tags: ""
 
 После снятия ряда коронавирусных ограничений в декабре прошлого года движение поездов «Аллегро» было [возобновлено](https://www.rzd.ru/ru/9318/page/9000?id=3).
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/03/iz-tuly-s-liuboviu
+**Читайте также:** [Из Тулы с любовью](2022/03/03/iz-tuly-s-liuboviu.md)
 
-В начале марта производитель поездов «Аллегро», французская компания Alstom, [объявила](https://www.alstom.com/press-releases-news/2022/3/alstom-statement-ukraine) об остановке всех поставок в Россию на фоне ситуации в Украине. 22 марта Siemens также [приостановил](https://novayagazeta.ru/articles/2022/03/22/siemens-priostanovil-kontrakt-na-postavku-elektropoezdov-sapsan-news) контракт на поставку новых электропоездов «Сапсан».
+В начале марта производитель поездов «Аллегро», французская компания Alstom, [объявила](https://www.alstom.com/press-releases-news/2022/3/alstom-statement-ukraine) об остановке всех поставок в Россию на фоне ситуации в Украине. 22 марта Siemens также [приостановил](2022/03/22/siemens-priostanovil-kontrakt-na-postavku-elektropoezdov-sapsan-news.md) контракт на поставку новых электропоездов «Сапсан».

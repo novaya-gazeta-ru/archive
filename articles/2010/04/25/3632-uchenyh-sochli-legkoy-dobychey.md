@@ -57,4 +57,4 @@ tags: ""
  **Алексей Яблоков** — член-корр. РАН;\
  **Глеб Якунин** — священник.
 
-[](http://novayagazeta.ru/vote2010_2/)
+[](https://web.archive.org/web/*/http://novayagazeta.ru/vote2010_2/)

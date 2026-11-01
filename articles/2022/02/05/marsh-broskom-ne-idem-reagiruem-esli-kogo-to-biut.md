@@ -165,4 +165,4 @@ tags: "троицк, троицкий лес, вырубки, столкнове
 
 *Фото: Влад Докшин / «Новая газета»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/22/kogda-priblizhaetsia-pila-my-obnimaem-derevo
+**Читайте также:** [«Когда приближается пила, мы обнимаем дерево»](2021/11/22/kogda-priblizhaetsia-pila-my-obnimaem-derevo.md)

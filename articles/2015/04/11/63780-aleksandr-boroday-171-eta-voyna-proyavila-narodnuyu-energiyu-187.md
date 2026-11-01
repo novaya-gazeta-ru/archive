@@ -57,9 +57,9 @@ tags: "днр, идеология, пиарятся, сепаратизм, сп�
 
 Через некоторое время его удалили с поля деятельности. Но он продолжал в стиле Васисуалия Лоханкина, который никому не дает забыть о своей «роли в русской революции» и всех подряд обличает. Если бы он не делал критической массы заявлений, наносящих прямой вред как России, так и новообразовавшимся республикам, про него никто худого слова бы не сказал. Просто молчали бы из уважения к прошлым заслугам.
 
-**link:** https://novayagazeta.ru/politics/64812.html
+**link:** [https://novayagazeta.ru/politics/64812.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/64812.html)
 
-**link:** https://novayagazeta.ru/politics/64812.html
+**link:** [https://novayagazeta.ru/politics/64812.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/64812.html)
 
 **— Кто принял решение его удалить?**
 

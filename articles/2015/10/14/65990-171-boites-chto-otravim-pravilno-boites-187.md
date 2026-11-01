@@ -15,7 +15,7 @@ tags: "книги, санников"
 
 *Отрывок из не изданной еще книги Андрея Санникова «Белорусская «американка», или Выборы при диктатуре». Предисловие нобелевского лауреата Светланы Алексиевич*
 
-**link:** https://novayagazeta.ru/news/1697205.html
+**link:** [https://novayagazeta.ru/news/1697205.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1697205.html)
 
 Предисловие
 

@@ -17,6 +17,6 @@ tags: "авен, италия, недвижимость, сардиния, ко�
 
 Петр Авен попал под санкции ЕС 28 февраля. В пояснении Брюсселя [указано](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022D0337&from=EN), что он является «важным акционером «Альфа Group» и одним из 50 российских бизнесменов, которые регулярно встречаются с Владимиром Путиным в Кремле». Авен [покинул](https://news.alfabank.ru/release/oleg-sysuev-vozglavit-sovet-direktorov-alfa-banka/) совет директоров «Альфа-банка» и инвестиционной группы LetterOne сразу после введения ограничений.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/11/nichego-ne-konfiskovano-no-vse-arestovano
+**Читайте также:** [Ничего не конфисковано, но все арестовано](2022/03/11/nichego-ne-konfiskovano-no-vse-arestovano.md)
 
 В начале марта фингвардия Италии также [арестовала](https://milano.repubblica.it/cronaca/2022/03/05/news/ucraina_oligarca_russo_soloviev_ville_lago_como_beni_congelati-340374928/) недвижимость российского бизнесмена Алишера Усманова и телеведущего Владимира Соловьева. Правительство Великобритании в свою очередь [заявило](https://www.thetimes.co.uk/article/britain-hits-alisher-usmanov-and-igor-shuvalov-with-sanctions-bxfgklkds) о намерении расселять беженцев из Украины в домах российских олигархов.

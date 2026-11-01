@@ -55,4 +55,4 @@ tags: ""
 
 #### * По версии Минюста РФ, признан «иностранным агентом».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/09/16/poltora-goda-za-pravo-prokrichat-to-chto-schitaiu-vazhnym-da-radi-boga
+**Читайте также:** [«Полтора года за право прокричать то, что считаю важным? Да ради Бога!»](2023/09/16/poltora-goda-za-pravo-prokrichat-to-chto-schitaiu-vazhnym-da-radi-boga.md)

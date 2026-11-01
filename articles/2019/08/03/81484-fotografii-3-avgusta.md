@@ -71,7 +71,7 @@ tags: "насилие, реакция, мосгордума, соболь, за 
 
 *Район Трубной площади. Фото: Влад Докшин / «Новая»*
 
-**link:** https://novayagazeta.ru/articles/2019/08/03/81483-delo-naydetsya-dlya-kazhdogo
+**link:** [Уловка 212](2019/08/03/81483-delo-naydetsya-dlya-kazhdogo.md)
 
 ![](_assets/19/194517957a028bf6644a41acd5f510a9.webp)
 

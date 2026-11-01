@@ -95,4 +95,4 @@ tags: "марш немцова, немцов"
 
 *Дополняется*
 
-**link:** https://novayagazeta.ru/articles/2020/02/27/84086-set
+**link:** [https://novayagazeta.ru/articles/2020/02/27/84086-set](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/02/27/84086-set)

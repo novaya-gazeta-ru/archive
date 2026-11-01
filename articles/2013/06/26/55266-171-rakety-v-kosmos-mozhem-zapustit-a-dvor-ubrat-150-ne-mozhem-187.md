@@ -17,7 +17,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/26/1372252060_159852_49.jpg" style="width: 360px; height: 458px;"><sup>Дача усадьбы Прове-Калиш в Сосновом Бору. Уничтожена пожаром</sup></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/26/1372252060_159852_49.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/26/1372252060_159852_49.jpg)" style="width: 360px; height: 458px;"><sup>Дача усадьбы Прове-Калиш в Сосновом Бору. Уничтожена пожаром</sup></p>
 			</td>
 		</tr>
 	</tbody>]*
@@ -49,7 +49,7 @@ _19 июня в подмосковном Королеве состоялось �
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/26/1372252234_244656_23.jpg" style="width: 360px; height: 270px;"><sup>Сквер Марины Цветаевой</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/26/1372252234_244656_23.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/26/1372252234_244656_23.jpg)" style="width: 360px; height: 270px;"><sup>Сквер Марины Цветаевой</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -70,7 +70,7 @@ _Ольга К. живет на окраине Королева, на улице
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/26/1372252788_881975_57.jpg" style="width: 360px; height: 235px;"><sup>Детская площадка в Королеве, ул.Школьная. 18 июня 2013 г.</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/26/1372252788_881975_57.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/26/1372252788_881975_57.jpg)" style="width: 360px; height: 235px;"><sup>Детская площадка в Королеве, ул.Школьная. 18 июня 2013 г.</sup></td>
 		</tr>
 	</tbody>]*
 

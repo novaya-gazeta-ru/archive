@@ -21,7 +21,7 @@ tags: "литва, балтика, пограничники"
 
 Окончательное решение начать строительство забора правительство Литвы приняло зимой — в числе самых первых решений сформированного после октябрьских выборов кабинета министров. «Мы обязаны обеспечить должный контроль восточной границы Евросоюза», — заявил тогда премьер-министр Литвы Саулюс Сквернялис.
 
-**link:** https://novayagazeta.ru/articles/2016/11/05/70432-pribaltika-gotovitsya-zaschischatsya-i-nadeetsya-na-pomosch-nato
+**link:** [https://novayagazeta.ru/articles/2016/11/05/70432-pribaltika-gotovitsya-zaschischatsya-i-nadeetsya-na-pomosch-nato](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2016/11/05/70432-pribaltika-gotovitsya-zaschischatsya-i-nadeetsya-na-pomosch-nato)
 
 По словам министра внутренних дел Эймунтаса Мисюнаса, забор поможет решить сразу несколько задач: «Первое — это борьба с контрабандой, мы хотим пресечь поток нелегальных сигарет и алкоголя. Второе — нелегальная миграция. Третье — геополитическая ситуация».
 

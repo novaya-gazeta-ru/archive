@@ -17,7 +17,7 @@ tags: "порошенко, запреты, it, телеком, интернет,
 
 Текст указа совпадает с решением Совета нацбезопасности и обороны Украины, сформулированным на заседании 28 апреля 2017 года.
 
-**link:** https://novayagazeta.ru/articles/2017/05/16/72457-kto-takoy-zoryan-shkiryak
+**link:** [Кто такой Зорян Шкиряк?](2017/05/16/72457-kto-takoy-zoryan-shkiryak.md)
 
 # Зачем запретили?
 
@@ -33,7 +33,7 @@ tags: "порошенко, запреты, it, телеком, интернет,
 
 Российские чиновники и депутаты, последнее время придумывавшие всевозможные ограничения и правила для пользователей соцсетей и функционеров интернет-отрасли, прокомментировали указ Порошенко неожиданно единодушно: ограничивать интернет — плохо, запрет в первую очередь навредит самим украинским пользователям.
 
-**link:** https://novayagazeta.ru/articles/2017/05/16/72456-strelba-sebe-v-nogu-i-velikiy-ukrainskiy-fayrvol-kak-rossiyskie-vlasti-otreagirovali-na-sanktsii-ukrainy-protiv-sotssetey-i-it-kompaniy
+**link:** [«Стрельба себе в ногу» и «великий украинский файервол»](2017/05/16/72456-strelba-sebe-v-nogu-i-velikiy-ukrainskiy-fayrvol-kak-rossiyskie-vlasti-otreagirovali-na-sanktsii-ukrainy-protiv-so.md)
 
 Подробнее реакцию Госдумы, Кремля и советников президента Путина читайте тут.
 

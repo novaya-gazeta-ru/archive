@@ -19,8 +19,8 @@ tags: "крымские татары, терроризм, петербург, а
 
 Верховный суд в 2003 году признал «Хизб ут-Тахрир» террористической организацией, после чего российские власти начали преследовать последователей этого движения. Среди них оказалось много мусульман из Крыма — их обвинили в принадлежности к партии, которая не запрещена на территории Украины и большинстве европейских стран.
 
-В конце сентября ФСБ [ужесточила](https://novayagazeta.ru/articles/2021/09/22/v-krymu-vnov-uzhestochili-obvinenie-narimanu-dzhelialu-po-delu-o-povrezhdenii-gazoprovoda-emu-grozit-do-20-let-lisheniia-svobody-news) обвинение политику и экс-зампреду меджлиса крымских татар*** Нариману Джелялу по делу о повреждении газопровода в Крыму. Он обвиняется в совершении диверсии (п. «а», ч. 2 ст. 281 УК) и незаконном хранении взрывчатых веществ (ч. 4 ст. 222.1 УК). Фигуранты этого дела [сообщали](https://novayagazeta.ru/articles/2021/09/14/begi-i-pomni-chto-ia-khorosho-streliaiu-zaderzhannyi-fsb-po-delu-o-diversii-krymskii-tatarin-asan-akhtemov-rasskazal-o-pytkakh-news) о пытках.
+В конце сентября ФСБ [ужесточила](2021/09/22/v-krymu-vnov-uzhestochili-obvinenie-narimanu-dzhelialu-po-delu-o-povrezhdenii-gazoprovoda-emu-grozit-do-20-let-lisheniia.md) обвинение политику и экс-зампреду меджлиса крымских татар*** Нариману Джелялу по делу о повреждении газопровода в Крыму. Он обвиняется в совершении диверсии (п. «а», ч. 2 ст. 281 УК) и незаконном хранении взрывчатых веществ (ч. 4 ст. 222.1 УК). Фигуранты этого дела [сообщали](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/14/begi-i-pomni-chto-ia-khorosho-streliaiu-zaderzhannyi-fsb-po-delu-o-diversii-krymskii-tatarin-asan-akhtemov-rasskazal-o-pytkakh-news) о пытках.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/07/komanda-gazy
+**Читайте также:** [Команда «газы»](2021/09/07/komanda-gazy.md)
 
 внесен Минюстом в реестр незарегистрированных движений, выполняющих функцию «иноагента» **** Организация признана террористической и запрещена в России* Организация признана экстремистской и запрещена в России***

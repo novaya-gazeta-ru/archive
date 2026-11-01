@@ -13,4 +13,4 @@ tags: ""
 
 *В Нижнем Новгороде попытались похитить федерального судью с семьей, но удалось увезти только его жену. Как это было (Текст Елены Милашиной от января 2022 года)*
 
-https://novayagazeta.ru/articles/2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takogo-ne-mozhet-byt
+[«Я поняла, что это чеченцы, так как давно работаю в Чечне»](2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takog.md)

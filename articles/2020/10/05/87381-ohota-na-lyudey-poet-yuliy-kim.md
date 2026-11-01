@@ -13,7 +13,7 @@ tags: "задержания, избиение, силовики, беларус�
 
 *Белорусскому восстанию посвящается*
 
-**link:** https://novayagazeta.ru/articles/2020/08/14/86666-slushay-i-idi-kriki-iz-izolyatora-v-minske-zvuk
+**link:** [Слушай и иди. Крики из изолятора в Минске: ЗВУК](2020/08/14/86666-slushay-i-idi-kriki-iz-izolyatora-v-minske-zvuk.md)
 
 Слушай и иди. Крики из изолятора в Минске: ЗВУК
 

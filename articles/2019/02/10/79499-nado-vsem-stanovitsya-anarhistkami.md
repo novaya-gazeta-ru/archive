@@ -109,7 +109,7 @@ tags: "путин, шевченко, открытая россия, акции �
 
 *Фото: Елена Лукьянова, «Новая в Петербурге»*
 
-**link:** https://novayagazeta.ru/articles/2019/02/10/79500-byla-li-u-vas-mat-poruchik
+**link:** [Была ли у вас мать, подпоручик?](2019/02/10/79500-byla-li-u-vas-mat-poruchik.md)
 
 ![](_assets/46/4639d0eec1b2f834d30f7c146579b8a4.webp)
 

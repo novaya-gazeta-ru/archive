@@ -93,6 +93,6 @@ tags: "хамас"
 
 \
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/01/molitva-protiv-korruptsii-zapreshchenka-v-grobu-i-okhota-na-voron
+**Читайте также:** [Молитва против коррупции, запрещенка в гробу и охота на ворон](2025/04/01/molitva-protiv-korruptsii-zapreshchenka-v-grobu-i-okhota-na-voron.md)
 
 #### * Минюст считает «иноагентом».

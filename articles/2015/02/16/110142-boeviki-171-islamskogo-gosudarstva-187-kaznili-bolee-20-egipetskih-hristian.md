@@ -19,9 +19,9 @@ tags: "египет, ливия"
 
 После случившегося в телеобращении к нации президент Египта Абдель Фаттах ас-Сиси [объявил](http://tass.ru/mezhdunarodnaya-panorama/1769402) семидневный траур по жертвам террора в стране и запретил согражданам ездить в Ливию. Кроме того египетский лидер поручил правительству и госорганам сделать все, чтобы желающие вернуться сограждане могли приехать на родину.
 
-*[media: <p><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/02/03/1422988135_310338_45.jpg" style="width: 100px; height: 75px;"><strong><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/02/03/1422988135_310338_45.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/02/03/1422988135_310338_45.jpg)" style="width: 100px; height: 75px;"><strong><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/news/1691345.html " target="_blank"><strong>Боевики «Исламского государства» заживо сожгли иорданского пилота Моаза аль-Кассабеха</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/news/1691345.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1691345.html) " target="_blank"><strong>Боевики «Исламского государства» заживо сожгли иорданского пилота Моаза аль-Кассабеха</strong></a></p>]*
 
 Египетский президент пообещал отомстить исламистам за смерть своих сограждан, отметив, что страна ответит на это убийство по своему усмотрению. Абдель Фаттах ас-Сиси подчеркнул, что пришло время «решительно действовать против них (террористических группировок) без двойных стандартов».
 

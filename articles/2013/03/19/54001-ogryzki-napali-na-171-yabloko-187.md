@@ -77,7 +77,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/03/19/1363702635_385146_87.jpg" style="width: 360px; height: 262px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/03/19/1363702635_385146_87.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/03/19/1363702635_385146_87.jpg)" style="width: 360px; height: 262px;"><br>
 				<sup>Союз имени Михаила Архангела</sup></td>
 		</tr>
 	</tbody>]*

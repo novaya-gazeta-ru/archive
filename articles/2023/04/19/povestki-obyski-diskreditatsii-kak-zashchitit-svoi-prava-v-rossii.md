@@ -13,6 +13,6 @@ tags: "электронные повестки, мобилизация, прав
 
 *Гость нового выпуска «Здесь» — адвокат Калой Ахильгов*
 
-**В предыдущих выпусках:** https://novayagazeta.ru/articles/2023/04/05/stress-zlo-kheit-otvechaet-asia-kazantseva
+**В предыдущих выпусках:** [https://novayagazeta.ru/articles/2023/04/05/stress-zlo-kheit-otvechaet-asia-kazantseva](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/04/05/stress-zlo-kheit-otvechaet-asia-kazantseva)
 
 За адвокатами уже «пришли»? Почему адвокаты в России похожи сегодня на «аниматоров»? Что такое репрессивное законодательство? Что делать, если пришли сотрудники полиции? Чем нельзя сейчас делиться в социальных сетях? Что вообще такое зло? Об этом говорим с адвокатом Ахильговым.

@@ -21,7 +21,7 @@ tags: ""
 
 Отныне она будет называться: Avenue Alexeï Navalny.
 
-За это [решение](https://novayagazeta.ru/articles/2024/05/10/imenem-navalnogo-nazovut-ulitsu-u-posolstva-rf-v-parizhe-news), внесенное мэром Анн Идальго, парижские депутаты единогласно проголосовали 12 февраля. В муниципальном совете состоят 163 депутата.
+За это [решение](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/05/10/imenem-navalnogo-nazovut-ulitsu-u-posolstva-rf-v-parizhe-news), внесенное мэром Анн Идальго, парижские депутаты единогласно проголосовали 12 февраля. В муниципальном совете состоят 163 депутата.
 
 > Авеню находится в 400 метрах от громадного здания посольства РФ в Париже.
 
@@ -33,4 +33,4 @@ tags: ""
 
 *У здания посольства РФ в Париже (на заднем плане). Полиция выгоняет людей, собравшихся почтить память Алексея Навального сразу после получения известия о его смерти. 16.02.2024. Фото: Юрий Сафронов / «Новая газета»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/05/10/imenem-navalnogo-nazovut-ulitsu-u-posolstva-rf-v-parizhe-news
+**Читайте также:** [https://novayagazeta.ru/articles/2024/05/10/imenem-navalnogo-nazovut-ulitsu-u-posolstva-rf-v-parizhe-news](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/05/10/imenem-navalnogo-nazovut-ulitsu-u-posolstva-rf-v-parizhe-news)

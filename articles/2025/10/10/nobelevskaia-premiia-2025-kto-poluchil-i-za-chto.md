@@ -13,7 +13,7 @@ tags: ""
 
 *Разбираемся с молекулярным биологом Ириной Якутенко*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/10/10/kot-shriodingera-eshche-zhiv-a-esli-eto-ne-kot-a-begemot
+**Читайте также:** [Кот Шрёдингера еще жив? А если это не кот, а бегемот?](2025/10/10/kot-shriodingera-eshche-zhiv-a-esli-eto-ne-kot-a-begemot.md)
 
 Читайте также
 

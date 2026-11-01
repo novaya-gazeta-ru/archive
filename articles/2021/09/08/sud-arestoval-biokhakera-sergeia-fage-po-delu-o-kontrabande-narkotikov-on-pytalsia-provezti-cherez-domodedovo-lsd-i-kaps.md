@@ -21,6 +21,6 @@ tags: "фаге, биохакинг, наркотики, kn"
 
 Сейчас предприниматель находится в СИЗО «Капотня».
 
-**Читайте также:** https://novayagazeta.ru/articles/2019/12/12/83126-razglashenie-vrachebnoy-sharlatayny-kak-rossiyskaya-meditsina-okazalas-vo-vlasti-diletantov-i-lzheuchenyh-na-voprosy-novoy-otvechaet-populyarizator-nauki-petr-talantov#
+**Читайте также:** [Разглашение врачебной шарлатайны](2019/12/12/83126-razglashenie-vrachebnoy-sharlatayny-kak-rossiyskaya-meditsina-okazalas-vo-vlasti-diletantov-i-lzheuchenyh-na-vopro.md)
 
 Сергей Фаге окончил Стэнфордский университет в США и основал сервисы Mirror Emoji Keyboard, «Островок» и TokBox. В СМИ он рассказывал о своем увелечении биохакингом, то есть применением БАДов и других препаратов якобы для улучшения работы организма и повышения продуктивности.

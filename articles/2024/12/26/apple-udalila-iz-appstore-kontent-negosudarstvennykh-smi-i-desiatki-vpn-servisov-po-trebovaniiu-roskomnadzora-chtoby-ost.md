@@ -17,9 +17,9 @@ tags: ""
 
 За последнее время Apple удалили из магазина подкасты журналистов Insider*, «Русской службы Би-би-си»**, «Эха» (станция ликвидирована в России), а также «Настоящего времени»*, в прошлом году — «Медузы»* и «Холода»**.
 
-Исследователи [подсчитывали](https://novayagazeta.ru/articles/2024/09/24/apple-za-3-mesiatsa-bez-lishnego-shuma-udalila-bolee-60-vpn-prilozhenii-iz-rossiiskogo-appstore-eto-znachitelno-bolshe-chem-zablokiroval-roskomnadzor-news), что за 2024 год Apple заблокировала более 60 VPN-приложений для россиян, причем, по данным РКН, большую часть не по требованию регулятора. И часть из них вообще непублично.
+Исследователи [подсчитывали](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/24/apple-za-3-mesiatsa-bez-lishnego-shuma-udalila-bolee-60-vpn-prilozhenii-iz-rossiiskogo-appstore-eto-znachitelno-bolshe-chem-zablokiroval-roskomnadzor-news), что за 2024 год Apple заблокировала более 60 VPN-приложений для россиян, причем, по данным РКН, большую часть не по требованию регулятора. И часть из них вообще непублично.
 
-К 23 декабря трафик Youtube в России упал [до 20%](https://t.me/novaya_pishet/48913) от летнего из-за новой волны «замедления» ресурса на оборудовании РКН. Материнская компания видеохостинга — Google — заявила, что технические проблемы не связаны с ее действиями. А РКН объяснил претензии к работе сервиса [его «неуважением»](https://novayagazeta.ru/articles/2024/12/19/roskomnadzor-obiasnil-novuiu-volnu-blokirovok-youtube-neuvazheniem-google-k-rossii-news) к российским законам.
+К 23 декабря трафик Youtube в России упал [до 20%](https://t.me/novaya_pishet/48913) от летнего из-за новой волны «замедления» ресурса на оборудовании РКН. Материнская компания видеохостинга — Google — заявила, что технические проблемы не связаны с ее действиями. А РКН объяснил претензии к работе сервиса [его «неуважением»](2024/12/19/roskomnadzor-obiasnil-novuiu-volnu-blokirovok-youtube-neuvazheniem-google-k-rossii-news.md) к российским законам.
 
 #### * Минюст признал нежелательной организацией в РФ.
 

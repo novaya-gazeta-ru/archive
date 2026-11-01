@@ -27,7 +27,7 @@ tags: "скандал, дипломатия, как это устроено, с�
 
 Не только обычные люди стороной обходили посольства, но и сотрудники наркомата иностранных дел сторонились иностранцев, старались пореже ходить на приемы в посольства.
 
-**link:** https://novayagazeta.ru/articles/2017/07/27/73251-taktika-politicheskogo-muhlezha-privela-rossiyu-k-grandioznomu-provalu
+**link:** [Внешнеполитический облом](2017/07/27/73251-taktika-politicheskogo-muhlezha-privela-rossiyu-k-grandioznomu-provalu.md)
 
 # Враги стали друзьями
 
@@ -179,6 +179,6 @@ tags: "скандал, дипломатия, как это устроено, с�
 
 *Дача американских дипломатов в Серебряном бору. В качестве ответа на расширение американских санкций Россия запретила сотрудникам посольства ей пользоваться. Фото: Влад Докшин / «Новая газета»*
 
-**link:** https://novayagazeta.ru/news/2017/07/28/133911-rossiya-zapretila-diplomatam-ssha-polzovatsya-moskovskoy-dachey
+**link:** [https://novayagazeta.ru/news/2017/07/28/133911-rossiya-zapretila-diplomatam-ssha-polzovatsya-moskovskoy-dachey](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/07/28/133911-rossiya-zapretila-diplomatam-ssha-polzovatsya-moskovskoy-dachey)
 
 Остается только одно: вооружаться, переругиваться и доставлять друг другу неприятности всеми возможными способами, в том числе высылая иностранных дипломатов.

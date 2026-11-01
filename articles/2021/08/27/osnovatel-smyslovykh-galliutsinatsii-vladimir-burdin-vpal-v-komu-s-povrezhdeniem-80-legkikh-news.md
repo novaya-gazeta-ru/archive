@@ -25,4 +25,4 @@ tags: "COVID-19, певцы, наркомания, da"
 
 В середине августа из больницы [выписали](https://tass.ru/obschestvo/12123235) певицу Марину Максимову (МакSим). Она около двух месяцев провела в коме на ИВЛ, площадь поражения ее легких достигла 75%. Певица [чувствует](https://www.instagram.com/p/CSWhEBAszy5/?utm_source=ig_embed&utm_campaign=loading) сильную слабость, испытывает трудности с дыханием и сильно [потеряла](https://www.gazeta.ru/culture/news/2021/08/16/n_16392362.shtml) в весе.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/27/koronavirus-zloi-i-bystryi
+**Читайте также:** [Коронавирус, злой и быстрый](2021/07/27/koronavirus-zloi-i-bystryi.md)

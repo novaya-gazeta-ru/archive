@@ -121,7 +121,7 @@ tags: "взрыв, текслер, реакция, письмо, магнито�
 
 — Мой бизнес — это продажа красок, — говорит Писарева. — Он приносит 25–27 тысяч рублей в месяц.
 
-**link:** https://novayagazeta.ru/articles/2019/01/07/79111-takoy-zhe-vzryv-byl-v-izhevske-i-nikto-ne-somnevalsya-v-prichinah
+**link:** [«Махмуд, конечно, не террорист»](2019/01/07/79111-takoy-zhe-vzryv-byl-v-izhevske-i-nikto-ne-somnevalsya-v-prichinah.md)
 
 # «Проверим губернатора на благородство!»
 
@@ -147,4 +147,4 @@ tags: "взрыв, текслер, реакция, письмо, магнито�
 
 **Елена Шукаева, «Новая газета Урал»**
 
-**link:** https://novayagazeta.ru/articles/2019/05/31/80718-vremya-idet-o-nas-zabyvayut
+**link:** [«Время идет. О нас забывают»](2019/05/31/80718-vremya-idet-o-nas-zabyvayut.md)

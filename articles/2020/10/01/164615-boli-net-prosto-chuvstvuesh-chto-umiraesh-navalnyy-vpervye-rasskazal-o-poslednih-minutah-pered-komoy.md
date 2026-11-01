@@ -23,7 +23,7 @@ tags: "kn, интервью, покушение, навальный"
 
 «Самое главное для меня — это то, что умственные способности вернулись. Ну, может быть, в ходе интервью мы обнаружим обратное», — шутит он.
 
-**link:** https://novayagazeta.ru/articles/2020/09/23/87219-navalnyy-otravil-otnosheniya-liderov
+**link:** [Навальный отравил отношения лидеров](2020/09/23/87219-navalnyy-otravil-otnosheniya-liderov.md)
 
 По словам Навального, врачи в Омске позволили улететь ему на лечение в Германию только благодаря усилиям его жены Юлии.
 
@@ -55,10 +55,10 @@ tags: "kn, интервью, покушение, навальный"
 
 — говорит Навальный.
 
-**link:** https://novayagazeta.ru/articles/2020/09/06/86980-uroven-vozdeystviya-yada-byl-slishkom-nizkim
+**link:** [«Уровень воздействия яда был слишком низким»](2020/09/06/86980-uroven-vozdeystviya-yada-byl-slishkom-nizkim.md)
 
 Навальному стало плохо 20 августа на борту самолета Томск-Москва, из-за чего лайнер экстренно посадили в Омске, где политика госпитализировали в местную больницу. После долгих переговоров его перевезли в «Шарите».
 
-Правительство ФРГ [заявило](https://novayagazeta.ru/news/2020/09/14/164248-pravitelstvo-frg-tri-nezavisimye-laboratorii-podtverdili-otravlenie-navalnogo-novichkom), что три независимые лаборатории подтвердили наличие в пробах Навального вещества из группы «Новичок». Западные страны потребовали от России немедленно расследовать покушение на Навального.
+Правительство ФРГ [заявило](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/09/14/164248-pravitelstvo-frg-tri-nezavisimye-laboratorii-podtverdili-otravlenie-navalnogo-novichkom), что три независимые лаборатории подтвердили наличие в пробах Навального вещества из группы «Новичок». Западные страны потребовали от России немедленно расследовать покушение на Навального.
 
-Москва же отрицает, что Навальный был отравлен. МИД России [обвинил](https://novayagazeta.ru/news/2020/09/25/164510-mid-rf-ofitsialno-nazval-otravlenie-navalnogo-postanovkoy-v-kotoroy-ozho-lomala-komediyu) Берлин в политизации дела об отравлении Навального и указал Организации по запрещению химического оружия на «превышение мандата». Также Москва указывает, что до сих пор не получила ответа от Германии по инциденту. 25 сентября ФРГ [пообещала](https://novayagazeta.ru/news/2020/09/25/164501-postpredstvo-frg-pri-ozho-poobeschalo-otvetit-na-zapros-rossii-po-navalnomu-v-techenie-10-dney) ответить на запрос в течение десяти дней.
+Москва же отрицает, что Навальный был отравлен. МИД России [обвинил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/09/25/164510-mid-rf-ofitsialno-nazval-otravlenie-navalnogo-postanovkoy-v-kotoroy-ozho-lomala-komediyu) Берлин в политизации дела об отравлении Навального и указал Организации по запрещению химического оружия на «превышение мандата». Также Москва указывает, что до сих пор не получила ответа от Германии по инциденту. 25 сентября ФРГ [пообещала](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/09/25/164501-postpredstvo-frg-pri-ozho-poobeschalo-otvetit-na-zapros-rossii-po-navalnomu-v-techenie-10-dney) ответить на запрос в течение десяти дней.

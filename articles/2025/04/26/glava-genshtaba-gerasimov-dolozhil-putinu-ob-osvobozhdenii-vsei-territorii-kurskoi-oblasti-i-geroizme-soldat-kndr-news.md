@@ -15,7 +15,7 @@ tags: ""
 
 > Так впервые Минобороны России признало участие северокорейских военнослужащих на фронте (во внутренних и международно признанных границах Российской Федерации).
 
-Между Россией и КНДР действует [договор](https://novayagazeta.ru/articles/2024/11/12/kndr-ratifitsirovala-dogovor-o-vseobemliushchem-strategicheskom-partnerstve-s-rossiei-news) о всеобъемлющей помощи «всеми средствами» одного партнера при военной агрессии в отношении второго.
+Между Россией и КНДР действует [договор](2024/11/12/kndr-ratifitsirovala-dogovor-o-vseobemliushchem-strategicheskom-partnerstve-s-rossiei-news.md) о всеобъемлющей помощи «всеми средствами» одного партнера при военной агрессии в отношении второго.
 
 Путин [похвалил](https://t.me/news_kremlin/5549) личный состав вооруженных сил, заявив, что «авантюра киевского режима полностью провалилась»,
 
@@ -25,10 +25,10 @@ tags: ""
 
 При этом оба варианта предполагают прекращение огня и гарантии безопасности для Украины.
 
-Сегодня днем президент Украины Владимир Зеленский [встретился](https://novayagazeta.ru/articles/2025/04/26/tramp-i-zelenskii-proveli-kratkosrochnuiu-vstrechu-v-rime-kuda-pribyli-na-pokhorony-papy-frantsiska-news) с президентом США Дональдом Трампом в Риме во время церемонии прощания с понтификом Франциском. Встреча была краткой, стороны договорились продолжить ее позднее.
+Сегодня днем президент Украины Владимир Зеленский [встретился](2025/04/26/tramp-i-zelenskii-proveli-kratkosrochnuiu-vstrechu-v-rime-kuda-pribyli-na-pokhorony-papy-frantsiska-news.md) с президентом США Дональдом Трампом в Риме во время церемонии прощания с понтификом Франциском. Встреча была краткой, стороны договорились продолжить ее позднее.
 
 ВСУ вошли в Курскую область девять месяцев назад, в первых числах августа 2024 года, они прорвали оборонительные линии и заняли несколько районов области. Для местных жителей это обернулось волной беженцев и эвакуированных, локальным гуманитарным кризисом. В области за это время сменили губернатора, при новом идут расследования коррупционных дел, в том числе — из-за некачественного строительства оборонительной линии.
 
-Прежний губернатор Курской области Алексей Смирнов — [под арестом](https://novayagazeta.ru/articles/2025/04/16/siloviki-zaderzhali-eks-gubernatora-kurskoi-oblasti-alekseia-smirnova-po-delu-o-moshennichestve-news).
+Прежний губернатор Курской области Алексей Смирнов — [под арестом](2025/04/16/siloviki-zaderzhali-eks-gubernatora-kurskoi-oblasti-alekseia-smirnova-po-delu-o-moshennichestve-news.md).
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/10/v-kndr-besplatno-reabilitiruiutsia-sotni-ranennykh-na-svo-rossiiskikh-voennykh-posol-rf-news
+**Читайте также:** [В КНДР бесплатно реабилитируются «сотни» раненных на СВО российских военных — посол РФ](2025/02/10/v-kndr-besplatno-reabilitiruiutsia-sotni-ranennykh-na-svo-rossiiskikh-voennykh-posol-rf-news.md)

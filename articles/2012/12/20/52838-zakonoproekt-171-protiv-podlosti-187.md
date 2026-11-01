@@ -13,7 +13,7 @@ tags: ""
 
 *Пора и нам выступить с принципиальной законодательной инициативой*
 
-# [Сбор подписей здесь](http://www.novayagazeta.ru/inquiries/11.html)
+# [Сбор подписей здесь](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquiries/11.html)
 
 Друзья, спасибо! Вы сделали это, доказав всему миру, что Россия – это не головозадые депутаты, а нормальные добрые отзывчивые и современные люди.
 
@@ -27,7 +27,7 @@ tags: ""
 
 **«Новая газета»**
 
-# [Сбор подписей здесь](http://www.novayagazeta.ru/inquiries/11.html)
+# [Сбор подписей здесь](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquiries/11.html)
 
 # Комментарии
 
@@ -70,7 +70,7 @@ tags: ""
 	<p>
 		&nbsp;</p>
 	<h3>
-		<span style="color:#b22222;"><a href="http://www.novayagazeta.ru/storage/c/2012/12/18/1356054034_454679_78.png" target="_blank"><img alt="" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2012/12/18/1356054034_177964_51.png" style="width: 350px; height: 343px; "></a> Михаил Ефремов, актер</span></h3>
+		<span style="color:#b22222;"><a href="[http://www.novayagazeta.ru/storage/c/2012/12/18/1356054034_454679_78.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/12/18/1356054034_454679_78.png)" target="_blank"><img alt="" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2012/12/18/1356054034_177964_51.png" style="width: 350px; height: 343px; "></a> Михаил Ефремов, актер</span></h3>
 	<div>
 		Депутаты подтверждают свою нелегитимность, а также бесчеловечность и цинизм. Их поведение можно охарактеризовать фразой: «назло папе отрежу себе уши, назло маме нассу себе в штаны». Лишь бы депутатам было лучше – а дальше хоть трава не расти.</div>
 	<h3>
@@ -134,16 +134,16 @@ tags: ""
 
 Читайте также:
 
-[Андрей ЛОШАК: Шантажировать детьми могут только конченые отморозки](http://www.novayagazeta.ru/blogs/163/55948.html)
+[Андрей ЛОШАК: Шантажировать детьми могут только конченые отморозки](https://web.archive.org/web/*/http://www.novayagazeta.ru/blogs/163/55948.html)
 
-[Бумажный токсикоз. _Процесс усыновления отчасти заменяет приемным родителям беременность — порой и тошнит, как полагается, причем даже папу_](http://www.novayagazeta.ru/society/55954.html)
+[Бумажный токсикоз. _Процесс усыновления отчасти заменяет приемным родителям беременность — порой и тошнит, как полагается, причем даже папу_](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/55954.html)
 
 *[media: #next_pages_container { width: 5px; hight: 5px; position: absolute; top: -100px; left: -100px; z-index: 2147483647 !important; }]*
 
 *[media: <p>
-		<a href="http://www.novayagazeta.ru/news/61753.html">Более 20 участников одиночных пикетов против запрета на усыновление российских детей иностранными гражданами задержали сегодня утром у здания Госдумы</a></p>
+		<a href="[http://www.novayagazeta.ru/news/61753.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/61753.html)">Более 20 участников одиночных пикетов против запрета на усыновление российских детей иностранными гражданами задержали сегодня утром у здания Госдумы</a></p>
 	<p>
-		<a href="http://www.novayagazeta.ru/photos/55980.html">«Закон подлецов»: у здания Госдумы полиция разогнала пикеты против запрета усыновления россиян иностранцами. <em>Фоторепортаж</em></a></p>]*
+		<a href="[http://www.novayagazeta.ru/photos/55980.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/55980.html)">«Закон подлецов»: у здания Госдумы полиция разогнала пикеты против запрета усыновления россиян иностранцами. <em>Фоторепортаж</em></a></p>]*
 
 *[media: #next_pages_container { width: 5px; hight: 5px; position: absolute; top: -100px; left: -100px; z-index: 2147483647 !important; }]*
 

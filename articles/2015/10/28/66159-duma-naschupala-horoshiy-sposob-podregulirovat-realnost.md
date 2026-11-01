@@ -15,7 +15,7 @@ tags: "роскомнадзор, сми, цензура"
 
 ![](_assets/ea/eac2100f9e048388408a12eaacc199b6.webp)
 
-*[(Начало в № 118 от 26 октяборя 2015 г.)](http://www.novayagazeta.ru/society/70482.html)*
+*[(Начало в № 118 от 26 октяборя 2015 г.)](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/70482.html)*
 
 **— От чего сейчас больше всего приходится защищать редакции?**
 

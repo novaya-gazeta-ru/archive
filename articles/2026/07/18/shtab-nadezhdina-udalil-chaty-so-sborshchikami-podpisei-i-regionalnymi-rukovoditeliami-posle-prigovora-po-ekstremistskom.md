@@ -35,11 +35,11 @@ tags: ""
 
 *Борис Надеждин в суде с тонометром показывает давление. Фото: Борис Надеждин*
 
-«Экстремистскую символику» [полиция](https://novayagazeta.ru/articles/2026/07/13/nadezhdina-zaderzhali-za-demonstratsiiu-ekstremistskoi-simvoliki-po-etoi-state-izvestnykh-chlenov-iabloka-lishili-vozmozhnosti-uchastvovat-v-vyborakh-news) увидела в фотографии Алексея Навального — что само по себе нонсенс. Приговор по этому делу запрещает на год россиянам избираться. И до вступления его в силу после обжалования остается чуть больше 10 дней.
+«Экстремистскую символику» [полиция](2026/07/13/nadezhdina-zaderzhali-za-demonstratsiiu-ekstremistskoi-simvoliki-po-etoi-state-izvestnykh-chlenov-iabloka-lishili-vozmoz.md) увидела в фотографии Алексея Навального — что само по себе нонсенс. Приговор по этому делу запрещает на год россиянам избираться. И до вступления его в силу после обжалования остается чуть больше 10 дней.
 
-Чуть ранее Надеждину [запретили выезд](https://novayagazeta.ru/articles/2026/07/16/obiavlennomu-inoagentom-politiku-nadezhdinu-stavshemu-figurantom-ekstremistskogo-dela-eshche-i-zapretili-vyezd-iz-rossii-news) из России.
+Чуть ранее Надеждину [запретили выезд](2026/07/16/obiavlennomu-inoagentom-politiku-nadezhdinu-stavshemu-figurantom-ekstremistskogo-dela-eshche-i-zapretili-vyezd-iz-rossii.md) из России.
 
-А еще раньше, 10 июля, политика [объявили иноагентом](https://novayagazeta.ru/articles/2026/07/10/miniust-za-dva-mesiatsa-do-vyborov-obiavil-politika-borisa-nadezhdina-i-volonterskoe-dvizhenie-shtab-kandidatov-inoagentami-news). Статус иноагента тоже запрещает россиянину участвовать в выборах в качестве кандидата. Но обжалование этого статуса обычно растягивается на несколько месяцев, в течение которых, теоретически, вести кампанию еще можно было.
+А еще раньше, 10 июля, политика [объявили иноагентом](2026/07/10/miniust-za-dva-mesiatsa-do-vyborov-obiavil-politika-borisa-nadezhdina-i-volonterskoe-dvizhenie-shtab-kandidatov-inoagent.md). Статус иноагента тоже запрещает россиянину участвовать в выборах в качестве кандидата. Но обжалование этого статуса обычно растягивается на несколько месяцев, в течение которых, теоретически, вести кампанию еще можно было.
 
 Борис Надеждин позиционирует себя как системный критик действующей власти. Не раз он публично называл СВО «фатальной ошибкой Путина». При этом Надеждин — еще и хороший знакомый нынешнего куратора внутренней политики в России Сергея Кириенко. В 1997—1998 годах Надеждин работал помощником Кириенко, когда тот недолго был премьером правительства РФ.
 

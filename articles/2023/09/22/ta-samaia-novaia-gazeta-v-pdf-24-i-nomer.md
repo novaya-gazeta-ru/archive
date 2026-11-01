@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *Кто и как в Минюсте убивает справедливость, как устроились в России пенсионеры «русской весны», почему собственность будут отнимать и — очерк о Зое Космодемьянской*
 
-https://novayagazeta.ru/issues/3269
+[https://novayagazeta.ru/issues/3269](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3269)

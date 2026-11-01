@@ -23,9 +23,9 @@ tags: "автомобили, германия, скандал, экология"
 
 В сентябре 2015 года, когда вокруг концерна Volkswagen (VW) на американском рынке разразился скандал с манипуляциями выброса газов на дизельных двигателях, немецкое министерство транспорта инициировало проверку всех автопроизводителей Германии. Специальная комиссия более полугода тщательно проверила в стационарных и дорожных условиях 53 модели авто. Искали софт типа того, что придумали инженеры VW.
 
-**link:** https://novayagazeta.ru/economy/70597.html
+**link:** [https://novayagazeta.ru/economy/70597.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/70597.html)
 
-**link:** https://novayagazeta.ru/economy/70597.html
+**link:** [https://novayagazeta.ru/economy/70597.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/70597.html)
 
 Не нашли. Зато обнаружили другую хитрую уловку под названием «температурное окно».
 

@@ -53,4 +53,4 @@ tags: ""
 
 * **Владивосток* **
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/03/01/na-front-bez-ocheredi
+**Читайте также:** [На фронт — «без очереди»](2023/03/01/na-front-bez-ocheredi.md)

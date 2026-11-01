@@ -25,12 +25,12 @@ tags: "чехия, земан, правительство, сенат, sf"
 
 Согласно 66-й статье Конституции Чехии, главу государства могут лишить полномочий в случае одобрения этого предложения большинством голосов Палаты депутатов и Сената.
 
-Земана [госпитализировали](https://novayagazeta.ru/articles/2021/10/10/prezident-chekhii-milosh-zeman-popal-v-reanimatsiiu-nakanune-podderzhivaemoe-im-dvizhenie-premera-babisha-proigralo-na-vyborakh-news) 10 октября из-за осложнений, связанных с его хроническим заболеванием. Сообщалось, что президент находится в реанимации.
+Земана [госпитализировали](2021/10/10/prezident-chekhii-milosh-zeman-popal-v-reanimatsiiu-nakanune-podderzhivaemoe-im-dvizhenie-premera-babisha-proigralo-na-v.md) 10 октября из-за осложнений, связанных с его хроническим заболеванием. Сообщалось, что президент находится в реанимации.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/04/20/na-grebne-vzryvnoi-volny
+**Читайте также:** [На гребне взрывной волны](2021/04/20/na-grebne-vzryvnoi-volny.md)
 
-Ранее Земан встретился с премьером страны Андреем Бабишем, чье правоцентристское политическое движение АНО («Акция недовольных граждан») [проиграло](https://novayagazeta.ru/articles/2021/10/09/na-parlamentskikh-vyborakh-v-chekhii-oppozitsionnaia-koalitsiia-oboshla-partiiu-premera-babisha-news) коалиции «Вместе» на прошедших накануне выборах парламентских выборах. «Вместе» получила 27,8% голосов, АНО — 27,1%.
+Ранее Земан встретился с премьером страны Андреем Бабишем, чье правоцентристское политическое движение АНО («Акция недовольных граждан») [проиграло](2021/10/09/na-parlamentskikh-vyborakh-v-chekhii-oppozitsionnaia-koalitsiia-oboshla-partiiu-premera-babisha-news.md) коалиции «Вместе» на прошедших накануне выборах парламентских выборах. «Вместе» получила 27,8% голосов, АНО — 27,1%.
 
 Перед выборами Земан [поддерживал](https://www.rbc.ru/rbcfreenews/6162c3129a7947d96b10304b) Бабиша, а также говорил, что поручит формирование правительства председателю наиболее успешной партии, а не коалиции.
 
-В сентябре 77-летний Земан провел восемь ночей в госпитале из-за обезвоживания и легкого истощения. Политик болен диабетом и [передвигается](https://novayagazeta.ru/articles/2021/04/11/ne-vizhu-v-etom-nichego-plokhogo-prezident-chekhii-milosh-zeman-budet-peredvigatsia-v-invalidnom-kresle) в инвалидном кресле из-за болезни ног.
+В сентябре 77-летний Земан провел восемь ночей в госпитале из-за обезвоживания и легкого истощения. Политик болен диабетом и [передвигается](2021/04/11/ne-vizhu-v-etom-nichego-plokhogo-prezident-chekhii-milosh-zeman-budet-peredvigatsia-v-invalidnom-kresle.md) в инвалидном кресле из-за болезни ног.

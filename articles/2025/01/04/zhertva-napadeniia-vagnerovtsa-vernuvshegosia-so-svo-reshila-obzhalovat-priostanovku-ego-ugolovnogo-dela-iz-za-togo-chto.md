@@ -15,7 +15,7 @@ tags: ""
 
 В апреле 2024 года пьяный Патрушев решил угнать автомобиль, в котором сидела женщина. Он напал на нее, постучал в стекло, а когда стекло опустили, начал бить женщину ножом в горло, грудь и живот. и в итоге выбросил ее из машины. Раненая сумела заблокировать автомобиль, которым Патрушев, сев за руль, не смог управлять. Он был задержан на месте. Патрушев до последнего отрицал вину и объявил, что подошел к женщине в ответ на ее крики о помощи.
 
-«Новая газета» [рассказывала](https://novayagazeta.ru/articles/2024/09/27/poluchivshii-22-goda-za-ubiistvo-semi-pensionerov-eks-vagnerovets-byl-pomilovan-na-svo-i-snova-napal-s-nozhom-na-zhenshchinu-news) об этом нападении.
+«Новая газета» [рассказывала](2024/09/27/poluchivshii-22-goda-za-ubiistvo-semi-pensionerov-eks-vagnerovets-byl-pomilovan-na-svo-i-snova-napal-s-nozhom-na-zhenshc.md) об этом нападении.
 
 ![](_assets/7c/7c1dc115d017c32e1062c41de8baa443.webp)
 

@@ -19,4 +19,4 @@ tags: ""
 
 Дело возбудили после того, как Калюжный в осенний призыв 2024 года якобы не явился на сборный пункт по повестке, получив ее в военкомате.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/15/chto-tut-pechalnogo-chego-ozhidal-on-ne-dumal-o-materi-vzial-i-ushel
+**Читайте также:** [«Что тут печального?! Чего ожидал? Он не думал о матери. Взял и ушел»](2025/02/15/chto-tut-pechalnogo-chego-ozhidal-on-ne-dumal-o-materi-vzial-i-ushel.md)

@@ -21,4 +21,4 @@ tags: "сша, санкции, kb, турецкий поток, северный
 
 Глава комитета Сената США по международным отношениям Джим Риш [объяснял](https://www.defensenews.com/congress/2019/11/23/congress-to-take-up-nord-stream-2-sanctions-on-defense-bill/), что ограничения санкции против «Северного потока-2» нацелены на компании, участвующие в строительстве трубопровода. Он отмечал, что положение о соответствующих ограничениях добавят в проект об оборонном бюджете, так как на подготовку отдельного документа не хватает времени. По данным немецкого издания Bild, под действие санкций [может попасть](https://www.bild.de/politik/ausland/politik-inland/nord-stream-2-usa-koennten-mit-sanktions-trick-die-putin-roehre-doch-noch-stoppe-66357480.bild.html) швейцарская Allseas, а также немецкие компании, сотрудничающие с «Газпромом».
 
-**link:** https://novayagazeta.ru/articles/2019/10/31/82578-daniya-podnyala-shlagbaum
+**link:** [Дания подняла шлагбаум](2019/10/31/82578-daniya-podnyala-shlagbaum.md)

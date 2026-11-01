@@ -31,8 +31,8 @@ tags: ""
 
 В России наблюдается дефицит врачей. В ближайшие 5-7 лет он может увеличиться до 40-45%, предупредил красноярский омбудсмен Марк Денисов. По его словам, это произойдет из-за оттока сотрудников из-за низкой зарплаты и недостаточного количества молодых специалистов на замену медработникам пенсионного возраста.
 
-Минздрав [подготовил](https://novayagazeta.ru/articles/2025/02/05/minzdrav-predlozhil-obiazatelnuiu-otrabotku-dlia-vypusknikov-biudzhetnikov-medvuza-news) поправки, которые введут обязательную отработку в течение 2-3 лет для выпускников, учившихся в медвузах и колледжах на бюджете. В противном случае их обяжут компенсировать затраты на обучение в двукратном размере: по подсчетам «Коммерсанта», штраф может составить около 2,5 млн рублей.
+Минздрав [подготовил](2025/02/05/minzdrav-predlozhil-obiazatelnuiu-otrabotku-dlia-vypusknikov-biudzhetnikov-medvuza-news.md) поправки, которые введут обязательную отработку в течение 2-3 лет для выпускников, учившихся в медвузах и колледжах на бюджете. В противном случае их обяжут компенсировать затраты на обучение в двукратном размере: по подсчетам «Коммерсанта», штраф может составить около 2,5 млн рублей.
 
-Профсоюз медработников [выступил против](https://novayagazeta.ru/articles/2025/02/12/profsoiuz-medrabotnikov-vystupil-protiv-prinuditelnoi-otrabotki-dlia-vypusknikov-medvuzov-news), назвав введение принудительной отработки только для выпускников медицинских вузов дискриминацией.
+Профсоюз медработников [выступил против](2025/02/12/profsoiuz-medrabotnikov-vystupil-protiv-prinuditelnoi-otrabotki-dlia-vypusknikov-medvuzov-news.md), назвав введение принудительной отработки только для выпускников медицинских вузов дискриминацией.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/07/vypusknitsa-medvuza-otkazalas-rabotat-v-mariupole-sud-obiazal-ee-vernut-gosudarstvu-trekhkratnuiu-stipendiiu-za-vse-vremia-obucheniia-news
+**Читайте также:** [Выпускница медвуза отказалась работать в Мариуполе. Суд обязал ее вернуть государству трехкратную стипендию за все время обучения](2025/02/07/vypusknitsa-medvuza-otkazalas-rabotat-v-mariupole-sud-obiazal-ee-vernut-gosudarstvu-trekhkratnuiu-stipendiiu-za-vse-vrem.md)

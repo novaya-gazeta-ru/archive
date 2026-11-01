@@ -32,9 +32,9 @@ tags: "как это устроено, крым, митинги, москва, �
 
 «Нам говорили только о концерте на Красной площади. У директоров нет полномочий призывать участвовать в митинге», — пояснила текст письма председатель межрайонного совета директоров в Северо-Восточном административном округе, директор ГБОУ «Школа № 1494» Светлана Ершова.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/politics/50883.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2012/02/13/1329088775_458253_95.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/politics/50883.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/50883.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2012/02/13/1329088775_458253_95.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/02/13/1329088775_458253_95.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><strong><a href="http://www.novayagazeta.ru/politics/50883.html" target="_blank">Елена Травина, директор детско-юношеского центра «Каравелла»:&nbsp;«Я не отправила людей на Поклонную. Меня уволили» (2012 год)</a></strong></p>]*
+<p><strong><a href="[http://www.novayagazeta.ru/politics/50883.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/50883.html)" target="_blank">Елена Травина, директор детско-юношеского центра «Каравелла»:&nbsp;«Я не отправила людей на Поклонную. Меня уволили» (2012 год)</a></strong></p>]*
 
 Председатель межрайонного совета директоров в Северо-Западном административном округе, директор ГБОУ «Школа № 2077» Наталья Мухина объяснила, что никаких призывов в письмах не было: «Мы просто информировали о концерте, чтобы люди знали и могли прийти».
 

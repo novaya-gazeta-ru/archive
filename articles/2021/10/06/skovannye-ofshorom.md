@@ -67,4 +67,4 @@ tags: "офшоры, финансы, налоги, имущество"
 
 Для многих представителей элит офшор это уже гарантия даже не собственности, а жизни. Время, когда новый договор со страной еще возможен, уходит. Но пока вся надежда только на офшор.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/04/agenty-britanskikh-virginskikh-ostrovov
+**Читайте также:** [https://novayagazeta.ru/articles/2021/10/04/agenty-britanskikh-virginskikh-ostrovov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/10/04/agenty-britanskikh-virginskikh-ostrovov)

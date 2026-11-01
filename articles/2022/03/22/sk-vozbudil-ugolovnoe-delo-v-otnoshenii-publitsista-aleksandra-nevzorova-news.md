@@ -21,10 +21,10 @@ tags: "фейки, российская армия, невзоров, мариу
 
 Ранее сегодня суд в Москве арестовал на два месяца Сергея Клокова, обвиняемого в распространении «фейков» о действиях Вооруженных сил РФ (п. «д» ч. 2 ст. 207.3 УК). По данным РИА Новости, мужчина [работает](https://ria.ru/20220322/arest-1779443003.html) техником запасного пункта управления столичного главка МВД.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/18/iadernaia-voina-ili-severnaia-koreia-bolshe-variantov-ne-vizhu
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/18/iadernaia-voina-ili-severnaia-koreia-bolshe-variantov-ne-vizhu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/18/iadernaia-voina-ili-severnaia-koreia-bolshe-variantov-ne-vizhu)
 
-Следственный комитет также [возбудил](https://novayagazeta.ru/articles/2022/03/16/sk-vozbudil-delo-o-feikakh-pro-deistviia-rossiiskoi-armii-protiv-blogera-veroniki-belotserkovskoi-news#) уголовное дело о «фейках» про действия российской армии против блогера Вероники Белоцерковской. По данным ведомства, она сейчас находится не в России, поэтому ее планируют объявить в международный розыск.
+Следственный комитет также [возбудил](2022/03/16/sk-vozbudil-delo-o-feikakh-pro-deistviia-rossiiskoi-armii-protiv-blogera-veroniki-belotserkovskoi-news.md) уголовное дело о «фейках» про действия российской армии против блогера Вероники Белоцерковской. По данным ведомства, она сейчас находится не в России, поэтому ее планируют объявить в международный розыск.
 
-В марте дела по аналогичной статье [возбудили](https://novayagazeta.ru/articles/2022/03/16/v-tomskoi-oblasti-vozbudili-pervye-dve-dela-o-feikakh-pro-deistviia-rossiiskikh-voennykh-news) против жителя Томска и жительницы Северска. Им избрали меру пресечения в виде запрета определенных действий.
+В марте дела по аналогичной статье [возбудили](2022/03/16/v-tomskoi-oblasti-vozbudili-pervye-dve-dela-o-feikakh-pro-deistviia-rossiiskikh-voennykh-news.md) против жителя Томска и жительницы Северска. Им избрали меру пресечения в виде запрета определенных действий.
 
-Закон о внесении в УК статьи 207.3 — о публичном распространении «фейков» о российской армии — президент России Владимир Путин [подписал](https://novayagazeta.ru/articles/2022/03/04/putin-podpisal-zakon-ob-ugolovnoi-otvetstvennosti-za-feiki-o-rossiiskoi-armii-news) в начале марта. По ней можно получить до 10 лет лишения свободы, если это повлекло «тяжкие последствия» — до 15.
+Закон о внесении в УК статьи 207.3 — о публичном распространении «фейков» о российской армии — президент России Владимир Путин [подписал](2022/03/04/putin-podpisal-zakon-ob-ugolovnoi-otvetstvennosti-za-feiki-o-rossiiskoi-armii-news.md) в начале марта. По ней можно получить до 10 лет лишения свободы, если это повлекло «тяжкие последствия» — до 15.

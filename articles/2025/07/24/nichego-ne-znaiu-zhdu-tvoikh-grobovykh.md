@@ -111,7 +111,7 @@ tags: "сво, вернувшиеся с фронта, жены военных, 
 
 У нас если до Андреевского кладбища доехать, сразу видно, скольким уже позвонили.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/25/slozhnee-s-chuvstvom-spravedlivosti-slozhnee-s-reabilitatsiei
+**Читайте также:** [«Сложнее с чувством справедливости — сложнее с реабилитацией»](2025/04/25/slozhnee-s-chuvstvom-spravedlivosti-slozhnee-s-reabilitatsiei.md)
 
 ## Ссал под себя, а бабки с карты снимались
 
@@ -193,6 +193,6 @@ tags: "сво, вернувшиеся с фронта, жены военных, 
 
 *** просто высветила то, что в людях дремало. Бедность давит — вот и готовы люди чужую жизнь продать. Мужик бы сам, может, и не пошел, а жена толкает: «Иди, деньги нужны!»
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/16/budem-chestny-pokoinykh-u-nas-chtut-odno-pokolenie-ne-dumaiu-chto-s-parniami-budet-kak-to-po-drugomu
+**Читайте также:** [«Будем честны: покойных у нас чтут одно поколение. Не думаю, что с парнями будет как-то по-другому»](2025/04/16/budem-chestny-pokoinykh-u-nas-chtut-odno-pokolenie-ne-dumaiu-chto-s-parniami-budet-kak-to-po-drugomu.md)
 
 > Этот материал вышел в девятом номере «Новая газета. Журнал». Купить его можно в [онлайн-магазине](https://t.me/LLCNewSalesBot/Catalog) наших партнеров.

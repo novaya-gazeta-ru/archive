@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *Как националисты проникают в эфиры пропагандистских СМИ, что осталось от школы в России эпохи СВО, как преследуют ученых и можно ли верить соцопросам*
 
-https://novayagazeta.ru/issues/3256
+[https://novayagazeta.ru/issues/3256](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3256)

@@ -25,9 +25,9 @@ tags: ""
 
 Наиля Аллахвердиева возглавляла PERMM с 2019 года.
 
-«Новая газета» совсем недавно подробно рассказывала о музее PERMM [и подоплеке обысков там](https://novayagazeta.ru/articles/2024/11/23/permskaia-kulturnaia-revoliutsiia-final).
+«Новая газета» совсем недавно подробно рассказывала о музее PERMM [и подоплеке обысков там](2024/11/23/permskaia-kulturnaia-revoliutsiia-final.md).
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/05/rukovoditelia-muzteatra-v-novosibirske-uvolili-posle-donosa-patriotichnogo-aktera-news
+**Читайте также:** [Руководителя музтеатра в Новосибирске уволили после доноса «патриотичного» актера](2024/12/05/rukovoditelia-muzteatra-v-novosibirske-uvolili-posle-donosa-patriotichnogo-aktera-news.md)
 
 #### * Минюст включил в реестр иноагентов, также признан террористом и экстремистом.
 

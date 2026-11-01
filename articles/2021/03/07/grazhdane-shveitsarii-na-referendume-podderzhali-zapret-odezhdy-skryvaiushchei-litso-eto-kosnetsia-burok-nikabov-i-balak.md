@@ -21,4 +21,4 @@ tags: "швейцария, никаб, бурка, запрет, правые, �
 
 > **Читайте также**
 >
-> **[Шахматы и хиджаб](https://novayagazeta.ru/articles/2020/01/16/83478-shahmaty-i-hidzhab)[Иранская судья не может вернуться на родину — во время Чемпионата мира по шахматам у нее случайно сполз платок, и это попало на камеру фотографа](https://novayagazeta.ru/articles/2020/01/16/83478-shahmaty-i-hidzhab)**
+> **[Шахматы и хиджаб](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/01/16/83478-shahmaty-i-hidzhab)[Иранская судья не может вернуться на родину — во время Чемпионата мира по шахматам у нее случайно сполз платок, и это попало на камеру фотографа](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/01/16/83478-shahmaty-i-hidzhab)**

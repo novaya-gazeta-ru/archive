@@ -35,9 +35,9 @@ tags: "акции протеста, москва, мхт имени чехова
 
 И если сейчас ничего не предпринять, завтра мы вполне можем дождаться, что свиную голову положат уже не на ступеньки — на сцену.
 
-**link:** https://novayagazeta.ru/columns/67909.html
+**link:** [https://novayagazeta.ru/columns/67909.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/67909.html)
 
-**link:** https://novayagazeta.ru/columns/67909.html
+**link:** [https://novayagazeta.ru/columns/67909.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/67909.html)
 
 # Александр КАЛЯГИН, глава Союза театральных деятелей России:
 

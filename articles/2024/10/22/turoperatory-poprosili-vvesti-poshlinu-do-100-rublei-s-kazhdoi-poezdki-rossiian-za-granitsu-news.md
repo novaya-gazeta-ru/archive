@@ -21,4 +21,4 @@ tags: ""
 
 Новая идея сформировать внебюджетный фонд под управлением государства позволит разморозить средства фонда «Турпомощь» и направлять дивиденды на развитие внутреннего туризма. В итоге создание нового инструмента должно снизить стоимость путевки для россиян, сделав массовый туризм более доступным, [считает](https://rst.ru/novosti/novosti-turizma/rst-sozdanie-alternativnogo-instrumenta-dlya-turoperatorov-po-vyezdnomu-turizmu-pozvolit-snizit-stoimost-zarubezhnyh-poezdokdlyarossiyan.html) Уманский.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/19/rasplachivalis-my-kstati-dollarami
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/19/rasplachivalis-my-kstati-dollarami](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/19/rasplachivalis-my-kstati-dollarami)

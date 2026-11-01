@@ -21,4 +21,4 @@ tags: "кукурузник, самолеты, байкал, минпромто�
 
 Самолет «Байкал» разработала компания «Байкал Инжиниринг» в рамках контракта с Минпромторгом. Он призван заменить в эксплуатации самолеты Ан-2, известный как «кукурузник». Первый полет Ан-2 совершил в 1947 году.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/14/dva-chasa-leta-na-kukuruznike-i-ty-posredi-nichego-kak-v-rossii-pogibaet-malaia-aviatsiia
+**Читайте также:** [https://novayagazeta.ru/articles/2021/06/14/dva-chasa-leta-na-kukuruznike-i-ty-posredi-nichego-kak-v-rossii-pogibaet-malaia-aviatsiia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/06/14/dva-chasa-leta-na-kukuruznike-i-ty-posredi-nichego-kak-v-rossii-pogibaet-malaia-aviatsiia)

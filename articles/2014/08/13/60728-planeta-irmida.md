@@ -157,6 +157,6 @@ _Не тратила бы времени на звуки»._
 
 _Осталась всё же где-то в мироздании малая планета Ирмида. Остался – главное! – её голос. Волшебный, нездешний. А лично для меня осталось ещё и самое главное – я_благодарен Ирме за то, что она помогла мне «впасть в детство» и снова, может быть, наивно, но теперь уже навсегда поверить: стихов Лермонтова **вне музыки** не бывает.
 
-**link:** https://novayagazeta.ru/arts/65043.html
+**link:** [https://novayagazeta.ru/arts/65043.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/65043.html)
 
-**link:** https://novayagazeta.ru/arts/65043.html
+**link:** [https://novayagazeta.ru/arts/65043.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/65043.html)

@@ -239,4 +239,4 @@ tags: ""
 
 #### * Внесена минюстом РФ в реестр «иноагентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/07/prishestvie-vtorogo-syna
+**Читайте также:** [Пришествие второго сына](2026/03/07/prishestvie-vtorogo-syna.md)

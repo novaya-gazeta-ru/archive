@@ -17,8 +17,8 @@ tags: "вакцины, коронавирус, nt"
 
 В сообщении уточняется, что в испытании примут участие добровольцы старше 18 лет.
 
-**link:** https://novayagazeta.ru/articles/2020/12/11/88319-dotyanut-do-privivki
+**link:** [Дотянуть до прививки](2020/12/11/88319-dotyanut-do-privivki.md)
 
-Ранее независимое исследование, в котором приняли участие около 12 тысяч жителей Великобритании и Бразилии, [подтвердило](https://novayagazeta.ru/news/2020/12/08/166288-nezavisimoe-issledovanie-podtverdilo-effektivnost-i-bezopasnost-vaktsiny-astrazeneca) эффективность и безопасность вакцины AstraZeneca. Эффективность вакцины, в среднем, оценили в 70,4%.
+Ранее независимое исследование, в котором приняли участие около 12 тысяч жителей Великобритании и Бразилии, [подтвердило](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/12/08/166288-nezavisimoe-issledovanie-podtverdilo-effektivnost-i-bezopasnost-vaktsiny-astrazeneca) эффективность и безопасность вакцины AstraZeneca. Эффективность вакцины, в среднем, оценили в 70,4%.
 
-«Спутник V» стала первой российской вакциной от COVID-19. Исследователи из разных стран критиковали поспешную регистрацию препарата, но 8 сентября вакцину уже запустили в гражданский оборот. В компании, разрабатывающей российскую вакцину, [заявили](https://novayagazeta.ru/news/2020/11/24/165945-rfpi-effektivnost-rossiyskoy-vaktsiny-ot-covid-19-sputnik-v-sostavila-95-na-42-y-den-posle-vvedeniya-pervoy-dozy), что ее эффективность составила 95% на 42-й день после введения первой дозы.
+«Спутник V» стала первой российской вакциной от COVID-19. Исследователи из разных стран критиковали поспешную регистрацию препарата, но 8 сентября вакцину уже запустили в гражданский оборот. В компании, разрабатывающей российскую вакцину, [заявили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/24/165945-rfpi-effektivnost-rossiyskoy-vaktsiny-ot-covid-19-sputnik-v-sostavila-95-na-42-y-den-posle-vvedeniya-pervoy-dozy), что ее эффективность составила 95% на 42-й день после введения первой дозы.

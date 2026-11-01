@@ -21,11 +21,11 @@ tags: "война, цензура, фейки, лишение свободы, sf
 
 За подобные действия предлагают ввести наказание в виде штрафа в размере до 500 тысяч рублей, либо ограничения свободы, либо лишения свободы на срок до трех лет со штрафом до 200 тысяч рублей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/02/pokhoronka-est-mogilu-vykopali-a-telo-ne-privezli
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/02/pokhoronka-est-mogilu-vykopali-a-telo-ne-privezli](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/02/pokhoronka-est-mogilu-vykopali-a-telo-ne-privezli)
 
-Ранее глава думского комитета по безопасности Василий Пискарев [предложил](https://novayagazeta.ru/articles/2022/02/28/deputat-gosdumy-piskarev-predlozhil-vvesti-statiu-s-nakazaniem-do-15-let-kolonii-za-feiki-o-rossiiskoi-armii-news) ввести уголовную и административную ответственность за «искажение цели, роли и задач Вооруженных сил РФ, а также других формирований во время специальных военных и иных операций».
+Ранее глава думского комитета по безопасности Василий Пискарев [предложил](2022/02/28/deputat-gosdumy-piskarev-predlozhil-vvesti-statiu-s-nakazaniem-do-15-let-kolonii-za-feiki-o-rossiiskoi-armii-news.md) ввести уголовную и административную ответственность за «искажение цели, роли и задач Вооруженных сил РФ, а также других формирований во время специальных военных и иных операций».
 
-3 марта Совет Директоров «Эха Москвы» [принял](https://novayagazeta.ru/articles/2022/03/03/soveta-direktorov-ekha-moskvy-prinial-reshenie-likvidirovat-radiokanal-i-sait-radiostantsii-news) решение о ликвидации радиоканала и сайта «Эха Москвы». До этого Генпрокуратура [отключила](https://novayagazeta.ru/articles/2022/03/01/genprokuratura-potrebovala-ogranichit-dostup-k-saitam-ekha-moskvy-i-telekanala-dozhd-news) «Эхо Москвы» от эфира. По данным Генпрокуратуры, радиостанция якобы распространяла материалы с призывами к экстремистской деятельности и ложные сведения о действиях российских военных в рамках «специальной военной операции» в Украине.
+3 марта Совет Директоров «Эха Москвы» [принял](2022/03/03/soveta-direktorov-ekha-moskvy-prinial-reshenie-likvidirovat-radiokanal-i-sait-radiostantsii-news.md) решение о ликвидации радиоканала и сайта «Эха Москвы». До этого Генпрокуратура [отключила](2022/03/01/genprokuratura-potrebovala-ogranichit-dostup-k-saitam-ekha-moskvy-i-telekanala-dozhd-news.md) «Эхо Москвы» от эфира. По данным Генпрокуратуры, радиостанция якобы распространяла материалы с призывами к экстремистской деятельности и ложные сведения о действиях российских военных в рамках «специальной военной операции» в Украине.
 
 Наряду с «Эхом» Генпрокуратура заблокировала сайт телеканала «Дождь»*. Ранее Роскомнадзор потребовал удалить материалы «Новой газеты», «Медиазоны»*, «Дождя» и других СМИ за то, что происходящее в Украине в них называлось войной.
 

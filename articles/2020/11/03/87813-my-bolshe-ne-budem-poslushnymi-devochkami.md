@@ -17,4 +17,4 @@ tags: "аборты, польша"
 >
 > **Castbox | Souncloud | VK | Apple Podcasts | Google Podcasts | Яндекс.Музыка**
 
-**link:** https://novayagazeta.ru/articles/2020/10/30/87775-ne-tolko-pro-aborty
+**link:** [Не только про аборты](2020/10/30/87775-ne-tolko-pro-aborty.md)

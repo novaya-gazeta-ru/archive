@@ -79,4 +79,4 @@ tags: "скочиленко, сво, дискредитация армии"
 
 *Санкт-Петербург *
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/09/30/zachem-vy-morite-menia-golodom
+**Читайте также:** [«Зачем вы морите меня голодом?»](2023/09/30/zachem-vy-morite-menia-golodom.md)

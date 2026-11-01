@@ -15,7 +15,7 @@ tags: ""
 
 Ярбусова считает, что ее авторские права нарушил ЦБ, когда в 2024 году выпустил юбилейные монеты 3 и 25 рублей из мультфильма «Ежик в тумане».
 
-Норштейн, [назвавший](https://novayagazeta.ru/articles/2024/09/24/esli-v-kratkoi-forme-vorovstvo-plagiat-poshlost-iurii-norshtein-vozmushchen-vypuskom-monet-k-50-letiiu-ezhika-v-tumane-news) выпуск монеты с персонажами мультфильма в оборот «воровством, плагиатом и пошлостью», тогда тоже заявлял, что художников никто не спрашивал.
+Норштейн, [назвавший](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/24/esli-v-kratkoi-forme-vorovstvo-plagiat-poshlost-iurii-norshtein-vozmushchen-vypuskom-monet-k-50-letiiu-ezhika-v-tumane-news) выпуск монеты с персонажами мультфильма в оборот «воровством, плагиатом и пошлостью», тогда тоже заявлял, что художников никто не спрашивал.
 
 ЦБ заявлял, что все юридические вопросы были согласованы с правообладателем — «Союзмультфильмом».
 

@@ -397,4 +397,4 @@ tags: "иркутск,  застройка, пожары"
 
 **Иркутск — Москва**
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/29/chem-pakhnet-ili-ugli-otechestva
+**Читайте также:** [Чем пахнет, или Угли Отечества](2025/11/29/chem-pakhnet-ili-ugli-otechestva.md)

@@ -25,6 +25,6 @@ tags: "пермь, стрельба, шутинг, бекмансуров, пе�
 
 Стрелка задержал младший лейтенант ДПС Константин Калинин. Он ранил Бекмансурова из табельного оружия. Стрелок остался жив и сейчас находится в больнице под охраной. На своей странице «Вконтакте» стрелок мотивировал убийство ненавистью к себе и окружающим.
 
-СК [возбудил](https://novayagazeta.ru/articles/2021/09/20/%C2%ABhttps://t.me/tass_agency/76900%C2%BB) дело об убийстве двух и более лиц после стрельбы в Пермском вузе (ч. 2 ст. 105 УК). Спецборт МЧС с ранеными в ходе шутинга [вылетел](https://rg.ru/2021/09/21/reg-pfo/specbort-mchs-s-ranenymi-v-hode-strelby-v-permi-vyletel-v-moskvu.html) из Перми в Москву.
+СК [возбудил](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/20/%C2%AB [https://t.me/tass_agency/76900%C2%BB](https://web.archive.org/web/*/https://t.me/tass_agency/76900%C2%BB)) дело об убийстве двух и более лиц после стрельбы в Пермском вузе (ч. 2 ст. 105 УК). Спецборт МЧС с ранеными в ходе шутинга [вылетел](https://rg.ru/2021/09/21/reg-pfo/specbort-mchs-s-ranenymi-v-hode-strelby-v-permi-vyletel-v-moskvu.html) из Перми в Москву.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/05/11/promakhnulis
+**Читайте также:** [Промахнулись](2021/05/11/promakhnulis.md)

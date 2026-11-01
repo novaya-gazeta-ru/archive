@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *Экологические последствия войн: где мы будем жить, как началась «Кровавая суббота» в Израиле и — патриарх Кирилл расчищает место для преемника*
 
-https://novayagazeta.ru/issues/3272
+[https://novayagazeta.ru/issues/3272](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3272)

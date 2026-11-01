@@ -13,7 +13,7 @@ tags: ""
 
 *Елена Милашина — про жизнь после нападения, кота Кузю и журналистику в России*
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/12/25/vse-obiazatelno-zakonchitsia-khorosho
+**Читайте также:** [«Все обязательно закончится хорошо»](2023/12/25/vse-obiazatelno-zakonchitsia-khorosho.md)
 
 Читайте также
 

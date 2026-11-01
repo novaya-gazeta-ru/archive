@@ -65,7 +65,7 @@ tags: "красовский, дудь, баронова, собчак, проп�
 >
 > У этого материала есть [аудиоверсия](https://youtu.be/kxt56TEspoM) на Youtube. Читает Ирина Петровская.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/17/i-nashim-i-vashim-spoem-i-spliashem
+**Читайте также:** [И нашим, и вашим споем и спляшем](2025/07/17/i-nashim-i-vashim-spoem-i-spliashem.md)
 
 ## Топ-5 лучших выпусков недели на YouTube
 

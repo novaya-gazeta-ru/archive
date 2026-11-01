@@ -25,8 +25,8 @@ tags: ""
 
 Казаки сравнили установку памятника Дзержинскому с монументом Чикатило.
 
-В июле суд в Вологде обязал власти [убрать](https://novayagazeta.ru/articles/2025/07/09/sud-v-vologde-potreboval-ubrat-pamiatnik-stalinu-ustanovlennyi-s-podachi-gubernatora-posle-pretenzii-prokuratury-on-utverzhdal-chto-monument-budet-stoiat-news) памятник Иосифу Сталину. Прокуратура настаивала, что он был установлен с нарушениями процедур госзакупки. Статуя Сталина появилась на территории дома-музея «Вологодская ссылка» с подачи губернатора Георгия Филимонова. Жители Вологды раскритиковали инициативу и создали петицию с требованием пересмотреть решение об установке: ее подписали около 3 тысяч человек.
+В июле суд в Вологде обязал власти [убрать](2025/07/09/sud-v-vologde-potreboval-ubrat-pamiatnik-stalinu-ustanovlennyi-s-podachi-gubernatora-posle-pretenzii-prokuratury-on-utve.md) памятник Иосифу Сталину. Прокуратура настаивала, что он был установлен с нарушениями процедур госзакупки. Статуя Сталина появилась на территории дома-музея «Вологодская ссылка» с подачи губернатора Георгия Филимонова. Жители Вологды раскритиковали инициативу и создали петицию с требованием пересмотреть решение об установке: ее подписали около 3 тысяч человек.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/10/nichtozhnyi-monument
+**Читайте также:** [Ничтожный монумент](2025/07/10/nichtozhnyi-monument.md)
 
-А в Москве партия «Яблоко» с мая [собирает подписи](https://novayagazeta.ru/articles/2025/05/17/iabloko-organizovalo-sbor-podpisei-pod-trebovaniem-demontirovat-tolko-chto-otkrytyi-barelef-so-stalinym-v-moskovskom-metro-news) с требованием демонтировать горельеф «Благодарность народа вождю-полководцу» с фигурой Сталина, установленный на станции метро Таганская кольцевая. [Петицию](https://www.yabloko.ru/bez-stalina) подписали 5500 человек.
+А в Москве партия «Яблоко» с мая [собирает подписи](2025/05/17/iabloko-organizovalo-sbor-podpisei-pod-trebovaniem-demontirovat-tolko-chto-otkrytyi-barelef-so-stalinym-v-moskovskom-met.md) с требованием демонтировать горельеф «Благодарность народа вождю-полководцу» с фигурой Сталина, установленный на станции метро Таганская кольцевая. [Петицию](https://www.yabloko.ru/bez-stalina) подписали 5500 человек.

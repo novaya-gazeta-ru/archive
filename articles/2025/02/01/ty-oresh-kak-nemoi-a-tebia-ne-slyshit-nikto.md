@@ -189,7 +189,7 @@ tags: "суджа, приграничные районы, курская обл�
 
 Рядом девушка подтверждает: «Ну конечно, понятно, почему они так относятся. Для чего хорошее отношение показывают… Но все равно они помогают нашим. Едой, медикаментами. Без них вообще бы никакой помощи не было».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/18/zhiteli-zakhvachennogo-vsu-sudzhanskogo-raiona-vyshli-na-miting-v-kurske-k-nim-prishel-khinshtein-i-obiavil-chto-prezhnie-chinovniki-otvetiat-za-korruptsiiu-news
+**Читайте также:** [Жители захваченного ВСУ Суджанского района вышли на митинг в Курске. К ним пришел Хинштейн и объявил, что прежние чиновники «ответят» за коррупцию](2025/01/18/zhiteli-zakhvachennogo-vsu-sudzhanskogo-raiona-vyshli-na-miting-v-kurske-k-nim-prishel-khinshtein-i-obiavil-chto-prezhni.md)
 
 ## **«**Надо вызволять оттуда и договариваться, пока не поздно **»**
 
@@ -211,7 +211,7 @@ tags: "суджа, приграничные районы, курская обл�
 
 Сын берет маму за плечи: «Галка, все хорошо! Мама здорова. Все нормально. Давай!»
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/17/minoborony-vpervye-raskrylo-ploshchad-zaniatoi-vsu-territorii-kurskoi-oblasti-news
+**Читайте также:** [Минобороны впервые раскрыло площадь занятой ВСУ территории Курской области](2025/01/17/minoborony-vpervye-raskrylo-ploshchad-zaniatoi-vsu-territorii-kurskoi-oblasti-news.md)
 
 Рядом белый пес заливается лаем.
 

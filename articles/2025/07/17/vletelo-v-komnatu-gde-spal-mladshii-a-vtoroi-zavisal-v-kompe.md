@@ -43,4 +43,4 @@ tags: ""
 
 По официальной информации, комиссия управы Левобережного района начнет осмотр квартир и оценку размера нанесенного ущерба после завершения работы спецслужб.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/17/kreml-opravdal-massovye-otkliucheniia-interneta-i-potreboval-ot-deputatov-luchshe-obiasnit-smysl-popravok-o-shtrafakh-za-poisk-ekstremizma-v-internete-news
+**Читайте также:** [Кремль оправдал массовые отключения интернета и потребовал от депутатов лучше объяснить смысл поправок о штрафах за поиск «экстремизма» в интернете](2025/07/17/kreml-opravdal-massovye-otkliucheniia-interneta-i-potreboval-ot-deputatov-luchshe-obiasnit-smysl-popravok-o-shtrafakh-za.md)

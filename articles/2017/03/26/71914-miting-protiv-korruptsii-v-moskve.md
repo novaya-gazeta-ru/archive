@@ -21,13 +21,13 @@ tags: "навальный, митинги, москва, акции протес
 
 *Участники митинга скандируют «Мы здесь власть!» Фото: Влад Докшин*
 
-**link:** https://novayagazeta.ru/articles/2017/03/26/71915-zaderzhaniya-na-mitinge-protiv-korruptsii-v-moskve-video
+**link:** [Задержания на митинге против коррупции в Москве. Видео](2017/03/26/71915-zaderzhaniya-na-mitinge-protiv-korruptsii-v-moskve-video.md)
 
 ![](_assets/4d/4d1d04449d847c0184685605896f58f5.webp)
 
 *Полиция задерживает одну из участниц митинга. Фото: Влад Докшин*
 
-**link:** https://novayagazeta.ru/articles/2017/03/26/71913-na-antipravitelstvennyh-mitingah-v-rossii-zaderzhivayut-lyudey-onlayn
+**link:** [По всей России прошли митинги против коррупции. В Москве задержали сотни человек. Хроника](2017/03/26/71913-na-antipravitelstvennyh-mitingah-v-rossii-zaderzhivayut-lyudey-onlayn.md)
 
 ![](_assets/58/58b9ad1be100ff91cb14f067a3a16233.webp)
 

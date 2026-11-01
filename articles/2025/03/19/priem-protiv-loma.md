@@ -67,4 +67,4 @@ tags: "яблоко, партия яблоко, выборы, псковская
 
 **Вероника Азарова**
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/18/vse-protiv-iabloka-a-protiv-chego-samo-iabloko
+**Читайте также:** [Все против «Яблока», а против чего само «Яблоко»?](2025/02/18/vse-protiv-iabloka-a-protiv-chego-samo-iabloko.md)

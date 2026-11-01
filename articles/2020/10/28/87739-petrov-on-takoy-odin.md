@@ -35,4 +35,4 @@ tags: "похороны, псковская область, выборг"
 
 *Фото: РИА Новости*
 
-**link:** https://novayagazeta.ru/articles/2020/10/26/87703-gorod-hischeniy-arestov-i-strelby
+**link:** [Город хищений, арестов и стрельбы](2020/10/26/87703-gorod-hischeniy-arestov-i-strelby.md)

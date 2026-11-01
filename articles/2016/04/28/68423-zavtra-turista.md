@@ -27,7 +27,7 @@ tags: "россия, туризм"
 
 *[media: <tbody>
 		<tr>
-			<td><img alt="" src="http://www.novayagazeta.ru/storage/c/2016/04/28/1461864656_044611_51.jpg" style="width: 40px; height: 36px;"></td>
+			<td><img alt="" src="[http://www.novayagazeta.ru/storage/c/2016/04/28/1461864656_044611_51.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2016/04/28/1461864656_044611_51.jpg)" style="width: 40px; height: 36px;"></td>
 			<td>
 			<p><span style="color:#B22222;"><strong>Справка «Новой»</strong></span></p>
 

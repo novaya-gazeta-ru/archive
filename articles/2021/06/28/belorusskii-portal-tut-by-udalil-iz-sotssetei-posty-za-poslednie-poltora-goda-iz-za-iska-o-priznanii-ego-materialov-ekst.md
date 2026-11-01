@@ -19,9 +19,9 @@ tags: "Беларусь, сми, соцсети, em"
 
 Также с канала в телеграме исчезла галочка верификации аккаунта. «Т.к. наш телеграмм канал может быть признан экстремистским, у нас должна быть возможность быстро переименовать его, чтобы обезопасить и наших авторов, и наших читателей. Сделать это за пару минут после решения суда нельзя, мы решили подготовиться заранее», — отметили в издании.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/05/18/nas-khotiat-ubit-i-dlia-etogo-vse-sredstva-khoroshi
+**Читайте также:** [«Нас хотят убить, и для этого все средства хороши»](2021/05/18/nas-khotiat-ubit-i-dlia-etogo-vse-sredstva-khoroshi.md)
 
-Cиловики 18 мая пришли с обысками в редакцию Tut.by. Оперативные действия прошли у журналистов издания (среди них [задержали](https://novayagazeta.ru/articles/2021/05/18/belorusskie-siloviki-zaderzhali-13-sotrudnikov-tut-by-nekotorykh-iz-nikh-uvezli-v-ivs-na-okrestina) больше 10 человек) и в региональных бюро. 20 мая выяснилось, что Юлия Чернявская — вдова основателя портала Юрия Зиссера — [находится](https://novayagazeta.ru/articles/2021/05/20/vdova-osnovatelia-tut-by-nakhoditsia-pod-domashnim-arestom-s-nei-ne-bylo-sviazi-s-18-maia) под домашним арестом.
+Cиловики 18 мая пришли с обысками в редакцию Tut.by. Оперативные действия прошли у журналистов издания (среди них [задержали](2021/05/18/belorusskie-siloviki-zaderzhali-13-sotrudnikov-tut-by-nekotorykh-iz-nikh-uvezli-v-ivs-na-okrestina.md) больше 10 человек) и в региональных бюро. 20 мая выяснилось, что Юлия Чернявская — вдова основателя портала Юрия Зиссера — [находится](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/05/20/vdova-osnovatelia-tut-by-nakhoditsia-pod-domashnim-arestom-s-nei-ne-bylo-sviazi-s-18-maia) под домашним арестом.
 
 Департамент финансовых расследований Комитета государственного контроля [возбудил](https://www.belta.by/incident/view/kgk-v-otnoshenii-dolzhnostnyh-lits-ooo-tut-baj-media-vozbuzhdeno-ugolovnoe-delo-441796-2021/) уголовное дело об уклонении от уплаты налогов в особо крупном размере (ст. 243 УК РБ) в отношении должностных лиц Tut.by. По данным департамента, три года назад Tut.by получил статус резидента Парка высоких технологий. Как утверждают власти, портал получил выручку, не обусловленную деятельностью, разрешенной для резидентов парка.
 

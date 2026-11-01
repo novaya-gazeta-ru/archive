@@ -19,8 +19,8 @@ tags: "ng, овсянникова, акция , суды"
 
 Марина Овсянникова — экс-журналистка Первого канала, которая 14 марта в эфире программы «Время» за спиной ведущей Екатерины Андреевой вышла с пацифистским плакатом про Украину. Ее сразу же задержали.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/19/kogda-nachinaetsia-vremia-mnogie-kollegi-vykliuchaiut-zvuk
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/19/kogda-nachinaetsia-vremia-mnogie-kollegi-vykliuchaiut-zvuk](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/19/kogda-nachinaetsia-vremia-mnogie-kollegi-vykliuchaiut-zvuk)
 
 Останкинский суд на следующий день, 15 марта, оштрафовал Овсянникову на 30 тысяч рублей по статье об организации несогласованной акции (ч. 2 ст. 20.2 КоАП). Штраф выписали не за выход с протестным плакатом во время эфира Первого канала, а за заранее записанное видеообращение, которое опубликовали в соцсетях.
 
-Затем Овсянникова уволилась с Первого канала. Заместитель генерального директора и шеф новостей Первого канала Кирилл Клейменов [назвал](https://novayagazeta.ru/articles/2022/03/21/na-pervom-kanale-nazvali-predatelstvom-poiavlenie-v-priamom-efire-mariny-ovsiannikovoi-s-plakatom-pro-ukrainu-i-eshche-raz-ego-pokazali-news)поступок Овсянниковой «предательством» и снова показал в прямом эфире кадры акции журналистки.
+Затем Овсянникова уволилась с Первого канала. Заместитель генерального директора и шеф новостей Первого канала Кирилл Клейменов [назвал](2022/03/21/na-pervom-kanale-nazvali-predatelstvom-poiavlenie-v-priamom-efire-mariny-ovsiannikovoi-s-plakatom-pro-ukrainu-i-eshche-r.md)поступок Овсянниковой «предательством» и снова показал в прямом эфире кадры акции журналистки.

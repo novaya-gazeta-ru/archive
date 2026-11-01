@@ -81,4 +81,4 @@ tags: "иран , израильская армия, нетаньяху, бом�
 
 **Алексей Крижевский**
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/16/poka-izrail-bet-po-nachalstvu-vse-tolko-rady
+**Читайте также:** [«Пока Израиль бьет по начальству, все только рады»](2025/06/16/poka-izrail-bet-po-nachalstvu-vse-tolko-rady.md)

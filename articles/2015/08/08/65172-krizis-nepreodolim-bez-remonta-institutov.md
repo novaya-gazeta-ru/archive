@@ -28,7 +28,7 @@ tags: "кризис, регионы"
 *[media: <tbody>
 		<tr>
 			<td>
-			<p><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/08/08/1439052838_758953_20.jpg" style="text-align: right; width: 340px; height: 214px; float: right;"></p>
+			<p><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/08/08/1439052838_758953_20.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/08/08/1439052838_758953_20.jpg)" style="text-align: right; width: 340px; height: 214px; float: right;"></p>
 			</td>
 		</tr>
 		<tr>

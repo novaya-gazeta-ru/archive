@@ -51,6 +51,6 @@ tags: "птср, война, посттравматический стресс"
 
 Можно ли остановить ненависть до того, как она станет новой нормой.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/02/prekratit-ogon-vyvezti-ranenykh-s-polia-boia
+**Читайте также:** [Прекратить огонь! Вывезти раненых с поля боя!](2026/07/02/prekratit-ogon-vyvezti-ranenykh-s-polia-boia.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/01/sashka-dve-nedeli-v-zemlianke-lezhal-on-sebe-paltsy-otrezal
+**Читайте также:** [«Сашка две недели в землянке лежал — он себе пальцы отрезал»](2026/07/01/sashka-dve-nedeli-v-zemlianke-lezhal-on-sebe-paltsy-otrezal.md)

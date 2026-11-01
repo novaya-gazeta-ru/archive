@@ -187,7 +187,7 @@ tags: "сталинград, сталин , ворошилов"
 
 Хорошо сказал: «так называемые блага народа». Не забыть бы.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/31/s-golovoiu-uchenogo-s-litsom-rabochego-v-odezhde-prostogo-soldata
+**Читайте также:** [«С головою ученого, с лицом рабочего, в одежде простого солдата»](2024/10/31/s-golovoiu-uchenogo-s-litsom-rabochego-v-odezhde-prostogo-soldata.md)
 
 > ### **В честь Сталина были названы следующие советские города:**
 >

@@ -123,4 +123,4 @@ tags: ""
 
 > Этот материал вышел в двадцатом номере «Новая газета. Журнал». Купить его можно в [онлайн-магазине](https://bookmerchshop.ru/) наших партнеров.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/04/30/prosveshchennyi-diktator-osoboi-tsivilizatsii-traditsionnykh-tsennostei
+**Читайте также:** [https://novayagazeta.ru/articles/2024/04/30/prosveshchennyi-diktator-osoboi-tsivilizatsii-traditsionnykh-tsennostei](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/04/30/prosveshchennyi-diktator-osoboi-tsivilizatsii-traditsionnykh-tsennostei)

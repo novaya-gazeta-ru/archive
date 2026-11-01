@@ -13,10 +13,10 @@ tags: "выборы, настольная игра, игра"
 
 *Выбери сторону и выдвинись на Кремль! Как это делается*
 
-**link:** https://novayagazeta.ru/articles/2017/12/26/75050-prizyvy-k-boykotu-vyborov-ne-narushayut-rossiyskih-zakonov
+**link:** [«Призывы к бойкоту выборов не нарушают российских законов»](2017/12/26/75050-prizyvy-k-boykotu-vyborov-ne-narushayut-rossiyskih-zakonov.md)
 
-**link:** https://novayagazeta.ru/articles/2017/12/26/75048-programmiruemyy-krizis
+**link:** [Программируемый кризис](2017/12/26/75048-programmiruemyy-krizis.md)
 
-**link:** https://novayagazeta.ru/articles/2017/12/22/75021-vperedi-parovoza
+**link:** [Впереди паровоза](2017/12/22/75021-vperedi-parovoza.md)
 
-**link:** https://novayagazeta.ru/articles/2017/12/25/75042-moya-pravda
+**link:** [Моя правда](2017/12/25/75042-moya-pravda.md)

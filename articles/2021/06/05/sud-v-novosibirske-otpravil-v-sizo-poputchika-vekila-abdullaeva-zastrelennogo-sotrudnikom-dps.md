@@ -19,6 +19,6 @@ tags: "полиция, убийство, арест, sn"
 
 Инцидент произошел 28 мая близ поселка Мокшино. Сотрудник ДПС сопровождал мужчину в служебный автомобиль для установления личности, но этому начал препятствовать его 19-летний знакомый. Силовик нанес молодому человеку удары руками и ногами. После этого полицейский достал из кобуры пистолет системы «ПМ», направил его на потерпевшего и случайно нажал на спусковой крючок. Впоследствии молодой человек скончался в больнице.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/05/31/v-ozhidanii-mesti
+**Читайте также:** [В ожидании мести (18+)](2021/05/31/v-ozhidanii-mesti.md)
 
-Самого полицейского сначала [арестовали](https://novayagazeta.ru/articles/2021/05/31/v-novosibirske-sud-arestoval-sotrudnika-dps-kotoryi-pri-zaderzhanii-vystrelil-v-golovu-molodomu-cheloveku), однако позже следователь [заменил](https://novayagazeta.ru/articles/2021/06/04/novosibirskogo-politseiskogo-kotoryi-pri-zaderzhanii-vystrelil-v-golovu-cheloveku-otpustili-iz-pod-strazhi-po-porucheniiu-glavy-sk) ему меру пресечения на подписку о невыезде и надлежащем поведении по поручению главы Следственного комитета Александра Бастрыкина.
+Самого полицейского сначала [арестовали](2021/05/31/v-novosibirske-sud-arestoval-sotrudnika-dps-kotoryi-pri-zaderzhanii-vystrelil-v-golovu-molodomu-cheloveku.md), однако позже следователь [заменил](2021/06/04/novosibirskogo-politseiskogo-kotoryi-pri-zaderzhanii-vystrelil-v-golovu-cheloveku-otpustili-iz-pod-strazhi-po-poruchenii.md) ему меру пресечения на подписку о невыезде и надлежащем поведении по поручению главы Следственного комитета Александра Бастрыкина.

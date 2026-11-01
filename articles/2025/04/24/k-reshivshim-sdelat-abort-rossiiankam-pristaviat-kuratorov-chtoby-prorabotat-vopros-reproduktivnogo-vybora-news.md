@@ -21,6 +21,6 @@ tags: ""
 
 > **есть продолжение**
 >
-> ### [Новорожденных в Кемерово выписывают из роддома в солдатских пилотках и плащ-палатках. ФОТО](https://novayagazeta.ru/articles/2025/04/24/novorozhdennykh-v-kemerovo-vypisyvaiut-iz-roddoma-v-soldatskikh-pilotkakh-i-plashch-palatkakh-foto-news)
+> ### [Новорожденных в Кемерово выписывают из роддома в солдатских пилотках и плащ-палатках. ФОТО](2025/04/24/novorozhdennykh-v-kemerovo-vypisyvaiut-iz-roddoma-v-soldatskikh-pilotkakh-i-plashch-palatkakh-foto-news.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/02/demografiia-nauka-o-svobode
+**Читайте также:** [Демография — наука о свободе](2025/04/02/demografiia-nauka-o-svobode.md)

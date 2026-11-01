@@ -21,4 +21,4 @@ tags: ""
 
 #### * Признан власятми РФ «иноагентом».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/05/futbol-kak-religiia-proval-odissei-nolana-mudrost-krylova-i-tainaia-zhizn-koshek
+**Читайте также:** [Футбол как религия, провал «Одиссеи» Нолана, мудрость Крылова и тайная жизнь кошек](2026/08/05/futbol-kak-religiia-proval-odissei-nolana-mudrost-krylova-i-tainaia-zhizn-koshek.md)

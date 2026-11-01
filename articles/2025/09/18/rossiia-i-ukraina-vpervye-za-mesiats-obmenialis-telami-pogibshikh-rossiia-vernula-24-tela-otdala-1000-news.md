@@ -17,4 +17,4 @@ tags: ""
 
 В Украине факт получения получение останков 1000 человек подтвердил Координационный штаб, тела отправят на дополнительную ДНК-экспертизу.
 
-Ранее 12 сентября Кремль заявил, что в переговорах Москвы и Киева [«можно говорить о паузе»](https://novayagazeta.ru/articles/2025/09/12/kreml-rasskazal-o-pauze-v-peregovorakh-s-ukrainoi-a-tramp-snova-grozit-rossii-sereznym-udarom-sanktsiiami-news), хотя общение по каналам координационных групп с обеих сторон «налажено» и идет.
+Ранее 12 сентября Кремль заявил, что в переговорах Москвы и Киева [«можно говорить о паузе»](2025/09/12/kreml-rasskazal-o-pauze-v-peregovorakh-s-ukrainoi-a-tramp-snova-grozit-rossii-sereznym-udarom-sanktsiiami-news.md), хотя общение по каналам координационных групп с обеих сторон «налажено» и идет.

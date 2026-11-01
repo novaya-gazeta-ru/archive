@@ -200,7 +200,7 @@ tags: ""
 
 Но сейчас вновь возникают те, кто считает все обнародованные документы подделанными, а извинявшихся — подголосками Геббельса. Их печатают, им предоставляют залы под «конференции», их не судят «за фейки».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/04/19/v-perevode-na-katyn-media
+**Читайте также:** [В переводе на Катынь](2023/04/19/v-perevode-na-katyn-media.md)
 
 ## К укреплению братских чувств
 
@@ -287,7 +287,7 @@ tags: ""
 
 За пять дней до речи Гитлера, 14 июля, Черчилль поклялся миру, что Британия будет сражаться даже в одиночку. «Мир» с фашистской Германией Черчилль бескомпромиссно отверг.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/07/31/entuziazmu-russkogo-naroda-ne-bylo-kontsa
+**Читайте также:** [https://novayagazeta.ru/articles/2024/07/31/entuziazmu-russkogo-naroda-ne-bylo-kontsa](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/07/31/entuziazmu-russkogo-naroda-ne-bylo-kontsa)
 
 ## «Мы привыкли брататься с победами»
 

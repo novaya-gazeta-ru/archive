@@ -25,4 +25,4 @@ tags: "здравоохранение, медицина"
 >
 > ### Реквизиты фонда https://bf-m.ru/campaign/pomoshh-timuru/
 
-**link:** https://novayagazeta.ru/articles/2020/01/18/83508-smaylik
+**link:** [Это — Аня. Ей нужен один укол](2020/01/18/83508-smaylik.md)

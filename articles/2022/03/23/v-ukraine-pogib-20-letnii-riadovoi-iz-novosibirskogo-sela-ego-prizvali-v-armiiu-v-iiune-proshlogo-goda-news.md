@@ -33,8 +33,8 @@ tags: "ng, погибшие, спецоперация, украина"
 
 Ранее, 20 марта, стало известно о смерти заместителя командующего Черноморским флотом, капитана первого ранга Андрея Палия. Губернатор Мурманской области Андрей Чибис в тот день [сообщил](https://vk.com/wall537777114_385738) о гибели военнослужащего Леонида Белякова.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/18/stolko-materei-seichas-moliatsia-chto-bog-ne-spravliaetsia
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/18/stolko-materei-seichas-moliatsia-chto-bog-ne-spravliaetsia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/18/stolko-materei-seichas-moliatsia-chto-bog-ne-spravliaetsia)
 
-Минобороны РФ [доложило](https://www.kommersant.ru/doc/5239486) о потерях в армии лишь 2 марта — к тому времени по официальным данным погибли 498 военных, 1597 были ранены. Актуальные данные о потерях неизвестны. Президент Владимир Путин [пообещал](https://novayagazeta.ru/articles/2022/03/03/putin-poobeshchal-vyplatit-bolee-74-mln-rublei-semiam-voennosluzhashchikh-pogibshikh-v-ukraine-news) выплатить 7 421 000 рублей семьям военнослужащих, погибших в Украине.
+Минобороны РФ [доложило](https://www.kommersant.ru/doc/5239486) о потерях в армии лишь 2 марта — к тому времени по официальным данным погибли 498 военных, 1597 были ранены. Актуальные данные о потерях неизвестны. Президент Владимир Путин [пообещал](2022/03/03/putin-poobeshchal-vyplatit-bolee-74-mln-rublei-semiam-voennosluzhashchikh-pogibshikh-v-ukraine-news.md) выплатить 7 421 000 рублей семьям военнослужащих, погибших в Украине.
 
 Президент России Владимир Путин объявил о начале «специальной военной операции» рано утром 24 февраля. С резким осуждением действий России выступили США, члены НАТО и Евросоюза, а также многие другие страны, которые впоследствии ввели против РФ санкции.

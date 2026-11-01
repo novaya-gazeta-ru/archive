@@ -35,6 +35,6 @@ tags: ""
 
 ## обновлено
 
-### [Комментарий Дональда Трампа](https://novayagazeta.ru/articles/2025/05/19/tramp-posle-razgovora-s-putinym-priamye-peregovory-moskvy-i-kieva-nachinaiutsia-nemedlenno-dlia-prekrashcheniia-ognia-storony-budut-soglasovyvat-usloviia-news) после телефонного разговора с Путиным.
+### [Комментарий Дональда Трампа](2025/05/19/tramp-posle-razgovora-s-putinym-priamye-peregovory-moskvy-i-kieva-nachinaiutsia-nemedlenno-dlia-prekrashcheniia-ognia-st.md) после телефонного разговора с Путиным.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/05/19/peregovory-tantsuiushchikh-dervishei
+**Читайте также:** [Переговоры танцующих дервишей](2025/05/19/peregovory-tantsuiushchikh-dervishei.md)

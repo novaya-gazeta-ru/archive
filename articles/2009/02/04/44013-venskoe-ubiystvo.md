@@ -193,9 +193,9 @@ _*Боевики, которых захватили вместе с Умаром
 
 **_Все документы — на сайте The New York Times_Документы по делу:**
 
-[Скачать документ в формате PDFСкачать документ в формате PDF](https://novayagazeta.ru/storage/d/2009/02/04/Ali_Israilov_application_to_ECtHR.pdf)\
-[Скачать документ в формате PDFСкачать документ в формате PDFСкачать документ в формате PDF](https://novayagazeta.ru/storage/d/2009/02/04/Letters_and_decisions.pdf)\
-[Скачать документ в формате PDF](https://novayagazeta.ru/storage/d/2009/02/04/Overivew.pdf)\
-[Скачать документ в формате PDF](https://novayagazeta.ru/storage/d/2009/02/04/Umar_Israilov_application_to_ECtHR.pdf)\
-[Скачать документ в формате PDF](https://novayagazeta.ru/storage/d/2009/02/04/Umar_Israilov_complaint_to_Prosecutor_General_of_the_Russian.pdf)\
-[Скачать документ в формате PDF](https://novayagazeta.ru/storage/d/2009/02/04/Umar_Israilov_short_complaint.pdf)
+[Скачать документ в формате PDFСкачать документ в формате PDF](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2009/02/04/Ali_Israilov_application_to_ECtHR.pdf)\
+[Скачать документ в формате PDFСкачать документ в формате PDFСкачать документ в формате PDF](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2009/02/04/Letters_and_decisions.pdf)\
+[Скачать документ в формате PDF](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2009/02/04/Overivew.pdf)\
+[Скачать документ в формате PDF](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2009/02/04/Umar_Israilov_application_to_ECtHR.pdf)\
+[Скачать документ в формате PDF](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2009/02/04/Umar_Israilov_complaint_to_Prosecutor_General_of_the_Russian.pdf)\
+[Скачать документ в формате PDF](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2009/02/04/Umar_Israilov_short_complaint.pdf)

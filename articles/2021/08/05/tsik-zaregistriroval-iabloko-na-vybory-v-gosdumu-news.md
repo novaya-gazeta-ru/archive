@@ -27,4 +27,4 @@ tags: "яблоко, госдума, выборы, sn"
 
 \
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/02/ona-ne-ostavila-nam-vyborov
+**Читайте также:** [Она не оставила нам выборов](2021/08/02/ona-ne-ostavila-nam-vyborov.md)

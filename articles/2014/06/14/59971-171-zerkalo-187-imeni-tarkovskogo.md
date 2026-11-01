@@ -37,7 +37,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/06/14/1402757818_391580_84.jpg" style="width: 340px; height: 414px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/06/14/1402757818_391580_84.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/06/14/1402757818_391580_84.jpg)" style="width: 340px; height: 414px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Марина Тарковская. Фото: РИА Новости</sup></td>

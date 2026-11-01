@@ -21,4 +21,4 @@ tags: ""
 
 Он рассказал, что с инициативой отправки шкур на фронт выступили оленеводы Северо-Эвенкского округа и активисты Общероссийского народного фронта.
 
-Напомним, Минздрав Магаданской области в начале ноября этого года [обвинил](https://novayagazeta.ru/articles/2024/11/04/minzdrav-magadanskoi-oblasti-obvinil-medikov-kolymy-v-chrezmernom-ispolzovanii-edinstvennogo-v-regione-apparata-mrt-news) медиков Колымы в слишком частом использовании единственного в регионе аппарата МРТ, который время от времени выходит из строя.
+Напомним, Минздрав Магаданской области в начале ноября этого года [обвинил](2024/11/04/minzdrav-magadanskoi-oblasti-obvinil-medikov-kolymy-v-chrezmernom-ispolzovanii-edinstvennogo-v-regione-apparata-mrt-news.md) медиков Колымы в слишком частом использовании единственного в регионе аппарата МРТ, который время от времени выходит из строя.

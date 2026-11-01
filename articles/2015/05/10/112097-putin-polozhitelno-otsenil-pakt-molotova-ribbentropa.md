@@ -17,8 +17,8 @@ tags: "война, история"
 
 «Смысл обеспечения безопасности Советского Союза в этом пакте был <...> Теперь второе — я напомню, что после подписания соответствующего Мюнхенского соглашения сама Польша предприняла действия, направленные на то, чтобы аннексировать часть чешской территории. Получилось так, что после пакта Молотова-Риббентропа и раздела Польши она сама оказалась жертвой той политики, которую и пыталась проводить в Европе», — [приводит](http://www.interfax.ru/russia/440996) слова российского лидера «Интерфакс».
 
-*[media: <p><a href="http://www.novayagazeta.ru/society/65051.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2014/08/30/1409414043_951208_42.jpg" style="width: 100px; height: 75px;"></a><span><strong>Читайте также:</strong></span></p>
+*[media: <p><a href="[http://www.novayagazeta.ru/society/65051.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/65051.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2014/08/30/1409414043_951208_42.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/08/30/1409414043_951208_42.jpg)" style="width: 100px; height: 75px;"></a><span><strong>Читайте также:</strong></span></p>
 
-<p><strong><a href="http://www.novayagazeta.ru/society/65051.html" target="_blank">Вторая мировая война, вспыхнувшая 1 сентября 1939 года, не должна была начаться: никто не хотел воевать, кроме одного человека — Адольфа Гитлера </a></strong></p>]*
+<p><strong><a href="[http://www.novayagazeta.ru/society/65051.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/65051.html)" target="_blank">Вторая мировая война, вспыхнувшая 1 сентября 1939 года, не должна была начаться: никто не хотел воевать, кроме одного человека — Адольфа Гитлера </a></strong></p>]*
 
 Пакт Молотова-Риббентропа (Договор о ненападении между Германией и СССР) был подписан 23 августа 1939 года. Договор, в частности, предусматривал раздел Польши, Латвии, Литвы, Эстонии и Финляндии.

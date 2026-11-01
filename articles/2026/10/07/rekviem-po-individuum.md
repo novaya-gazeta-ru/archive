@@ -125,7 +125,7 @@ Individuum закрывается.
 
 Спасибо, Individuum. Это было круто.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/28/izdatelstvo-individuum-obiavilo-o-zakrytii-posle-11-let-raboty-ranee-ego-rukovoditelia-uslovno-osudili-za-ekstremizm-news
+**Читайте также:** [Издательство Individuum объявило о закрытии после 11 лет работы. Ранее его руководителя условно осудили за «экстремизм»](2026/09/28/izdatelstvo-individuum-obiavilo-o-zakrytii-posle-11-let-raboty-ranee-ego-rukovoditelia-uslovno-osudili-za-ekstremizm-new.md)
 
 #### * Минюст включил в реестр иноагентов.
 

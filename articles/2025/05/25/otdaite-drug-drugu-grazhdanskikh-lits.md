@@ -19,4 +19,4 @@ tags: ""
 
 #### * Минюст включил в реестр иноагентов.
 
-**Смотрите также:** https://novayagazeta.ru/articles/2025/05/26/vernuvshiesia-film-novoi-gazety-18
+**Смотрите также:** [Вернувшиеся. Фильм «Новой газеты». 18+](2025/05/26/vernuvshiesia-film-novoi-gazety-18.md)

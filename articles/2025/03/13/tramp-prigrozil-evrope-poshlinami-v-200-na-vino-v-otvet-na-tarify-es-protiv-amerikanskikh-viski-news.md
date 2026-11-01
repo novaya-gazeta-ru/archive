@@ -21,4 +21,4 @@ tags: ""
 
 12 марта Трамп [решил](https://www.forbes.ru/biznes/532501-tramp-ob-avil-novye-mery-protiv-kanady-v-otvet-na-posliny-na-elektroenergiu) вдвое увеличить тарифы на всю сталь и алюминий, импортируемые в США из Канады — до 50%. Он утверждал, что это ответ на то, что провинция Онтарио ввела пошлины в 25% на экспорт американской электроэнергии. На фоне угроз Трампа власти Онтарио [решили повременить](https://www.interfax.ru/world/1013132) с введением тарифа, и тот решил отказаться от удвоения пошлин.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/10/protektsionizm-poslednee-pribezhishche
+**Читайте также:** [Протекционизм — последнее прибежище…](2025/02/10/protektsionizm-poslednee-pribezhishche.md)

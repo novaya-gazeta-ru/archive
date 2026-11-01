@@ -23,10 +23,10 @@ tags: "коронавирус, тест на коронавирус, COVID-19, �
 
 Разработчики набора утверждают, что «АмплиТест» способен выявлять коронавирус «даже в инкубационном периоде и у бессимптомных носителей».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/25/omikron-v-grippe-i-vokrug-nego
+**Читайте также:** [«Омикрон» в гриппе и вокруг него](2021/12/25/omikron-v-grippe-i-vokrug-nego.md)
 
-За последние сутки заболеваемость COVID-19 в Москве [выросла](https://novayagazeta.ru/articles/2022/01/11/v-rossii-za-sutki-vyiavili-17-525-sluchaev-zarazheniia-covid-19-news) на 66%. Мэр города Сергей Собянин [заявил](https://novayagazeta.ru/articles/2022/01/11/v-moskve-uzhe-znachitelnoe-kolichestvo-zabolevshikh-omikronom-mer-moskvy-sobianin-o-koronaviruse-news), что в столице уже «значительное количество» заболевших «омикроном», и в течение 7-10 дней ожидается рост числа инфицированных.
+За последние сутки заболеваемость COVID-19 в Москве [выросла](2022/01/11/v-rossii-za-sutki-vyiavili-17-525-sluchaev-zarazheniia-covid-19-news.md) на 66%. Мэр города Сергей Собянин [заявил](2022/01/11/v-moskve-uzhe-znachitelnoe-kolichestvo-zabolevshikh-omikronom-mer-moskvy-sobianin-o-koronaviruse-news.md), что в столице уже «значительное количество» заболевших «омикроном», и в течение 7-10 дней ожидается рост числа инфицированных.
 
-Сегодня директор Европейского регионального бюро Всемирной организации здравоохранения (ВОЗ) [заявил](https://novayagazeta.ru/articles/2022/01/11/voz-bolee-poloviny-zhitelei-evropy-mogut-zarazitsia-omikronom-v-blizhaishie-dva-mesiatsa-news), что в ближайшие 6-8 недель более 50% населения Европы могут заразиться «омикроном».
+Сегодня директор Европейского регионального бюро Всемирной организации здравоохранения (ВОЗ) [заявил](2022/01/11/voz-bolee-poloviny-zhitelei-evropy-mogut-zarazitsia-omikronom-v-blizhaishie-dva-mesiatsa-news.md), что в ближайшие 6-8 недель более 50% населения Европы могут заразиться «омикроном».
 
 Ранее генеральный директор ВОЗ [допустил](https://news.un.org/ru/story/2022/01/1416582), что после «омикрона» будут появляться и новые штаммы коронавируса. Он назвал несправедливое распределение вакцин причиной быстрого распространения инфекции.

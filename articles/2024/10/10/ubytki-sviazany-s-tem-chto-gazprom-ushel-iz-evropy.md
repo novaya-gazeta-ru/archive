@@ -151,7 +151,7 @@ tags: ""
 
 — Конечно, безобразие, потому что жадные товарищи лишились бы возможности получать дополнительный доход.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/07/10/gazofikatsii-rossii-ne-budet-na-etom-ne-zarabotaesh
+**Читайте также:** [https://novayagazeta.ru/articles/2024/07/10/gazofikatsii-rossii-ne-budet-na-etom-ne-zarabotaesh](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/07/10/gazofikatsii-rossii-ne-budet-na-etom-ne-zarabotaesh)
 
 **— Ну вот уже — убытки, самая убыточная компания в стране. Заставит ли это «Газпром» пойти на какие-то реформы, пусть даже не такие радикальные, как вы предлагаете?**
 

@@ -23,4 +23,4 @@ tags: ""
 
 Талантов был одним из защитников бывшего спецкора «Коммерсанта» и «Ведомостей» Ивана Сафронова. Его [приговорили](https://t.me/novaya_pishet/41402) к 22 годам колонии, обвинив в госизмене. При этом в материалах дела [не было указано](https://t.me/novaya_pishet/35212), как и от кого журналист получил сведения, составляющие гостайну.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/07/02/slova-o-skorbi-i-razume
+**Читайте также:** [https://novayagazeta.ru/articles/2024/07/02/slova-o-skorbi-i-razume](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/07/02/slova-o-skorbi-i-razume)

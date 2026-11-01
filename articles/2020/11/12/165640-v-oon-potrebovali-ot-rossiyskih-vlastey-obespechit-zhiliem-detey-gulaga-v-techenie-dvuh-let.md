@@ -21,9 +21,9 @@ tags: "оон,   ng, возмещение ущерба, репрессии"
 
 и поэтому несовместима с международными стандартами в области прав человека», — отметили в организации.
 
-В сентябре на платформе Change.org [появилась](https://novayagazeta.ru/news/2020/09/19/164376-na-sayte-change-org-poyavilas-petitsiya-s-trebovaniem-obespechit-prava-zhertv-sovetskih-repressiy-na-poluchenie-zhilya) петиция с требованием обеспечить права жертв репрессий на получение жилья. Ее подписали уже более 68 тысяч человек.
+В сентябре на платформе Change.org [появилась](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/09/19/164376-na-sayte-change-org-poyavilas-petitsiya-s-trebovaniem-obespechit-prava-zhertv-sovetskih-repressiy-na-poluchenie-zhilya) петиция с требованием обеспечить права жертв репрессий на получение жилья. Ее подписали уже более 68 тысяч человек.
 
-**link:** https://novayagazeta.ru/articles/2019/12/10/83098-konstitutsionnyy-sud-predpisal-vernut-docherey-gulaga-iz-ssylki-v-moskvu
+**link:** [70-летняя ссылка пока не кончилась](2019/12/10/83098-konstitutsionnyy-sud-predpisal-vernut-docherey-gulaga-iz-ssylki-v-moskvu.md)
 
 В 1991 году был принят закон, который обязывал государство компенсировать ущерб жертвам репрессий. Он предписывал, в частности, выделить бесплатное жилье в городе, где семьи репрессированных проживали на момент ареста. Однако в 2005 году Госдума передала полномочия устанавливать механизм такой компенсации регионам.
 

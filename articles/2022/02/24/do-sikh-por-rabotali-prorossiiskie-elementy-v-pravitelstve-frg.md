@@ -89,7 +89,7 @@ tags: "северный поток 2, украина, германия, росс
 
 — Это я вообще не могу комментировать. Если они начнут претендовать еще и на новые территории… Невозможно комментировать, что тогда будет с газопроводами. Я в принципе не хочу комментировать планы агрессора, захватчика.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/24/putin-obiavil-spetsoperatsiiu-v-ukraine-onlain
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/24/putin-obiavil-spetsoperatsiiu-v-ukraine-onlain](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/24/putin-obiavil-spetsoperatsiiu-v-ukraine-onlain)
 
 **— Есть такая версия: еще до начала войны в Украине США и Китай собирались развивать в Донбассе сланцевые проекты. Это правда?**
 

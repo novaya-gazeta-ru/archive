@@ -19,12 +19,12 @@ tags: "задержания, либертарианцы, митинги"
 
 Также в Москве на выходе из дома задержали активиста Марка Гальперина. Его доставили в ОВД «Замоскворечье» и вменяют  участие в шествии 31 августа.
 
-Накануне протокол за организацию акции 31 августа уже [составили](https://www.novayagazeta.ru/news/2019/09/03/154923-sud-iz-za-oshibok-vernul-v-politsiyu-protokol-na-spetskora-novoy-ilyu-azara) на спецкора «Новой газеты» Илью Азара: так, в материалах дела есть фотография, где Азар ест мороженое, а позади видно много людей. Ему грозит штраф до 300 тысяч рублей или административный арест сроком до 30 суток.
+Накануне протокол за организацию акции 31 августа уже [составили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/09/03/154923-sud-iz-za-oshibok-vernul-v-politsiyu-protokol-na-spetskora-novoy-ilyu-azara) на спецкора «Новой газеты» Илью Азара: так, в материалах дела есть фотография, где Азар ест мороженое, а позади видно много людей. Ему грозит штраф до 300 тысяч рублей или административный арест сроком до 30 суток.
 
-Административные дела за акцию также завели на [Любовь Соболь](https://www.novayagazeta.ru/news/2019/09/02/154902-v-shtabe-lyubovi-sobol-soobschili-o-ee-zaderzhanii) и соратника Навального [Николая Ляскина](https://www.novayagazeta.ru/news/2019/09/02/154899-v-moskve-zaderzhali-sotrudnika-fbk-nikolaya-lyaskina).
+Административные дела за акцию также завели на [Любовь Соболь](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/09/02/154902-v-shtabe-lyubovi-sobol-soobschili-o-ee-zaderzhanii) и соратника Навального [Николая Ляскина](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/09/02/154899-v-moskve-zaderzhali-sotrudnika-fbk-nikolaya-lyaskina).
 
-**link:** https://novayagazeta.ru/articles/2019/09/03/81815-rebenok-spal-dver-v-pustuyu-kvartiru-byla-otkryta
+**link:** [«Ребенок спал. Дверь в пустую квартиру была открыта»](2019/09/03/81815-rebenok-spal-dver-v-pustuyu-kvartiru-byla-otkryta.md)
 
 31 августа в Москве прошла акция против политических репрессий, на нее вышли около двух тысяч человек. Несмотря на то, что власти отказались согласовать шествие, полицейские не стали задерживать и применять силу к протестующим.
 
-**link:** https://novayagazeta.ru/articles/2019/09/01/81791-dubinki-konchilis
+**link:** [Дубинки кончились?](2019/09/01/81791-dubinki-konchilis.md)

@@ -11,4 +11,4 @@ tags: ""
 
 # Д/ф «Кладбище гласности» (2004) Arte France, BBS, Alergia, 200 Films Ltd. Судьба журналистов в России: А. Сидоров, В. Иванов, И. Домников.(67,7 мегабайт)
 
-[Скачать видео](https://novayagazeta.ru/storage/d/2006/12/22/kladbishe-glasnosti.rm)
+[Скачать видео](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2006/12/22/kladbishe-glasnosti.rm)

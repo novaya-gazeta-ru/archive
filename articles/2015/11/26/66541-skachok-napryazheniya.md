@@ -45,9 +45,9 @@ tags: "блокада, крым, украина, электростанции"
 
 — В наших руках, — недовольно повторил активист. — Там наверху все в руках. А у нас ничего! А, ладно…
 
-**link:** https://novayagazeta.ru/society/70910.html
+**link:** [https://novayagazeta.ru/society/70910.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70910.html)
 
-**link:** https://novayagazeta.ru/society/70910.html
+**link:** [https://novayagazeta.ru/society/70910.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70910.html)
 
 Парень уходит обратно в палатку, на смену ему является другой, тоже в камуфляже и с шевроном батальона «Айдар».
 

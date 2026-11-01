@@ -15,6 +15,6 @@ tags: "штрафы, открытая россия, nt"
 
 Усманову признали виновной в нарушении правил проведения публичного мероприятия (ст. 20.2 КоАП). Причиной стала уже удаленная запись в твиттере Усмановой, в которой она написала, что вышла к посольству Беларуси «за всех тех, кто подвергается сейчас пыткам и преследованиям в этой стране».
 
-Усманову [задержали](https://novayagazeta.ru/news/2020/08/16/163772-zaderzhali-koordinatora-otkrytoy-rossii-tatyanu-usmanovu-ona-dolzhna-byla-pozzhe-vstretitsya-s-artemom-vazhenkovym) накануне: автомобиль, в котором она ехала, остановили, а ее попросили выйти и отвели в стоявший рядом автозак. Вечером Усманова должна была встретиться с координатором «Открытой России» Артемом Важенковым, недавно отпущенным белорусскими властями из изолятора в Минске.
+Усманову [задержали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/08/16/163772-zaderzhali-koordinatora-otkrytoy-rossii-tatyanu-usmanovu-ona-dolzhna-byla-pozzhe-vstretitsya-s-artemom-vazhenkovym) накануне: автомобиль, в котором она ехала, остановили, а ее попросили выйти и отвели в стоявший рядом автозак. Вечером Усманова должна была встретиться с координатором «Открытой России» Артемом Важенковым, недавно отпущенным белорусскими властями из изолятора в Минске.
 
-**link:** https://novayagazeta.ru/articles/2020/08/14/86677-omonovtsy-po-nam-hodili-i-krichali-chto-mrazi-peremen-zahoteli
+**link:** [https://novayagazeta.ru/articles/2020/08/14/86677-omonovtsy-po-nam-hodili-i-krichali-chto-mrazi-peremen-zahoteli](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/14/86677-omonovtsy-po-nam-hodili-i-krichali-chto-mrazi-peremen-zahoteli)

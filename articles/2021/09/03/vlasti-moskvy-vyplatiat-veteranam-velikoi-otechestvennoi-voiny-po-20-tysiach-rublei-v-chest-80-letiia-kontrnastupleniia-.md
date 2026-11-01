@@ -17,10 +17,10 @@ tags: "ветераны, выплаты, москва, годовщина, ве�
 
 Собянин также сообщил, что в ближайшие месяцы более 1100 ветеранов наградят нагрудным знаком «80 лет Битвы за Москву».
 
-После предвыборного съезда «Единой России» президент России Владимир Путин [подписал](https://novayagazeta.ru/articles/2021/08/24/putin-predlozhil-vyplatit-po-15-tysiach-rublei-kursantam-i-sotrudnikam-pravookhranitelnykh-organov-news) указы о выплатах пенсионерам единовременного пособия в размере 10 тысяч рублей. Ожидается, что деньги на счета пенсионеров поступят уже в сентябре.
+После предвыборного съезда «Единой России» президент России Владимир Путин [подписал](2021/08/24/putin-predlozhil-vyplatit-po-15-tysiach-rublei-kursantam-i-sotrudnikam-pravookhranitelnykh-organov-news.md) указы о выплатах пенсионерам единовременного пособия в размере 10 тысяч рублей. Ожидается, что деньги на счета пенсионеров поступят уже в сентябре.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/01/nami-praviat-kakie-to-supchiki
+**Читайте также:** [Нами правят какие-то супчики](2021/09/01/nami-praviat-kakie-to-supchiki.md)
 
-Также президент [предложил](https://novayagazeta.ru/articles/2021/08/24/putin-predlozhil-vyplatit-po-15-tysiach-rublei-kursantam-i-sotrudnikam-pravookhranitelnykh-organov-news) выплатить по 15 тысяч рублей курсантам военных училищ и сотрудникам правоохранительных органов. Кроме того, он напомнил про единовременную выплату в августе семьям с детьми школьного возраста: 10 тысяч рублей на каждого ребенка.
+Также президент [предложил](2021/08/24/putin-predlozhil-vyplatit-po-15-tysiach-rublei-kursantam-i-sotrudnikam-pravookhranitelnykh-organov-news.md) выплатить по 15 тысяч рублей курсантам военных училищ и сотрудникам правоохранительных органов. Кроме того, он напомнил про единовременную выплату в августе семьям с детьми школьного возраста: 10 тысяч рублей на каждого ребенка.
 
-Губернатор Санкт-Петербурга Александо Беглов [пообещал](https://novayagazeta.ru/articles/2021/08/30/gubernator-peterburga-poobeshchal-pered-vyborami-vyplatit-po-10-tysiach-rublei-vsem-pedagogam-goroda-news) накануне единого дня голосования выплатить всем учителям по 10 тысяч рублей. Деньги переведут 120 тысячам человек.
+Губернатор Санкт-Петербурга Александо Беглов [пообещал](2021/08/30/gubernator-peterburga-poobeshchal-pered-vyborami-vyplatit-po-10-tysiach-rublei-vsem-pedagogam-goroda-news.md) накануне единого дня голосования выплатить всем учителям по 10 тысяч рублей. Деньги переведут 120 тысячам человек.

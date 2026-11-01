@@ -19,4 +19,4 @@ tags: "em , евросоюз, вакцина, спутник v"
 
 Первой страной в Евросоюзе, зарегистрировавшей вакцину, стала Венгрия. Поставки препарата в Будапешт начались в начале февраля. Затем российскую вакцину против коронавируса «Спутник V» зарегистрировала и Словакия. В начале марта европейский регулятор начал проводить экспертизу регистрационного досье препарата.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/04/evropeiskoe-agentstvo-lekarstvennykh-sredstv-nachalo-ekspertizu-dose-rossiiskoi-vaktsiny-sputnik-v
+**Читайте также:** [Европейское агентство лекарственных средств начало экспертизу досье российской вакцины «Спутник V»](2021/03/04/evropeiskoe-agentstvo-lekarstvennykh-sredstv-nachalo-ekspertizu-dose-rossiiskoi-vaktsiny-sputnik-v.md)

@@ -19,4 +19,4 @@ tags: "коронавирус, заражения, sf"
 
 За последний день непосредственно от COVID-19 скончались еще 828 человек, из них 56 — в Москве, 59 — в Санкт-Петербурге, 13 — в Подмосковье, 28 — в Нижегородской области, 37 — в Свердловской области. За все время пандемии в России инфекция унесла более 200 тысяч жизней.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/14/chetvertaia-volna-nakroet
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/14/chetvertaia-volna-nakroet](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/14/chetvertaia-volna-nakroet)

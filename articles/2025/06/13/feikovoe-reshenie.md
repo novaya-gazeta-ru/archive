@@ -47,4 +47,4 @@ tags: "горинов, фейки, конституционный суд, пол
 
 Высшие судьи должны молчать, все госслужащие и так дрожат и молчат, а какой-то муниципальный депутат позволяет себе высказываться?! За решетку его! Это и есть жесточайшая форма затыкания рта, прямо запрещенная статьей 29 Конституции РФ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/27/aleksei-gorinov-khronika-raspravy
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/27/aleksei-gorinov-khronika-raspravy](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/27/aleksei-gorinov-khronika-raspravy)

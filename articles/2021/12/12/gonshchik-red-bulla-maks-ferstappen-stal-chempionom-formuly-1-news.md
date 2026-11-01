@@ -21,4 +21,4 @@ tags: "формула 1, гонки"
 
 По итогам сезона команда «Мерседес» в восьмой раз подряд стала победителем Кубка конструкторов. Второе место заняла команда «Ред Булл».
 
-В прошлом году Хэмилтон [стал](https://novayagazeta.ru/articles/2020/11/15/165717-britanskiy-gonschik-lyuis-hemilton-stal-semikratnym-chempionom-formuly-1-teper-on-sravnyalsya-s-mihaelem-shumaherom) семикратным чемпионом «Формулы-1» и сравнялся по числу титулов с Михаэлем Шумахером. Хэмилтон обошел Шумахера по числу побед в гонках.
+В прошлом году Хэмилтон [стал](2020/11/15/165717-britanskiy-gonschik-lyuis-hemilton-stal-semikratnym-chempionom-formuly-1-teper-on-sravnyalsya-s-mihaelem-shumaher.md) семикратным чемпионом «Формулы-1» и сравнялся по числу титулов с Михаэлем Шумахером. Хэмилтон обошел Шумахера по числу побед в гонках.

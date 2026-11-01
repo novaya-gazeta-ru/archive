@@ -24,7 +24,7 @@ tags: ""
 				<h3 class="g-justify-right" style="">
 					<span style="color:#000080;">С чего все началось</span></h3>
 				<p class="g-justify-right" style="">
-					<a href="http://www.novayagazeta.ru/society/54150.html"><sup><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/08/27/1346022508_183458_31.jpg" style="width: 340px; height: 226px; "><br class="g-justify-right" style="">
+					<a href="[http://www.novayagazeta.ru/society/54150.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/54150.html)"><sup><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/08/27/1346022508_183458_31.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/08/27/1346022508_183458_31.jpg)" style="width: 340px; height: 226px; "><br class="g-justify-right" style="">
 					Я спросил о. Петра, почему в том письме о спасении обители, которое он уже разослал в администрацию президента, Генеральную прокуратуру, губернатору Ярославской области и далее по списку, нет адреса Московской патриархии. У&nbsp;них-то, наверное, возможностей не меньше, чем у лыжников? Отец Петр сказал: «Вас же друзья попросили сюда приехать, а не я, верно? Вот вы у этих друзей и спросите, почему они обратились в&nbsp;газету, а не в патриархию»</sup></a></p>
 				<p class="g-justify-right" style="">
 					«Новая Газета» №96 от 27.08.2012</p>

@@ -78,4 +78,4 @@ tags: "кино, премьера, борис рыжий, ходасевич, п
 >
 > Лариса Малюкова ведет телеграм-канал о кино и не только. [Подписывайтесь тут](https://t.me/larisamalukova).
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/10/07/prigovorennyi-k-zhizni-k-u-ku
+**Читайте также:** [Приговоренный к жизни, К… У… КУ!](2023/10/07/prigovorennyi-k-zhizni-k-u-ku.md)

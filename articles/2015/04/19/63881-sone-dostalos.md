@@ -29,9 +29,9 @@ tags: "помощь, реакция властей"
 
 Четыре миллиона заработала депутат Екатерина Кузьмичева, ее муж — лишь 1,7 млн, зато у него в собственности (в отличие от супруги, которая владеет только Lexus RX-270) имеются пять нежилых помещений, жилое здание, два земельных участка, «Нива-Шевроле» и прицеп.
 
-**link:** https://novayagazeta.ru/columns/68149.html
+**link:** [https://novayagazeta.ru/columns/68149.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/68149.html)
 
-**link:** https://novayagazeta.ru/columns/68149.html
+**link:** [https://novayagazeta.ru/columns/68149.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/68149.html)
 
 Доход Михаила Дегтярева из ЛДПР — 3,8 млн, он владеет катером Sea Ray 175.
 

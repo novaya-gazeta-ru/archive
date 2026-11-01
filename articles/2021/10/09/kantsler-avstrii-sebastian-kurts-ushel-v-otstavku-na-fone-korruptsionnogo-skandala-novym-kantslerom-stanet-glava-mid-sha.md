@@ -33,20 +33,20 @@ tags: "курц, австрия, коррупция, отставка, kn"
 
 По [версии](https://de.euronews.com/2021/10/09/was-man-uber-die-regierungskrise-in-osterreich-wissen-muss-kurz-kanzler-sebastian-ovp) следствия, в 2016 году Курц, еще будучи главой МИД, решил сместить главу АНП и вице-канцлера Рейнхольда Миттерленера с поста, разрушить коалицию с социал-демократами и гарантировать себе место канцлера. Для этого Курц и его сообщники заплатили таблоиду *Österreich* 1,3 млн евро бюджетных средств со счетов Минфина Австрии, заявляет прокуратура. Также Курца обвиняют в манипулировании общественным мнением — с 2016 по 2018 годы фигуранты предположительно «покупали» нужные им результаты опросов общественного мнения и политическую рекламу в СМИ без надлежащей маркировки в интересах Курца за счет бюджета.
 
-**Читайте также:** https://novayagazeta.ru/articles/2019/09/30/82179-kak-s-kurtsa-voda
+**Читайте также:** [Как с Курца вода](2019/09/30/82179-kak-s-kurtsa-voda.md)
 
 Еще в среду Курц [отвергал](https://orf.at/stories/3231426/) все обвинения и уверял, что останется в кресле канцлера.
 
-В мае 2021 года Курца и шефа его администрации Бернхарда Бонелли также [заподозрили](https://novayagazeta.ru/articles/2021/08/27/byvshego-vitse-kantslera-avstrii-kristiana-shtrakhe-prigovorili-k-uslovnomu-sroku-po-delu-ibitsa-geita-news)в даче ложных показаний по делу «Ибица-гейта», из-за которого Курц уже уходил в отставку в 2019 году.
+В мае 2021 года Курца и шефа его администрации Бернхарда Бонелли также [заподозрили](2021/08/27/byvshego-vitse-kantslera-avstrii-kristiana-shtrakhe-prigovorili-k-uslovnomu-sroku-po-delu-ibitsa-geita-news.md)в даче ложных показаний по делу «Ибица-гейта», из-за которого Курц уже уходил в отставку в 2019 году.
 
 Тогда глава «Австрийской партии свободы» и главный партнер Курца по коалиции, вице-канцлер Кристиан Штрахе попал на видеозапись, где видно, как он обсуждает коррупционные схемы с женщиной, которую представили «племянницей российского олигарха».
 
-По данным [Spiegel](https://www.spiegel.de/politik/ausland/heinz-christian-strache-geheim-videos-belasten-fpoe-chef-a-1268059.html) и [Sueddeutsche Zeitung](https://www.sueddeutsche.de/politik/strache-videos-werkstatt-fpoe-heinz-christian-strache-1.4452424), беседа состоялась перед парламентскими выборами в Австрии 2017 года на вилле на Ибице. Женщина, которую СМИ назвали предпринимательницей Аленой Макаровой, племянницей некого российского олигарха, предложила Штрахе деньги и поддержку на выборах в обмен на помощь в бизнесе. Позже Kronen Zeitung [написала](https://www.novayagazeta.ru/news/2019/05/28/152056-smi-rol-plemyannitsy-rossiyskogo-oligarha-na-video-so-shtrahe-sygrala-studentka-iz-bosnii), что съемка была спланирована, а роль «россиянки» сыграла студентка из Боснии.
+По данным [Spiegel](https://www.spiegel.de/politik/ausland/heinz-christian-strache-geheim-videos-belasten-fpoe-chef-a-1268059.html) и [Sueddeutsche Zeitung](https://www.sueddeutsche.de/politik/strache-videos-werkstatt-fpoe-heinz-christian-strache-1.4452424), беседа состоялась перед парламентскими выборами в Австрии 2017 года на вилле на Ибице. Женщина, которую СМИ назвали предпринимательницей Аленой Макаровой, племянницей некого российского олигарха, предложила Штрахе деньги и поддержку на выборах в обмен на помощь в бизнесе. Позже Kronen Zeitung [написала](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/05/28/152056-smi-rol-plemyannitsy-rossiyskogo-oligarha-na-video-so-shtrahe-sygrala-studentka-iz-bosnii), что съемка была спланирована, а роль «россиянки» сыграла студентка из Боснии.
 
-**Читайте также:** https://novayagazeta.ru/articles/2019/05/28/80688-kantsler-lishilsya-doveriya
+**Читайте также:** [Канцлер лишился доверия](2019/05/28/80688-kantsler-lishilsya-doveriya.md)
 
 После публикации видео Штрахе ушел в отставку, а вслед за ним и канцлер Курц. С мая по декабрь 2019 года в Австрии правил технический кабмин во главе с председателем Конституционного суда Биргиттой Бирляй, а затем Курц вновь переизбрался.
 
-Бывший вице-канцлер Штрахе [получил](https://novayagazeta.ru/articles/2021/08/27/byvshego-vitse-kantslera-avstrii-kristiana-shtrakhe-prigovorili-k-uslovnomu-sroku-po-delu-ibitsa-geita-news) 15 месяцев лишения свободы условно по делу о коррупции.
+Бывший вице-канцлер Штрахе [получил](2021/08/27/byvshego-vitse-kantslera-avstrii-kristiana-shtrakhe-prigovorili-k-uslovnomu-sroku-po-delu-ibitsa-geita-news.md) 15 месяцев лишения свободы условно по делу о коррупции.
 
 Себастьян Курц — один из самых молодых политиков в истории Европы, впервые он стал канцлером Австрии в 2017 году, когда ему был всего 31 год. Главой МИД при канцлере Вернере Файмане Курц стал в 2013 году, в 27 лет.

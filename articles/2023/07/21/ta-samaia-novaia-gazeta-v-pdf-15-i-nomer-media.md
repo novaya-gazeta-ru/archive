@@ -13,4 +13,4 @@ tags: ""
 
 *Депутаты лишают пациентов ПНИ последних гражданских прав. Почему Навальный для государства стал «террористом». Жизнь после «зерновой сделки»*
 
-https://novayagazeta.ru/issues/3260
+[https://novayagazeta.ru/issues/3260](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3260)

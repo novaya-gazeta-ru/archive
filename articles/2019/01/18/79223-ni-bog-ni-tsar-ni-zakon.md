@@ -68,7 +68,7 @@ tags: "тихонов, хасис, бабурова, маркелов"
 
 **Егор Сковорода**
 
-**novaya:** https://novayagazeta.ru/articles/2019/01/18/79224-10-let-pamyati-i-borby
+**novaya:** [10 лет памяти и борьбы](2019/01/18/79224-10-let-pamyati-i-borby.md)
 
 # Диалоги убийц
 
@@ -270,7 +270,7 @@ tags: "тихонов, хасис, бабурова, маркелов"
 
 *Они все-таки укладываются спать около четырех часов утра. За окном слышен шум дождя и проезжающих мимо дома автомобилей.*
 
-**novaya:** https://novayagazeta.ru/articles/2019/01/18/79225-pochemu-nam-snova-nuzhno-byt-antifashistami
+**novaya:** [Почему нам снова нужно быть антифашистами](2019/01/18/79225-pochemu-nam-snova-nuzhno-byt-antifashistami.md)
 
 2 ноября 2009 года
 

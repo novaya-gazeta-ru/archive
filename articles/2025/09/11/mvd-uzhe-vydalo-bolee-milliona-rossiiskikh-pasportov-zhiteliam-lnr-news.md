@@ -21,6 +21,6 @@ tags: ""
 
 Большая часть международного сообщества и Украина присоединение этих территорий к России не признают.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/09/11/gresti-dengi-sovkom
+**Читайте также:** [Грести деньги «совком»](2025/09/11/gresti-dengi-sovkom.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/09/08/mvd-obiavilo-iliu-iashina-litsom-bez-grazhdanstva-emu-zapreshchen-vezd-v-rf-news
+**Читайте также:** [МВД объявило Илью Яшина* «лицом без гражданства». Ему запрещен въезд в РФ](2025/09/08/mvd-obiavilo-iliu-iashina-litsom-bez-grazhdanstva-emu-zapreshchen-vezd-v-rf-news.md)

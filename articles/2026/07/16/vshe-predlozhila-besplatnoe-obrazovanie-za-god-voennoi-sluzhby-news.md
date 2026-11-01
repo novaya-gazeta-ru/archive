@@ -23,4 +23,4 @@ tags: "ниу вшэ, ВШЭ, спецоперация"
 
 -
 
-На деле [известно](https://novayagazeta.ru/articles/2026/03/05/uvolnenie-garantirovat-nelzia-poka-deistvet-ukaz-o-chastichnoi-mobilizatsii) о гибели как минимум нескольких студентов, ставших «операторами БПЛА», на фронте в Украине.
+На деле [известно](2026/03/05/uvolnenie-garantirovat-nelzia-poka-deistvet-ukaz-o-chastichnoi-mobilizatsii.md) о гибели как минимум нескольких студентов, ставших «операторами БПЛА», на фронте в Украине.

@@ -43,7 +43,7 @@ tags: "приморье, реабилитация, отмена, прокура�
 
 *Приморье*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/10/a-vdrug-pravilno-rasstreliali
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/10/a-vdrug-pravilno-rasstreliali](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/10/a-vdrug-pravilno-rasstreliali)
 
 ## Комментарий
 

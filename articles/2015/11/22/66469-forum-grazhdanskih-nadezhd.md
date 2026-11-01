@@ -31,9 +31,9 @@ tags: "кудрин, эксперты"
 
 «Мы впервые с начала 2000-го наблюдаем снижение реальных доходов населения. Принимаемые правительством меры для поддержания экономики населения, на мой взгляд, недостаточны».
 
-**link:** https://novayagazeta.ru/tv/topics/70829.html
+**link:** [https://novayagazeta.ru/tv/topics/70829.html](https://web.archive.org/web/*/https://novayagazeta.ru/tv/topics/70829.html)
 
-**link:** https://novayagazeta.ru/tv/topics/70829.html
+**link:** [https://novayagazeta.ru/tv/topics/70829.html](https://web.archive.org/web/*/https://novayagazeta.ru/tv/topics/70829.html)
 
 # Евгений ГОНТМАХЕР — о профессионализме гражданского общества
 

@@ -26,7 +26,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/09/12/1378983946_766577_33.jpg" style="width: 360px; height: 202px;"><sup>«Лапчатоногиум»</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/09/12/1378983946_766577_33.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/09/12/1378983946_766577_33.jpg)" style="width: 360px; height: 202px;"><sup>«Лапчатоногиум»</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -35,7 +35,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/09/12/1378983942_835219_10.jpg" style="width: 360px; height: 202px;"><sup>«Дикий»</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/09/12/1378983942_835219_10.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/09/12/1378983942_835219_10.jpg)" style="width: 360px; height: 202px;"><sup>«Дикий»</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -46,7 +46,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/09/12/1378983942_544785_96.jpg" style="width: 360px; height: 202px;"><sup>«Граница»</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/09/12/1378983942_544785_96.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/09/12/1378983942_544785_96.jpg)" style="width: 360px; height: 202px;"><sup>«Граница»</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -55,7 +55,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/09/12/1378983943_124890_41.jpg" style="width: 360px; height: 203px;"><sup>«Моя мама — самолет»</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/09/12/1378983943_124890_41.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/09/12/1378983943_124890_41.jpg)" style="width: 360px; height: 203px;"><sup>«Моя мама — самолет»</sup></td>
 		</tr>
 	</tbody>]*
 

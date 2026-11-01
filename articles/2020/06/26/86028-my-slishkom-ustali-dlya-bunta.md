@@ -105,7 +105,7 @@ tags: "давление, технологии, выборы, как это ус�
 
 С их приходом начались бесконечные совещания ни о чем. А ничего, что люди уже по шесть уроков провели, и им еще проверять тетради и готовиться к урокам? Например, у меня два пятых и два шестых класса. Я по регламенту должна каждый день проверять у них тетради. Это 120 тетрадей в день.
 
-**link:** https://novayagazeta.ru/articles/2020/06/13/85826-kollegi-registriruemsya-skrinshot-v-lichku
+**link:** [https://novayagazeta.ru/articles/2020/06/13/85826-kollegi-registriruemsya-skrinshot-v-lichku](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/06/13/85826-kollegi-registriruemsya-skrinshot-v-lichku)
 
 # Большой Брат
 

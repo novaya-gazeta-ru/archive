@@ -16,16 +16,16 @@ tags: "акунин, кино"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/04/04/1333637580_931718_91.jpg" style="width: 350px; height: 525px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/04/04/1333637580_931718_91.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/04/04/1333637580_931718_91.jpg)" style="width: 350px; height: 525px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/04/04/1333637581_936854_67.jpg" style="width: 350px; height: 233px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/04/04/1333637581_936854_67.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/04/04/1333637581_936854_67.jpg)" style="width: 350px; height: 233px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/04/04/1333637583_084465_90.jpg" style="width: 350px; height: 216px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/04/04/1333637583_084465_90.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/04/04/1333637583_084465_90.jpg)" style="width: 350px; height: 216px; "></p>
 				<p>
 					<sup>«Шпион». Кадры из фильма</sup></p>
 			</td>

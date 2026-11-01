@@ -22,11 +22,11 @@ tags: "newsletter, russia; explained"
 
 # **Rouble Trouble, Explained**
 
-Last week, the value of the rouble hit a 14 month low against the U.S. dollar while the value of Russian stocks plummeted against the backdrop of [the Kremlin’s military flex](https://novayagazeta.ru/articles/2022/01/25/russia-explained) at the Ukrainian border. Our economics columnist Igor Nikolayev explains the volatility of Russia’s currency and how likely it is that it will recover.
+Last week, the value of the rouble hit a 14 month low against the U.S. dollar while the value of Russian stocks plummeted against the backdrop of [the Kremlin’s military flex](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/01/25/russia-explained) at the Ukrainian border. Our economics columnist Igor Nikolayev explains the volatility of Russia’s currency and how likely it is that it will recover.
 
 **THE UKRAINE FACTOR. **“Geopolitics is shaking the rouble”, Nikolayev writes, “and at the most inopportune time.” It is not so much the threat of invasion that is weakening the rouble, he notes, but the threat of Western sanctions if Russia decides to make an incursion. The U.S. and its allies have all reiterated the threat of severe economic sanctions in the event of an invasion, with President Biden even hinting at punitive measures that would target President Putin personally.
 
-**THE OIL FACTOR. **The value of Russia’s currency has long been beholden to global oil prices. At the moment, prices are high — about $90 per barrel. Despite this apparent silver lining, Nikolayev writes that “Oil — our everything — has always helped the rouble, but today, alas, it is powerless” against increasing geopolitical tensions. While it is possible that oil prices could rise even further, Nikolayev predicts that they will more likely fall, sending the currency into even more dire straits. Since the world is gradually transitioning to more environmentally-friendly energy sources, he predicts that the decline in oil prices — and therefore of the rouble — [will be permanent](https://novayagazeta.ru/articles/2019/10/30/82570-russia-explained-8-by-novaya-gazeta).
+**THE OIL FACTOR. **The value of Russia’s currency has long been beholden to global oil prices. At the moment, prices are high — about $90 per barrel. Despite this apparent silver lining, Nikolayev writes that “Oil — our everything — has always helped the rouble, but today, alas, it is powerless” against increasing geopolitical tensions. While it is possible that oil prices could rise even further, Nikolayev predicts that they will more likely fall, sending the currency into even more dire straits. Since the world is gradually transitioning to more environmentally-friendly energy sources, he predicts that the decline in oil prices — and therefore of the rouble — [will be permanent](2019/10/30/82570-russia-explained-8-by-novaya-gazeta.md).
 
 **THE AMERICA FACTOR.** Beyond the more visible threat of sanctions, U.S. domestic policy is also contributing to the weakening of the rouble. The U.S. Federal Reserve System has announced plans to raise the current rate of 0-0.25% 3-4 times this year in an attempt to combat inflation, which is higher than it has been in the past 40 years. These increases will automatically weaken the rouble.
 
@@ -38,9 +38,9 @@ Last week, the value of the rouble hit a 14 month low against the U.S. dollar wh
 
 “The rouble’s prospects are not very good”, is Nikolayev’s gloomy conclusion. A falling rouble means further inflation at a time when citizens’ incomes are depreciating. According to Russia’s Economy Ministry, consumer inflation accelerated to 8.64% as of January 21, up from 8.62% a week earlier. The greater the inflation, the harder it is to afford basic necessities.
 
-**BACKSTORY.** The rouble has seen marked periods of volatility since the onset of Russia’s invasion of Ukraine in 2014. Overall, the Russian currency is at its weakest point in history. The devaluation spiral dates back to 2015, when invasion of Ukraine, subsequent international sanctions and the oil prices collapse delivered a blow to rouble, which it has never recovered from. The pandemic impact worsened the situation. The weakening of the Russian currency has a negative impact on the [country’s poverty problem](https://novayagazeta.ru/articles/2020/05/06/85263-russia-explained-33). Some 21 million Russians are living below the poverty line, with the state-defined minimum wage equating to 10,800 roubles (about $165) a month. Income inequality has been growing in Russia for years. Wages fell for four years straight, from 2014 to 2017, only seeing a minor rise in 2018 after a change in their calculation methodology. After the pandemic, Russian citizens will be about 10% poorer than they were in 2013.
+**BACKSTORY.** The rouble has seen marked periods of volatility since the onset of Russia’s invasion of Ukraine in 2014. Overall, the Russian currency is at its weakest point in history. The devaluation spiral dates back to 2015, when invasion of Ukraine, subsequent international sanctions and the oil prices collapse delivered a blow to rouble, which it has never recovered from. The pandemic impact worsened the situation. The weakening of the Russian currency has a negative impact on the [country’s poverty problem](2020/05/06/85263-russia-explained-33.md). Some 21 million Russians are living below the poverty line, with the state-defined minimum wage equating to 10,800 roubles (about $165) a month. Income inequality has been growing in Russia for years. Wages fell for four years straight, from 2014 to 2017, only seeing a minor rise in 2018 after a change in their calculation methodology. After the pandemic, Russian citizens will be about 10% poorer than they were in 2013.
 
-**Read Nikolayev’s full analysis **[**here.**](https://novayagazeta.ru/articles/2022/01/27/valiuta-voiny)
+**Read Nikolayev’s full analysis **[**here.**](2022/01/27/valiuta-voiny.md)
 
 # **The Tragic History of Zmievskaya Balka, Explained**
 
@@ -62,17 +62,17 @@ Last Thursday — January 27th — was Holocaust Memorial Day, on which world le
 
 **BACKSTORY.** Nearly half of Holocaust victims — approximately 2.8 million — were murdered within the borders of the Nazi-occupied territories of the Soviet Union, yet their stories have remained relatively unknown since 1991. Ukraine — then Russian dominion within the Soviet Empire — contained the Soviet Union’s largest Jewish population but antisemitic massacres also took place in the territory of what is now Russia. While the Russian Federation does officially mark Holocaust Memorial Day, little has been done to educate ordinary Russian people about the Soviet Union’s — and Russia’s — history of antisemitism and role in the great atrocity of the 20th century.
 
-**Read Romanova’s full report **[**here**](https://novayagazeta.ru/articles/2022/01/25/doroga-k-ovragu)**.**
+**Read Romanova’s full report **[**here**](2022/01/25/doroga-k-ovragu.md)**.**
 
 # How Ramzan Kadyrov Creates His Own Enemies
 
-We’ve been on this story [since last week](https://novayagazeta.ru/articles/2022/01/25/russia-explained). But it is getting worse and worse. New terror binge by Putin’s close ally and the ruler of Chechnya automous region Ramzan Kadyrov grows in size and now includes our newsroom, too. This week our own Elena Milashina explains.
+We’ve been on this story [since last week](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/01/25/russia-explained). But it is getting worse and worse. New terror binge by Putin’s close ally and the ruler of Chechnya automous region Ramzan Kadyrov grows in size and now includes our newsroom, too. This week our own Elena Milashina explains.
 
 ![](_assets/1c/1cdcddd5d42f9921a4a6305deb6e0a91.webp)
 
 *Yangulbayev’s middle son, Ibragim and his brother left Chechnya and fleed from Russia. Abroad Ibrahim established telegram channel Adat1, which became poewrful media opposite to Kadyrov*
 
-**HOW IT STARTED.** At the end of December, five dissident Chechens living abroad — Tumso Abdurakhmanov, Khasan Khalitov, Mansur Sadulaev, Minkail Malizaev and Aslan Artsuev — reported the abduction of their relatives in Chechnya. Abdurakhmanov also suffered a failed assasination attempt by a Chechen killer. This is not the first time Chechen officials reach across regional and international borders to target critics. The same tactic is often used [to hunt down victims of LGBTQ+ pogroms](https://novayagazeta.ru/articles/2021/06/16/russia-explained) or [dissident critics](https://www.eng.kavkaz-uzel.eu/articles/50129/) on the run for their lives.
+**HOW IT STARTED.** At the end of December, five dissident Chechens living abroad — Tumso Abdurakhmanov, Khasan Khalitov, Mansur Sadulaev, Minkail Malizaev and Aslan Artsuev — reported the abduction of their relatives in Chechnya. Abdurakhmanov also suffered a failed assasination attempt by a Chechen killer. This is not the first time Chechen officials reach across regional and international borders to target critics. The same tactic is often used [to hunt down victims of LGBTQ+ pogroms](2021/06/16/russia-explained.md) or [dissident critics](https://www.eng.kavkaz-uzel.eu/articles/50129/) on the run for their lives.
 
 **IN TOTAL, SEVERAL DOZEN PEOPLE WERE KIDNAPPED IN DECEMBER. **Last week a prominent Chechen human rights defender and investigative journalist Abubakar Yangulbayev reported mass kidnappings of his relatives, too. The activist was forced to flee the country, but Kadyrov thugs came after his parents. Milashina has known the family since 2017 when she met with the Yangulbayevs to discuss the persecution that the family had been facing. In May 2016, Saydi Yangulbayev was beaten and forced to write a letter of resignation. He had then appealed to Russia’s Investigative Committee for redress. His request for a criminal case to be launched against his assailants was refused.
 
@@ -84,11 +84,11 @@ We’ve been on this story [since last week](https://novayagazeta.ru/articles/20
 
 **BACKSTORY. **Ramzan Kadyrov has been the Head of the Chechen Republic since 2007 and has gained a reputation for ruthlessness and political repression. He is the son of former Chechen President Akhmed Kadyrov, who was assassinated in 2004. He is a staunch supporter of President Putin, while also building his own power base and personality cult. He is considered by many as the second most powerful politician in the Russian Federation, and has frequently styled himself as the representative of the country’s some 20 million Muslim citizens. Many of those who have dared to oppose him have ended up in prison or murdered. He is, for example, widely believed to be behind the murder of human rights campaigner Natalia Estemirova in 2009. He has also presided over the systematic persecution of LGBTQ+ people in Chechnya, infamously claiming that the republic has “no gay people.”
 
-**Read Milishina’s full note **[**here**](https://novayagazeta.ru/articles/2022/01/28/kak-ia-spasla-vraga-kadyrova-kotorogo-on-sozdal-sebe-sam)** and her report **[**here.**](https://novayagazeta.ru/articles/2022/01/28/vrag-nomer-odin)
+**Read Milishina’s full note **[**here**](2022/01/28/kak-ia-spasla-vraga-kadyrova-kotorogo-on-sozdal-sebe-sam.md)** and her report **[**here.**](2022/01/28/vrag-nomer-odin.md)
 
 # **Bonus Round**
 
-### **Deliveries of modern Russian weapons to the Donbas could be a new escalatory step in the rising tensions with Ukraine, writes **[**Valeriy Shirayayev**](https://novayagazeta.ru/articles/2022/01/27/ikh-tam-net-no-tam-vse-est)
+### **Deliveries of modern Russian weapons to the Donbas could be a new escalatory step in the rising tensions with Ukraine, writes **[**Valeriy Shirayayev**](2022/01/27/ikh-tam-net-no-tam-vse-est.md)
 
 ![](_assets/42/4261724137b1ce44aaaaa041f212dc33.webp)
 
@@ -100,6 +100,6 @@ It is not impossible, Shiryayev writes, that — under the threat of severe sanc
 >
 > This newsletter drop is written and edited by several journalists at the Novaya Gazeta newsroom. Please, support our work by promoting our newsletter with *#RussiaExplained* hashtag on social media.
 >
-> To keep up with Novaya Gazeta’s reporting throughout the week, you can follow us on [Facebook](https://www.facebook.com/novgaz/), [Twitter](https://twitter.com/novaya_gazeta), [Instagram](https://www.instagram.com/novayagazeta/), and [Telegram](https://t.me/novaya_pishet). Our video content is available on [Youtube](https://www.youtube.com/user/novayagazeta) and don’t forget to visit our [website](https://www.novayagazeta.ru/) for the latest stories in Russian.
+> To keep up with Novaya Gazeta’s reporting throughout the week, you can follow us on [Facebook](https://www.facebook.com/novgaz/), [Twitter](https://twitter.com/novaya_gazeta), [Instagram](https://www.instagram.com/novayagazeta/), and [Telegram](https://t.me/novaya_pishet). Our video content is available on [Youtube](https://www.youtube.com/user/novayagazeta) and don’t forget to visit our [website](https://web.archive.org/web/*/https://www.novayagazeta.ru/) for the latest stories in Russian.
 >
 > *The Novaya Gazeta Team*

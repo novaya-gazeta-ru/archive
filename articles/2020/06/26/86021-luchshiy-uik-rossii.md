@@ -81,4 +81,4 @@ tags: "выборы, как это устроено, как это делает�
 
 *Фото: Алексей Владимиров*
 
-**link:** https://novayagazeta.ru/articles/2020/06/25/86006-obnulenie-online
+**link:** [https://novayagazeta.ru/articles/2020/06/25/86006-obnulenie-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/06/25/86006-obnulenie-online)

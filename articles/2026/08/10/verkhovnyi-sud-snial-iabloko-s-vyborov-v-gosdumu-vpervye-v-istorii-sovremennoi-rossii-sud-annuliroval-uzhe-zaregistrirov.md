@@ -13,7 +13,7 @@ tags: ""
 
 > **Есть продолжение**
 >
-> ### [«Власть испугалась или не понимает». Явлинский прокомментировал решение Верховного суда о снятии «Яблока» с выборов, которое партия будет обжаловать](https://novayagazeta.ru/articles/2026/08/10/vlast-ispugalas-ili-ne-ponimaet-iavlinskii-prokommentiroval-reshenie-suda-o-sniatii-iabloka-s-vyborov-kotoroe-partiia-budet-obzhalovat-news)
+> ### [«Власть испугалась или не понимает». Явлинский прокомментировал решение Верховного суда о снятии «Яблока» с выборов, которое партия будет обжаловать](2026/08/10/vlast-ispugalas-ili-ne-ponimaet-iavlinskii-prokommentiroval-reshenie-suda-o-sniatii-iabloka-s-vyborov-kotoroe-partiia-bu.md)
 
 ![](_assets/c6/c6730a10f334853fd0e345be5c3100b9.webp)
 
@@ -31,4 +31,4 @@ tags: ""
 \
 Впервые в истории современной России уже зарегистрированный партийный список сняли с выборов в Госдуму решением Верховного суда.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/10/proiskhodiashchee-ocherednaia-popytka-gosperevorota-ili-sobliudaite-svoiu-konstitutsiiu
+**Читайте также:** [Происходящее — очередная попытка госпереворота, или Соблюдайте свою Конституцию](2026/08/10/proiskhodiashchee-ocherednaia-popytka-gosperevorota-ili-sobliudaite-svoiu-konstitutsiiu.md)

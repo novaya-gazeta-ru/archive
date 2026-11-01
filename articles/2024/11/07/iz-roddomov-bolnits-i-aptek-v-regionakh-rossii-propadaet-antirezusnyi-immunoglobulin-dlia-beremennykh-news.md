@@ -23,4 +23,4 @@ tags: ""
 
 Проблемы с важным препаратом появились на фоне государственной кампании по стимулированию рождаемости, ужесточении абортов в России и бесконечных призывов политиков и чиновников о необходимости рожать «как можно больше» детей и с как можно более раннего возраста.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/19/beremennym-rossiiankam-budut-vruchat-pismo-ne-tolko-ot-mestnogo-mitropolita-no-i-ot-patriarkha-kirilla-rpts-usilivaet-borbu-s-abortami-news
+**Читайте также:** [Беременным россиянкам будут вручать письмо не только от местного митрополита, но и от патриарха Кирилла — РПЦ усиливает борьбу с абортами](2024/10/19/beremennym-rossiiankam-budut-vruchat-pismo-ne-tolko-ot-mestnogo-mitropolita-no-i-ot-patriarkha-kirilla-rpts-usilivaet-bo.md)

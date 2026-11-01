@@ -42,7 +42,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2014/01/16/1389886351_598265_50.jpg" style="width: 360px; height: 232px;"><sup>Дед Хасан и Гафур в Ташкенте</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/01/16/1389886351_598265_50.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/01/16/1389886351_598265_50.jpg)" style="width: 360px; height: 232px;"><sup>Дед Хасан и Гафур в Ташкенте</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -67,7 +67,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<a href="http://www.novayagazeta.ru/storage/c/2014/01/16/1389886351_881047_13.jpg"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/01/16/1389886351_881047_13.jpg" style="width: 360px; height: 503px;"></a><sup>Розыскное дело Гафура. Нажмите для увеличения</sup></td>
+				<a href="[http://www.novayagazeta.ru/storage/c/2014/01/16/1389886351_881047_13.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/01/16/1389886351_881047_13.jpg)"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/01/16/1389886351_881047_13.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/01/16/1389886351_881047_13.jpg)" style="width: 360px; height: 503px;"></a><sup>Розыскное дело Гафура. Нажмите для увеличения</sup></td>
 		</tr>
 	</tbody>]*
 

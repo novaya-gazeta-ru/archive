@@ -21,6 +21,6 @@ tags: "полицейский, Санкт-Петербург, травмат"
 
 Как сообщает 47news, фамилия стрелявшего майора полиции — Марков. Во время происшествия он не был на службе.
 
-4 ноября лейтенант полиции Александр Бурденюк во время осмотра квартиры вывернул женщине руки и [ударил](https://novayagazeta.ru/articles/2021/11/04/v-moskve-politseiskii-udaril-zhenshchinu-po-shcheke-svoim-udostovereniem-so-slovami-ia-zdes-vlast-news) своим удостоверением по лицу со словами «Я здесь власть». Пострадавшая утверждает, что сотрудник пришел к ней домой с целью найти военнообязанного брата ее мужа. После инцидента МВД [начало](https://novayagazeta.ru/articles/2021/11/05/mvd-nachalo-proverku-posle-intsidenta-s-politseiskim-udarivshim-moskvichku-udostovereniem-po-litsu-so-slovami-ia-zdes-vlast-news) проверку.
+4 ноября лейтенант полиции Александр Бурденюк во время осмотра квартиры вывернул женщине руки и [ударил](2021/11/04/v-moskve-politseiskii-udaril-zhenshchinu-po-shcheke-svoim-udostovereniem-so-slovami-ia-zdes-vlast-news.md) своим удостоверением по лицу со словами «Я здесь власть». Пострадавшая утверждает, что сотрудник пришел к ней домой с целью найти военнообязанного брата ее мужа. После инцидента МВД [начало](2021/11/05/mvd-nachalo-proverku-posle-intsidenta-s-politseiskim-udarivshim-moskvichku-udostovereniem-po-litsu-so-slovami-ia-zdes-vl.md) проверку.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/10/nesbytochnye-menty
+**Читайте также:** [Несбыточные менты](2021/11/10/nesbytochnye-menty.md)

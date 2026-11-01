@@ -31,4 +31,4 @@ tags: "бады, мошенники, пенсионеры, компенсаци�
 
 Прокуратура Петербурга не сообщает, сколько потерпевших лишилось денег в этот раз. Пояснила лишь, что ущерб составил не менее 10 миллионов рублей. Примечательно, что даже после того, как с карт пенсионеров стали исчезать средства, большинство из них никак не связывали такие кражи со звонками из ФССП или Соцфонда, поэтому следствие далеко не сразу нащупало след.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/08/19/kazino-shagovoi-dostupnosti-i-pod-kryshei
+**Читайте также:** [https://novayagazeta.ru/articles/2023/08/19/kazino-shagovoi-dostupnosti-i-pod-kryshei](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/08/19/kazino-shagovoi-dostupnosti-i-pod-kryshei)

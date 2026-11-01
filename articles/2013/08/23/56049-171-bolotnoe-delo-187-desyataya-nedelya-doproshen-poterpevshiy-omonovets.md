@@ -14,12 +14,12 @@ tags: ""
 \
  ^Фото: Евгений Фельдман — «Новая»
 
-В четверг в Мосгорсуде начали допрашивать потерпевшего по «Болотному делу» сержанта Дениса Куватова, бойца второго взвода ОМОН. Это уже третий сотрудник правоохранительных органов, который выступает в суде по «делу двенадцати» в качестве потерпевшего. До этого был допрошен [омоновец Андрей Архипов](http://www.novayagazeta.ru/politics/58938.html) и лейтенант полиции Денис Моисеев — ([первый день](http://www.novayagazeta.ru/news/80718.html), [второй день](http://www.novayagazeta.ru/news/83391.html), [третий день](http://www.novayagazeta.ru/news/84181.html)).
+В четверг в Мосгорсуде начали допрашивать потерпевшего по «Болотному делу» сержанта Дениса Куватова, бойца второго взвода ОМОН. Это уже третий сотрудник правоохранительных органов, который выступает в суде по «делу двенадцати» в качестве потерпевшего. До этого был допрошен [омоновец Андрей Архипов](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/58938.html) и лейтенант полиции Денис Моисеев — ([первый день](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/80718.html), [второй день](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/83391.html), [третий день](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/84181.html)).
 
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/08/23/1377264145_897639_24.jpg" style="width: 360px; height: 234px;"><sup>Потерпевший Денис Куватов</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/08/23/1377264145_897639_24.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/08/23/1377264145_897639_24.jpg)" style="width: 360px; height: 234px;"><sup>Потерпевший Денис Куватов</sup></td>
 		</tr>
 	</tbody>]*
 

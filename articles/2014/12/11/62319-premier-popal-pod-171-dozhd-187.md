@@ -37,4 +37,4 @@ tags: ""
 
 А «Дождь» идет, а «Дождь» идет…
 
-**link:** https://novayagazeta.ru/photos/66493.html
+**link:** [https://novayagazeta.ru/photos/66493.html](https://web.archive.org/web/*/https://novayagazeta.ru/photos/66493.html)

@@ -21,7 +21,7 @@ tags: "нападение на журналиста, милашина, гроз�
 >
 > ### **Нападение на Елену Милашину и адвоката Александра Немова в Чечне:**
 >
-> - [**Хроника событий и комментарий редакции**](https://novayagazeta.ru/articles/2023/07/04/napadenie-na-zhurnalistku-novoi-elenu-milashinu-i-advokata-aleksandra-nemova-glavnoe)
+> - [**Хроника событий и комментарий редакции**](2023/07/04/napadenie-na-zhurnalistku-novoi-elenu-milashinu-i-advokata-aleksandra-nemova-glavnoe.md)
 > - [**Первое интервью с подробностями нападения. Рассказывает Елена Милашина**](https://novaya.media/articles/2023/07/04/napadavshikh-bylo-ne-menshe-10-12-chelovek-bili-polipropilenovymi-trubami)
 
 — Этот снимок избитой в Чечне Елены Милашиной должны увидеть все.

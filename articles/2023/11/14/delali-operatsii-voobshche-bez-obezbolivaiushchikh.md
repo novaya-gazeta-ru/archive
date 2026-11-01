@@ -79,4 +79,4 @@ Inspector Tabs, российский вариант препарата, защи
 
 **Виктория Литвин**
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/11/06/okhota-na-lazeiki
+**Читайте также:** [Охота на «лазейки»](2023/11/06/okhota-na-lazeiki.md)

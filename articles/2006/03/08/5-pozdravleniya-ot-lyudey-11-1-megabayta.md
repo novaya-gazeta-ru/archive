@@ -11,4 +11,4 @@ tags: ""
 
 # Поздравления от людей. (11,1 мегабайта)
 
-[Скачать видео](https://novayagazeta.ru/storage/d/2006/03/08/8marta2006lyudi.rm)
+[Скачать видео](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2006/03/08/8marta2006lyudi.rm)

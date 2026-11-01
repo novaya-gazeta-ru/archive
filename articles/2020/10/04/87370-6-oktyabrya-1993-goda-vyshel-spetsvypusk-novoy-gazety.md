@@ -98,7 +98,7 @@ tags: "октябрь, история, россия"
 
 **От редакции.**Мало что можно понять из этих обрывков реплик. Трудно найти логику и в самом ночном бое — но, как нам кажется, атмосферу у «Останкина» почувствовать можно…
 
-**link:** https://novayagazeta.ru/articles/2020/10/04/87374-gospodin-prezident-mozhno-li-utverzhdat-chto-vy-lichno-sdelali-vybor-v-polzu-avtoritarnoy-vlasti
+**link:** [«Господин Президент, можно ли утверждать, что Вы лично сделали выбор в пользу авторитарной власти?»](2020/10/04/87374-gospodin-prezident-mozhno-li-utverzhdat-chto-vy-lichno-sdelali-vybor-v-polzu-avtoritarnoy-vlasti.md)
 
 **ДОСЛОВНО. «Александр Александрович! Умоляю, эти мальчики в мэрии ни в чем не виноваты!!!» Стенограмма с милицейской рации**
 

@@ -19,9 +19,9 @@ tags: ""
 
 Проект «Сетевые свободы» [пришел](https://t.me/NetFreedomsProject/358) к выводу, что за таким запросом РКН может последовать замедление видеохостинга. В пятницу, 25 февраля, из-за неисполнения аналогичного требования регулятор [объявил](https://rkn.gov.ru/news/rsoc/news74108.htm) о частичном замедлении социальной сети Facebook. В РКН подобные меры называют «защитой российских СМИ».
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/27/putin-vedet-voinu-s-ukrainoi-den-chetvertyi-onlain
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/27/putin-vedet-voinu-s-ukrainoi-den-chetvertyi-onlain](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/27/putin-vedet-voinu-s-ukrainoi-den-chetvertyi-onlain)
 
-Накануне РКН в рамках защиты россиян от «недостоверной информации» [потребовал](https://novayagazeta.ru/articles/2022/02/26/rkn-potreboval-ot-novoi-gazety-i-drugikh-smi-udalit-materialy-gde-proiskhodiashchee-v-ukraine-nazyvalos-voinoi-news) от «Новой газеты», «Медиазоны»*, «Дождя»* и других СМИ удалить материалы, в которых происходящее в Украине называлось войной.
+Накануне РКН в рамках защиты россиян от «недостоверной информации» [потребовал](2022/02/26/rkn-potreboval-ot-novoi-gazety-i-drugikh-smi-udalit-materialy-gde-proiskhodiashchee-v-ukraine-nazyvalos-voinoi-news.md) от «Новой газеты», «Медиазоны»*, «Дождя»* и других СМИ удалить материалы, в которых происходящее в Украине называлось войной.
 
 «На указанных ресурсах под видом достоверных сообщений размещена недостоверная общественно значимая не соответствующая действительности информация об обстрелах ВС РФ украинских городов и гибели мирных жителей Украины в результате действий Российской Армии, а также материалы, в которых проводимая операция называется нападением, вторжением, либо объявлением войны», — говорится в требовании регулятора.
 

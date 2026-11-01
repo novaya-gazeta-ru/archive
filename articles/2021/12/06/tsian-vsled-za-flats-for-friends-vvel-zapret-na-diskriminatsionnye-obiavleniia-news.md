@@ -21,8 +21,8 @@ tags: "дискриминация, аренда, циан, только слав
 
 Если авторы объявлений, содержащих дискриминационные высказывания, не отредактируют их до 1 февраля, то «ЦИАН» сможет самостоятельно скорректировать текст.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/27/soobshchestvo-flats-for-friends-zapretilo-diskriminatsionnye-posty-pri-sdache-kvartir-v-arendu-news
+**Читайте также:** [Сообщество Flats for friends запретило «дискриминационные» посты при сдаче квартир в аренду](2021/11/27/soobshchestvo-flats-for-friends-zapretilo-diskriminatsionnye-posty-pri-sdache-kvartir-v-arendu-news.md)
 
-Ранее онлайн-сообщество Flats for friends [запретило](https://novayagazeta.ru/articles/2021/11/27/soobshchestvo-flats-for-friends-zapretilo-diskriminatsionnye-posty-pri-sdache-kvartir-v-arendu-news) «дискриминационные» посты при сдаче квартир в аренду. С 27 ноября все публикации в группе должны иметь приписку о том, что арендодатель приветствует «жильцов всех национальностей, происхождений, полов, возрастов и предпочтений в любви», а также не против заселения животных в квартиру.
+Ранее онлайн-сообщество Flats for friends [запретило](2021/11/27/soobshchestvo-flats-for-friends-zapretilo-diskriminatsionnye-posty-pri-sdache-kvartir-v-arendu-news.md) «дискриминационные» посты при сдаче квартир в аренду. С 27 ноября все публикации в группе должны иметь приписку о том, что арендодатель приветствует «жильцов всех национальностей, происхождений, полов, возрастов и предпочтений в любви», а также не против заселения животных в квартиру.
 
-**Читайте также:** https://novayagazeta.ru/articles/2019/08/07/81525-slavyanskoe-gnezdo
+**Читайте также:** [Славянское гнездо](2019/08/07/81525-slavyanskoe-gnezdo.md)

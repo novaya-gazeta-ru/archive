@@ -33,8 +33,8 @@ tags: "роскомнадзор, it, facebook, twitter, telegram, приземл
 
 Представители Viber в комментарии РБК уже [выразили](https://www.rbc.ru/technology_and_media/22/11/2021/619bb3cc9a7947c317f6dafd) готовность сотрудничать с властями РФ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/18/pereproshitaia-rossiia
+**Читайте также:** [Перепрошитая Россия](2021/09/18/pereproshitaia-rossiia.md)
 
 Закон о «приземлении» [был принят](https://sozd.duma.gov.ru/bill/1176731-7) летом 2021 года. Он обязывает IT-компании с суточной аудиторией более 500 тысяч россиян открывать офисы в стране и регистрировать на сайте Роскомнадзора для обратной связи.
 
-В мае депутат Госдумы Александр Хинштейн [обещал](https://t.me/Hinshtein/667) дополнительно «приземлить» энциклопедию Wikipedia, магазины Amazon, AliExpress, IKEA и Iherb, а также IT-компанию Cloudflare. В период выборов в Госдуму власти России уже [тестировали](https://novayagazeta.ru/articles/2021/09/15/v-rossii-zafiksirovana-blokirovka-google-docs-eto-proizoshlo-posle-publikatsii-tam-spiskov-umnogo-golosovaniia-news) возможность массовой блокировки DNS-сервисов Cloudflare.\
+В мае депутат Госдумы Александр Хинштейн [обещал](https://t.me/Hinshtein/667) дополнительно «приземлить» энциклопедию Wikipedia, магазины Amazon, AliExpress, IKEA и Iherb, а также IT-компанию Cloudflare. В период выборов в Госдуму власти России уже [тестировали](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/15/v-rossii-zafiksirovana-blokirovka-google-docs-eto-proizoshlo-posle-publikatsii-tam-spiskov-umnogo-golosovaniia-news) возможность массовой блокировки DNS-сервисов Cloudflare.\

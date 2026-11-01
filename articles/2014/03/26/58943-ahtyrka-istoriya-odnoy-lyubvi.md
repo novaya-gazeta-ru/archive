@@ -11,6 +11,6 @@ tags: "сачков"
 
 # Ахтырка. История одной любви
 
-# Читайте также: [Ахтырка. Документальная повесть про убийство в одном обычном российском поселке](http://www.novayagazeta.ru/society/62881.html)
+# Читайте также: [Ахтырка. Документальная повесть про убийство в одном обычном российском поселке](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/62881.html)
 
 **youtube:** https://www.youtube.com/embed/N_I6kTEudNo

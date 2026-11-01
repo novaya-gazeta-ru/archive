@@ -19,4 +19,4 @@ tags: ""
 
 Запрет введен в соответствии с законом, принятым заксобранием Амурской области в конце июня. Этот же закон вводит штрафы за несоблюдение правил эксплуатации СИМ. Теперь за любое передвижение или размещение СИМ на территории Благовещенска будет налагаться штраф до 100 тысяч рублей, заявил Имамеев.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/10/moskvichei-obiazhut-registrirovatsia-na-gosuslugakh-chtoby-polzovatsia-arendoi-elektrosamokatov-news
+**Читайте также:** [Москвичей обяжут регистрироваться на госуслугах, чтобы пользоваться арендой электросамокатов](2025/02/10/moskvichei-obiazhut-registrirovatsia-na-gosuslugakh-chtoby-polzovatsia-arendoi-elektrosamokatov-news.md)

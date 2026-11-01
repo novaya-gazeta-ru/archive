@@ -17,14 +17,14 @@ tags: "хакерская атака, сайт, the bell, журналисты, 
 
 Также отмечается, что издание принимает дополнительные меры по усилению защиты своих серверов.
 
-Ранее неизвестные [попытались взломать](https://novayagazeta.ru/articles/2021/08/12/neizvestnye-popytalis-vzlomat-telefon-zhurnalistki-the-bell-pankratovoi-za-nei-mogli-sledit-fizicheski-news) телефон журналиста The Bell Ирины Панкратовой. Злоумышленники заказали в офисе «Мегафона» детализацию звонков и сообщений Панкратовой по поддельным документам.
+Ранее неизвестные [попытались взломать](2021/08/12/neizvestnye-popytalis-vzlomat-telefon-zhurnalistki-the-bell-pankratovoi-za-nei-mogli-sledit-fizicheski-news.md) телефон журналиста The Bell Ирины Панкратовой. Злоумышленники заказали в офисе «Мегафона» детализацию звонков и сообщений Панкратовой по поддельным документам.
 
 Журналистка предположила, что кто-то целенаправленно пытается отследить источники ее информации или воспользоваться ее личными данными. «У меня в разработке несколько непростых историй, также это может быть кто угодно из героев уже опубликованных текстов», —рассказала она.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/12/19/88449-hoteli-by-vzlomat-vzlomali
+**Читайте также:** [https://novayagazeta.ru/articles/2020/12/19/88449-hoteli-by-vzlomat-vzlomali](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/12/19/88449-hoteli-by-vzlomat-vzlomali)
 
 Ирина Панкратова [публиковала](https://thebell.io/author/irina-pankratova) расследования об источниках финансирования онлайн-казино, о бывшем зяте премьер-министра России Михаила Мишустина и о рынке «пробива» государственных баз данных после отравления Алексея Навального.
 
-Кроме того, 17 августа о спам-атаке на номера телефонов [сообщили](https://novayagazeta.ru/articles/2021/08/17/zhurnalisty-vazhnykh-istorii-soobshchili-o-spam-atake-na-ikh-telefony-ranee-tak-zhe-atakovali-telefon-korrespondenta-the-bell-news) журналисты «Важных историй»* Ирина Долинина* и Алеся Мароховская*.
+Кроме того, 17 августа о спам-атаке на номера телефонов [сообщили](2021/08/17/zhurnalisty-vazhnykh-istorii-soobshchili-o-spam-atake-na-ikh-telefony-ranee-tak-zhe-atakovali-telefon-korrespondenta-the.md) журналисты «Важных историй»* Ирина Долинина* и Алеся Мароховская*.
 
 #### **Включены Минюстом в перечень СМИ, выполняющих функцию иностранного агента*

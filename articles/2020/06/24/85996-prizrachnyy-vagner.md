@@ -21,8 +21,8 @@ tags: "подкаст, пригожин, наемники, донбасс, си�
 >
 > YouTube|Soundcloud|Apple Podcasts|Castbox|VK|Яндекс.Музыка|Google Podcasts
 
-**link:** https://novayagazeta.ru/articles/2020/06/16/85856-mid-ne-vidit-russkih-naemnikov-v-livii
+**link:** [https://novayagazeta.ru/articles/2020/06/16/85856-mid-ne-vidit-russkih-naemnikov-v-livii](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/06/16/85856-mid-ne-vidit-russkih-naemnikov-v-livii)
 
-**link:** https://novayagazeta.ru/articles/2020/04/21/85017-golovorezy-2-0
+**link:** [Головорезы 2.0 (18+)](2020/04/21/85017-golovorezy-2-0.md)
 
-**link:** https://novayagazeta.ru/articles/2020/01/19/83514-vagner-pervaya-neft
+**link:** [Вагнер. Первая нефть](2020/01/19/83514-vagner-pervaya-neft.md)

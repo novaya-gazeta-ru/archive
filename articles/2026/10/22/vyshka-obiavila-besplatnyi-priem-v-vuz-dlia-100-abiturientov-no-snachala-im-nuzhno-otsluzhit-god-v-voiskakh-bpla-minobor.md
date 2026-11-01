@@ -25,8 +25,8 @@ tags: ""
 
 *Листовка, которую распространяли в вузе в сентябре, опубликовали СМИ*
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/23/v-armiiu-malo-kto-khochet-ia-znaiu-eto-iz-razgovorov-s-detmi
+**Читайте также:** [«В армию мало кто хочет — я знаю это из разговоров с детьми»](2026/09/23/v-armiiu-malo-kto-khochet-ia-znaiu-eto-iz-razgovorov-s-detmi.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/02/sluzhenie-kniazia-dunduka
+**Читайте также:** [Служение князя Дундука](2026/09/02/sluzhenie-kniazia-dunduka.md)
 
 #### * Минюст включил в реестр иноагентов.

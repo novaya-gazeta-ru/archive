@@ -23,8 +23,8 @@ tags: ""
 
 «Музей СВО» открылся в Пензе в 2023-м году — на месте регионального краеведческого музея. Здесь на выставке уже представлены сбитые дроны, фрагменты обмундирования ВСУ, а новые экспонаты приносят волонтеры и ветераны СВО.
 
-В конце июня в соцсетях Пензы сообщалось про облавы на людей мобилизационного возраста, социально незащищенных. История стала шумной и вышла за пределы региона. Но власти уверяли: никаких облав не было, это лишь слухи. «Новая газета» [разбиралась в ситуации](https://novayagazeta.ru/articles/2026/07/27/ranshe-lovili-na-udochki-teper-vyshli-na-ulitsy-s-brednem).
+В конце июня в соцсетях Пензы сообщалось про облавы на людей мобилизационного возраста, социально незащищенных. История стала шумной и вышла за пределы региона. Но власти уверяли: никаких облав не было, это лишь слухи. «Новая газета» [разбиралась в ситуации](2026/07/27/ranshe-lovili-na-udochki-teper-vyshli-na-ulitsy-s-brednem.md).
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/02/prekratit-ogon-vyvezti-ranenykh-s-polia-boia
+**Читайте также:** [Прекратить огонь! Вывезти раненых с поля боя!](2026/07/02/prekratit-ogon-vyvezti-ranenykh-s-polia-boia.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/24/shevrony-gitlerovskoi-armii-nanesut-na-pol-stantsii-metro-v-peterburge-posle-rekonstruktsii-chtoby-passazhiry-nastupali-na-nikh-gubernator-beglov-news
+**Читайте также:** [Шевроны гитлеровской армии нанесут на пол станции метро в Петербурге, чтобы пассажиры наступали на них — губернатор Беглов](2026/06/24/shevrony-gitlerovskoi-armii-nanesut-na-pol-stantsii-metro-v-peterburge-posle-rekonstruktsii-chtoby-passazhiry-nastupali-.md)

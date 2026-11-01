@@ -35,7 +35,7 @@ tags: "давление на сми, терроризм, псковская об
 
 А в отношении автора Следственный комитет возбудил уголовное дело по новой на тот момент статье — об оправдании терроризма. Вокруг Прокопьевой завертелась машинка, которая умеет вырабатывать только один продукт: обвинительные приговоры.
 
-**link:** https://novayagazeta.ru/articles/2020/07/03/86129-gosudarstvennaya-vlast-v-rukah-zhestokih-lyudey-stanovitsya-glavnoy-ugrozoy-bezopasnosti
+**link:** [«Государственная власть в руках жестоких людей становится главной угрозой безопасности»](2020/07/03/86129-gosudarstvennaya-vlast-v-rukah-zhestokih-lyudey-stanovitsya-glavnoy-ugrozoy-bezopasnosti.md)
 
 «В процессе уголовного производства»
 

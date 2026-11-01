@@ -33,7 +33,7 @@ tags: "коммунальные службы, владивосток, пятер
 
 И это, заметьте, центр Владивостока — «благополучного», «стратегически важного», города страны, где «своих не бросают».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/08/25/territoriia-operezhaiushchego-razmytiia
+**Читайте также:** [https://novayagazeta.ru/articles/2023/08/25/territoriia-operezhaiushchego-razmytiia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/08/25/territoriia-operezhaiushchego-razmytiia)
 
 ## Спасение утопающих — дело рук
 

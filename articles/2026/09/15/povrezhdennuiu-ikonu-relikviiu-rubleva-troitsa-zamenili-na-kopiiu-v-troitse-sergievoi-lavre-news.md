@@ -21,4 +21,4 @@ tags: ""
 
 Поскольку «Троица» требовала особых условий содержания, ее поместили в специальную климатическую витрину, однако та, как затем выяснилось, сломалась. Через некоторое время из-за ненадлежащих условий хранения доски иконы стали расходиться, а в щелях выступил клей.
 
-Лавра допустила специалистов из мастерских Третьяковской галереи, 13 сентября икону [вывезли](https://novayagazeta.ru/articles/2026/09/14/peredannuiu-rpts-troitsu-andreia-rubleva-ubrali-iz-ikonostasa-lavry-smi-utverzhdali-chto-ikona-mogla-deformirovatsia-iz-za-slomannoi-klimaticheskoi-vitriny-news). Им предстоит оценить нанесенный иконе ущерб, а дальше дело за реставраторами.
+Лавра допустила специалистов из мастерских Третьяковской галереи, 13 сентября икону [вывезли](2026/09/14/peredannuiu-rpts-troitsu-andreia-rubleva-ubrali-iz-ikonostasa-lavry-smi-utverzhdali-chto-ikona-mogla-deformirovatsia-iz-.md). Им предстоит оценить нанесенный иконе ущерб, а дальше дело за реставраторами.

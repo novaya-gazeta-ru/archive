@@ -11,4 +11,4 @@ tags: ""
 
 # Голосование в «Донецкой народной республике»
 
-# [Голосование в ЛНР и ДНР — онлайн-трансляция](http://www.novayagazeta.ru/news/1688953.html)
+# [Голосование в ЛНР и ДНР — онлайн-трансляция](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1688953.html)

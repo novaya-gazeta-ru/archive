@@ -59,4 +59,4 @@ tags: ""
 
 Гитара, кстати, и сегодня, никуда не делась. Богу хорошая песня не повредит. В ней всегда найдется Слово!
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/11/11/otets-aleksei-uminskii-nado-nauchitsia-ne-nenavidet-media
+**Читайте также:** [Отец Алексей Уминский: «Надо научиться не ненавидеть»](2022/11/11/otets-aleksei-uminskii-nado-nauchitsia-ne-nenavidet-media.md)

@@ -17,6 +17,6 @@ tags: "ng, COVID-19, вакцины, вакцинация, спутник v, ast
 
 Исследование началось 7 июля. Средний возраст его участников составляет 49 лет. Данные об эффективности комбинации вакцин пока нет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/27/koronavirus-zloi-i-bystryi
+**Читайте также:** [Коронавирус, злой и быстрый](2021/07/27/koronavirus-zloi-i-bystryi.md)
 
 Минздрав России 26 июля [разрешил](https://grls.rosminzdrav.ru/CiPermitionReg.aspx?PermYear=0&DateInc=&NumInc=&DateBeg=&DateEnd=&Protocol=&RegNm=&Statement=&ProtoId=&idCIStatementCh=&Qualifier=&CiPhase=&RangeOfApp=&Torg=AZD1222&LFDos=&Producer=&Recearcher=&sponsorCountry=&MedBaseCount=&CiType=&PatientCount=&OrgDocOut=2&Status=&NotInReg=0&All=0&PageSize=8&order=dateperm&orderType=desc&pagenum=1) исследование комбинации вакцины AstraZeneca и«Спутника Лайт» для «изучения безопасности и иммуногенности комбинации препаратов». В исследованиях, которые планирую проводить в пяти медицинских организациях, будут участвовать 150 пациентов.

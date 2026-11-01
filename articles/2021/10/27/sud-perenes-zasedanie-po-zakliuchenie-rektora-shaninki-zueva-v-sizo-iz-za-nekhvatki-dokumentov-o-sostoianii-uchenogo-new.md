@@ -19,10 +19,10 @@ tags: "ng, зуев, шанинка, суды"
 
 Как добавила супруга ученого Елизавета Зуева, сегодня его должны выписать.
 
-Прокуратура 19 октября обжаловала решение Тверского районного суда Москвы, который отправил Зуева под домашний арест, и потребовала отправить ученого в СИЗО. После этого Зуева [госпитализировали](https://novayagazeta.ru/articles/2021/10/20/rektora-shaninki-sergeia-zueva-stavshego-figurantom-dela-o-moshennichestve-uvezli-v-bolnitsu-s-gipertonicheskim-krizom-news) с гипертоническим кризом, а затем [провели](https://novayagazeta.ru/articles/2021/10/21/advokat-rektoru-shaninki-sergeiu-zuevu-provodiat-srochnuiu-operatsiiu-na-serdtse-news) срочную операцию на сердце в одной из московских больниц.
+Прокуратура 19 октября обжаловала решение Тверского районного суда Москвы, который отправил Зуева под домашний арест, и потребовала отправить ученого в СИЗО. После этого Зуева [госпитализировали](2021/10/20/rektora-shaninki-sergeia-zueva-stavshego-figurantom-dela-o-moshennichestve-uvezli-v-bolnitsu-s-gipertonicheskim-krizom-n.md) с гипертоническим кризом, а затем [провели](2021/10/21/advokat-rektoru-shaninki-sergeiu-zuevu-provodiat-srochnuiu-operatsiiu-na-serdtse-news.md) срочную операцию на сердце в одной из московских больниц.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/13/eto-ne-tot-chelovek-i-ne-ta-situatsiia
+**Читайте также:** [«Это не тот человек и не та ситуация»](2021/10/13/eto-ne-tot-chelovek-i-ne-ta-situatsiia.md)
 
-Суд 13 октября [отправил](https://novayagazeta.ru/articles/2021/10/13/rektora-shaninki-sergeia-zueva-otpravili-pod-domashnii-arest-po-delu-o-khishchenii-bolee-21-mln-rublei-news) Зуева под домашний арест до 7 декабря по делу о мошенничестве в особо крупном размере (ч. 4 ст. 159 УК). Его задержали 11 октября в больнице, где он проходил лечение в связи с хроническим заболеванием. Тогда Зуева доставили на допрос, ближе к полуночи его привезли в изолятор временного содержания.
+Суд 13 октября [отправил](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/10/13/rektora-shaninki-sergeia-zueva-otpravili-pod-domashnii-arest-po-delu-o-khishchenii-bolee-21-mln-rublei-news) Зуева под домашний арест до 7 декабря по делу о мошенничестве в особо крупном размере (ч. 4 ст. 159 УК). Его задержали 11 октября в больнице, где он проходил лечение в связи с хроническим заболеванием. Тогда Зуева доставили на допрос, ближе к полуночи его привезли в изолятор временного содержания.
 
 Ректор Шанинки проходит подозреваемым по делу экс-замминистра просвещения и бывшего вице-президента Сбербанка Марины Раковой о хищении более 21 млн рублей, принадлежащих «Фонду новых форм развития образования». Своей вины Зуев не признает. Шанинка фигурирует в деле в качестве подрядчика.

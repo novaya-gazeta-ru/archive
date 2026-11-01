@@ -11,4 +11,4 @@ tags: ""
 
 # «Новая газета» отмечает 10-летие. Поздравления гостей. (41,5 мегабайта)
 
-[Скачать видео](https://novayagazeta.ru/storage/d/2006/01/22/10-let-2.rm)
+[Скачать видео](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2006/01/22/10-let-2.rm)

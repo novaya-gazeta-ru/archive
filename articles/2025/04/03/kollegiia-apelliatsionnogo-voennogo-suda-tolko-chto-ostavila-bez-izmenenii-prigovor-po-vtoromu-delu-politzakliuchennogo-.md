@@ -19,8 +19,8 @@ tags: ""
 
 Общий оставшийся срок, который должен досидеть Алексей Горинов — пять лет.
 
-Горинов — экс-мундеп Москвы, убежденный противник военных дейтвий. На судебном заседании он сегодня присутствовал по видеосвязи из СИЗО-1 Владимира, связь была настолько плохой, что слышно Горинова не было, о чем заявили адвокаты, и [заседание прерывали](https://novayagazeta.ru/articles/2025/04/03/politzeka-gorinova-ne-smogli-rasslyshat-na-zasedanii-po-apelliatsionnoi-zhalobe-na-ego-vtoroi-prigovor-za-opravdanie-terrorizma-v-razgovore-s-podsadnymi-osuzhdennymi-news).
+Горинов — экс-мундеп Москвы, убежденный противник военных дейтвий. На судебном заседании он сегодня присутствовал по видеосвязи из СИЗО-1 Владимира, связь была настолько плохой, что слышно Горинова не было, о чем заявили адвокаты, и [заседание прерывали](2025/04/03/politzeka-gorinova-ne-smogli-rasslyshat-na-zasedanii-po-apelliatsionnoi-zhalobe-na-ego-vtoroi-prigovor-za-opravdanie-ter.md).
 
 Но на картинке было видно, что Горинов прикрепил себе на тюремную робу значок «пацифика», нарисованный ручкой.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/28/vmesto-krestika-natelnyi-mikrofon
+**Читайте также:** [Вместо крестика — нательный микрофон](2024/11/28/vmesto-krestika-natelnyi-mikrofon.md)

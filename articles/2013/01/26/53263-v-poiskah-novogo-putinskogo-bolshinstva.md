@@ -16,14 +16,14 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<a href="http://www.novayagazeta.ru/storage/c/2013/01/26/1359325978_002002_58.png" target="_blank"><img alt="Петр Саруханов — «Новая»" src="https://static.novayagazeta.ru/storage/c/2013/01/26/1359325977_045574_74.png" style="width: 565px; height: 349px; "></a></td>
+				<a href="[http://www.novayagazeta.ru/storage/c/2013/01/26/1359325978_002002_58.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/01/26/1359325978_002002_58.png)" target="_blank"><img alt="Петр Саруханов — «Новая»" src="https://static.novayagazeta.ru/storage/c/2013/01/26/1359325977_045574_74.png" style="width: 565px; height: 349px; "></a></td>
 		</tr>
 	</tbody>]*
 
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/01/26/1359193687_031084_83.jpg" style="width: 360px; height: 240px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/01/26/1359193687_031084_83.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/01/26/1359193687_031084_83.jpg)" style="width: 360px; height: 240px;"><br>
 				<sup>Фото: Евгений Фельдман — «Новая»</sup></td>
 		</tr>
 	</tbody>]*

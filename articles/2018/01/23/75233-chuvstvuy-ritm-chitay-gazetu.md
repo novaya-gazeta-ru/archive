@@ -21,4 +21,4 @@ tags: "скрепы, новая газета, танцы"
 
 Чувствуй ритм, читай газету!
 
-**link:** https://novayagazeta.ru/articles/2018/01/18/75179-tantsuy-poka-molodoy-letchik
+**link:** [Танцуй, пока молодой, летчик!](2018/01/18/75179-tantsuy-poka-molodoy-letchik.md)

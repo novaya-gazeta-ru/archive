@@ -19,4 +19,4 @@ tags: "франция, пикеты, сенцов"
 
 По завершении пикета Файнберг передал эстафету французскому режиссеру Филиппу Фокону. Подробнее об акции можно прочитать здесь.
 
-**link:** https://novayagazeta.ru/articles/2018/09/18/77864-rezhisser-kristof-ruzhzhia-sentsov-dolzhen-zhit-inache-kino-ne-prostit
+**link:** [Режиссер Кристоф Ружжиа: «Сенцов должен жить. Иначе кино не простит…»](2018/09/18/77864-rezhisser-kristof-ruzhzhia-sentsov-dolzhen-zhit-inache-kino-ne-prostit.md)

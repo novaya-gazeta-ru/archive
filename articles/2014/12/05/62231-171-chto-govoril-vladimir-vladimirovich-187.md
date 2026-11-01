@@ -99,11 +99,11 @@ tags: ""
 
 Иск связан с возведением в центре Москвы многофункционального делового комплекса Mirax Plaza площадью 368 000 кв. метров. Первая свая проекта была забита 25 декабря 2006 года. Планировалось возведение двух башен (41 и 47 этажей), двух 10-этажных зданий, объединенных двухэтажным стилобатом, зоны отдыха, расположенной в пяти атриумах общей площадью 3 тысячи кв. метров. Планировалось и возведение через Москву-реку монорельсовой железной дороги, соединяющей комплекс Mirax Plaza с деловым центром «Москва-сити».
 
-**link:** https://novayagazeta.ru/inquests/64692.html
+**link:** [https://novayagazeta.ru/inquests/64692.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/64692.html)
 
-**link:** https://novayagazeta.ru/inquests/64692.html
+**link:** [https://novayagazeta.ru/inquests/64692.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/64692.html)
 
-**link:** https://novayagazeta.ru/inquests/64692.html
+**link:** [https://novayagazeta.ru/inquests/64692.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/64692.html)
 
 Стоимость проекта оценивалась в более чем $660 млн. Ожидалось, что после окончания строительства здесь расположатся офисы крупных российских и зарубежных компаний, торговые центры, кафе и рестораны.
 

@@ -41,9 +41,9 @@ tags: "лнр, сепаратизм, украина"
 
 — В моем городе много заводов работало только на Россию. Теперь непонятно, что делать. Как Евросоюз мог вводить санкции против своих же людей? Они в Европарламенте собираются, чтобы послушать, что скажут из Вашингтона. Мы не хотим быть рабами, но и сами не справимся. Муссолини в свое время пытался создать автаркию, перевести все производство в Италию. Но у нас нет угля, нефти, газа, мы бедная страна. Нам и всей Европе нужен союз с Россией, вместе мы можем противостоять Америке.
 
-**link:** https://novayagazeta.ru/society/67041.html
+**link:** [https://novayagazeta.ru/society/67041.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/67041.html)
 
-**link:** https://novayagazeta.ru/society/67041.html
+**link:** [https://novayagazeta.ru/society/67041.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/67041.html)
 
 Где экономика, там и геополитика. Андреа Пальмери берет в руки салфетку, рисует:
 
@@ -59,9 +59,9 @@ tags: "лнр, сепаратизм, украина"
 
 — Наши коммунисты против Бога и за «голубых», — не забывает вставить Пальмери.
 
-**link:** https://novayagazeta.ru/politics/68768.html
+**link:** [https://novayagazeta.ru/politics/68768.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/68768.html)
 
-**link:** https://novayagazeta.ru/politics/68768.html
+**link:** [https://novayagazeta.ru/politics/68768.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/68768.html)
 
 Разговор логично переключается на испанских левых радикалов, которые также воевали на стороне самопровозглашенных республик, а на родине были арестованы.
 

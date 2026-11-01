@@ -51,6 +51,6 @@ tags: "немцов, расследование, убийство, уголов�
 
 На самом деле это убийство, как говорят оперативники, было совершено столь грязно (очевидно, в надежде на неприкасаемость), что там и расследовать нечего — доказательств хватит на несколько процессов. Но есть два главных вопроса: кто заказчик и где Руслан Геремеев.
 
-**link:** https://novayagazeta.ru/inquests/69418.html
+**link:** [https://novayagazeta.ru/inquests/69418.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/69418.html)
 
-**link:** https://novayagazeta.ru/inquests/69418.html
+**link:** [https://novayagazeta.ru/inquests/69418.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/69418.html)

@@ -23,8 +23,8 @@ tags: "адмирал кузнецов, nt"
 
 Отмечается, что пожар не нанес критического ущерба крейсеру: пострадали в основном коммуникации, которые и так планировалось заменить.
 
-**link:** https://novayagazeta.ru/articles/2019/12/12/83137-admiral-pechalnoy-kariery
+**link:** [«Адмирал» печальной карьеры](2019/12/12/83137-admiral-pechalnoy-kariery.md)
 
-Пожар на судне, который находится в Мурманске, [начался](https://novayagazeta.ru/news/2019/12/12/157614-v-murmanske-na-avianostse-admiral-kuznetsov-proizoshel-pozhar-postradali-tri-cheloveka) накануне утром. В результате десять моряков и спасателей были доставлены в больницы. Один военнослужащий погиб, поиски еще одного продолжаются.
+Пожар на судне, который находится в Мурманске, [начался](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/12/12/157614-v-murmanske-na-avianostse-admiral-kuznetsov-proizoshel-pozhar-postradali-tri-cheloveka) накануне утром. В результате десять моряков и спасателей были доставлены в больницы. Один военнослужащий погиб, поиски еще одного продолжаются.
 
-Авианесущий крейсер «Адмирал Кузнецов» спустили на воду 32 года назад. В прошлом году его перевели в судоремонтный завод в черте Мурманска, в микрорайоне Роста, после того как единственный док судоверфи [затонул](https://novayagazeta.ru/news/2018/10/30/146357-v-murmanske-zatonul-plavdok-v-kotorom-remontirovalsya-avianosets-admiral-kuznetsov-est-postradavshie). До этого авианосец принимал участие в военных операциях в Сирии в Средиземном море.
+Авианесущий крейсер «Адмирал Кузнецов» спустили на воду 32 года назад. В прошлом году его перевели в судоремонтный завод в черте Мурманска, в микрорайоне Роста, после того как единственный док судоверфи [затонул](https://web.archive.org/web/*/https://novayagazeta.ru/news/2018/10/30/146357-v-murmanske-zatonul-plavdok-v-kotorom-remontirovalsya-avianosets-admiral-kuznetsov-est-postradavshie). До этого авианосец принимал участие в военных операциях в Сирии в Средиземном море.

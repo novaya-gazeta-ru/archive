@@ -11,7 +11,7 @@ tags: "каннский кинофестиваль, кино"
 
 # Фильм Серебренникова «Ученик» получил премию Франсуа Шале
 
-Фильм российского режиссера Кирилла Серебренникова «Ученик», премьера которой [состоялась](http://www.novayagazeta.ru/news/1703386.html) 13 мая на 69-м Международном Каннском кинофестивале, удостоен премии Франсуа Шале. Об этом [сообщает](http://tass.ru/kultura/3303224) ТАСС со ссылкой на заявление жюри.
+Фильм российского режиссера Кирилла Серебренникова «Ученик», премьера которой [состоялась](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1703386.html) 13 мая на 69-м Международном Каннском кинофестивале, удостоен премии Франсуа Шале. Об этом [сообщает](http://tass.ru/kultura/3303224) ТАСС со ссылкой на заявление жюри.
 
 Решение в пользу «Ученика» было принято единогласно.
 
@@ -21,9 +21,9 @@ tags: "каннский кинофестиваль, кино"
 
 «Сегодня экстремисты всех крайностей убивают то, чему они сами, по своему убеждению, служат, предавая изначальное призвание религиозных текстов. Это фильм смелый, отважный, тревожащий... взрывной», — заключили устроители премии.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/arts/73040.html" target="_blank"><span style="color:#B22222;"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2016/05/11/1462965895_785249_73.jpg" style="width: 100px; height: 75px;"></span></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/arts/73040.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/arts/73040.html)" target="_blank"><span style="color:#B22222;"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2016/05/11/1462965895_785249_73.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2016/05/11/1462965895_785249_73.jpg)" style="width: 100px; height: 75px;"></span></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/arts/73040.html" target="_blank"><strong>Кирилл Серебренников: «Победила подлая концепция — мы платим, мы и музыку заказываем» </strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/arts/73040.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/arts/73040.html)" target="_blank"><strong>Кирилл Серебренников: «Победила подлая концепция — мы платим, мы и музыку заказываем» </strong></a></p>]*
 
 Фильм российского режиссера Кирилла Серебренникова снят по пьесе драматурга фон Майенбурга, действие которой перенесено в Россию. Съемкам картины предшествовал спектакль в «Гоголь-центре» «(М) ученик», получивший пять номинаций на театральную премию «Золотая маска».
 

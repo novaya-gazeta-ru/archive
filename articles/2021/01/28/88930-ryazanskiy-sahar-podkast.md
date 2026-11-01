@@ -26,14 +26,14 @@ tags: "война в чечне, 1999, теракт , рязань, провок
 
 При поддержке **Медиасети**
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/01/28/88928-vtoraya-chechenskaya
+**Читайте также:** [Вторая Чеченская](2021/01/28/88928-vtoraya-chechenskaya.md)
 
 Слушайте другие эпизоды подкаста «Продолжение следует»\
 
-- [Как и почему сбили малазийский Боинг](https://novayagazeta.ru/articles/2021/01/14/88703-kak-i-pochemu-sbili-malaziyskiy-boing). [Рассказывают Павел Каныгин, Христо Грозев и Вадим Лукашевич](https://novayagazeta.ru/articles/2021/01/14/88703-kak-i-pochemu-sbili-malaziyskiy-boing)
-- [Главный заложник. Артур Смольянинов читает тюремную речь вице-президента «ЮКОСа» Василия Алексаняна](https://novayagazeta.ru/articles/2020/12/24/88502-glavnyy-zalozhnik)
-- [Леонид Парфенов читает военные репортажи майора Вячеслава Измайлова](https://novayagazeta.ru/articles/2020/12/11/88325-nenuzhnaya-voyna-podkast)
-- [Репортаж Политковской о ее походе на переговоры к террористам , захватившим «Норд-ост». Читает Чулпан Хаматова](https://novayagazeta.ru/articles/2020/10/23/87653-10-chasov-do-shturma-podkast)
-- [Репортаж Анны Политковской о ее первой встрече с Рамзаном Кадыровым. Читает Юлия Ауг](https://novayagazeta.ru/articles/2020/10/07/87411-ya-zhdala-avtomatnuyu-ochered-v-spinu-spetsvypusk-podkasta-chto-novogo)
-- [Расследование Елены Костюченко о массовой резне в станице Кущевская, часть первая. Читает Надежда Толоконникова](https://novayagazeta.ru/articles/2020/11/04/87829-nam-zdes-zhit-chast-1-massovaya-reznya-v-kuschevke-spetsvypusk-podkasta-novoy)
-- [Сексуальное насилие — национальная скрепа. Вторая часть расследования Елены Костюченко о Кущевке. Читает Надежда Толоконникова](https://novayagazeta.ru/articles/2020/11/19/88016-nasilie-stalo-duhovnoy-skrepoy)
+- [Как и почему сбили малазийский Боинг](2021/01/14/88703-kak-i-pochemu-sbili-malaziyskiy-boing.md). [Рассказывают Павел Каныгин, Христо Грозев и Вадим Лукашевич](2021/01/14/88703-kak-i-pochemu-sbili-malaziyskiy-boing.md)
+- [Главный заложник. Артур Смольянинов читает тюремную речь вице-президента «ЮКОСа» Василия Алексаняна](2020/12/24/88502-glavnyy-zalozhnik.md)
+- [Леонид Парфенов читает военные репортажи майора Вячеслава Измайлова](2020/12/11/88325-nenuzhnaya-voyna-podkast.md)
+- [Репортаж Политковской о ее походе на переговоры к террористам , захватившим «Норд-ост». Читает Чулпан Хаматова](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/10/23/87653-10-chasov-do-shturma-podkast)
+- [Репортаж Анны Политковской о ее первой встрече с Рамзаном Кадыровым. Читает Юлия Ауг](2020/10/07/87411-ya-zhdala-avtomatnuyu-ochered-v-spinu-spetsvypusk-podkasta-chto-novogo.md)
+- [Расследование Елены Костюченко о массовой резне в станице Кущевская, часть первая. Читает Надежда Толоконникова](2020/11/04/87829-nam-zdes-zhit-chast-1-massovaya-reznya-v-kuschevke-spetsvypusk-podkasta-novoy.md)
+- [Сексуальное насилие — национальная скрепа. Вторая часть расследования Елены Костюченко о Кущевке. Читает Надежда Толоконникова](2020/11/19/88016-nasilie-stalo-duhovnoy-skrepoy.md)

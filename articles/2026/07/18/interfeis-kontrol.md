@@ -71,4 +71,4 @@ tags: "ии, цифровое государство, госуслуги, бло
 
 **Василина Тиссова**
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/11/sami-sebia-razblokiruite
+**Читайте также:** [Сами себя разблокируйте!](2026/06/11/sami-sebia-razblokiruite.md)

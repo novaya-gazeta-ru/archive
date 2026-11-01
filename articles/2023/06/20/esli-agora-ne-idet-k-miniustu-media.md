@@ -35,4 +35,4 @@ tags: "репрессии, политические репрессии, агор
 
 #### ** Внесен Минюстом РФ в реестр иноагентов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/06/19/spasti-bolshe-tysiachi-zhiznei-v-budennovske-i-sest-v-tiurmu
+**Читайте также:** [Спасти больше тысячи жизней в Буденновске и сесть в тюрьму?](2023/06/19/spasti-bolshe-tysiachi-zhiznei-v-budennovske-i-sest-v-tiurmu.md)

@@ -117,7 +117,7 @@ tags: "шольц, евросоюз, политический кризис, фр
 
 Старший научный сотрудник и директор программы ECFR Янка Эртель сомневается, что результатом следующих выборов в Германии непременно станет укрепление стабильности. Недавние местные выборы показали, что страна не застрахована от ситуации, в которой нет ясного большинства в политическом центре, а сильные популистские партии захватывают слишком большую долю голосов. Результат федеральных выборов может еще больше запутать политический ландшафт.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/30/briussel-iz-izhdiventsev-v-nalogoplatelshchiki
+**Читайте также:** [https://novayagazeta.ru/articles/2024/10/30/briussel-iz-izhdiventsev-v-nalogoplatelshchiki](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/10/30/briussel-iz-izhdiventsev-v-nalogoplatelshchiki)
 
 ## Локомотивы евроинтеграции на ремонте
 
@@ -133,4 +133,4 @@ tags: "шольц, евросоюз, политический кризис, фр
 
 В среду 13 ноября канцлер Шольц объявил, что досрочные парламентские выборы в Германии запланированы на 23 февраля 2025 года. Об этой компромиссной дате договорились лидеры фракций партий, входивших в правящую коалицию, и главной оппозиционной силы — блока ХДС/ХСС. Соответственно, Шольц согласился поставить вотум о доверии себе на голосование в Бундестаге 16 декабря, а не до 15 января, на чем настаивал раньше.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/07/ne-protest-protiv-gosudarstva-a-soglasie-s-radikalami
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/07/ne-protest-protiv-gosudarstva-a-soglasie-s-radikalami](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/07/ne-protest-protiv-gosudarstva-a-soglasie-s-radikalami)

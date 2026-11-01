@@ -21,4 +21,4 @@ tags: ""
 
 РПЦ выступила против: Кирилл обращался по этому поводу к Путину.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/28/takoe-seichas-vremia-gubernator-lenoblasti-drozdenko-sozdal-sovet-po-zashchite-dukhovno-nravstvennykh-tsennostei-i-vozglavil-ego-news
+**Читайте также:** [«Такое сейчас время». Губернатор Ленобласти Дрозденко создал совет по защите духовно-нравственных ценностей и возглавил его](2025/01/28/takoe-seichas-vremia-gubernator-lenoblasti-drozdenko-sozdal-sovet-po-zashchite-dukhovno-nravstvennykh-tsennostei-i-vozgl.md)

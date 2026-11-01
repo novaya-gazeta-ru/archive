@@ -14,7 +14,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/05/16/1368719065_092395_96.jpg" style="width: 360px; height: 454px;"><sup>Пока я задавал Полю Рикёру свои вопросы, наш известинский фотокор Юра Инякин искал кадр, выражающий характер этого человека</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/05/16/1368719065_092395_96.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/05/16/1368719065_092395_96.jpg)" style="width: 360px; height: 454px;"><sup>Пока я задавал Полю Рикёру свои вопросы, наш известинский фотокор Юра Инякин искал кадр, выражающий характер этого человека</sup></td>
 		</tr>
 	</tbody>]*
 

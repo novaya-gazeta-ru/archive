@@ -333,7 +333,7 @@ tags: "лимонов, нацболы, днр, украина, прилепин,
 
 Во второй половине февраля Прилепин приехал в Москву, чтобы презентовать свою книгу «Взвод» про великих русских писателей на войне (по счастливому совпадению вышла из печати она сразу после шумной новости про его батальон).
 
-**link:** https://novayagazeta.ru/articles/2017/02/16/71538-kuda-zahar-ne-gonyal
+**link:** [https://novayagazeta.ru/articles/2017/02/16/71538-kuda-zahar-ne-gonyal](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/02/16/71538-kuda-zahar-ne-gonyal)
 
 ![](_assets/0a/0a12732f009b0774cf476f43985abba0.webp)
 

@@ -13,4 +13,4 @@ tags: "новая газета, Муратов, суд, правосудие, б
 
 *Басманный суд отменил регистрацию бумажного выпуска «Новой газеты»*
 
-https://novayagazeta.ru/preview/a9ee50a185284fbe995a506adc014912?token=043A718774C572BD8A25ADBEB1BFCD5C0256AE11CECF9F9C3F925D0E52BEAF89
+[https://novayagazeta.ru/preview/a9ee50a185284fbe995a506adc014912?token=043A718774C572BD8A25ADBEB1BFCD5C0256AE11CECF9F9C3F925D0E52BEAF89](https://web.archive.org/web/*/https://novayagazeta.ru/preview/a9ee50a185284fbe995a506adc014912?token=043A718774C572BD8A25ADBEB1BFCD5C0256AE11CECF9F9C3F925D0E52BEAF89)

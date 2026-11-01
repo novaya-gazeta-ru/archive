@@ -23,11 +23,11 @@ tags: ""
 
 Но никаких резких заявлений не последовало. Путин, например, сказал, что Украина таким образом сама от себя отрезает два региона, подчеркнув, что и Россия на них не претендует. Заявления луганских и донецких лидеров, еще летом обещавших вхождение в рублевую зону «через три-четыре месяца», — оказались основательно (и в целом справедливо) забыты.
 
-**link:** https://novayagazeta.ru/politics/66411.html
+**link:** [https://novayagazeta.ru/politics/66411.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66411.html)
 
-**link:** https://novayagazeta.ru/politics/66411.html
+**link:** [https://novayagazeta.ru/politics/66411.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66411.html)
 
-**link:** https://novayagazeta.ru/politics/66411.html
+**link:** [https://novayagazeta.ru/politics/66411.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66411.html)
 
 Налицо резкий контраст с Крымом, где отделения Центрального банка РФ были образованы уже 31 марта, через две недели после референдума, а к лету завершился переход на рубли, на полуострове стали действовать российские банки. (Правда, в весьма ограниченном количестве, но украинских конкурентов у них нет, их деятельность прекращена российским ЦБ.)
 

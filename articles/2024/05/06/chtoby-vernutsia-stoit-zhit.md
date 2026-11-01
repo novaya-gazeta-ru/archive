@@ -46,7 +46,7 @@ tags: ""
 >
 >  **Что поддерживает меня в трудную минуту в тюрьме **— образ близких людей. Например, Лены, что ведет мою группу поддержки. А еще помогает то, что на воле идет жизнь, что люди ведут свою борьбу, творят, живут, что там — не как здесь. И что даже ради того, чтобы вернуться в это горнило жизни, стоит жить. Да, каждый сам решает, как жить, но если вы создаете вокруг себя жизнь, как в тюрьме, мне вас безумно жаль».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/05/03/zdes-mnogie-gotovy-podpisat-kontrakt-potomu-chto-khotiat-domoi
+**Читайте также:** [https://novayagazeta.ru/articles/2024/05/03/zdes-mnogie-gotovy-podpisat-kontrakt-potomu-chto-khotiat-domoi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/05/03/zdes-mnogie-gotovy-podpisat-kontrakt-potomu-chto-khotiat-domoi)
 
 ![](_assets/52/52cfbd4817d82c6d4663605625d23f93.webp)
 
@@ -76,7 +76,7 @@ tags: ""
 >
 >  **Про выборы.** Я считаю, что в нашей стране данный институт полностью разрушен, он отсутствует. Но как бы ни было, сдаваться и опускать руки нельзя ни в коем случае. Наше общее будущее, будущее наших детей создаем сейчас мы все, и мы все несем за это ответственность».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/05/02/a-pochemu-nas-ne-obmeniat-na-kogo-nibud
+**Читайте также:** [https://novayagazeta.ru/articles/2024/05/02/a-pochemu-nas-ne-obmeniat-na-kogo-nibud](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/05/02/a-pochemu-nas-ne-obmeniat-na-kogo-nibud)
 
 ![](_assets/8f/8f91c42edffa357a36c3c2780df5599d.webp)
 

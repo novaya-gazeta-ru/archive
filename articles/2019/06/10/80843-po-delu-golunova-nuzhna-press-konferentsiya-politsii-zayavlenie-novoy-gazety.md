@@ -21,4 +21,4 @@ tags: "документы, запрос, полиция, арест, задер�
 
 > Мы призываем все СМИ объединиться и добиться пресс-конференции.
 
-**link:** https://novayagazeta.ru/articles/2019/06/07/80811-za-zhurnalistom-bylo-ustanovleno-naruzhnoe-nablyudenie
+**link:** [За журналистом было установлено наружное наблюдение?](2019/06/07/80811-za-zhurnalistom-bylo-ustanovleno-naruzhnoe-nablyudenie.md)

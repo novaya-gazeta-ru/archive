@@ -13,7 +13,7 @@ tags: "льготы, минтранс, авиаперевозки"
 
 > **Есть продолжение**
 >
-> ### В ЕС рекомендовали авиакомпаниям [не летать](https://novayagazeta.ru/articles/2025/01/10/v-es-rekomendovali-aviakompaniiam-ne-letat-v-zapadnuiu-chast-rossii-vkliuchaia-moskvu-peterburg-i-ekaterinburg-iz-za-riskov-bezopasnosti-news) в западную часть России — включая Москву, Петербург и Екатеринбург из-за рисков безопасности
+> ### В ЕС рекомендовали авиакомпаниям [не летать](2025/01/10/v-es-rekomendovali-aviakompaniiam-ne-letat-v-zapadnuiu-chast-rossii-vkliuchaia-moskvu-peterburg-i-ekaterinburg-iz-za-ris.md) в западную часть России — включая Москву, Петербург и Екатеринбург из-за рисков безопасности
 
 Изменения, обязывающие размещать детей рядом с родителями, Минтранс примет до 14 января, [сообщил](https://www.rbc.ru/rbcfreenews/677ff7019a79477bcfe919b8) министр Роман Старовойт во время совещания с Путиным. По его словам, норма уже учтена в общих правилах перевозок пассажиров, грузов и почты.
 

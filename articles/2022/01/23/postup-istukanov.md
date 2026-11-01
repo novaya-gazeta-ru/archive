@@ -39,7 +39,7 @@ tags: ""
 
 > подпись Руденко неизменно присутствует под многими стыдными для советской юстиции документами.
 
-…Сейчас, значит, памятник в Новосибирске. [Памятник юристу](https://novayagazeta.ru/articles/2022/01/20/v-novosibirske-ustanovili-biust-genprokurora-sssr-romana-rudenko-on-byl-chlenom-osoboi-troiki-nkvd-prigovarivavshei-liudei-k-rasstrelu-news), более всего прославленному верностью власти как таковой. И готового на все, чтобы выполнить ее волю.
+…Сейчас, значит, памятник в Новосибирске. [Памятник юристу](2022/01/20/v-novosibirske-ustanovili-biust-genprokurora-sssr-romana-rudenko-on-byl-chlenom-osoboi-troiki-nkvd-prigovarivavshei-liud.md), более всего прославленному верностью власти как таковой. И готового на все, чтобы выполнить ее волю.
 
 ![](_assets/af/af4121c83b882173c47a650d6b93e515.webp)
 
@@ -51,4 +51,4 @@ tags: ""
 
 Ранее худсовет города отказался одобрить идею памятника — из-за того, что обе справки на героя оказались в вопиющем противоречии. К тому же неясно, какое отношение Роман Александрович имел именно к Новосибирску?
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/05/stalinskoe-razstreliat
+**Читайте также:** [Сталинское «разстрелять»](2021/11/05/stalinskoe-razstreliat.md)

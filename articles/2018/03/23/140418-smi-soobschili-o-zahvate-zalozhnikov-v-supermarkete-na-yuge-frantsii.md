@@ -13,7 +13,7 @@ tags: "заложники, франция"
 
 > **продолжение**
 >
-> Захвативший заложников в магазине на юге Франции потребовал освободить «парижского террориста».<br> Читайте [здесь](https://www.novayagazeta.ru/news/2018/03/23/140424-smi-zahvativshiy-zalozhnikov-v-magazine-na-yuge-frantsii-potreboval-osvobodit-parizhskogo-terrorista)
+> Захвативший заложников в магазине на юге Франции потребовал освободить «парижского террориста».<br> Читайте [здесь](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/03/23/140424-smi-zahvativshiy-zalozhnikov-v-magazine-na-yuge-frantsii-potreboval-osvobodit-parizhskogo-terrorista)
 
 Полиция проводит операцию в городе Треб на юге Франции. Об этом [сообщает](https://www.reuters.com/article/us-france-security/french-police-carrying-out-operation-in-southern-france-idUSKBN1GZ1EY?il=0) Reuters со ссылкой на министерство внутренних дел Франции.
 
@@ -27,4 +27,4 @@ tags: "заложники, франция"
 
 Позднее состоялся захват заложников в супермаркете в Требе, расположенном менее, чем в 10 км. По всей вероятности, оба нападения совершил один и тот же человек.
 
-**link:** https://novayagazeta.ru/articles/2018/01/08/75082-charlie-hebdo-dorogo-platit-za-svoyu-bezopasnost
+**link:** [Charlie Hebdo дорого платит за свою безопасность](2018/01/08/75082-charlie-hebdo-dorogo-platit-za-svoyu-bezopasnost.md)

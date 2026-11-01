@@ -17,16 +17,16 @@ tags: ""
 		<tr>
 			<td>
 				<p class="g-justify-right" style="">
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/06/22/1340375891_092900_23.jpg" style="width: 360px; height: 240px; "><br class="g-justify-right" style="">
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/06/22/1340375891_092900_23.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/06/22/1340375891_092900_23.jpg)" style="width: 360px; height: 240px; "><br class="g-justify-right" style="">
 					<sup>Адам Тарамов («Плохиш»)</sup></p>
 			</td>
 		</tr>
 		<tr>
 			<td class="g-justify-right" style="">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/06/22/1340375891_383441_67.png" style="width: 360px; height: 255px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/06/22/1340375891_383441_67.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/06/22/1340375891_383441_67.png)" style="width: 360px; height: 255px; "></p>
 				<p style="">
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/06/22/1340375891_244131_22.png" style="width: 360px; height: 246px; "><br style="">
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/06/22/1340375891_244131_22.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/06/22/1340375891_244131_22.png)" style="width: 360px; height: 246px; "><br style="">
 					<sup>Чекист Курбанов и его «стечкин» с перламутровой рукояткой</sup></p>
 			</td>
 		</tr>

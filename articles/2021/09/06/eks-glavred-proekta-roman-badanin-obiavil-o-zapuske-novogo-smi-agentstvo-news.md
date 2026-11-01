@@ -19,11 +19,11 @@ tags: "ng, баданин, журналисты"
 
 Первый материал «Агентства» вышел уже сегодня, 6 сентября. Он посвящен министру обороны РФ Сергею Шойгу.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/16/shest-let-za-proekt
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/16/shest-let-za-proekt](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/16/shest-let-za-proekt)
 
-Генпрокуратура 15 июля [признала](https://novayagazeta.ru/articles/2021/07/16/proekt-obiavil-o-likvidatsii-iurlitsa-priznannogo-nezhelatelnym-izdanie-prodolzhit-rabotu) деятельность компании Project Media, Inc. «нежелательной» на территории России. Параллельно с этим Минюст [внес](https://minjust.gov.ru/ru/documents/7755/) в реестр СМИ, выполняющих функции иностранного агента, журналистов «Проекта», включая главреда Баданина. На следующий день редакция сообщила, что компания-издатель «Проекта» ликвидирована.
+Генпрокуратура 15 июля [признала](2021/07/16/proekt-obiavil-o-likvidatsii-iurlitsa-priznannogo-nezhelatelnym-izdanie-prodolzhit-rabotu.md) деятельность компании Project Media, Inc. «нежелательной» на территории России. Параллельно с этим Минюст [внес](https://minjust.gov.ru/ru/documents/7755/) в реестр СМИ, выполняющих функции иностранного агента, журналистов «Проекта», включая главреда Баданина. На следующий день редакция сообщила, что компания-издатель «Проекта» ликвидирована.
 
-В конце июля Баданин и редактор издания Михаил Рубин** [объявили](https://novayagazeta.ru/articles/2021/07/29/redaktory-proekta-roman-badanin-i-mikhail-rubin-zaiavili-chto-ne-planiruiut-vozvrashchatsia-v-rossiiu-i-evakuiruiut-ostalnykh-zhurnalistov-izdaniia) об эвакуации своих сотрудников из России. Сами они находятся за рубежом и пока не планируют возвращаться на родину.
+В конце июля Баданин и редактор издания Михаил Рубин** [объявили](2021/07/29/redaktory-proekta-roman-badanin-i-mikhail-rubin-zaiavili-chto-ne-planiruiut-vozvrashchatsia-v-rossiiu-i-evakuiruiut-osta.md) об эвакуации своих сотрудников из России. Сами они находятся за рубежом и пока не планируют возвращаться на родину.
 
 #### *Генпрокуратура признала организацию «нежелательной» на территории РФ
 

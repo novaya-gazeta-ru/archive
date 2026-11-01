@@ -63,4 +63,4 @@ tags: ""
 
 *Прощание 17 января в 10 в МХТ.*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/10/volna-butusova-news
+**Читайте также:** [Волна Бутусова](2025/08/10/volna-butusova-news.md)

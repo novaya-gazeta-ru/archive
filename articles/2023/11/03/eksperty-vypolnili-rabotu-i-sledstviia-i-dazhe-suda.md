@@ -52,4 +52,4 @@ tags: "скочиленко, суд, эксперты"
 >
 > **Книги художницы Александры Скочиленко «Книга о депрессии. Записки о депрессии. Что такое мания?» есть в магазине «Новой газеты». Купить можно **[**тут**](https://novaya.shop/catalog/knigi/polnoe-sobranie-poter/aleksandra-skochilenko-kniga-o-depressii-zapiski-o-depressi-chto-takoe-maniya/)**.**
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/10/21/ia-ne-ponimaiu-chto-tut-napisano-i-nikto-ne-poimet
+**Читайте также:** [«Я не понимаю, что тут написано. И никто не поймет»](2023/10/21/ia-ne-ponimaiu-chto-tut-napisano-i-nikto-ne-poimet.md)

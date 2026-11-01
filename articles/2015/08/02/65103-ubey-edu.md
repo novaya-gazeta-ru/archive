@@ -23,9 +23,9 @@ tags: "продовольственное эмбарго, санкции"
 
 Еда — от сыра до хамона — В стране сегодня вне закона. Пельмень, сосиска, макарона Пусть будут с ними в том ряду. Еда потребна вам для жизни, А жить желают только слизни. Настанет день, когда в Отчизне Мы уничтожим всю еду.
 
-**link:** https://novayagazeta.ru/columns/69413.html
+**link:** [https://novayagazeta.ru/columns/69413.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/69413.html)
 
-**link:** https://novayagazeta.ru/columns/69413.html
+**link:** [https://novayagazeta.ru/columns/69413.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/69413.html)
 
 Глядишь, в ближайшие недели Поможет кризис в нашем деле. Кто были пухлы — похудели, И горе, если вы худы! Еда потребна ренегату, А не волхву и не солдату. Уже сегодня на зарплату Почти нельзя купить еды.
 

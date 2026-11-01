@@ -23,4 +23,4 @@ tags: ""
 
 По словам Трампа, в прошлый его президентский срок РФ и США [были близки](https://tass.ru/mezhdunarodnaya-panorama/22958921) к достижению такого соглашения.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/20/podletnoe-vremia
+**Читайте также:** [Подлетное время](2024/12/20/podletnoe-vremia.md)

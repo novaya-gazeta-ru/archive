@@ -119,9 +119,9 @@ tags: "блокада, крым, украина, электростанции"
 
 Из магазина меня отпустили, еще раз удостоверившись, что телефон выключен.
 
-**link:** https://novayagazeta.ru/society/70908.html
+**link:** [https://novayagazeta.ru/society/70908.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70908.html)
 
-**link:** https://novayagazeta.ru/society/70908.html
+**link:** [https://novayagazeta.ru/society/70908.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70908.html)
 
 # «Сейчас каждый заботится о других»
 

@@ -35,7 +35,7 @@ tags: "СВОП , заявление, совет по внешней и обор
 
 > Это уже не теоретические концепты. Это — не только прямая угроза всему человечеству, но и вполне конкретное предложение убить всех, кто нам дорог и кого мы любим.
 
-**Мнение читателей «Новой»:** https://novayagazeta.ru/articles/2023/07/18/98-chitatelei-novoi-gazety-ne-nazhali-by-na-iadernuiu-knopku-esli-by-reshenie-zaviselo-lichno-ot-nikh
+**Мнение читателей «Новой»:** [98% читателей «Новой газеты» не нажали бы на ядерную кнопку, если бы решение зависело лично от них](2023/07/18/98-chitatelei-novoi-gazety-ne-nazhali-by-na-iadernuiu-knopku-esli-by-reshenie-zaviselo-lichno-ot-nikh.md)
 
 Мы, члены Совета по внешней и оборонной политике, считаем такие предложения абсолютно неприемлемыми и безоговорочно осуждаем их.
 
@@ -76,8 +76,8 @@ tags: "СВОП , заявление, совет по внешней и обор
 
 > **комментарий**
 >
-> О значении этого заявления читайте [в колонке Андрея Колесникова](https://novayagazeta.ru/articles/2023/07/18/malenkii-bunt-protiv-bolshogo-iadernogo-udara)*.
+> О значении этого заявления читайте [в колонке Андрея Колесникова](2023/07/18/malenkii-bunt-protiv-bolshogo-iadernogo-udara.md)*.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/07/18/malenkii-bunt-protiv-bolshogo-iadernogo-udara
+**Читайте также:** [Маленький бунт против большого ядерного удара](2023/07/18/malenkii-bunt-protiv-bolshogo-iadernogo-udara.md)
 
 #### * Включен Минюстом в реестр иноагентов.

@@ -235,7 +235,7 @@ tags: "рак, онкология, онкозаболевания, онколо�
 
 Вдобавок, когда опухоль лизируется, она сообщает иммунным клеткам организма: вот она я, смотрите, так выглядит раковая клетка. И тут сигнал опасности начинает звучать в организме во всю мощь, иммунитет может начать атаку на метастазы.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/15/uekhali-samye-perspektivnye-i-ne-tolko-vrachi
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/15/uekhali-samye-perspektivnye-i-ne-tolko-vrachi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/15/uekhali-samye-perspektivnye-i-ne-tolko-vrachi)
 
 **— Любой вирус, который неопасен для человека, может быть онколитическим?**
 

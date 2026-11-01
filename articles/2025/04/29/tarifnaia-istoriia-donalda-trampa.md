@@ -198,6 +198,6 @@ tags: "трамп, америка, сша, тарифы, истрия, зако�
 >
 > Посмотрим, чем все это закончится».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/18/obshchii-mirovoi-besporiadok
+**Читайте также:** [Общий мировой беспорядок](2025/04/18/obshchii-mirovoi-besporiadok.md)
 
 > Этот текст вышел во [втором](http://t.me/LLCNewSalesBot/Catalog)номере журнала «Новое обозрение».

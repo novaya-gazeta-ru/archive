@@ -17,7 +17,7 @@ tags: "немцов, марш, москва, акции протеста, кас
 
 *Начало марша. Фото: Виктория Одиссонова*
 
-**link:** https://novayagazeta.ru/articles/2017/02/26/71620-marsh-pamyati-borisa-nemtsova
+**link:** [Марш памяти Бориса Немцова. Видео](2017/02/26/71620-marsh-pamyati-borisa-nemtsova.md)
 
 ![](_assets/fa/fa806fd32494dba80d2bc2d93827a8bd.webp)
 
@@ -27,7 +27,7 @@ tags: "немцов, марш, москва, акции протеста, кас
 
 *Фото: Влад Докшин*
 
-**link:** https://novayagazeta.ru/articles/2017/02/26/71616-marsh-pamyati-borisa-nemtsova
+**link:** [«Это траурный марш, но мы здесь не для того, чтобы плакать»](2017/02/26/71616-marsh-pamyati-borisa-nemtsova.md)
 
 ![](_assets/e6/e657f674a0330bc37a2502e3a7c911cf.webp)
 

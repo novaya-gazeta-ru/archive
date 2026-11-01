@@ -25,4 +25,4 @@ tags: "взятка, коррупция, ai"
 
 Всего по трем делам о взятках во время съемок проходят шесть человек — Большаков и пять полицейских.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/11/prishestvie-zveria
+**Читайте также:** [https://novayagazeta.ru/articles/2021/03/11/prishestvie-zveria](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/03/11/prishestvie-zveria)

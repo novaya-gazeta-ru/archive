@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *Похороны Пригожина в режиме спецоперации, как страна собирает детей в школу на микрокредиты и последнее слово журналиста Афанасьева*
 
-https://novayagazeta.ru/issues/3266
+[https://novayagazeta.ru/issues/3266](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3266)

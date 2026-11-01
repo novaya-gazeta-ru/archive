@@ -29,4 +29,4 @@ tags: "facebook, смена названия, meta, соцсети, da"
 
 Цукерберг потратит на ее разработку не менее 10 млрд долларов в 2021 году, а также ему понадобится не менее 10 тысяч сотрудников, проживающих в Евросоюзе.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/11/metodichka-po-raschleneniiu-facebook
+**Читайте также:** [Методичка по расчленению Facebook](2021/10/11/metodichka-po-raschleneniiu-facebook.md)

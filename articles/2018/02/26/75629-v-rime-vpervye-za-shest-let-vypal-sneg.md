@@ -43,7 +43,7 @@ tags: "снег, фото, италия"
 
 *Фото: @andreaverp / Instagram*
 
-**link:** https://novayagazeta.ru/articles/2018/02/05/75396-vse-otnosilis-s-ponimaniem
+**link:** [Дворники устали, «скорые» прорвались, овцебыки — в порядке!](2018/02/05/75396-vse-otnosilis-s-ponimaniem.md)
 
 ![](_assets/ab/ab0ab4dabfbb7ce539333c14ea6a59e2.webp)
 

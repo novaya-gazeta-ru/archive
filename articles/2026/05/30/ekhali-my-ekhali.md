@@ -20,4 +20,4 @@ tags: "саруханов, мостовщиков"
  И вот теперь приехали.\
  Но только вот куда?
 
-**другое великостишие:** https://novayagazeta.ru/articles/2026/05/23/nad-nami-v-nebe-vechnosti-prorochestvo
+**другое великостишие:** [Над нами в небе — вечности пророчество](2026/05/23/nad-nami-v-nebe-vechnosti-prorochestvo.md)

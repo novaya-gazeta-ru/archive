@@ -19,8 +19,8 @@ tags: "sf, Театр doc., габышев, шаман"
 
 30 октября на «Площадке 8/3» [состоялся](https://teatrdoc.ru/events.php?id=336) премьерный показ кукольного спектакля Беаты Бубенец «Сказка о Шамане». В основу сюжета документального спектакля легла история шамана Александра Габышева, который в 2019 году пешком шел до Москвы, чтобы «изгнать» президента России Владимира Путина. Спектакль поставили при поддержке Минкульта и Союза театральных деятелей.
 
-**link:** https://novayagazeta.ru/articles/2020/06/02/85664-shaman-sidit-sud-idet
+**link:** [Шаман сидит, суд идет](2020/06/02/85664-shaman-sidit-sud-idet.md)
 
-Габышева насильно [отвезли](https://novayagazeta.ru/news/2020/05/12/161404-yakutskogo-shamana-aleksandra-gabysheva-zaderzhali-i-uvezli-v-psihiatricheskuyu-bolnitsu) в психиатрическую больницу в середине мая. Когда шаман подал заявление о выписке, комиссия признала его опасным для себя и окружающих. В июне суд [постановил](https://novayagazeta.ru/news/2020/06/02/161984-sud-otpravil-yakutskogo-shamana-gabysheva-na-prinuditelnoe-lechenie-v-psihdispanser) отправить его на принудительное лечение в психиатрический диспансер.
+Габышева насильно [отвезли](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/05/12/161404-yakutskogo-shamana-aleksandra-gabysheva-zaderzhali-i-uvezli-v-psihiatricheskuyu-bolnitsu) в психиатрическую больницу в середине мая. Когда шаман подал заявление о выписке, комиссия признала его опасным для себя и окружающих. В июне суд [постановил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/06/02/161984-sud-otpravil-yakutskogo-shamana-gabysheva-na-prinuditelnoe-lechenie-v-psihdispanser) отправить его на принудительное лечение в психиатрический диспансер.
 
 В иске диспансера утверждалось, что Габышев «страдает переоценкой своей личности», потому что он высказывает идеи «навредить правительству и свергнуть Путина, так как тот является демоном и Антихристом», а также «призывает к свержению законно избранной власти».

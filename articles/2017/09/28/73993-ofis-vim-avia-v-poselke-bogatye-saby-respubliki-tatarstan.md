@@ -25,4 +25,4 @@ tags: "татарстан, авиакомпании, авиация"
 
 Информацию подтверждает издание «Бизнес.Онлайн»
 
-**link:** https://novayagazeta.ru/news/2017/09/28/135657-sledstvennyy-komitet-zaderzhal-gendirektora-i-glavbuha-vim-avia
+**link:** [https://novayagazeta.ru/news/2017/09/28/135657-sledstvennyy-komitet-zaderzhal-gendirektora-i-glavbuha-vim-avia](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/09/28/135657-sledstvennyy-komitet-zaderzhal-gendirektora-i-glavbuha-vim-avia)

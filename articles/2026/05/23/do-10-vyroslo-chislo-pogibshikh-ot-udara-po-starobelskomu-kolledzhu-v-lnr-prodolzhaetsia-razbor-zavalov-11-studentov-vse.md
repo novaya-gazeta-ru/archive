@@ -13,7 +13,7 @@ tags: ""
 
 > **Есть продолжение**
 >
-> ### [Власти ЛНР опубликовали поименные списки погибших, раненых и пропавших без вести после удара по старобельскому колледжу](https://novayagazeta.ru/articles/2026/05/23/vlasti-lnr-opublikovali-poimennye-spiski-pogibshikh-ranenykh-i-propavshikh-bez-vesti-posle-udara-po-starobelskomu-kolledzhu-news)
+> ### [Власти ЛНР опубликовали поименные списки погибших, раненых и пропавших без вести после удара по старобельскому колледжу](2026/05/23/vlasti-lnr-opublikovali-poimennye-spiski-pogibshikh-ranenykh-i-propavshikh-bez-vesti-posle-udara-po-starobelskomu-kolled.md)
 
 ![](_assets/f1/f14b5e6be50eb186ed6e06d1c81be175.webp)
 

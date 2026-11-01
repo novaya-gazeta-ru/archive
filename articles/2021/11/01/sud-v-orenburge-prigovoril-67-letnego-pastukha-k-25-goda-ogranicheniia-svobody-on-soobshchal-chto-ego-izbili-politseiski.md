@@ -33,6 +33,6 @@ tags: "полицейское насилие, оренбург, комитет �
 
 По заявлению самого Турсумбаева о применении силы полицейскими СК отказался возбуждать уголовное дело.
 
-19 октября в Оренбурге по делу о превышении полномочий с применением насилия (п. «а» ч. 3 ст. 286 УК) [задержали](https://novayagazeta.ru/articles/2021/10/19/v-orenburge-zaderzhali-troikh-politseiskikh-izbivshikh-i-ugrozhavshikh-iznasilovat-mestnogo-zhitelia-esli-on-ne-soznaetsia-v-krazhe-telefona-news) троих полицейских, подозреваемых в избиении и угрозах изнасилования 18-летнего Геннадия Швецова. Силовики вынуждали его признаться в краже в телефоне.
+19 октября в Оренбурге по делу о превышении полномочий с применением насилия (п. «а» ч. 3 ст. 286 УК) [задержали](2021/10/19/v-orenburge-zaderzhali-troikh-politseiskikh-izbivshikh-i-ugrozhavshikh-iznasilovat-mestnogo-zhitelia-esli-on-ne-soznaets.md) троих полицейских, подозреваемых в избиении и угрозах изнасилования 18-летнего Геннадия Швецова. Силовики вынуждали его признаться в краже в телефоне.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/15/on-skazal-chto-budet-petushit-orenburzhets-zaiavil-chto-politseiskie-izbili-ego-i-ugrozhali-iznasilovat-esli-on-ne-soznaetsia-v-krazhe-telefona-news
+**Читайте также:** [«Он сказал, что будет «петушить». Оренбуржец заявил, что полицейские избили его и угрожали изнасиловать, если он не сознается в краже телефона](2021/10/15/on-skazal-chto-budet-petushit-orenburzhets-zaiavil-chto-politseiskie-izbili-ego-i-ugrozhali-iznasilovat-esli-on-ne-sozna.md)

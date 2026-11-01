@@ -13,4 +13,4 @@ tags: ""
 
 *К 1980-м страна, отправлявшая спутники в космос, не могла заинтересовать своих граждан работой. Что было делать?*
 
-https://novayagazeta.ru/articles/2022/08/31/mikhail-gorbachev-osvoboditel-truda
+[Михаил Горбачев, освободитель труда](2022/08/31/mikhail-gorbachev-osvoboditel-truda.md)

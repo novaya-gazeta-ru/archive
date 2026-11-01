@@ -11,7 +11,7 @@ tags: "муратов, нобелевская премия, пытки, kn"
 
 # Главред «Новой» Муратов в нобелевской речи призвал создать Международный трибунал против пыток
 
-Главный редактор «Новой газеты» Дмитрий Муратов в своей речи на церемонии вручения Нобелевской премии мира в Осло [выступил](https://novayagazeta.ru/articles/2021/12/10/antidot-ot-tiranii) с инициативой создания Международного трибунала против пыток.
+Главный редактор «Новой газеты» Дмитрий Муратов в своей речи на церемонии вручения Нобелевской премии мира в Осло [выступил](2021/12/10/antidot-ot-tiranii.md) с инициативой создания Международного трибунала против пыток.
 
 ![](_assets/c7/c7dcc27deaaae97e88b5dc8e911a022d.webp)
 
@@ -23,21 +23,21 @@ tags: "муратов, нобелевская премия, пытки, kn"
 
 В вопросе раскрытия пыток лауреат надеется на журналистов-расследователей. «Пытки должны быть признаны тяжелейшим преступлением против гуманности», — подчеркнул Муратов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/10/antidot-ot-tiranii
+**Читайте также:** [Антидот от тирании](2021/12/10/antidot-ot-tiranii.md)
 
 В середине октября бывший заключенный, гражданин Беларуси и программист Сергей Савельев для публикации собранные им видео с пытками заключенных из саратовской тюремной туберкулезной больницы №1. На одном из видео двое мужчин держат заключенного, привязанного к койке, в то время как третий мужчина засовывает ему обмотанную клейкой лентой швабру в анальное отверстие. На других записях видны сцены избиений и однополого изнасилования без презерватива.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/06/drenazh-kateter-eshche-dve-kakie-to-trubki-iz-menia-torchat-zachem-ia-vyzhil
+**Читайте также:** [«Дренаж, катетер, две трубки из меня торчат. Зачем я выжил?»](2021/12/06/drenazh-kateter-eshche-dve-kakie-to-trubki-iz-menia-torchat-zachem-ia-vyzhil.md)
 
-После публикации видео с пытками заключенных президент Владимир Путин [уволил](https://novayagazeta.ru/articles/2021/11/26/peskov-zaiavil-chto-uvolnenie-kalashnikova-s-posta-glavy-fsin-ne-sviazano-s-soobshcheniiami-o-pytkakh-zakliuchennykh-news) главу ФСИН Александра Калашникова, в отставку подал глава саратовского УФСИН Алексей Федотов, всего было уволено 18 сотрудников регионального управления службы. СК [возбудил](https://novayagazeta.ru/articles/2021/10/06/sk-vozbudil-sem-del-o-pytkakh-osuzhdennykh-v-saratovskoi-oblasti-nachalniki-ufsin-i-tiuremnoi-bolnitsy-uvoleny-news) дела о применении насилия к осужденным в регионе.
+После публикации видео с пытками заключенных президент Владимир Путин [уволил](2021/11/26/peskov-zaiavil-chto-uvolnenie-kalashnikova-s-posta-glavy-fsin-ne-sviazano-s-soobshcheniiami-o-pytkakh-zakliuchennykh-new.md) главу ФСИН Александра Калашникова, в отставку подал глава саратовского УФСИН Алексей Федотов, всего было уволено 18 сотрудников регионального управления службы. СК [возбудил](2021/10/06/sk-vozbudil-sem-del-o-pytkakh-osuzhdennykh-v-saratovskoi-oblasti-nachalniki-ufsin-i-tiuremnoi-bolnitsy-uvoleny-news.md) дела о применении насилия к осужденным в регионе.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/06/pytok-stanovitsia-bolshe-i-oni-vse-izoshchrennee
+**Читайте также:** [«Пыток становится больше, и они все изощреннее»](2021/12/06/pytok-stanovitsia-bolshe-i-oni-vse-izoshchrennee.md)
 
-Публикация свидетельств пыток в саратовской системе ФСИН стала одним из самых громких кейсов в современной истории истязаний в пенитенциарной системе России наряду с пытками заключенных в [Иркутской](https://novayagazeta.ru/articles/2021/10/29/v-irkutskoi-oblasti-protiv-razrabotchika-po-klichke-psikh-vozbudili-delo-ob-iznasilovanii-v-sizo-1-news) и [Ярославской](https://novayagazeta.ru/articles/2021/03/12/sud-v-iaroslavle-ostavil-v-sile-opravdatelnyi-prigovor-eks-nachalstvu-ik-1-po-delu-o-pytkakh-zakliuchennykh) областях.
+Публикация свидетельств пыток в саратовской системе ФСИН стала одним из самых громких кейсов в современной истории истязаний в пенитенциарной системе России наряду с пытками заключенных в [Иркутской](2021/10/29/v-irkutskoi-oblasti-protiv-razrabotchika-po-klichke-psikh-vozbudili-delo-ob-iznasilovanii-v-sizo-1-news.md) и [Ярославской](2021/03/12/sud-v-iaroslavle-ostavil-v-sile-opravdatelnyi-prigovor-eks-nachalstvu-ik-1-po-delu-o-pytkakh-zakliuchennykh.md) областях.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/29/v-irkutskoi-oblasti-protiv-razrabotchika-po-klichke-psikh-vozbudili-delo-ob-iznasilovanii-v-sizo-1-news
+**Читайте также:** [В Иркутской области против «разработчика» по кличке «Псих» возбудили дело об изнасиловании в СИЗО-1](2021/10/29/v-irkutskoi-oblasti-protiv-razrabotchika-po-klichke-psikh-vozbudili-delo-ob-iznasilovanii-v-sizo-1-news.md)
 
-8 октября Норвежский Нобелевский комитет в Осло [присудил](https://novayagazeta.ru/articles/2021/10/08/glavnyi-redaktor-novoi-gazety-dmitrii-muratov-i-filippinskaia-zhurnalistka-mariia-resa-stali-laureatami-nobelevskoi-premii-mira-news) премию мира Дмитрию Муратову и основательнице филиппинского издания Rappler Марии Ресса за «усилия по сохранению свободы мысли как непременного условия для демократии и прочного мира».
+8 октября Норвежский Нобелевский комитет в Осло [присудил](2021/10/08/glavnyi-redaktor-novoi-gazety-dmitrii-muratov-i-filippinskaia-zhurnalistka-mariia-resa-stali-laureatami-nobelevskoi-prem.md) премию мира Дмитрию Муратову и основательнице филиппинского издания Rappler Марии Ресса за «усилия по сохранению свободы мысли как непременного условия для демократии и прочного мира».
 
 Муратов заявил, что намерен перевести свою часть Нобелевской премии (ему достанется около $600 тыс.) в фонд «Круг добра», помогающий детям с тяжелыми и редкими заболеваниями, а также на поддержку российских СМИ-«иноагентов» и в фонд помощи хосписам «Вера». Он посвятил эту премию погибшим журналистам «Новой газеты».
 

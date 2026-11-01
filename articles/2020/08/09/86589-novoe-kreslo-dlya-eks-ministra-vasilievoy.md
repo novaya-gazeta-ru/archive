@@ -25,7 +25,7 @@ tags: "образование, министерство просвещения, 
 
 В связи с тем, что это предложение осталось без ответа, позволю себе прибегнуть к жанру открытого письма и реконструировать мотивы, приведшие к столь стремительному созыву общего собрания.
 
-**link:** https://novayagazeta.ru/articles/2020/05/29/85593-dorogaya-popechitelnitsa
+**link:** [https://novayagazeta.ru/articles/2020/05/29/85593-dorogaya-popechitelnitsa](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/05/29/85593-dorogaya-popechitelnitsa)
 
 **Мотивация трудоустройства бывшего министра просвещения**
 

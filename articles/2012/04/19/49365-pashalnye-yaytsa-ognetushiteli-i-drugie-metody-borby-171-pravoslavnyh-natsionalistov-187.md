@@ -14,11 +14,11 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/04/20/1334875902_858064_81.jpg" style="width: 360px; height: 243px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/04/20/1334875902_858064_81.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/04/20/1334875902_858064_81.jpg)" style="width: 360px; height: 243px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/04/20/1334875909_966429_44.jpg" style="width: 360px; height: 245px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/04/20/1334875909_966429_44.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/04/20/1334875909_966429_44.jpg)" style="width: 360px; height: 245px; "><br>
 				<sup>Фото автора</sup></td>
 		</tr>
 	</tbody>]*

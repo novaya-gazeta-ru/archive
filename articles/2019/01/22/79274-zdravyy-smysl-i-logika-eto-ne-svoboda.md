@@ -127,4 +127,4 @@ tags: "театр.doc, михаил угаров, россия"
 
 > «Профессия – максимально ввязываться в жизнь. Взять и нырнуть. И посмотрим, что дальше».
 
-**link:** https://novayagazeta.ru/articles/2018/04/02/76027-1-aprelya-ushel-rezhisser-i-dramaturg-mihail-ugarov
+**link:** [«У Театра.doc и «Новой» было четыре общих проекта. Я хочу еще шесть»](2018/04/02/76027-1-aprelya-ushel-rezhisser-i-dramaturg-mihail-ugarov.md)

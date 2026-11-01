@@ -21,10 +21,10 @@ tags: "чупик, правозащита, мигранты, ксенофоби�
 
 Как [уточнил](https://ovdinfo.org/express-news/2021/09/27/k-84-letney-materi-pravozashchitnicy-iz-uzbekistana-prishli-siloviki?utm_source=tw&utm_medium=social) «ОВД-Инфо» адвокат Кирилл Жаринов, полицейские хотели составить на нее протокол о проживании не по месту регистрации, но не оформили никаких бумаг. Адвокат Дарья Тренина со слов Чупик [передает](https://www.facebook.com/daria.savina.395/posts/4419963984707138), что полиция нанесла визит в квартиру в Подмосковье вместе с ФСБ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/25/ne-vezzhai-ubem
+**Читайте также:** [Не въезжай — убьем](2021/09/25/ne-vezzhai-ubem.md)
 
-25 сентября сотрудники ФСБ[задержали](https://novayagazeta.ru/articles/2021/09/25/fsb-zapretila-pravozashchitnitse-chupik-vezd-v-rossiiu-do-2051-goda-ona-propala-v-sheremetevo-news) Валентину Чупик, ее собираются депортировать в Узбекистан. На родине ей угрожает опасность. Чупик считает, что ее выдворяют незаконно — за критику МВД.
+25 сентября сотрудники ФСБ[задержали](2021/09/25/fsb-zapretila-pravozashchitnitse-chupik-vezd-v-rossiiu-do-2051-goda-ona-propala-v-sheremetevo-news.md) Валентину Чупик, ее собираются депортировать в Узбекистан. На родине ей угрожает опасность. Чупик считает, что ее выдворяют незаконно — за критику МВД.
 
-В спецприемник к ней [не допускают](https://novayagazeta.ru/articles/2021/09/26/pravozashchitnitsa-valentina-chupik-vyshla-na-sviaz-iz-spetspriemnika-v-sheremetevo-k-nei-ne-dopuskaiut-advokata-news) адвоката, Чупик вынуждена находиться в помещении с очень ярким светом, от которого она практически перестала видеть. В камере нет кипятка, гигиенических принадлежностей и вентиляции. Комитет против пыток [направил](https://novayagazeta.ru/articles/2021/09/27/komitet-protiv-pytok-obratilsia-v-espch-v-sviazi-s-zaderzhaniem-i-deportatsiei-iz-rossii-pravozashchitnitsy-valentiny-chupik-news) срочное обращение в Европейский суд по правам человека в связи с задержанием правозащитницы.
+В спецприемник к ней [не допускают](2021/09/26/pravozashchitnitsa-valentina-chupik-vyshla-na-sviaz-iz-spetspriemnika-v-sheremetevo-k-nei-ne-dopuskaiut-advokata-news.md) адвоката, Чупик вынуждена находиться в помещении с очень ярким светом, от которого она практически перестала видеть. В камере нет кипятка, гигиенических принадлежностей и вентиляции. Комитет против пыток [направил](2021/09/27/komitet-protiv-pytok-obratilsia-v-espch-v-sviazi-s-zaderzhaniem-i-deportatsiei-iz-rossii-pravozashchitnitsy-valentiny-ch.md) срочное обращение в Европейский суд по правам человека в связи с задержанием правозащитницы.
 
 *Обновлено (15:36) — добавлены сведения от адвокатов*

@@ -169,4 +169,4 @@ tags: "революция, украина"
 
 ___
 
-**Читайте также: [Павел КАНЫГИН — о первых смертях на Грушевского](http://www.novayagazeta.ru/society/61913.html)**
+**Читайте также: [Павел КАНЫГИН — о первых смертях на Грушевского](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/61913.html)**

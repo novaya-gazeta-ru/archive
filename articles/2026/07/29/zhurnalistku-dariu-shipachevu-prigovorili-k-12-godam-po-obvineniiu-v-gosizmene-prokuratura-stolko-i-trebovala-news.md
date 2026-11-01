@@ -27,6 +27,6 @@ tags: ""
 
 В СИЗО продолжает заниматься научной работой, пишет диплом и надеется его защитить.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/29/tolko-ne-govorite-chto-vy-delaete-eto-ot-imeni-naroda-ot-svoego-imeni-vy-eto-delaete
+**Читайте также:** [«Только не говорите, что вы делаете это от имени народа. От своего имени вы это делаете»](2026/07/29/tolko-ne-govorite-chto-vy-delaete-eto-ot-imeni-naroda-ot-svoego-imeni-vy-eto-delaete.md)
 
 #### * Минюст включил в реестр иноагентов.

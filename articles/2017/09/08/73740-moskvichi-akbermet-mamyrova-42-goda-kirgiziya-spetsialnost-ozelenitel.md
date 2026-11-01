@@ -65,18 +65,18 @@ tags: "как это устроено, мигранты, москвичи"
 
 **Светлана Виданова**, специально для «Новой»
 
-**link:** https://novayagazeta.ru/articles/2017/09/08/73746-moskvichi-karen-tatoyan-43-goda-i-misha-kotandzhyan-40-let-armeniya-spetsialnost-ukladchiki-trotuarnoy-plitki
+**link:** [Армяне кладут плитку на Садовом](2017/09/08/73746-moskvichi-karen-tatoyan-43-goda-i-misha-kotandzhyan-40-let-armeniya-spetsialnost-ukladchiki-trotuarnoy-plitki.md)
 
-**link:** https://novayagazeta.ru/articles/2017/09/08/73747-moskvichi-muhiddin-42-goda-uzbekistan-spetsialnost-dvornik
+**link:** [Узбек работает дворником в Ясенево](2017/09/08/73747-moskvichi-muhiddin-42-goda-uzbekistan-spetsialnost-dvornik.md)
 
-**link:** https://novayagazeta.ru/articles/2017/09/08/73742-moskvichi-viorel-hyrzheu-32-goda-moldaviya-spetsialnost-sborschik-monumentalnyh-figur
+**link:** [Молдаванин собирает «Стену Скорби» на Сахарова](2017/09/08/73742-moskvichi-viorel-hyrzheu-32-goda-moldaviya-spetsialnost-sborschik-monumentalnyh-figur.md)
 
-**link:** https://novayagazeta.ru/articles/2017/09/08/73748-moskvichi-krasavchik-sharinsho-vohidov-32-goda-tadzhikistan-spetsialnost-rabochiy-stroitelnoy-ploschadki
+**link:** [Таджик Красавчик грузит стройматериалы на Садовом](2017/09/08/73748-moskvichi-krasavchik-sharinsho-vohidov-32-goda-tadzhikistan-spetsialnost-rabochiy-stroitelnoy-ploschadki.md)
 
-**link:** https://novayagazeta.ru/articles/2017/09/08/73749-moskvichi-otabek-muratov-33-goda-uzbekistan-spetsialnost-promyshlennyy-alpinist
+**link:** [Узбек меняет стекла в «Москва-сити»](2017/09/08/73749-moskvichi-otabek-muratov-33-goda-uzbekistan-spetsialnost-promyshlennyy-alpinist.md)
 
-**link:** https://novayagazeta.ru/articles/2017/09/08/73741-moskvichi-aleksandr-sergeevich-savchenko-31-god-ukraina-spetsialnost-metrostroevets
+**link:** [Украинец строит метро «Верхние Лихоборы»](2017/09/08/73741-moskvichi-aleksandr-sergeevich-savchenko-31-god-ukraina-spetsialnost-metrostroevets.md)
 
-**link:** https://novayagazeta.ru/articles/2017/09/08/73750-moskvichi-sadriddin-erdanaev-28-let-uzbekistan-spetsialnost-ukladchik-trotuarnoy-plitki
+**link:** [Узбек мостит Лубянку](2017/09/08/73750-moskvichi-sadriddin-erdanaev-28-let-uzbekistan-spetsialnost-ukladchik-trotuarnoy-plitki.md)
 
-**link:** https://novayagazeta.ru/articles/2017/09/08/73751-moskvichi-rustam-tuhtarov-42-goda-tadzhikistan-spetsialnost-ozelenitel
+**link:** [Таджик стелет газон на Китай-городе](2017/09/08/73751-moskvichi-rustam-tuhtarov-42-goda-tadzhikistan-spetsialnost-ozelenitel.md)

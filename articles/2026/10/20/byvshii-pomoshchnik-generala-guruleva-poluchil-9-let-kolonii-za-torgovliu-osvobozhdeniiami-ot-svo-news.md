@@ -25,7 +25,7 @@ tags: "Ислуев, гурулев"
 
 -
 
-Гурулев — генерал-лейтенант запаса, известный призывами к репрессиям и применению ядерного оружия. В 2023 году он предложил «как-то уничтожить» 20% россиян, не поддерживающих Владимира Путина. «Новая газета» [призывала](https://novayagazeta.ru/articles/2023/10/23/trebuem-proverit-otkrytyi-prizyv-deputata-guruleva-k-unichtozheniiu-rossiian-ne-podderzhivaiushchikh-putina-i-svo) проверить эти слова на экстремизм, но прокуратура [не нашла](https://novayagazeta.ru/articles/2023/12/05/glavnoe-ne-pereputat) нарушений.
+Гурулев — генерал-лейтенант запаса, известный призывами к репрессиям и применению ядерного оружия. В 2023 году он предложил «как-то уничтожить» 20% россиян, не поддерживающих Владимира Путина. «Новая газета» [призывала](2023/10/23/trebuem-proverit-otkrytyi-prizyv-deputata-guruleva-k-unichtozheniiu-rossiian-ne-podderzhivaiushchikh-putina-i-svo.md) проверить эти слова на экстремизм, но прокуратура [не нашла](2023/12/05/glavnoe-ne-pereputat.md) нарушений.
 
 -
 

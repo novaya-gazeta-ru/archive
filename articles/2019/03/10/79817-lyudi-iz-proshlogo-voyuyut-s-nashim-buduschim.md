@@ -27,7 +27,7 @@ tags: "протесты, свобода, суверенный интернет, 
 
 *Фото: Антон Карлинер, специально для «Новой»*
 
-**link:** https://novayagazeta.ru/articles/2019/03/10/79816-oni-lomayut-nash-internet
+**link:** [«Они ломают наш интернет»](2019/03/10/79816-oni-lomayut-nash-internet.md)
 
 ![](_assets/ff/ff31031721a0d51d1cf8d205a1c71118.webp)
 

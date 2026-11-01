@@ -17,9 +17,9 @@ tags: "немцов, следственный комитет"
 
 По данным «Новой», следователь по особо важным делам Краснов пошел на повышение: он получил должность исполняющего обязанности начальника управления по расследованию особо важных дел Главного следственного управления СК.
 
-*[media: <p><strong><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/05/15/1431689874_750444_92.jpg" style="width: 100px; height: 75px;"><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/05/15/1431689874_750444_92.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/05/15/1431689874_750444_92.jpg)" style="width: 100px; height: 75px;"><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><strong><a href="http://www.novayagazeta.ru/news/1693807.html" target="_blank">Командир чеченского батальона «Север» Делимханов получил повышение</a></strong></p>]*
+<p><strong><a href="[http://www.novayagazeta.ru/news/1693807.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1693807.html)" target="_blank">Командир чеченского батальона «Север» Делимханов получил повышение</a></strong></p>]*
 
 Ранее об этом [сообщили](http://ria.ru/incidents/20150515/1064695941.html) РИА Новости адвокат одного из обвиняемых Шамсудин Цакаев и источник в правоохранительных органах.
 

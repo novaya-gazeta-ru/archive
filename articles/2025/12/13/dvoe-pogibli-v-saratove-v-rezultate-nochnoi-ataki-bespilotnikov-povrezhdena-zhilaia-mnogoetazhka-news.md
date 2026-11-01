@@ -19,4 +19,4 @@ tags: ""
 
 Всего по области в эту ночь было запущено 28 беспилотников, [заявили](https://t.me/mod_russia/59364) в Минобороны РФ, они, по заявлению ведомства, были сбиты. Аэропорт временно прекращал работу.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/12/12/semero-postradali-v-tveri-v-rezultate-nochnoi-ataki-bespilotnikov-povrezhdena-zhilaia-mnogoetazhka-news
+**Читайте также:** [Семеро пострадали в Твери в результате ночной атаки беспилотников, повреждена жилая многоэтажка](2025/12/12/semero-postradali-v-tveri-v-rezultate-nochnoi-ataki-bespilotnikov-povrezhdena-zhilaia-mnogoetazhka-news.md)

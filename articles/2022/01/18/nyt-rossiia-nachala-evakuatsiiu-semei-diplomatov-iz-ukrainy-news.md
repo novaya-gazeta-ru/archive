@@ -21,8 +21,8 @@ tags: "война, США, украина, sn"
 
 Тем временем, как [передает](https://tass.ru/politika/13453123) ТАСС, в МИД заявили, что российское посольство в Киеве «работает в штатном режиме».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/17/voina-s-ukrainoi-verit-li-zapadnym-smi-video
+**Читайте также:** [Война с Украиной: верить ли западным СМИ? Видео](2021/12/17/voina-s-ukrainoi-verit-li-zapadnym-smi-video.md)
 
-С осени США и страны Европы [фиксируют](https://novayagazeta.ru/articles/2021/10/31/wp-v-ssha-i-evrope-zafiksirovali-narashchivanie-rossiiskikh-voisk-u-granitsy-s-ukrainoi-news) наращивание российской техники и войск к границе с Украиной. Издание Politico [сообщало](https://novayagazeta.ru/articles/2021/11/02/maxar-zafiksirovala-sosredotochenie-rossiiskikh-voisk-na-granitse-s-ukrainoi-v-kieve-perebrosku-vooruzhenii-ne-zametili-news), что на спутниковых снимках заметно скопление российских танков, бронетанковых частей, а также самоходной артиллерии и наземных войск в 250-300 км от украинской границы. В Кремле эту информацию [назвали](https://www.rbc.ru/politics/02/11/2021/6180fbff9a7947c2a34bc8e6) «вбросом».
+С осени США и страны Европы [фиксируют](2021/10/31/wp-v-ssha-i-evrope-zafiksirovali-narashchivanie-rossiiskikh-voisk-u-granitsy-s-ukrainoi-news.md) наращивание российской техники и войск к границе с Украиной. Издание Politico [сообщало](2021/11/02/maxar-zafiksirovala-sosredotochenie-rossiiskikh-voisk-na-granitse-s-ukrainoi-v-kieve-perebrosku-vooruzhenii-ne-zametili-.md), что на спутниковых снимках заметно скопление российских танков, бронетанковых частей, а также самоходной артиллерии и наземных войск в 250-300 км от украинской границы. В Кремле эту информацию [назвали](https://www.rbc.ru/politics/02/11/2021/6180fbff9a7947c2a34bc8e6) «вбросом».
 
 *Обновлено в 09.50 — добавлен комментарий МИД России. *

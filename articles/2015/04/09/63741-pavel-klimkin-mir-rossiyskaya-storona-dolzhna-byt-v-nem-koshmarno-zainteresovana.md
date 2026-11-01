@@ -39,9 +39,9 @@ tags: "война, донбасс, минские соглашения, обсе
 
 Извините, что так долго (*отвечал на первый вопрос, когда времени так мало —* **Ю.С.**)…
 
-**link:** https://novayagazeta.ru/politics/67977.html
+**link:** [https://novayagazeta.ru/politics/67977.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/67977.html)
 
-**link:** https://novayagazeta.ru/politics/67977.html
+**link:** [https://novayagazeta.ru/politics/67977.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/67977.html)
 
 **— Как вы практически видите процесс введения миротворцев, особенно учитывая резкую позицию российской стороны…**
 

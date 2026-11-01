@@ -31,7 +31,7 @@ tags: "минфин, пенсионный фонд, реформы, центро
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2016/04/27/1461773966_254121_66.jpg" style="width: 270px; height: 270px; float: right;"><sup>Фото:&nbsp;Komitetgi.ru</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2016/04/27/1461773966_254121_66.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2016/04/27/1461773966_254121_66.jpg)" style="width: 270px; height: 270px; float: right;"><sup>Фото:&nbsp;Komitetgi.ru</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -45,7 +45,7 @@ tags: "минфин, пенсионный фонд, реформы, центро
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2016/04/27/1461773966_561119_57.jpg" style="width: 270px; height: 270px; float: right;"><sup>Фото: Komitetgi.ru</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2016/04/27/1461773966_561119_57.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2016/04/27/1461773966_561119_57.jpg)" style="width: 270px; height: 270px; float: right;"><sup>Фото: Komitetgi.ru</sup></td>
 		</tr>
 	</tbody>]*
 

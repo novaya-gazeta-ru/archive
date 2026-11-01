@@ -39,4 +39,4 @@ tags: "видео, вопросы, сми, путин"
 
 Полную текстовую трансляцию пресс-конференции президента можно посмотреть здесь:
 
-**link:** https://novayagazeta.ru/articles/2017/12/14/74908-bolshaya-press-konferentsiya-vladimira-putina-onlayn
+**link:** [Большая пресс-конференция Владимира Путина. Хроника](2017/12/14/74908-bolshaya-press-konferentsiya-vladimira-putina-onlayn.md)

@@ -25,8 +25,8 @@ TotalEnergies также решила приостановить разрабо�
 
 TotalEnergies — четвертая по объему добычи в мире после Royal Dutch Shell, BritishPetroleum и ExxonMobil.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/09/neft-i-gaz-zabanili-chto-dalshe#search
+**Читайте также:** [Нефть и газ забанили. Что дальше?](2022/03/09/neft-i-gaz-zabanili-chto-dalshe.md)
 
-Деятельность в России также [приостановила](https://novayagazeta.ru/articles/2022/03/19/nefteservisnaia-kompaniia-halliburton-priostanovila-deiatelnost-v-rossii-ona-sotrudnichala-s-gazpromom-i-rosneftiu-news) компания Halliburton. Это вторая по величине нефтесервисная компания в мире. В России она сотрудничала с ключевыми компаниями по добыче нефти и газа — «Газпромом», «Газпром нефтью», «Роснефтью», «ЛУКОЙЛом» и другими.
+Деятельность в России также [приостановила](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/19/nefteservisnaia-kompaniia-halliburton-priostanovila-deiatelnost-v-rossii-ona-sotrudnichala-s-gazpromom-i-rosneftiu-news) компания Halliburton. Это вторая по величине нефтесервисная компания в мире. В России она сотрудничала с ключевыми компаниями по добыче нефти и газа — «Газпромом», «Газпром нефтью», «Роснефтью», «ЛУКОЙЛом» и другими.
 
 Кроме того, нефтесервисная компания Schlumberger заявила о приостановке инвестиций и развертывания технологий для операций в России.

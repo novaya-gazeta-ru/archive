@@ -27,7 +27,7 @@ tags: "ценности, свобода слова, париж, charlie hebdo, �
 
 > А уже после теракта (как утверждает Mediapart) в DRPP исправили дату доклада на более позднюю, — чтобы избежать ответственности. Сейчас руководство DRPP отрицает обвинения, но прокуратура Парижа была вынуждена открыть предварительное расследование.
 
-**link:** https://novayagazeta.ru/articles/2017/11/01/74419-frantsiya-vyshla-iz-chrezvychaynogo-polozheniya
+**link:** [Франция вышла из чрезвычайного положения](2017/11/01/74419-frantsiya-vyshla-iz-chrezvychaynogo-polozheniya.md)
 
 # Расследование терактов в Charlie Hebdo подходит к концу
 
@@ -77,7 +77,7 @@ tags: "ценности, свобода слова, париж, charlie hebdo, �
 
 > «Кто такие исламофобы? — писал Шарб. — Те, кто считают мусульман достаточно тупыми, чтобы воспламеняться при виде гротескного рисунка». «Считать, что ислам несовместим с юмором» — что это как не дискриминация?»
 
-**link:** https://novayagazeta.ru/articles/2015/04/22/63910-sharb-redaktor-charlie-hebdo-171-poslanie-moshennikam-ot-islamofobii-kotorye-igrayut-na-ruku-rasistam-187
+**link:** [Шарб (редактор Charlie Hebdo): «Послание мошенникам от исламофобии, которые играют на руку расистам»](2015/04/22/63910-sharb-redaktor-charlie-hebdo-171-poslanie-moshennikam-ot-islamofobii-kotorye-igrayut-na-ruku-rasistam-187.md)
 
 После поджога редакции Charlie в 2011 году, напоминает Шарб, группа интеллектуалов опубликовала открытое письмо, которое начиналось словами: «Мы утверждаем: коктейль Молотова, брошенный ночью в пустое здание редакции (…), заслуживает не более (а то и менее) серьезной политической и журналистской мобилизации, чем поджог мечети или мусульманского кладбища». Мечеть и кладбище — широко известные места для дискуссий, замечает Шарб, но все-таки нельзя забывать о том, что атака на редакцию являлась атакой на свободу слова. А это чрезвычайно опасно.
 
@@ -87,7 +87,7 @@ tags: "ценности, свобода слова, париж, charlie hebdo, �
 
 В тот же день некоторые левые интеллектуалы обвинили собравшихся в исламофобии и расизме.
 
-**link:** https://novayagazeta.ru/news/2017/11/06/136750-redaktsiya-charlie-hebdo-obratilas-v-politsiyu-posle-novyh-ugroz
+**link:** [https://novayagazeta.ru/news/2017/11/06/136750-redaktsiya-charlie-hebdo-obratilas-v-politsiyu-posle-novyh-ugroz](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/11/06/136750-redaktsiya-charlie-hebdo-obratilas-v-politsiyu-posle-novyh-ugroz)
 
 ![](_assets/12/127eb7c09fd0ba31133c3841c8ab881e.webp)
 

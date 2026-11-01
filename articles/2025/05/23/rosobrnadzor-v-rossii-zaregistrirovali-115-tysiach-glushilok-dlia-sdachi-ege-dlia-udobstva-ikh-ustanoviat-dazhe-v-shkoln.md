@@ -25,4 +25,4 @@ tags: ""
 
 После проверок СК и прокуратуры директор воронежской школы [написала](https://t.me/novaya_pishet/45474) заявление об увольнении по собственному желанию.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/05/19/zakon-o-kukharkinykh-detiakh
+**Читайте также:** [Закон о «кухаркиных детях»](2025/05/19/zakon-o-kukharkinykh-detiakh.md)

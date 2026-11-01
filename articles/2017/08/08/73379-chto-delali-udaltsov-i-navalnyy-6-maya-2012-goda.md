@@ -13,7 +13,7 @@ tags: "протесты, болотное дело, 6 мая, удальцов, 
 
 *Свидетельства очевидца*
 
-**link:** https://novayagazeta.ru/articles/2017/08/10/73437-pod-ezd-kraskoy-oblili-predatel-rossii-vernulsya-iz-zony-ya-posmeyalsya-mobilizuet-sergey-udaltsov-o-navalnom-putine-bolotnom-dele-donbasse-i-kryme
+**link:** [«Подъезд мне краской облили: предатель России вернулся из зоны»](2017/08/10/73437-pod-ezd-kraskoy-oblili-predatel-rossii-vernulsya-iz-zony-ya-posmeyalsya-mobilizuet-sergey-udaltsov-o-navalnom-puti.md)
 
 ![](_assets/10/103c457c055dc2f2abdb193060e08d2e.webp)
 

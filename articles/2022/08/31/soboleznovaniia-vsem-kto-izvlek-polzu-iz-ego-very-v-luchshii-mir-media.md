@@ -13,4 +13,4 @@ tags: ""
 
 *Реакция планеты на смерть Михаила Горбачева*
 
-https://novayagazeta.ru/articles/2022/08/31/soboleznovaniia-vsem-kto-izvlek-polzu-iz-ego-very-v-luchshii-mir
+[«Соболезнования всем, кто извлек пользу из его веры в лучший мир»](2022/08/31/soboleznovaniia-vsem-kto-izvlek-polzu-iz-ego-very-v-luchshii-mir.md)

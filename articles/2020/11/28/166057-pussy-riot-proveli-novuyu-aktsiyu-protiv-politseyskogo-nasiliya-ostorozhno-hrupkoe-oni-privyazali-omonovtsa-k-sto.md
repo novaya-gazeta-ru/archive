@@ -33,10 +33,10 @@ tags: "акционизм, kn, полицейское насилие, алехи
 
 *Фото: Pussy Riot*
 
-10 ноября Алехину, Флорес и Гельмана [задержали](https://novayagazeta.ru/news/2020/11/10/165568-v-moskve-zaderzhali-uchastnits-pussy-riot-mariyu-alehinu-i-ritu-flores-i-esche-dvuh-aktivistov) в тех же костюмах. С ними в ОВД доставили активиста Самариддина Раджабова. Еще раньше — 4 ноября — активистов Pussy Riot тоже [задерживали](https://novayagazeta.ru/news/2020/11/04/165429-v-moskve-zaderzhali-dvuh-uchastnits-pussy-riot) без уточнения причин.
+10 ноября Алехину, Флорес и Гельмана [задержали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/10/165568-v-moskve-zaderzhali-uchastnits-pussy-riot-mariyu-alehinu-i-ritu-flores-i-esche-dvuh-aktivistov) в тех же костюмах. С ними в ОВД доставили активиста Самариддина Раджабова. Еще раньше — 4 ноября — активистов Pussy Riot тоже [задерживали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/04/165429-v-moskve-zaderzhali-dvuh-uchastnits-pussy-riot) без уточнения причин.
 
 После субботней акции все участники находятся на свободе.
 
 > «Мы успели уйти. Сегодня русских в кокошниках не задержали», — прокомментировала Алехина «Новой».
 
-**link:** https://novayagazeta.ru/articles/2020/10/11/87474-ot-peterburgskih-shkolnits-do-pussy-riot
+**link:** [От петербургских школьниц до Pussy Riot](2020/10/11/87474-ot-peterburgskih-shkolnits-do-pussy-riot.md)

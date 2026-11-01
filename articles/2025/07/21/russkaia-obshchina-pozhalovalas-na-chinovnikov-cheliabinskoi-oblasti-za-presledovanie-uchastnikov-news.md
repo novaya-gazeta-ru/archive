@@ -29,4 +29,4 @@ tags: ""
 
 Активисты «Русской общины» [известны](https://t.me/novaya_pishet/46537) срывами концертов музыкантов, [рейдами](https://t.me/novaya_pishet/46734) против мигрантов, массовыми доносами и поддержкой военных действий в Украине. У организации около 150 ячеек в разных городах и регионах.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/05/15/tolko-ne-nuzhno-nazyvat-nas-natsistami
+**Читайте также:** [https://novayagazeta.ru/articles/2024/05/15/tolko-ne-nuzhno-nazyvat-nas-natsistami](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/05/15/tolko-ne-nuzhno-nazyvat-nas-natsistami)

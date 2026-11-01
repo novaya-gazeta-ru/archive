@@ -17,7 +17,7 @@ tags: "колумбайн, волгоград, ярослав иноземцев
 
 *Ярослав Иноземцев. Фото из семейного архива*
 
-Юлия пришла вместе с сыном к следователю, чтобы ознакомиться с материалами дела. Ростовский военный окружной суд [вернул](https://novayagazeta.ru/articles/2021/07/09/sud-otpustil-volgogradskogo-podrostka-iaroslava-inozemtseva-iz-pod-strazhi-pod-zapret-deistvii-on-nakhodilsia-v-psikhbolnitse-iz-za-obvinenii-v-podgotovke-kolumbaina) его уголовное дело в прокуратуру летом из-за многочисленных нарушений.
+Юлия пришла вместе с сыном к следователю, чтобы ознакомиться с материалами дела. Ростовский военный окружной суд [вернул](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/09/sud-otpustil-volgogradskogo-podrostka-iaroslava-inozemtseva-iz-pod-strazhi-pod-zapret-deistvii-on-nakhodilsia-v-psikhbolnitse-iz-za-obvinenii-v-podgotovke-kolumbaina) его уголовное дело в прокуратуру летом из-за многочисленных нарушений.
 
 Мать Ярослава рассказала, что они с сыном просидели у следователя несколько часов. В процессе ознакомления с материалами силовик, по словам Юлии, «запугивал и давил» на них. Какие у силовиков были основания для задержания — неизвестно.
 
@@ -25,10 +25,10 @@ tags: "колумбайн, волгоград, ярослав иноземцев
 
 Иноземцева задержали в июне прошлого года. По версии ФСБ, подросток готовился к атаке на школу. В качестве доказательств в деле фигурируют лишь показания друга Иноземцева и картинка с «керченским стрелком» на рабочем столе компьютера.
 
-В апреле Иноземцева перевели из СИЗО в психиатрическую больницу до того, как решение об этом вступило в законную силу. Ему не продлевали срок содержания под стражей, но, несмотря на его истечение, подростка из СИЗО [не отпустили](https://novayagazeta.ru/articles/2021/04/12/volgogradskogo-podrostka-ne-otpustili-iz-sizo-nesmotria-na-istechenie-sroka-soderzhaniia-pod-strazhei). Как рассказывала «Новая газета» со ссылкой на [подтверждение](https://novayagazeta.ru/hyper/%C2%ABhttps://novayagazeta.ru/articles/2021/05/11/promakhnulis%C2%BB) от ФСИН, Иноземцеву до решения суда и без медицинских показаний давали транквилизаторы и корректоры поведения в психбольнице «Бутырки».
+В апреле Иноземцева перевели из СИЗО в психиатрическую больницу до того, как решение об этом вступило в законную силу. Ему не продлевали срок содержания под стражей, но, несмотря на его истечение, подростка из СИЗО [не отпустили](2021/04/12/volgogradskogo-podrostka-ne-otpustili-iz-sizo-nesmotria-na-istechenie-sroka-soderzhaniia-pod-strazhei.md). Как рассказывала «Новая газета» со ссылкой на [подтверждение](https://web.archive.org/web/*/https://novayagazeta.ru/hyper/%C2%AB [https://novayagazeta.ru/articles/2021/05/11/promakhnulis%C2%BB](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/05/11/promakhnulis%C2%BB)) от ФСИН, Иноземцеву до решения суда и без медицинских показаний давали транквилизаторы и корректоры поведения в психбольнице «Бутырки».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/04/mezhdu-psikhushkoi-i-koloniei
+**Читайте также:** [https://novayagazeta.ru/articles/2021/03/04/mezhdu-psikhushkoi-i-koloniei](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/03/04/mezhdu-psikhushkoi-i-koloniei)
 
 В июле 2021 году дело вернули в прокуратуру, а Иноземцеву назначили запрет определенных действий. Ему нельзя было получать и отправлять корреспонденцию, приближаться к школе, общаться со свидетелями и потерпевшими по делу, а также пользоваться компьютером.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/05/11/promakhnulis
+**Читайте также:** [Промахнулись](2021/05/11/promakhnulis.md)

@@ -131,7 +131,7 @@ _В основном чиновники не владеют зарубежной
 
 Супруга министра труда Максима Топилина задекларировала квартиру и гараж в Болгарии.
 
-**link:** https://novayagazeta.ru/news/1701729.html
+**link:** [https://novayagazeta.ru/news/1701729.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1701729.html)
 
 **Администрация президента:**
 

@@ -15,4 +15,4 @@ tags: "камертон, премия, журналистика"
 
 #### * признан Минюстом РФ иноагентом
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/31/pod-oknami-redaktsii-tsvetet-anin-sad
+**Читайте также:** [Под окнами редакции цветет Анин сад](2021/08/31/pod-oknami-redaktsii-tsvetet-anin-sad.md)

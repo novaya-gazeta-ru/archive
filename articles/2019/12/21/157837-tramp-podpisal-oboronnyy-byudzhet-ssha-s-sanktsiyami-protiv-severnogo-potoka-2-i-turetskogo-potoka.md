@@ -19,6 +19,6 @@ tags: "северный поток 2, россия, трамп, сша, санк
 
 Перед принятием оборонного бюджета швейцарская компания Allseas, трубоукладчик «Северного потока-2», [заявила](https://allseas.com/wp-content/uploads/2019/12/2019-1221-Media-statement-Allseas-discontinues-Nord-Stream-2-pipelay.pdf) о приостановке строительства газопровода. «Allseas ожидает руководства, включающего в себя необходимые нормативные, технические и экологические разъяснения от властей США», — отметили в компании.
 
-СМИ [отмечали](http://novayagazeta.ru/news/2019/12/10/157553-v-oboronnyy-byudzhet-ssha-zalozhili-sanktsii-protiv-rossiyskih-gazoprovodov-severnyy-potok-2-i-turetskiy-potok), что под ограничения могут попасть, помимо Allseas, немецкие компании, сотрудничающие с «Газпромом». Пресс-секретарь президента России Дмитрий Песков [говорил](https://www.interfax.ru/world/688433), что санкции не появлиют на строительство «Северного потока-2», его закончат.
+СМИ [отмечали](https://web.archive.org/web/*/http://novayagazeta.ru/news/2019/12/10/157553-v-oboronnyy-byudzhet-ssha-zalozhili-sanktsii-protiv-rossiyskih-gazoprovodov-severnyy-potok-2-i-turetskiy-potok), что под ограничения могут попасть, помимо Allseas, немецкие компании, сотрудничающие с «Газпромом». Пресс-секретарь президента России Дмитрий Песков [говорил](https://www.interfax.ru/world/688433), что санкции не появлиют на строительство «Северного потока-2», его закончат.
 
-**link:** https://novayagazeta.ru/articles/2019/12/18/83211-ptitsy-ili-sanktsii
+**link:** [https://novayagazeta.ru/articles/2019/12/18/83211-ptitsy-ili-sanktsii](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/12/18/83211-ptitsy-ili-sanktsii)

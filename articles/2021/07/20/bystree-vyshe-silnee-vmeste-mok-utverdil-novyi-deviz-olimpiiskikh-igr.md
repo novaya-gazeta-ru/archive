@@ -17,6 +17,6 @@ tags: ""
 
 Девиз «citius, fortius, altius» был утвержден первым олимпийским конгрессом в 1894 году, [отмечает](https://sportrbc.ru/news/60f674929a7947d9129a1fdf?from=newsfeed) РБК. \
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/16/olimpiadskie-muki
+**Читайте также:** [Олимпиадские муки](2021/07/16/olimpiadskie-muki.md)
 
-С 23 июля по 8 августа пройдет Олимпиада в Токио. Сейчас в городе действует режим ЧС из-за ситуации с коронавирусом, он продлится как минимум до 22 августа. Из-за пандемии организаторы Олимпиады [отказались](https://novayagazeta.ru/articles/2021/07/08/organizatory-olimpiady-v-tokio-reshili-ne-dopuskat-zritelei-iz-za-covid-19) от допуска зрителей на соревнования.
+С 23 июля по 8 августа пройдет Олимпиада в Токио. Сейчас в городе действует режим ЧС из-за ситуации с коронавирусом, он продлится как минимум до 22 августа. Из-за пандемии организаторы Олимпиады [отказались](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/08/organizatory-olimpiady-v-tokio-reshili-ne-dopuskat-zritelei-iz-za-covid-19) от допуска зрителей на соревнования.

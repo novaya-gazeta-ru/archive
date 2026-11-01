@@ -11,4 +11,4 @@ tags: ""
 
 # Марш несогласных в Питере (43 Мегабайта)
 
-[Скачать видео](https://novayagazeta.ru/storage/d/2007/04/18/marsch_piter.avi)
+[Скачать видео](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2007/04/18/marsch_piter.avi)

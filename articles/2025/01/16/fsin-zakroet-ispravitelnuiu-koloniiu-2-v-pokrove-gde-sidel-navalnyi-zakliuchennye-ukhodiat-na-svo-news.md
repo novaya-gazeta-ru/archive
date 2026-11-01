@@ -27,4 +27,4 @@ tags: ""
 
 В декабре 2024 года Путин [заявил](https://ria.ru/20241210/putin-1988438331.html), что число заключенных в местах лишения свободы в последние годы снижается. Многие зэки участвуют в военных действиях в Украине [в обмен на помилование](https://www.rbc.ru/politics/23/03/2024/65fefda39a7947855f6aeac2).
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/14/otets-studentki-uznal-chto-ee-ubiitsy-zaverbovalis-na-svo-i-vyshli-iz-tiurmy-na-15-let-ranshe-sroka-odin-kupil-kvartiru-news
+**Читайте также:** [Отец студентки узнал, что ее убийцы завербовались на СВО и вышли из тюрьмы на 15 лет раньше срока. Один купил квартиру](2025/01/14/otets-studentki-uznal-chto-ee-ubiitsy-zaverbovalis-na-svo-i-vyshli-iz-tiurmy-na-15-let-ranshe-sroka-odin-kupil-kvartiru-.md)

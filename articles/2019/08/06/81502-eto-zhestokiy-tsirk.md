@@ -21,7 +21,7 @@ tags: "суды, аресты, массовые беспорядки"
 
 Разными оказались даже родные арестованных. Разными в своем отношении к тому, что делали (или не делали) их сыновья, принимающие участие в акциях протеста.
 
-**link:** https://novayagazeta.ru/articles/2019/08/03/81486-v-polnom-odinochestve-pered-litsom-avtoritarnoy-mashiny
+**link:** [Со Всероса в изолятор](2019/08/03/81486-v-polnom-odinochestve-pered-litsom-avtoritarnoy-mashiny.md)
 
 # Владислав Барабанов, 22 года
 

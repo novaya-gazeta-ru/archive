@@ -15,12 +15,12 @@ tags: "роскомнадзор, google, em, навальный"
 
 В Роскомнадзоре указали, что Мосгорсуд признал ФБК* экстремистской организацией. «Упомянутое приложение используется для продолжения деятельности и проведения мероприятий экстремистской организации. Наказания за упомянутые деяния предусмотрены ст. 282.2 УК РФ», — сообщили в ведомстве.
 
-Накануне стало известно, что Роскомнадзор [направил](https://novayagazeta.ru/articles/2021/08/19/roskomnadzor-potreboval-udalit-iz-app-store-prilozhenie-navalnogo-news) письмо в Apple с требованием удалить из App Store приложение Навального.
+Накануне стало известно, что Роскомнадзор [направил](2021/08/19/roskomnadzor-potreboval-udalit-iz-app-store-prilozhenie-navalnogo-news.md) письмо в Apple с требованием удалить из App Store приложение Навального.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/27/politiku-zablokirovali
+**Читайте также:** [Политику заблокировали](2021/07/27/politiku-zablokirovali.md)
 
-В конце июля Роскомнадзор [заблокировал](https://novayagazeta.ru/articles/2021/07/26/roskomnadzor-zablokiroval-sait-alekseia-navalnogo) сайт Навального, его сторонников и ФБК. Волков отмечал, что всего под блокировку попали 49 ресурсов. Ведомство также потребовало от YouTube заблокировать канал [«Навальный LIVE»](https://novayagazeta.ru/articles/2021/07/30/roskomnadzor-potreboval-ot-youtube-zablokirovat-kanaly-liubovi-sobol-i-navalnyi-live) и каналы [сторонников политика.](https://novayagazeta.ru/articles/2021/07/27/prizyvy-k-massovym-besporiadkam-rkn-potreboval-ot-youtube-zablokirovat-kanaly-soratnikov-navalnogo)
+В конце июля Роскомнадзор [заблокировал](2021/07/26/roskomnadzor-zablokiroval-sait-alekseia-navalnogo.md) сайт Навального, его сторонников и ФБК. Волков отмечал, что всего под блокировку попали 49 ресурсов. Ведомство также потребовало от YouTube заблокировать канал [«Навальный LIVE»](2021/07/30/roskomnadzor-potreboval-ot-youtube-zablokirovat-kanaly-liubovi-sobol-i-navalnyi-live.md) и каналы [сторонников политика.](2021/07/27/prizyvy-k-massovym-besporiadkam-rkn-potreboval-ot-youtube-zablokirovat-kanaly-soratnikov-navalnogo.md)
 
-Мосгорсуд 9 июня [признал](https://novayagazeta.ru/articles/2021/06/09/mosgorsud-priznal-fbk-i-shtaby-navalnogo-ekstremistskoi-organizatsiei) ФБК и другие организации Навального экстремистскими организациями. Российский суд огласил свое решение ближе к 11 часам вечера. Защитники ФБК, представители Минюста и МВД находились в суде двенадцать с половиной часов. Заседание проходило в закрытом режиме. Суд постановил, что решение о прекращении деятельности организаций подлежит немедленному исполнению.
+Мосгорсуд 9 июня [признал](2021/06/09/mosgorsud-priznal-fbk-i-shtaby-navalnogo-ekstremistskoi-organizatsiei.md) ФБК и другие организации Навального экстремистскими организациями. Российский суд огласил свое решение ближе к 11 часам вечера. Защитники ФБК, представители Минюста и МВД находились в суде двенадцать с половиной часов. Заседание проходило в закрытом режиме. Суд постановил, что решение о прекращении деятельности организаций подлежит немедленному исполнению.
 
 #### **внесен Минюстом в реестр органицазий, выполняющих функцию иностранного агента*

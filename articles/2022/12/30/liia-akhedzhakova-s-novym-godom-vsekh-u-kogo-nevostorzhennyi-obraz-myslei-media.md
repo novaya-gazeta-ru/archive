@@ -13,4 +13,4 @@ tags: ""
 
 *Поздравляет Лия Ахеджакова*
 
-https://novayagazeta.ru/articles/2022/12/30/liia-akhedzhakova-s-novym-godom-vsekh-u-kogo-nevostorzhennyi-obraz-myslei
+[Лия Ахеджакова: С Новым Годом всех, &nbsp;у кого «невосторженный образ мыслей»!&nbsp;](2022/12/30/liia-akhedzhakova-s-novym-godom-vsekh-u-kogo-nevostorzhennyi-obraz-myslei.md)

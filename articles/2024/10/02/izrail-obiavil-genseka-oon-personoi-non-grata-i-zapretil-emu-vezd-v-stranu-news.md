@@ -19,4 +19,4 @@ tags: ""
 
 ️Израиль в течение нескольких дней может ответить Ирану «масштабной» операцией, [пишет](https://www.axios.com/2024/10/02/iran-israel-missile-attacks-response) Axios со ссылкой на израильских чиновников.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/02/chetyre-fronta-i-miklat
+**Читайте также:** [Четыре фронта и миклат](2024/10/02/chetyre-fronta-i-miklat.md)

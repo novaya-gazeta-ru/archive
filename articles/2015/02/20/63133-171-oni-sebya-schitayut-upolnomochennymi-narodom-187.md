@@ -15,7 +15,7 @@ tags: "религия, церковь"
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/02/20/1424432711_103901_99.png" style="width: 340px; height: 276px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/02/20/1424432711_103901_99.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/02/20/1424432711_103901_99.png)" style="width: 340px; height: 276px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Отец Николай (Савченко). Фото:&nbsp;portal-credo.ru</sup></td>
@@ -69,7 +69,7 @@ tags: "религия, церковь"
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/02/20/1424434222_796583_16.png" style="width: 340px; height: 296px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/02/20/1424434222_796583_16.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/02/20/1424434222_796583_16.png)" style="width: 340px; height: 296px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Виталий Милонов / Wiki</sup></td>

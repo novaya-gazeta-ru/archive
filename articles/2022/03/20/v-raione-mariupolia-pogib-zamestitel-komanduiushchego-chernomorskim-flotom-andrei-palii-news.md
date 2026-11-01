@@ -25,6 +25,6 @@ tags: "украина, военные действия, смерть, военн
 
 Сегодня губернатор Мурманской области Андрей Чибис [сообщил](https://vk.com/wall537777114_385738) о гибели военнослужащего Леонида Белякова.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/18/stolko-materei-seichas-moliatsia-chto-bog-ne-spravliaetsia
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/18/stolko-materei-seichas-moliatsia-chto-bog-ne-spravliaetsia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/18/stolko-materei-seichas-moliatsia-chto-bog-ne-spravliaetsia)
 
 Минобороны РФ 2 марта единственный раз отчиталось о погибших в Украине российских военнослужащих. Тогда в министерстве сообщили, что Россия в ходе боев в Украине потеряла 498 солдат, 1597 были ранены.

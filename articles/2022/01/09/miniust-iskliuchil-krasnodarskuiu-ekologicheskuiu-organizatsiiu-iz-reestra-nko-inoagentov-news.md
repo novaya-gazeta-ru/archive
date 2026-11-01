@@ -25,6 +25,6 @@ tags: "экология, иноагенты, минюст, гринпис, sf"
 
 Минюст включил «Гражданскую инициативу против экологической преступности» реестр «иностранных агентов» 25 октября 2019 года. Как [писал](https://webcache.googleusercontent.com/search?q=cache:Pv2GnxLdI48J:https://ovdinfo.org/express-news/2019/12/17/grazhdanskuyu-iniciativu-protiv-ekologicheskoy-prestupnosti-oshtrafovali-po+&cd=5&hl=ru&ct=clnk&gl=ru) «ОВД-Инфо»*, Минюст указывал, что источником финансирования «Гражданской инициативы против экопреступности» является Greenpeace.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/29/u-gosudarstva-chesti-i-dostoinstva-net
+**Читайте также:** [«У государства чести и достоинства нет»](2021/12/29/u-gosudarstva-chesti-i-dostoinstva-net.md)
 
 #### *Внесен Минюстом в реестр незарегистрированных объединений, выполняющих функцию иностранного агента

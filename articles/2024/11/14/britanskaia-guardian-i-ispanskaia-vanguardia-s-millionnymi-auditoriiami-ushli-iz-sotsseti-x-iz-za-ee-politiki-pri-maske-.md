@@ -17,6 +17,6 @@ La Vanguardia, в свою очередь, [заявила](https://www.lavang
 
 Илон Маск приобрел Twitter в 2022 году.
 
-Летом 2024 года он активно участвовал в предвыборной кампании Трампа, который в итоге победил на выборах президента США. Трамп [назначил](https://novayagazeta.ru/articles/2024/11/13/tramp-naznachil-ilona-maska-glavoi-novogo-departamenta-effektivnosti-pravitelstva-news) Маска главой нового департамента эффективности правительства.
+Летом 2024 года он активно участвовал в предвыборной кампании Трампа, который в итоге победил на выборах президента США. Трамп [назначил](2024/11/13/tramp-naznachil-ilona-maska-glavoi-novogo-departamenta-effektivnosti-pravitelstva-news.md) Маска главой нового департамента эффективности правительства.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/14/kozyrnaia-komanda
+**Читайте также:** [Козырная команда](2024/11/14/kozyrnaia-komanda.md)

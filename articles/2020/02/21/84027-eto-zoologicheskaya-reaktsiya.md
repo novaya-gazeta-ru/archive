@@ -71,4 +71,4 @@ tags: "пропаганда, харьковская область, украин
 
 *Фото корреспондента «Настоящего времени» Владимира Рунца*
 
-**link:** https://novayagazeta.ru/articles/2020/02/21/84024-u-nas-zhe-est-spirt-skazali-mozhno-rot-propoloskat
+**link:** [«У нас же есть спирт. Сказали, можно рот прополоскать»](2020/02/21/84024-u-nas-zhe-est-spirt-skazali-mozhno-rot-propoloskat.md)

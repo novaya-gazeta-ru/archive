@@ -17,9 +17,9 @@ tags: "нападение, егор жуков"
 
 *Фото: «Команда Жукова»*
 
-**link:** https://novayagazeta.ru/articles/2020/02/14/83909-obychnyy-den
+**link:** [Обычный день](2020/02/14/83909-obychnyy-den.md)
 
-**link:** https://novayagazeta.ru/articles/2017/08/30/73648-organy-zamazany-zelenkoy
+**link:** [Органы замазаны зеленкой](2017/08/30/73648-organy-zamazany-zelenkoy.md)
 
 *[media: &nbsp;]*
 

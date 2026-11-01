@@ -45,7 +45,7 @@ tags: "карикатура"
 
 *Интерьер ванной для губернатора Ямала*
 
-**link:** https://novayagazeta.ru/articles/2017/11/09/74503-dostoyanie-yamala-italyanskiy-unitaz
+**link:** [Достояние Ямала — итальянский унитаз](2017/11/09/74503-dostoyanie-yamala-italyanskiy-unitaz.md)
 
 ![](_assets/23/23b9d48f97fb0790cea5e89b359a8636.webp)
 
@@ -71,7 +71,7 @@ tags: "карикатура"
 
 *Утечка рутения*
 
-**link:** https://novayagazeta.ru/articles/2017/12/02/74779-izotop-molchaniya
+**link:** [Изотоп молчания](2017/12/02/74779-izotop-molchaniya.md)
 
 ![](_assets/c9/c95c4b3b7090fdb4e0a4292cf3509971.webp)
 
@@ -93,7 +93,7 @@ tags: "карикатура"
 
 *В связи с многочисленными обвинениями в харрасменте из русского языка может исчезнуть слово «лапать»*
 
-**link:** https://novayagazeta.ru/articles/2017/11/09/74494-seks-inkvizitsiya
+**link:** [Секс-инквизиция](2017/11/09/74494-seks-inkvizitsiya.md)
 
 ![](_assets/12/12095fb2e39075e0aed9fb072a9a75b7.webp)
 

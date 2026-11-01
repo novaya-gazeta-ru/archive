@@ -111,6 +111,6 @@ tags: ""
 
 **Андрей Торопов,** [«Полотно» медиа](https://www.polotno.media/)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/04/17/eshche-bolee-shelkovyi-put
+**Читайте также:** [Еще более шелковый путь](2026/04/17/eshche-bolee-shelkovyi-put.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/10/10/i-shkolnikam-izmeriali-cherepa
+**Читайте также:** [И школьникам измеряли черепа](2025/10/10/i-shkolnikam-izmeriali-cherepa.md)

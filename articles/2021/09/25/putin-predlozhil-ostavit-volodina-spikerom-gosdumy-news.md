@@ -17,6 +17,6 @@ tags: "путин, володин, госдума, em"
 
 Предложение российского президента поддержал председатель партии «Единая Россия» Дмитрий Медведев. «Он достойно работал в предыдущий период. Мне кажется, сможет организовать эту работу с не меньшим блеском в предстоящий период», — приводит его слова «Интерфакс».
 
-Голосование на выборах в Госдуму проходило с 17 по 19 сентября. Как [отчитались](https://novayagazeta.ru/articles/2021/09/21/tsik-edinaia-rossiia-poluchila-324-iz-450-mest-v-gosdume-eto-konstitutsionnoe-bolshinstvo-news) в ЦИК, «Единая Россия» получила конституционное большинство, заняв 324 из 450 мест. Володин [одержал](https://www.interfax.ru/russia/793134) победу по 163-му Саратовскому одномандатному округу.
+Голосование на выборах в Госдуму проходило с 17 по 19 сентября. Как [отчитались](2021/09/21/tsik-edinaia-rossiia-poluchila-324-iz-450-mest-v-gosdume-eto-konstitutsionnoe-bolshinstvo-news.md) в ЦИК, «Единая Россия» получила конституционное большинство, заняв 324 из 450 мест. Володин [одержал](https://www.interfax.ru/russia/793134) победу по 163-му Саратовскому одномандатному округу.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/22/samaia-bolshaia-falsifikatsiia-v-istorii-podkast-chto-novogo
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/22/samaia-bolshaia-falsifikatsiia-v-istorii-podkast-chto-novogo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/22/samaia-bolshaia-falsifikatsiia-v-istorii-podkast-chto-novogo)

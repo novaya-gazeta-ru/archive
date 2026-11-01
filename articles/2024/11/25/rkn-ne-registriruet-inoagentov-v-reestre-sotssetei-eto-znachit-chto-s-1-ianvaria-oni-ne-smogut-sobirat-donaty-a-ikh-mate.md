@@ -27,6 +27,6 @@ tags: ""
 
 Форма на «Госуслугах», по которой владельцы каналов с аудиторией от 10 тысяч подписчиков обязаны регистрироваться в реестре РКН, [заработала](https://t.me/novaya_pishet/47480) в начале октября. Владельцы аккаунтов должны сообщить свои имя, телефон и почту. Без регистрации в реестре блогеров подвергают санкциям, а их сообщения нельзя распространять.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/02/pravitelstvo-ne-opublikovalo-pravila-postanovki-blogerov-na-gosuchet-a-gosuslugi-uzhe-registriruiut-dobrovolnye-zaiavki-news
+**Читайте также:** [Правительство не опубликовало правила постановки блогеров «на госучет», а «Госуслуги» уже регистрируют добровольные заявки](2024/11/02/pravitelstvo-ne-opublikovalo-pravila-postanovki-blogerov-na-gosuchet-a-gosuslugi-uzhe-registriruiut-dobrovolnye-zaiavki-.md)
 
 #### * Минюст считает «иноагентами».

@@ -196,4 +196,4 @@ tags: "рост цен, инфляция"
 >
 > **Нина Петлянова, **«Новая»
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/01/24/nepodemnaia-korzina
+**Читайте также:** [Неподъемная корзина](2026/01/24/nepodemnaia-korzina.md)

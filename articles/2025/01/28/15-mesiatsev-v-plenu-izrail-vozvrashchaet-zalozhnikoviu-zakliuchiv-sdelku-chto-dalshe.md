@@ -13,7 +13,7 @@ tags: ""
 
 *Разговор с экспертом в студии «НО. Медиа из России»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/24/svoboda-ili-chuzhaia-smert
+**Читайте также:** [Свобода или чужая смерть](2025/01/24/svoboda-ili-chuzhaia-smert.md)
 
 Читайте также
 

@@ -29,7 +29,7 @@ tags: "суджа, мирные жители, поиск, коридор"
 
 *Анненков Николай Дмитриевич, 13.06.1967, Суджа*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/15/chem-dolshe-bezdeistvie-tem-bolshe-umret
+**Читайте также:** [«Чем дольше бездействие — тем больше умрет»](2024/10/15/chem-dolshe-bezdeistvie-tem-bolshe-umret.md)
 
 ![](_assets/c4/c4eabcd25fd759c75eaee8ab01cffdc6.webp)
 
@@ -55,7 +55,7 @@ tags: "суджа, мирные жители, поиск, коридор"
 
 *Милая Любовь Алексеевна, 1953 г. р., Суджа*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/13/shansy-vyzhit-u-grazhdanskikh-minimalny
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/13/shansy-vyzhit-u-grazhdanskikh-minimalny](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/13/shansy-vyzhit-u-grazhdanskikh-minimalny)
 
 Сколько людей осталось в Судже, где идут жесткие бои, никто не знает. Может, сотни, а может, тысячи. Их родственники с августа просят власти двух стран открыть гуманитарный коридор. Но огонь продолжается. Людей, оставшихся в заложниках, много больше — это не полный список. Мы продолжим публиковать их фамилии и фотографии на сайте «Новой газеты».
 

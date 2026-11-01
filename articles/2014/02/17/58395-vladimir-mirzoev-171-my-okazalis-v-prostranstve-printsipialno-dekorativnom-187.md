@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2014/02/17/1392649834_756563_35.jpg" style="width: 340px; height: 510px; float: right;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/02/17/1392649834_756563_35.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/02/17/1392649834_756563_35.jpg)" style="width: 340px; height: 510px; float: right;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">

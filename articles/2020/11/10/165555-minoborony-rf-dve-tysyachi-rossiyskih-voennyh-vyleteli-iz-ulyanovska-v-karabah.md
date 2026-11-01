@@ -23,9 +23,9 @@ tags: "армия, россия, kn, миротворцы, война, наго�
 
 *Скриншот: Google Earth*
 
-Накануне премьер-министр Армении Никол Пашинян [подписал](https://novayagazeta.ru/news/2020/11/10/165553-pashinyan-ob-yavil-o-podpisanii-s-alievym-i-putinym-zayavleniya-o-prekraschenii-voyny-v-nagornom-karabahe) соглашение о прекращении военных действий в Нагорном Карабахе совместно президентом Азербайджана Ильхамом Алиевым и российским лидером Владимиром Путиным.
+Накануне премьер-министр Армении Никол Пашинян [подписал](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/10/165553-pashinyan-ob-yavil-o-podpisanii-s-alievym-i-putinym-zayavleniya-o-prekraschenii-voyny-v-nagornom-karabahe) соглашение о прекращении военных действий в Нагорном Карабахе совместно президентом Азербайджана Ильхамом Алиевым и российским лидером Владимиром Путиным.
 
-**link:** https://novayagazeta.ru/articles/2020/11/09/87883-bitva-za-shushu
+**link:** [Битва за Шушу](2020/11/09/87883-bitva-za-shushu.md)
 
 Соглашение сторон предусматривает прекращение огня и военных действий на территории Карабаха, обмен военнопленными и телами погибших,
 
@@ -35,6 +35,6 @@ tags: "армия, россия, kn, миротворцы, война, наго�
 
 Президент Азербайджана Алиев заявил, что миротворцы из России будут действовать совместно с военными Турции, однако этих положений в соглашении не предусмотрено.
 
-Алиев 8 ноября [заявил](https://novayagazeta.ru/news/2020/11/08/165518-prezident-azerbaydzhana-zayavil-o-vzyatii-pod-kontrol-vtorogo-po-velichine-goroda-v-nagornom-karabahe), что азербайджанские вооруженные силы взяли по контроль город Шуши (на азербайджанском — Шуша) — второй по величине населенный пункт в непризанной республике, однако Армения тогда сообщила, что бои еще продолжаются. На следующий день в НКР [подтвердили](https://novayagazeta.ru/news/2020/11/09/165545-nagornyy-karabah-podtverdil-poteryu-kontrolya-nad-shushi), что контроль над городом потерян, а силы противника уже находятся на подступах к Степанакерту.
+Алиев 8 ноября [заявил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/08/165518-prezident-azerbaydzhana-zayavil-o-vzyatii-pod-kontrol-vtorogo-po-velichine-goroda-v-nagornom-karabahe), что азербайджанские вооруженные силы взяли по контроль город Шуши (на азербайджанском — Шуша) — второй по величине населенный пункт в непризанной республике, однако Армения тогда сообщила, что бои еще продолжаются. На следующий день в НКР [подтвердили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/09/165545-nagornyy-karabah-podtverdil-poteryu-kontrolya-nad-shushi), что контроль над городом потерян, а силы противника уже находятся на подступах к Степанакерту.
 
 Эскалация конфликта в Карабахе произошла 27 сентября. Война длится более 40 дней. С обеих сторон при обстрелах погибли более 100 мирных жителей. Ереван [сообщал](https://ru.armeniasputnik.am/society/20201029/25105857/Novyy-spisok-pogibshikh-armyanskikh-voennosluzhaschikh-v-Karabakhe--dannye-za-29-oktyabrya---.html), что с его стороны погибли более тысячи военных. Азербайджан информацию о потерях не разглашает.

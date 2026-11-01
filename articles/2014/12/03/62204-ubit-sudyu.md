@@ -28,7 +28,7 @@ tags: "борн"
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/12/03/1417612345_480127_1.jpg" style="width: 250px; height: 376px;"><sup>Эдуард Чувашов. Фото: РИА Новости</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/12/03/1417612345_480127_1.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/12/03/1417612345_480127_1.jpg)" style="width: 250px; height: 376px;"><sup>Эдуард Чувашов. Фото: РИА Новости</sup></td>
 		</tr>
 	</tbody>]*
 

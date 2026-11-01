@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/01/10/1357834509_680113_2.jpg" style="width: 360px; height: 240px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/01/10/1357834509_680113_2.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/01/10/1357834509_680113_2.jpg)" style="width: 360px; height: 240px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -25,7 +25,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<sup><img alt="" src="http://www.novayagazeta.ru/storage/c/2013/01/10/1357834553_727917_8.jpg" style="width: 360px; height: 240px;"></sup></p>
+					<sup><img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/01/10/1357834553_727917_8.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/01/10/1357834553_727917_8.jpg)" style="width: 360px; height: 240px;"></sup></p>
 				<p>
 					<sup>На Смотровой площадке МГУ зародилось масштабное добровольческое движение. Июль 2012 года. Сбор помощи Крымску</sup><br>
 					&nbsp;</p>

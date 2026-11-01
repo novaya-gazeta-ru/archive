@@ -19,30 +19,30 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/27/1372333411_321883_99.jpg" style="width: 320px; height: 240px;"></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/27/1372333411_321883_99.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/27/1372333411_321883_99.jpg)" style="width: 320px; height: 240px;"></p>
 				<p>
 					<sup>«Бомба»</sup></p>
 			</td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/27/1372333411_612250_54.jpg" style="width: 320px; height: 240px;"><sup>Подготовка</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/27/1372333411_612250_54.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/27/1372333411_612250_54.jpg)" style="width: 320px; height: 240px;"><sup>Подготовка</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/27/1372333411_907941_24.jpg" style="width: 320px; height: 240px;"><sup>Предмет спора</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/27/1372333411_907941_24.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/27/1372333411_907941_24.jpg)" style="width: 320px; height: 240px;"><sup>Предмет спора</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/27/1372333463_381221_97.jpg" style="width: 320px; height: 240px;"><sup>Предметы быта</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/27/1372333463_381221_97.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/27/1372333463_381221_97.jpg)" style="width: 320px; height: 240px;"><sup>Предметы быта</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/27/1372333463_662996_62.jpg" style="width: 320px; height: 213px;"><sup>Участники побоища</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/27/1372333463_662996_62.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/27/1372333463_662996_62.jpg)" style="width: 320px; height: 213px;"><sup>Участники побоища</sup></td>
 		</tr>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/27/1372333463_944721_84.jpg" style="width: 320px; height: 240px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/27/1372333463_944721_84.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/27/1372333463_944721_84.jpg)" style="width: 320px; height: 240px;"></td>
 		</tr>
 	</tbody>]*
 

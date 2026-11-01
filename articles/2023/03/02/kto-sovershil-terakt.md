@@ -43,4 +43,4 @@ tags: ""
 
 Во время подготовки материала к публикации стало известно, что число жертв атаки на село Любечане возросло до двух.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/03/02/brianskaia-i-kurskaia-oblasti-zalozhniki-diversanty-obstrely-obnovliaetsia
+**Читайте также:** [https://novayagazeta.ru/articles/2023/03/02/brianskaia-i-kurskaia-oblasti-zalozhniki-diversanty-obstrely-obnovliaetsia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/03/02/brianskaia-i-kurskaia-oblasti-zalozhniki-diversanty-obstrely-obnovliaetsia)

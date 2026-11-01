@@ -11,7 +11,7 @@ tags: "инвалиды, московская область"
 
 # Центры реабилитации для незрячих возобновили работу
 
-*[media: <em><span style="color: rgb(51, 51, 51); font-family: Roboto, arial, sans-serif; font-size: 13px; line-height: 17px;">Анна Бессарабова — о том, как после серии <a href="http://www.novayagazeta.ru/society/72766.html" target="_blank">публикаций</a> «Новой газеты» о закрытии уникальных российских учреждений для незрячих в Волоколамске, Бийске и Железногорске Курской центры смогли возобновить работу.</span></em>]*
+*[media: <em><span style="color: rgb(51, 51, 51); font-family: Roboto, arial, sans-serif; font-size: 13px; line-height: 17px;">Анна Бессарабова — о том, как после серии <a href="[http://www.novayagazeta.ru/society/72766.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/72766.html)" target="_blank">публикаций</a> «Новой газеты» о закрытии уникальных российских учреждений для незрячих в Волоколамске, Бийске и Железногорске Курской центры смогли возобновить работу.</span></em>]*
 
 *[media: &nbsp;]*
 

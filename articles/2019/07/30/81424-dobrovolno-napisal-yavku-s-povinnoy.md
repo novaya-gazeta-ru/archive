@@ -37,7 +37,7 @@ tags: "выборы в мосгордуму, суды, акции протест
 
 — Когда ему можно передать вещи? Не поедет же он в изолятор в одних трусах, — переживала она, спрашивая адвоката. Тот разводил руками.
 
-**link:** https://novayagazeta.ru/news/2019/07/30/153791-baza-sk-vozbudil-esche-dva-ugolovnyh-dela-o-napadenii-na-rosgvardeytsev-na-mitinge-27-iyulya
+**link:** [https://novayagazeta.ru/news/2019/07/30/153791-baza-sk-vozbudil-esche-dva-ugolovnyh-dela-o-napadenii-na-rosgvardeytsev-na-mitinge-27-iyulya](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/07/30/153791-baza-sk-vozbudil-esche-dva-ugolovnyh-dela-o-napadenii-na-rosgvardeytsev-na-mitinge-27-iyulya)
 
 Наконец в зал вошла судья Татьяна Изотова и сразу начала процесс с установления личности обвиняемого. Коваленко сказал, что родился в Красноярском крае, имеет высшее образование, холост, детей нет, зарегистрирован в Чеховском районе Московской области.
 
@@ -51,7 +51,7 @@ tags: "выборы в мосгордуму, суды, акции протест
 
 «Он признает вину в полном объеме и по собственной инициативе написал явку с повинной», — подчеркивал защитник.
 
-**link:** https://novayagazeta.ru/articles/2019/07/30/81421-limit-zaderzhaniy-poltory-tysyachi
+**link:** [«Лимит задержаний — полторы тысячи»](2019/07/30/81421-limit-zaderzhaniy-poltory-tysyachi.md)
 
 Судье Изотой потребовалось всего 10 минут, чтобы принять ожидаемое для собравшихся в зале журналистов решение: ходатайство следствия удовлетворить, поскольку Коваленко «может помешать расследованию и скрыться». В СИЗО мужчина проведет как минимум до 27 сентября.
 

@@ -213,4 +213,4 @@ tags: ""
 
 > **продолжение**
 >
-> ### Нам здесь жить: части [вторая](https://novayagazeta.ru/articles/2010/12/06/373-nam-zdes-zhit-chast-ii), [третья](https://novayagazeta.ru/articles/2010/12/08/343-nam-zdes-zhit-chast-iii)
+> ### Нам здесь жить: части [вторая](2010/12/06/373-nam-zdes-zhit-chast-ii.md), [третья](2010/12/08/343-nam-zdes-zhit-chast-iii.md)

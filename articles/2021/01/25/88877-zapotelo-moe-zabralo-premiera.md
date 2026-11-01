@@ -27,7 +27,7 @@ tags: "полицейский произвол, полицейское наси�
 
 **youtube:** https://www.youtube.com/embed/TmFIn5DkO74
 
-**novaya:** https://novayagazeta.ru/articles/2021/01/16/88723-nelepo-primeryat-na-sebya-zaprety
+**novaya:** [«Сначала голову разобьют, а потом разбираться будут»](2021/01/16/88723-nelepo-primeryat-na-sebya-zaprety.md)
 
 > **Текст песни<br>
 &nbsp;**
@@ -36,4 +36,4 @@ tags: "полицейский произвол, полицейское наси�
 >
 > ---
 >
->  ##### [«Дело не в прощении»: силовик пнул женщину в живот на акции в Питере. Теперь Маргарита Юдина обратится в СК: ВИДЕО](https://novayagazeta.ru/articles/2021/01/25/88879-delo-ne-v-proschenii-video)
+>  ##### [«Дело не в прощении»: силовик пнул женщину в живот на акции в Питере. Теперь Маргарита Юдина обратится в СК: ВИДЕО](2021/01/25/88879-delo-ne-v-proschenii-video.md)

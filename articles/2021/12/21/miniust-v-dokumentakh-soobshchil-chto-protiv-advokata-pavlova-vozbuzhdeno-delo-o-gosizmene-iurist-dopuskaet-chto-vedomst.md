@@ -19,10 +19,10 @@ tags: "павлов, адвокаты, минюст, госизмена, sf"
 
 Претензии силовиков были связаны с тем, что адвокат передал в газету «Ведомости» постановление о привлечении своего подзащитного в качестве обвиняемого, а затем рассказал СМИ, что в его деле появился анонимный секретный свидетель под псевдонимом.
 
-В июле правозащитное объединение «Команда 29», руководителем которого был Павлов, [объявило](https://novayagazeta.ru/articles/2021/07/18/komanda-29-obiavila-o-samorospuske) о самороспуске после блокировки сайта проекта. В сентябре адвокат [объявил](https://novayagazeta.ru/articles/2021/09/07/advokat-ivan-pavlov-uekhal-iz-rossii-news), что уехал из России в Грузию.
+В июле правозащитное объединение «Команда 29», руководителем которого был Павлов, [объявило](2021/07/18/komanda-29-obiavila-o-samorospuske.md) о самороспуске после блокировки сайта проекта. В сентябре адвокат [объявил](2021/09/07/advokat-ivan-pavlov-uekhal-iz-rossii-news.md), что уехал из России в Грузию.
 
-Накануне, 20 декабря, Павлов [сообщил](https://novayagazeta.ru/articles/2021/12/20/eks-glava-likvidirovannoi-komandy-29-obiavil-o-zapuske-novogo-pravozashchitnogo-proekta-pervyi-otdel-news) о запуске нового правозащитного проекта под названием «Первый отдел».
+Накануне, 20 декабря, Павлов [сообщил](2021/12/20/eks-glava-likvidirovannoi-komandy-29-obiavil-o-zapuske-novogo-pravozashchitnogo-proekta-pervyi-otdel-news.md) о запуске нового правозащитного проекта под названием «Первый отдел».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/14/oni-govoriat-chto-narushaiut-zakon-potomu-chto-oni-vlast
+**Читайте также:** [«Они говорят, что нарушают закон, потому что они — власть»](2021/10/14/oni-govoriat-chto-narushaiut-zakon-potomu-chto-oni-vlast.md)
 
 #### * внесен Минюстом в список СМИ, выполняющих функцию иностранного агента

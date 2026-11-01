@@ -27,4 +27,4 @@ tags: ""
 
 Ответственность за атаку на цифровую инфраструктуру судебной системы РФ взяли на себя [украинские хакеры](https://t.me/novaya_pishet/47540).
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/19/sud-kenguru-i-natsionalnaia-bezopasnost
+**Читайте также:** [«Суд кенгуру» и национальная безопасность](2024/10/19/sud-kenguru-i-natsionalnaia-bezopasnost.md)

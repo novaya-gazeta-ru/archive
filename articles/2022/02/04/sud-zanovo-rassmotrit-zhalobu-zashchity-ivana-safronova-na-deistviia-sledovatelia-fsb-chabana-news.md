@@ -23,9 +23,9 @@ tags: "дело сафронова, сафронов, мосгорсуд, леф
 
 > «Ну, хотя бы что-то в этом кошмарном деле сдвинулось с места», — написал Талантов в фейсбуке.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/19/tiurma-na-oba-vashikh-doma
+**Читайте также:** [Тюрьма на оба ваших дома](2021/11/19/tiurma-na-oba-vashikh-doma.md)
 
-1 февраля Лефортовский суд [отклонил](https://novayagazeta.ru/articles/2022/02/02/sud-otklonil-zhalobu-zashchity-zhurnalista-safronova-na-sledstvie-zapreshchaiushchee-advokatam-delat-vypiski-iz-ugolovnogo-dela-news) жалобу защиты Сафронова на действия следователей, запрещающих адвокатам в свободном режиме делать выписки из материалов дела, неделей ранее — на [ограничение](https://novayagazeta.ru/articles/2022/01/26/sud-ogranichil-ivana-safronova-i-ego-advokatov-v-srokakh-oznakomleniia-s-delom-oni-dolzhny-izuchit-materialy-do-11-fevralia-news) в сроках ознакомления с делом. Адвокат Дмитрий Катчев [говорил](https://t.me/freesafronov/740), что «следствие торопится передать дело в суд и хочет успеть до 7 апреля». В этот день истекает срок ареста Сафронова.
+1 февраля Лефортовский суд [отклонил](2022/02/02/sud-otklonil-zhalobu-zashchity-zhurnalista-safronova-na-sledstvie-zapreshchaiushchee-advokatam-delat-vypiski-iz-ugolovno.md) жалобу защиты Сафронова на действия следователей, запрещающих адвокатам в свободном режиме делать выписки из материалов дела, неделей ранее — на [ограничение](2022/01/26/sud-ogranichil-ivana-safronova-i-ego-advokatov-v-srokakh-oznakomleniia-s-delom-oni-dolzhny-izuchit-materialy-do-11-fevra.md) в сроках ознакомления с делом. Адвокат Дмитрий Катчев [говорил](https://t.me/freesafronov/740), что «следствие торопится передать дело в суд и хочет успеть до 7 апреля». В этот день истекает срок ареста Сафронова.
 
 Сафронов и его защитники должны изучить материалы дела до 11 февраля. При этом в деле 10 тысяч страниц текста, а также 40 компакт-дисков, четыре флеш-карты, распечатки материалов иностранных СМИ, распечатка электронной книги, два сотовых телефона, жесткий диск и т.д.
 

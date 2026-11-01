@@ -23,7 +23,7 @@ tags: "нагорный карабах, франция"
 
 Кроме того, в резолюции содержится призыв к правительству Франции «рассмотреть с европейскими партнерами самые решительные меры» в ответ на действия Турции (_об этом в последние месяцы неоднократно говорил и Макрон._ — **Ред.** ) и оказывать «массированную гуманитарную помощь населению Нагорного Карабаха» (помощь уже оказывается, первый самолет вылетел из Франции в минувшее воскресенье, МИД [объявил](https://www.diplomatie.gouv.fr/fr/dossiers-pays/armenie/evenements/article/armenie-la-france-met-en-place-un-dispositif-structure-d-aide-a-la-population) масштабный гуманитарный план для «армянского населения Нагорного Карабаха»).
 
-**link:** https://novayagazeta.ru/articles/2020/11/20/88037-tolko-chto-u-tebya-byl-dom-a-teper-net-dazhe-pary-tufel
+**link:** [«Только что у тебя был дом, а теперь нет даже пары туфель»](2020/11/20/88037-tolko-chto-u-tebya-byl-dom-a-teper-net-dazhe-pary-tufel.md)
 
 В резолюции говорится о том, что она принята с учетом следующих обстоятельств:
 
@@ -35,7 +35,7 @@ tags: "нагорный карабах, франция"
 
 В то же время он подчеркнул, что власти Франции начиная с президента Макрона с первых дней этой войны осуждали вооруженную агрессию, первыми заявили об отправке через Турцию иностранных наемников и теперь оказывают и продолжат оказывать Армении масштабную гуманитарную помощь.
 
-**link:** https://novayagazeta.ru/articles/2020/11/07/87874-siriyskiy-ubiytsa-bratskiy-vozhd-livii-i-karabah-zachem-rossiya-i-turtsiya-periodicheski-nakalyayut-svoi-vzaimootnosheniya-ostavayas-pri-etom-krayne-vygodnymi-drug-dlya-druga-partnerami-issledovanie-ekateriny-sokiryanskoy
+**link:** [Бранный мир](2020/11/07/87874-siriyskiy-ubiytsa-bratskiy-vozhd-livii-i-karabah-zachem-rossiya-i-turtsiya-periodicheski-nakalyayut-svoi-vzaimootn.md)
 
 В Елисейском дворце на этой неделе официально заявили, что «озабочены» содержанием соглашения о прекращении огня в Нагорном Карабахе от 9 ноября, подписанного Путиным, Алиевым и Пашиняном, и что Минская группа должна играть главную роль в вопросе контроля мира на этих территориях и договоренностей об их будущем. В соглашении Минская группа не упоминается.
 
@@ -45,4 +45,4 @@ tags: "нагорный карабах, франция"
 
 В свою очередь, французский дипломатический источник Le Monde [заявил](https://www.lemonde.fr/international/article/2020/11/23/la-france-tente-de-peser-a-nouveau-dans-le-dossier-du-haut-karabakh_6060800_3210.html), что в Москве «вряд ли рады приходу Турции на Кавказ», а значит, должны понимать, что «Минская группа может помочь» в сдерживании Эрдогана. Путин и Макрон обсуждали вопросы Карабаха по телефону за последние недели несколько раз.
 
-**link:** https://novayagazeta.ru/articles/2020/11/03/87817-gorech-voinskoy-slavy
+**link:** [Горечь воинской славы](2020/11/03/87817-gorech-voinskoy-slavy.md)

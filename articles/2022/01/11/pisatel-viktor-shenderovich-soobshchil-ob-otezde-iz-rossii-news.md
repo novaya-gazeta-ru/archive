@@ -17,12 +17,12 @@ tags: "шендерович, отъезд, иноагенты, ng"
 
 Шендерович пояснил, что принял такое решение из-за того, что бизнесмен Евгений Пригожин потребовал завести на него уголовное дело о клевете (ст. 128.1 УК). «От личного участия в уголовном деле <…> я, пожалуй, воздержусь», — написал Шендерович. Куда именно уехал публицист, не уточняется.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/10/psikhoterapiia-zastoia
+**Читайте также:** [https://novayagazeta.ru/articles/2022/01/10/psikhoterapiia-zastoia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/01/10/psikhoterapiia-zastoia)
 
-Приморский районный суд Санкт-Петербурга 24 декабря [взыскал](https://novayagazeta.ru/articles/2021/12/24/sud-v-sankt-peterburge-vzyskal-s-ekha-moskvy-million-rublei-v-polzu-prigozhina-news) 1 млн рублей с «Эха Москвы» и 100 тысяч рублей с Шендеровича по иску Пригожина о защите чести, достоинства и деловой репутации. Поводом для иска в суд стали слова публициста в передаче «Особое мнение». После решения суда Пригожин попросил завести на Шендеровича уголовное дело о клевете.
+Приморский районный суд Санкт-Петербурга 24 декабря [взыскал](2021/12/24/sud-v-sankt-peterburge-vzyskal-s-ekha-moskvy-million-rublei-v-polzu-prigozhina-news.md) 1 млн рублей с «Эха Москвы» и 100 тысяч рублей с Шендеровича по иску Пригожина о защите чести, достоинства и деловой репутации. Поводом для иска в суд стали слова публициста в передаче «Особое мнение». После решения суда Пригожин попросил завести на Шендеровича уголовное дело о клевете.
 
-Минюст РФ [внес](https://novayagazeta.ru/articles/2021/12/30/miniust-vnes-v-reestr-inoagentov-pisatelia-viktora-shenderovicha-uchastnits-pussy-riot-glavreda-kholoda-i-eshche-chetyrekh-chelovek-news) Шендеровича в список СМИ-«иностранных агентов» 30 декабря. В тот же день в реестре оказались участницы панк-группы Pussy Riot Вероника Никульшина* и Надежда Толоконникова*, главный редактор издания «Холод» Таисия Бекбулатова*, галерист Марат Гельман*, а также Иван Беляев* из «Радио Свобода»*, Елена Владыкина* из «Север.Реалий»*.
+Минюст РФ [внес](2021/12/30/miniust-vnes-v-reestr-inoagentov-pisatelia-viktora-shenderovicha-uchastnits-pussy-riot-glavreda-kholoda-i-eshche-chetyre.md) Шендеровича в список СМИ-«иностранных агентов» 30 декабря. В тот же день в реестре оказались участницы панк-группы Pussy Riot Вероника Никульшина* и Надежда Толоконникова*, главный редактор издания «Холод» Таисия Бекбулатова*, галерист Марат Гельман*, а также Иван Беляев* из «Радио Свобода»*, Елена Владыкина* из «Север.Реалий»*.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany
+**Читайте также:** [https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany)
 
 #### *внесены Минюстом РФ в список СМИ, выполняющих функцию иностранного агента

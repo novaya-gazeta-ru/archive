@@ -15,7 +15,7 @@ tags: "биробиджан, антиваксеры, скорая помощь, 
 
 > **обновлено 6 ноября**
 >
-> Отказавшиеся вакцинироваться сотрудники «скорой» в ЕАО [отозвали](https://novayagazeta.ru/articles/2021/11/06/ne-zhelavshie-vaktsinirovatsia-sotrudniki-skoroi-v-eao-otozvali-zaiavleniia-ob-uvolnenii-news) заявления об увольнении.
+> Отказавшиеся вакцинироваться сотрудники «скорой» в ЕАО [отозвали](2021/11/06/ne-zhelavshie-vaktsinirovatsia-sotrudniki-skoroi-v-eao-otozvali-zaiavleniia-ob-uvolnenii-news.md) заявления об увольнении.
 
 ![](_assets/11/11bf68e2f7581a794a707bffa08aa696.webp)
 

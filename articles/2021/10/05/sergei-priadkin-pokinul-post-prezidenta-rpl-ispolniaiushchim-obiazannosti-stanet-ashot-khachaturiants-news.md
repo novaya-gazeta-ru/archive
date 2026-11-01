@@ -19,4 +19,4 @@ tags: "рпл, футбол, спорт, прядкин, хачатурянц, d
 
 По данным Sport24, Рустем Сайманов («Рубин»), Шамиль Газизов («Уфа»), Павел Пивоваров («Динамо») и Роман Бабаев (ЦСКА) [отказались](https://sport24.ru/news/football/2021-10-05-saymanov-gazizov-pivovarov-i-babayev-otkazalis-zanyat-mesto-io-prezidenta-rpl) стать и.о. руководителя РПЛ. Прядкин возглавлял РПЛ с 2007 года, на новый срок его переизбрали в марте прошлого года.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/18/nikto-s-miachom-k-nam-ne-pridet
+**Читайте также:** [Никто с мячом к нам не придет](2021/09/18/nikto-s-miachom-k-nam-ne-pridet.md)

@@ -29,6 +29,6 @@ tags: ""
 
 В конце декабря 2024 года родственники обвиняемых пытались выразить свое возмущение избыточно жестокими приговорами на встрече с омбудсменом республики Запиром Алхасовым в «Доме дружбы» Махачкалы. Несколько месяце спустя омбудсмен [заявил](https://www.chernovik.net/news/u-makhachkaly-v-oktyabre-2025-goda-budet-novyy-mer-osuzhdyonnye-po-aeroportovskomu-delu), что единственное, чем может помочь аппарат уполномоченного по правам человека — добиться того, чтобы осужденные отправились отбывать срок в Дагестане, и помочь с обжалованием приговоров.
 
-Кстати, Telegram в республике после беспорядков [блокируют](https://novayagazeta.ru/articles/2025/03/08/v-dagestane-telegram-zablokirovali-po-resheniiu-moskvy-posle-pogroma-aeroporta-makhachkaly-v-oktiabre-2023-goda-news) — «по решению Москвы».
+Кстати, Telegram в республике после беспорядков [блокируют](2025/03/08/v-dagestane-telegram-zablokirovali-po-resheniiu-moskvy-posle-pogroma-aeroporta-makhachkaly-v-oktiabre-2023-goda-news.md) — «по решению Москвы».
 
 #### * Минюст включил в реестр иноагентов.

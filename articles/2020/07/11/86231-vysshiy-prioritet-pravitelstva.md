@@ -19,7 +19,7 @@ tags: "дипломатия, нидерланды, украина, малайз�
 
 Отныне Нидерланды как государство являются стороной инициированного ими процесса в ЕСПЧ, поддержав иск группы своих граждан — родственников жертв катастрофы. Государственная жалоба подана одновременно с подачей их индивидуальных жалоб.
 
-**link:** https://novayagazeta.ru/articles/2020/06/09/85777-oni-ne-dolzhny-byli-letet
+**link:** [https://novayagazeta.ru/articles/2020/06/09/85777-oni-ne-dolzhny-byli-letet](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/06/09/85777-oni-ne-dolzhny-byli-letet)
 
 > Почему Нидерланды обратились в ЕСПЧ именно сейчас?
 

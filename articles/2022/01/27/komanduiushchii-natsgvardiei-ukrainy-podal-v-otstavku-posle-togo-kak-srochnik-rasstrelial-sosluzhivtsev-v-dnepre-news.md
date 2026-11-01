@@ -29,4 +29,4 @@ tags: "нацгвардия, днепр, украина, расстрел, ср�
 
 Госбюро расследований Украины [начало](https://dbr.gov.ua/news/dbr-zareestruvalo-kriminalne-provadzhennya-shhodo-sluzhbovoi-nedbalosti-kerivnictva-nacgvardii-suhachov) следствие по факту халатности руководства Нацгвардии (*ч.3 ст. 425 УК Украины — небрежное отношение военного должностного лица к службе, повлекшее тяжкие последствия*). Среди возможных причин расстрела следователи назвали неуставные отношения и травлю.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/12/dedovshchine-obiavlen-otboi
+**Читайте также:** [https://novayagazeta.ru/articles/2021/10/12/dedovshchine-obiavlen-otboi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/10/12/dedovshchine-obiavlen-otboi)

@@ -17,9 +17,9 @@ tags: ""
 
 **За экспертной оценкой сложившейся ситуации мы обратились к известному экономисту Сергею Алексашенко, который в 90-е занимал высокие должности в Минфине и Центробанке РФ, в последние годы был директором по макроэкономическим исследованиям НИУ ВШЭ, а с сентября этого года живет и работает в Вашингтоне.**
 
-**link:** https://novayagazeta.ru/economy/66038.html
+**link:** [https://novayagazeta.ru/economy/66038.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/66038.html)
 
-**link:** https://novayagazeta.ru/economy/66038.html
+**link:** [https://novayagazeta.ru/economy/66038.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/66038.html)
 
 **—Сергей Владимирович, падение курса рубля — это заранее продуманная операция по девальвации или «невидимая рука рынка»?**
 

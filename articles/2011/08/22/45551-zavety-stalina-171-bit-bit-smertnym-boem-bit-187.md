@@ -38,7 +38,7 @@ tags: ""
 		<p>
 			И сегодня эти документы — наглядное и убедительное свидетельство о силе и бессилии позднего Сталина, когда даже сотрудники аппарата МГБ понимали, как об этом писал в своей записке Гоглидзе, что их впрямую толкают на нарушение закона. Но ослушаться они не смели… Ну и чем не урок для дня сегодняшнего?</p>
 		<p>
-			<strong><font size="3"><img align="right" alt="" border="0" hspace="15" src="http://www.novayagazeta.ru/ai/article.1574867/pics.4.jpg" vspace="15">«Следователи работают без души»</font></strong></p>
+			<strong><font size="3"><img align="right" alt="" border="0" hspace="15" src="[http://www.novayagazeta.ru/ai/article.1574867/pics.4.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/ai/article.1574867/pics.4.jpg)" vspace="15">«Следователи работают без души»</font></strong></p>
 		<p>
 			<strong>Объяснительная записка начальника 3 управления МВД СССР С.А. Гоглидзе министру внутренних дел СССР Л.П. Берии о расследовании в МГБ СССР «дела врачей». 26 марта</strong></p>
 		<p>
@@ -116,7 +116,7 @@ tags: ""
 			<em>*Токуда Кюити (1894—1953) — Генеральный секретарь ЦК Компартии Японии. Торез Морис (1900—1964) — Генеральный секретарь ЦК Компартии Франции. Димитров Георги (1882—1949) — Генеральный секретарь ЦК Компартии Болгарии. Ефремов Александр Илларионович (1904—1951) — заместитель председателя Совета Министров СССР.</em></p>
 		<p>
 			<br>
-			<strong><font size="3"><img align="right" alt="" border="0" hspace="15" src="http://www.novayagazeta.ru/ai/article.1574867/pics.5.jpg" vspace="15">«Надели ему кандалы?», или Бегемоты в белых перчатках</font></strong></p>
+			<strong><font size="3"><img align="right" alt="" border="0" hspace="15" src="[http://www.novayagazeta.ru/ai/article.1574867/pics.5.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/ai/article.1574867/pics.5.jpg)" vspace="15">«Надели ему кандалы?», или Бегемоты в белых перчатках</font></strong></p>
 		<p>
 			<strong>Объяснительная записка бывшего министра госбезопасности СССР С.Д. Игнатьева министру внутренних дел СССР Л.П. Берии о «деле врачей». 27 марта 1953 г.</strong></p>
 		<p>
@@ -188,7 +188,7 @@ tags: ""
 			Л. 447–454. Копия. Машинопись. Там же. Л. 459–464. Подлинник.</strong></p>
 		<p>
 			<br>
-			<strong><font size="3"><img align="right" alt="" border="0" hspace="15" src="http://www.novayagazeta.ru/ai/article.1574867/pics.6.jpg" vspace="15">Два пути чекиста: «на выдвижение или в тюрьму»</font></strong></p>
+			<strong><font size="3"><img align="right" alt="" border="0" hspace="15" src="[http://www.novayagazeta.ru/ai/article.1574867/pics.6.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/ai/article.1574867/pics.6.jpg)" vspace="15">Два пути чекиста: «на выдвижение или в тюрьму»</font></strong></p>
 		<p>
 			<strong>Рапорт начальника Следственной части по особо важным делам МВД СССР Л.Е. Влодзимирского министру внутренних дел СССР Л.П. Берии о дополнениях С.Д. Игнатьева к его объяснительной записке о «деле врачей». 27 марта 1953 г.</strong></p>
 		<p>

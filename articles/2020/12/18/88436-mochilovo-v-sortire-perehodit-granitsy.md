@@ -47,7 +47,7 @@ tags: "лукашенко, как у них, мирный протест, пра
 
 Он даже объяснил, что война начнется под видом гуманитарного вмешательства. Правда, не уточнил, с какой именно стороны.
 
-**link:** https://novayagazeta.ru/articles/2020/12/03/88215-zima-diktatora-kogda-rossiya-sdast-belorusam-lukashenko-strim
+**link:** [Зима диктатора. Когда Россия сдаст белорусам Лукашенко? Стрим](2020/12/03/88215-zima-diktatora-kogda-rossiya-sdast-belorusam-lukashenko-strim.md)
 
 ![](_assets/9b/9bbcbf4f33d717c5cd7540eea7319426.webp)
 

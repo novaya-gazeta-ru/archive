@@ -85,7 +85,7 @@ tags: ""
 
 *Фото: Светлана Виданова / «Новая газета»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/16/rossiia-s-chelovecheskim-litsom
+**Читайте также:** [Россия с человеческим лицом](2025/02/16/rossiia-s-chelovecheskim-litsom.md)
 
 ## Петербург
 

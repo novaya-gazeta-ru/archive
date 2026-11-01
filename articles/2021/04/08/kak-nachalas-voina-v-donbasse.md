@@ -31,26 +31,26 @@ tags: "донбасс, война на донбассе, украина, как 
 
 ### В предыдущих эпизодах «Продолжения следует»
 
-[Убийства чести. Расследование казней в кадыровской Чечне. Читает Михаил Козырев](https://novayagazeta.ru/articles/2021/03/26/ubiistva-chesti-podkast-prodolzhenie-sleduet-o-rassledovanii-kaznei-v-kadyrovskoi-chechne)
+[Убийства чести. Расследование казней в кадыровской Чечне. Читает Михаил Козырев](2021/03/26/ubiistva-chesti-podkast-prodolzhenie-sleduet-o-rassledovanii-kaznei-v-kadyrovskoi-chechne.md)
 
-[Как присоединяли Крым. Читает Михаил Зыгарь](https://novayagazeta.ru/articles/2021/03/12/kak-prisoediniali-krym)
+[Как присоединяли Крым. Читает Михаил Зыгарь](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/03/12/kak-prisoediniali-krym)
 
-[Россия в 2021 году глазами Немцова. Послание потомкам. Читает Илья Яшин](https://novayagazeta.ru/articles/2021/02/26/89389-rossiya-v-2021-godu-glazami-nemtsova-poslanie-potomkam-slushat)
+[Россия в 2021 году глазами Немцова. Послание потомкам. Читает Илья Яшин](2021/02/26/89389-rossiya-v-2021-godu-glazami-nemtsova-poslanie-potomkam-slushat.md)
 
-[Цена свободы. 7 лет назад в Украине победил Майдан, Янукович бежал из Киева. Вспоминаем с Ириной Шихман](https://novayagazeta.ru/articles/2021/02/12/89183-tsena-svobody-7-let-posle-maydana)
+[Цена свободы. 7 лет назад в Украине победил Майдан, Янукович бежал из Киева. Вспоминаем с Ириной Шихман](2021/02/12/89183-tsena-svobody-7-let-posle-maydana.md)
 
-[Что на самом деле случилось в рязанской многоэтажке в 1999 году — неудавшийся теракт или учения ФСБ? Расследование читает Алексей Пивоваров](https://novayagazeta.ru/articles/2021/01/28/88930-ryazanskiy-sahar-podkast)
+[Что на самом деле случилось в рязанской многоэтажке в 1999 году — неудавшийся теракт или учения ФСБ? Расследование читает Алексей Пивоваров](2021/01/28/88930-ryazanskiy-sahar-podkast.md)
 
-[Как и почему сбили малайзийский «Боинг». Рассказывают Павел Каныгин, Христо Грозев и Вадим Лукашевич](https://novayagazeta.ru/articles/2021/01/14/88703-kak-i-pochemu-sbili-malaziyskiy-boing)
+[Как и почему сбили малайзийский «Боинг». Рассказывают Павел Каныгин, Христо Грозев и Вадим Лукашевич](2021/01/14/88703-kak-i-pochemu-sbili-malaziyskiy-boing.md)
 
-[Главный заложник. Артур Смольянинов читает тюремную речь вице-президента ЮКОСа Василия Алексаняна](https://novayagazeta.ru/articles/2020/12/24/88502-glavnyy-zalozhnik)
+[Главный заложник. Артур Смольянинов читает тюремную речь вице-президента ЮКОСа Василия Алексаняна](2020/12/24/88502-glavnyy-zalozhnik.md)
 
-[Леонид Парфенов читает военные репортажи майора Вячеслава Измайлова](https://novayagazeta.ru/articles/2020/12/11/88325-nenuzhnaya-voyna-podkast)
+[Леонид Парфенов читает военные репортажи майора Вячеслава Измайлова](2020/12/11/88325-nenuzhnaya-voyna-podkast.md)
 
-[Репортаж Политковской о ее походе на переговоры к террористам, захватившим «Норд-Ост». Читает Чулпан Хаматова](https://novayagazeta.ru/articles/2020/10/23/87653-10-chasov-do-shturma-podkast)
+[Репортаж Политковской о ее походе на переговоры к террористам, захватившим «Норд-Ост». Читает Чулпан Хаматова](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/10/23/87653-10-chasov-do-shturma-podkast)
 
-[Репортаж Анны Политковской о ее первой встрече с Рамзаном Кадыровым. Читает Юлия Ауг](https://novayagazeta.ru/articles/2020/10/07/87411-ya-zhdala-avtomatnuyu-ochered-v-spinu-spetsvypusk-podkasta-chto-novogo)
+[Репортаж Анны Политковской о ее первой встрече с Рамзаном Кадыровым. Читает Юлия Ауг](2020/10/07/87411-ya-zhdala-avtomatnuyu-ochered-v-spinu-spetsvypusk-podkasta-chto-novogo.md)
 
-[Расследование Елены Костюченко о массовой резне в станице Кущевская, часть первая. Читает Надежда Толоконникова](https://novayagazeta.ru/articles/2020/11/04/87829-nam-zdes-zhit-chast-1-massovaya-reznya-v-kuschevke-spetsvypusk-podkasta-novoy)
+[Расследование Елены Костюченко о массовой резне в станице Кущевская, часть первая. Читает Надежда Толоконникова](2020/11/04/87829-nam-zdes-zhit-chast-1-massovaya-reznya-v-kuschevke-spetsvypusk-podkasta-novoy.md)
 
-[Сексуальное насилие — национальная скрепа. Вторая часть расследования Елены Костюченко о Кущевке. Читает Надежда Толоконникова](https://novayagazeta.ru/articles/2020/11/19/88016-nasilie-stalo-duhovnoy-skrepoy)
+[Сексуальное насилие — национальная скрепа. Вторая часть расследования Елены Костюченко о Кущевке. Читает Надежда Толоконникова](2020/11/19/88016-nasilie-stalo-duhovnoy-skrepoy.md)

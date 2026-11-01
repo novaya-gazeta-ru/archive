@@ -27,6 +27,6 @@ tags: "опрос, протесты, акции протеста, митинги
 
 В российских городах 23 и 31 января, а также 2 февраля прошли протестные акции в поддержку политика Алексея Навального. В ходе протестов задержаны более 10 тысяч человек, некоторые из них получили реальные сроки.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/25/oppozitsiia-v-rossii-sushchestvuet-ne-potomu-chto-aleksei-navalnyi-komanduet
+**Читайте также:** [https://novayagazeta.ru/articles/2021/08/25/oppozitsiia-v-rossii-sushchestvuet-ne-potomu-chto-aleksei-navalnyi-komanduet](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/08/25/oppozitsiia-v-rossii-sushchestvuet-ne-potomu-chto-aleksei-navalnyi-komanduet)
 
 #### **внесен Минюстом в реестр НКО, выполняющих функции иностранного агента*

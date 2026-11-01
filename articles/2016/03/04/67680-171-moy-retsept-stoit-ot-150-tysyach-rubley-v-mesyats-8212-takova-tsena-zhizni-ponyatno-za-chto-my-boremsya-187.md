@@ -20,9 +20,9 @@ tags: "здравоохранение, кризис, медицина"
 <p>Самые уязвимые те больные, которым должны помогать регионы: а они на 90% дотационные. И не выдерживают нагрузки орфанных заболеваний. В прошлом году федеральный бюджет выделил регионам дополнительные 16 млрд. руб., потому что в конце третьего квартала средства на лекарственное обеспечение закончились. Такая помощь заложена в Резервном фонде и на 2016 год. Но надежд на нее, притом что именно антикризисные траты планируется сокращать, — мало.</p>
 
 <blockquote>
-<p><strong><a href="http://www.novayagazeta.ru/society/72090.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2016/03/03/1457025422_640021_69.png" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+<p><strong><a href="[http://www.novayagazeta.ru/society/72090.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/72090.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2016/03/03/1457025422_640021_69.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2016/03/03/1457025422_640021_69.png)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/society/72090.html" target="_blank"><strong>Здравоохранение во время кризиса пойдет под нож. Доктор Рошаль заинтересовался, где лечатся чиновники Минфина</strong></a></p>
+<p><a href="[http://www.novayagazeta.ru/society/72090.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/72090.html)" target="_blank"><strong>Здравоохранение во время кризиса пойдет под нож. Доктор Рошаль заинтересовался, где лечатся чиновники Минфина</strong></a></p>
 </blockquote>
 
 <p>Впрочем, способ решения проблем пациентов у нас есть. Это федеральная программа «7 нозологий». Мы побеседовали с президентом всероссийского общества гемофилии, которая входит в эту программу, <strong>Юрием Жулевым</strong>, и он сообщил: <strong>&nbsp;«</strong>Больные гемофилией в России обеспечены препаратами на европейском уровне, получают не только экстренную помощь, но и адекватное профилактическое лечение, при котором могут жить полноценной жизнью».</p>

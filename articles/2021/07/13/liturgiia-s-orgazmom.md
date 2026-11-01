@@ -41,7 +41,7 @@ tags: "каннский кинофестиваль, андерсон, верхо
 
 - *В российский прокат фильм выйдет под названием «Искушение» 7 октября.*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/12/petrovy-v-grippe-i-drugie-koshmary-kirilla-serebrennikova
+**Читайте также:** [«Петровы в гриппе» и другие кошмары Кирилла Серебренникова](2021/07/12/petrovy-v-grippe-i-drugie-koshmary-kirilla-serebrennikova.md)
 
 # **«Три этажа»**
 

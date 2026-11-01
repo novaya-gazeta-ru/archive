@@ -73,4 +73,4 @@ tags: "протесты , навальный, силовики, росгвард
 
 По данным «ОВД-Инфо» на 6 утра 22 апреля, всего в Москве, превентивно и в ходе акции, было задержано 29 человек.
 
-**Насилие на акциях в Петербурге. Как это было:** https://novayagazeta.ru/articles/2021/04/22/v-peterburge-na-aktsii-solidarnosti-s-alekseem-navalnym-politsiia-vpervye-massovo-primeniala-elektroshokery
+**Насилие на акциях в Петербурге. Как это было:** [В Петербурге на акции солидарности с Алексеем Навальным полиция впервые массово применяла электрошокеры](2021/04/22/v-peterburge-na-aktsii-solidarnosti-s-alekseem-navalnym-politsiia-vpervye-massovo-primeniala-elektroshokery.md)

@@ -70,7 +70,7 @@ tags: ""
 
 Так что болгары были обвинены в этом деле в «повреждении или уничтожении имущества по причине принадлежности к предполагаемой расе, этнической группе, нации или религии» и «участии в преступном сообществе», с нанесением ущерба мэрии Парижа и Мемориалу Холокоста.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/09/30/11-chelovek-arestovany-v-serbii-za-radikalnye-provokatsii-antimusulmanskoi-napravlennosti-vo-frantsii-i-germanii-zaiavleniia-o-kuratorakh-rossiianakh-poka-nichem-ne-podkrepleny-news
+**Читайте также:** [11 человек арестованы в Сербии за радикальные провокации против мусульман во Франции и Германии. Заявления о «кураторах»-россиянах пока ничем не подкреплены](2025/09/30/11-chelovek-arestovany-v-serbii-za-radikalnye-provokatsii-antimusulmanskoi-napravlennosti-vo-frantsii-i-germanii-zaiavle.md)
 
 Адвокат Галина Эльбаз, представлявшая на процессе одного из гражданских истцов — Международную лигу против расизма и антисемитизма — подчеркнула ([цитата по Libération](https://www.liberation.fr/societe/police-justice/au-proces-des-mains-rouges-sur-le-memorial-de-la-shoah-un-raid-pense-et-organise-et-la-gangrene-de-lantisemitisme-20251031_2TKZI7CAUBG6ZDZXWWOPS44QLM/?redirected=1)): «Трое из четырех имеют прошлое в ультраправой среде своей страны. [Предполагаемое иностранное] вмешательство не оправдывает антисемитизм, не исключает его, а инструментализирует».
 

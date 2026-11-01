@@ -189,7 +189,7 @@ tags: "выборы2016, памфилова, воробьев андрей, мо
 
 В Мытищах было несколько подобных протоколов. Например, в одном из них украли голоса у единороссов. Как потом объяснил мне Андрей Бузин из «Голоса», такие протоколы нередко используют для «отмазки», что, мол, нашу партию тоже обокрали.
 
-**link:** https://novayagazeta.ru/news/2016/11/30/127041-gubernator-vorobiev-ne-soglasilsya-ispolnit-rekomendatsiyu-tsik
+**link:** [https://novayagazeta.ru/news/2016/11/30/127041-gubernator-vorobiev-ne-soglasilsya-ispolnit-rekomendatsiyu-tsik](https://web.archive.org/web/*/https://novayagazeta.ru/news/2016/11/30/127041-gubernator-vorobiev-ne-soglasilsya-ispolnit-rekomendatsiyu-tsik)
 
 В моем списке, правда очень коротком, есть 14 УИК с зеленой маркировкой. Это означает, что расхождений данных не обнаружено.
 

@@ -19,4 +19,4 @@ tags: "sn, тюрьма, фийон, париж"
 
 После выдвинутых обвинений рейтинг Фийона, который за свою политическую карьеру успел возглавить несколько министерств и побывать премьер-министром, резко упал и бывший фаворит гонки не смог выйти во второй тур.
 
-**link:** https://novayagazeta.ru/articles/2020/06/29/86064-byvshiy-premier-frantsii-fransua-fiyon-prigovoren-k-5-godam
+**link:** [Приговор высочайшего давления](2020/06/29/86064-byvshiy-premier-frantsii-fransua-fiyon-prigovoren-k-5-godam.md)

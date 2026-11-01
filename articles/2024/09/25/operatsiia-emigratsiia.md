@@ -214,7 +214,7 @@ tags: ""
 
 В ОГПУ потирали руки.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/17/velikii-perelom-ob-koleno
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/17/velikii-perelom-ob-koleno](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/17/velikii-perelom-ob-koleno)
 
 ## Террор заказывали?
 

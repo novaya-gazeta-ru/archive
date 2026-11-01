@@ -23,4 +23,4 @@ tags: ""
 
 «В России даже в паспорте национальность не указывают», — напомнил он.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/19/v-krasnodare-siloviki-v-maskakh-vorvalis-v-detskuiu-shkolu-edinoborstv-i-ulozhili-ee-vospitannikov-litsom-v-pol-politsiia-nazvala-eto-profilakticheskimi-meropriiatiiami-news
+**Читайте также:** [В Краснодаре силовики в масках ворвались в детскую школу единоборств и уложили ее воспитанников лицом в пол. Полиция назвала это «профилактическими мероприятиями»](2025/02/19/v-krasnodare-siloviki-v-maskakh-vorvalis-v-detskuiu-shkolu-edinoborstv-i-ulozhili-ee-vospitannikov-litsom-v-pol-politsii.md)

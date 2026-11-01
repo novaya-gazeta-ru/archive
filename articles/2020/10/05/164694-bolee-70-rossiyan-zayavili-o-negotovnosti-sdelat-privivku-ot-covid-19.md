@@ -19,10 +19,10 @@ tags: "вакцины,   ng"
 
 52% опрошенных заявили, что ожидают второй волны пандемии, при этом 11% не верят в существование COVID-19.
 
-**link:** https://novayagazeta.ru/articles/2020/09/09/87013-s-vaktsinoy-chto-to-ne-to
+**link:** [С вакциной что-то не то](2020/09/09/87013-s-vaktsinoy-chto-to-ne-to.md)
 
-22 сентября Минздрав [разрешил](https://novayagazeta.ru/news/2020/09/22/164417-minzdrav-razreshil-ispytaniya-esche-odnoy-rossiyskoy-vaktsiny-ot-covid-19) клинические испытания вакцины от COVID-19, разработанной Федеральным научным центром исследований и разработки иммунобиологических препаратов имени М.П. Чумакова РАН.
+22 сентября Минздрав [разрешил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/09/22/164417-minzdrav-razreshil-ispytaniya-esche-odnoy-rossiyskoy-vaktsiny-ot-covid-19) клинические испытания вакцины от COVID-19, разработанной Федеральным научным центром исследований и разработки иммунобиологических препаратов имени М.П. Чумакова РАН.
 
-О регистрации первой российской вакцины «Спутник V» президент Владимир Путин объявил 11 августа, в гражданский оборот ее первую партию [выпустили](https://novayagazeta.ru/news/2020/09/08/164150-pervuyu-partiyu-rossiyskoy-vaktsiny-ot-koronavirusa-vypustili-v-grazhdanskiy-oborot) 8 сентября. Вакцину разработал центр имени Гамалеи совместно с институтом Минобороны.
+О регистрации первой российской вакцины «Спутник V» президент Владимир Путин объявил 11 августа, в гражданский оборот ее первую партию [выпустили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/09/08/164150-pervuyu-partiyu-rossiyskoy-vaktsiny-ot-koronavirusa-vypustili-v-grazhdanskiy-oborot) 8 сентября. Вакцину разработал центр имени Гамалеи совместно с институтом Минобороны.
 
-Ассоциация организаций по клиническим исследованиям [предлагала](https://www.rbc.ru/society/11/08/2020/5f31b8949a79476e8835ef23) отложить регистрацию до завершения испытаний на нескольких тысячах человек. Вопросы к вакцине возникли и у ряда западных ученых, центр имени Гамалеи [сообщал](https://novayagazeta.ru/news/2020/09/10/164190-nii-gamalei-napravil-lancet-poyasneniya-po-statie-o-rossiyskoy-vaktsine-sputnik-v), что направил им развернутые ответы.
+Ассоциация организаций по клиническим исследованиям [предлагала](https://www.rbc.ru/society/11/08/2020/5f31b8949a79476e8835ef23) отложить регистрацию до завершения испытаний на нескольких тысячах человек. Вопросы к вакцине возникли и у ряда западных ученых, центр имени Гамалеи [сообщал](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/09/10/164190-nii-gamalei-napravil-lancet-poyasneniya-po-statie-o-rossiyskoy-vaktsine-sputnik-v), что направил им развернутые ответы.

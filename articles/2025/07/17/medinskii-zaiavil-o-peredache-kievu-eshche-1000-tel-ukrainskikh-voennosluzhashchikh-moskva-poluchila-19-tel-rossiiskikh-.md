@@ -29,4 +29,4 @@ tags: ""
 
 В МИД РФ заявили, что Трамп находится [«под неприличным» давлением](https://t.me/novaya_pishet/52629) Евросоюза. Путин [пока никак не прокомментировал](https://t.me/novaya_pishet/52615) ультиматум.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/16/effekt-kapel-datskogo-korolia
+**Читайте также:** [Эффект Капель датского короля](2025/07/16/effekt-kapel-datskogo-korolia.md)

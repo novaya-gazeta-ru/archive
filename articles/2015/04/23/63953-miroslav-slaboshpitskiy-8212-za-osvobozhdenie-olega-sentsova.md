@@ -13,6 +13,6 @@ tags: "кино, крым, права человека, преследовани
 
 Мирослав Слабошпицкий — украинский режиссер и сценарист. Обладатель Серебряного Леопарда Международного кинофестиваля в Локарно. Его фильм «Племя» на каннской Неделе критики получил три награды из четырёх возможных, а также призы Лондонского, Миланского фестивалей и европейский «Оскар».
 
-**link:** https://novayagazeta.ru/arts/68135.html
+**link:** [https://novayagazeta.ru/arts/68135.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/68135.html)
 
-**link:** https://novayagazeta.ru/arts/68135.html
+**link:** [https://novayagazeta.ru/arts/68135.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/68135.html)

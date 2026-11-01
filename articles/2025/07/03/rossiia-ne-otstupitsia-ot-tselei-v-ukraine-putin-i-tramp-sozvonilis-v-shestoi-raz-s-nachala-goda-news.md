@@ -33,4 +33,4 @@ tags: ""
 
 Стороны договорились в будущем реализовывать взаимные перспективные проекты в экономике и космосе, закончил Ушаков.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/03/11-rossiiskikh-politzakliuchennykh-iz-kolonii-v-kollektivnom-pisme-prizvali-moskvu-i-kiev-k-obmenu-vsekh-na-vsekh-voennoplennykh-i-grazhdanskikh-lits-news
+**Читайте также:** [11 российских политзаключенных из колоний в коллективном письме призвали Москву и Киев к обмену «всех на всех» военнопленных и гражданских лиц&nbsp;](2025/07/03/11-rossiiskikh-politzakliuchennykh-iz-kolonii-v-kollektivnom-pisme-prizvali-moskvu-i-kiev-k-obmenu-vsekh-na-vsekh-voenno.md)

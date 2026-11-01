@@ -23,4 +23,4 @@ tags: "поправки в конституцию, коронавирус, va"
 
 *Фото: скриншот видео омской администрации / «ВКонтакте»*
 
-**link:** https://novayagazeta.ru/articles/2020/04/03/84688-a-chs-nasovsem-ne-hotite
+**link:** [А ЧС насовсем не хотите?](2020/04/03/84688-a-chs-nasovsem-ne-hotite.md)

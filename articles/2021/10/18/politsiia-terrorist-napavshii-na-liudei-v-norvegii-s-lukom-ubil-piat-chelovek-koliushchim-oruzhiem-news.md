@@ -23,6 +23,6 @@ tags: "террори, норвегия, лук, стрелы, конгсбер�
 
 По делу был задержан 37-летний гражданин Дании Эспен Андерсен Бротен, проживающий в Конгсберге недалеко от Осло. Ранее сообщалось, что он якобы несколько лет назад принял ислам и радикализовался, но полиция [не подтвердила](https://www.nrk.no/norge/politiet_-hypotesen-om-at-siktede-konverterte-er-svekket-1.15692593) эту гипотезу. 15 октября суд предъявил ему обвинение и заключил под стражу на четыре недели.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/11/03/87824-voyna-tsivilizatsii-i-varvarstva
+**Читайте также:** [Война цивилизации и варварства](2020/11/03/87824-voyna-tsivilizatsii-i-varvarstva.md)
 
-Нападение в норвежском Конгсберге [произошло](https://novayagazeta.ru/articles/2021/10/13/v-norvezhskom-kongsberge-v-rezultate-napadeniia-muzhchiny-s-lukom-i-strelami-pogibli-neskolko-chelovek-news) 13 октября. В результате теракта [погибли](https://novayagazeta.ru/articles/2021/10/14/piat-chelovek-pogibli-i-dvoe-poluchili-raneniia-v-rezultate-ataki-cheloveka-s-lukom-v-norvezhskom-kongsberge-news) пять человек в возрасте от 52 до 78 лет, двое получили ранения.
+Нападение в норвежском Конгсберге [произошло](2021/10/13/v-norvezhskom-kongsberge-v-rezultate-napadeniia-muzhchiny-s-lukom-i-strelami-pogibli-neskolko-chelovek-news.md) 13 октября. В результате теракта [погибли](2021/10/14/piat-chelovek-pogibli-i-dvoe-poluchili-raneniia-v-rezultate-ataki-cheloveka-s-lukom-v-norvezhskom-kongsberge-news.md) пять человек в возрасте от 52 до 78 лет, двое получили ранения.

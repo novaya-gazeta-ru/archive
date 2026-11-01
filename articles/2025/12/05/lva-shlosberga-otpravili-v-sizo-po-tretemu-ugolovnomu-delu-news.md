@@ -19,4 +19,4 @@ tags: "шлосберг, аресты, сизо, уголовное дело, ф
 
 **Власти РФ считают «иноагентом»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/12/05/na-pskovskogo-politika-lva-shlosberga-zaveli-trete-ugolovnoe-delo-o-feikakh-protiv-armii-news
+**Читайте также:** [На псковского политика Льва Шлосберга* завели третье уголовное дело — о «фейках» против армии](2025/12/05/na-pskovskogo-politika-lva-shlosberga-zaveli-trete-ugolovnoe-delo-o-feikakh-protiv-armii-news.md)

@@ -21,8 +21,8 @@ tags: "google, гугл, евросоюз, штраф, монополия, kn"
 
 Суд считает, что «поисковая система — это инфраструктура», которая не может действовать так, как пожелает частная компания. Bloomberg [отметил](https://www.bloomberg.com/news/articles/2021-11-10/google-loses-eu-court-fight-over-2-8-billion-antitrust-fine?srnd=premium-europe&sref=cus85deZ), что это решение может в будущем повлиять на работу в Евросоюзе других IT-компаний, к примеру Amazon, Apple и Meta.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/27/v-set-ne-po-pasportu
+**Читайте также:** [В сеть не по паспорту](2021/10/27/v-set-ne-po-pasportu.md)
 
 В Google отметили, что изучат решение суда. При этом компания [заявила](https://www.bloomberg.com/news/articles/2021-11-10/google-loses-eu-court-fight-over-2-8-billion-antitrust-fine?srnd=premium-europe&sref=cus85deZ), что соблюдает все требования ЕС с 2017 года и гарантирует «миллиарды кликов для более чем 700 сервисов сравнения покупок».
 
-В октябре Роскомнадзор впервые [потребовал](https://novayagazeta.ru/articles/2021/10/27/roskomnadzor-snova-potreboval-primenit-k-facebook-oborotnyi-shtraf-za-neudalenie-nezakonnogo-kontenta-news) применить к Google оборотный штраф за неудаление «незаконного» контента. Штраф может составить в размере от 5% до 10% годовой выручки, его точную сумму определит суд.
+В октябре Роскомнадзор впервые [потребовал](2021/10/27/roskomnadzor-snova-potreboval-primenit-k-facebook-oborotnyi-shtraf-za-neudalenie-nezakonnogo-kontenta-news.md) применить к Google оборотный штраф за неудаление «незаконного» контента. Штраф может составить в размере от 5% до 10% годовой выручки, его точную сумму определит суд.

@@ -17,4 +17,4 @@ tags: "чиновники, выборы, коррупция, дагестан"
 
 *При участии Александры Сорочинской*
 
-**link:** https://novayagazeta.ru/articles/2018/02/14/75506-pridut-na-zapah-konyaka
+**link:** [Придут на запах коньяка](2018/02/14/75506-pridut-na-zapah-konyaka.md)

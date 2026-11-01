@@ -24,6 +24,6 @@ tags: ""
 - **Почему Колумба снова восстанавливают?**
 - **И что национальная еда говорит о стране больше, чем политические декларации?**
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/05/13/iaponskaia-kukhnia-sakura-pelevin-maks-i-budushchee-bez-truda
+**Читайте также:** [Японская кухня, сакура, Пелевин, Макс и будущее без труда](2026/05/13/iaponskaia-kukhnia-sakura-pelevin-maks-i-budushchee-bez-truda.md)
 
 #### * Внесен в реестр иноагентов властями РФ.

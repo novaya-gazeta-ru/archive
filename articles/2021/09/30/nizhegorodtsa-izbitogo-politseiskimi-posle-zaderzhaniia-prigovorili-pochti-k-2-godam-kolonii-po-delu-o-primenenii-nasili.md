@@ -13,7 +13,7 @@ tags: "ng, нижний новгород, приговор"
 
 Нижегородский районный суд приговорил 45-летнего жителя города Романа Гусева к 1 году и 10 месяцам колонии строгого режима по делу о применении к полицейскому насилия, не опасного для жизни (ч. 1 ст. 318 УК). Об этом сообщает корреспондент «Новой газеты» из зала суда.
 
-Гусева взяли под стражу в зале суда. Адвокат Наталья Добронравова заявила, что будет обжаловать приговор. Прокурор [запрашивал](https://novayagazeta.ru/articles/2021/09/21/prokuror-zaprosil-tri-goda-kolonii-dlia-nizhegorodtsa-za-potasovku-s-politsiei-silovik-vybil-emu-zuby-i-slomal-kosti-litsa-a-sam-ostalsia-s-ssadinoi-na-gube-news) три года колонии строгого режима.
+Гусева взяли под стражу в зале суда. Адвокат Наталья Добронравова заявила, что будет обжаловать приговор. Прокурор [запрашивал](2021/09/21/prokuror-zaprosil-tri-goda-kolonii-dlia-nizhegorodtsa-za-potasovku-s-politsiei-silovik-vybil-emu-zuby-i-slomal-kosti-lit.md) три года колонии строгого режима.
 
 ![](_assets/a6/a6235ca728c97ed86ad665dcf5e0b3bb.webp)
 

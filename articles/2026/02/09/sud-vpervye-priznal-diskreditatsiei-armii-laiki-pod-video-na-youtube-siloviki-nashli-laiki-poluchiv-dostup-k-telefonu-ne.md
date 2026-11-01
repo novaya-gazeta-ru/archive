@@ -23,8 +23,8 @@ tags: ""
 
 Йовдий не участвовал в заседании. При этом суд утверждает, что он признал вину и заявил, что «не поддерживает действующий режим Украины». Суд квалифицировал действия пенсионера как «публичные».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/29/a-vy-na-shkaf-zalezte
+**Читайте также:** [«А вы на шкаф залезьте…»](2025/11/29/a-vy-na-shkaf-zalezte.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/28/inoagent-ekstremist-terrorist-chto-voobshche-proiskhodit-s-pravom-v-rossii
+**Читайте также:** [«Иноагент», «экстремист», «террорист»: что вообще происходит с правом в России?](2025/11/28/inoagent-ekstremist-terrorist-chto-voobshche-proiskhodit-s-pravom-v-rossii.md)
 
 #### * Минюст считает «иноагентом».

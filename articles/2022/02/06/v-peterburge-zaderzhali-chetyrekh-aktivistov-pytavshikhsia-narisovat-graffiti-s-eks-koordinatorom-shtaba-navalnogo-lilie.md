@@ -25,15 +25,15 @@ tags: "навальный, штаб навального, чанышева, Са
 
 Один из задержанных — автор граффити с Навальным, которое нарисовали на той же будке в апреле прошлого года. Тогда художника и других участников акции также задержали, а граффити закрасили.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/04/28/dukhovnye-skrebki
+**Читайте также:** [Духовные скребки](2021/04/28/dukhovnye-skrebki.md)
 
-Кировский районный суд Уфы [арестовал](https://dev.novayagazeta.ru/hyper/%C2%ABhttps://novayagazeta.ru/articles/2021/11/10/sud-otpravil-v-sizo-na-2-mesiatsa-soratnitsu-navalnogo-liliiu-chanyshevu-po-delu-ob-ekstremistskom-soobshchestve-news%C2%BB) Чанышеву на два месяца по делу о создании экстремистского сообщества 10 ноября — после этого ее этапировали в СИЗО-6 в Москве, так как дело расследует Центральный аппарат СК. Перед задержанием Чанышевой у нее и еще у ряда активистов в Кемеровской области и Башкортостане [прошли](https://dev.novayagazeta.ru/hyper/%C2%ABhttps://novayagazeta.ru/articles/2021/11/09/politsiia-prishla-s-obyskami-k-11-aktivistam-v-kuzbasse-i-bashkortostane-news%C2%BB) обыски.
+Кировский районный суд Уфы [арестовал](https://dev.novayagazeta.ru/hyper/%C2%AB[https://novayagazeta.ru/articles/2021/11/10/sud-otpravil-v-sizo-na-2-mesiatsa-soratnitsu-navalnogo-liliiu-chanyshevu-po-delu-ob-ekstremistskom-soobshchestve-news%C2%BB](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/10/sud-otpravil-v-sizo-na-2-mesiatsa-soratnitsu-navalnogo-liliiu-chanyshevu-po-delu-ob-ekstremistskom-soobshchestve-news%C2%BB)) Чанышеву на два месяца по делу о создании экстремистского сообщества 10 ноября — после этого ее этапировали в СИЗО-6 в Москве, так как дело расследует Центральный аппарат СК. Перед задержанием Чанышевой у нее и еще у ряда активистов в Кемеровской области и Башкортостане [прошли](https://dev.novayagazeta.ru/hyper/%C2%AB[https://novayagazeta.ru/articles/2021/11/09/politsiia-prishla-s-obyskami-k-11-aktivistam-v-kuzbasse-i-bashkortostane-news%C2%BB](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/09/politsiia-prishla-s-obyskami-k-11-aktivistam-v-kuzbasse-i-bashkortostane-news%C2%BB)) обыски.
 
-СК [возбудил](https://novayagazeta.ru/articles/2021/09/28/protiv-navalnogo-i-ego-soratnikov-vozbudili-delo-ob-ekstremistskom-soobshchestve-news) уголовное дело о создании экстремистского сообщества и руководстве им в отношении Алексея Навального (ч. 1 ст. 282.1 УК) в конце сентября. По этому же делу проходят его соратники Леонид Волков и Иван Жданов. Против Любови Соболь, Георгия Албурова, Руслана Шаведдинова, Вячеслава Гимади, Павла Зеленского, Рустема Мулюкова «и иных лиц» возбудили дело об участии в экстремистском сообществе (ч. 2 ст. 282.1 УК).
+СК [возбудил](2021/09/28/protiv-navalnogo-i-ego-soratnikov-vozbudili-delo-ob-ekstremistskom-soobshchestve-news.md) уголовное дело о создании экстремистского сообщества и руководстве им в отношении Алексея Навального (ч. 1 ст. 282.1 УК) в конце сентября. По этому же делу проходят его соратники Леонид Волков и Иван Жданов. Против Любови Соболь, Георгия Албурова, Руслана Шаведдинова, Вячеслава Гимади, Павла Зеленского, Рустема Мулюкова «и иных лиц» возбудили дело об участии в экстремистском сообществе (ч. 2 ст. 282.1 УК).
 
 На прошлой неделе Росфинмониторинг [внес](http://м) Чанышеву, Навального и некоторых его сторонников в список террористов и экстремистов. Включение в перечень Росфинмониторинга означает блокировку банковских счетов. Попавшие в список террористов и экстремистов люди имеют право снимать лишь по 10 тысяч рублей ежемесячно на себя и на членов своей семьи.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/10/s-takoi-fabuloi-mozhno-ezdit-po-gorodam
+**Читайте также:** [«С такой фабулой можно ездить по городам»](2021/11/10/s-takoi-fabuloi-mozhno-ezdit-po-gorodam.md)
 
 #### * Мосгорсуд признал «штабы Навального» экстремистскими структурами и запретил их деятельность на территории РФ
 

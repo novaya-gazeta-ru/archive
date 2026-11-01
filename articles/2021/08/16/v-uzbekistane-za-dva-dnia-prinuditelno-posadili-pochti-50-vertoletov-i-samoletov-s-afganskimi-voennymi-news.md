@@ -17,16 +17,16 @@ tags: "узбекистан, афганистан, военные, em"
 
 Генпрокуратура Узбекистана также сообщила, что 158 граждан Афганистана и военнослужащих этой страны незаконно пересекли границу по реке Амударья. Ведомство возбудило уголовные дела.
 
-При этом власти Таджикистана [разрешили](https://novayagazeta.ru/articles/2021/08/16/afganskii-spetsnaz-ofitsialno-raspustili-samolety-s-eks-voennymi-pravitelstva-afganistana-prizemlilis-v-tadzhikistane-news) самолетам с экс-военными афганского правительства приземлиться на своей территории. В этой стране в общей сложности высадили более 100 человек. Власти Таджикистана уточнили, что всего на их территории приземлились два самолета из Афганистана.
+При этом власти Таджикистана [разрешили](2021/08/16/afganskii-spetsnaz-ofitsialno-raspustili-samolety-s-eks-voennymi-pravitelstva-afganistana-prizemlilis-v-tadzhikistane-ne.md) самолетам с экс-военными афганского правительства приземлиться на своей территории. В этой стране в общей сложности высадили более 100 человек. Власти Таджикистана уточнили, что всего на их территории приземлились два самолета из Афганистана.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/15/afganistan-voshel-v-talibskuiu-reku-vtoroi-raz
+**Читайте также:** [Афганистан вошел в талибскую реку второй раз](2021/08/15/afganistan-voshel-v-talibskuiu-reku-vtoroi-raz.md)
 
 15 августа боевики «Талибана»* без боя взяли афганскую столицу Кабул и заявили о намерениях объявить на территории страны Исламский Эмират. Гани сложил полномочия и бежал из страны. Сторонники движения заявили о полном контроле над Афганистаном и его границами. Единственным вариантом покинуть страну оставался аэропорт Кабула. KhaamaPress [пишет](https://www.khaama.com/watch-three-people-fall-down-from-aircraft-353253/), что три человека погибли при попытке вылететь, зацепившись за шасси самолета ВВС США. В общей сложности число погибших в аэропорту Кабула [достигло](https://tolonews.com/afghanistan-174254) десяти.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/16/video-dnia-s-uletaiushchego-iz-kabula-samoleta-padaiut-liudi
+**Читайте также:** [Видео дня: с улетающего из Кабула самолета падают люди](2021/08/16/video-dnia-s-uletaiushchego-iz-kabula-samoleta-padaiut-liudi.md)
 
-Ряд стран эвакуировали свои посольства, однако МИД России ранее сегодня [заявил](https://novayagazeta.ru/articles/2021/08/16/taliby-pristupili-k-navedeniiu-poriadka-mid-rossii-otchitalsia-ob-ustanovlenii-kontaktov-s-novymi-vlastiami-afganistana-news), что не планирует следовать их примеру. Российские представители сообщили, что не переживают по поводу ситуации в Афганистане. При этом российские авиакомпании, в том числе [«Аэрофлот»](https://novayagazeta.ru/articles/2021/08/16/aeroflot-nachal-obletat-territoriiu-afganistana-news), [начали облетать](https://www.interfax.ru/russia/784748)территорию страны.
+Ряд стран эвакуировали свои посольства, однако МИД России ранее сегодня [заявил](2021/08/16/taliby-pristupili-k-navedeniiu-poriadka-mid-rossii-otchitalsia-ob-ustanovlenii-kontaktov-s-novymi-vlastiami-afganistana-.md), что не планирует следовать их примеру. Российские представители сообщили, что не переживают по поводу ситуации в Афганистане. При этом российские авиакомпании, в том числе [«Аэрофлот»](2021/08/16/aeroflot-nachal-obletat-territoriiu-afganistana-news.md), [начали облетать](https://www.interfax.ru/russia/784748)территорию страны.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/16/ne-letiat-shuravi
+**Читайте также:** [Не летят шурави](2021/08/16/ne-letiat-shuravi.md)
 
 #### **организация признана террористической и запрещена в России*

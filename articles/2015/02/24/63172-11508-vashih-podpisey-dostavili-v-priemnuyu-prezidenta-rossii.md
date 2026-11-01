@@ -21,9 +21,9 @@ tags: "савченко, сбор подписей"
 
 О том, что письмо передано адресату, в известность поставлен и глава Совета по правам человека при президенте России Михаил Федотов.
 
-**link:** https://novayagazeta.ru/news/1691894.html
+**link:** [https://novayagazeta.ru/news/1691894.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1691894.html)
 
-**link:** https://novayagazeta.ru/news/1691894.html
+**link:** [https://novayagazeta.ru/news/1691894.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1691894.html)
 
 А вот с каким обращением к оставившим свои подписи читателям «Новой» обратились инициаторы письма:
 
@@ -31,8 +31,8 @@ tags: "савченко, сбор подписей"
 
 Подписали это обращение Людмила Улицкая, Мариэтта Чудакова, Ирина Прохорова, Любовь Сумм и Зоя Светова.
 
-**link:** https://novayagazeta.ru/inquiries/16.html
+**link:** [https://novayagazeta.ru/inquiries/16.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquiries/16.html)
 
-**link:** https://novayagazeta.ru/inquiries/16.html
+**link:** [https://novayagazeta.ru/inquiries/16.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquiries/16.html)
 
 Редакция "Новой газеты" благодарит участников сбора подписей за проявление гражданской позиции. Спасибо. Будем информировать о развитии ситуации с Надеждой Савченко и следить за судьбой коллективного обращения к президенту России.

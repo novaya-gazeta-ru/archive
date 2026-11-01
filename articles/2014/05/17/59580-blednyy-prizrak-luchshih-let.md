@@ -18,7 +18,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/05/17/1400313915_744029_90.jpg" style="width: 280px; height: 210px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/05/17/1400313915_744029_90.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/05/17/1400313915_744029_90.jpg)" style="width: 280px; height: 210px;"></td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>

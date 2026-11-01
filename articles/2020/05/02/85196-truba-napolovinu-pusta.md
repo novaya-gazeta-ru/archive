@@ -35,7 +35,7 @@ tags: "газпром, ограничения, евросоюз, германи�
 
 Пресс-секретарь Nord Stream 2 Йенс Мюллер сообщил, что компания ознакомилась с позицией немецкого регулятора и не согласна с ней. «Мы будем ждать официального решения и, конечно, оценивать его и наши дальнейшие действия для защиты наших прав», — заявил он.
 
-**link:** https://novayagazeta.ru/articles/2020/01/11/83414-antikrizisnye-peregovory-o-chem-dogovorilis-vladimir-putin-i-angela-merkel
+**link:** [https://novayagazeta.ru/articles/2020/01/11/83414-antikrizisnye-peregovory-o-chem-dogovorilis-vladimir-putin-i-angela-merkel](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/01/11/83414-antikrizisnye-peregovory-o-chem-dogovorilis-vladimir-putin-i-angela-merkel)
 
 Handelsblatt ожидает, что Nord Steam 2 оспорит решение федерального агентства в Высшем земельном суде Дюссельдорфа, который может передать его в Европейский суд.
 

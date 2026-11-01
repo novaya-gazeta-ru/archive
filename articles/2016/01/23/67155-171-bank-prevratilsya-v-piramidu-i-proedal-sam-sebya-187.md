@@ -21,9 +21,9 @@ tags: "банки, кризис, мошенники"
 
 *[media: <p><span style="color:#B22222;"><strong>Читайте ранее:</strong></span></p>
 
-<p><strong><a href="http://www.novayagazeta.ru/economy/67349.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/02/20/1424389877_880856_74.jpg" style="width: 100px; height: 75px;"></a><a href="http://www.novayagazeta.ru/economy/67349.html" target="_blank">20.02.2015.&nbsp;Пока полиция саботирует расследование скандального банкротства, вкладчики обнаружили схему, по которой «исчез» миллиард рублей, а ЦБ — фирмы, на которые он мог «уйти»</a></strong></p>]*
+<p><strong><a href="[http://www.novayagazeta.ru/economy/67349.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/economy/67349.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/02/20/1424389877_880856_74.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/02/20/1424389877_880856_74.jpg)" style="width: 100px; height: 75px;"></a><a href="[http://www.novayagazeta.ru/economy/67349.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/economy/67349.html)" target="_blank">20.02.2015.&nbsp;Пока полиция саботирует расследование скандального банкротства, вкладчики обнаружили схему, по которой «исчез» миллиард рублей, а ЦБ — фирмы, на которые он мог «уйти»</a></strong></p>]*
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/inquests/68294.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/04/29/1430264575_370779_29.jpg" style="width: 100px; height: 75px;"></a><a href="http://www.novayagazeta.ru/inquests/68294.html" target="_blank">29.04.2015.&nbsp;Затормозить расследование уголовных дел в отношении бывших собственников скандального банка могла только крупная фигура в руководстве МВД</a></strong></p>]*
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/inquests/68294.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/68294.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/04/29/1430264575_370779_29.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/04/29/1430264575_370779_29.jpg)" style="width: 100px; height: 75px;"></a><a href="[http://www.novayagazeta.ru/inquests/68294.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/68294.html)" target="_blank">29.04.2015.&nbsp;Затормозить расследование уголовных дел в отношении бывших собственников скандального банка могла только крупная фигура в руководстве МВД</a></strong></p>]*
 
 **Летом 2015 года следователем ГСУ Ириной Зинеевой были задержаны бывший предправления банка Денис Морозов, экс-член правления Анна Вельмакина, а также менеджеры Ирина Ионкина и Григорий Жданов. Экс-зампред правления банка Вадим Халангот и финдиректор Александр Башмаков решением Тверского районного суда Москвы в декабре 2015 года были арестованы заочно.**
 
@@ -78,7 +78,7 @@ tags: "банки, кризис, мошенники"
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/04/29/1430263763_208656_18.jpg" style="width: 340px; height: 427px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/04/29/1430263763_208656_18.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/04/29/1430263763_208656_18.jpg)" style="width: 340px; height: 427px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Мария Росляк</sup></td>

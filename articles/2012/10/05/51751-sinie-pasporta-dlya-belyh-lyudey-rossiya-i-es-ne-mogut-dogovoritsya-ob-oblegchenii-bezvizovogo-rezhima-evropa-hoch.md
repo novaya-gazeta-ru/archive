@@ -17,7 +17,7 @@ tags: ""
 		<tbody>
 			<tr>
 				<td>
-					<a href="http://www.novayagazeta.ru/storage/c/2012/10/05/1349387552_914672_88.png" target="_blank"><img alt="" src="https://static.novayagazeta.ru/storage/c/2012/10/05/1349387552_590141_55.png" style="width: 565px; height: 565px; "></a></td>
+					<a href="[http://www.novayagazeta.ru/storage/c/2012/10/05/1349387552_914672_88.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/05/1349387552_914672_88.png)" target="_blank"><img alt="" src="https://static.novayagazeta.ru/storage/c/2012/10/05/1349387552_590141_55.png" style="width: 565px; height: 565px; "></a></td>
 			</tr>
 			<tr>
 				<td class="g-justify-right">

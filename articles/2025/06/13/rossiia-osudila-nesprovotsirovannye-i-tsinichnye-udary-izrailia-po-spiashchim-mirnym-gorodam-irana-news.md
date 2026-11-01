@@ -19,7 +19,7 @@ tags: ""
 
 И в разгар сессии Совета управляющих МАГАТЭ и накануне нового контакта между делегациями Ирана и США.
 
-Напомним, сегодня ночью ВВС Израиля [нанесли удары по целям в Иране](https://novayagazeta.ru/articles/2025/06/13/izrail-nanes-udar-po-iranu-ubity-vysokopostavlennye-voennye-tegeran-otvetil-massovym-zapuskom-bespilotnikov-news), имеющим отношение к ядерной программе.
+Напомним, сегодня ночью ВВС Израиля [нанесли удары по целям в Иране](2025/06/13/izrail-nanes-udar-po-iranu-ubity-vysokopostavlennye-voennye-tegeran-otvetil-massovym-zapuskom-bespilotnikov-news.md), имеющим отношение к ядерной программе.
 
 > По заявлениям самого Израиля, были поражены более 100 объектов ядерной программы, убито военное командование КСИР и Генштаба Ирана, всего более 20 военных, целенаправленно уничтожены и ученые-ядерщики.
 

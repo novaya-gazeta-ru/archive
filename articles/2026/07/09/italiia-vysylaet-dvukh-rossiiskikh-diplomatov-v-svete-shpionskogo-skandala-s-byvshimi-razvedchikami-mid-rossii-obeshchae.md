@@ -21,4 +21,4 @@ tags: ""
 
 МИД России уже пообещал Риму «соответствующий ответ».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/06/baku-zaiavil-reshitelnyi-protest-poslu-rossii-vyzvav-togo-v-mid-posle-ataki-rossiiskogo-bespilotnika-po-azerbaidzhanskoi-azs-v-ukraine-news
+**Читайте также:** [Баку заявил «решительный протест» послу России, вызвав того в МИД после атаки российского беспилотника по азербайджанской АЗС в Украине](2026/07/06/baku-zaiavil-reshitelnyi-protest-poslu-rossii-vyzvav-togo-v-mid-posle-ataki-rossiiskogo-bespilotnika-po-azerbaidzhanskoi.md)

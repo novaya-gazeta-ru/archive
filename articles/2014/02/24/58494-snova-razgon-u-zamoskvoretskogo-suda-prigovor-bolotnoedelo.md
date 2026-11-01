@@ -14,4 +14,4 @@ tags: ""
 *[media: &nbsp;]*
 
 *[media: <p>
-		<a href="http://www.novayagazeta.ru/news/319238.html" target="_blank">Замоскворецкий суд вынес приговор по «Болотному делу»: «Вина доказана полностью», обвиняемых приговорили к реальным срокам&nbsp;</a></p>]*
+		<a href="[http://www.novayagazeta.ru/news/319238.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/319238.html)" target="_blank">Замоскворецкий суд вынес приговор по «Болотному делу»: «Вина доказана полностью», обвиняемых приговорили к реальным срокам&nbsp;</a></p>]*

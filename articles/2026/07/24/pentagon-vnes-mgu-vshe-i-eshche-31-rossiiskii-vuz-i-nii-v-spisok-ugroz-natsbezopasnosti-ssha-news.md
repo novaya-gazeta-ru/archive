@@ -41,4 +41,4 @@ tags: "вузы, пентагон, санкции, сша"
 
 США уже вводили санкции против российских вузов и НИИ, специализирующихся на добыче полезных ископаемых, в 2023 году. Тогда под ограничения попали Горный университет, РГУ нефти и газа имени Губкина, Российский государственный геологоразведочный университет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/23/posly-stran-es-soglasovali-21-i-paket-sanktsii-protiv-rossii-ego-smiagchili-iz-za-protestov-gretsii-news
+**Читайте также:** [Послы стран ЕС согласовали 21-й пакет санкций против России. Его смягчили из-за протестов Греции](2026/07/23/posly-stran-es-soglasovali-21-i-paket-sanktsii-protiv-rossii-ego-smiagchili-iz-za-protestov-gretsii-news.md)

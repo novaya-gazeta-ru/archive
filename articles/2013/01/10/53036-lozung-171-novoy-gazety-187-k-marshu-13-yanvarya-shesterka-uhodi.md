@@ -36,7 +36,7 @@ tags: ""
 
 **Спросите теперь у десятков миллионов, хотят ли они ТАКУЮ Думу на самом деле!**
 
-# * [Сбор подписей продолжается](http://www.novayagazeta.ru/inquiries/12.html)
+# * [Сбор подписей продолжается](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquiries/12.html)
 
 _Редакция_
 
@@ -63,7 +63,7 @@ _Гражданское общество впервые доказало: оно
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<a href="http://www.novayagazeta.ru/storage/c/2013/01/10/1357890846_412468_17.jpg"><img alt="" height="263" src="http://www.novayagazeta.ru/storage/c/2013/01/10/1357890846_412468_17.jpg" width="200"></a></td>
+				<a href="[http://www.novayagazeta.ru/storage/c/2013/01/10/1357890846_412468_17.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/01/10/1357890846_412468_17.jpg)"><img alt="" height="263" src="[http://www.novayagazeta.ru/storage/c/2013/01/10/1357890846_412468_17.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/01/10/1357890846_412468_17.jpg)" width="200"></a></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">

@@ -77,6 +77,6 @@ tags: ""
 
 **Максим ФРОЛОВ, историк литературы, научный сотрудник ИМЛИ РАН**
 
-**link:** https://novayagazeta.ru/arts/65928.html
+**link:** [https://novayagazeta.ru/arts/65928.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/65928.html)
 
-**link:** https://novayagazeta.ru/arts/65928.html
+**link:** [https://novayagazeta.ru/arts/65928.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/65928.html)

@@ -21,7 +21,7 @@ tags: ""
 
 Келлог как медиатор по урегулированию российско-украинского военного конфликта контактирует с официальным Киевом, но не с российской стороной.
 
-Он [консультировал](https://novayagazeta.ru/articles/2025/05/16/gossekretar-ssha-rubio-pribyl-v-stambul-gde-tolko-chto-nachalis-priamye-peregovory-tekhnicheskikh-delegatsii-rossii-i-ukrainy-news) украинскую делегацию во время первого раунда прямых переговоров с Россией в Стамбуле.
+Он [консультировал](2025/05/16/gossekretar-ssha-rubio-pribyl-v-stambul-gde-tolko-chto-nachalis-priamye-peregovory-tekhnicheskikh-delegatsii-rossii-i-uk.md) украинскую делегацию во время первого раунда прямых переговоров с Россией в Стамбуле.
 
 В апреле Келлог в составе широкой американской делегации разговаривал с украинскими официальными лицами и европейскими союзниками Киева — членами «Коалиции желающих».
 

@@ -204,4 +204,4 @@ tags: "патрушев, совбез, статья, журнал «развед
 > - Francis Fukuyama. Identity. The Deamand for Dignity and the Politics of Resentment. 2018.
 > - Фукуяма Ф. Конец истории? — Вопросы философии, 1990, № 3.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/09/05/ukh-my-ikh-dushili-dushili
+**Читайте также:** [«Уж мы их душили, душили…»](2023/09/05/ukh-my-ikh-dushili-dushili.md)

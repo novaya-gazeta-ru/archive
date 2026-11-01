@@ -17,7 +17,7 @@ tags: "камаз, машина, машиностроение, санкции, �
 
 «Интерфакс» пишет, что «КАМАЗ» не раз выпускал приказы о возможном объявлении простоя в сложные для компании моменты, однако аннулировал их до наступления срока исполнения.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/12/ne-vzletim-tak-poplavaem
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/12/ne-vzletim-tak-poplavaem](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/12/ne-vzletim-tak-poplavaem)
 
 В то же время «КАМАЗ» [опубликовал](https://kamaz.ru/press/releases/rukovoditel_kamaza_sovershil_obkhod_avtomobilnogo_zavoda/) пресс-релиз, в котором говорится, что автомобильный завод планирует с января следующего года приступить к сборке автомобилей К5 уже без участия иностранных партнеров.
 

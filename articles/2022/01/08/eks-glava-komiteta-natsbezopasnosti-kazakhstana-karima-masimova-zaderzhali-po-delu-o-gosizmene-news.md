@@ -17,17 +17,17 @@ tags: "казахстан, токаев, протесты, отставка"
 
 «В этот же день по подозрению в совершении данного преступления задержаны и водворены в изолятор временного содержания бывший Председатель КНБ Масимов К.К. и другие лица. Иная информация в интересах следствия разглашению не подлежит», — говорится в пресс-релизе КНБ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/08/protesty-v-kazakhstane-den-sedmoi
+**Читайте также:** [Протесты в Казахстане. День восьмой](2022/01/08/protesty-v-kazakhstane-den-sedmoi.md)
 
 О том, что президент Казахстана Касым-Жомарт Токаев уволил\
  Масимова стало известно в ночь с 5 на 6 января. Новым главой КНБ назначили Ермека Сагимбаева, который ранее занимал пост начальника службы государственной охраны.
 
-В тот же день Токаев [возглавил](https://novayagazeta.ru/articles/2022/01/05/prezident-kazakhstana-tokaev-zaiavil-chto-vozglavit-sovet-bezopasnosti-vmesto-nursultana-nazarbaeva-news) Совет безопасности Казахстана вместо первого президента республики Нурсултана Назарбаева.
+В тот же день Токаев [возглавил](2022/01/05/prezident-kazakhstana-tokaev-zaiavil-chto-vozglavit-sovet-bezopasnosti-vmesto-nursultana-nazarbaeva-news.md) Совет безопасности Казахстана вместо первого президента республики Нурсултана Назарбаева.
 
 С 2007 по 2012 год и с 2014 по 2016 год Масимов занимал должность премьер-министра Казахстана. В 2016 году Масимов стал главой КНБ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/05/vkhod-konem
+**Читайте также:** [Вход конем](2022/01/05/vkhod-konem.md)
 
-В Казахстане со 2 января продолжаются массовые протесты, которые вспыхнули на фоне роста цен на сжиженный природный газ. Вскоре требования митингующих политизировались — они потребовали отставки действующей власти. В ночь с 4 на 5 января произошли масштабные столкновения граждан с силовиками в Алматы. После них правительство Казахстана [ушло в отставку](https://novayagazeta.ru/articles/2022/01/05/pravitelstvo-kazakhstana-ushlo-v-otstavku-na-fone-obshchenatsionalnykh-gazovykh-protestov-news), а президент [ввел](https://novayagazeta.ru/articles/2022/01/04/prezident-kazakhstana-vvel-rezhim-chp-v-almaty-i-mangistauskoi-oblasti-do-19-ianvaria-v-khode-protestov-liudi-nachali-szhigat-kolonny-mashin-politsii-news) чрезвычайное положение в нескольких регионах страны.
+В Казахстане со 2 января продолжаются массовые протесты, которые вспыхнули на фоне роста цен на сжиженный природный газ. Вскоре требования митингующих политизировались — они потребовали отставки действующей власти. В ночь с 4 на 5 января произошли масштабные столкновения граждан с силовиками в Алматы. После них правительство Казахстана [ушло в отставку](2022/01/05/pravitelstvo-kazakhstana-ushlo-v-otstavku-na-fone-obshchenatsionalnykh-gazovykh-protestov-news.md), а президент [ввел](2022/01/04/prezident-kazakhstana-vvel-rezhim-chp-v-almaty-i-mangistauskoi-oblasti-do-19-ianvaria-v-khode-protestov-liudi-nachali-sz.md) чрезвычайное положение в нескольких регионах страны.
 
-5 января Токаев [обратился](https://novayagazeta.ru/articles/2022/01/05/tokaev-obratilsia-k-lideram-stran-odkb-s-prosboi-okazat-pomoshch-kazakhstanu-v-preodolenii-terroristicheskoi-ugrozy-news) к лидерам стран Организации Договора о коллективной безопасности (ОДКБ) с просьбой «оказать помощь Казахстану в преодолении террористической угрозы». ОДКБ [сообщила](https://t.me/rbc_news/40229), что направила миротворческий контингент в Казахстан, от России туда вошли подразделения ВДВ.
+5 января Токаев [обратился](2022/01/05/tokaev-obratilsia-k-lideram-stran-odkb-s-prosboi-okazat-pomoshch-kazakhstanu-v-preodolenii-terroristicheskoi-ugrozy-news.md) к лидерам стран Организации Договора о коллективной безопасности (ОДКБ) с просьбой «оказать помощь Казахстану в преодолении террористической угрозы». ОДКБ [сообщила](https://t.me/rbc_news/40229), что направила миротворческий контингент в Казахстан, от России туда вошли подразделения ВДВ.

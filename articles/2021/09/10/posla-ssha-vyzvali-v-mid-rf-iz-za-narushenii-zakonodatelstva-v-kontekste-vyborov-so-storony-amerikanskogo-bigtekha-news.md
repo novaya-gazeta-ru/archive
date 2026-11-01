@@ -17,6 +17,6 @@ tags: "мид рф, посол, россия, sn"
 
 В министерстве послу указали на недопустимость «вмешательства во внутренние дела нашей страны».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/09/po-doroge-v-shatdaun
+**Читайте также:** [По дороге в шатдаун](2021/09/09/po-doroge-v-shatdaun.md)
 
-Несколько дней Арбитражный суд Москвы [запретил](https://novayagazeta.ru/articles/2021/09/05/sud-zapretil-google-i-iandeksu-pokazyvat-slovosochetanie-umnoe-golosovanie-v-poiskovoi-vydache-news#) поисковой системе Google показывать в поисковой выдаче словосочетание «Умное голосование». Такое решение объяснили наличием иска ставропольской компании «Вулинтертрейд», которая занимается продажей овечьей шерсти. В июне Роспатент [зарегистрировал](https://www.fips.ru/registers-doc-view/fips_servlet?DB=RUTMAP&DocNumber=2021740437&TypeFile=html#Delo) товарный знак «Умное голосование» по ее заявке.
+Несколько дней Арбитражный суд Москвы [запретил](2021/09/05/sud-zapretil-google-i-iandeksu-pokazyvat-slovosochetanie-umnoe-golosovanie-v-poiskovoi-vydache-news.md) поисковой системе Google показывать в поисковой выдаче словосочетание «Умное голосование». Такое решение объяснили наличием иска ставропольской компании «Вулинтертрейд», которая занимается продажей овечьей шерсти. В июне Роспатент [зарегистрировал](https://www.fips.ru/registers-doc-view/fips_servlet?DB=RUTMAP&DocNumber=2021740437&TypeFile=html#Delo) товарный знак «Умное голосование» по ее заявке.

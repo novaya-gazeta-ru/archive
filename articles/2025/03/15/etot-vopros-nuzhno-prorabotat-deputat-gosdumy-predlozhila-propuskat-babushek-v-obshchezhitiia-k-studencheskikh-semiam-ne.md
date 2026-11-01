@@ -27,4 +27,4 @@ tags: ""
 
 России сейчас находится на «демографическом дне» и ежегодно регистрирует убыль населения в сотни тысяч человек.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/10/minzdrav-iugry-proverit-bolnitsu-v-surgute-patsientki-kotoroi-pozhalovalis-na-provedenie-abortov-bez-obezbolivaniia-glavvrach-ginekolog-delaiushchii-operatsii-nazval-eto-travlei-news
+**Читайте также:** [Минздрав Югры проверит больницу в Сургуте, пациентки которой пожаловались на проведение абортов без обезболивания. Главврач — гинеколог, делающий операции — назвал это «травлей»](2025/03/10/minzdrav-iugry-proverit-bolnitsu-v-surgute-patsientki-kotoroi-pozhalovalis-na-provedenie-abortov-bez-obezbolivaniia-glav.md)

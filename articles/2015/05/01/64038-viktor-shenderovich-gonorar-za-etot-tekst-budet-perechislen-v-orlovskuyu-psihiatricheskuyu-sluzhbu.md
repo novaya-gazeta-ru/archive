@@ -19,10 +19,10 @@ tags: "70-летие Победы, нравы, патриотизм, перег�
 
 Гонорар за этот текст будет перечислен в Орловскую психиатрическую службу.
 
-**link:** https://novayagazeta.ru/politics/68259.html
+**link:** [https://novayagazeta.ru/politics/68259.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/68259.html)
 
-**link:** https://novayagazeta.ru/politics/68259.html
+**link:** [https://novayagazeta.ru/politics/68259.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/68259.html)
 
-**link:** https://novayagazeta.ru/news/1693464.html
+**link:** [https://novayagazeta.ru/news/1693464.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1693464.html)
 
-**link:** https://novayagazeta.ru/news/1693464.html
+**link:** [https://novayagazeta.ru/news/1693464.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1693464.html)

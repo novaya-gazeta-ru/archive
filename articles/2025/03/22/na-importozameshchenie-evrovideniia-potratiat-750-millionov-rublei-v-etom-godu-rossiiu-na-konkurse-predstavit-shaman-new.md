@@ -25,4 +25,4 @@ tags: ""
 
 В феврале Владимир Путин подписал указ о проведении «Интервидения» в 2025-м году.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/14/tsennosti-priamogo-padeniia
+**Читайте также:** [Ценности «прямого падения»](2025/03/14/tsennosti-priamogo-padeniia.md)

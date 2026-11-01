@@ -29,4 +29,4 @@ tags: "прокопьева, письма счастья"
 
 Объяснит неудачной эпохою, Тем, что было вам нечего есть… (Я ей мысленно даже похлопаю: Не скатилась в обычную месть!) Мол, зависимы были с рождения От начальства и властных причуд — И попросит для вас снисхождения, И, боюсь, ее мненье учтут.
 
-**link:** https://novayagazeta.ru/articles/2020/07/03/86129-gosudarstvennaya-vlast-v-rukah-zhestokih-lyudey-stanovitsya-glavnoy-ugrozoy-bezopasnosti
+**link:** [«Государственная власть в руках жестоких людей становится главной угрозой безопасности»](2020/07/03/86129-gosudarstvennaya-vlast-v-rukah-zhestokih-lyudey-stanovitsya-glavnoy-ugrozoy-bezopasnosti.md)

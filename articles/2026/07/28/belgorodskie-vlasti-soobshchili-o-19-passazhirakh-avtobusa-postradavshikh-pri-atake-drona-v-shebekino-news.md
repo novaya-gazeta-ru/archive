@@ -19,4 +19,4 @@ tags: ""
 
 СК после удара по автобусу в Шебекино [возбудил](https://www.kommersant.ru/doc/8846414?) уголовное дело о «теракте» (ст. 205 УК РФ).
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/18/pridumal-kakuiu-to-pogremushku
+**Читайте также:** [«Придумал какую-то погремушку!»](2026/06/18/pridumal-kakuiu-to-pogremushku.md)

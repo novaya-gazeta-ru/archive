@@ -27,4 +27,4 @@ tags: ""
 
 Кроме того, СК возбудил уголовное дело по статье «халатность» в отношении неустановленных сотрудников медучреждения.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/28/v-tiumeni-mediki-sami-seli-za-rul-skorykh-vlasti-nazvali-eto-pilotnym-proektom-news
+**Читайте также:** [В Тюмени медики сами сели за руль «скорых». Власти назвали это «пилотным проектом»](2024/11/28/v-tiumeni-mediki-sami-seli-za-rul-skorykh-vlasti-nazvali-eto-pilotnym-proektom-news.md)

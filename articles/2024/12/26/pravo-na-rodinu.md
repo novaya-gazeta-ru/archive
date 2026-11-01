@@ -95,4 +95,4 @@ tags: ""
 
 **Валентина Васильева**
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/09/fevral-24-7-razorvannoe-pokolenie
+**Читайте также:** [Февраль 24/7. Разорванное поколение](2024/12/09/fevral-24-7-razorvannoe-pokolenie.md)

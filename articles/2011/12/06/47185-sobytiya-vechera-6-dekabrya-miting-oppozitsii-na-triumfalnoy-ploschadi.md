@@ -13,13 +13,13 @@ tags: "митинги, онлайн, оппозиция"
 
 # Триумфальная площадь. По обе стороны ОМОНа
 
-[ФОТОРЕПОРТАЖ](http://www.novayagazeta.ru/photos/49917.html)
+[ФОТОРЕПОРТАЖ](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/49917.html)
 
 _Анна Артемьева_
 
 # 23:10. Фоторепортаж. 6 декабря. Триумфальная площадь
 
-[Смотрите фоторепортаж тут](http://www.novayagazeta.ru/politics/49895.html)
+[Смотрите фоторепортаж тут](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/49895.html)
 
 _Евгений Фельдман_
 

@@ -13,7 +13,7 @@ tags: ""
 
 *И что вообще будет со спортом в России? Отвечает Владимир Иванов, обозреватель Sports.ru*
 
-**Смотрите также:** https://novayagazeta.ru/articles/2025/01/21/chto-stoit-za-eskapadami-trampa-o-prisoedinenii-grenlandii-i-kanady-i-pri-chem-zdes-kitai-s-rossiei
+**Смотрите также:** [https://novayagazeta.ru/articles/2025/01/21/chto-stoit-za-eskapadami-trampa-o-prisoedinenii-grenlandii-i-kanady-i-pri-chem-zdes-kitai-s-rossiei](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2025/01/21/chto-stoit-za-eskapadami-trampa-o-prisoedinenii-grenlandii-i-kanady-i-pri-chem-zdes-kitai-s-rossiei)
 
 Репортажи, интервью от команды в России
 

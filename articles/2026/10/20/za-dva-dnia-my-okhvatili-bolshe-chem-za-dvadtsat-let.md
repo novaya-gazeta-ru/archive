@@ -57,4 +57,4 @@ tags: ""
 
 #### Источник: Geirge P. Shulz, Ideas & Action, Free To Choose Press, 2010
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/10/20/ia-sdelal-vse-chto-mog-esli-ne-bolshe
+**Читайте также:** [«Я сделал все, что мог, если не больше»](2026/10/20/ia-sdelal-vse-chto-mog-esli-ne-bolshe.md)

@@ -127,7 +127,7 @@ tags: "как это устроено, неуважение к власти, п�
 <h5>«Парень, да ты прав!»<br>
 &nbsp;</h5>
 
-<p><a href="https://www.novayagazeta.ru/articles/2019/04/11/80185-paren-da-ty-prav" target="_blank">Псковский депутат, автор закона о защите народа от неуважения власти Лев Шлосберг — о времени, Путине и о себе. Интервью Павлу Каныгину</a></p>
+<p><a href="[«Парень, да ты прав»](2019/04/11/80185-paren-da-ty-prav.md)" target="_blank">Псковский депутат, автор закона о защите народа от неуважения власти Лев Шлосберг — о времени, Путине и о себе. Интервью Павлу Каныгину</a></p>
 
 <figure class="figure figure--full"><img alt="" src="https://static.novayagazeta.ru/storage/content/pictures/26803/content_Shlosberg_01.jpg">
 <figcaption>Фото: Анна Артемьева / «Новая газета»</figcaption>

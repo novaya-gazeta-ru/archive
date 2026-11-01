@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/08/29/1377771659_510106_72.jpg" style="width: 340px; height: 250px;"><em><sup>Владислав Баумгертнер.&nbsp;Фото: РИА «Новости»</sup></em></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/08/29/1377771659_510106_72.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/08/29/1377771659_510106_72.jpg)" style="width: 340px; height: 250px;"><em><sup>Владислав Баумгертнер.&nbsp;Фото: РИА «Новости»</sup></em></td>
 		</tr>
 	</tbody>]*
 

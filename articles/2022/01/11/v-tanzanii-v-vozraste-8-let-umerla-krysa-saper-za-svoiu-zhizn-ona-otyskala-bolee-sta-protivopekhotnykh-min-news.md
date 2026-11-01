@@ -25,4 +25,4 @@ tags: "крыса, смерть сталина, камбоджа, танзани
 
 После гражданской войны (1967-1975) и других вооруженных конфликтов в Камбодже осталось разбросано несколько миллионов мин. На сегодняшний день Камбоджа остается одной из самых «заминированных» стран в мире. По [данным](https://data.opendevelopmentcambodia.net/library_record/cambodia-mine-erw-victim-information-system-cmvis-monthly-report-for-october-2019/resource/6f29aa6f-03c7-4c5c-bad9-70b9f54ea2a3) камбоджийского центра помощи пострадавшим, в 2019 году из-за взырва мин в стране погибли 11 человек, еще 60 получили ранения.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/29/krest-arkhiepiskopa-tutu
+**Читайте также:** [Крест архиепископа Туту](2021/12/29/krest-arkhiepiskopa-tutu.md)

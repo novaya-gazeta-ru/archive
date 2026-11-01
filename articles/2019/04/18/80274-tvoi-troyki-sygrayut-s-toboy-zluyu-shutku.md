@@ -81,7 +81,7 @@ tags: "образование, школа, выборы, беглов, пете�
 
 – Все специальности важны, как в том стишке. Главное — быть профессионалом, — напутствовал градоначальник.
 
-**link:** https://novayagazeta.ru/articles/2019/04/04/80094-gubernatorskuyu-kampaniyu-zastrahovali-ot-neozhidannostey
+**link:** [«Говорит на одном языке, вникает в нюансы»](2019/04/04/80094-gubernatorskuyu-kampaniyu-zastrahovali-ot-neozhidannostey.md)
 
 Итог урока подвела учительница:
 

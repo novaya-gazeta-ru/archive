@@ -27,9 +27,9 @@ tags: "коррупция, крым, крымские татары, протес
 
 В назначенный срок стало ясно: пятью минутами не обойдется.
 
-**link:** https://novayagazeta.ru/politics/71911.html
+**link:** [https://novayagazeta.ru/politics/71911.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/71911.html)
 
-**link:** https://novayagazeta.ru/politics/71911.html
+**link:** [https://novayagazeta.ru/politics/71911.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/71911.html)
 
 # Внезапная сессия
 

@@ -19,6 +19,6 @@ tags: "дагестан, полиция, изнасилование, взятк�
 
 Как обратила внимание «Медиазона», в картотеке суда [указано](https://kizljar-gs—dag.sudrf.ru/modules.php?name=sud_delo&name_op=r&vnkod=05RS0019&srv_num=1&delo_id=1540006&delo_table=u1_case&case_type=0&u1_case__JUDICIAL_UIDSS=05RS0019-01-2019-001391-80), что экс-полицейского [зовут](https://zona.media/news/2021/08/05/5) Марат Омаров.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/02/komu-sudia-miagko-stelet
+**Читайте также:** [Кому судья мягко стелет](2021/08/02/komu-sudia-miagko-stelet.md)
 
 \

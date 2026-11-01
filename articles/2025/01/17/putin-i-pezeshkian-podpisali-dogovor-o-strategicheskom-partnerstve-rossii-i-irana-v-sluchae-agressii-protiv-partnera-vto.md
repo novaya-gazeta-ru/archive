@@ -19,7 +19,7 @@ tags: ""
 
 Документ закрепляет статус двух стран как стратегических партнеров, в нем прописаны правовые рамки для долгосрочного сотрудничества. По словам официальных лиц, соглашение охватывает ряд сфер, в том числе оборону, борьбу с терроризмом, энергетику, финансы, транспорт, промышленность, сельское хозяйство, культуру, науку и технологии.
 
-От аналогичного [договора РФ и КНДР](https://novayagazeta.ru/articles/2024/11/12/kndr-ratifitsirovala-dogovor-o-vseobemliushchem-strategicheskom-partnerstve-s-rossiei-news) этот отличается тем, что в нем нет пункта о взаимной обороне, [пишет](https://www.nytimes.com/2025/01/17/world/europe/iran-russia-cooperation-treaty.html) The New York Times со ссылкой на посла Ирана в Москве.
+От аналогичного [договора РФ и КНДР](2024/11/12/kndr-ratifitsirovala-dogovor-o-vseobemliushchem-strategicheskom-partnerstve-s-rossiei-news.md) этот отличается тем, что в нем нет пункта о взаимной обороне, [пишет](https://www.nytimes.com/2025/01/17/world/europe/iran-russia-cooperation-treaty.html) The New York Times со ссылкой на посла Ирана в Москве.
 
 В тексте самого договора, опубликованном на сайте Кремля, говорится:
 

@@ -173,4 +173,4 @@ tags: "премьера, кинопремьера, кино, сериал"
 >
 > Лариса Малюкова ведет телеграм-канал о кино и не только. [Подписывайтесь тут](https://t.me/larisamalukova).
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/12/25/neschastnye-ubiitsy-ikh-bednye-zhertvy-i-obraztsovye-sosedi
+**Читайте также:** [Несчастные убийцы, их бедные жертвы и образцовые соседи](2023/12/25/neschastnye-ubiitsy-ikh-bednye-zhertvy-i-obraztsovye-sosedi.md)

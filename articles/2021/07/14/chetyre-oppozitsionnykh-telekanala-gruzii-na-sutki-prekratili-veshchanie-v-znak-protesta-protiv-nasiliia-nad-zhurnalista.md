@@ -17,10 +17,10 @@ tags: "ng, грузия, лгбт"
 
 В сетке вещания телекомпаний на черном фоне перечисляются имена 53 избитых на акциях журналистов. Среди требований также звучит отставка главы правительства Ираклия Гарибашвили.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/09/po-raznye-storony-dostoinstva
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/09/po-raznye-storony-dostoinstva](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/09/po-raznye-storony-dostoinstva)
 
-Телеоператора телеканала «ТВ Пирвели» [обнаружили](https://novayagazeta.ru/articles/2021/07/11/v-gruzii-skonchalsia-teleoperator-izbityi-gomofobami-pered-aktsiei-v-podderzhku-lgbt) мертвым в собственной квартире. Оппозиция обвиняет в случившемся правительство. В МВД страны [назвали](https://police.ge/en/shinagan-saqmeta-saministros-brifingi-aleqsandre-lashqaravas-gardatsvalebis-faqtze-mimdinare-gamodziebis-shesakheb/14796) причиной смерти Лашкаравы «передозировку наркотиками».
+Телеоператора телеканала «ТВ Пирвели» [обнаружили](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/11/v-gruzii-skonchalsia-teleoperator-izbityi-gomofobami-pered-aktsiei-v-podderzhku-lgbt) мертвым в собственной квартире. Оппозиция обвиняет в случившемся правительство. В МВД страны [назвали](https://police.ge/en/shinagan-saqmeta-saministros-brifingi-aleqsandre-lashqaravas-gardatsvalebis-faqtze-mimdinare-gamodziebis-shesakheb/14796) причиной смерти Лашкаравы «передозировку наркотиками».
 
 ЛГБТК+ активисты Грузии должны были провести 5 июля «Марш достоинства» в Тбилиси в рамках недели прайда, однако столкнулись с агрессией со стороны ультраправых, церковных прихожан и радикальных гомофобов.
 
-Полиция Тбилиси, которая сначала пообещала защищать граждан из числа ЛГБТ-сообщества, тогда попросила отменить мероприятие по соображениям безопасности. В стычках пострадали многие журналисты, ранены активисты и прохожие. После этого в стране [проходили](https://novayagazeta.ru/articles/2021/07/13/v-gruzii-politsiia-zaderzhala-12-chelovek-na-aktsii-oppozitsii-u-zdaniia-tsentralnogo-ofisa-praviashchei-partii) антиправительственные акции протеста.
+Полиция Тбилиси, которая сначала пообещала защищать граждан из числа ЛГБТ-сообщества, тогда попросила отменить мероприятие по соображениям безопасности. В стычках пострадали многие журналисты, ранены активисты и прохожие. После этого в стране [проходили](2021/07/13/v-gruzii-politsiia-zaderzhala-12-chelovek-na-aktsii-oppozitsii-u-zdaniia-tsentralnogo-ofisa-praviashchei-partii.md) антиправительственные акции протеста.

@@ -21,6 +21,6 @@ tags: "ng, COVID-19, коронавирус"
 
 Из них 56 — в Москве, 48 — в Петербурге, 24 — в Подмосковье. Всего с начала пандемии умерли 168 049 пациентов с COVID-19.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/31/my-khotim-spasti-liudei-ot-vaktsiny-esli-ona-neeffektivnahttps://novayagazeta.ru/articles/2021/07/31/my-khotim-spasti-liudei-ot-vaktsiny-esli-ona-neeffektivna
+**Читайте также:** [«Мы хотим спасти людей от вакцины, если она неэффективна»](2021/07/31/my-khotim-spasti-liudei-ot-vaktsiny-esli-ona-neeffektivna.md) [«Мы хотим спасти людей от вакцины, если она неэффективна»](2021/07/31/my-khotim-spasti-liudei-ot-vaktsiny-esli-ona-neeffektivna.md)
 
 Число случаев заражения COVID-19 в мире превысило 204,4 млн, [следует](https://coronavirus.jhu.edu/map.html) из данных американского университета Джонса Хопкинса. Больше всего инфицированных коронавирусом в США (более 36,1 млн), а также в Индии (более 32 млн), Бразилии (более 20,2 млн), Франции (более 6,4 млн) и России.

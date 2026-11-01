@@ -47,6 +47,6 @@ tags: "ng, навальный, премия, сахаров"
 
 *Скрин: трансляция Европарламента*
 
-Европарламент [присудил](https://novayagazeta.ru/articles/2021/11/24/navalnyi-podal-isk-k-ik-2-s-trebovaniem-priznat-nezakonnym-postanovku-ego-na-profuchet-kak-sklonnogo-k-ekstremizmu-i-terrorizmu-news) Навальному премию Сахарова — главную награду Евросоюза в области прав человека — 20 октября. «Алексей Навальный — российский оппозиционный политик, юрист и борец против коррупции. Он признан политзаключенным и в данный момент находится в исправительной колонии», — говорилось в заявлении.
+Европарламент [присудил](2021/11/24/navalnyi-podal-isk-k-ik-2-s-trebovaniem-priznat-nezakonnym-postanovku-ego-na-profuchet-kak-sklonnogo-k-ekstremizmu-i-ter.md) Навальному премию Сахарова — главную награду Евросоюза в области прав человека — 20 октября. «Алексей Навальный — российский оппозиционный политик, юрист и борец против коррупции. Он признан политзаключенным и в данный момент находится в исправительной колонии», — говорилось в заявлении.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/20/advokat-navalnogo-est-osnovaniia-dlia-vyigrysha-iska-k-iv-roshe
+**Читайте также:** [Адвокат Навального: «Есть основания для выигрыша иска к «Ив Роше»](2021/10/20/advokat-navalnogo-est-osnovaniia-dlia-vyigrysha-iska-k-iv-roshe.md)

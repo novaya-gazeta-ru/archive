@@ -27,7 +27,7 @@ tags: "рубль, курс рубля, курс доллара, прогноз�
 
 Но однозначно можно быть уверенным, что затем последует резкий скачок вниз.
 
-**link:** https://novayagazeta.ru/news/2017/01/03/127868-tuleev-poprosil-medvedeva-ostanovit-rost-tsen-na-benzin
+**link:** [https://novayagazeta.ru/news/2017/01/03/127868-tuleev-poprosil-medvedeva-ostanovit-rost-tsen-na-benzin](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/01/03/127868-tuleev-poprosil-medvedeva-ostanovit-rost-tsen-na-benzin)
 
 — Прежде всего, мы видим нервную реакцию участников так называемого бумажного рынка нефти. Рынка, где торгуют фьючерсными контрактами, а не того рынка, где торгуют физическими объемами нефти.
 

@@ -21,8 +21,8 @@ tags: "коми, следственный комитет"
 
 В Государственном совете республики Коми комментировать арест председателя Госсовета Игоря Ковзеля отказались.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/politics/69996.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/09/19/1442686869_836687_81.png" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/politics/69996.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/69996.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/09/19/1442686869_836687_81.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/09/19/1442686869_836687_81.png)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/politics/69996.html" target="_blank"><strong>Главарь республики. Губернатора Коми арестовали по подозрению в руководстве международной преступной группировкой</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/politics/69996.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/69996.html)" target="_blank"><strong>Главарь республики. Губернатора Коми арестовали по подозрению в руководстве международной преступной группировкой</strong></a></p>]*
 
 Напомним, глава республики Коми Вячеслав Гайзер, его заместитель Алексей Чернов, председатель республиканского Госсовета Игорь Ковзель, зампред правительства Коми Константин Ромаданов и еще 11 человек, которых в СК называют «финансистами-технологами», были задержаны в минувшую субботу. Им предъявлены обвинения в «мошенничестве» и в «организации и участии в преступном сообществе». Основная цель, которую преследовали задержанные, как пояснили в СК, — завладение государственным имуществом преступным путем.

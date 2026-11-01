@@ -13,7 +13,7 @@ tags: ""
 
 Директор ЦРУ Джон Рэтклифф заявил о новом обмене заключенными с Россией, который состоялся в Абу-Даби, его слова [приводит](https://www.wsj.com/world/russia/u-s-and-russia-swap-prisoners-in-deal-arranged-by-intelligence-agencies-e6448f06) Wall Street Journal. Глава американской спецслужбы присутствовал при обмене.
 
-На свободу вышла и возвращается в США Ксения Карелина-Хавана, россиянка с американским паспортом, осужденная в Екатеринбурге [на 12 лет](https://novayagazeta.ru/articles/2024/08/15/rossiianku-s-grazhdanstvom-ssha-kseniiu-karelinu-khavana-osudili-na-12-let-za-donat-v-fond-podderzhki-vsu-news) колонии по статье «госизмена» — за донат в $50 украинскому фонду.
+На свободу вышла и возвращается в США Ксения Карелина-Хавана, россиянка с американским паспортом, осужденная в Екатеринбурге [на 12 лет](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/15/rossiianku-s-grazhdanstvom-ssha-kseniiu-karelinu-khavana-osudili-na-12-let-za-donat-v-fond-podderzhki-vsu-news) колонии по статье «госизмена» — за донат в $50 украинскому фонду.
 
 «Сегодня президент Трамп доставит домой из России еще одного незаконно задержанного американца. Я горжусь сотрудниками ЦРУ, которые неустанно работали, чтобы поддержать эти усилия», — сообщил глава ЦРУ Рэтклифф.
 

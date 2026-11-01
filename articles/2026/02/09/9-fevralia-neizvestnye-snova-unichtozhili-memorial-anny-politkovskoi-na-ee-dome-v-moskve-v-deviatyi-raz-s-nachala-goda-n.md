@@ -21,4 +21,4 @@ tags: ""
 
 Но на стене все еще осталась трафаретная надпись, повторяющая текст сбитой мраморной доски: «В этом доме жила и была злодейски убита 7 октября 2006 года Анна Политковская».
 
-Вандалы уничтожили мраморную доску, закрепленную на фасаде дома Политковской [18 января 2026 года](https://novayagazeta.ru/articles/2026/01/18/redaktsiia-novoi-gazety-i-deti-anny-politkovskoi-trebuiut-nakazat-vandalov-razbivshikh-memorialnuiu-dosku-ee-imeni-na-lesnoi-ulitse-news). О своей причастности к этому [заявили](https://t.me/novaya_pishet/55664) неонацисты, рядом с домом были расклеены неонацистские листовки.
+Вандалы уничтожили мраморную доску, закрепленную на фасаде дома Политковской [18 января 2026 года](2026/01/18/redaktsiia-novoi-gazety-i-deti-anny-politkovskoi-trebuiut-nakazat-vandalov-razbivshikh-memorialnuiu-dosku-ee-imeni-na-le.md). О своей причастности к этому [заявили](https://t.me/novaya_pishet/55664) неонацисты, рядом с домом были расклеены неонацистские листовки.

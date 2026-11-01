@@ -64,6 +64,6 @@ tags: ""
 
 Слушание дела продолжится 17 ноября.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/10/02/my-muzykanty-na-titanike-igraem-chtoby-ne-bylo-tak-grustno
+**Читайте также:** [«Мы — музыканты на "Титанике". Играем, чтобы не было так грустно»](2023/10/02/my-muzykanty-na-titanike-igraem-chtoby-ne-bylo-tak-grustno.md)
 
 #### * Росфинмониторинг внес Дарью Трепову в перечень экстремистов и террористов.

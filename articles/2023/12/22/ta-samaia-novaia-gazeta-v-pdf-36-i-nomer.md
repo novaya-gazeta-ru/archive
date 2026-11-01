@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *Сколько еще ботов нужно, чтобы продолжать уверять, что за продолжение СВО — большинство россиян, как сирот заманивают на фронт и зачем государство лезет в постель к населению*
 
-https://novayagazeta.ru/issues/3281
+[https://novayagazeta.ru/issues/3281](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3281)

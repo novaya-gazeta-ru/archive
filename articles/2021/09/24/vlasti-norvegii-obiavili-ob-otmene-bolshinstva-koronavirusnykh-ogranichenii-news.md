@@ -23,6 +23,6 @@ tags: "ng, норвегия, коронавирус"
 
 «Как общество, мы должны учиться и жить с вирусом. Поэтому важно, чтобы те, кто не был вакцинирован, сделали это», — заявила она.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/15/pronik-pod-vidom-nervnoi-kletki
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/15/pronik-pod-vidom-nervnoi-kletki](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/15/pronik-pod-vidom-nervnoi-kletki)
 
-Ранее власти Дании [отменили](https://novayagazeta.ru/articles/2021/08/27/daniia-otkazalas-ot-vsekh-kovidnykh-ogranichenii-pravitelstvo-strany-bolshe-ne-schitaet-covid-19-opasnoi-dlia-obshchestva-infektsiei-news) все коронавирусные ограничения в стране с 10 сентября. Правительство заявило, что больше не считает COVID-19 «опасной для общества инфекцией». Такое решение принято в связи с «рекордно высоким» уровнем вакцинации. По словам главы минздрава Магнуса Хойнике, пандемия в Дании находится «под контролем».
+Ранее власти Дании [отменили](2021/08/27/daniia-otkazalas-ot-vsekh-kovidnykh-ogranichenii-pravitelstvo-strany-bolshe-ne-schitaet-covid-19-opasnoi-dlia-obshchestv.md) все коронавирусные ограничения в стране с 10 сентября. Правительство заявило, что больше не считает COVID-19 «опасной для общества инфекцией». Такое решение принято в связи с «рекордно высоким» уровнем вакцинации. По словам главы минздрава Магнуса Хойнике, пандемия в Дании находится «под контролем».

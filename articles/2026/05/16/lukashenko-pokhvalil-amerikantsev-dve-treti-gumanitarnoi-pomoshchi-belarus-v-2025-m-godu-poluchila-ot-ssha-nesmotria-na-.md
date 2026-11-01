@@ -27,4 +27,4 @@ tags: ""
 
 > **смотрите, кто**
 >
-> ### Портрет юриста-переговорщика Коула [смотрите в «Новой газете»](https://novayagazeta.ru/articles/2026/05/05/ochen-spetsialnyi-predstavitel)
+> ### Портрет юриста-переговорщика Коула [смотрите в «Новой газете»](2026/05/05/ochen-spetsialnyi-predstavitel.md)

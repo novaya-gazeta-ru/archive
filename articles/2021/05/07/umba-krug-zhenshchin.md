@@ -49,4 +49,4 @@ _(Окончание следует)_
 
 > **ЧИТАЙТЕ РАНЕЕ**
 >
-> [Умба. Тайное слово](https://novayagazeta.ru/articles/2021/05/03/umba-tainoe-slovo) [Умба. 19 Дедов Морозов](https://novayagazeta.ru/articles/2021/05/04/umba-19-dedov-morozov) [Умба. Помор и семга](https://novayagazeta.ru/articles/2021/05/05/umba-pomor-i-semga) [Умба. Дед Мороз и милиционер](https://novayagazeta.ru/articles/2021/05/06/umba-ded-moroz-i-militsioner)
+> [Умба. Тайное слово](2021/05/03/umba-tainoe-slovo.md) [Умба. 19 Дедов Морозов](2021/05/04/umba-19-dedov-morozov.md) [Умба. Помор и семга](2021/05/05/umba-pomor-i-semga.md) [Умба. Дед Мороз и милиционер](2021/05/06/umba-ded-moroz-i-militsioner.md)

@@ -64,6 +64,6 @@ tags: "трамп, 50 дней, юрий дмитриев, курская обл
 
 *Фото: соцсети*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/06/mir-v-ozhidanii-mira-chto-proizoshlo-5-avgusta-2025-goda
+**Читайте также:** [Мир в ожидании мира. Что произошло 6 августа 2025 года](2025/08/06/mir-v-ozhidanii-mira-chto-proizoshlo-5-avgusta-2025-goda.md)
 
 #### * Внесен властями РФ в реестр «иноагентов».

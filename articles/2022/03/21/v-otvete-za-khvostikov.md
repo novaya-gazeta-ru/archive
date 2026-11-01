@@ -169,7 +169,7 @@ PR-директор [фонда «Ника»](http://www.fond-nika.ru/lekarstva)
 
 Редакция направила запрос с просьбой прокомментировать ситуацию на рынке в Комитет ветеринарии города Москвы и Россельхознадзор.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/17/zadacha-s-neizvestnymi
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/17/zadacha-s-neizvestnymi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/17/zadacha-s-neizvestnymi)
 
 # **«Грустная страница» в учебнике экономики **
 

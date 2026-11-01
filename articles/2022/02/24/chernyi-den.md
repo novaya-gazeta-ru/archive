@@ -59,4 +59,4 @@ tags: "сша, байден, россия, украина, вторжение, �
 
 > Полный текст заявления Белого дома — по [ссылке](https://home.treasury.gov/news/press-releases/jy0608).
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/23/nachalo-vtorzheniia
+**Читайте также:** [«Начало вторжения»](2022/02/23/nachalo-vtorzheniia.md)

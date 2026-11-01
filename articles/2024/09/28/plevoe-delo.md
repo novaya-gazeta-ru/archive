@@ -41,7 +41,7 @@ tags: "зарема мусаева, политзэки, политические
 
 По версии обвинения, в 2022 году 32-летний светлогорец, находясь в Пионерском, разместил в мессенджере «фейки» о действиях российской армии и органов государственной власти. В суде мужчина не признал вину. Лугового приговорили к шести годам колонии общего режима с лишением на четыре года права администрировать сайты и чаты.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/25/ia-ne-mogu-sdatsia-segodnia-potomu-chto-na-zavtra-u-menia-plany
+**Читайте также:** [«Я не могу сдаться сегодня, потому что на завтра у меня планы»](2024/09/25/ia-ne-mogu-sdatsia-segodnia-potomu-chto-na-zavtra-u-menia-plany.md)
 
 ### ***
 
@@ -79,7 +79,7 @@ tags: "зарема мусаева, политзэки, политические
 
 Точная сумма штрафа, назначенного студентке, в постановлении не указана.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/09/menia-ubivaiut-ia-gniiu-zazhivo
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/09/menia-ubivaiut-ia-gniiu-zazhivo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/09/menia-ubivaiut-ia-gniiu-zazhivo)
 
 ## **«Госизмена» за перевод денег знакомой украинке**
 

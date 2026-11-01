@@ -17,6 +17,6 @@ tags: "националисты, петербург"
 
 *23.03.2015*
 
-**link:** https://novayagazeta.ru/columns/67747.html
+**link:** [https://novayagazeta.ru/columns/67747.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/67747.html)
 
-**link:** https://novayagazeta.ru/columns/67747.html
+**link:** [https://novayagazeta.ru/columns/67747.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/67747.html)

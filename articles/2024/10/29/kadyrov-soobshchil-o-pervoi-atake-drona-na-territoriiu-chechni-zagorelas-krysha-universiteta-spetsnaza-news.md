@@ -25,4 +25,4 @@ tags: ""
 
 Ранее БПЛА [уже атаковали](https://rg.ru/2024/10/29/reg-skfo/ramzan-kadyrov-soobshchil-o-pervoj-atake-bespilotnika-na-territoriiu-chechni.html) Северную Осетию.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/07/svodki-s-frontov
+**Читайте также:** [Сводки с фронтов](2024/10/07/svodki-s-frontov.md)

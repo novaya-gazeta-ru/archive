@@ -17,7 +17,7 @@ tags: "кадыров, милашина, каляпин, заявление, у�
 >
 > Все это вызвало справедливое возмущение в российском обществе.
 >
-> На этом глава Чечни Кадыров не остановился и [позволил](https://novayagazeta.ru/articles/2022/01/24/glava-chechni-nazval-terroristami-chlena-spch-kaliapina-i-zhurnalistku-novoi-milashinu-news) себе назвать «террористами» правозащитника Игоря Каляпина и специального корреспондента «Новой газеты» Елену Милашину.
+> На этом глава Чечни Кадыров не остановился и [позволил](2022/01/24/glava-chechni-nazval-terroristami-chlena-spch-kaliapina-i-zhurnalistku-novoi-milashinu-news.md) себе назвать «террористами» правозащитника Игоря Каляпина и специального корреспондента «Новой газеты» Елену Милашину.
 >
 > Редакция сразу отвечает на множество обращений российских и зарубежных СМИ.
 >
@@ -25,4 +25,4 @@ tags: "кадыров, милашина, каляпин, заявление, у�
 >
 > **Редакция «Новой газеты»**
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takogo-ne-mozhet-byt
+**Читайте также:** [«Я поняла, что это чеченцы, так как давно работаю в Чечне»](2022/01/20/v-nizhnem-novgorode-popytka-pokhishcheniia-federalnogo-sudi-s-semei-v-ufsb-otkazalis-vmeshivatsia-prokommentirovav-takog.md)

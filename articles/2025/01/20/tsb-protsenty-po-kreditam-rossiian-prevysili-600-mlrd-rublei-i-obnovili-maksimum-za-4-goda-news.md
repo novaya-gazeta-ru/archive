@@ -29,4 +29,4 @@ tags: ""
 
 Стоимость кредитов заметно увеличилась и с ужесточением требований при выдаче потребительских кредитов, автокредитов и ипотеки.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/15/lishnie-dengi-vozmozhna-li-zamorozka-vkladov
+**Читайте также:** [Лишние деньги. Возможна ли заморозка вкладов?](2025/01/15/lishnie-dengi-vozmozhna-li-zamorozka-vkladov.md)

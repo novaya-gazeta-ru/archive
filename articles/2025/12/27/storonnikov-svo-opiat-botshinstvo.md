@@ -141,9 +141,9 @@ tags: "сво, сколько людей за прекращение огня, �
 
 И само начинает в это верить.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/12/17/kazhdyi-piatyi-rossiianin-sprosil-by-u-putina-kogda-zakonchitsia-svo-rezultaty-oprosa-levady-nakanune-priamoi-linii-news
+**Читайте также:** [Каждый пятый россиянин спросил бы у Путина, когда закончится СВО — результаты опроса «Левады»* накануне прямой линии](2025/12/17/kazhdyi-piatyi-rossiianin-sprosil-by-u-putina-kogda-zakonchitsia-svo-rezultaty-oprosa-levady-nakanune-priamoi-linii-news.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/12/23/chislo-ubezhdennykh-storonnikov-prodolzhat-svo-sredi-rossiian-upalo-do-minimuma-za-vsiu-istoriiu-nabliudenii-news
+**Читайте также:** [Число убежденных сторонников СВО среди россиян упало до минимума за всю историю наблюдений](2025/12/23/chislo-ubezhdennykh-storonnikov-prodolzhat-svo-sredi-rossiian-upalo-do-minimuma-za-vsiu-istoriiu-nabliudenii-news.md)
 
 #### * Минюст включил в реестр «иноагентов».
 

@@ -28,4 +28,4 @@ tags: ""
 - ранена женщина в Борисовском округе,
 - в Белгородском округе ранен боец подразделения «Орлан» при атаке по автомобилю.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/16/za-dvoe-sutok-v-nebe-nad-moskvoi-sbili-250-bespilotnikov-sobianin-news
+**Читайте также:** [За двое суток в небе над Москвой сбили 250 беспилотников — Собянин](2026/03/16/za-dvoe-sutok-v-nebe-nad-moskvoi-sbili-250-bespilotnikov-sobianin-news.md)

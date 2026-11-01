@@ -87,4 +87,4 @@ tags: "фейковые дела, суд, правосудие, репресси
 
 #### ** Внесена в реестр «иностранных агентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/08/03/orudiia-prestupleniia-tetradka-i-ruchka
+**Читайте также:** [«Орудия преступления — тетрадка и ручка»](2023/08/03/orudiia-prestupleniia-tetradka-i-ruchka.md)

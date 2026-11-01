@@ -17,6 +17,6 @@ tags: ""
 
 **Произведено: «НО. Медиа из России»:** https://youtu.be/mGjN2XfwPEQ
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/26/grazhdanin-gorinov
+**Читайте также:** [Гражданин Горинов](2024/11/26/grazhdanin-gorinov.md)
 
 ** Минюст РФ считает иноагентом, а мы нет.*

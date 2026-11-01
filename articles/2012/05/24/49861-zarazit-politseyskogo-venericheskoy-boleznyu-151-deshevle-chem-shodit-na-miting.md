@@ -19,7 +19,7 @@ tags: ""
 		<tr>
 			<td>
 				<p>
-					<a href="http://www.novayagazeta.ru/storage/c/2012/05/24/1337876354_237748_2.jpg" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;"><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/24/1337876354_766498_78.jpg" style="width: 280px; height: 210px; "></a></p>
+					<a href="[http://www.novayagazeta.ru/storage/c/2012/05/24/1337876354_237748_2.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/24/1337876354_237748_2.jpg)" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/24/1337876354_766498_78.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/24/1337876354_766498_78.jpg)" style="width: 280px; height: 210px; "></a></p>
 			</td>
 		</tr>
 	</tbody>]*

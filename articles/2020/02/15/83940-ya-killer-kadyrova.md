@@ -85,4 +85,4 @@ tags: "даудов, кадыров, спецслужбы, избиение, у�
 
 Список с данными личных страниц всех чеченских «друзей» Иконниковой мы скопировали и намерены передать для проверки в Следственный комитет России. Также мы будем настаивать на запросе биллинга с привязкой к базовым станциям за 6 и 7 февраля по номеру телефона Анны Иконниковой, который она сама же и разместила в своем паблике «Подвал Кадырова».
 
-**link:** https://novayagazeta.ru/articles/2020/02/07/83816-v-chechne-poyavilas-novaya-traditsiya-napadat-na-teh-kto-zaschischaet-chechentsev-ot-kadyrovtsev
+**link:** [Бои без правил](2020/02/07/83816-v-chechne-poyavilas-novaya-traditsiya-napadat-na-teh-kto-zaschischaet-chechentsev-ot-kadyrovtsev.md)

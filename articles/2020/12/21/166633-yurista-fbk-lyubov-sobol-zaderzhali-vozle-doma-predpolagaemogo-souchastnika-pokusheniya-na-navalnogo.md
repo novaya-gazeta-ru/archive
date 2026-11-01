@@ -19,10 +19,10 @@ tags: "sn, отравление, навальный, соболь"
 >
 > Сотрудников YouTube-канала «Навальный LIVE» Акима Керимова и Ольгу Ключникову задержали сотрудники уголовного розыска у ОВД Новокосино, в котором сейчас находится Любовь Соболь. Об этом [сообщил](https://t.me/navalny_live/3590) сам канал в своем телеграме, добавив, что силовики хотят «задать пару вопросов».
 
-Соболь приехала к дому Кудрявцева после того, как Алексей Навальный [сообщил](https://novayagazeta.ru/news/2020/12/21/166627-situatsiya-slozhilas-ne-v-nashu-polzu-sotrudnik-fsb-veroyatno-uchastvovavshiy-v-otravlenii-pogovoril-s-navalnym) о разговоре с предполагаемым членом специальной группы оперативников ФСБ. Позже у главного здания спецслужбы на Лубянке в Москве [начались](https://twitter.com/teamnavalny_mos/status/1341055967144927232) пикеты, двух участников [задержали](https://t.me/mbk_live/8604).
+Соболь приехала к дому Кудрявцева после того, как Алексей Навальный [сообщил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/12/21/166627-situatsiya-slozhilas-ne-v-nashu-polzu-sotrudnik-fsb-veroyatno-uchastvovavshiy-v-otravlenii-pogovoril-s-navalnym) о разговоре с предполагаемым членом специальной группы оперативников ФСБ. Позже у главного здания спецслужбы на Лубянке в Москве [начались](https://twitter.com/teamnavalny_mos/status/1341055967144927232) пикеты, двух участников [задержали](https://t.me/mbk_live/8604).
 
 По данным авторов совместного расследования The Insider, Bellingcat, CNN, Der Spiegel и ФБК, группа следила за политиком и может быть причастна к его отравлению боевым отравляющим веществом из группы «Новичок». Юрист ФБК рассказала, что силовики приехали к дому Кудрявцева через десять минут после публикации разговора.
 
 Напомним, оппозиционер представился помощником секретаря Совбеза Николая Патрушева и попросил Кудрявцева помочь ему составить отчет начальству. Собеседник политика фактически признался, что участвовал в покушении на его жизнь, и сообщил некоторые детали операции.
 
-**link:** https://novayagazeta.ru/news/2020/12/21/166627-situatsiya-slozhilas-ne-v-nashu-polzu-sotrudnik-fsb-veroyatno-uchastvovavshiy-v-otravlenii-pogovoril-s-navalnym
+**link:** [https://novayagazeta.ru/news/2020/12/21/166627-situatsiya-slozhilas-ne-v-nashu-polzu-sotrudnik-fsb-veroyatno-uchastvovavshiy-v-otravlenii-pogovoril-s-navalnym](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/12/21/166627-situatsiya-slozhilas-ne-v-nashu-polzu-sotrudnik-fsb-veroyatno-uchastvovavshiy-v-otravlenii-pogovoril-s-navalnym)

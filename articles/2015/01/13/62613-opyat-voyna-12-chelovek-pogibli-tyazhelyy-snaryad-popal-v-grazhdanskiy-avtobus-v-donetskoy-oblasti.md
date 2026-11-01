@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/01/13/1421170302_903911_41.jpg" style="width: 340px; height: 453px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/01/13/1421170302_903911_41.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/01/13/1421170302_903911_41.jpg)" style="width: 340px; height: 453px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Фото: <a href="https://www.facebook.com/photo.php?fbid=1408169012809102&amp;set=a.1383994841893186.1073741828.100008480501304&amp;type=1" target="_blank">Facebook</a>&nbsp;Вячеслава Аброськина, начальника ГУ МВС Украины в Донецкой области</sup></td>

@@ -17,7 +17,7 @@ tags: "нарушения, технологии, шахта, экология, �
 
 *Как росло состояние Дмитрия Рыболовлева на фоне крупнейшей техногенной катастрофы современной России*
 
-**link:** https://novayagazeta.ru/articles/2016/10/05/70066-rybolovlev-sbrosivshiy-cheshuyu
+**link:** [Рыболовлев, сбросивший чешую](2016/10/05/70066-rybolovlev-sbrosivshiy-cheshuyu.md)
 
 ![](_assets/95/95d3aa666fdc3a41e1cdb82a8ceeab29.webp)
 

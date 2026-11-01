@@ -23,4 +23,4 @@ tags: ""
 
 Днем ранее, 5 октября, чрезвычайная ситуация произошла и в исключительной экономической зоне Румынии. На борту торгового судна «Royad Mammadov» возник пожар, это произошло примерно в 30 морских милях южнее Сфынту-Георге. Одиннадцать членов экипажа были спасены, капитан и повар погибли. Президент Украины Владимир Зеленский обвинил в атаке на судно Россию. Румынские власти продолжают устанавливать обстоятельства происшествия.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/11/favorit-prezidentskoi-gonki-v-bolgarii-strane-nato-stala-prodvigat-kurs-na-sblizhenie-s-rossiei-i-sokrashchenie-podderzhki-ukrainy-vybory-cherez-poltora-mesiatsa-news
+**Читайте также:** [Фаворит президентской гонки в Болгарии — стране НАТО — стала продвигать курс на сближение с Россией и сокращение поддержки Украины. Выборы через полтора месяца](2026/09/11/favorit-prezidentskoi-gonki-v-bolgarii-strane-nato-stala-prodvigat-kurs-na-sblizhenie-s-rossiei-i-sokrashchenie-podderzh.md)

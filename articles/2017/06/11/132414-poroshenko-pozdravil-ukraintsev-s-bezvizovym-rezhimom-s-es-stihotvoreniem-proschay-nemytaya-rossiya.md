@@ -23,9 +23,9 @@ tags: "россия, порошенко, евросоюз, безвизовый 
 
 «И в этом, кстати, есть определенный символизм. Мы наконец независимы друг от друга - политически, экономически, газово-энергетически, а также духовно, наконец, мы свободны от их “скреп”», - подчеркнул Порошенко.
 
-**link:** https://novayagazeta.ru/news/2017/05/30/132031-poroshenko-ulichil-putina-v-popytke-vykrast-kievskuyu-knyazhnu-iz-ukrainskoy-istorii-video
+**link:** [https://novayagazeta.ru/news/2017/05/30/132031-poroshenko-ulichil-putina-v-popytke-vykrast-kievskuyu-knyazhnu-iz-ukrainskoy-istorii-video](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/05/30/132031-poroshenko-ulichil-putina-v-popytke-vykrast-kievskuyu-knyazhnu-iz-ukrainskoy-istorii-video)
 
-Напомним, 17 мая Председатель Европарламента Антонио Таяни и министр внутренних дел Мальты (председательствует в ЕС) Кармело Абела [подписали](https://www.novayagazeta.ru/news/2017/05/17/131642-v-evroparlamente-podpisali-soglashenie-ob-otmene-viz-dlya-ukrainy) соглашение о предоставлении Украине безвизового режима.
+Напомним, 17 мая Председатель Европарламента Антонио Таяни и министр внутренних дел Мальты (председательствует в ЕС) Кармело Абела [подписали](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/05/17/131642-v-evroparlamente-podpisali-soglashenie-ob-otmene-viz-dlya-ukrainy) соглашение о предоставлении Украине безвизового режима.
 
 На торжественной церемонии в Страсбурге присутствовал президент Украины Петр Порошенко. Ранее он назвал безвизовый режим с Евросоюзом «окончательным разводом» украинцев с Россией.
 

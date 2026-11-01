@@ -37,6 +37,6 @@ tags: ""
 
 Тогда же Россия испытала в боевых условиях новейшую ракету средней дальности «Орешник», [ударив ею](https://t.me/novaya_pishet/48298) по украинскому заводу Южмаш.
 
-В начале августа 2025 года Владимир Путин заявил, что серийное производство этой ракеты [уже запущено](https://novayagazeta.ru/articles/2025/08/01/ni-odnoi-poteri-net-naprasnoi-putin-otverg-ultimatum-trampa-rossiia-gotova-eshche-podozhdat-sdelki-na-svoikh-usloviiakh-news).
+В начале августа 2025 года Владимир Путин заявил, что серийное производство этой ракеты [уже запущено](2025/08/01/ni-odnoi-poteri-net-naprasnoi-putin-otverg-ultimatum-trampa-rossiia-gotova-eshche-podozhdat-sdelki-na-svoikh-usloviiakh-.md).
 
-**Читайте также:** https://novayagazeta.ru/articles/2019/11/10/82673-mirovoy-dogovor
+**Читайте также:** [Мировой договор](2019/11/10/82673-mirovoy-dogovor.md)

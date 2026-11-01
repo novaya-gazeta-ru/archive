@@ -47,7 +47,7 @@ tags: "телевидение, нравы, нтв"
 
 И вот что еще интересно: кошмарный эфир НТВ взбудоражил только сетевую общественность, где, в частности, кто-то очень верно отметил: «Россия — это такая страна, где исполнять арию Христа в областном театре нельзя, а показывать сношение с собакой на федеральном канале — можно».
 
-**link:** https://novayagazeta.ru/news/2016/10/17/125820-v-omske-aktivisty-dobilis-otmeny-spektaklya-iisus-hristos-superzvezda
+**link:** [https://novayagazeta.ru/news/2016/10/17/125820-v-omske-aktivisty-dobilis-otmeny-spektaklya-iisus-hristos-superzvezda](https://web.archive.org/web/*/https://novayagazeta.ru/news/2016/10/17/125820-v-omske-aktivisty-dobilis-otmeny-spektaklya-iisus-hristos-superzvezda)
 
 Вся же прочая «общественность», обычно столь озабоченная нравственностью народа и выражающая свой протест против ее нарушения художниками, театральными режиссерами, фотографами при помощи мочи, краски и свиных голов, помалкивает.
 

@@ -17,8 +17,8 @@ tags: "краснодар, уголовное дело, em"
 
 Адвокат Антоновой Александр Валявский заявил, что Антонова невиновна и ее хотят привлечь к ответственности лишь за ее политические взгляды. «Цель этого дела — запугать мою подзащитную и других и показать, что любое инакомыслие будет безжалостно преследоваться», — [отметил](https://t.me/openrussia_team/2628) он в ходе прений.
 
-Дело против Антоновой [возбудили](https://novayagazeta.ru/news/2019/05/22/151872-sk-pred-yavil-obvinenie-eks-koordinatoru-otkrytoy-rossii-v-krasnodare-po-delu-nezhelatelnoy-organizatsii) в прошлом году. У ее матери также [блокировали](https://novayagazeta.ru/news/2019/10/28/156468-u-materi-eks-koordinatora-otkrytoy-rossii-v-krasnodare-zablokirovali-scheta-po-delu-protiv-fbk) счета по делу об отмывании денег, возбужденному против Фонда борьбы с коррупцией политика Алексея Навального. Антонова подчеркивала, что не имеет к нему отношения.
+Дело против Антоновой [возбудили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/05/22/151872-sk-pred-yavil-obvinenie-eks-koordinatoru-otkrytoy-rossii-v-krasnodare-po-delu-nezhelatelnoy-organizatsii) в прошлом году. У ее матери также [блокировали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/10/28/156468-u-materi-eks-koordinatora-otkrytoy-rossii-v-krasnodare-zablokirovali-scheta-po-delu-protiv-fbk) счета по делу об отмывании денег, возбужденному против Фонда борьбы с коррупцией политика Алексея Навального. Антонова подчеркивала, что не имеет к нему отношения.
 
 Фигуранткой первого в России дела по ст. 284.1 УК стала член совета «Открытой России» Анастасия Шевченко. Она уже больше года находится под домашним арестом.
 
-**link:** https://novayagazeta.ru/articles/2019/10/29/82545-otnyali-vse-dengi
+**link:** [«Отняли все деньги»](2019/10/29/82545-otnyali-vse-dengi.md)

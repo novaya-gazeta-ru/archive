@@ -24,7 +24,7 @@ tags: "италия, кино, фестивали"
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/09/01/1441122267_700559_55.jpg" style="width: 340px; height: 200px; float: right;"><br>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/09/01/1441122267_700559_55.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/09/01/1441122267_700559_55.jpg)" style="width: 340px; height: 200px; float: right;"><br>
 			<sup>«Событие», Сергей Лозница</sup></td>
 		</tr>
 	</tbody>]*
@@ -43,7 +43,7 @@ tags: "италия, кино, фестивали"
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/09/01/1441122748_162634_21.jpg" style="width: 340px; height: 191px; float: right;"><sup>«Равные», Дрейк Доримус</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/09/01/1441122748_162634_21.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/09/01/1441122748_162634_21.jpg)" style="width: 340px; height: 191px; float: right;"><sup>«Равные», Дрейк Доримус</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -53,7 +53,7 @@ tags: "италия, кино, фестивали"
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/09/01/1441122918_600443_46.jpg" style="width: 340px; height: 190px; float: right;"><sup>«Аномализа», Чарли Кауфман</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/09/01/1441122918_600443_46.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/09/01/1441122918_600443_46.jpg)" style="width: 340px; height: 190px; float: right;"><sup>«Аномализа», Чарли Кауфман</sup></td>
 		</tr>
 	</tbody>]*
 

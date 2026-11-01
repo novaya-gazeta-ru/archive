@@ -15,7 +15,7 @@ tags: "митинги, болотное дело"
 
 > **есть продолжение**
 >
-> Мэрия отказалась вернуть организаторам митинга 6 мая изъятую часть сцены со словами про Путина и Кадырова. [Подробнее](https://www.novayagazeta.ru/news/2017/05/06/131373-nachalo-mitinga-v-moskve-zaderzhali-politseykie-iz-yav-chast-stseny-s-bannerom-pro-putina-i-kadyrova)
+> Мэрия отказалась вернуть организаторам митинга 6 мая изъятую часть сцены со словами про Путина и Кадырова. [Подробнее](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/05/06/131373-nachalo-mitinga-v-moskve-zaderzhali-politseykie-iz-yav-chast-stseny-s-bannerom-pro-putina-i-kadyrova)
 
 В субботу, 6 мая, состоится митинг, посвященный годовщине разгона демонстрации на Болотной площади в 2012 году.
 

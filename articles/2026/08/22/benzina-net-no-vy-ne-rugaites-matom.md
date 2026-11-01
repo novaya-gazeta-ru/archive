@@ -71,4 +71,4 @@ tags: ""
 
 Да уж. Мы в беде. Это точно.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/15/nuzhnykh-malchikov-obniat-nenuzhnykh-spriatat-za-shtoroi
+**Читайте также:** [Нужных мальчиков — обнять, ненужных — спрятать за шторой](2026/08/15/nuzhnykh-malchikov-obniat-nenuzhnykh-spriatat-za-shtoroi.md)

@@ -87,4 +87,4 @@ tags: "война в иране, сша и иран, израиль, конфл�
 
 *Брюссель*
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/17/135-millionov-dollarov-v-trubu-za-minutu
+**Читайте также:** [135 миллионов долларов — в трубу за минуту](2026/03/17/135-millionov-dollarov-v-trubu-za-minutu.md)

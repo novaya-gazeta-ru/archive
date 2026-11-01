@@ -107,4 +107,4 @@ tags: ""
 
 Но технически мы свою претензию правильно заявляем. В области разоружения есть такой термин — «внешне различимые функциональные отличия». Это когда, глядя на пусковую установку, можно сказать: да, в этой пусковой установке технически невозможно разместить «Томагавк». Если этого снаружи не видно, то можно заявлять о нарушении.
 
-**link:** https://novayagazeta.ru/articles/2018/06/08/76754-aleksey-arbatov-bez-strogogo-kontrolya-nad-vooruzheniyami-lyuboy-krizis-podvodit-k-grani-voyny
+**link:** [Алексей Арбатов: «Без строгого контроля над вооружениями любой кризис подводит к грани войны»](2018/06/08/76754-aleksey-arbatov-bez-strogogo-kontrolya-nad-vooruzheniyami-lyuboy-krizis-podvodit-k-grani-voyny.md)

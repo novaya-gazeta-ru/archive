@@ -22,4 +22,4 @@ tags: "аэрофлот, взлом, хакеры"
 - Ранее об атаке на «Аэрофлот» [заявили](https://t.me/novaya_pishet/52823) две хакерские группировки. Они утверждали, что уничтожили носители информации и получили доступ к корпоративным файлам.
 - Из-за сбоя в работе были отменены десятки рейсов. По данным самой авиакомпании, в период с 00:00 мск по 12:00 28 июля «Аэрофлотом» было выполнено 76 рейсов из 123 запланированных.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/28/khakery-zaiavili-o-prichastnosti-ko-vzlomu-aeroflota-aviakompaniia-uzhe-otmenila-42-reisa-iz-za-sboia-news
+**Читайте также:** [Хакеры заявили о причастности ко взлому «Аэрофлота». Авиакомпания уже отменила 42 рейса из-за сбоя](2025/07/28/khakery-zaiavili-o-prichastnosti-ko-vzlomu-aeroflota-aviakompaniia-uzhe-otmenila-42-reisa-iz-za-sboia-news.md)

@@ -55,4 +55,4 @@ tags: "отношения, школа, родители, егэ, отцы и д�
 
 Поразительно, но по теперешним временам это даже и не банальность.
 
-**link:** https://novayagazeta.ru/articles/2019/05/25/80648-obsuzhdat-budete-u-direktora
+**link:** [Обсуждать будете у директора!](2019/05/25/80648-obsuzhdat-budete-u-direktora.md)

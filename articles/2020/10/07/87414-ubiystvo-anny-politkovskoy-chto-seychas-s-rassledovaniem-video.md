@@ -19,4 +19,4 @@ tags: "расследование, убийство, анна политковс
 
 Теперь официально на это остался всего лишь год — 7 октября 2021-го истечет срок давности по этому преступлению.
 
-**link:** https://novayagazeta.ru/articles/2020/10/07/87411-ya-zhdala-avtomatnuyu-ochered-v-spinu-spetsvypusk-podkasta-chto-novogo
+**link:** [«Я ждала автоматную очередь в спину…»](2020/10/07/87411-ya-zhdala-avtomatnuyu-ochered-v-spinu-spetsvypusk-podkasta-chto-novogo.md)

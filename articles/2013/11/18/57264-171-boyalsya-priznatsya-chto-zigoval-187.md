@@ -16,7 +16,7 @@ tags: "антифашисты, суды"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/11/18/1384787868_947975_95.jpg" style="width: 280px; height: 210px;"><em><sup>Алексей Сутуга и Алексей Олесинов</sup></em></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/11/18/1384787868_947975_95.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/11/18/1384787868_947975_95.jpg)" style="width: 280px; height: 210px;"><em><sup>Алексей Сутуга и Алексей Олесинов</sup></em></td>
 		</tr>
 	</tbody>]*
 

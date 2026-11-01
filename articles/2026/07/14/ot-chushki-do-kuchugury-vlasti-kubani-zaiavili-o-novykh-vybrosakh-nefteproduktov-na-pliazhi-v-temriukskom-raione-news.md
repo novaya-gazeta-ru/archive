@@ -29,6 +29,6 @@ tags: ""
 
 Между тем поступили сообщения о загрязнении пляжа нефтепродуктами из кубанского Приморско-Ахтарска. По словам местных жителей, въезд на Ясенскую косу перекрыли из-за разлива нефтепродуктов, на территорию пропускают только тех, кто там живет. Волонтеры уже начали убирать там пляжи.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/11/bespilotniki-atakovali-taganrog-i-suda-v-zalive-v-tom-chisle-tanker-s-metanolom-pogib-matros-gubernator-rostovskoi-oblasti-news
+**Читайте также:** [Беспилотники атаковали Таганрог и суда в заливе, в том числе танкер с метанолом, погиб матрос — губернатор Ростовской области](2026/07/11/bespilotniki-atakovali-taganrog-i-suda-v-zalive-v-tom-chisle-tanker-s-metanolom-pogib-matros-gubernator-rostovskoi-oblas.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/05/ukrainskie-drony-atakovali-shedshie-v-rossiiu-zernovozy-v-azovskom-more-pogibli-piat-grazhdan-azerbaidzhana-news
+**Читайте также:** [Украинские дроны атаковали шедшие в Россию зерновозы в Азовском море, погибли пять граждан Азербайджана](2026/06/05/ukrainskie-drony-atakovali-shedshie-v-rossiiu-zernovozy-v-azovskom-more-pogibli-piat-grazhdan-azerbaidzhana-news.md)

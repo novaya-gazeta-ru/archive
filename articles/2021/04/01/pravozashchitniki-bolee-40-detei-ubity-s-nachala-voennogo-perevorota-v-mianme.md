@@ -23,8 +23,8 @@ tags: "мьянма, убйиства, протесты, акции протес
 
 По [данным ](https://aappb.org/?p=14022)правозащитной организации Мьянмы «Ассоциация помощи политическим заключенным» (AAPP), всего в ходе протестов убиты 543 человека.
 
-Спецдокладчик ООН по Мьянме Том Эндрюс [осудил ](https://novayagazeta.ru/articles/2021/03/28/massovye-ubiistva-v-oon-prizvali-razobratsia-s-situatsiei-v-mianme-za-den-siloviki-rasstreliali-tam-bolee-100-demonstrantov)действия силовиков, назвав это «массовым убийством мужчин, женщин и маленьких детей по всей стране».
+Спецдокладчик ООН по Мьянме Том Эндрюс [осудил ](2021/03/28/massovye-ubiistva-v-oon-prizvali-razobratsia-s-situatsiei-v-mianme-za-den-siloviki-rasstreliali-tam-bolee-100-demonstran.md)действия силовиков, назвав это «массовым убийством мужчин, женщин и маленьких детей по всей стране».
 
 В Мьянме 1 февраля произошел государственный переворот. Это случилось после того, как Вооруженные силы Мьянмы сместили гражданское правительство и взяли власть в стране. Президент страны Вин Мьинт и государственный советник Аун Сан Су Чжи были арестованы. После этого в Мьянме начались массовые демонстрации.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/02/01/89002-voennye-za-odnu-noch-zahvatili-vlast-v-myanme-chto-izvestno-pryamo-seychas
+**Читайте также:** [https://novayagazeta.ru/articles/2021/02/01/89002-voennye-za-odnu-noch-zahvatili-vlast-v-myanme-chto-izvestno-pryamo-seychas](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/02/01/89002-voennye-za-odnu-noch-zahvatili-vlast-v-myanme-chto-izvestno-pryamo-seychas)

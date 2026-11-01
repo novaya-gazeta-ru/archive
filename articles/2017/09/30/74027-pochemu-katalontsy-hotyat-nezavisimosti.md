@@ -47,7 +47,7 @@ tags: "суверенитет, как у них, независимость, р�
 
 Тем не менее, после объявления результатов несколько разнородных каталонских партий — от ультралевых до ультраправых — объединились в коалицию Junts Pel Si («Вместе — за ответ «за») и пообещали избирателям провести «полноценный» референдум через 18 месяцев после победы на выборах.
 
-**link:** https://novayagazeta.ru/articles/2017/09/29/74016-chem-kataloniya-otlichaetsya-ot-kryma
+**link:** [Чем Каталония отличается от Крыма](2017/09/29/74016-chem-kataloniya-otlichaetsya-ot-kryma.md)
 
 Эти 18 месяцев как раз приходятся на октябрь 2017 года. Новым премьером Каталонии стал малоизвестный ранее мэр Жироны Карлес Пучдемон (*«жестко-праволиберального» Артура Маса не хотели ультралевые участники коалиции*), еще более «упертый» сторонник независимости.
 
@@ -63,4 +63,4 @@ tags: "суверенитет, как у них, независимость, р�
 
 Согласно июльскому соцопросу (2017), который провели каталонские власти, за независимость выступают 41,1% жителей Каталонии. С июля, учитывая ужесточение позиции Мадрида, эта цифра могла вырасти.
 
-**link:** https://novayagazeta.ru/news/2017/09/30/135723-neizvestnye-iz-pnevmatiki-obstrelyali-storonnikov-referenduma-za-nezavisimost-katalonii-na-territorii-shkoly-v-manlieu
+**link:** [https://novayagazeta.ru/news/2017/09/30/135723-neizvestnye-iz-pnevmatiki-obstrelyali-storonnikov-referenduma-za-nezavisimost-katalonii-na-territorii-shkoly-v-manlieu](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/09/30/135723-neizvestnye-iz-pnevmatiki-obstrelyali-storonnikov-referenduma-za-nezavisimost-katalonii-na-territorii-shkoly-v-manlieu)

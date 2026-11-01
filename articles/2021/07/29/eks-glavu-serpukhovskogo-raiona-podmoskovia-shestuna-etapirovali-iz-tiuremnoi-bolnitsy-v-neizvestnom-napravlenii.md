@@ -21,9 +21,9 @@ tags: "ng, шестун, этапирование, колония"
 
 Семья предпринимают все усилия, чтобы отыскать Александра Шестуна», — заявила Русина.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/12/22/88463-tebya-prosto-pereedut-sash
+**Читайте также:** [«Тебя просто переедут, Саш...»](2020/12/22/88463-tebya-prosto-pereedut-sash.md)
 
-Ранее Шестун [рассказывал](https://novayagazeta.ru/articles/2021/07/06/ob-dvernoi-kosiak-i-reshetku-osuzhdennyi-na-15-let-kolonii-eks-glava-serpukhovskogo-raiona-shestun-soobshchil-ob-izbienii-v-bolnitse-fsin), что в тюремной больнице Торжка его избили сотрудники ФСИН. По словам бывшего чиновника, среди напавших на него был врио начальника медсанчасти Александр Бордачев. После этого следователи в Тверской области [отчитались](https://novayagazeta.ru/articles/2021/07/09/sk-nachal-proverku-po-faktu-izbieniia-eks-glavy-serpukhovskogo-raiona-podmoskovia-shestuna-v-tiuremnoi-bolnitse), что начали проверку по факту избиения.
+Ранее Шестун [рассказывал](2021/07/06/ob-dvernoi-kosiak-i-reshetku-osuzhdennyi-na-15-let-kolonii-eks-glava-serpukhovskogo-raiona-shestun-soobshchil-ob-izbieni.md), что в тюремной больнице Торжка его избили сотрудники ФСИН. По словам бывшего чиновника, среди напавших на него был врио начальника медсанчасти Александр Бордачев. После этого следователи в Тверской области [отчитались](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/09/sk-nachal-proverku-po-faktu-izbieniia-eks-glavy-serpukhovskogo-raiona-podmoskovia-shestuna-v-tiuremnoi-bolnitse), что начали проверку по факту избиения.
 
 Сторонники связывают нападение на заключенного с его публикациями о пыточных условиях в тверских исправительных колониях. После побоев Шестун, который на тот момент уже 57 дней голодал, перестал принимать и воду, требуя привлечь к ответственности сотрудников ФСИН.
 

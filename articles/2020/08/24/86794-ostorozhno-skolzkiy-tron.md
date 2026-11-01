@@ -69,4 +69,4 @@ tags: "плакаты, лозунги, протесты, беларусь"
 
 *Фото: Максим С., для «Новой»*
 
-**link:** https://novayagazeta.ru/articles/2020/08/19/86730-protesty-v-belarusi-den-11-online
+**link:** [https://novayagazeta.ru/articles/2020/08/19/86730-protesty-v-belarusi-den-11-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/19/86730-protesty-v-belarusi-den-11-online)

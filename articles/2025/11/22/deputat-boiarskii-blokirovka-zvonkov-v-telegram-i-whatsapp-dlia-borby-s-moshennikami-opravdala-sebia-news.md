@@ -25,10 +25,10 @@ tags: ""
 
 РКН заблокировал звонки по мессенджерам 13 августа, а осенью операторам связи запретили отправлять коды верификации по SMS на эти мессенджеры.
 
-Одновременно силовики начали умалчивать, что мошенники просто перешли в мессенджер MAX и обманывают людей там. В сводках стал фигурировать некий неназванный [«один из популярных мессенджеров»](https://novayagazeta.ru/articles/2025/11/15/v-odnom-iz-novykh-messendzherov-politsiia-perestala-upominat-gosmessendzher-max-v-soobshcheniiakh-o-moshennikakh-news), обратили внимание журналисты.
+Одновременно силовики начали умалчивать, что мошенники просто перешли в мессенджер MAX и обманывают людей там. В сводках стал фигурировать некий неназванный [«один из популярных мессенджеров»](2025/11/15/v-odnom-iz-novykh-messendzherov-politsiia-perestala-upominat-gosmessendzher-max-v-soobshcheniiakh-o-moshennikakh-news.md), обратили внимание журналисты.
 
 [Отмечала «перегибы»](https://www.rbc.ru/finances/18/11/2025/691c27d39a7947259dfa1e11) в борьбе с мошенниками и глава ЦБ Эльвира Набиулина. Она заявила, что число жалоб на неоправданные блокировки счетов со стороны банков резко выросли за последние месяцы.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/15/ofitsialno-ni-moskovskie-shkolniki-ni-ikh-roditeli-ne-staviat-sebe-max-i-chem-vyshe-reiting-shkoly-tem-bolshe-soprotivlenie-news
+**Читайте также:** [Официально: ни московские школьники, ни их родители не ставят себе MAX. И чем выше рейтинг школы, тем больше сопротивление](2025/11/15/ofitsialno-ni-moskovskie-shkolniki-ni-ikh-roditeli-ne-staviat-sebe-max-i-chem-vyshe-reiting-shkoly-tem-bolshe-soprotivle.md)
 
 #### * Принадлежит компании META, деятельность которой в РФ признана экстремистской и запрещена.

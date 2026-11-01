@@ -130,4 +130,4 @@ tags: "рост цен, цены на продукты, розничная то�
 >
 > **Валерия Федоренко, **«Новая»
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/17/tsena-meniaetsia-po-doroge-v-kassu
+**Читайте также:** [Цена меняется по дороге в кассу](2025/03/17/tsena-meniaetsia-po-doroge-v-kassu.md)

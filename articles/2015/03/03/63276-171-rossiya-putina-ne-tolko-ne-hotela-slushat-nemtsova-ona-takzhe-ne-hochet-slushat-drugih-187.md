@@ -35,6 +35,6 @@ tags: "немцов, убийство"
 
 **Богдан Борусевич, Маршал Сената Республики Польша**
 
-**link:** https://novayagazeta.ru/news/1692077.html
+**link:** [https://novayagazeta.ru/news/1692077.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1692077.html)
 
-**link:** https://novayagazeta.ru/news/1692077.html
+**link:** [https://novayagazeta.ru/news/1692077.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1692077.html)

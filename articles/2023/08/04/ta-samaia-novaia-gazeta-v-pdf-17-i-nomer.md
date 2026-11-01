@@ -13,4 +13,4 @@ tags: "та самая новая газета, вагнер, милашина, 
 
 *Кто может быть причастен к покушению на Елену Милашину и Александра Немова и почему видео, ставшее поводом для июньского мятежа Пригожина, похоже на фейк*
 
-https://novayagazeta.ru/issues/3262
+[https://novayagazeta.ru/issues/3262](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3262)

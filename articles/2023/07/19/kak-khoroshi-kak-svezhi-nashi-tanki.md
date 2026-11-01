@@ -61,7 +61,7 @@ tags: ""
 
 Кстати, другое название сочинения — «Духовный танк». Тут уже сквозит философский замах. Что такое «духовный волк» знаю, что такое «духовный танк» — пока нет. Ну ничего, Проханов объяснит, это наверняка не последняя его рок-опера.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/07/06/ty-s-nimi-ili-s-nami
+**Читайте также:** [https://novayagazeta.ru/articles/2023/07/06/ty-s-nimi-ili-s-nami](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/07/06/ty-s-nimi-ili-s-nami)
 
 ## ***
 

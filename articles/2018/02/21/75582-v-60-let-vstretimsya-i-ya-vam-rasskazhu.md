@@ -19,7 +19,7 @@ tags: "немцов"
 
 27 февраля 2018 года — три года со дня убийства Бориса Немцова.
 
-**link:** https://novayagazeta.ru/articles/2018/02/24/75603-protivopostavlyat-sebya-obschestvennosti-glupo
+**link:** [«Противопоставлять себя общественности — глупо»](2018/02/24/75603-protivopostavlyat-sebya-obschestvennosti-glupo.md)
 
 — **Вы можете представить самого себя в 60 лет?**
 

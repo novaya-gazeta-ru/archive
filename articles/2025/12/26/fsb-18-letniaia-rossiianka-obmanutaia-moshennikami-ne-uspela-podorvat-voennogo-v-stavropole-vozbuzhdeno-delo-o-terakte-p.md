@@ -32,8 +32,8 @@ tags: ""
 
 > Задержанный настолько молод, что уголовное дело на него по основной статье завести не смогли, а отправили школьника в центр временного содержания несоврешеннолетних.
 
-- **18 декабря** стало известно [о «случайном» задержании](https://novayagazeta.ru/articles/2025/12/18/mogla-stat-terroristkoi-smertnitsei-fsb-zaderzhala-16-letniuiu-zhertvu-moshennikov-s-bomboi-v-riukzake-v-tsentre-volgodonska-za-polchasa-do-peredachi-posylki-news) 16-летней жительницы Волгодонска, обманутой телефонными мошенниками, угрозами заставившими ее везти портфель со взрывчаткой через город на центральную площадь на встречу с предполагаемой жертвой.
+- **18 декабря** стало известно [о «случайном» задержании](2025/12/18/mogla-stat-terroristkoi-smertnitsei-fsb-zaderzhala-16-letniuiu-zhertvu-moshennikov-s-bomboi-v-riukzake-v-tsentre-volgodo.md) 16-летней жительницы Волгодонска, обманутой телефонными мошенниками, угрозами заставившими ее везти портфель со взрывчаткой через город на центральную площадь на встречу с предполагаемой жертвой.
 
 > «Могла стать смертницей…» — сообщили в пресс-релизе ФСБ.
 
-- **16 декабря** ФСБ [задержала](https://novayagazeta.ru/articles/2025/12/16/fsb-zaderzhala-chetverykh-podrostkov-14-17-let-iakoby-gotovivshikh-podryv-nefteprovoda-druzhba-po-navodke-ukrainskikh-kuratorov-iz-telegram-news) четверых подростков 14-17 лет, якобы готовивших подрыв нефтепровода «Дружба» по наводке «украинских кураторов» из Telegram.
+- **16 декабря** ФСБ [задержала](2025/12/16/fsb-zaderzhala-chetverykh-podrostkov-14-17-let-iakoby-gotovivshikh-podryv-nefteprovoda-druzhba-po-navodke-ukrainskikh-ku.md) четверых подростков 14-17 лет, якобы готовивших подрыв нефтепровода «Дружба» по наводке «украинских кураторов» из Telegram.

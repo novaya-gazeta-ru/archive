@@ -13,7 +13,7 @@ tags: "радио свобода, трамп, закрытие, суды"
 
 ![](_assets/8c/8ca718099a88880607b1b34481f8ad0c.webp)
 
-Суд в США ввел временный запрет на отказ в финансировании «Радио Свобода», [пишет](https://www.politico.com/news/2025/03/25/judge-blocks-funding-freeze-radio-free-europe-00249483) Politico. Судья посчитал, что медиакорпорации в своих доводах удалось показать «высокий шанс на победу» в [судебном процессе](https://novayagazeta.ru/articles/2025/03/20/radio-svoboda-podalo-v-sud-na-administratsiiu-trampa-posle-ego-ukaza-nemedlenno-prekratit-finansirovanie-kholdinga-news) против Агентства по глобальным медиа (USAGM) а прекращение финансирования прямо сейчас может нанести ей «непоправимый вред».
+Суд в США ввел временный запрет на отказ в финансировании «Радио Свобода», [пишет](https://www.politico.com/news/2025/03/25/judge-blocks-funding-freeze-radio-free-europe-00249483) Politico. Судья посчитал, что медиакорпорации в своих доводах удалось показать «высокий шанс на победу» в [судебном процессе](2025/03/20/radio-svoboda-podalo-v-sud-na-administratsiiu-trampa-posle-ego-ukaza-nemedlenno-prekratit-finansirovanie-kholdinga-news.md) против Агентства по глобальным медиа (USAGM) а прекращение финансирования прямо сейчас может нанести ей «непоправимый вред».
 
 Накануне стало известно, что USAGM согласилось выплатить «Радио Свобода» часть гранта в размере 7,46 млн долларов к 26 марта. Об этом решении было объявлено перед судебным заседанием по иску медиакорпорации.
 

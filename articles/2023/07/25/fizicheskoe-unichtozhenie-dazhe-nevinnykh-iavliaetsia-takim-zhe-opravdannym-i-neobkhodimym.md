@@ -51,4 +51,4 @@ tags: "карелия, репост, приговор, сергей другов
 
 #### * Властями РФ внесено в реестр «иностранных агентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/07/25/organizatorov-mnogovato-poluchaetsia
+**Читайте также:** [Организаторов многовато получается](2023/07/25/organizatorov-mnogovato-poluchaetsia.md)

@@ -11,9 +11,9 @@ tags: "видео, костюченко, митинги, онлайн, полу�
 
 # 24 декабря. Митинг на проспекте Академика Сахарова (ВИДЕОТРАНСЛЯЦИЯ. ЗАПИСЬ)
 
-**link:** https://novayagazeta.ru/society/50265.html
+**link:** [https://novayagazeta.ru/society/50265.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/50265.html)
 
-[Фоторепортаж Евгения Фельдмана](http://www.novayagazeta.ru/photos/50262.html)
+[Фоторепортаж Евгения Фельдмана](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/50262.html)
 
 _Запись видеотрансляция Данилы Линдэле для «Новой газеты»:_
 

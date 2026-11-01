@@ -130,4 +130,4 @@ tags: ""
 
 Война убивает людей не только физически. Она убивает и их души.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/04/strategiia-voiny-ssha-vs-iran-pochemu-bystro-ne-vyidet
+**Читайте также:** [Стратегия войны: США vs Иран — почему «быстро» не выйдет](2026/03/04/strategiia-voiny-ssha-vs-iran-pochemu-bystro-ne-vyidet.md)

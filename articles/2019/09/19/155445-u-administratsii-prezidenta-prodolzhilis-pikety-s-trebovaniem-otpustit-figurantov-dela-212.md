@@ -13,9 +13,9 @@ tags: "солидарность, дело 212, администрация пре
 
 В Москве у здания администрации президента возобновилась акция в поддержку актера Павла Устинова, а также других обвиняемых и осужденных участников акций протеста. В пикетной очереди стоят несколько десятков человек, передает корреспондент «Новой».
 
-С плакатами вышли в том числе актеры Варвара Шмыкова и Филипп Горенштейн. Накануне в пикетировании также [принимали участие](https://www.novayagazeta.ru/news/2019/09/18/155410-v-moskve-u-administratsii-prezidenta-nachalis-pikety-v-podderzhku-aktera-pavla-ustinova) актеры Александр Паль, Никита Кукушкин, Александра Бортич, режиссер Александр Молочников и другие.
+С плакатами вышли в том числе актеры Варвара Шмыкова и Филипп Горенштейн. Накануне в пикетировании также [принимали участие](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/09/18/155410-v-moskve-u-administratsii-prezidenta-nachalis-pikety-v-podderzhku-aktera-pavla-ustinova) актеры Александр Паль, Никита Кукушкин, Александра Бортич, режиссер Александр Молочников и другие.
 
-Запущенная Палем петиция в поддержку Устинова также за сутки [успела собрать](https://www.novayagazeta.ru/news/2019/09/18/155434-vrachi-programmisty-i-predstaviteli-knizhnogo-biznesa-opublikovali-otkrytye-pisma-v-podderzhku-figurantov-dela-212) уже более 130 тысяч подписей, после чего Генпрокуратура [потребовала отпустить](https://www.novayagazeta.ru/news/2019/09/19/155440-prokuratura-podala-hodataystvo-ob-izmenenii-mery-presecheniya-osuzhdennomu-pavlu-ustinovu) его из СИЗО на время до обжалования приговора 23 сентября.
+Запущенная Палем петиция в поддержку Устинова также за сутки [успела собрать](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/09/18/155434-vrachi-programmisty-i-predstaviteli-knizhnogo-biznesa-opublikovali-otkrytye-pisma-v-podderzhku-figurantov-dela-212) уже более 130 тысяч подписей, после чего Генпрокуратура [потребовала отпустить](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/09/19/155440-prokuratura-podala-hodataystvo-ob-izmenenii-mery-presecheniya-osuzhdennomu-pavlu-ustinovu) его из СИЗО на время до обжалования приговора 23 сентября.
 
 ![](_assets/93/93b01046dffd0f773539b84845b08a01.webp)
 

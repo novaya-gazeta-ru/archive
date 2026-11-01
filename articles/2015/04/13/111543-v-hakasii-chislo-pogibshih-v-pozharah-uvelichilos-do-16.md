@@ -15,11 +15,11 @@ tags: "пожары, хакасия"
 
 Она заявила радиостанции, что, по предварительной информации, погибли 16 человек, 8 находятся в тяжелом состоянии, всего за медицинской помощью обратились более 600 человек, госпитализировано 79. Пострадавшие обращаются в медучреждения с ожогами и отравлениями угарным газом.
 
-Ранее [сообщалось](http://www.novayagazeta.ru/news/1693098.html) о пятнадцати погибших и одном пропавшем без вести. Главный государственный инспектор по пожарному надзору Борис Борзов [сообщил](http://www.interfax.ru/russia/435830), что огонь уничтожил более 1,2 тысячи домов.
+Ранее [сообщалось](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1693098.html) о пятнадцати погибших и одном пропавшем без вести. Главный государственный инспектор по пожарному надзору Борис Борзов [сообщил](http://www.interfax.ru/russia/435830), что огонь уничтожил более 1,2 тысячи домов.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/news/1693092.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/04/12/1428837735_854408_9.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/news/1693092.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1693092.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/04/12/1428837735_854408_9.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/04/12/1428837735_854408_9.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/news/1693092.html" target="_blank"><strong>В Хакасии пал травы привел к массовым пожарам</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/news/1693092.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1693092.html)" target="_blank"><strong>В Хакасии пал травы привел к массовым пожарам</strong></a></p>]*
 
 В городах Хакасии открыты пункты приема гуманитарной помощи для тех, кто лишился своего жилья и пострадал при пожарах. Список пунктов [опубликован](http://www.r-19.ru/news/politics/otkryty-punkty-dlya-sbora-gumanitarnoy-pomoshchi-postradavshim-ot-pozhara/) на сайте республики.
 

@@ -159,7 +159,7 @@ tags: "надежда кеворкова, суд, калой ахильгов, �
 
 > И, конечно, Ирина — как и все допрошенные до нее свидетели — члены семье Кеворковой и ее друзья — никогда не слышала от подсудимой оправдание каких-либо террористических действий.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/05/07/sudia-basmannogo-suda-elena-lenskaia-otpravila-zhurnalistku-nadezhdu-kevorkovu-v-sizo-na-2-mesiatsa-news
+**Читайте также:** [https://novayagazeta.ru/articles/2024/05/07/sudia-basmannogo-suda-elena-lenskaia-otpravila-zhurnalistku-nadezhdu-kevorkovu-v-sizo-na-2-mesiatsa-news](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/05/07/sudia-basmannogo-suda-elena-lenskaia-otpravila-zhurnalistku-nadezhdu-kevorkovu-v-sizo-na-2-mesiatsa-news)
 
 Длинный и трудный первый день суда заканчивается.
 

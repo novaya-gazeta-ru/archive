@@ -25,4 +25,4 @@ tags: ""
 
 Уулу Бекзата задержали в ноябре 2024 года, на время следствия он содержался в СИЗО. По данной статье срок в зачет идет по формуле «день за день» (в других случаях день в СИЗО приравнивается к двум дням в колонии).
 
-Напомним, дело о теракте в Крокус Сити Холле в марте 2024 года уже завершено, материалы [переданы обвиняемым](https://novayagazeta.ru/articles/2025/02/07/sledstvie-po-delu-o-terakte-v-krokus-siti-kholle-zaversheno-materialy-dela-peredany-storonam-dlia-oznakomleniia-advokat-news) для ознакомления.
+Напомним, дело о теракте в Крокус Сити Холле в марте 2024 года уже завершено, материалы [переданы обвиняемым](2025/02/07/sledstvie-po-delu-o-terakte-v-krokus-siti-kholle-zaversheno-materialy-dela-peredany-storonam-dlia-oznakomleniia-advokat-.md) для ознакомления.

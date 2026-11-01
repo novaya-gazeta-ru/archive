@@ -15,4 +15,4 @@ tags: ""
 
 Сегодня две набитые вещами машины — «Газель»-полуторка и микроавтобус — отправились к погорельцам.
 
-Фоторепортаж — [здесь](http://www.novayagazeta.ru/news/846201.html) и в [блоге «Новой»](http://novayagazeta.livejournal.com/235266.html)
+Фоторепортаж — [здесь](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/846201.html) и в [блоге «Новой»](http://novayagazeta.livejournal.com/235266.html)

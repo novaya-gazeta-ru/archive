@@ -35,7 +35,7 @@ tags: "политзаключенные, украина, россия, сенц�
 
 14 мая Олег Сенцов объявил бессрочную голодовку с требованием освободить всех узников Кремля. По данным правозащитников, их 64, 27 из них содержат на территории РФ, 58 — арестованы в Крыму или по делам, связанным с Крымом.
 
-**link:** https://novayagazeta.ru/articles/2018/05/18/76513-vmeste-i-do-kontsa
+**link:** [Вместе и до конца](2018/05/18/76513-vmeste-i-do-kontsa.md)
 
 **— Расскажите, как вы живете? Как дети?**
 
@@ -65,7 +65,7 @@ tags: "политзаключенные, украина, россия, сенц�
 
 Он никогда не грубил, никогда не матерился, не ссорился. Такого не было. Он лучше помолчит, но своего мнения никогда не изменит.
 
-**link:** https://novayagazeta.ru/news/2018/05/21/141847-bolee-130-deyateley-kultury-potrebovali-osvobodit-rezhissera-olega-sentsova
+**link:** [https://novayagazeta.ru/news/2018/05/21/141847-bolee-130-deyateley-kultury-potrebovali-osvobodit-rezhissera-olega-sentsova](https://web.archive.org/web/*/https://novayagazeta.ru/news/2018/05/21/141847-bolee-130-deyateley-kultury-potrebovali-osvobodit-rezhissera-olega-sentsova)
 
 **— Как часто вы пишете Олегу?**
 

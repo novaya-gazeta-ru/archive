@@ -19,4 +19,4 @@ tags: "США, национальная безопасность, em"
 
 Reuters [уточняет](https://www.reuters.com/business/media-telecom/us-fcc-adds-ao-kaspersky-lab-china-telecom-firms-national-security-threat-list-2022-03-25/), что в прошлом году FCC включила в список пять китайских компаний. По закону от 2019 года комиссия должна ежегодно обновлять список услуг и оборудования, которые представляют «неприемлемый риск» для нацбезопасности США и жителей страны.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/02/14/83918-ligu-plyuschat
+**Читайте также:** [Лигу плющат](2020/02/14/83918-ligu-plyuschat.md)

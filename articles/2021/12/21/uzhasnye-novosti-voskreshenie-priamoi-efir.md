@@ -13,7 +13,7 @@ tags: "ужасные новости, прямой эфир"
 
 *Редактор отдела политики Кирилл Мартынов возвращается в эфир на YouTube «Новой» с итогами недели*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/20/nazad-k-demokraticheskomu-tsentralizmu
+**Читайте также:** [Назад к демократическому централизму](2021/12/20/nazad-k-demokraticheskomu-tsentralizmu.md)
 
 Читайте также
 

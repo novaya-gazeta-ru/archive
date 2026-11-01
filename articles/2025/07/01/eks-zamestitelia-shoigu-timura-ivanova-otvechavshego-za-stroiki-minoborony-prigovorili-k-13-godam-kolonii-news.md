@@ -23,4 +23,4 @@ tags: ""
 
 > **Смотрите, кто**
 >
-> Военный обозреватель «Новой» Валерий Ширяев [назвал](https://novayagazeta.ru/articles/2024/04/25/dobralis-do-kotla) Иванова «идеальным свидетелем».
+> Военный обозреватель «Новой» Валерий Ширяев [назвал](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/04/25/dobralis-do-kotla) Иванова «идеальным свидетелем».

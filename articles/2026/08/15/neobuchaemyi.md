@@ -89,7 +89,7 @@ tags: "полковник захарченко, сво"
 
 Бывшего начальника отдела УЭБиПК МВД Татарстана подполковника Рустема Нариманова приговорили к 10 годам колонии за взятки и мошенничество. Бывший офицер полиции из Татарстана [заключил](https://realnoevremya.ru/articles/288721-eks-oficer-mvd-tatarstana-ushel-na-svo-ot-prigovora-po-vzyatke-5-millionov) контракт с Министерством обороны и отправился на фронт.
 
-Бывший заместитель главы Краснодарского края Сергей Власов был [приговорен](https://novayagazeta.ru/articles/2026/08/10/osuzhdennyi-za-vziatku-byvshii-zam-gubernatora-kubani-veniamina-kondrateva-propal-bez-vesti-na-fronte-eto-vyiasnilos-na-sude-nad-drugim-ego-zamestitelem-news) к 11 годам колонии за взятку в 6 миллионов рублей. Подписал контракт и отправился в зону боевых действий.
+Бывший заместитель главы Краснодарского края Сергей Власов был [приговорен](2026/08/10/osuzhdennyi-za-vziatku-byvshii-zam-gubernatora-kubani-veniamina-kondrateva-propal-bez-vesti-na-fronte-eto-vyiasnilos-na-.md) к 11 годам колонии за взятку в 6 миллионов рублей. Подписал контракт и отправился в зону боевых действий.
 
 Заключил контракт с Министерством обороны и [отправился](https://tass.ru/obschestvo/25114991) на фронт и бывший глава центра электронного декларирования Центральной акцизной таможни Александр Алеев, осужденный за взятки к 10 годам колонии.
 

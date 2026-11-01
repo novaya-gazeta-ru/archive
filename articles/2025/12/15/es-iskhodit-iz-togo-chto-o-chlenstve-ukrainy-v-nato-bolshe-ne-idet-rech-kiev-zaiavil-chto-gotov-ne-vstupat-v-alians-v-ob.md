@@ -11,4 +11,4 @@ tags: ""
 
 # ЕС исходит из того, что о членстве Украины в НАТО «больше не идет речь». Киев заявил, что готов не вступать в альянс — в обмен на иные гарантии безопасности
 
-https://novayagazeta.ru/articles/2025/12/15/glava-diplomatii-es-kallas-o-vstuplenii-ukrainy-v-nato-bolshe-ne-idet-rech-kiev-gotov-otkazatsia-ot-chlenstva-v-alianse-v-obmen-na-garantii-bezopasnosti-news
+[Глава дипломатии ЕС Каллас: «О вступлении Украины в НАТО больше не идет речь». Киев готов отказаться от членства в альянсе в обмен на гарантии безопасности&nbsp;](2025/12/15/glava-diplomatii-es-kallas-o-vstuplenii-ukrainy-v-nato-bolshe-ne-idet-rech-kiev-gotov-otkazatsia-ot-chlenstva-v-alianse-.md)

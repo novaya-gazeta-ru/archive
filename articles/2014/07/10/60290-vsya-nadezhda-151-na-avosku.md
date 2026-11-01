@@ -46,7 +46,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/07/10/1405003052_059145_0.jpg" style="width: 340px; height: 510px;"><sup>Москвич Евгений Рапопорт попробовал воскресить советские авоськи</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/07/10/1405003052_059145_0.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/07/10/1405003052_059145_0.jpg)" style="width: 340px; height: 510px;"><sup>Москвич Евгений Рапопорт попробовал воскресить советские авоськи</sup></td>
 		</tr>
 	</tbody>]*
 

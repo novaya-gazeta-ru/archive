@@ -25,7 +25,7 @@ tags: "центробанк, суд, норштейн, ежик в тумане,
 
 Поэтому истцы доказывают, что такого кинокадра в фильме нет.
 
-**Читайте ранее:** https://novayagazeta.ru/articles/2024/09/24/esli-v-kratkoi-forme-vorovstvo-plagiat-poshlost-iurii-norshtein-vozmushchen-vypuskom-monet-k-50-letiiu-ezhika-v-tumane-news
+**Читайте ранее:** [https://novayagazeta.ru/articles/2024/09/24/esli-v-kratkoi-forme-vorovstvo-plagiat-poshlost-iurii-norshtein-vozmushchen-vypuskom-monet-k-50-letiiu-ezhika-v-tumane-news](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/24/esli-v-kratkoi-forme-vorovstvo-plagiat-poshlost-iurii-norshtein-vozmushchen-vypuskom-monet-k-50-letiiu-ezhika-v-tumane-news)
 
 Чтобы продемонстрировать, что ЦБ использовал не фрагмент мультфильма, а картинку из книги, Норштейн со своим оператором Максимом Граником сделали на прозрачном целлулоиде копию рисунка и наложили ее на эскиз монеты — практически полное совпадение. В мультфильме Ёжик совсем другой, он составлен из отдельных микродеталей — так устроена техника перекладки (чтобы двигать персонаж). Ракурса, положения персонажа, как на акварельном изображении, в самом мультфильме нет.
 

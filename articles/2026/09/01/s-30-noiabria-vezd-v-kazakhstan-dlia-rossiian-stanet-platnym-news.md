@@ -11,4 +11,4 @@ tags: ""
 
 # С 30 ноября въезд в Казахстан для россиян станет платным
 
-https://novayagazeta.ru/articles/2026/09/01/kazakhstan-obiazhet-inostrantsev-oformliat-platnye-razresheniia-na-vezd-v-tom-chisle-cherez-granitsu-s-rossiei-news
+[С 30 ноября въезд в Казахстан для россиян станет платным](2026/09/01/kazakhstan-obiazhet-inostrantsev-oformliat-platnye-razresheniia-na-vezd-v-tom-chisle-cherez-granitsu-s-rossiei-news.md)

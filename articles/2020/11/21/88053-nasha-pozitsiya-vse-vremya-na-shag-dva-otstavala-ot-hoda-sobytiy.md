@@ -37,7 +37,7 @@ tags: "переводчик, воспоминания, книга, диплом�
 
 — Да, — сказал Горбачев, — прыгать на стену — это не занятие для президента».
 
-**novaya:** https://novayagazeta.ru/articles/2020/11/21/88052-sekrety-diplomatii-kremlya
+**novaya:** [Секреты дипломатии Кремля](2020/11/21/88052-sekrety-diplomatii-kremlya.md)
 
 # ***
 
@@ -112,4 +112,4 @@ tags: "переводчик, воспоминания, книга, диплом�
 
 **Павел Палажченко**
 
-**novaya:** https://novayagazeta.ru/articles/2020/08/28/86867-marina-kameneva-takie-emotsii-chelovek-ne-poluchit-cherez-internet
+**novaya:** [Марина Каменева: «Такие эмоции человек не получит через интернет»](2020/08/28/86867-marina-kameneva-takie-emotsii-chelovek-ne-poluchit-cherez-internet.md)

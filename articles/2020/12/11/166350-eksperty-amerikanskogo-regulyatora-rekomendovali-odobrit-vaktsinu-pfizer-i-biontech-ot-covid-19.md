@@ -17,10 +17,10 @@ tags: "коронавирус, вакцина, сша, pfizer, em"
 
 Планируется, что официально регулятор США одобрит использование вакцины Pfizer и BioNTech в ближайшее время. Исполнительный директор UMass Memorial Health Care Эрик Диксон, не входивший в консультативную группу, назвал прошедшее голосование «историческим моментом».
 
-В Великобритании уже [началась](https://novayagazeta.ru/news/2020/12/09/166317-kanada-odobrila-ispolzovanie-vaktsiny-pfizer-ot-koronavirusa) вакцинация от COVID-19 созданным американскими и немецкими специалистами препаратом. Его использование [одобрила](https://novayagazeta.ru/news/2020/12/09/166317-kanada-odobrila-ispolzovanie-vaktsiny-pfizer-ot-koronavirusa) и Канада.
+В Великобритании уже [началась](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/12/09/166317-kanada-odobrila-ispolzovanie-vaktsiny-pfizer-ot-koronavirusa) вакцинация от COVID-19 созданным американскими и немецкими специалистами препаратом. Его использование [одобрила](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/12/09/166317-kanada-odobrila-ispolzovanie-vaktsiny-pfizer-ot-koronavirusa) и Канада.
 
 По данным разработчиков, эффективность вакцины BioNTech и Pfizer составляет 95%. Человеку необходимо ввести две дозы с разницей в три недели. При этом во время испытаний препарата [умерли](https://ria.ru/20201208/ispytaniya-1588313724.html) шесть человек, четверо из которых получили плацебо, еще двое — непосредственно вакцину.
 
 США занимают первое место по числу заразившихся от коронавируса и умерших от инфекции. На территории этой страны, по [данным](https://coronavirus.jhu.edu/map.html) университета Хопкинса, зафиксировано свыше 15,6 млн случаев заражения, скончались от COVID-19 более 292,1 тысячи человек, что больше погибших американских военнослужащих во время Второй мировой войны, [отмечает](https://www.usatoday.com/story/news/health/2020/12/10/covid-news-pfizer-vaccine-review-california-texas/3870677001/%C2%A0) USA Today.
 
-**link:** https://novayagazeta.ru/articles/2020/12/09/88297-dva-mira-dve-vaktsiny
+**link:** [Два мира — две вакцины](2020/12/09/88297-dva-mira-dve-vaktsiny.md)

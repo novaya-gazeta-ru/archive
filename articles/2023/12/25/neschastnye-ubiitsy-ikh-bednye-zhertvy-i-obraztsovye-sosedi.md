@@ -145,4 +145,4 @@ tags: "лучше фильмы 2023, кино, мальчик и птица, х�
 >
 > Лариса Малюкова ведет телеграм-канал о кино и не только. [Подписывайтесь тут](https://t.me/larisamalukova).
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/12/23/vzroslye-nartsissy-i-deti-introverty-vse-v-opasnosti
+**Читайте также:** [Взрослые-нарциссы и дети-интроверты — все в опасности](2023/12/23/vzroslye-nartsissy-i-deti-introverty-vse-v-opasnosti.md)

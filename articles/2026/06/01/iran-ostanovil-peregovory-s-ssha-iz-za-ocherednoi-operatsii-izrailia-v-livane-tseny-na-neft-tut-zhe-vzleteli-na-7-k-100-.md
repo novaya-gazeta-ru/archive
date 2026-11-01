@@ -25,4 +25,4 @@ tags: ""
 
 До этого в конце мая издание Axios [сообщило](https://www.forbes.ru/biznes/561857-axios-soobsilo-o-dostizenii-ssa-i-iranom-soglasenia-o-60-dnevnom-prekrasenii-ogna), что переговорщики США и Ирана достигли соглашения о 60-дневном прекращении огня и начале переговоров по иранской ядерной программе. Но позже The New York Times со ссылкой на источники написала, что Дональд Трамп ужесточил условия проекта соглашение В частности, ему не понравились пункты о разморозке иранских активов, а еще раздражало то, что Иран медленно отвечал на американские предложения.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/01/tseny-na-benzin-v-moskve-rezko-vyrosli-na-fone-atak-bespilotnikov-i-nekhvatki-topliva-v-krymu-news
+**Читайте также:** [Цены на бензин в Москве резко выросли — на фоне атак беспилотников и нехватки топлива в Крыму](2026/06/01/tseny-na-benzin-v-moskve-rezko-vyrosli-na-fone-atak-bespilotnikov-i-nekhvatki-topliva-v-krymu-news.md)

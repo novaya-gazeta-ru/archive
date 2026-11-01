@@ -21,10 +21,10 @@ tags: "попова, дсо, уголовное дело"
 
 Попову отправили в ИВС. Завтра, 6 августа, Фрунзенский районный суд изберет ей меру пресечения.
 
-- Утром 5 августа силовики [пришли](https://novayagazeta.ru/articles/2025/08/05/mne-tut-toporom-rubiat-dver-siloviki-prishli-s-obyskom-k-eks-koordinatoru-dvizheniia-soznatelnykh-otkazchikov-elene-popovoi-news) к Поповой с обыском. Она рассказала, что ей выламывали дверь топором.
+- Утром 5 августа силовики [пришли](2025/08/05/mne-tut-toporom-rubiat-dver-siloviki-prishli-s-obyskom-k-eks-koordinatoru-dvizheniia-soznatelnykh-otkazchikov-elene-popo.md) к Поповой с обыском. Она рассказала, что ей выламывали дверь топором.
 - В начале июля Попова сообщила, что уходит на пенсию и больше не будет заниматься помощью призывникам. Она объяснила уход усталостью и выгоранием.
 - «Движение сознательных отказчиков» было создано в 2013 году. Оно оказывало юридическую и психологическую помощь людям, которые отказываются от военной службы. После начала военных действий в Украине активисты движения в том числе помогали людям защищать свои права на фронте.
 
 **Минюст считает «иноагентом»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/05/mne-tut-toporom-rubiat-dver-siloviki-prishli-s-obyskom-k-eks-koordinatoru-dvizheniia-soznatelnykh-otkazchikov-elene-popovoi-news
+**Читайте также:** [«Мне тут топором рубят дверь». Силовики пришли с обыском к экс-координатору «Движения сознательных отказчиков»* Елене Поповой](2025/08/05/mne-tut-toporom-rubiat-dver-siloviki-prishli-s-obyskom-k-eks-koordinatoru-dvizheniia-soznatelnykh-otkazchikov-elene-popo.md)

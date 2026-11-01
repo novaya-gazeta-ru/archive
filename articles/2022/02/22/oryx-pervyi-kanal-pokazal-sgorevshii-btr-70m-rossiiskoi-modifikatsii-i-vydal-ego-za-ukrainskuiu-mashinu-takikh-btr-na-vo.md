@@ -27,6 +27,6 @@ tags: "днр , лнр , украина, фсб, бтр, ai"
 
 *Скриншоты трансляции Первого канала*
 
-Ранее Специальная мониторинговая миссия (СММ) ОБСЕ [зафиксировала](https://novayagazeta.ru/articles/2022/02/22/obse-za-dva-dnia-v-donbasse-zafiksirovali-bolee-32-tysiachi-narushenii-rezhima-prekrashcheniia-ognia-news) 3 231 нарушения режима прекращения огня в Донбассе с вечера 18 февраля до вечера 20 февраля.
+Ранее Специальная мониторинговая миссия (СММ) ОБСЕ [зафиксировала](2022/02/22/obse-za-dva-dnia-v-donbasse-zafiksirovali-bolee-32-tysiachi-narushenii-rezhima-prekrashcheniia-ognia-news.md) 3 231 нарушения режима прекращения огня в Донбассе с вечера 18 февраля до вечера 20 февраля.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/21/stavki-rastut
+**Читайте также:** [Ставки растут](2022/02/21/stavki-rastut.md)

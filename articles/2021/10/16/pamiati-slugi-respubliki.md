@@ -49,4 +49,4 @@ tags: "франция, пати, убийство, годовщина, учит�
 
 С 2015 года, с момента атаки на Charlie Hebdo, во Франции произошло 39 исламистских терактов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/10/17/87564-uchitelya-zverski-ubili-za-to-chto-prinizhal-proroka-muhammeda
+**Читайте также:** [Распятая республика](2020/10/17/87564-uchitelya-zverski-ubili-za-to-chto-prinizhal-proroka-muhammeda.md)

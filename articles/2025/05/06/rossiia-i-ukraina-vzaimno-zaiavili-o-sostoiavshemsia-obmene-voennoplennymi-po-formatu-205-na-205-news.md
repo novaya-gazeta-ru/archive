@@ -35,4 +35,4 @@ tags: ""
 
 О возвращении домой 205 украинских военнопленных сообщил президент Владимир Зеленский.
 
-Предыдущий обмен стороны [провели 19 апреля](https://novayagazeta.ru/articles/2025/04/19/minoborony-rf-soobshchilo-ob-obmene-s-ukrainoi-246-na-246-voennoplennykh-i-eshche-31-na-15-ranenykh-voennoplennykh-obmeniali-v-kachestve-zhesta-dobroi-voli-news).
+Предыдущий обмен стороны [провели 19 апреля](2025/04/19/minoborony-rf-soobshchilo-ob-obmene-s-ukrainoi-246-na-246-voennoplennykh-i-eshche-31-na-15-ranenykh-voennoplennykh-obmen.md).

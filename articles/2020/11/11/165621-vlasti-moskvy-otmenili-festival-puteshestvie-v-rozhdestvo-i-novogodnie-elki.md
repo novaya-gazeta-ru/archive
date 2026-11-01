@@ -19,8 +19,8 @@ tags: "COVID-19, новый год,   ng"
 
 Мэр Москвы Сергей Собянин не исключил, что «через две-три недели» в столице могут ввести дополнительные ограничения из-за распространения COVID-19.
 
-**link:** https://novayagazeta.ru/articles/2020/11/11/87911-samuray-tverdo-derzhit-laringoskopa-klinok-gde-zh-byla-maska-tvoya
+**link:** [Дежурный врач «Новой» — о коронавирусе у детей](2020/11/11/87911-samuray-tverdo-derzhit-laringoskopa-klinok-gde-zh-byla-maska-tvoya.md)
 
 Тем временем в Минкультуры [заявили](https://t.me/tass_agency/29155), с 13 ноября до 15 января что ограничат допуск посетителей в московские библиотеки, находящиеся в федеральном ведении: посетить библиотеки столицы можно будет только по предварительной записи, а читальные залы должны быть заполнены не более чем на 25%.
 
-Накануне ограничения из-за пандемии COVID-19 [ужесточили](https://novayagazeta.ru/news/2020/11/10/165576-v-moskve-zapretili-rabotu-klubov-i-restoranov-v-nochnoe-vremya) московские власти. До 15 января они запретили работу клубов, баров и заведений общепита с 23:00 до 06:00, а студентов столичных колледжей и вузов отправят на дистанционное обучение. Вслед за столицей ограничения [ужесточили](https://novayagazeta.ru/news/2020/11/11/165610-vlasti-peterburga-ogranichili-meropriyatiya-chislennostyu-bolee-50-chelovek-i-ob-yavili-samoizolyatsiyu-dlya-grazhdan-starshe-65-let) и в Петербурге.
+Накануне ограничения из-за пандемии COVID-19 [ужесточили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/10/165576-v-moskve-zapretili-rabotu-klubov-i-restoranov-v-nochnoe-vremya) московские власти. До 15 января они запретили работу клубов, баров и заведений общепита с 23:00 до 06:00, а студентов столичных колледжей и вузов отправят на дистанционное обучение. Вслед за столицей ограничения [ужесточили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/11/165610-vlasti-peterburga-ogranichili-meropriyatiya-chislennostyu-bolee-50-chelovek-i-ob-yavili-samoizolyatsiyu-dlya-grazhdan-starshe-65-let) и в Петербурге.

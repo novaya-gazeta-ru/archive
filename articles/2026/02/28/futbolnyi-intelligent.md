@@ -57,4 +57,4 @@ tags: "семак, цска, зенит, псж, футбол"
 
 *В 2002-м Сергею Семаку вручили премию «Джентльмен года». Фото: Евгений Успенский*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/05/27/i-snova-zenit-i-semak
+**Читайте также:** [https://novayagazeta.ru/articles/2024/05/27/i-snova-zenit-i-semak](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/05/27/i-snova-zenit-i-semak)

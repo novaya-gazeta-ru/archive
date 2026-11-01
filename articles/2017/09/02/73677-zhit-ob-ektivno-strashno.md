@@ -25,7 +25,7 @@ tags: "франция, фестивали, конкурс, фото"
 
 **P. S.**Сравнить лучшие фотографии нынешнего конкурса с теми, что были выбраны в 2016-м и в 2015-м, вы можете здесь:
 
-**link:** https://novayagazeta.ru/articles/2016/08/26/69673-strashno-i-zlobodnevno
+**link:** [Страшно и злободневно](2016/08/26/69673-strashno-i-zlobodnevno.md)
 
 ![](_assets/d0/d0625a0fb8d9ded4f98b4eb5f5f11a8c.webp)
 

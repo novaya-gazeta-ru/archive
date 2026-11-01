@@ -21,7 +21,7 @@ tags: ""
 
 ![](_assets/79/790a4b9a6003fa2e5416f6fb358b4607.webp)
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/27/stavki-prodolzhaiut-povyshatsia
+**Читайте также:** [Ставки продолжают повышаться](2022/02/27/stavki-prodolzhaiut-povyshatsia.md)
 
 Читайте также
 

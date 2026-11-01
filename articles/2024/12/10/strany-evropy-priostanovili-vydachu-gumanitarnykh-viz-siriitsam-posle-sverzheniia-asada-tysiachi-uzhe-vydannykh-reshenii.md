@@ -29,4 +29,4 @@ tags: ""
 
 Имеющая огромную сухопутную границу с Сирией Турция, где по официальным данным 240 тысяч беженцев уже получили гражданство, тоже может начать «поощрять» возвращение их на родину.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/10/izrailskaia-armiia-nanesla-desiatki-udarov-po-territorii-sirii-v-tom-chisle-po-obektam-v-damaske-smi-news
+**Читайте также:** [Израильская армия нанесла десятки ударов по территории Сирии, в том числе по объектам в Дамаске — СМИ&nbsp;](2024/12/10/izrailskaia-armiia-nanesla-desiatki-udarov-po-territorii-sirii-v-tom-chisle-po-obektam-v-damaske-smi-news.md)

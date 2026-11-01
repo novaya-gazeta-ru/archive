@@ -66,7 +66,7 @@ tags: "заключенные, крым, права человека, трудо
 <table border="0" cellpadding="1" cellspacing="1" style="margin: 0px; padding: 0px; outline: 0px; vertical-align: baseline; border-collapse: collapse; border-spacing: 0px; width: 570px;">
 	<tbody>
 		<tr>
-			<td><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/06/10/1433894675_293100_60.png" style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; max-width: 100%; width: 570px; height: 813px; background: transparent;"></td>
+			<td><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/06/10/1433894675_293100_60.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/06/10/1433894675_293100_60.png)" style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; max-width: 100%; width: 570px; height: 813px; background: transparent;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Из рук з/к Муртазина выписка из концепции реформирования ФСИН ушла на волю</sup></td>

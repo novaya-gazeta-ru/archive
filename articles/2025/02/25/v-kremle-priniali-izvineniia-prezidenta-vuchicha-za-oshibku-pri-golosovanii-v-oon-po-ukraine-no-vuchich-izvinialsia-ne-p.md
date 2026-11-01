@@ -17,7 +17,7 @@ tags: ""
 
 Песков 25 февраля объявил, что в Кремле «слышали» извинения Вучича и «безусловно приняли» их. «Оперативные извинения Вучича импонируют Москве», — [передает](https://tass.ru/politika/23238069) слова пресс-секретаря Кремля во время брифинга с журналистами пула агентство ТАСС.
 
-Ранее Генассамблея ООН во время сессии в третью годовщину СВО приняла [сразу две резолюции](https://novayagazeta.ru/articles/2025/02/24/genassambleia-oon-priniala-srazu-dve-rezoliutsii-po-ukraine-kievskuiu-s-osuzhdeniem-rossii-i-amerikanskuiu-neitralnuiu-news) по украинскому вопросу.
+Ранее Генассамблея ООН во время сессии в третью годовщину СВО приняла [сразу две резолюции](2025/02/24/genassambleia-oon-priniala-srazu-dve-rezoliutsii-po-ukraine-kievskuiu-s-osuzhdeniem-rossii-i-amerikanskuiu-neitralnuiu-n.md) по украинскому вопросу.
 
 Автором первой резолюции была Украина, участие в составлении текста принимали несколько европейских стран. В тексте этого варианта Россию снова осуждали за боевые действия против Украины, а страны-подписанты подтверждали приверженность территориальной целостности Украины.
 
@@ -28,6 +28,6 @@ tags: ""
 - «Украинский» вариант поддержали 65 стран. Впервые США, отказавшись его поддержать, оказались в компании КНДР и Китая. За него и проголосовала делегация Сербии, как заявил Вучич, по «ошибке».
 - «Американский» вариант тоже был принят, но лишь после того, как страны предложили в него свои поправки, включив все-таки пункт о признании территориальной целостности Украины. 93 страны поддержали этот вариант.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/24/tramputatsiia-liberalnoi-demokratii
+**Читайте также:** [ТрамПутация либеральной демократии](2025/02/24/tramputatsiia-liberalnoi-demokratii.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/22/spikeru-mida-zakharovoi-vruchili-izvineniia-ot-naroda-italii-v-otvet-ona-peredala-slezu-blagodarnosti-i-pesniu-bella-ciao-news
+**Читайте также:** [Спикеру МИД Захаровой вручили «извинения от народа Италии». В ответ она передала «слезу благодарности» и спела Bella Ciao](2025/02/22/spikeru-mida-zakharovoi-vruchili-izvineniia-ot-naroda-italii-v-otvet-ona-peredala-slezu-blagodarnosti-i-pesniu-bella-cia.md)

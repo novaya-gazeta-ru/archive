@@ -77,4 +77,4 @@ tags: "один день"
 
 *Голубь в небе над голубятней. Фото Елена Лукьянова / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2017/10/12/74166-odin-den-velosipednogo-mastera-iz-bryusselya
+**link:** [Один день велосипедного мастера из Брюсселя](2017/10/12/74166-odin-den-velosipednogo-mastera-iz-bryusselya.md)

@@ -31,7 +31,7 @@ Globus — немецкая семейная сеть, работающая в �
 
 -
 
-Осенью 2026 года российские власти начали одну за другой забирать под временное управление оставшиеся в стране активы крупных западных компаний. Под национализацию [уже попали](https://novayagazeta.ru/articles/2026/09/28/vsled-za-ashanom-lemana-pro-i-nestle-putin-peredal-vo-vremennoe-upravlenie-rossiiskuiu-dochku-gipermarketov-metro-novyi-vladelets-milliardnykh-aktivov-mikrokompaniia-s-ustavnym-kapitalom-10-tysiach-rublei-news)сети Auchan, Metro и «Лемана Про», швейцарская Nestlé и французская логистическая группа FM Logistic.
+Осенью 2026 года российские власти начали одну за другой забирать под временное управление оставшиеся в стране активы крупных западных компаний. Под национализацию [уже попали](2026/09/28/vsled-za-ashanom-lemana-pro-i-nestle-putin-peredal-vo-vremennoe-upravlenie-rossiiskuiu-dochku-gipermarketov-metro-novyi-.md)сети Auchan, Metro и «Лемана Про», швейцарская Nestlé и французская логистическая группа FM Logistic.
 
 -
 

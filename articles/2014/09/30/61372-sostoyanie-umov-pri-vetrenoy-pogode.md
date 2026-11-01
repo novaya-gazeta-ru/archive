@@ -31,7 +31,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/09/30/1412088908_652358_88.jpg" style="width: 330px; height: 268px;"><sup>Дмитрий Леонтьев</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/09/30/1412088908_652358_88.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/09/30/1412088908_652358_88.jpg)" style="width: 330px; height: 268px;"><sup>Дмитрий Леонтьев</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -63,7 +63,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/09/30/1412088908_929488_32.jpg" style="width: 330px; height: 268px;"><sup>Ольга Маховская</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/09/30/1412088908_929488_32.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/09/30/1412088908_929488_32.jpg)" style="width: 330px; height: 268px;"><sup>Ольга Маховская</sup></td>
 		</tr>
 	</tbody>]*
 

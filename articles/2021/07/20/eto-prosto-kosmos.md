@@ -13,7 +13,7 @@ tags: "ng, космос, полеты, илон маск, безос, брэнс
 
 *Самый богатый человек планеты Джефф Безос отправился в космический тур вслед за миллиардером Ричардом Брэнсоном*
 
-В космос вместе с Безосом полетел его [брат Марк](https://novayagazeta.ru/articles/2021/06/07/osnovatel-amazon-dzheff-bezos-obiavil-o-planakh-otpravitsia-v-kosmos-na-sozdannom-ego-kompaniei-korable), 82-летняя [бывшая летчица Уолли Фанк](https://novayagazeta.ru/articles/2021/07/01/osnovatel-amazon-dzheff-bezos-soobshchil-chto-v-suborbitalnyi-polet-vmeste-s-nim-otpravitsia-82-letniaia-uolli-fank), а также 18-летний [выпускник школы из Нидерландов Оливер Деймен](https://www.blueorigin.com/news-archive/first-customer-on-new-shepard).
+В космос вместе с Безосом полетел его [брат Марк](2021/06/07/osnovatel-amazon-dzheff-bezos-obiavil-o-planakh-otpravitsia-v-kosmos-na-sozdannom-ego-kompaniei-korable.md), 82-летняя [бывшая летчица Уолли Фанк](2021/07/01/osnovatel-amazon-dzheff-bezos-soobshchil-chto-v-suborbitalnyi-polet-vmeste-s-nim-otpravitsia-82-letniaia-uolli-fank.md), а также 18-летний [выпускник школы из Нидерландов Оливер Деймен](https://www.blueorigin.com/news-archive/first-customer-on-new-shepard).
 
 ![](_assets/9c/9c508204f147c93292d8a2208ad86985.webp)
 
@@ -57,7 +57,7 @@ tags: "ng, космос, полеты, илон маск, безос, брэнс
 
 Несмотря на соперничество, обе компании борются за одну цель — запускать людей и научные эксперименты в суборбитальное пространство — когда корабль пересекает границу космоса и атмосферы, однако не выходит на околоземную орбиту. И Blue Origin, и Virgin Galactic планируют развивать туристические суборбитальные полеты.
 
-Причем обе компании официально уже получили разрешения на пилотируемые запуски. Очередь на полет Virgin Galactic уже большая — как минимум 600 человек отдали за билет [250 тысяч долларов](https://www.businessinsider.com/ticket-spacex-blue-origin-price-cost-space-tourists-pay-2021-7), среди них — друг Брэнсона, основатель SpaceX [Илон Маск](https://novayagazeta.ru/articles/2021/07/14/osnovatel-spacex-ilon-mask-sobralsia-sovershit-polet-v-kosmos-na-korable-virgin-galactic-britanskogo-milliardera-richarda-brensona).
+Причем обе компании официально уже получили разрешения на пилотируемые запуски. Очередь на полет Virgin Galactic уже большая — как минимум 600 человек отдали за билет [250 тысяч долларов](https://www.businessinsider.com/ticket-spacex-blue-origin-price-cost-space-tourists-pay-2021-7), среди них — друг Брэнсона, основатель SpaceX [Илон Маск](2021/07/14/osnovatel-spacex-ilon-mask-sobralsia-sovershit-polet-v-kosmos-na-korable-virgin-galactic-britanskogo-milliardera-richard.md).
 
 Кстати, Илона Маска и его компанию SpaceX, которая разрабатывает ракеты не только легкого, но и тяжелого и сверхтяжелого класса, также можно назвать конкурентом космических миллиардеров. Так, в компании уже выпускали ракеты-носители Falcon 1, Falcon 9 и Falcon Heavy и космический корабль Dragon, предназначенный для пополнения запасов на Международной космической станции. Предполагается, что в сентябре этого года на орбиту на корабле Dragon должен отправиться миллиардер Джаред Исаакман, который выкупил все четыре места за 200 млн долларов. Это будет полноценный орбитальный полет с посещением МКС.
 

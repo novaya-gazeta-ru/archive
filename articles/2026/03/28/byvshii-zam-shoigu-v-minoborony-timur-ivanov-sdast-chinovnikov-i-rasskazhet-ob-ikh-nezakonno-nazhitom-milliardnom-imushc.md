@@ -31,4 +31,4 @@ tags: ""
 
 Иванов — один из заместителей тогдашнего министра обороны Сергея Шойгу.
 
-Второй и еще более влиятельный зам Шойгу — Руслан Цаликов — был арестован в начале марта по делу о создании преступного сообщества, хищениях и взятках. Его отпустили [под домашний арест](https://novayagazeta.ru/articles/2026/03/05/byvshego-pervogo-zama-shoigu-v-minoborony-ruslana-tsalikova-zaderzhala-po-delu-o-sozdanii-organizovannogo-prestupnogo-soobshchestva-news).
+Второй и еще более влиятельный зам Шойгу — Руслан Цаликов — был арестован в начале марта по делу о создании преступного сообщества, хищениях и взятках. Его отпустили [под домашний арест](2026/03/05/byvshego-pervogo-zama-shoigu-v-minoborony-ruslana-tsalikova-zaderzhala-po-delu-o-sozdanii-organizovannogo-prestupnogo-so.md).

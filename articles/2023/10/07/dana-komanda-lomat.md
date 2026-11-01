@@ -183,4 +183,4 @@ tags: "репрессии, фейковые дела, дискредитация
 
 #### ** Организация признана террористической и запрещена в РФ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/10/06/chto-pomogaet-ne-teriat-samoobladanie-a-pochemu-voobshche-ia-dolzhen-ego-teriat
+**Читайте также:** [«Что помогает не терять самообладание? А почему вообще я должен его терять?»](2023/10/06/chto-pomogaet-ne-teriat-samoobladanie-a-pochemu-voobshche-ia-dolzhen-ego-teriat.md)

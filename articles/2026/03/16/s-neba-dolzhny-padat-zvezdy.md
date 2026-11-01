@@ -59,7 +59,7 @@ tags: ""
 
 > с неба на людей должны падать звезды, а не ракеты. Так триумфально завершилось его путешествие из родной школы в Карабаше в Голливуд.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/18/glavnye-sobytiia-v-kino-prokat-premii-oskar-i-novye-filmy
+**Читайте также:** [Главные события в кино: прокат, премии, Оскар и новые фильмы](2026/02/18/glavnye-sobytiia-v-kino-prokat-premii-oskar-i-novye-filmy.md)
 
 ## Все лауреаты «Оскара»-2026
 

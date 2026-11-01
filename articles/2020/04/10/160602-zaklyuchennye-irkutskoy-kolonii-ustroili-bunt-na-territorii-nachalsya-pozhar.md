@@ -13,7 +13,7 @@ tags: "kb, колония, бунт, иркутская область"
 
 > **что известно «Новой»**
 >
-> <br> **[Разорвали негласный договор. В ангарской ИК-15 осужденные взбунтовались и подожгли цех деревообработки](https://novayagazeta.ru/articles/2020/04/10/84829-razorvali-neglasnyy-dogovor)**
+> <br> **[Разорвали негласный договор. В ангарской ИК-15 осужденные взбунтовались и подожгли цех деревообработки](2020/04/10/84829-razorvali-neglasnyy-dogovor.md)**
 
 В иркутской исправительной колонии №15 осужденные порезали вены и устроили бунт после избиения сотрудником одного из заключенных. На территории колонии произошел пожар, сообщают [«Дождь»](https://tvrain.ru/news/v_irkutskoj_kolonii_spetsnaz_otkryl_strelbu_dlja_podavlenija_bunta_zakljuchennyh-506600/?utm_source=safari&utm_medium=push&utm_campaign=news&utm_term=506600) и Baza.
 

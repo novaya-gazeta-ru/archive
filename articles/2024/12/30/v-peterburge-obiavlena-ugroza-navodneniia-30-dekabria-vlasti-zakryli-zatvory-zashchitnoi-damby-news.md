@@ -17,4 +17,4 @@ tags: ""
 
 Власти остановили движение всех судов по Кронштадскому корабельному фарватеру. В городе объявлен «желтый» уровень опасности, ожидается снегопад, угроза сохранится до самой новогодней ночи 31 декабря.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/28/gubernator-beglov-prodlil-koronavirusnye-ogranicheniia-v-peterburge-do-kontsa-2025-goda-pandemiia-covid-zavershilas-eshche-v-2023-godu-news
+**Читайте также:** [Губернатор Беглов продлил коронавирусные ограничения в Петербурге до конца 2025 года. Пандемия COVID завершилась еще в 2023 году](2024/12/28/gubernator-beglov-prodlil-koronavirusnye-ogranicheniia-v-peterburge-do-kontsa-2025-goda-pandemiia-covid-zavershilas-eshc.md)

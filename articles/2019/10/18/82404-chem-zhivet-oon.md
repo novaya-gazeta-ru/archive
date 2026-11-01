@@ -148,7 +148,7 @@ tags: "оон"
 
 И, конечно, борьба с изменениями климата, за экологию, сохранение экосистем и биоресурсов.
 
-**link:** https://novayagazeta.ru/articles/2019/10/07/82267-nasha-tepleyuschaya-zemlya-krichit-ostanovites
+**link:** [«Наша теплеющая Земля кричит: Остановитесь!»](2019/10/07/82267-nasha-tepleyuschaya-zemlya-krichit-ostanovites.md)
 
 Всего 17 целей. Достижение каждой из них увязано с правами человека.
 

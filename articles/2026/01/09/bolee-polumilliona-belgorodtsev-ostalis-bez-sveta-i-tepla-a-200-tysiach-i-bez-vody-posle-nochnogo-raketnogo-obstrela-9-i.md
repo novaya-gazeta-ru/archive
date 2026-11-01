@@ -33,6 +33,6 @@ tags: ""
 
 *Кадр из видео: «Мир Белогорья»*
 
-Россия и Украина обмениваются ударами по объектам энергетической инфраструктуры. По закону РФ мы можем сообщать только о тех ударах, которые подтверждает российское Минобороны — этим утром оно [отчиталось](https://novayagazeta.ru/articles/2026/01/09/rossiia-udarila-oreshnikom-po-lvovskoi-oblasti-v-otvet-na-ataku-ukrainy-po-rezidentsii-putina-na-valdae-kotoruiu-oproverg-zelenskii-i-v-kotoruiu-ne-poveril-tramp-news) о массированном ударе «по объектам инженерной инфраструктуры Украины, которые обеспечивают работу украинского ВПК».
+Россия и Украина обмениваются ударами по объектам энергетической инфраструктуры. По закону РФ мы можем сообщать только о тех ударах, которые подтверждает российское Минобороны — этим утром оно [отчиталось](2026/01/09/rossiia-udarila-oreshnikom-po-lvovskoi-oblasti-v-otvet-na-ataku-ukrainy-po-rezidentsii-putina-na-valdae-kotoruiu-oprover.md) о массированном ударе «по объектам инженерной инфраструктуры Украины, которые обеспечивают работу украинского ВПК».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/01/09/rossiia-udarila-oreshnikom-po-lvovskoi-oblasti-v-otvet-na-ataku-ukrainy-po-rezidentsii-putina-na-valdae-kotoruiu-oproverg-zelenskii-i-v-kotoruiu-ne-poveril-tramp-news
+**Читайте также:** [Россия ударила «Орешником» по Львовской области — в ответ на атаку Украины по резиденции Путина на Валдае, которую опроверг Зеленский и в которую не поверил Трамп](2026/01/09/rossiia-udarila-oreshnikom-po-lvovskoi-oblasti-v-otvet-na-ataku-ukrainy-po-rezidentsii-putina-na-valdae-kotoruiu-oprover.md)

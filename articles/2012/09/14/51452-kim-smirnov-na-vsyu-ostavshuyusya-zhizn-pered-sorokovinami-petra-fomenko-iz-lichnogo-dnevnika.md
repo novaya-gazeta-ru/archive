@@ -14,7 +14,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/09/14/1347638827_551145_43.jpg" style="width: 360px; height: 480px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/09/14/1347638827_551145_43.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/09/14/1347638827_551145_43.jpg)" style="width: 360px; height: 480px; "><br>
 				<sup>Ваганьковское. После девятого дня. Фото автора</sup></td>
 		</tr>
 	</tbody>]*

@@ -17,7 +17,7 @@ tags: "чм-2018, футбол, москва"
 
 *Фото: Анна Артемьева / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2018/07/01/77010-vse-v-belom
+**link:** [Все в белом!](2018/07/01/77010-vse-v-belom.md)
 
 ![](_assets/93/93b2a7c8ba54efe3792e349f9c7c4e6a.webp)
 
@@ -31,7 +31,7 @@ tags: "чм-2018, футбол, москва"
 
 *Фото: Анна Артемьева / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2018/07/01/77014-ispaniya-rossiya-chistye-emotsii-foto
+**link:** [Испания-Россия: чистые эмоции. Фото](2018/07/01/77014-ispaniya-rossiya-chistye-emotsii-foto.md)
 
 ![](_assets/7f/7fe5e6a4b44e85e34c9b43262d73fa7a.webp)
 

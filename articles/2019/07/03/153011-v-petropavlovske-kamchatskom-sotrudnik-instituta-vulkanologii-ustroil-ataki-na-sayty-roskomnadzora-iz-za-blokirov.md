@@ -19,6 +19,6 @@ tags: "ddos-атака, telegram, суды, em"
 
 Действия сотрудника института квалифицировали как преступление средней тяжести. О прекращении уголовного дела ходатайствовала сторона защиты, так как он признал свою вину, обратился с явкой с повинной и способствовал раскрытию преступления.
 
-Напомним, Роскомнадзор в апреле прошлого года начал блокировку Telegram по решению суда из-за того, что мессенджер отказался предоставить ключи дешифровки ФСБ. При этом он работает у большинства россиян и, по данным Mediascope, [остается](https://www.novayagazeta.ru/news/2019/04/13/150857-mediascope-telegram-ostalsya-v-troyke-samyh-populyarnyh-messendzherov-spustya-god-posle-blokirovki) в тройке самых популярных.
+Напомним, Роскомнадзор в апреле прошлого года начал блокировку Telegram по решению суда из-за того, что мессенджер отказался предоставить ключи дешифровки ФСБ. При этом он работает у большинства россиян и, по данным Mediascope, [остается](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/04/13/150857-mediascope-telegram-ostalsya-v-troyke-samyh-populyarnyh-messendzherov-spustya-god-posle-blokirovki) в тройке самых популярных.
 
-**link:** https://novayagazeta.ru/articles/2018/12/22/79029-blokiruyut-teh-kto-ne-soprotivlyaetsya
+**link:** [«Блокируют тех, кто не сопротивляется»](2018/12/22/79029-blokiruyut-teh-kto-ne-soprotivlyaetsya.md)

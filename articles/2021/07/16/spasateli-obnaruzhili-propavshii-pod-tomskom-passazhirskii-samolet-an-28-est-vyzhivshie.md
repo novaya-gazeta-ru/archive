@@ -19,4 +19,4 @@ tags: "ng, томск"
 
 Самолет принадлежит авиакомпании «Сибирская легкая авиация». Как [сообщили](https://t.me/tass_agency/64450) агентству ТАСС в Сибирском спасательном центре, самолет летел из города Кедровый в Томск. Там также подтвердили, что Ан-28 с утра пропал с радаров.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/06/na-kamchatke-poterpel-krushenie-passazhirskii-samolet-an-26-pogibli-28-chelovek-chto-izvestno
+**Читайте также:** [На Камчатке потерпел крушение пассажирский самолет Ан-26, погибли 28 человек. Что известно](2021/07/06/na-kamchatke-poterpel-krushenie-passazhirskii-samolet-an-26-pogibli-28-chelovek-chto-izvestno.md)

@@ -17,7 +17,7 @@ IT-специалисты [Михаил Климарев](https://t.me/zatelecom
 
 Инструменты Роскомнадзора работают по технологии DPI (deep packet inspection). Таким образом, власти мониторят интернет-трафик пользователя по ряду параметров и могут ограничить его или замедлить, если есть цель ухудшить работу какого-либо сервиса.
 
-Так, например, Роскомнадзор [замедляет](https://novayagazeta.ru/articles/2021/05/27/roskomnadzor-posle-zamedleniia-twitter-vyshli-na-sviaz-drugie-zarubezhnye-servisy)работу Twitter на мобильных устройствах из-за отказа компании удалить «противоправный» контент.
+Так, например, Роскомнадзор [замедляет](2021/05/27/roskomnadzor-posle-zamedleniia-twitter-vyshli-na-sviaz-drugie-zarubezhnye-servisy.md)работу Twitter на мобильных устройствах из-за отказа компании удалить «противоправный» контент.
 
 > **обновление**
 >
@@ -41,6 +41,6 @@ IT-специалисты [Михаил Климарев](https://t.me/zatelecom
 
 Провайдеры не комментировали сообщения о блокировке DNS.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/09/po-doroge-v-shatdaun
+**Читайте также:** [По дороге в шатдаун](2021/09/09/po-doroge-v-shatdaun.md)
 
-Ранее [стало известно](https://novayagazeta.ru/articles/2021/09/09/polzovateli-soobshchili-o-problemakh-s-dostupom-k-strimingovym-i-igrovym-servisam-posle-nachala-blokirovok-vpn-servisov-news), что после начала блокировок VPN-сервисов Роскомнадзором у пользователей начались проблемы с доступом к стриминговым, игровым и другим ресурсам — Avito, World of Tanks, Twitch и BitTorrent. В Роскомнадзоре, который и начал блокировку, отрицают связь между ограничениями и сбоем в работе ресурсов.
+Ранее [стало известно](2021/09/09/polzovateli-soobshchili-o-problemakh-s-dostupom-k-strimingovym-i-igrovym-servisam-posle-nachala-blokirovok-vpn-servisov-.md), что после начала блокировок VPN-сервисов Роскомнадзором у пользователей начались проблемы с доступом к стриминговым, игровым и другим ресурсам — Avito, World of Tanks, Twitch и BitTorrent. В Роскомнадзоре, который и начал блокировку, отрицают связь между ограничениями и сбоем в работе ресурсов.

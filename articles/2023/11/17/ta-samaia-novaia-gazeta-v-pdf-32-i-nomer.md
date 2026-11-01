@@ -13,4 +13,4 @@ tags: ""
 
 *Большинство — за прекращение СВО, а соучастник убийства Анны Политковской — на свободе и с оружием в руках. Интервью Улицкой, Генис — о романе Сорокина и эссе о том, как переучредить Россию*
 
-https://novayagazeta.ru/issues/3277
+[https://novayagazeta.ru/issues/3277](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3277)

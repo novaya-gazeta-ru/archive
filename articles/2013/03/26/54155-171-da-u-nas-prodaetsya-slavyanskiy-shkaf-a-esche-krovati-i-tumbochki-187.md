@@ -18,7 +18,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<a href="http://www.kdizain.ru/mebel-dlja-personala"><img alt="" src="http://www.novayagazeta.ru/storage/c/2013/03/29/1364543522_569124_35.jpg" style="width: 360px; height: 240px;"></a></td>
+				<a href="http://www.kdizain.ru/mebel-dlja-personala"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/03/29/1364543522_569124_35.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/03/29/1364543522_569124_35.jpg)" style="width: 360px; height: 240px;"></a></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -26,7 +26,7 @@ tags: ""
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<a href="http://www.kdizain.ru/mebel-dlja-rukovoditelej"><img alt="" src="http://www.novayagazeta.ru/storage/c/2013/03/29/1364543522_864684_89.jpg" style="width: 360px; height: 272px;"></a></td>
+				<a href="http://www.kdizain.ru/mebel-dlja-rukovoditelej"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/03/29/1364543522_864684_89.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/03/29/1364543522_864684_89.jpg)" style="width: 360px; height: 272px;"></a></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">

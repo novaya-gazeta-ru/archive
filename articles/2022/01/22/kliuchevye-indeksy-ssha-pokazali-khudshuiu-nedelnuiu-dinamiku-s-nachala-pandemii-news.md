@@ -21,6 +21,6 @@ tags: "индекс, биржа, em"
 
 «Коммерсант» [пишет](https://www.kommersant.ru/doc/5180463), что на S&P 500 и NASDAQ повлияло падение акций Netflix почти на 22% на фоне публикации отчетности за четвертый квартал и весь 2021 год. Также на индексах сказалось возможное ужесточение денежно-кредитной политики Федеральной резервной системой США — ее заседание запланировано на следующую неделю.
 
-На этой неделе также [произошло](https://novayagazeta.ru/articles/2022/01/18/indeks-mosbirzhi-upal-na-65-i-dostig-minimuma-s-aprelia-2021-goda-eto-krupneishii-obval-s-nachala-pandemii-news) снижение индекса Мосбиржи. Он упал на 6,5% и достиг минимума с апреля 2021 года. Этот обвал стал крупнейшим с начала пандемии.
+На этой неделе также [произошло](2022/01/18/indeks-mosbirzhi-upal-na-65-i-dostig-minimuma-s-aprelia-2021-goda-eto-krupneishii-obval-s-nachala-pandemii-news.md) снижение индекса Мосбиржи. Он упал на 6,5% и достиг минимума с апреля 2021 года. Этот обвал стал крупнейшим с начала пандемии.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/20/geopoliticheskaia-neopredelennost-goda
+**Читайте также:** [Геополитическая неопределенность года](2022/01/20/geopoliticheskaia-neopredelennost-goda.md)

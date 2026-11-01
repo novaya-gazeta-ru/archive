@@ -89,4 +89,4 @@ tags: "пенсионеры, прививки, qr-коды, вакцинация
 
 Осталось дождаться, когда «максимальная простота» наступит.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/23/kak-na-kazan-chernaia-koshka-napala
+**Читайте также:** [Как на Казань «черная кошка» напала](2021/11/23/kak-na-kazan-chernaia-koshka-napala.md)

@@ -67,4 +67,4 @@ tags: "макрон, франция, предвыборная риторика, 
 
 Собственно, после 24 апреля 2022 года, когда состоится второй тур выборов, это уже и не будет иметь большого значения.
 
-**Читайте также:** https://novayagazeta.ru/articles/2019/05/17/80560-zachem-prezident-frantsii-neozhidanno-obrushilsya-na-ssha
+**Читайте также:** [Зачем президент Франции «неожиданно обрушился» на США?](2019/05/17/80560-zachem-prezident-frantsii-neozhidanno-obrushilsya-na-ssha.md)

@@ -17,6 +17,6 @@ tags: "россия, президент, путин, выборы2018, выбо�
 
 *Последнее обновление данных: 19 марта, 17:10*
 
-**link:** https://novayagazeta.ru/news/2018/03/19/140289-tsik-za-putina-progolosovali-rekordnye-56-2-mln-rossiyan
+**link:** [https://novayagazeta.ru/news/2018/03/19/140289-tsik-za-putina-progolosovali-rekordnye-56-2-mln-rossiyan](https://web.archive.org/web/*/https://novayagazeta.ru/news/2018/03/19/140289-tsik-za-putina-progolosovali-rekordnye-56-2-mln-rossiyan)
 
 *Над картой работали: Алексей Смагин, Анна Игнатенко, Кристина Прудникова*

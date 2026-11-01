@@ -190,6 +190,6 @@ tags: "алексей уминский, храм троицы в хохлах, �
 
 > Этот материал вышел в пятом номере «Новая газета. Журнал». Купить его можно в онлайн-магазине наших [партнеров](https://t.me/LLCNewSalesBot/Catalog).
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/12/tserkov-osobennoe-mesto-gde-diavol-s-bogom-boriutsia
+**Читайте также:** [«Церковь — особенное место, где дьявол с Богом борются»](2024/10/12/tserkov-osobennoe-mesto-gde-diavol-s-bogom-boriutsia.md)
 
 #### * Признаны Минюстом РФ «иноагентоми».

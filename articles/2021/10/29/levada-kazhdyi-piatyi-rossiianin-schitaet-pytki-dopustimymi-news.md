@@ -42,8 +42,8 @@ tags: "опрос, пытки, соцопрос, левада-центр, сил
 
 Опрос проводился 21-27 октября по репрезентативной выборке среди жителей 137 населенных пунктов в 50 российских субъектах. В нем приняли участие 1636 человек в возрасте от 18 лет.
 
-В начале октября правозащитный проект Gulagu.net [начал публиковать](https://novayagazeta.ru/articles/2021/10/05/fsin-nachala-sluzhebnuiu-proverku-posle-publikatsii-video-iznasilovanii-zakliuchennykh-v-tuberkuleznoi-bolnitse-v-saratove-news) видеозаписи с пытками, полученные от бывшего заключенного, программиста Сергея Савельева. Мужчина передал правозащитникам «более 40 Гб видео, документов и фото» с пытками в саратовской ОТБ-1. 25 октября более 400 заключенных [заявили](https://novayagazeta.ru/articles/2021/10/25/bolee-400-zakliuchennykh-saratovskikh-ik-3-i-otb-1-zaiavili-o-pytkakh-news) о пытках в саратовской исправительной колонии №13 и областной тюремной туберкулезной больнице.
+В начале октября правозащитный проект Gulagu.net [начал публиковать](2021/10/05/fsin-nachala-sluzhebnuiu-proverku-posle-publikatsii-video-iznasilovanii-zakliuchennykh-v-tuberkuleznoi-bolnitse-v-sarato.md) видеозаписи с пытками, полученные от бывшего заключенного, программиста Сергея Савельева. Мужчина передал правозащитникам «более 40 Гб видео, документов и фото» с пытками в саратовской ОТБ-1. 25 октября более 400 заключенных [заявили](2021/10/25/bolee-400-zakliuchennykh-saratovskikh-ik-3-i-otb-1-zaiavili-o-pytkakh-news.md) о пытках в саратовской исправительной колонии №13 и областной тюремной туберкулезной больнице.
 
 **внесен Минюстом в реестр НКО, выполняющих функции «иностранного агента»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/07/shvabru-vstavili-v-zadnii-prokhod-mam-prodolzhat-18
+**Читайте также:** [«Швабру вставили в задний проход… Мам, продолжать?» (18+)](2021/10/07/shvabru-vstavili-v-zadnii-prokhod-mam-prodolzhat-18.md)

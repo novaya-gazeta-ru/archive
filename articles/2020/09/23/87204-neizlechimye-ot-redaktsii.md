@@ -35,8 +35,8 @@ tags: "эпидемия, пандемия, здравоохранение, вр�
 
 > **читайте в спецвыпуске «Новой газеты»**
 >
-> ### 🆘 <b>Приемный покой. Как государство «сэкономило» на выплатах семьям погибших медиков:</b>[выводы дата-исследования](https://novayagazeta.ru/articles/2020/09/23/87202-priemnyy-pokoy)
+> ### 🆘 <b>Приемный покой. Как государство «сэкономило» на выплатах семьям погибших медиков:</b>[выводы дата-исследования](2020/09/23/87202-priemnyy-pokoy.md)
 >
-> ### 🩺 [Истории врачей, погибших от COVID-19.](https://novayagazeta.ru/articles/2020/09/23/87205-istorii-vrachey-pogibshih-ot-covid-19-spetsvypusk-priemnyy-pokoy-online)
+> ### 🩺 [Истории врачей, погибших от COVID-19.](2020/09/23/87205-istorii-vrachey-pogibshih-ot-covid-19-spetsvypusk-priemnyy-pokoy-online.md)
 >
-> ### 🚑 [Бунт в ожидании второй волны.](https://novayagazeta.ru/articles/2020/09/22/87201-bunt-v-ozhidanii-vtoroy-volny)
+> ### 🚑 [Бунт в ожидании второй волны.](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/09/22/87201-bunt-v-ozhidanii-vtoroy-volny)

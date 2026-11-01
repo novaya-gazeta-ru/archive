@@ -19,9 +19,9 @@ tags: "авиакатастрофа, вашингтон, American Airlines, фи
 
 > «В отношении еще одного человека есть понимание, что российский паспорт мог быть. Эта информация сейчас проверяется», — добавила она.
 
-Ранее СМИ [писали](https://novayagazeta.ru/articles/2025/01/30/nashi-tam-byli-na-bortu-razbivshegosia-v-vashingtone-dzheta-american-airlines-byli-figuristy-v-tom-chisle-rossiiskie-smi-news), что на борту разбившегося самолета находились чемпионы мира в составе сборной РФ в парном фигурном катании Евгения Шишкова и Вадим Наумов, а также советская фигуристка Инна Волянская.
+Ранее СМИ [писали](2025/01/30/nashi-tam-byli-na-bortu-razbivshegosia-v-vashingtone-dzheta-american-airlines-byli-figuristy-v-tom-chisle-rossiiskie-smi.md), что на борту разбившегося самолета находились чемпионы мира в составе сборной РФ в парном фигурном катании Евгения Шишкова и Вадим Наумов, а также советская фигуристка Инна Волянская.
 
 Утром в пятницу стало известно, что среди пассажиров был и бывший российский фигурист Александр Кирсанов, об этом ABC News [рассказала](https://abcnews.go.com/US/live-updates/reagan-airport-crash-live-updates-white-house-military/?id=118247845) его жена Наталья Гудина. По ее словам, она тоже должна была лететь в Национальный лагерь развития вместе с учениками своего мужа, но решила остаться в Делавере.
 
 - Александру Кирсанову было 46 лет. Он выступал в танцах на льду, представлял Россию, Азербайджан и США. После завершения карьеры в 2004 году Кирсанов сосредоточился на тренерской работе в Соединенных Штатах.
-- Самолет American Airlines [упал](https://novayagazeta.ru/articles/2025/01/30/nashi-tam-byli-na-bortu-razbivshegosia-v-vashingtone-dzheta-american-airlines-byli-figuristy-v-tom-chisle-rossiiskie-smi-news) в реку после столкновения с военным вертолетом в ночь с 29 на 30 января. На борту находились 64 человека. Президент США Дональд Трамп заявил, что в результате крушения никто не выжил.
+- Самолет American Airlines [упал](2025/01/30/nashi-tam-byli-na-bortu-razbivshegosia-v-vashingtone-dzheta-american-airlines-byli-figuristy-v-tom-chisle-rossiiskie-smi.md) в реку после столкновения с военным вертолетом в ночь с 29 на 30 января. На борту находились 64 человека. Президент США Дональд Трамп заявил, что в результате крушения никто не выжил.

@@ -15,7 +15,7 @@ tags: ""
 
 > **От редакции**
 >
-> ### [**Считайте инфляцию дополнительным налогом…**](https://novayagazeta.ru/articles/2025/02/04/schitaite-infliatsiiu-dopolnitelnym-nalogom) Комменатрии редактора отдела экономики Дмитрия Прокофьева
+> ### [**Считайте инфляцию дополнительным налогом…**](2025/02/04/schitaite-infliatsiiu-dopolnitelnym-nalogom.md) Комменатрии редактора отдела экономики Дмитрия Прокофьева
 
 > **Санкт-Петербург**
 >
@@ -196,4 +196,4 @@ tags: ""
 >
 > **Валерия Федоренко, **«Новая»
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/22/paketov-pomenshe-i-chek-pokoroche
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/22/paketov-pomenshe-i-chek-pokoroche](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/22/paketov-pomenshe-i-chek-pokoroche)

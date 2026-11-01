@@ -23,12 +23,12 @@ tags: ""
 
 Чиновники на фоне ставших регулярными отключений все чаще выбирают провокационные слова для новой нормы.
 
-Красноярская чиновница предложила недовольным отключениями интернета жителям отправляться [на работу в зону СВО](https://novayagazeta.ru/articles/2025/07/29/krasnoiarskaia-chinovnitsa-predlozhila-otpravitsia-na-front-tem-kto-nedovolen-otkliucheniem-mobilnogo-interneta-i-mozhet-poteriat-rabotu-news).
+Красноярская чиновница предложила недовольным отключениями интернета жителям отправляться [на работу в зону СВО](2025/07/29/krasnoiarskaia-chinovnitsa-predlozhila-otpravitsia-na-front-tem-kto-nedovolen-otkliucheniem-mobilnogo-interneta-i-mozhet.md).
 
-В Кремле [оправдывают](https://novayagazeta.ru/articles/2025/07/17/kreml-opravdal-massovye-otkliucheniia-interneta-i-potreboval-ot-deputatov-luchshe-obiasnit-smysl-popravok-o-shtrafakh-za-poisk-ekstremizma-v-internete-news) отключения интернета заботой о безопасности россиян: «угроза» из Киева «очевидна», поэтому «надо принимать меры».
+В Кремле [оправдывают](2025/07/17/kreml-opravdal-massovye-otkliucheniia-interneta-i-potreboval-ot-deputatov-luchshe-obiasnit-smysl-popravok-o-shtrafakh-za.md) отключения интернета заботой о безопасности россиян: «угроза» из Киева «очевидна», поэтому «надо принимать меры».
 
 Отключение интернета — удар по современной цифровой инфраструктуре в России. От него страдает малый бизнес: не работают мобильные кассы в магазинах, маршрутках, у доставщиков. Сбоит навигатор — вредит сервисам с геолокацией (такси и грузоперевозки). С перебоями работают не подключенные к проводному интернету банкоматы. Затруднен документооборот и удаленная запись на госсервисы.
 
-Власти отключают мобильный интернет из-за атак украинских беспилотников. [По словам](https://novayagazeta.ru/articles/2025/07/28/kirzhach-bez-sviazi) военного эксперта «Новой газеты» Валерия Ширяева, «есть версия, что вездесущие беспилотники ВСУ управляются на конечном этапе через мобильный интернет с сим-карт российских операторов».
+Власти отключают мобильный интернет из-за атак украинских беспилотников. [По словам](2025/07/28/kirzhach-bez-sviazi.md) военного эксперта «Новой газеты» Валерия Ширяева, «есть версия, что вездесущие беспилотники ВСУ управляются на конечном этапе через мобильный интернет с сим-карт российских операторов».
 
-**Смотрите также:** https://novayagazeta.ru/articles/2025/07/30/kto-parazitiruet-na-ekonomike-blokirovki-psevdo-tsifrovizatsiia-i-serye-zony
+**Смотрите также:** [Кто паразитирует на экономике? Блокировки, псевдо-цифровизация и серые зоны](2025/07/30/kto-parazitiruet-na-ekonomike-blokirovki-psevdo-tsifrovizatsiia-i-serye-zony.md)

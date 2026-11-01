@@ -17,10 +17,10 @@ tags: "кречетова, арест, мохнаткин, крымские та
 
 Суд посчитал, что это мероприятие требовало согласования. Кречетова не признала вину в совершении какого-либо правонарушения.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/07/komanda-gazy
+**Читайте также:** [Команда «газы»](2021/09/07/komanda-gazy.md)
 
-6 сентября суд в Крыму [отправил](https://novayagazeta.ru/articles/2021/09/06/dvoikh-krymskikh-tatar-otpravili-v-sizo-po-delu-o-povrezhdenii-gazoprovoda-news) под арест крымскотатарского политика и журналиста Наримана Джеляла, а также братьев Азиза и Асана Ахтемовых, которых ФСБ задержала при обысках 3-4 сентября по делу о «повреждении газопровода». Адвокат Джеляла [рассказывала](https://novayagazeta.ru/articles/2021/09/05/advokat-zaderzhannogo-krymskotatarskogo-politika-narimana-dzheliala-derzhali-v-podvale-s-meshkom-na-golove-news) о пытках своего подзащитного. Кроме того, 4 сентбря полиция [задержала](https://novayagazeta.ru/articles/2021/09/04/v-simferopole-politsiia-zaderzhala-kak-minimum-40-krymskikh-tatar-oni-vyshli-k-zdaniiu-fsb-v-podderzhku-zemliakov-news) десятки человек, которые вышли к зданию ФСБ, чтобы поддержать задержанных земляков.
+6 сентября суд в Крыму [отправил](2021/09/06/dvoikh-krymskikh-tatar-otpravili-v-sizo-po-delu-o-povrezhdenii-gazoprovoda-news.md) под арест крымскотатарского политика и журналиста Наримана Джеляла, а также братьев Азиза и Асана Ахтемовых, которых ФСБ задержала при обысках 3-4 сентября по делу о «повреждении газопровода». Адвокат Джеляла [рассказывала](2021/09/05/advokat-zaderzhannogo-krymskotatarskogo-politika-narimana-dzheliala-derzhali-v-podvale-s-meshkom-na-golove-news.md) о пытках своего подзащитного. Кроме того, 4 сентбря полиция [задержала](2021/09/04/v-simferopole-politsiia-zaderzhala-kak-minimum-40-krymskikh-tatar-oni-vyshli-k-zdaniiu-fsb-v-podderzhku-zemliakov-news.md) десятки человек, которые вышли к зданию ФСБ, чтобы поддержать задержанных земляков.
 
 Анна Кречетова — вдова правозащитника и политзаключенного Сергея Мохнаткина, дважды осужденного за нападение на полицейских, дезорганизацию работы колонии и оскорбление представителя власти. В заключении в Котласе сотрудники ФСИН сломали Мохнаткину позвоночник, и он скончался от осложнений в 2020 году в возрасте 66 лет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2018/12/08/78861-mohnatkinu-vynosyat-smertnyy-prigovor
+**Читайте также:** [Мохнаткину выносят «смертный приговор»](2018/12/08/78861-mohnatkinu-vynosyat-smertnyy-prigovor.md)

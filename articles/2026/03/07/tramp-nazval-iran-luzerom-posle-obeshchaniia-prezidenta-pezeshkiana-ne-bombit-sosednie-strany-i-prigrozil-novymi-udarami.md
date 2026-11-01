@@ -23,6 +23,6 @@ tags: ""
 
 «Это обещание (не атаковать соседние страны) было сделано только потому, что США и Израиль продолжают бомбить (Иран). И это первый за тысячу лет случай, когда Иран проиграл странам Ближнего Востока. Они уже сказали: "Спасибо вам, президент Трамп!", я ответил "Пожалуйста". Иран больше не третирует Ближний Восток, теперь он лузер».
 
-Вечером в пятницу Пезешкиан созвонился с президентом Путиным. Из иранских источников известно, что Иран воспользовался звонком и [попытался купировать](https://novayagazeta.ru/articles/2026/03/07/azerbaidzhan-mobilizoval-armiiu-posle-otvratitelnogo-terakta-irana-a-zatem-iakoby-sorval-eshche-odin-terakt-iranskikh-ksir-prezident-irana-pozvonil-putinu-i-rasskazal-o-provokatsiiakh-izrailia-possorivshikh-tegeran-i-baku-news) разрастающийся конфликт с Азербайджаном.
+Вечером в пятницу Пезешкиан созвонился с президентом Путиным. Из иранских источников известно, что Иран воспользовался звонком и [попытался купировать](2026/03/07/azerbaidzhan-mobilizoval-armiiu-posle-otvratitelnogo-terakta-irana-a-zatem-iakoby-sorval-eshche-odin-terakt-iranskikh-ks.md) разрастающийся конфликт с Азербайджаном.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/06/tramp-potreboval-ot-irana-bezogovorochnoi-kapituliatsii-news
+**Читайте также:** [Трамп потребовал от Ирана «безоговорочной капитуляции»](2026/03/06/tramp-potreboval-ot-irana-bezogovorochnoi-kapituliatsii-news.md)

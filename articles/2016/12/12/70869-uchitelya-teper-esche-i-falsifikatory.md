@@ -21,7 +21,7 @@ tags: "учителя, выборы, фальсификация"
 
 *В редакцию пришло гневное письмо по мотивам расследования «Мытищи-гейт». Публикуем его, позволив себе исправить допущенные в тексте ошибки. Оно все-таки подписано 60 учителями.*
 
-**link:** https://novayagazeta.ru/articles/2016/12/04/70762-kak-na-samom-dele-proshli-vybory-v-moskovskoy-oblasti
+**link:** [Мытищи-гейт](2016/12/04/70762-kak-na-samom-dele-proshli-vybory-v-moskovskoy-oblasti.md)
 
 > **От редакции:**
 >

@@ -39,6 +39,6 @@ tags: ""
 
 И как пицца из еды бедняков стала главным блюдом XX века?
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/10/khippi-brodskii-i-povelitel-mukh
+**Читайте также:** [Хиппи, Бродский и «Повелитель мух»](2026/06/10/khippi-brodskii-i-povelitel-mukh.md)
 
 #### * Внесен властями РФ в реестр «иноагентов»\

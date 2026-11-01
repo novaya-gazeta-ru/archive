@@ -17,11 +17,11 @@ tags: "хачатурян, nt"
 
 «Мы категорически не согласны с предъявленным обвинением»,— заявил Липцер, добавив, что надеется, что Генпрокуратура, куда материалы должны позже поступить для утверждения обвинительного заключения, с ним также не согласится.
 
-**link:** https://novayagazeta.ru/articles/2019/08/08/81539-politicheskoe-eto-hachaturyan
+**link:** [Политическое — это Хачатурян](2019/08/08/81539-politicheskoe-eto-hachaturyan.md)
 
-Напомним, сестер Крестину, Марию и Ангелину Хачатурян обвиняют в убийстве своего 57-летнего отца Михаила по предварительному сговору (п. «ж» ч. 2 ст. 105 УК) в июле прошлого года. Дополнительная экспертиза [подтвердила](https://www.novayagazeta.ru/news/2019/10/01/155767-dopolnitelnaya-ekspertiza-podtverdila-chto-otets-sester-hachaturyan-nanes-ih-zdorovyu-tyazhkiy-vred), что что насильственные действия Хачатуряна нанесли тяжкий вред здоровью его дочерей. До этого следователи тоже [установили](https://www.novayagazeta.ru/news/2019/08/20/154514-sk-dokazal-pravdivost-slov-sester-hachaturyan-ob-izdevatelstvah-ottsa) факты насилия над девушками, но дело возбуждать не стали в связи со смертью подозреваемого.
+Напомним, сестер Крестину, Марию и Ангелину Хачатурян обвиняют в убийстве своего 57-летнего отца Михаила по предварительному сговору (п. «ж» ч. 2 ст. 105 УК) в июле прошлого года. Дополнительная экспертиза [подтвердила](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/10/01/155767-dopolnitelnaya-ekspertiza-podtverdila-chto-otets-sester-hachaturyan-nanes-ih-zdorovyu-tyazhkiy-vred), что что насильственные действия Хачатуряна нанесли тяжкий вред здоровью его дочерей. До этого следователи тоже [установили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/08/20/154514-sk-dokazal-pravdivost-slov-sester-hachaturyan-ob-izdevatelstvah-ottsa) факты насилия над девушками, но дело возбуждать не стали в связи со смертью подозреваемого.
 
 > **читайте также<br>
 &nbsp;**
 >
-> [Россия отказывается признавать, что женщин бьют в семьях. Что об этом думает Рита Грачева?](https://www.novayagazeta.ru/articles/2019/11/19/82791-semeyno-ohranitelnyy-podhod)
+> [Россия отказывается признавать, что женщин бьют в семьях. Что об этом думает Рита Грачева?](2019/11/19/82791-semeyno-ohranitelnyy-podhod.md)

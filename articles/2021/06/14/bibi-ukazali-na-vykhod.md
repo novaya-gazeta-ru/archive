@@ -61,7 +61,7 @@ tags: "израиль, арабо-израильский конфликт, ка�
 
 *Биньямин Нетаньяху. Фото: Amir Levy / Getty*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/04/izrailtiane-pomeniali-vlast
+**Читайте также:** [Израильтяне поменяли власть](2021/06/04/izrailtiane-pomeniali-vlast.md)
 
 # Чем займется новое правительство Израиля?
 

@@ -67,6 +67,6 @@ tags: "витязево, анапа, пляж, мазут"
 
 Не приведет ли эксперимент с завозом на пляж в Витязеве песка из карьера к очередному уголовному делу о превышении должностных полномочий против очередного чиновника и будут ли открыты анапские пляжи летом — пока неясно.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/04/glava-rospotrebnadzora-pliazhi-v-anape-poka-otkryvat-nelzia-no-k-letu-situatsiia-mozhet-izmenitsia-news
+**Читайте также:** [Глава Роспотребнадзора: пляжи в Анапе пока открывать нельзя, но к лету ситуация может измениться](2026/02/04/glava-rospotrebnadzora-pliazhi-v-anape-poka-otkryvat-nelzia-no-k-letu-situatsiia-mozhet-izmenitsia-news.md)
 
 **Александр Романов**

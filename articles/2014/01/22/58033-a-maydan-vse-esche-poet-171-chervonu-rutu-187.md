@@ -14,8 +14,8 @@ tags: ""
 *«Мирная революция» растеряла сторонников и проиграла в конкуренции с силовой альтернативой*
 
 \
- [Вторые сутки столкновений. Фоторепортаж Евгений ФЕЛЬДМАНА](http://www.novayagazeta.ru/photos/61872.html)\
- **[В центре Киева третьи сутки продолжаются уличные столкновения со спецназом. Двое активистов погибли (ОНЛАЙН)](http://www.novayagazeta.ru/news/287394.html)**
+ [Вторые сутки столкновений. Фоторепортаж Евгений ФЕЛЬДМАНА](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/61872.html)\
+ **[В центре Киева третьи сутки продолжаются уличные столкновения со спецназом. Двое активистов погибли (ОНЛАЙН)](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/287394.html)**
 
 # В тылу
 
@@ -80,7 +80,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2014/01/21/1390320520_168435_75.jpg" style="width: 340px; height: 340px; float: right;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/01/21/1390320520_168435_75.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/01/21/1390320520_168435_75.jpg)" style="width: 340px; height: 340px; float: right;"></td>
 		</tr>
 		<tr>
 			<td align="right">
@@ -127,4 +127,4 @@ ___
 
 **Читайте также:**
 
-[](http://www.novayagazeta.ru/politics/61871.html)
+[](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/61871.html)

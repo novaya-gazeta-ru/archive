@@ -17,4 +17,4 @@ tags: "болотное дело"
 
 Сегодня они рассказывают «Новой газете» об условиях содержания в ИК-1, изменениях, которые поразили их на свободе — и о своей жизни до «болотного дела» и после.
 
-**link:** https://novayagazeta.ru/articles/2017/08/29/73631-vrag-za-vorotami-osvobodivshis-ot-bolotnika-nepomnyaschih-koloniya-nadeetsya-chto-shum-vokrug-nee-ulyazhetsya-no-zrya-nadeetsya
+**link:** [Враг за воротами](2017/08/29/73631-vrag-za-vorotami-osvobodivshis-ot-bolotnika-nepomnyaschih-koloniya-nadeetsya-chto-shum-vokrug-nee-ulyazhetsya-no-z.md)

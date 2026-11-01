@@ -23,8 +23,8 @@ tags: "навальный, суды, колонии, em"
 
 Помимо этого, Навальный обвиняется в оскорблении мирового судьи Веры Акимовой, которая вела дело о клевете на ветерана Игната Артеменко. По делу о клевете суд назначил политику 850 тысяч рублей штрафа.
 
-В конце января Навального и ряд его сторонников Росфинмониторинг [внес](https://novayagazeta.ru/articles/2022/01/25/alekseia-navalnogo-liubov-sobol-i-drugikh-storonnikov-politika-vkliuchili-v-spisok-terroristov-i-ekstremistov-rosfinmonitoringa-news) в список террористов и экстремистов. «Кем же я могу быть в этой системе? Только террористом. Чему тут удивляться?» — [прокомментировал](https://novayagazeta.ru/articles/2022/01/26/chemu-tut-udivliatsia-navalnyi-prokommentiroval-svoe-vnesenie-v-spisok-terroristov-i-ekstremistov-news) это политик.
+В конце января Навального и ряд его сторонников Росфинмониторинг [внес](2022/01/25/alekseia-navalnogo-liubov-sobol-i-drugikh-storonnikov-politika-vkliuchili-v-spisok-terroristov-i-ekstremistov-rosfinmoni.md) в список террористов и экстремистов. «Кем же я могу быть в этой системе? Только террористом. Чему тут удивляться?» — [прокомментировал](2022/01/26/chemu-tut-udivliatsia-navalnyi-prokommentiroval-svoe-vnesenie-v-spisok-terroristov-i-ekstremistov-news.md) это политик.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/17/god-navalnogo
+**Читайте также:** [https://novayagazeta.ru/articles/2022/01/17/god-navalnogo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/01/17/god-navalnogo)
 
 Навальный оказался в колонии после того, как 2 февраля прошлого года Симоновский районный суд Москвы удовлетворил ходатайство ФСИН о замене политику условного срока по делу «Ив Роше» на реальный. Навального задержали 17 января 2021 года во время прохождения паспортного контроля в аэропорту Шереметьево — тогда он вернулся в Россию после лечения в Германии.

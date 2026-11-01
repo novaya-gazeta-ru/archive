@@ -25,6 +25,6 @@ tags: ""
 
 В августе 2024 года Яшин был в числе заключенных, которые участвовали в обмене между Россией и странами Запада. Он [был помилован](https://t.me/novaya_pishet/46446) указом Путина и сейчас живет в Германии.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/23/vidit-raznitsu-mezhdu-putinym-i-rossiiskim-narodom-ilia-iashin-peredal-makronu-spiski-rossiiskikh-politzakliuchennykh-news
+**Читайте также:** [«Видит разницу между Путиным и российским народом». Илья Яшин* передал Макрону списки политзаключенных в РФ](2024/10/23/vidit-raznitsu-mezhdu-putinym-i-rossiiskim-narodom-ilia-iashin-peredal-makronu-spiski-rossiiskikh-politzakliuchennykh-ne.md)
 
 #### * Минюст считает «иноагентами».

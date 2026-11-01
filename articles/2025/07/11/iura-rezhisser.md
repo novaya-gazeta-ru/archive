@@ -121,4 +121,4 @@ tags: "ереван, армения, георгий богуславский"
 
 **Айсылу Кадырова**
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/09/chelovek-s-volshebnoi-palochkoi
+**Читайте также:** [Человек с волшебной палочкой](2025/06/09/chelovek-s-volshebnoi-palochkoi.md)

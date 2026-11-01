@@ -14,7 +14,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/05/1341496172_646345_74.jpg" style="width: 360px; height: 360px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/05/1341496172_646345_74.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/05/1341496172_646345_74.jpg)" style="width: 360px; height: 360px; "><br>
 				<sup>4 июля у посольства США. Фото: Илья Азар</sup>
 				<p>
 					&nbsp;</p>

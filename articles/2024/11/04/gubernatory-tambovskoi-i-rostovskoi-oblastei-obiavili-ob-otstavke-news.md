@@ -25,4 +25,4 @@ tags: ""
 
 Никаких подробностей о своих новых назначениях чиновники не приводят.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/01/bremia-geroev-ili-zagon-dlia-elity
+**Читайте также:** [Бремя героев, или Загон для элиты](2024/11/01/bremia-geroev-ili-zagon-dlia-elity.md)

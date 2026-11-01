@@ -59,9 +59,9 @@ tags: "пленные, сепаратизм, украина"
 
 Обвинения не просто в корысти, но в прямом сотрудничестве с ФСБ звучат по адресу российской правозащитницы Елены Васильевой и российского журналиста Виктора Майстренко, получающего гражданство Украины, — он якобы злоупотребляет сбором средств, необходимых для деятельности «обменщиков». Человеком чести называют лишь Василия Будика, с кем «Патриот» проводит совместные операции (*Василий Будик — советник заместителя министра обороны Украины, гражданин Грузии.* — **О.М.**).
 
-**link:** https://novayagazeta.ru/politics/67467.html
+**link:** [https://novayagazeta.ru/politics/67467.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/67467.html)
 
-**link:** https://novayagazeta.ru/politics/67467.html
+**link:** [https://novayagazeta.ru/politics/67467.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/67467.html)
 
 # Освободить или «попридержать»?
 
@@ -97,9 +97,9 @@ tags: "пленные, сепаратизм, украина"
 
 **Олег:** Мы противостоим бизнесу на жизнях. И о политической торговле тоже догадываемся. Только надо собрать больше доказательств.
 
-**link:** https://novayagazeta.ru/topics/131.html
+**link:** [https://novayagazeta.ru/topics/131.html](https://web.archive.org/web/*/https://novayagazeta.ru/topics/131.html)
 
-**link:** https://novayagazeta.ru/topics/131.html
+**link:** [https://novayagazeta.ru/topics/131.html](https://web.archive.org/web/*/https://novayagazeta.ru/topics/131.html)
 
 # Прекратить войну — сначала в мозгах
 

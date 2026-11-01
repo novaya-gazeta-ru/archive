@@ -19,4 +19,4 @@ tags: "санкции, арест имущества, вклады, центро
 
 «По требованию президента Франции мы продолжим полную инвентаризацию вкладов и объектов недвижимости, яхт, люксовых автомобилей, которые принадлежат россиянам, находящимся под европейскими санкциями», — говорил министр.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/18/bez-dezodorantov-i-zhenskikh-trusikov
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/18/bez-dezodorantov-i-zhenskikh-trusikov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/18/bez-dezodorantov-i-zhenskikh-trusikov)

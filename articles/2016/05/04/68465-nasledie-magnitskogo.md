@@ -31,9 +31,9 @@ tags: "hermitage capital, браудер, магнитский, правозащ
 
 Напомним, 27 апреля в Европарламенте должен был состояться премьерный показ фильма, посвященного делу Сергея Магнитского, в котором режиссер Андрей Некрасов заявляет, что никакого разоблачения коррупционной схемы Сергеем Магнитским не было и юрист фонда Hermitage умер естественной смертью в СИЗО.
 
-**link:** https://novayagazeta.ru/politics/72931.html
+**link:** [https://novayagazeta.ru/politics/72931.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/72931.html)
 
-**link:** https://novayagazeta.ru/politics/72931.html
+**link:** [https://novayagazeta.ru/politics/72931.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/72931.html)
 
 Адвокаты Браудера направили письма телеканалам, поддерживавшим съемки этого фильма, и самому режиссеру с предупреждением о том, что их ждут многомиллионные иски за фальсификацию фактов.
 

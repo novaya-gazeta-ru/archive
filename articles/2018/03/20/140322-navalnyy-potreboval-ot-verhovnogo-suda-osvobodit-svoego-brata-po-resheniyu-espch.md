@@ -19,8 +19,8 @@ tags: "приговор, верховный суд, еспч, навальный
 
 Напомним, в декабре 2014 года по делу о хищении средств «Ив Роше», возбужденного Следственным комитетом в отношении братьев Навальных в ходе расследования по «Кировлесу» в декабре 2012 года, Алексею Навальному дали 3,5 года условно и пять лет испытательного срока.
 
-**link:** https://novayagazeta.ru/articles/2017/02/08/71446-vasha-chest-mne-vasha-versiya-prigovora-ponravilas-bolshe
+**link:** [https://novayagazeta.ru/articles/2017/02/08/71446-vasha-chest-mne-vasha-versiya-prigovora-ponravilas-bolshe](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/02/08/71446-vasha-chest-mne-vasha-versiya-prigovora-ponravilas-bolshe)
 
-Его брата Олега по этому же делу приговорили к 3,5 годам лишения свободы в колонии общего режима. Их [признали](https://www.novayagazeta.ru/news/2016/03/15/119699-espch-prinyal-k-rassmotreniyu-zhalobu-na-prigovor-navalnym-po-delu-171-iv-roshe-187) виновными в хищении 26 миллионов рублей у компании «Ив Роше» и 4 миллионов рублей у «Многопрофильной процессинговой компании».
+Его брата Олега по этому же делу приговорили к 3,5 годам лишения свободы в колонии общего режима. Их [признали](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2016/03/15/119699-espch-prinyal-k-rassmotreniyu-zhalobu-na-prigovor-navalnym-po-delu-171-iv-roshe-187) виновными в хищении 26 миллионов рублей у компании «Ив Роше» и 4 миллионов рублей у «Многопрофильной процессинговой компании».
 
-В прошлом году ЕСПЧ признал незаконным приговор по делу «Кировлеса». Российский суд, по мнению ЕСПЧ, нарушил права Навальных, поскольку осудил их за деяния, не отличимые от обычной предпринимательской деятельности, и [присудил](https://www.novayagazeta.ru/news/2017/10/17/136197-espch-prisudil-bratyam-navalnym-bolee-70-tysyach-evro-po-delu-iv-roshe) братьям компенсацию в 76 тысяч евро.
+В прошлом году ЕСПЧ признал незаконным приговор по делу «Кировлеса». Российский суд, по мнению ЕСПЧ, нарушил права Навальных, поскольку осудил их за деяния, не отличимые от обычной предпринимательской деятельности, и [присудил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/10/17/136197-espch-prisudil-bratyam-navalnym-bolee-70-tysyach-evro-po-delu-iv-roshe) братьям компенсацию в 76 тысяч евро.

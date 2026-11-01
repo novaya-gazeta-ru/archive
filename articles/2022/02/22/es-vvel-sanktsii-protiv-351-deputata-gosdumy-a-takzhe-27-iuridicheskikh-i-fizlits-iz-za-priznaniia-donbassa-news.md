@@ -19,8 +19,8 @@ tags: "санкции, днр, лнр, боррель, ep"
 
 В то же время глава МИД Франции Жан-Ив Ле Дриан [отменил](https://tass.ru/mezhdunarodnaya-panorama/13812409) встречу с министром иностранных дел РФ Сергеем Лавровым, которая была запланирована на 25 февраля.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/22/osudili-vsekh-prichastnykh
+**Читайте также:** [Осудили всех причастных](2022/02/22/osudili-vsekh-prichastnykh.md)
 
-Ранее Великобритания [ввела](https://novayagazeta.ru/articles/2022/02/22/velikobritaniia-vvodit-sanktsii-protiv-piati-rossiiskikh-bankov-news) санкции против банка «Россия», ПАО «Промсвязьбанк», Индустриального сберегательного банка, Черноморского банка развития и реконструкции и Генбанка. Также под санкции попали Геннадий Тимченко, Игорь и Борис Ротенберги. Страна заморозила их активы, а также запретила им въезд.\
+Ранее Великобритания [ввела](2022/02/22/velikobritaniia-vvodit-sanktsii-protiv-piati-rossiiskikh-bankov-news.md) санкции против банка «Россия», ПАО «Промсвязьбанк», Индустриального сберегательного банка, Черноморского банка развития и реконструкции и Генбанка. Также под санкции попали Геннадий Тимченко, Игорь и Борис Ротенберги. Страна заморозила их активы, а также запретила им въезд.\
  \
- США [ввели](https://novayagazeta.ru/articles/2022/02/22/razorval-minskie-soglasheniia-v-klochia-ssha-vveli-ogranicheniia-protiv-ldnr-i-anonsirovali-novye-sanktsii-protiv-rossii-news) санкции в отношении «ДНР» и «ЛНР», а канцлер Германии Олаф Шольц [остановил](https://novayagazeta.ru/articles/2022/02/22/sholts-ostanovil-sertifikatsiiu-severnogo-potoka-2-na-fone-priznaniia-dnr-i-lnr-news) сертификацию «Северного потока-2».
+ США [ввели](2022/02/22/razorval-minskie-soglasheniia-v-klochia-ssha-vveli-ogranicheniia-protiv-ldnr-i-anonsirovali-novye-sanktsii-protiv-rossii.md) санкции в отношении «ДНР» и «ЛНР», а канцлер Германии Олаф Шольц [остановил](2022/02/22/sholts-ostanovil-sertifikatsiiu-severnogo-potoka-2-na-fone-priznaniia-dnr-i-lnr-news.md) сертификацию «Северного потока-2».

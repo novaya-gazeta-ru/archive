@@ -21,11 +21,11 @@ tags: "sn, нарушения, поправки2020, поправки в кон�
 
 Блокчейн-платформу для электронного голосования разработал стартап «Лаборатории Касперского» Polys. Эта система впервые[ была использована](https://thebell.io/sposob-haknut-nashelsya-istoriya-blokchejn-platformy-dlya-golosovaniya-o-popravkah-v-konstitutsiyu) прошлым летом на выборах в Мосгордуму. Кандидаты тогда обращали внимание на ряд несовершенств платформы: она работала со сбоями, была непрозрачной для наблюдателей и при подсчете дала аномально высокий процент провластным кандидатам.
 
-**link:** https://novayagazeta.ru/articles/2020/06/24/86000-stoit-li-idti-na-golosovanie
+**link:** [Стоит ли идти на голосование?](2020/06/24/86000-stoit-li-idti-na-golosovanie.md)
 
 В этом году электронное голосование по поправкам в Конституцию доступно для жителей Москвы и Нижегородской области. Всего более 1,3 миллиона россиян подали заявки на голосование онлайн. Его результаты объявят 1 июля в восемь часов вечера.
 
-Еще до начала электронного голосования эксперты и СМИ предупреждали о возможных нарушениях во время плебисцита. Так, «Дождь» [рассказал](https://novayagazeta.ru/news/2020/06/17/162358-dozhd-moskvicham-predlagayut-za-dengi-progolosovat-za-popravki-v-konstitutsiyu-s-podstavnyh-sim-kart-dlya-etogo-ispolzuyut-lichnye-dannye-pensionerov) о том, как злоумышленники с помощью подставных сим-карт регистрируют на сайте госуслуг московских пенсионеров без их ведома, а физик и автор исследований о выборах Сергей Шпилькин [заметил](https://novayagazeta.ru/news/2020/06/24/162538-na-uchastke-v-novoy-moskve-dlya-onlayn-golosovaniya-otkrepilos-vtroe-bolshe-izbirateley-chem-tam-bylo-god-nazad), что на одном из участков в Новой Москве для онлайн-голосования открепились втрое больше избирателей, чем там было на выборах год назад.
+Еще до начала электронного голосования эксперты и СМИ предупреждали о возможных нарушениях во время плебисцита. Так, «Дождь» [рассказал](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/06/17/162358-dozhd-moskvicham-predlagayut-za-dengi-progolosovat-za-popravki-v-konstitutsiyu-s-podstavnyh-sim-kart-dlya-etogo-ispolzuyut-lichnye-dannye-pensionerov) о том, как злоумышленники с помощью подставных сим-карт регистрируют на сайте госуслуг московских пенсионеров без их ведома, а физик и автор исследований о выборах Сергей Шпилькин [заметил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/06/24/162538-na-uchastke-v-novoy-moskve-dlya-onlayn-golosovaniya-otkrepilos-vtroe-bolshe-izbirateley-chem-tam-bylo-god-nazad), что на одном из участков в Новой Москве для онлайн-голосования открепились втрое больше избирателей, чем там было на выборах год назад.
 
 > **Комментарий «Лаборатории Касперского»**
 >

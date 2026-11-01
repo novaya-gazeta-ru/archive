@@ -49,7 +49,7 @@ tags: "школа, тролли, кибербуллинг, параллели, �
 
 **Марара,** 18 лет
 
-**link:** https://novayagazeta.ru/articles/2018/11/16/78611-travlya-ne-lyubit-glasnosti
+**link:** [Травля не любит гласности](2018/11/16/78611-travlya-ne-lyubit-glasnosti.md)
 
 # Учитель – это мишень
 

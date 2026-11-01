@@ -19,4 +19,4 @@ tags: "кинофестивали, кинопремии, кино, em"
 
 Венецианский кинофестиваль проходит с 1 по 11 сентября. Он стал 78-м по счету.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/11/sobytie-liudi-iavleniia
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/11/sobytie-liudi-iavleniia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/11/sobytie-liudi-iavleniia)

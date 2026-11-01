@@ -19,6 +19,6 @@ tags: "хакеры, сша, россия, чехия"
 
 Ранее Россия выступала против выдачи Никулина США и добивалась его экстрадиции по делу о мошенничестве.
 
-В ноябре 2017 года Верховный суд в Праге [одобрил](https://www.novayagazeta.ru/news/2017/11/24/137329-sud-v-chehii-odobril-ekstraditsiyu-v-ssha-russkogo-hakera-nikulina) экстрадицию в США Никулина. Россиянина задержали 5 октября 2016 года. В операции по его поимке участвовали сотрудники ФБР, [сообщал](https://www.novayagazeta.ru/news/2017/07/13/133440-v-smi-popali-detali-rassledovaniya-fbr-protiv-russkogo-hakera-nikulina) адвокат.
+В ноябре 2017 года Верховный суд в Праге [одобрил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/11/24/137329-sud-v-chehii-odobril-ekstraditsiyu-v-ssha-russkogo-hakera-nikulina) экстрадицию в США Никулина. Россиянина задержали 5 октября 2016 года. В операции по его поимке участвовали сотрудники ФБР, [сообщал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/07/13/133440-v-smi-popali-detali-rassledovaniya-fbr-protiv-russkogo-hakera-nikulina) адвокат.
 
 В октябре 2016 года чешский суд арестовал Никулина по требованию ФБР. В США против него возбудили дело о взломе LinkedIn, Formspring и других сайтов.

@@ -11,4 +11,4 @@ tags: ""
 
 # Михаил Горбачев: Чтобы идти вперед, нужно изменить систему
 
-https://novayagazeta.ru/articles/2011/09/21/45987-mihail-gorbachev-chtoby-idti-vpered-nuzhno-izmenit-sistemu
+[Михаил Горбачев: Чтобы идти вперед, нужно изменить систему](2011/09/21/45987-mihail-gorbachev-chtoby-idti-vpered-nuzhno-izmenit-sistemu.md)

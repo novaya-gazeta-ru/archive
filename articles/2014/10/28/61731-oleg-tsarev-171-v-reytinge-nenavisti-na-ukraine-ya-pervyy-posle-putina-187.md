@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/10/28/1414508008_800661_95.jpg" style="width: 340px; height: 232px; float: right;"></td>
+			<td><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/10/28/1414508008_800661_95.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/10/28/1414508008_800661_95.jpg)" style="width: 340px; height: 232px; float: right;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Олег Царев. Фото: РИА Новости</sup></td>

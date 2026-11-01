@@ -69,11 +69,11 @@ tags: ""
 
 — Человечество уже давно вполне разумно и рационально определилось: морские млекопитающие — это чрезвычайно хрупкие сообщества, и ограничение промысла только для коренных малочисленных народов, для некоммерческого использования, — вполне разумный подход.
 
-**link:** https://novayagazeta.ru/politics/66354.html
+**link:** [https://novayagazeta.ru/politics/66354.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66354.html)
 
-**link:** https://novayagazeta.ru/politics/66354.html
+**link:** [https://novayagazeta.ru/politics/66354.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66354.html)
 
-**link:** https://novayagazeta.ru/politics/66354.html
+**link:** [https://novayagazeta.ru/politics/66354.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66354.html)
 
 **— На днях США объявили о проекте создания крупнейшей охранной зоны в Арктике для защиты тюленей. Часть читателей полагает, что у этого решения есть какое-то двойное дно. Как думаете?**
 

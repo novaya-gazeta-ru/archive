@@ -79,6 +79,6 @@ tags: ""
 
 > Павел Кушнир открыто говорил то, что считал правильным, и в то же время продолжал заниматься своим любимым делом — музыкой. Его трагическая гибель — вечное напоминание всем нам о том, что такое свобода.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/10/krov-na-gubakh
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/10/krov-na-gubakh](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/10/krov-na-gubakh)
 
 #### * Внесен в реестр «иноагентов».

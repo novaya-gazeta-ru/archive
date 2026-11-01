@@ -27,7 +27,7 @@ tags: "бомбоубежища, киев, война, права человек
 
 *Фото: Marcus Yam / Loa Angeles Times / GettyImages*
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/25/putin-nachal-voinu-s-ukrainoi-den-vtoroi-onlain
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/25/putin-nachal-voinu-s-ukrainoi-den-vtoroi-onlain](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/25/putin-nachal-voinu-s-ukrainoi-den-vtoroi-onlain)
 
 ![](_assets/a8/a87a31a081213a84ab8e676225f0d596.webp)
 
@@ -75,7 +75,7 @@ tags: "бомбоубежища, киев, война, права человек
 
 *Женщины с детьми на станции «Маяковская» во время воздушной тревоги. Фотохроника ТАСС*
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/25/nikto-nichego-ne-sdaet
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/25/nikto-nichego-ne-sdaet](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/25/nikto-nichego-ne-sdaet)
 
 # Лондон, 1940
 

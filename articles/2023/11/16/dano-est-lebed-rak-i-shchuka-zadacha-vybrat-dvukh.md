@@ -99,7 +99,7 @@ tags: "бюджет, силовики"
 
 Ну а «напряжение» бюджетной и денежной политики — это обязательное условие «роста выпуска»/экономической активности в корпорациях.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/11/14/nuzhny-li-rossiiskoi-ekonomke-liudi-ili-resursov-khvatit
+**Читайте также:** [Нужны ли российской экономке люди или ресурсов хватит?](2023/11/14/nuzhny-li-rossiiskoi-ekonomke-liudi-ili-resursov-khvatit.md)
 
 ## **Без ограничений**
 

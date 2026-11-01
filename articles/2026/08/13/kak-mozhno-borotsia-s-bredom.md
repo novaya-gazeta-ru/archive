@@ -13,7 +13,7 @@ tags: ""
 
 *Татьяна и Сергей Никитины — о свободе, Окуджаве и времени, которое мы не выбирали*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/04/24/glavnye-dlia-nas-tsennosti-zhizn-cheloveka-ego-dostoinstvo
+**Читайте также:** [https://novayagazeta.ru/articles/2024/04/24/glavnye-dlia-nas-tsennosti-zhizn-cheloveka-ego-dostoinstvo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/04/24/glavnye-dlia-nas-tsennosti-zhizn-cheloveka-ego-dostoinstvo)
 
 Что остаётся с нами спустя годы — песни, люди или воспоминания? Татьяна и Сергей Никитины рассказывают о музыке, друзьях, поездках и своей работе. Вспоминают Булата Окуджаву, Давида Самойлова и Бориса Рыжего, говорят о свободе творчества, культуре и о том, почему старые песни иногда вдруг начинают звучать совсем по-новому. Почему одни песни не стареют? Что мы теряем вместе с людьми, которых больше нет рядом? И что помогает культуре оставаться живой?
 

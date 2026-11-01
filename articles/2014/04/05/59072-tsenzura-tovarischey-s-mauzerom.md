@@ -171,7 +171,7 @@ _А когда в непогоду и дождь_\
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2014/04/05/1396695020_392846_77.jpeg" style="width: 250px; float: right; height: 338px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/04/05/1396695020_392846_77.jpeg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/04/05/1396695020_392846_77.jpeg)" style="width: 250px; float: right; height: 338px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">

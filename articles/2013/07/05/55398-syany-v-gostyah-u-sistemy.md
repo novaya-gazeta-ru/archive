@@ -16,7 +16,7 @@ tags: "лето в городе"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/05/1373017362_758709_95.jpg" style="width: 340px; height: 255px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/05/1373017362_758709_95.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/05/1373017362_758709_95.jpg)" style="width: 340px; height: 255px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -24,7 +24,7 @@ tags: "лето в городе"
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/05/1373017363_063774_24.jpg" style="width: 340px; height: 255px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/05/1373017363_063774_24.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/05/1373017363_063774_24.jpg)" style="width: 340px; height: 255px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -32,7 +32,7 @@ tags: "лето в городе"
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/05/1373017363_359926_93.jpg" style="width: 340px; height: 255px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/05/1373017363_359926_93.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/05/1373017363_359926_93.jpg)" style="width: 340px; height: 255px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -40,7 +40,7 @@ tags: "лето в городе"
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/05/1373017379_595937_90.jpg" style="width: 340px; height: 454px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/05/1373017379_595937_90.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/05/1373017379_595937_90.jpg)" style="width: 340px; height: 454px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -48,7 +48,7 @@ tags: "лето в городе"
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/05/1373017379_909519_19.jpg" style="width: 340px; height: 454px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/05/1373017379_909519_19.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/05/1373017379_909519_19.jpg)" style="width: 340px; height: 454px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -56,7 +56,7 @@ tags: "лето в городе"
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/05/1373017380_217872_9.jpg" style="width: 340px; height: 255px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/05/1373017380_217872_9.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/05/1373017380_217872_9.jpg)" style="width: 340px; height: 255px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -64,7 +64,7 @@ tags: "лето в городе"
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/05/1373017393_887739_36.jpg" style="width: 340px; height: 255px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/05/1373017393_887739_36.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/05/1373017393_887739_36.jpg)" style="width: 340px; height: 255px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -72,7 +72,7 @@ tags: "лето в городе"
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/05/1373017394_206687_9.jpg" style="width: 340px; height: 255px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/05/1373017394_206687_9.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/05/1373017394_206687_9.jpg)" style="width: 340px; height: 255px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -80,7 +80,7 @@ tags: "лето в городе"
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/05/1373017394_507027_50.jpg" style="width: 340px; height: 255px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/05/1373017394_507027_50.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/05/1373017394_507027_50.jpg)" style="width: 340px; height: 255px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -88,7 +88,7 @@ tags: "лето в городе"
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/05/1373017400_719382_15.jpg" style="width: 340px; height: 454px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/05/1373017400_719382_15.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/05/1373017400_719382_15.jpg)" style="width: 340px; height: 454px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -238,7 +238,7 @@ _Буль! Буль-буль! Шмяк!_
 
 — Какие главные враги спелестолога? — тоном школьного учителя спрашивает ползущий сзади Рэд.
 
-— Торопливость и паника, — как примерная ученица, озвучиваю я усвоенный ещё [в подземной речке](http://www.novayagazeta.ru/society/58613.html) постулат. Впрочем, человеку худощавого телосложения, не страдающему клаустрофобией, в Щучке не грозит ни то, ни другое — окружающий камень кажется вполне надёжным. В шкуродёре напрочь теряется ощущения расстояния — до того, как увидишь выход в штрек, не поймёшь, сколько метров прополз. Легенда гласит, что прошедший Щучку вспомнит обстоятельства своего рождения или откроет в себе сверхспособности. Так вот, ничего подобного.
+— Торопливость и паника, — как примерная ученица, озвучиваю я усвоенный ещё [в подземной речке](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/58613.html) постулат. Впрочем, человеку худощавого телосложения, не страдающему клаустрофобией, в Щучке не грозит ни то, ни другое — окружающий камень кажется вполне надёжным. В шкуродёре напрочь теряется ощущения расстояния — до того, как увидишь выход в штрек, не поймёшь, сколько метров прополз. Легенда гласит, что прошедший Щучку вспомнит обстоятельства своего рождения или откроет в себе сверхспособности. Так вот, ничего подобного.
 
 Первое испытание преодолевается без особого труда — как выяснилось позже, оно было самым лёгким. После этого мы, минуя местный маленький Стоунхендж и водокап — большое корыто, наполненное минерализированной пресной водой, просачивающейся с потолка — идём в грот с милым женским именем, принадлежащий Максу, Апостолу и его друзьям.
 

@@ -13,7 +13,7 @@ tags: "полиция, наезд, происшествия, лондон"
 
 *Хроника*
 
-**link:** https://novayagazeta.ru/articles/2017/06/04/72690-terroristicheskaya-ataka-v-tsentre-londona-glavno
+**link:** [Террористическая атака в центре Лондона. Главное](2017/06/04/72690-terroristicheskaya-ataka-v-tsentre-londona-glavno.md)
 
 За дальнешйшими обновлениями следите в разделе«Новости»
 
@@ -56,4 +56,4 @@ Facebook запустил сервис "Я в безопасности" для �
 
 Белый фургон въехал в толпу пешеходов в районе Лондон Бридж. Данные о пострадавших разнятся: от 6 до более десятка. Официальных данных полиция пока не называет. Информации о водителе и пассажирах фургона пока нет.
 
-**link:** https://novayagazeta.ru/news/2017/06/04/132172-furgon-v-ehal-v-tolpu-peshehodov-na-mostu-v-tsentre-londona
+**link:** [https://novayagazeta.ru/news/2017/06/04/132172-furgon-v-ehal-v-tolpu-peshehodov-na-mostu-v-tsentre-londona](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/06/04/132172-furgon-v-ehal-v-tolpu-peshehodov-na-mostu-v-tsentre-londona)

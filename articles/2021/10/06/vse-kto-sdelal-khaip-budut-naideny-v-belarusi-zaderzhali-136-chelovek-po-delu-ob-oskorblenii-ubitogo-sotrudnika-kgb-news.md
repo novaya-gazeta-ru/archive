@@ -17,10 +17,10 @@ tags: "беларусь, следственный комитет, коммент
 
 «Несмотря на неоднократные предупреждения представителей правоохранительных органов о даче жесткой и принципиальной правовой оценки по каждому такому факту, некоторых «комментаторов» это не остановило, и они, полагаясь на анонимность и мнимую безнаказанность, продолжили свою травлю, оскорбления и унижения в сети Интернет», — сообщили в СК.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/02/ne-uvidim-podniatykh-ruk-vrag-budet-unichtozhen
+**Читайте также:** [«Не увидим поднятых рук — враг будет уничтожен»](2021/10/02/ne-uvidim-podniatykh-ruk-vrag-budet-unichtozhen.md)
 
 В ведомстве предупредили, что «все, кто сделал хайп на горе семьи офицера, будут найдены».
 
-28 сентября житель Минска Андрей Зельцер [застрелил](https://novayagazeta.ru/articles/2021/09/28/zhitel-minska-zastrelil-sotrudnika-kgb-prishedshego-k-nemu-s-obyskom-siloviki-ubili-strelka-otvetnym-ognem-18-news) из ружья бойца спецподразделения КГБ «Альфа» Дмитрия Федосюка, пришедшего к нему в рамках операции «проверка адресов». Нападавший также был застрелен. На следующий день после перестрелки [задержали](https://novayagazeta.ru/articles/2021/10/02/ne-uvidim-podniatykh-ruk-vrag-budet-unichtozhen) 86 человек. Большинство [поместили](https://novayagazeta.ru/articles/2021/10/01/bolee-80-zhitelei-belarusi-zaderzhali-iz-za-kommentariev-o-gibeli-boitsa-alfy-nekotorykh-otpravili-v-sizo-kgb-news) в изолятор на улице Окрестина, как минимум 10 человек отправили в СИЗО КГБ.
+28 сентября житель Минска Андрей Зельцер [застрелил](2021/09/28/zhitel-minska-zastrelil-sotrudnika-kgb-prishedshego-k-nemu-s-obyskom-siloviki-ubili-strelka-otvetnym-ognem-18-news.md) из ружья бойца спецподразделения КГБ «Альфа» Дмитрия Федосюка, пришедшего к нему в рамках операции «проверка адресов». Нападавший также был застрелен. На следующий день после перестрелки [задержали](2021/10/02/ne-uvidim-podniatykh-ruk-vrag-budet-unichtozhen.md) 86 человек. Большинство [поместили](2021/10/01/bolee-80-zhitelei-belarusi-zaderzhali-iz-za-kommentariev-o-gibeli-boitsa-alfy-nekotorykh-otpravili-v-sizo-kgb-news.md) в изолятор на улице Окрестина, как минимум 10 человек отправили в СИЗО КГБ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/29/tovarishchi-belorusy-kak-vashi-dedy-pobedili-na-voine
+**Читайте также:** [«Товарищи белорусы, как ваши деды победили на войне?»](2021/09/29/tovarishchi-belorusy-kak-vashi-dedy-pobedili-na-voine.md)

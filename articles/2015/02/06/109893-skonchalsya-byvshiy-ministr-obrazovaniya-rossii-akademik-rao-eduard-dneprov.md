@@ -17,6 +17,6 @@ tags: "образование, реформы, система"
 
 В конце 80-х годов Эдуард Днепров возглавил ВНИК «Школа» (временный научно исследовательский коллектив), определивший новую школьную идеологию, пришедшую на смену советской авторитарности. Лозунги новой свободной школы: демократизация, гуманизация, гуманитаризация — с Днепровым в статусе министра пришли и в политику образования.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/comments/53698.html" target="_blank"><span style="color:#B22222;"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2012/07/25/1343214025_856938_24.jpg" style="width: 100px; height: 75px;"></span></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/comments/53698.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/comments/53698.html)" target="_blank"><span style="color:#B22222;"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2012/07/25/1343214025_856938_24.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/25/1343214025_856938_24.jpg)" style="width: 100px; height: 75px;"></span></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/comments/53698.html" target="_blank"><strong>Как министр министру. Эдуард Днепров предлагает новому министру созвать Съезд учителей уже на осенних каникулах</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/comments/53698.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/comments/53698.html)" target="_blank"><strong>Как министр министру. Эдуард Днепров предлагает новому министру созвать Съезд учителей уже на осенних каникулах</strong></a></p>]*

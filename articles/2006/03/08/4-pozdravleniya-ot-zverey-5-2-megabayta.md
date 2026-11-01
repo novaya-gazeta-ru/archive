@@ -11,4 +11,4 @@ tags: ""
 
 # Поздравления от зверей (5.2 Мегабайта)
 
-[Скачать видео](https://novayagazeta.ru/storage/d/2006/03/08/8marta2006zveri.rm)
+[Скачать видео](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2006/03/08/8marta2006zveri.rm)

@@ -21,4 +21,4 @@ tags: "крым, стихия"
 
 Кроме автомобилей, стихия нанесла ущерб домам. Из зоны подтопления эвакуированы десятки людей разного возраста. На время восстановительных работ семьи расквартируют в туристическом комплексе.
 
-**link:** https://novayagazeta.ru/news/2017/08/19/134552-v-sudake-ob-yavili-rezhim-chs-iz-za-pavodkov
+**link:** [https://novayagazeta.ru/news/2017/08/19/134552-v-sudake-ob-yavili-rezhim-chs-iz-za-pavodkov](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/08/19/134552-v-sudake-ob-yavili-rezhim-chs-iz-za-pavodkov)

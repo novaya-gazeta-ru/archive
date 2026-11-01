@@ -23,6 +23,6 @@ tags: "песков, кадыров, зарема мусаева, sn"
 
 Правозащитники из «Комитета против пыток» эту информацию пока не подтверждают. Они связывают похищение Заремы Мусаевой с деятельностью ее сына Абубакара Янгулбаева, экс-сотрудника северокавказского филиала комитета. Еще один сын Мусаевой — Ибрагим Янгулбаев — накануне стал фигурантом уголовного дела о публичных призывах к террористической деятельности (ч. 2 ст. 205.2 УК).
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/28/vrag-nomer-odin
+**Читайте также:** [Враг номер один](2022/01/28/vrag-nomer-odin.md)
 
-Глава Чечни Рамзан Кадыров после произошедшего [сделал](https://novayagazeta.ru/articles/2022/01/24/glava-chechni-nazval-terroristami-chlena-spch-kaliapina-i-zhurnalistku-novoi-milashinu-news) заявление, в котором назвал «террористами» члена Совета по правам человека при президенте и главу «Комитета против пыток» Игоря Каляпина и журналистку «Новой газеты» Елену Милашину. «Новая газета» [потребовала](https://novayagazeta.ru/articles/2022/01/31/novaia-gazeta-podala-v-sk-zaiavlenie-na-kadyrova-nazvavshego-terroristami-chlena-spch-kaliapina-i-zhurnalistku-milashinu-news) возбудить уголовное дело против Кадырова.
+Глава Чечни Рамзан Кадыров после произошедшего [сделал](2022/01/24/glava-chechni-nazval-terroristami-chlena-spch-kaliapina-i-zhurnalistku-novoi-milashinu-news.md) заявление, в котором назвал «террористами» члена Совета по правам человека при президенте и главу «Комитета против пыток» Игоря Каляпина и журналистку «Новой газеты» Елену Милашину. «Новая газета» [потребовала](2022/01/31/novaia-gazeta-podala-v-sk-zaiavlenie-na-kadyrova-nazvavshego-terroristami-chlena-spch-kaliapina-i-zhurnalistku-milashinu.md) возбудить уголовное дело против Кадырова.

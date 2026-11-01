@@ -124,4 +124,4 @@ tags: "письма счастья, быков, доренко"
 
 Слыхал? Учись! Совсем другое дело.
 
-**link:** https://novayagazeta.ru/articles/2019/05/11/80488-zhizn-po-prikolu-na-razryv-aorty
+**link:** [Жизнь по приколу на разрыв аорты](2019/05/11/80488-zhizn-po-prikolu-na-razryv-aorty.md)

@@ -13,4 +13,4 @@ tags: "pdf, та самая новая газета"
 
 *Так должна была выглядеть наша печатная версия, если бы все бумажные выпуски не лишили свидетельств о регистрации СМИ — но мы запускаем новую газету в цифровом виде*
 
-https://novayagazeta.ru/issues/3246
+[https://novayagazeta.ru/issues/3246](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3246)

@@ -13,4 +13,4 @@ tags: ""
 
 \
 \
- **[АУДИО-ОБРАЩЕНИЕ МАМЫ АННЫ ПОЛИТКОВСКОЙ](https://novayagazeta.ru/storage/d/2010/10/07/politkovskaya_edited.MP3)**
+ **[АУДИО-ОБРАЩЕНИЕ МАМЫ АННЫ ПОЛИТКОВСКОЙ](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2010/10/07/politkovskaya_edited.MP3)**

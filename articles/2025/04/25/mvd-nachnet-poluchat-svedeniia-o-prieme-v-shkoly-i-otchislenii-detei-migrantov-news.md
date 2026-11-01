@@ -26,6 +26,6 @@ tags: ""
 
 Закон, который запрещает поступление детей мигрантов в российские школы без успешной сдачи тестирования по русскому языку, вступит в силу 1 апреля 2025 года.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/11/vitse-spiker-gosdumy-predlozhil-dobavit-v-prilozheniia-taksi-funktsiiu-otkaza-ot-voditelia-migranta-news
+**Читайте также:** [Вице-спикер Госдумы предложил добавить в приложения такси функцию «отказа от водителя-мигранта»](2025/04/11/vitse-spiker-gosdumy-predlozhil-dobavit-v-prilozheniia-taksi-funktsiiu-otkaza-ot-voditelia-migranta-news.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/25/chlen-spch-predlozhil-otpravliat-rossiianok-na-sobesedovanie-v-mvd-pered-brakom-s-migrantom-news
+**Читайте также:** [Член СПЧ предложил отправлять россиянок на собеседование в МВД перед браком с мигрантом](2025/01/25/chlen-spch-predlozhil-otpravliat-rossiianok-na-sobesedovanie-v-mvd-pered-brakom-s-migrantom-news.md)

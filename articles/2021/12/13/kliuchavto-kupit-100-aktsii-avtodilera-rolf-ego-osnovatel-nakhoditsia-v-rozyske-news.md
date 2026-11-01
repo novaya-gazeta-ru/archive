@@ -21,12 +21,12 @@ tags: "рольф, ключавто, розыск, kn"
 
 Стороны подписали юридически обязывающие документы, закрытие сделки ожидается в 1 квартале 2022 года.
 
-В 2019 году против основателя «Рольфа» Сергея Петрова [возбудили](https://novayagazeta.ru/news/2019/06/27/152847-sk-i-fsb-prishli-s-obyskami-k-krupneyshemu-rossiyskomu-avtodileru-rolf) уголовное дело о незаконном выводе за границу четырех миллиардов рублей. По версии следствия, бизнесмен с тремя подельниками в 2014 году вывел деньги на счета подконтрольной ему кипрской «Панабел лимитед».
+В 2019 году против основателя «Рольфа» Сергея Петрова [возбудили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/06/27/152847-sk-i-fsb-prishli-s-obyskami-k-krupneyshemu-rossiyskomu-avtodileru-rolf) уголовное дело о незаконном выводе за границу четырех миллиардов рублей. По версии следствия, бизнесмен с тремя подельниками в 2014 году вывел деньги на счета подконтрольной ему кипрской «Панабел лимитед».
 
-**Читайте также:** https://novayagazeta.ru/articles/2019/06/29/81073-sk-mozhet-priyti-i-zadat-voprosy-prezhde-chem-batalony-prisylat
+**Читайте также:** [«СК может прийти и задать вопросы, прежде чем батальоны присылать?»](2019/06/29/81073-sk-mozhet-priyti-i-zadat-voprosy-prezhde-chem-batalony-prisylat.md)
 
-Основателя автодилера [объявили](https://novayagazeta.ru/articles/2019/09/06/155043-osnovatelya-avtodilera-rolf-ob-yavili-v-mezhdunarodnyy-rozysk) в международный розыск, сам он уехал в Австрию. Спустя месяц после возбуждения уголовного дела Петрова и главу департамента развития бизнеса Анатолия Кайро [вывели](https://novayagazeta.ru/news/2019/07/03/153016-osnovatelya-rolfa-sergeya-petrova-i-top-menedzhera-kompanii-anatoliya-kayro-vyveli-iz-soveta-direktorov) из совета директоров компании. Петров заявил, что покинул совет по собственному желанию.
+Основателя автодилера [объявили](2019/09/06/155043-osnovatelya-avtodilera-rolf-ob-yavili-v-mezhdunarodnyy-rozysk.md) в международный розыск, сам он уехал в Австрию. Спустя месяц после возбуждения уголовного дела Петрова и главу департамента развития бизнеса Анатолия Кайро [вывели](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/07/03/153016-osnovatelya-rolfa-sergeya-petrova-i-top-menedzhera-kompanii-anatoliya-kayro-vyveli-iz-soveta-direktorov) из совета директоров компании. Петров заявил, что покинул совет по собственному желанию.
 
-**Читайте также:** https://novayagazeta.ru/articles/2019/11/12/82698-valyutnaya-ottepel
+**Читайте также:** [Валютная оттепель](2019/11/12/82698-valyutnaya-ottepel.md)
 
-В конце ноября этого года прокуратура [потребовала](https://novayagazeta.ru/articles/2021/11/30/prokuratura-potrebovala-vzyskat-s-avtodilera-rolf-i-ego-osnovatelia-pochti-13-mlrd-rublei-news) взыскать 12,85 млрд рублей с «Рольфа» и его основателя. На одном из счетов компании судебные приставы произвели техническую блокировку средств.
+В конце ноября этого года прокуратура [потребовала](2021/11/30/prokuratura-potrebovala-vzyskat-s-avtodilera-rolf-i-ego-osnovatelia-pochti-13-mlrd-rublei-news.md) взыскать 12,85 млрд рублей с «Рольфа» и его основателя. На одном из счетов компании судебные приставы произвели техническую блокировку средств.

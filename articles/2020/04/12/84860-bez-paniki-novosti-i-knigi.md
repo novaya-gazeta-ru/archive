@@ -31,4 +31,4 @@ tags: "книги"
 
 P.S. Сервис MyBook по промокоду STAYHOME дарит сидящим в самоизоляции месяц стандартной подписки — 150 000 книг.  https://mybook.ru/l/stayhome/
 
-**link:** https://novayagazeta.ru/articles/2020/04/11/84848-knizhnaya-koyka-den-22-berlin
+**link:** [Книжная койка: день 22, Берлин](2020/04/11/84848-knizhnaya-koyka-den-22-berlin.md)

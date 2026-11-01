@@ -23,9 +23,9 @@ tags: "бродский, кризис, ссср, суды, трудовое за
 
 «Это была безотказная и мобильная сила, — восхищенно писал Байбаков. — Люди жили в наскоро сделанных бараках и утепленных палатках, в землянках, работали в любую погоду, в снег и дождь, мороз и жару, по двенадцать часов в сутки».
 
-**link:** https://novayagazeta.ru/politics/73098.html
+**link:** [https://novayagazeta.ru/politics/73098.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/73098.html)
 
-**link:** https://novayagazeta.ru/politics/73098.html
+**link:** [https://novayagazeta.ru/politics/73098.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/73098.html)
 
 Вот осуществленная мечта руководителей нашей экономики.
 

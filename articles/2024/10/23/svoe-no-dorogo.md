@@ -35,7 +35,7 @@ tags: "продовольствие, санкции, геополитика, м�
 
 Либо… тут другое…
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/12/chtob-bylo-chem-sluzhivykh-liudei-pozhalovat
+**Читайте также:** [«Чтоб было, чем служивых людей пожаловать»](2024/10/12/chtob-bylo-chem-sluzhivykh-liudei-pozhalovat.md)
 
 ## Неоднозначные оценки
 

@@ -15,9 +15,9 @@ tags: "морские животные, тихий океан, отравлен�
 
 > **что узнала «Новая»**
 >
-> ### [«Конечно, это не нефтепродукты». Камчатская катастрофа: что достоверно известно «Новой»](https://novayagazeta.ru/articles/2020/10/03/87356-konechno-eto-ne-nefteprodukty)
+> ### [«Конечно, это не нефтепродукты». Камчатская катастрофа: что достоверно известно «Новой»](2020/10/03/87356-konechno-eto-ne-nefteprodukty.md)
 >
-> ### [Эксперт: характер катастрофы на Камчатке говорит о связи с военными. Минобороны отвергает](https://novayagazeta.ru/news/2020/10/03/164664-ekspert-harakter-katastrofy-na-kamchatke-govorit-o-svyazi-s-voennymi)
+> ### [Эксперт: характер катастрофы на Камчатке говорит о связи с военными. Минобороны отвергает](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/03/164664-ekspert-harakter-katastrofy-na-kamchatke-govorit-o-svyazi-s-voennymi)
 
 ![](_assets/f5/f50f530e0bb9222a759eccd3deea094a.webp)
 

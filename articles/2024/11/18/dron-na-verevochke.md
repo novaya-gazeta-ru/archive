@@ -55,4 +55,4 @@ tags: "дроны, сво, FPV-дроны"
 
 *Работа расчета FPV-дронов. Фото: Александр Река / ТАСС*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/04/bespilotnaia-ugroza
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/04/bespilotnaia-ugroza](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/04/bespilotnaia-ugroza)

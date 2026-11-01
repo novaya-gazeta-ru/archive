@@ -35,7 +35,7 @@ tags: ""
 
 > Пошлость напориста, посконна, заурядна и низкопробна, при этом одержима славой и деньгами, как облезшая пиковая дама. Надень парик, живи на яркой стороне!
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/03/06/itak-ona-zvalas-tatiana-dmitrievna
+**Читайте также:** [https://novayagazeta.ru/articles/2024/03/06/itak-ona-zvalas-tatiana-dmitrievna](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/03/06/itak-ona-zvalas-tatiana-dmitrievna)
 
 У Набокова есть лекция под названием «Пошляки и пошлость» («Poshliaki and poshlost»). Не только про неприкрытую бездарность, но главным образом про «ложную, поддельную значительность, поддельную красоту, поддельный ум, поддельную привлекательность».
 
@@ -61,4 +61,4 @@ tags: ""
 
 На встрече со студентами МШК (Московская школа кино) я поинтересовалась их отношением к этому конфликту. Мнения были разные, но в итоге выступающие сошлись на том, что творческая несостоятельность переваривается в яд ненависти, а корни разногласий — в плохо скрываемой зависти гению.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/03/19/onegin-dobryi-moi-pirat
+**Читайте также:** [https://novayagazeta.ru/articles/2024/03/19/onegin-dobryi-moi-pirat](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/03/19/onegin-dobryi-moi-pirat)

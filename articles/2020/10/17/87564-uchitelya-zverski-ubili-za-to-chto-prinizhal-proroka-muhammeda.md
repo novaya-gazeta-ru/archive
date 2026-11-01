@@ -58,7 +58,7 @@ tags: "макрон, реакция, школа, чеченцы, charlie hebdo, 
 
 Этот отчаянно смелый по нынешним временам акт сотрудников Charlie Hebdo *(чей новый адрес держится в секрете)* был посвящен начавшемуся судебному процессу над предполагаемыми сообщниками террористов, убивших их коллег по редакции 7 января 2015-го.
 
-**novaya:** https://novayagazeta.ru/articles/2020/09/03/86940-prizrak-frantsuzskogo-dzhihada
+**novaya:** [Призрак французского джихада](2020/09/03/86940-prizrak-frantsuzskogo-dzhihada.md)
 
 Но показ карикатур в классе тихого парижского пригорода сначала обернулся мелким скандалом — прежде чем стать драмой национального масштаба.
 
@@ -80,7 +80,7 @@ tags: "макрон, реакция, школа, чеченцы, charlie hebdo, 
 
 Ему, как рассказал Le Parisien представитель родительского комитета, стали поступать угрозы через соцсети.
 
-**novaya:** https://novayagazeta.ru/articles/2020/01/07/83363-5-let-teraktu-v-redaktsii-charlie-hebdo-pomolchim-ili-zatknemsya
+**novaya:** [https://novayagazeta.ru/articles/2020/01/07/83363-5-let-teraktu-v-redaktsii-charlie-hebdo-pomolchim-ili-zatknemsya](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/01/07/83363-5-let-teraktu-v-redaktsii-charlie-hebdo-pomolchim-ili-zatknemsya)
 
 # Какие нужно извлечь уроки
 
@@ -136,7 +136,7 @@ tags: "макрон, реакция, школа, чеченцы, charlie hebdo, 
 
 Наши полицейские и жандармы, все наши сотрудники правопорядка, наши силы разведки и, помимо этого, все, на ком держится Республика (…), мы все — мы поставим блок… Обскурантизм и насилие, которое его сопровождает, не победят. Они нас не раз-де-лят! (…) И я призываю всех наших сограждан сейчас поставить блок, быть едиными…» Прощаясь, президент пообещал «решительные действия»: «Вы можете рассчитывать на мою решимость. Мою и правительства».
 
-**novaya:** https://novayagazeta.ru/articles/2015/04/22/63910-sharb-redaktor-charlie-hebdo-171-poslanie-moshennikam-ot-islamofobii-kotorye-igrayut-na-ruku-rasistam-187
+**novaya:** [Шарб (редактор Charlie Hebdo): «Послание мошенникам от исламофобии, которые играют на руку расистам»](2015/04/22/63910-sharb-redaktor-charlie-hebdo-171-poslanie-moshennikam-ot-islamofobii-kotorye-igrayut-na-ruku-rasistam-187.md)
 
 # Что такое единение и солидарность?
 

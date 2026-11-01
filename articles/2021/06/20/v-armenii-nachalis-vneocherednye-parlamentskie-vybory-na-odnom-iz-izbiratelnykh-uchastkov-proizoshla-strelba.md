@@ -25,4 +25,4 @@ tags: "армения, парламент, выборы, sf"
 
 Сам Кочарян [заявил](https://tass.ru/mezhdunarodnaya-panorama/11698941), что уже «проголосовал за достойный мир и экономическое развитие». Также в голосовании приняли участие и.о. премьер-министра Армении, лидер партии «Гражданский договор» [Никол Пашинян](https://tass.ru/mezhdunarodnaya-panorama/11698969) и президент страны [Армен Саркисян](https://tass.ru/mezhdunarodnaya-panorama/11698671).
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/30/nikol-neustranimyi
+**Читайте также:** [Никол Неустранимый](2021/03/30/nikol-neustranimyi.md)

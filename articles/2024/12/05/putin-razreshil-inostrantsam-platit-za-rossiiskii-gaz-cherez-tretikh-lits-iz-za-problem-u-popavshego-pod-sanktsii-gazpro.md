@@ -25,4 +25,4 @@ tags: ""
 
 5 декабря курс доллара на внебиржевых торгах опустился ниже 101 рубля впервые за две недели.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/21/ssha-vveli-sanktsii-protiv-gazprombanka-dom-rf-i-rukovodstva-tsb-i-prigrozili-sanktsiiami-za-podkliuchenie-k-rossiiskomu-swift-news
+**Читайте также:** [США ввели санкции против Газпромбанка, «ДОМ РФ» и руководства ЦБ. И пригрозили санкциями за подключение к «российскому SWIFT»](2024/11/21/ssha-vveli-sanktsii-protiv-gazprombanka-dom-rf-i-rukovodstva-tsb-i-prigrozili-sanktsiiami-za-podkliuchenie-k-rossiiskomu.md)

@@ -19,7 +19,7 @@ tags: "вакцина, москва, собянин, sn"
 
 В конце июня Минздрав России представил свои рекомендации по ревакцинации. Как объяснил глава министерства Михаил Мурашко, в период подъема заболеваемости это нужно делать раз в полгода, в спокойное время — раз в год. «Спутник Лайт» — первый компонент «Спутника V», векторный препарат на основе аденовируса человека. По данным РФПИ, его эффективность [составляет](https://tass.ru/obschestvo/11318009) 79,4%.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/12/05/88247-chem-kolotsya-budem-rossiya-proigryvaet-v-voyne-vaktsin-ot-koronavirusa-ne-potomu-chto-nasha-huzhe-prosto-delat-ee-negde-i-nekomu
+**Читайте также:** [https://novayagazeta.ru/articles/2020/12/05/88247-chem-kolotsya-budem-rossiya-proigryvaet-v-voyne-vaktsin-ot-koronavirusa-ne-potomu-chto-nasha-huzhe-prosto-delat-ee-negde-i-nekomu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/12/05/88247-chem-kolotsya-budem-rossiya-proigryvaet-v-voyne-vaktsin-ot-koronavirusa-ne-potomu-chto-nasha-huzhe-prosto-delat-ee-negde-i-nekomu)
 
 На фоне сложной эпидемиологической обстановки в середине июня в столице и дюжине других российских регионов власти ввели обязательную вакцинацию для чиновников, работников сферы услуг и сотрудников бюджетных учреждений.
 

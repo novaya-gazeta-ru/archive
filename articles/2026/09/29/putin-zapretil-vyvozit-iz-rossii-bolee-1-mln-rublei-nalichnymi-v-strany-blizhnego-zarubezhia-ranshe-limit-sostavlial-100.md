@@ -23,8 +23,8 @@ tags: "наличные, запреты, вывоз"
 
 -
 
-Ранее, с 1 апреля 2026 года, россиянам [запретили](https://novayagazeta.ru/articles/2026/03/26/rossiianam-zapretili-vyvozit-v-eaes-nalichnye-rubli-na-summu-svyshe-100-000-i-zolotye-slitki-massoi-bolee-100-gramm-news) вывозить наличные рубли в страны ЕАЭС на сумму, превышающую эквивалент $100 тысяч. Новый указ резко снижает этот порог.
+Ранее, с 1 апреля 2026 года, россиянам [запретили](2026/03/26/rossiianam-zapretili-vyvozit-v-eaes-nalichnye-rubli-na-summu-svyshe-100-000-i-zolotye-slitki-massoi-bolee-100-gramm-news.md) вывозить наличные рубли в страны ЕАЭС на сумму, превышающую эквивалент $100 тысяч. Новый указ резко снижает этот порог.
 
 -
 
-После начала военных действий в Украине российские власти также [запретили](https://novayagazeta.ru/articles/2022/03/01/putin-zapretil-so-2-marta-vyvozit-iz-rf-inostrannuiu-nalichnuiu-valiutu-v-summe-bolee-10-tysiach-news) вывозить из страны наличную иностранную валюту на сумму более $10 тысяч в эквиваленте. Ограничение действует с марта 2022 года.
+После начала военных действий в Украине российские власти также [запретили](2022/03/01/putin-zapretil-so-2-marta-vyvozit-iz-rf-inostrannuiu-nalichnuiu-valiutu-v-summe-bolee-10-tysiach-news.md) вывозить из страны наличную иностранную валюту на сумму более $10 тысяч в эквиваленте. Ограничение действует с марта 2022 года.

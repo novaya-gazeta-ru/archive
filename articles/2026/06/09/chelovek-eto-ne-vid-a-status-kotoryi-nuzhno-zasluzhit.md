@@ -51,4 +51,4 @@ tags: "цти фабрика, современное искусство, апо�
 
 **Вероника Перелевченко**
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/05/zadacha-s-neizvestnymi
+**Читайте также:** [Задача с Неизвестными](2026/06/05/zadacha-s-neizvestnymi.md)

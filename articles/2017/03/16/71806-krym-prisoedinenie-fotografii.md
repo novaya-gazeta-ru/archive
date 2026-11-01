@@ -49,7 +49,7 @@ tags: "крым, присоединение крыма, 2014, российска
 
 Офицер военно-морских сил Украины собирает свои личные вещи в захваченном штабе. 19 марта 2014 года.
 
-**link:** https://novayagazeta.ru/articles/2017/03/17/71820-fotografii-yuriya-kozyreva
+**link:** [Вернувшийся в родную гавань](2017/03/17/71820-fotografii-yuriya-kozyreva.md)
 
 ![](_assets/8a/8af68cb084ec23ee1b00fc7fe473384a.webp)
 

@@ -19,6 +19,6 @@ tags: ""
 
 Обвинение просило приговорить Варламова к 8 годам колонии и штрафу в 99 млн рублей. Блогер не живет в России с начала военных действий в Украине в 2022 году, его объявили в розыск.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/14/pisatelia-borisa-akunina-prigovorili-k-14-godam-lisheniia-svobody-i-shtrafu-v-600-tysiach-rublei-news
+**Читайте также:** [Писателя Бориса Акунина* приговорили к 14 годам лишения свободы и штрафу в 600 тысяч рублей](2025/07/14/pisatelia-borisa-akunina-prigovorili-k-14-godam-lisheniia-svobody-i-shtrafu-v-600-tysiach-rublei-news.md)
 
 #### * Минюст считает «иноагентом».

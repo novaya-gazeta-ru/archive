@@ -62,4 +62,4 @@ tags: ""
 
 **Андрей Романов**
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/01/23/pust-tantsuiut-lebedi
+**Читайте также:** [Пусть танцуют лебеди](2026/01/23/pust-tantsuiut-lebedi.md)

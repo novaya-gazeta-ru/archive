@@ -13,4 +13,4 @@ tags: ""
 
 *Кто и как создавал все условия для того, чтобы главные виновники ушли от наказания. Раскрываем механизм*
 
-https://novayagazeta.ru/articles/2021/10/06/zakazchik-izvesten-emu-prosto-vydali-indulgentsiiu
+[Заказчик известен. Ему просто выдали индульгенцию](2021/10/06/zakazchik-izvesten-emu-prosto-vydali-indulgentsiiu.md)

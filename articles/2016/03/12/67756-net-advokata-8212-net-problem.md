@@ -39,9 +39,9 @@ tags: "адвокаты, похищение, сбу, убийство, укра�
 
 Адвокатам Александрова и Ерофеева (его интересы представляет Оксана Соколовская) действительно угрожали. Из интервью Грабовского в перерыве судебного процесса: «Ваша коллега Соколовская заявляла о преследованиях и обысках, у вас что-то подобное есть? — Меня тоже много часов допрашивали в СБУ по разным вопросам. В том числе и по этому делу. Дело Вышинского живет!».
 
-**link:** https://novayagazeta.ru/society/70747.html
+**link:** [https://novayagazeta.ru/society/70747.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70747.html)
 
-**link:** https://novayagazeta.ru/society/70747.html
+**link:** [https://novayagazeta.ru/society/70747.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70747.html)
 
 В беседе со мной Грабовский подробно рассказал, как нарастало давление на них:
 

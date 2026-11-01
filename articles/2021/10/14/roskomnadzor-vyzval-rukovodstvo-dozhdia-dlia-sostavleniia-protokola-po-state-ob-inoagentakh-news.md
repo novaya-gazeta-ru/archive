@@ -15,8 +15,8 @@ tags: "дождь, роскомнадзор, иноагенты, em"
 
 Ведомство нашло на сайте «Дождя» нарушение ч. 9 ст. 4 закона «О средствах массовой информации», в которой речь идет о необходимости маркировки информации, распространяемой «иноагентами». Протокол Роскомнадзор планирует составить из-за публикации на сайте канала, которая вышла 29 июня. Где именно в ней нашли нарушение, в Роскомнадзоре не уточнили. Штраф за отсутствие маркировки «иноагента» для юрлиц составляет от 40 до 50 тысяч рублей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/11/inoagenty-ne-vstanut-na-put-ispravleniia
+**Читайте также:** [«Иноагенты» не встанут на путь исправления](2021/10/11/inoagenty-ne-vstanut-na-put-ispravleniia.md)
 
-На этой неделе протоколы об отсутствии маркировки составили на правозащитника [Льва Пономарева](https://novayagazeta.ru/articles/2021/10/12/na-lva-ponomareva-sostavili-protokol-po-state-ob-inoagentakh-sredi-narushenii-repost-pozdravlenii-muratova-s-nobelem-news)* и якутского активиста [Степана Петрова](https://novayagazeta.ru/articles/2021/10/12/na-aktivista-iz-iakutska-sostavili-pervyi-v-rossii-protokol-po-state-ob-inoagentakh-news)*. До этого такие протоколы на физлиц, внесенных в реестр СМИ-«иноагентов», не составлялись.
+На этой неделе протоколы об отсутствии маркировки составили на правозащитника [Льва Пономарева](2021/10/12/na-lva-ponomareva-sostavili-protokol-po-state-ob-inoagentakh-sredi-narushenii-repost-pozdravlenii-muratova-s-nobelem-new.md)* и якутского активиста [Степана Петрова](2021/10/12/na-aktivista-iz-iakutska-sostavili-pervyi-v-rossii-protokol-po-state-ob-inoagentakh-news.md)*. До этого такие протоколы на физлиц, внесенных в реестр СМИ-«иноагентов», не составлялись.
 
 #### **внесены Минюстом в реестр СМИ, выполняющих функцию «иноагента»*

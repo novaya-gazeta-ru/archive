@@ -25,4 +25,4 @@ tags: ""
 
 Третий раунд переговоров готовится. Как и первые два, он тоже должен пройти в Стамбуле.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/04/tramp-ne-dostig-voobshche-nikakogo-progressa-po-ukraine-v-razgovore-s-putinym-segodnia-razgovor-s-zelenskim-news
+**Читайте также:** [Трамп «не достиг вообще никакого прогресса» по Украине в разговоре с Путиным, сегодня — разговор с Зеленским](2025/07/04/tramp-ne-dostig-voobshche-nikakogo-progressa-po-ukraine-v-razgovore-s-putinym-segodnia-razgovor-s-zelenskim-news.md)

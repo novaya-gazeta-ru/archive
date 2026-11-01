@@ -59,4 +59,4 @@ tags: "здравоохранение, вентиляция легких, ИВЛ
 
 Врачи плохо знают, что чувствует пациент на ИВЛ. Это не гипс и не аппендицит. Чтобы все понять, надо через это пройти самому.
 
-**link:** https://novayagazeta.ru/articles/2020/03/22/84447-net-rashodnikov-sredstv-zaschity-antiseptikov-respiratorov-personala
+**link:** [«Нет расходников, средств защиты, антисептиков, респираторов, персонала»](2020/03/22/84447-net-rashodnikov-sredstv-zaschity-antiseptikov-respiratorov-personala.md)

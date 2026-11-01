@@ -17,6 +17,6 @@ tags: ""
 
 **Произведено «Но.Медиа из России»:** https://youtu.be/6jTTXzO8HvM
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/05/04/v-tuapse-teper-nuzhen-desant-uchenykh
+**Читайте также:** [«В Туапсе теперь нужен десант ученых»](2026/05/04/v-tuapse-teper-nuzhen-desant-uchenykh.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/04/29/ulybka-mertvogo-delfina
+**Читайте также:** [Улыбка мертвого дельфина](2026/04/29/ulybka-mertvogo-delfina.md)

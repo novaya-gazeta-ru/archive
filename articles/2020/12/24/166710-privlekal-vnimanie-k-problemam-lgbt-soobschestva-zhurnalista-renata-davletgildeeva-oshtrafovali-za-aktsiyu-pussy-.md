@@ -19,4 +19,4 @@ tags: "штрафы, pussy riot, nt"
 
 После этого полиция задержала более 10 человек. На них составили протоколы о нарушении установленного порядка проведения акции (ст. 20.2 КоАП), некоторые участники акции получили до 30 суток ареста по этой статье.
 
-**link:** https://novayagazeta.ru/articles/2020/10/11/87474-ot-peterburgskih-shkolnits-do-pussy-riot
+**link:** [От петербургских школьниц до Pussy Riot](2020/10/11/87474-ot-peterburgskih-shkolnits-do-pussy-riot.md)

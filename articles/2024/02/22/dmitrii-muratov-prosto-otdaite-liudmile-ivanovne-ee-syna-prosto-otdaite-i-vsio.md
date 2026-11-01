@@ -21,6 +21,6 @@ tags: "навальный"
 
 Давайте просто поклонимся и отдадим тело Людмиле Ивановне и семье. Без всяких условий.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/02/22/mama-alekseia-navalnogo-mne-pokazali-telo-no-teper-staviat-usloviia-gde-i-kak-dolzhen-byt-pokhoronen-moi-syn-news
+**Читайте также:** [https://novayagazeta.ru/articles/2024/02/22/mama-alekseia-navalnogo-mne-pokazali-telo-no-teper-staviat-usloviia-gde-i-kak-dolzhen-byt-pokhoronen-moi-syn-news](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/02/22/mama-alekseia-navalnogo-mne-pokazali-telo-no-teper-staviat-usloviia-gde-i-kak-dolzhen-byt-pokhoronen-moi-syn-news)
 
 #### * Минюст включил в реестр «иноагентов».

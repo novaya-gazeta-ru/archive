@@ -78,6 +78,6 @@ tags: "майдан, революция, украина, франция"
 
 **«Война ответов» продолжилась 5 февраля: Морейра [написал](http://teleobs.nouvelobs.com/actualites/20160204.OBS4059/ukraine-les-masques-de-la-revolution-reponse-de-paul-moreira.html) критику на критику 18 журналистов, знающих Украину. Он объясняет, что решил уделить больше внимания тем вещам, о которых не говорят. «Мне ставят в упрек, — пишет он, — процентное соотношение фактов. Как будто они не знают, что за 52 минуты нельзя сказать обо всем».**
 
-**link:** https://novayagazeta.ru/politics/70520.html
+**link:** [https://novayagazeta.ru/politics/70520.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/70520.html)
 
 **link:** https://s

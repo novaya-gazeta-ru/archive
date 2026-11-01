@@ -17,6 +17,6 @@ tags: "хабаровский край, коронавирус, em"
 
 За последние сутки в Хабаровском крае, по [данным](https://стопкоронавирус.рф) федерального оперштаба, выявили 281 новый случай заражения коронавирусом, по всей стране — 23 218.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/01/covid-19-taina-rozhdeniia
+**Читайте также:** [COVID-19. Тайна рождения](2021/07/01/covid-19-taina-rozhdeniia.md)
 
 Ограничения на проведение массовых мероприятий действуют и в ряде других регионов из-за ситуации с коронавирусом. В частности, сегодня массовые мероприятия численностью более 50 человек [запретили](https://www.altairegion22.ru/region_news/operativnyi-shtab-po-profilaktike-rasprostraneniya-koronavirusnoi-infektsii-v-altaiskom-krae-rassmotrel-novye-ogranichitelnye-mery_929362.html) в Алтайском крае.

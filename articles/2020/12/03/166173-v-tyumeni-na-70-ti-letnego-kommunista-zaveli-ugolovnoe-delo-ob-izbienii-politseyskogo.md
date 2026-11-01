@@ -25,4 +25,4 @@ tags: "суды, мвд, тюмень,   ng"
 
 Коммунист обратился в суд и прокуратуру с жалобой на незаконное возбуждение уголовного дела. Ответ от прокуратуры в 10-дневный срок он [не получил](https://leninsky--tum.sudrf.ru/modules.php?name=sud_delo&srv_num=1&name_op=case&case_id=106409265&case_uid=9c9f1652-606a-48a1-afd3-1538cda0f73d&delo_id=1610001), судебное заседание по жалобе состоится 7 декабря.
 
-7 ноября полиция [разогнала](https://novayagazeta.ru/news/2020/11/07/165506-v-tyumeni-politsiya-zaderzhala-uchastnikov-shestviya-kommunistov-70-letnego-aktivista-dostavili-v-sk) участников шествия, большинство из которых пенсионеры. На Черепанова и секретаря обкома Сергея Целых составили протоколы за организацию и участие в несанкционированном шествии (ст. 20.2 КоАП).
+7 ноября полиция [разогнала](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/07/165506-v-tyumeni-politsiya-zaderzhala-uchastnikov-shestviya-kommunistov-70-letnego-aktivista-dostavili-v-sk) участников шествия, большинство из которых пенсионеры. На Черепанова и секретаря обкома Сергея Целых составили протоколы за организацию и участие в несанкционированном шествии (ст. 20.2 КоАП).

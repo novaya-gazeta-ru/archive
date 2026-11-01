@@ -19,4 +19,4 @@ tags: "em , турция, коронавирус, туризм, россия, р
 
 Минтуризма Турции уточнило, что сертификат о вакцинации должен быть на английском языке. Страна принимает, в частности, документ, распечатанный с сайта Госуслуг.
 
-Россия возобновила авиасообщение с Турцией, приостановленное из-за ситуации с коронавирусом, 22 июня. После информации об этом стоимость путевок на отдых в эту страну [выросла](https://novayagazeta.ru/articles/2021/06/22/turoperatory-soobshchili-o-rezkom-roste-tsen-na-otdykh-v-turtsii-posle-soobshcheniia-o-vozobnovlenii-aviasoobshcheniia-s-rossiei) на 20-80%.
+Россия возобновила авиасообщение с Турцией, приостановленное из-за ситуации с коронавирусом, 22 июня. После информации об этом стоимость путевок на отдых в эту страну [выросла](2021/06/22/turoperatory-soobshchili-o-rezkom-roste-tsen-na-otdykh-v-turtsii-posle-soobshcheniia-o-vozobnovlenii-aviasoobshcheniia-s.md) на 20-80%.

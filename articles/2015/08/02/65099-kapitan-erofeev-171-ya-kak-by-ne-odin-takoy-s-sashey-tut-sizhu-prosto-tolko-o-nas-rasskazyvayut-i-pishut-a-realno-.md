@@ -55,9 +55,9 @@ _Голос надзирателя, докладывающего кому-то �
 
 — Дома как встретили тебя после этого глаза? Спасибо, наверное, не сказали, да? <…>
 
-**link:** https://novayagazeta.ru/society/68871.html
+**link:** [https://novayagazeta.ru/society/68871.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/68871.html)
 
-**link:** https://novayagazeta.ru/society/68871.html
+**link:** [https://novayagazeta.ru/society/68871.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/68871.html)
 
 **— Женя, ты слышал эту историю, что тебя якобы обменяли и вывезли в Россию?**
 

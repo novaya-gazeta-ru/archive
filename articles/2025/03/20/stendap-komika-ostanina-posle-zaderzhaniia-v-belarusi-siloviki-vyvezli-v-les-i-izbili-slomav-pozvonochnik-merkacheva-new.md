@@ -25,12 +25,12 @@ tags: ""
 
 > Однако это Останин не придумал. «Единоросы» в Мурманской области [действительно дарили](https://vk.com/club192159337?w=wall-192159337_1072) матерям погибших военных мясорубки к 8 марта. А после шумихи в СМИ потом [публиковали](https://vk.com/wall-40744271_22426) видео, в котором мама одного из погибших говорит, что сама просила подарить ей мясорубку и довольна подарком.
 
-Кроме того, судя по фотографиям силовиков, Останина еще и обрили при задержании: на одних он еще со своими дредами, на более поздних — [уже без](https://novayagazeta.ru/articles/2025/03/19/komika-artemiia-ostanina-otpravili-v-sizo-za-shutku-pro-muzhchinu-bez-nog-on-zaiavil-chto-ego-izbili-pri-zaderzhanii-news).
+Кроме того, судя по фотографиям силовиков, Останина еще и обрили при задержании: на одних он еще со своими дредами, на более поздних — [уже без](2025/03/19/komika-artemiia-ostanina-otpravili-v-sizo-za-shutku-pro-muzhchinu-bez-nog-on-zaiavil-chto-ego-izbili-pri-zaderzhanii-new.md).
 
-Останина задержали в Беларуси при попытке покинуть страну. На заседании суда по мере пресечения его [арестовали и поместили в СИЗО](https://novayagazeta.ru/articles/2025/03/19/komika-artemiia-ostanina-otpravili-v-sizo-za-shutku-pro-muzhchinu-bez-nog-on-zaiavil-chto-ego-izbili-pri-zaderzhanii-news).
+Останина задержали в Беларуси при попытке покинуть страну. На заседании суда по мере пресечения его [арестовали и поместили в СИЗО](2025/03/19/komika-artemiia-ostanina-otpravili-v-sizo-za-shutku-pro-muzhchinu-bez-nog-on-zaiavil-chto-ego-izbili-pri-zaderzhanii-new.md).
 
 В отношении Останина ведется уголовное дело по статье 282 п. в ч. 2 — о разжигании ненависти к участникам боевых действий в Украине — после жалобы на номер стендапа, в котором Останин «шутит» про безногого инвалида.
 
 Доносчики утверждают, что Останин глумится над ветеранами СВО. Останин это категорически отвергает, в выступлении он не говорил ни слова про спецоперацию в Украине. Стендапер утверждает, что смысл его слов исказили, он извинился на камеру при даче показаний следователю.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/03/25/nasilie-i-bessilie
+**Читайте также:** [https://novayagazeta.ru/articles/2024/03/25/nasilie-i-bessilie](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/03/25/nasilie-i-bessilie)

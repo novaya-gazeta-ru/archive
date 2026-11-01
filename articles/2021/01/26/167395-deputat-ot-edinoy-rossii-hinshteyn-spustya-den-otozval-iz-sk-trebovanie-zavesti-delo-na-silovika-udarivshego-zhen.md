@@ -17,8 +17,8 @@ tags: "избиение, sf, уголовное дело, силовики, пе
 
 Два дня назад Хинштейн [рассказал](https://twitter.com/Khinshtein/status/1353305035233521669), что уже принято решение его уволить. «Юноша, которого не возмущает, а восхищает, как необоснованно бьют женщину, годящуюся ему в матери, не может по определению служить в ВНГ», — написал он.
 
-23 января силовик [ударил](https://novayagazeta.ru/news/2021/01/25/167370-selyy-den-prosili-poluchivshaya-udar-v-zhivot-peterburzhenka-rasskazala-chto-ee-ugovarivali-prostit-silovika) петербурженку Маргариту Юдину, когда она подошла спросить, за что задержали одного из протестующих. Женщина попала в реанимацию, на следующий день ее выписали из НИИ скорой помощи имени Джанелидзе. Силовик, когда извинялся перед женщиной, объяснил свои действия тем, что «за пять минут до этого залили газом, запотело забрало».
+23 января силовик [ударил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2021/01/25/167370-selyy-den-prosili-poluchivshaya-udar-v-zhivot-peterburzhenka-rasskazala-chto-ee-ugovarivali-prostit-silovika) петербурженку Маргариту Юдину, когда она подошла спросить, за что задержали одного из протестующих. Женщина попала в реанимацию, на следующий день ее выписали из НИИ скорой помощи имени Джанелидзе. Силовик, когда извинялся перед женщиной, объяснил свои действия тем, что «за пять минут до этого залили газом, запотело забрало».
 
-**link:** https://novayagazeta.ru/articles/2021/01/26/88880-kogda-ya-soglasilas-na-vypisku-zavotdeleniem-byl-schastliv
+**link:** [«Любая женщина могла получить сапогом в живот»](2021/01/26/88880-kogda-ya-soglasilas-na-vypisku-zavotdeleniem-byl-schastliv.md)
 
-Возбудить дело из-за произошедшего уже [потребовали](https://novayagazeta.ru/news/2021/01/25/167359-peterburgskiy-deputat-potreboval-vozbudit-delo-protiv-silovika-udarivshego-zhenschinu-v-zhivot-23-yanvarya), в частности, петербургский депутат Борис Вишневский и московский мундеп Денис Шендерович.
+Возбудить дело из-за произошедшего уже [потребовали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2021/01/25/167359-peterburgskiy-deputat-potreboval-vozbudit-delo-protiv-silovika-udarivshego-zhenschinu-v-zhivot-23-yanvarya), в частности, петербургский депутат Борис Вишневский и московский мундеп Денис Шендерович.

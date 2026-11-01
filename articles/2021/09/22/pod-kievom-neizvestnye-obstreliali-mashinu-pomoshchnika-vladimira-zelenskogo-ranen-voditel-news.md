@@ -23,4 +23,4 @@ tags: "зеленский, украина, покушение, стрельба,
 
 Сергей Шефир работает первым помощником президента Украины Владимира Зеленского с 21 мая 2019 года.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/20/vladimir-zelenskii-ukraina-zhivet-v-present-continuous-mir-tozhe
+**Читайте также:** [Владимир Зеленский: «Украина живет в present continuous. Мир — тоже»](2021/08/20/vladimir-zelenskii-ukraina-zhivet-v-present-continuous-mir-tozhe.md)

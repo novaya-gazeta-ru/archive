@@ -15,14 +15,14 @@ tags: "дворцовое дело, навальный, акции, колони
 
 Суд проходил по видеосвязи. Сайд-Мухаммад, по словам его тети, сказал, что «другого приговора и не ожидал».
 
-Студента [приговорили](https://novayagazeta.ru/articles/2021/08/19/sud-prigovoril-studenta-mgu-dzhumaeva-k-piati-godam-kolonii-po-delu-o-drake-s-rosgvardiei-na-zimnikh-protestakh-news) к пяти годам колонии общего режима в августе 2021 года. Прокуратура запрашивала для него шесть лет колонии общего режима.
+Студента [приговорили](2021/08/19/sud-prigovoril-studenta-mgu-dzhumaeva-k-piati-godam-kolonii-po-delu-o-drake-s-rosgvardiei-na-zimnikh-protestakh-news.md) к пяти годам колонии общего режима в августе 2021 года. Прокуратура запрашивала для него шесть лет колонии общего режима.
 
-Джумаеву вменяются три эпизода применения насилия к силовикам (ч. 1 ст. 318 УК). На [видео](https://novayagazeta.ru/news/2021/01/28/167451-interfaks-siloviki-zaderzhali-chechentsa-podravshegosya-s-sotrudnikami-omona-na-pushkinskoy-ploschadi) с митинга, распространенном в соцсетях, видно, как студент без оружия вступает в схватку с несколькими бойцами ОМОНа на Пушкинской площади в Москве.
+Джумаеву вменяются три эпизода применения насилия к силовикам (ч. 1 ст. 318 УК). На [видео](https://web.archive.org/web/*/https://novayagazeta.ru/news/2021/01/28/167451-interfaks-siloviki-zaderzhali-chechentsa-podravshegosya-s-sotrudnikami-omona-na-pushkinskoy-ploschadi) с митинга, распространенном в соцсетях, видно, как студент без оружия вступает в схватку с несколькими бойцами ОМОНа на Пушкинской площади в Москве.
 
-Молодого человека [задержали](https://novayagazeta.ru/articles/2021/08/19/sud-prigovoril-studenta-mgu-dzhumaeva-k-piati-godam-kolonii-po-delu-o-drake-s-rosgvardiei-na-zimnikh-protestakh-news)через пять дней в лесах Псковской области. По информации силовых ведомств, он якобы пытался пересечь границу с одной из стран Балтии.
+Молодого человека [задержали](2021/08/19/sud-prigovoril-studenta-mgu-dzhumaeva-k-piati-godam-kolonii-po-delu-o-drake-s-rosgvardiei-na-zimnikh-protestakh-news.md)через пять дней в лесах Псковской области. По информации силовых ведомств, он якобы пытался пересечь границу с одной из стран Балтии.
 
 Депутат Госдумы Адам Делимханов заявил, что молодой человек — уроженец Чечни. Депутат предложил ему помощь в урегулировании проблем с законом в обмен на отречение от оппозиции. О дальнейших контактах Джумаева с властями Чечни ничего не сообщалось. Глава Чечни Рамзан Кадыров [назвал](https://www.youtube.com/watch?v=KM8pD3813sE&ab_channel=%D0%A0%D0%91%D0%9A%D0%A0%D0%91%D0%9A%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%BE) студента «трусливым шакалом».
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/17/god-navalnogo
+**Читайте также:** [https://novayagazeta.ru/articles/2022/01/17/god-navalnogo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/01/17/god-navalnogo)
 
 В российских городах 23 и 31 января 2021 года, а также 2 февраля и 21 апреля прошли митинги в поддержку политика Алексея Навального, в ходе которых были задержаны тысячи человек. После митингов правоохранители возбудили десятки уголовных дел о нападении на представителей власти. Некоторым фигуранты получили реальные сроки.

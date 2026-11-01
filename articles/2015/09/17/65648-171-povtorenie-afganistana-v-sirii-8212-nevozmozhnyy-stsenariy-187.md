@@ -20,7 +20,7 @@ tags: "исламское государство, сирия, терроризм
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/09/17/1442509532_359096_7.jpg" style="width: 228px; height: 228px; float: right;"><sup>Алексей Малашенко.&nbsp;<span>Фото:&nbsp;Московский центр Карнеги</span></sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/09/17/1442509532_359096_7.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/09/17/1442509532_359096_7.jpg)" style="width: 228px; height: 228px; float: right;"><sup>Алексей Малашенко.&nbsp;<span>Фото:&nbsp;Московский центр Карнеги</span></sup></td>
 		</tr>
 	</tbody>]*
 

@@ -78,7 +78,7 @@ _«Новая газета» продолжает знакомить читат�
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right" style="">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/30/1338369096_143591_32.jpg" style="width: 360px; height: 360px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/30/1338369096_143591_32.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/30/1338369096_143591_32.jpg)" style="width: 360px; height: 360px; "><br>
 				<sup>Вячеслав Егоров в своем магазине электротехники.<br>Фото: Анна Артемьева/«Новая газета»</sup></td>
 		</tr>
 	</tbody>]*

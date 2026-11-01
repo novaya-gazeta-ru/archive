@@ -65,9 +65,9 @@ tags: ""
 
 *В Воронеже цветы положили на камень памяти поэта Мандельштама, который отбывал тут ссылку. Фото: соцсети*
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/16/na-vzlete
+**Читайте также:** [На взлете](2026/02/16/na-vzlete.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/14/pravitelstvo-velikobritanii-i-mirovye-smi-opublikovali-versiiu-spetsialistov-iz-laboratorii-germanii-frantsii-velikobritanii-shvetsii-i-niderlandov-o-smerti-navalnogo-ot-sverkhtoksichnogo-iada-news
+**Читайте также:** [Правительство Великобритании и мировые СМИ опубликовали версию специалистов из лабораторий Германии, Франции, Великобритании, Швеции и Нидерландов — о смерти Навального от сверхтоксичного яда](2026/02/14/pravitelstvo-velikobritanii-i-mirovye-smi-opublikovali-versiiu-spetsialistov-iz-laboratorii-germanii-frantsii-velikobrit.md)
 
 Мама Алексея Навального (крайняя справа) и мама Юлии Навальной (на первом плане) у могилы. Фото: Александр Земляниченко / AP / Scanpix / LETA2
 

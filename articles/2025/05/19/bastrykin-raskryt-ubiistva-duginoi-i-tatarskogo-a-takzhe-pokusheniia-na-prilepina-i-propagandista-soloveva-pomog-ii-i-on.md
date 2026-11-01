@@ -27,4 +27,4 @@ tags: ""
 
 признался Бастыркин и попросил официального спикера СК РФ Светлану Петренко выложить эту мысль на ресурсы ведомства.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/05/19/studentov-v-ekaterinburge-prigovorili-k-7-8-godam-po-delu-o-pokushenii-na-podzhog-releinykh-shkafov-srok-poluchil-i-osvedomitel-tsentra-e-organizator-pokusheniia-news
+**Читайте также:** [Студентов в Екатеринбурге приговорили к 7-8 годам по делу «о покушении на поджог релейных шкафов». Срок получил и осведомитель центра «Э» — организатор «покушения»](2025/05/19/studentov-v-ekaterinburge-prigovorili-k-7-8-godam-po-delu-o-pokushenii-na-podzhog-releinykh-shkafov-srok-poluchil-i-osve.md)

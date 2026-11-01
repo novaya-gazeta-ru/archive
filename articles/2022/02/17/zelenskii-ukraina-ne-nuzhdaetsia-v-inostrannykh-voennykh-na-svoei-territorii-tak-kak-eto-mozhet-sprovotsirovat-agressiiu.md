@@ -23,10 +23,10 @@ tags: "зеленский, украина, анатомия протеста, в
 
 «Мы не хотим оказаться в роли той страны, которая живет в иллюзии, что за нее будут все умирать, а когда начнется агрессия — то будем не готовы», — дополнил президент.
 
-На этой неделе Украина [запросила](https://novayagazeta.ru/articles/2022/02/15/ukraina-zaprosila-pomoshch-u-nato-na-sluchai-masshtabnykh-chrezvychainykh-situatsii-news) у НАТО военную технику и оборудование на случай «масштабных чрезвычайных ситуаций различного характера, которые могут затронуть мирное население». Всего в списке 78 пунктов.
+На этой неделе Украина [запросила](2022/02/15/ukraina-zaprosila-pomoshch-u-nato-na-sluchai-masshtabnykh-chrezvychainykh-situatsii-news.md) у НАТО военную технику и оборудование на случай «масштабных чрезвычайных ситуаций различного характера, которые могут затронуть мирное население». Всего в списке 78 пунктов.
 
-**Слушайте:** https://novayagazeta.ru/articles/2022/02/16/den-kogda-ne-sluchilas-voina
+**Слушайте:** [https://novayagazeta.ru/articles/2022/02/16/den-kogda-ne-sluchilas-voina](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/16/den-kogda-ne-sluchilas-voina)
 
-Ранее Зеленский[поручил](https://novayagazeta.ru/articles/2022/02/11/zelenskii-poruchil-uvelichit-chislennost-sil-territorialnoi-oborony-ukrainy-do-2-mln-chelovek-news) увеличить численность сил территориальной обороны до 2 млн человек.
+Ранее Зеленский[поручил](2022/02/11/zelenskii-poruchil-uvelichit-chislennost-sil-territorialnoi-oborony-ukrainy-do-2-mln-chelovek-news.md) увеличить численность сил территориальной обороны до 2 млн человек.
 
 «Мы должны максимально увеличить количество наших военных, <…> которые будут готовы защищать нашу страну в случае необходимости», — заявил он.

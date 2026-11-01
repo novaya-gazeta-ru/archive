@@ -19,6 +19,6 @@ tags: "спорт, паралимпиада, паралимпийцы, ep"
  \
  Паралимпийские игры-2022 в Пекине пройдут с 4 по 13 марта.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/03/putin-nastupaet-na-ukrainu-den-vosmoi-onlain
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/03/putin-nastupaet-na-ukrainu-den-vosmoi-onlain](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/03/putin-nastupaet-na-ukrainu-den-vosmoi-onlain)
 
 Ранее международные федерации запретили российским спортсменам участвовать в международных соревнованиях по биатлону, волейболу, плаванию, фигурному катанию и конькобежному спорту.

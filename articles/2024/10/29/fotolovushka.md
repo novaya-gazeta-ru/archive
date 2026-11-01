@@ -45,7 +45,7 @@ tags: "ибрагим оруджев, военкомат, суд, расписа
 
 22 ноября Черемушкинский суд Москвы заключил Оруджева под стражу. Сейчас он содержится в СИЗО-2 «Бутырка».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/05/25/podniat-lapki-i-zhalobno-sdatsia-slabaia-alternativa
+**Читайте также:** [https://novayagazeta.ru/articles/2024/05/25/podniat-lapki-i-zhalobno-sdatsia-slabaia-alternativa](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/05/25/podniat-lapki-i-zhalobno-sdatsia-slabaia-alternativa)
 
 ## **Что собрало следствие?**
 
@@ -69,7 +69,7 @@ tags: "ибрагим оруджев, военкомат, суд, расписа
 
 В настоящее время дело студента рассматривает тройка военных судей. Стороны продолжают представлять свои доводы. По мнению защиты, дело могут рассмотреть за пару-тройку заседаний, и суд уйдет на приговор.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/12/ia-normalno-tolko-v-tiurme
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/12/ia-normalno-tolko-v-tiurme](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/12/ia-normalno-tolko-v-tiurme)
 
 > **Что происходило на первом заседании**
 >

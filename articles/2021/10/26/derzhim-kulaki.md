@@ -37,7 +37,7 @@ tags: "коваленко, фильм, кино, кинопремии, оска�
 
 > «Разжимая кулаки» — фильм взрослого автора, точно понимающего, как сложный замысел превратить в ясное поэтическое высказывание, со своим киноязыком, ритмом, атмосферой, погружением в среду.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/10/kira-kovalenko-sviazannye-nadezhnoi-tsepiu-my-ne-umeem-razgovarivat-drug-s-drugom
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/10/kira-kovalenko-sviazannye-nadezhnoi-tsepiu-my-ne-umeem-razgovarivat-drug-s-drugom](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/10/kira-kovalenko-sviazannye-nadezhnoi-tsepiu-my-ne-umeem-razgovarivat-drug-s-drugom)
 
 Это не просто фестивальное кино, в нем ток сегодняшнего времени, его голосов и его травм.
 

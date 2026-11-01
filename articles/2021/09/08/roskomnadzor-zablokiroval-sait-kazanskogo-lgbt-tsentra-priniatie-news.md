@@ -23,6 +23,6 @@ tags: "ng, ЛГБТ, блокировка сайтов, роскомнадзор
 
 Центр «Принятие», открывшийся зимой 2019 года, позиционирует себя как площадка для ЛГБТ+ сообщества, где людям оказывают в том числе и психологическую поддержку.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/06/zakon-o-gei-propagande-zastavil-kopat-etu-temu-18
+**Читайте также:** [«Закон о гей-пропаганде заставил копать эту тему». 18+](2021/08/06/zakon-o-gei-propagande-zastavil-kopat-etu-temu-18.md)
 
-10 августа Орджоникидзевский районный суд Екатеринбурга [удовлетворил](https://novayagazeta.ru/articles/2021/08/10/sud-v-ekaterinburge-zablokiroval-sait-resursnogo-tsentra-dlia-lgbt-news) иск местной прокуратуры и заблокировал сайт «Ресурсного центра для ЛГБТ» на территории РФ. В суде сочли, что сайт содержит информацию, «пропагандирующую среди несовершеннолетних гомосексуализм и другие формы ЛГБТ». Однако 2 сентября Свердловский областной суд [отменил](https://novayagazeta.ru/articles/2021/09/02/v-ekaterinburge-sud-otpravil-na-novoe-rassmotrenie-isk-prokuratury-o-blokirovke-saita-resursnogo-tsentra-dlia-lgbt-news) это решение и отправил дело на новое рассмотрение.
+10 августа Орджоникидзевский районный суд Екатеринбурга [удовлетворил](2021/08/10/sud-v-ekaterinburge-zablokiroval-sait-resursnogo-tsentra-dlia-lgbt-news.md) иск местной прокуратуры и заблокировал сайт «Ресурсного центра для ЛГБТ» на территории РФ. В суде сочли, что сайт содержит информацию, «пропагандирующую среди несовершеннолетних гомосексуализм и другие формы ЛГБТ». Однако 2 сентября Свердловский областной суд [отменил](2021/09/02/v-ekaterinburge-sud-otpravil-na-novoe-rassmotrenie-isk-prokuratury-o-blokirovke-saita-resursnogo-tsentra-dlia-lgbt-news.md) это решение и отправил дело на новое рассмотрение.

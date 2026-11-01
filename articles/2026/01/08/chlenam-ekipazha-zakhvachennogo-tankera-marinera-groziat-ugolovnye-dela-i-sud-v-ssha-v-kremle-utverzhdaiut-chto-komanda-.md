@@ -39,4 +39,4 @@ tags: "Маринера, танкеры, захват"
 
 — [заявили](https://tass.ru/politika/26103559) в МИД РФ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/12/29/frakhtenshtein
+**Читайте также:** [Фрахтенштейн](2025/12/29/frakhtenshtein.md)

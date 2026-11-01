@@ -28,4 +28,4 @@ tags: "азербайджан, баку, сафаровы, братья сафа
 - Ранее российская судмедэкспертиза [утверждала](https://caliber.az/post/sudmedekspert-o-prichine-smerti-ziyaddina-safarova-mnogochislennye-travmy), что причиной смерти Зияддина Сафарова стал сердечный приступ при задержании, а Гусейна Сафарова — некие травмы (их характер так и не озвучили).
 - Напомним, СК России считает братьев Сафаровых причастными к нескольким убийствам предпринимателей, совершенным в 2001-м и в 2011-м годах. РБК со ссылкой на источники [утверждает](https://www.rbc.ru/rbcfreenews/6862e7829a794710fb95b3ef), что задержанные также имеют отношение к массовому отравлению алкоголем в 2021 году.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/30/mid-rf-vyzval-posla-azerbaidzhana-posle-zaderzhaniia-rukovoditelei-biuro-sputnik-v-baku-kak-agentov-fsb-news
+**Читайте также:** [МИД РФ вызвал посла Азербайджана после задержания руководителей бюро Sputnik в Баку как «агентов ФСБ»&nbsp;](2025/06/30/mid-rf-vyzval-posla-azerbaidzhana-posle-zaderzhaniia-rukovoditelei-biuro-sputnik-v-baku-kak-agentov-fsb-news.md)

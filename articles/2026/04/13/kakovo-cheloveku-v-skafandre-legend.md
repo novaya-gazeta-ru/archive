@@ -13,7 +13,7 @@ tags: ""
 
 *Четыре космических фрагмента из личного дневника. Тюльпаны Байконура, Реквием Первым и каким был Гагарин*
 
-*Продолжение. *[*Начало в материале от 12 апреля*](https://novayagazeta.ru/articles/2026/04/12/kakovo-cheloveku-v-skafandre-legend)*.*
+*Продолжение. *[*Начало в материале от 12 апреля*](2026/04/12/kakovo-cheloveku-v-skafandre-legend.md)*.*
 
 ![](_assets/e0/e0ccc6606dbf099d7e3d4b5412846eb5.webp)
 

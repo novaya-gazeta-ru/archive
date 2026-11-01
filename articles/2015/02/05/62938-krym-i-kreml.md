@@ -43,9 +43,9 @@ tags: "кризис, крым, россия"
 
 Главная задача — не допустить распространения мыслепреступлений за пределы кухонь, чтобы крамола не просочилась на улицы.
 
-**link:** https://novayagazeta.ru/politics/66932.html
+**link:** [https://novayagazeta.ru/politics/66932.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66932.html)
 
-**link:** https://novayagazeta.ru/politics/66932.html
+**link:** [https://novayagazeta.ru/politics/66932.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66932.html)
 
 # Политическая ответственность
 

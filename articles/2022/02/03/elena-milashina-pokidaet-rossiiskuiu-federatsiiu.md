@@ -23,4 +23,4 @@ tags: "милашина, чечня, кадыров, отъезд, заявле�
 >
 > Елена следует протоколам безопасности, утвержденным редакцией. Ее локация никак не отразится на освещении темы прав человека в Чечне.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/04/elena-milashina-uezzhaet-iz-rossii-i-obiasniaet-pochemu-kadyrovu-mozhno-vse
+**Читайте также:** [Елена Милашина уезжает из России. И объясняет, почему Кадырову можно все](2022/02/04/elena-milashina-uezzhaet-iz-rossii-i-obiasniaet-pochemu-kadyrovu-mozhno-vse.md)

@@ -155,4 +155,4 @@ tags: ""
 
 > **продолжение**
 >
-> ### Нам здесь жить: [части первая](https://novayagazeta.ru/articles/2010/12/02/399-nam-zdes-zhit-chast-i), [вторая](https://novayagazeta.ru/articles/2010/12/06/373-nam-zdes-zhit-chast-ii)
+> ### Нам здесь жить: [части первая](2010/12/02/399-nam-zdes-zhit-chast-i.md), [вторая](2010/12/06/373-nam-zdes-zhit-chast-ii.md)

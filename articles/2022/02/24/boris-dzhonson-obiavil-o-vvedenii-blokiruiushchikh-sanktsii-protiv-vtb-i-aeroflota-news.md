@@ -27,8 +27,8 @@ tags: "путин, аэрофлот, втб, ростех, банки, sf"
 
 На фоне новости акции ВТБ усилили падение, они теряют более 42%. Акции «Аэрофлота» падают на 30%.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/24/iuliia-latynina-mir-prosto-razdelitsia-na-svobodnyi-mir-i-nas
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/24/iuliia-latynina-mir-prosto-razdelitsia-na-svobodnyi-mir-i-nas](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/24/iuliia-latynina-mir-prosto-razdelitsia-na-svobodnyi-mir-i-nas)
 
-Ранее президент РФ Владимир Путин [провел](https://novayagazeta.ru/articles/2022/02/24/boris-dzhonson-obiavil-o-vvedenii-blokiruiushchikh-sanktsii-protiv-vtb-i-aeroflota-news) в Москве встречу с представителями крупного бизнеса страны. Он призвал бизнес «солидарно работать с правительством» и с пониманием отнестись к происходящему.
+Ранее президент РФ Владимир Путин [провел](2022/02/24/boris-dzhonson-obiavil-o-vvedenii-blokiruiushchikh-sanktsii-protiv-vtb-i-aeroflota-news.md) в Москве встречу с представителями крупного бизнеса страны. Он призвал бизнес «солидарно работать с правительством» и с пониманием отнестись к происходящему.
 
 Ранним утром Путин объявил о начале «спецоперации» в Украине. В Минобороны России заявили, что «выводятся из строя военная инфраструктура, объекты ПВО, военные аэродромы и авиация украинской армии». Мощные взрывы прогремели около 5:00 в нескольких городах Украины. Президент Украины Владимир Зеленский объявил о введении военного положения на всей территории страны.

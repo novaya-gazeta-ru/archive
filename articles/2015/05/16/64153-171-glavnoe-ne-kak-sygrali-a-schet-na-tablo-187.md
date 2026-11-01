@@ -170,11 +170,11 @@ tags: "милашина, специальный репортаж, угрозы, 
 
 Вечером по грозненскому телеканалу «Вайнах» показывают 13-минутный специальный репортаж, в котором моя работа в Чечне была названа «оголтелой, античеченской и антироссийской пропагандой». Меня обвинили в том, что ситуацию с Хедой Гойлабиевой я использую «для дискредитации властей Чечни», что я «пытаюсь весь чеченский народ представить как дикарей» и «что я буду нести ответственность сразу по нескольким статьям».
 
-*[media: <p><strong><span style="color:#696969;">Новый министр печати Джамбулат Умаров (прошлый был <a href="http://www.novayagazeta.ru/news/1693639.html" target="_blank">уволен</a> после первой публикации «Новой газеты» о скандальной свадьбе) заявил, что моей деятельностью «возмущены чеченские журналисты, чеченские писатели и другие представители чеченского гражданского общества». И поэтому он не знает, «каким образом удастся этот поток возмущения остановить».&nbsp;</span></strong></p>]*
+*[media: <p><strong><span style="color:#696969;">Новый министр печати Джамбулат Умаров (прошлый был <a href="[http://www.novayagazeta.ru/news/1693639.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1693639.html)" target="_blank">уволен</a> после первой публикации «Новой газеты» о скандальной свадьбе) заявил, что моей деятельностью «возмущены чеченские журналисты, чеченские писатели и другие представители чеченского гражданского общества». И поэтому он не знает, «каким образом удастся этот поток возмущения остановить».&nbsp;</span></strong></p>]*
 
-*[media: <p><span style="color:#B22222;"><strong><a href="http://www.novayagazeta.ru/news/1693836.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/05/16/1431783166_898319_69.jpg" style="width: 100px; height: 75px;"></a>Читайте также:</strong></span></p>
+*[media: <p><span style="color:#B22222;"><strong><a href="[http://www.novayagazeta.ru/news/1693836.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1693836.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/05/16/1431783166_898319_69.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/05/16/1431783166_898319_69.jpg)" style="width: 100px; height: 75px;"></a>Читайте также:</strong></span></p>
 
-<p><a href="http://www.novayagazeta.ru/news/1693836.html" target="_blank"><strong>«Новая газета» обратится в СК из-за инцидента с Милашиной в Чечне</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/news/1693836.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1693836.html)" target="_blank"><strong>«Новая газета» обратится в СК из-за инцидента с Милашиной в Чечне</strong></a></p>]*
 
 #14 мая
 
@@ -198,9 +198,9 @@ tags: "милашина, специальный репортаж, угрозы, 
 
 Чеченский ДПСник желает нам удачи.
 
-*[media: <p><span style="color:#B22222;"><strong><a href="http://www.novayagazeta.ru/news/1693773.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/05/14/1431600095_603370_20.png" style="width: 100px; height: 75px;"></a>Читайте также:</strong></span></p>
+*[media: <p><span style="color:#B22222;"><strong><a href="[http://www.novayagazeta.ru/news/1693773.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1693773.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/05/14/1431600095_603370_20.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/05/14/1431600095_603370_20.png)" style="width: 100px; height: 75px;"></a>Читайте также:</strong></span></p>
 
-<p><a href="http://www.novayagazeta.ru/news/1693773.html" target="_blank"><strong>Елена Милашина посетила родовое село Хеды Гойлабиевой, несмотря на слежку</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/news/1693773.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1693773.html)" target="_blank"><strong>Елена Милашина посетила родовое село Хеды Гойлабиевой, несмотря на слежку</strong></a></p>]*
 
 В Байтарках у дома Гойлабиевых нас уже ждут. Перед воротами стоит пожилая женщина. В ответ на мое «здравствуйте», говорит: «Что вам тут надо?»
 

@@ -23,6 +23,6 @@ tags: "беларусь, приговор, школа, учитель, da, бч�
 
 По словам самого Петровского, претензии к нему [возникали](https://yandex.eu/turbo/euroradio.fm/s/smargonskaga-nastaunika-zvolnili-za-toe-shto-raskazau-na-uroku-pra-bchb-scyag) и раньше. До увольнения он единственный в школе не вступал в официальный профсоюз, а также организовал «комнату истории, где были Олег Трусов, Зенон Позняк[белорусские оппозиционные политики-националисты]и флаг [БЧБ]».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/13/vospitanie-strogogo-rezhima
+**Читайте также:** [Воспитание строгого режима](2021/07/13/vospitanie-strogogo-rezhima.md)
 
-Недавно министр образования Беларуси Игорь Карпенко [заявил](https://novayagazeta.ru/articles/2021/08/24/opornye-tochki-tsvetnykh-revoliutsii-vlasti-belarusi-obvinili-chastnye-detskie-sady-v-presledovanii-politicheskikh-tselei-news?utm_source=tg&utm_medium=novaya&utm_campaign=ministr-obrazovaniya-belarusi-igor-karpe), что некоторые детские сады и школы «использовались в политических целях». С 1 сентября в белорусских школах [начнут](https://novayagazeta.ru/articles/2021/07/13/vospitanie-strogogo-rezhima) работать «завучи по военно-патриотическому воспитанию».
+Недавно министр образования Беларуси Игорь Карпенко [заявил](2021/08/24/opornye-tochki-tsvetnykh-revoliutsii-vlasti-belarusi-obvinili-chastnye-detskie-sady-v-presledovanii-politicheskikh-tsele.md), что некоторые детские сады и школы «использовались в политических целях». С 1 сентября в белорусских школах [начнут](2021/07/13/vospitanie-strogogo-rezhima.md) работать «завучи по военно-патриотическому воспитанию».

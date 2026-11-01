@@ -304,7 +304,7 @@ tags: "сталин, репрессии, судь в ссср, сталинск�
 
 …Можно продолжать еще долго.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/09/26/rasstreliat-vsekh-poimenovannykh-v-spiske
+**Читайте также:** [«Расстрелять всех поименованных в списке»](2025/09/26/rasstreliat-vsekh-poimenovannykh-v-spiske.md)
 
 * **
 

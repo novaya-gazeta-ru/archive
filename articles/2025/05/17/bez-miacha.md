@@ -18,4 +18,4 @@ tags: ""
  Но только нет у нас мяча.\
  Не говоря уж про плеча.
 
-**Другое великостишие:** https://novayagazeta.ru/articles/2025/04/26/polet-v-neopredelennom-napravlenii
+**Другое великостишие:** [Полет в неопределенном направлении](2025/04/26/polet-v-neopredelennom-napravlenii.md)

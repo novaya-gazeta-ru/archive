@@ -53,4 +53,4 @@ tags: "мирзализаде, националисты, поздняков, м�
 
 #### * Талибан — движение, которое признано в России террористическим и запрещено.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/31/idrak-gosudarstva-nomer-odin
+**Читайте также:** [https://novayagazeta.ru/articles/2021/08/31/idrak-gosudarstva-nomer-odin](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/08/31/idrak-gosudarstva-nomer-odin)

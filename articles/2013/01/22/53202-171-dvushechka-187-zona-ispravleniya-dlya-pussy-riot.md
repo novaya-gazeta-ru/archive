@@ -262,7 +262,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<strong><img alt="" src="http://www.novayagazeta.ru/storage/c/2013/01/22/1358866011_019367_87.jpg" style="width: 340px; height: 512px; float: right;"></strong></td>
+				<strong><img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/01/22/1358866011_019367_87.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/01/22/1358866011_019367_87.jpg)" style="width: 340px; height: 512px; float: right;"></strong></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">

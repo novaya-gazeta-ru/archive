@@ -19,6 +19,6 @@ tags: ""
 
 **youtube:** https://youtu.be/Hnoh8E6_tlg
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/30/moralnye-investitsii-zombi-iazyk-i-krizis-liberalizma
+**Читайте также:** [Моральные инвестиции, зомби-язык и кризис либерализма](2025/06/30/moralnye-investitsii-zombi-iazyk-i-krizis-liberalizma.md)
 
 #### *Признан Минюстом РФ иностранным агентом.

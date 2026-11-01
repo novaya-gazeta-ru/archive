@@ -11,7 +11,7 @@ tags: ""
 
 # Памятка
 
-*[media: <p class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/11/29/1448808339_289476_8.jpg" style="width: 570px; height: 428px;"><br>
+*[media: <p class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/11/29/1448808339_289476_8.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/11/29/1448808339_289476_8.jpg)" style="width: 570px; height: 428px;"><br>
 <sup>Иллюстрация: Петр Саруханов / «Новая газета»</sup></p>]*
 
 _Мне не нравишься ты. Мне не нравитесь вы, Обитатели гордой запретки. Мне милы ваши предки (поскольку мертвы) И пока еще нежные детки._

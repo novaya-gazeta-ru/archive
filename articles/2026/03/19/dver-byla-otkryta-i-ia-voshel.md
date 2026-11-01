@@ -95,6 +95,6 @@ tags: "василий уткин, футбол , взгляд, сво"
 
 «Играйте в футбол», — призывал он нас к жизни в конце каждого репортажа. Играйте.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/03/20/dorogoi-moi-vasia
+**Читайте также:** [https://novayagazeta.ru/articles/2024/03/20/dorogoi-moi-vasia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/03/20/dorogoi-moi-vasia)
 
 #### * Минюст РФ внес в реестр «иноагентов».

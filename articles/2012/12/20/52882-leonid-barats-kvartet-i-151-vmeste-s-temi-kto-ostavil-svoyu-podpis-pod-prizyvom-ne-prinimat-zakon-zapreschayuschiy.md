@@ -11,7 +11,7 @@ tags: ""
 
 # Леонид Барац (Квартет И)  вместе с теми, кто оставил свою подпись под призывом не принимать закон, запрещающий иностранцам усыновлять детей из России
 
-# [Сбор подписей проходит здесь](http://www.novayagazeta.ru/inquiries/11.html)
+# [Сбор подписей проходит здесь](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquiries/11.html)
 
 *[media: #next_pages_container { width: 5px; hight: 5px; position: absolute; top: -100px; left: -100px; z-index: 2147483647 !important; }]*
 

@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *Тема выпуска — зона поражения. Про разрушение Каховской ГЭС. Про Белгородскую область, ставшую частью фронта. Про сознание россиян, переживших ядерные испытания*
 
-https://novayagazeta.ru/issues/3254
+[https://novayagazeta.ru/issues/3254](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3254)

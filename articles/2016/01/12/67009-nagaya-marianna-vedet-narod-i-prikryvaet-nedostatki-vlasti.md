@@ -27,9 +27,9 @@ tags: "charlie hebdo, память, париж, солидарность, тер
 
 Год назад, 11 января 2015-го, на парижские улицы вышли 2 миллиона человек. В этом году на площадь пришли 5 тысяч, если не меньше.
 
-**link:** https://novayagazeta.ru/topics/125.html
+**link:** [https://novayagazeta.ru/topics/125.html](https://web.archive.org/web/*/https://novayagazeta.ru/topics/125.html)
 
-**link:** https://novayagazeta.ru/topics/125.html
+**link:** [https://novayagazeta.ru/topics/125.html](https://web.archive.org/web/*/https://novayagazeta.ru/topics/125.html)
 
 #* **
 

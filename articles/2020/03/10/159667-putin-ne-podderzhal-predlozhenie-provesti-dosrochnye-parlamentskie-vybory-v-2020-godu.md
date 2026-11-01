@@ -25,4 +25,4 @@ tags: "конституция, госдума"
 
 > **Продолжение**
 >
-> [​Путин: обнуление президентских сроков возможно в случае одобрения Конституционным судом](https://novayagazeta.ru/news/2020/03/10/159668-putin-obnulenie-prezidentskih-srokov-vozmozhno-v-sluchae-odobreniya-konstitutsionnym-sudom)
+> [​Путин: обнуление президентских сроков возможно в случае одобрения Конституционным судом](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/03/10/159668-putin-obnulenie-prezidentskih-srokov-vozmozhno-v-sluchae-odobreniya-konstitutsionnym-sudom)

@@ -61,7 +61,7 @@ tags: "германия, канцлер, выборы, зеленые, коал�
 
 Интересный пункт соглашения — планы создать механизм для безвизового въезда из России в Германию «особых целевых групп», в частности молодых людей младше 25 лет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/24/v-germanii-predstavili-sostav-i-plany-novogo-koalitsionnogo-pravitelstva-news
+**Читайте также:** [В Германии представили состав и планы нового коалиционного правительства](2021/11/24/v-germanii-predstavili-sostav-i-plany-novogo-koalitsionnogo-pravitelstva-news.md)
 
 # **Будущие министры**
 

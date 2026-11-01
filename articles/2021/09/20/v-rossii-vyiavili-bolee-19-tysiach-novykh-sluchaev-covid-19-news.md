@@ -17,6 +17,6 @@ tags: "COVID-19, ng                                                         , к
 
 За сутки в России скончались 778 человек с коронавирусом, общее число летальных случаев в стране достигло 198 996.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/14/chetvertaia-volna-nakroet
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/14/chetvertaia-volna-nakroet](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/14/chetvertaia-volna-nakroet)
 
 Число случаев заражения COVID-19 в мире превысило 228,5 млн, [следует](https://coronavirus.jhu.edu/map.html) из данных американского университета Джонса Хопкинса. Больше всего инфицированных коронавирусом в США (более 42 млн), а также в Индии (более 33,4 млн) и Бразилии (свыше 21,2 млн).

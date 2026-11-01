@@ -25,8 +25,8 @@ tags: ""
 
 Четыре региона установили выплаты для учениц техникумов и колледжей, где также обучаются несовершеннолетние: это Ставропольский край, Удмуртия, Тамбовская и Пензенская области.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/07/v-lenoblasti-nashli-novorozhdennuiu-v-pakete-ee-materiu-okazalas-15-letniaia-kotoraia-ne-znala-o-beremennosti-i-ispugalas-news
+**Читайте также:** [В Ленобласти нашли новорожденную в пакете. Ее матерью оказалась 15-летняя, которая «не знала» о беременности и «испугалась»](2025/06/07/v-lenoblasti-nashli-novorozhdennuiu-v-pakete-ee-materiu-okazalas-15-letniaia-kotoraia-ne-znala-o-beremennosti-i-ispugala.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/05/22/v-nizhegorodskoi-oblasti-interesuiushchikhsia-abortom-rossiianok-budet-vyiavliat-demograficheskii-spetsnaz-news
+**Читайте также:** [В Нижегородской области интересующихся абортом россиянок будет выявлять «демографический спецназ»](2025/05/22/v-nizhegorodskoi-oblasti-interesuiushchikhsia-abortom-rossiianok-budet-vyiavliat-demograficheskii-spetsnaz-news.md)
 
 #### * Минюст считает «иноагентом»

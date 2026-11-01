@@ -41,7 +41,7 @@ tags: "насилие, дети, челябинская область"
 
 В итоге главе района грозит административный штраф: 5 000 рублей.
 
-**link:** https://novayagazeta.ru/articles/2016/11/14/70536-eto-ne-shlepki-a-prestuplenie-protiv-lichnosti
+**link:** [https://novayagazeta.ru/articles/2016/11/14/70536-eto-ne-shlepki-a-prestuplenie-protiv-lichnosti](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2016/11/14/70536-eto-ne-shlepki-a-prestuplenie-protiv-lichnosti)
 
 «Он по телевидению сказал, что извиняться не будет, что это дети должны перед ним извиниться за порчу памятника. Представляете?» — возмущается Батурина.
 

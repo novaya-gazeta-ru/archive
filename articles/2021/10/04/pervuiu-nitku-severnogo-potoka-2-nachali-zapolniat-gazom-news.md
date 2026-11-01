@@ -17,8 +17,8 @@ tags: "северный поток 2, газ, em"
 
 Датское энергетическое агентство [заявило](https://ens.dk/en/press/nord-stream-2-pipeline-b-can-be-put-operation), что газопровод можно вводить в эксплуатацию. Там отметили, что компания-оператор выполнила все необходимые для этого условия, в том числе касающиеся сертификации.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/11/ukraintsam-nado-gotovitsia-k-prekrashcheniiu-tranzita
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/11/ukraintsam-nado-gotovitsia-k-prekrashcheniiu-tranzita](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/11/ukraintsam-nado-gotovitsia-k-prekrashcheniiu-tranzita)
 
-Строительство «Северного потока-2» полностью [завершили](https://novayagazeta.ru/articles/2021/09/10/v-gazprome-soobshchili-o-polnom-zavershenii-stroitelstva-severnogo-potoka-2-news) 10 сентября. Тогда начать эксплуатацию трубопровода планировали до конца года. Работы по укладке труб первой нитки газопровода были закончены к началу июня.
+Строительство «Северного потока-2» полностью [завершили](2021/09/10/v-gazprome-soobshchili-o-polnom-zavershenii-stroitelstva-severnogo-potoka-2-news.md) 10 сентября. Тогда начать эксплуатацию трубопровода планировали до конца года. Работы по укладке труб первой нитки газопровода были закончены к началу июня.
 
 Проект «Северный поток-2» предполагает строительство газопровода мощностью 55 млрд кубометров в год от побережья России через Балтийское море до Германии — в обход балтийских стран и Польши. Его реализует Nord Stream 2 AG с единственным акционером — «Газпромом».

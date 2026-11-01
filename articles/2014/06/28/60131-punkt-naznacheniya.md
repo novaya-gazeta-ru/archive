@@ -82,7 +82,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/06/28/1403963203_715605_16.jpg" style="width: 340px; height: 537px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/06/28/1403963203_715605_16.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/06/28/1403963203_715605_16.jpg)" style="width: 340px; height: 537px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Валентина Петренко. Фото: РИА Новости</sup></td>

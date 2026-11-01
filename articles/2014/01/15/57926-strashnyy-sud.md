@@ -14,7 +14,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2014/01/14/1389710317_275772_20.jpg" style="width: 350px; height: 197px;"><sup>Судья Неверова</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/01/14/1389710317_275772_20.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/01/14/1389710317_275772_20.jpg)" style="width: 350px; height: 197px;"><sup>Судья Неверова</sup></td>
 		</tr>
 	</tbody>]*
 

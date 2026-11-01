@@ -15,10 +15,10 @@ tags: ""
 
 «Радио Свобода» [была внесена](https://t.me/novaya_pishet/43836) в реестр нежелательных организаций зимой 2024 года.
 
-Apple регулярно удаляет приложения из российского AppStore по требованию властей. В июле-сентябре она [удалила](https://novayagazeta.ru/articles/2024/09/24/apple-za-3-mesiatsa-bez-lishnego-shuma-udalila-bolee-60-vpn-prilozhenii-iz-rossiiskogo-appstore-eto-znachitelno-bolshe-chem-zablokiroval-roskomnadzor-news) более 60 VPN-приложений, что больше, чем официально заявлял РКН. В общей сложности Apple удалила таким образом 98 VPN-приложений, отмечали эксперты.
+Apple регулярно удаляет приложения из российского AppStore по требованию властей. В июле-сентябре она [удалила](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/24/apple-za-3-mesiatsa-bez-lishnego-shuma-udalila-bolee-60-vpn-prilozhenii-iz-rossiiskogo-appstore-eto-znachitelno-bolshe-chem-zablokiroval-roskomnadzor-news) более 60 VPN-приложений, что больше, чем официально заявлял РКН. В общей сложности Apple удалила таким образом 98 VPN-приложений, отмечали эксперты.
 
 ️Apple — одна из немногих американских компаний, которая «стремится к соблюдению российского законодательства и поддерживает диалог» с РКН, рассказывал в июле депутат Госдумы Антон Горелкин из профильного комитета.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/09/deputaty-i-z-blogery-vozmutilis-blokirovkoi-discord-oni-napomnili-chto-servis-ispolzuet-rossiiskaia-armiia-news
+**Читайте также:** [Депутаты и Z-блогеры возмутились блокировкой Discord. Они напомнили, что сервис использует российская армия](2024/10/09/deputaty-i-z-blogery-vozmutilis-blokirovkoi-discord-oni-napomnili-chto-servis-ispolzuet-rossiiskaia-armiia-news.md)
 
 #### * Признана Минюстом РФ «иноагентом» и «нежелательной организацией», деятельность которой запрещена на территории РФ/

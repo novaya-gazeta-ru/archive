@@ -16,4 +16,4 @@ tags: ""
 *Вот странно, что теперь любви порывы\
  Похожи на ножа консервного надрывы*
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/01/24/v-basseine-spornykh-dostizhenii
+**Читайте также:** [В бассейне спорных достижений](2026/01/24/v-basseine-spornykh-dostizhenii.md)

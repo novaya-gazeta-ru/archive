@@ -17,7 +17,7 @@ tags: ""
 
 **Москва, Болотная площадь**
 
-Фоторепортаж полностью — [здесь](http://www.novayagazeta.ru/photos/50844.html).
+Фоторепортаж полностью — [здесь](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/50844.html).
 
 # Выступления на митинге
 

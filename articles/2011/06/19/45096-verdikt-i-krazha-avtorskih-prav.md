@@ -25,7 +25,7 @@ tags: ""
 
 Возможно, не стоило бы выносить на публику эту историю интеллектуального воровства, если бы речь шла не о любимом когда-то канале «НТВ». К сожалению, это вообще показательно для отношения нового телевидения к человеку, ведь и я тоже человек, да и персонажи мои в романе были живыми людьми — зачем же их так опошлили и изуродовали, да еще втайне от того, кто их создал?!
 
-**[ ](https://novayagazeta.ru/storage1/d/2011/06/19/leonid_nikitinskij._tajna_soveschatelnoj_komnati.doc)**
+**[ ](https://web.archive.org/web/*/https://novayagazeta.ru/storage1/d/2011/06/19/leonid_nikitinskij._tajna_soveschatelnoj_komnati.doc)**
 
 *[media: <tbody>
 <tr>

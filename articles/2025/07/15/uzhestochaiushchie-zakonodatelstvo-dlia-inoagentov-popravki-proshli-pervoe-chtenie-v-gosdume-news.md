@@ -25,4 +25,4 @@ tags: ""
 
 > «иноагенты» «торжествуют по факту их включения в реестр», а незначительные суммы штрафов «не способствуют соблюдению закона».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/15/gosduma-pered-kanikulami-uzhestochila-zakonodatelstvo-ob-ekstremizme-priniav-popravki-srazu-v-dvukh-reshaiushchikh-chteniiakh-news
+**Читайте также:** [Госдума перед каникулами ужесточила законодательство об экстремизме, приняв поправки сразу в двух решающих чтениях](2025/07/15/gosduma-pered-kanikulami-uzhestochila-zakonodatelstvo-ob-ekstremizme-priniav-popravki-srazu-v-dvukh-reshaiushchikh-chten.md)

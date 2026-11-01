@@ -34,7 +34,7 @@ tags: "режим чс, трагедия, вмф, авария, подводны
 
 Нет. При взрыве газа повреждения подводного аппарата не позволят ему всплыть на поверхность. В случае с АС-31 аппарат цел и доставлен в док.
 
-**link:** https://novayagazeta.ru/articles/2019/07/03/81116-novaya-uznala-imya-esche-odnogo-kapitana-pervogo-ranga-pogibshego-pri-pozhare-na-as-12-publikuem-foto
+**link:** [Слово о моряках](2019/07/03/81116-novaya-uznala-imya-esche-odnogo-kapitana-pervogo-ranga-pogibshego-pri-pozhare-na-as-12-publikuem-foto.md)
 
 **Что на самом деле произошло на борту АС-31?**
 

@@ -29,4 +29,4 @@ tags: ""
 
 Сейчас в помощь карельским спасателям прибывают пожарные из Мурманской и Архангельской областей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/16/v-iakutii-v-rezultate-pozharov-sgorelo-bolee-milliona-gektarov-lesa
+**Читайте также:** [В Якутии в результате пожаров сгорело более миллиона гектаров леса](2021/07/16/v-iakutii-v-rezultate-pozharov-sgorelo-bolee-milliona-gektarov-lesa.md)

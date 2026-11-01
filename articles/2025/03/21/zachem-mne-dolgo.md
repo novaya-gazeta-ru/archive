@@ -291,4 +291,4 @@ tags: ""
 
  **3 марта 2022 г.**
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/20/vadik-drug-zadushevnyi
+**Читайте также:** [Вадик, друг задушевный](2025/03/20/vadik-drug-zadushevnyi.md)

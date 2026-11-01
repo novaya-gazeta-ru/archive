@@ -27,7 +27,7 @@ tags: ""
 
 **Наконец-то в «Новой газете» появится материал, который понравится В.В. Путину.**
 
-**[Дмитрий Муратов](https://novayagazeta.ru/data/?reg=0&rarch=1&rub=0&grub=0&auth=4271&sb_a=%3E%3E&pd1=&pm1=&py1=&pd2=&pm2=&py2=)**
+**[Дмитрий Муратов](https://web.archive.org/web/*/https://novayagazeta.ru/data/?reg=0&rarch=1&rub=0&grub=0&auth=4271&sb_a=%3E%3E&pd1=&pm1=&py1=&pd2=&pm2=&py2=)**
 
 \
 _Волкодав — прав. Людоед — нет._

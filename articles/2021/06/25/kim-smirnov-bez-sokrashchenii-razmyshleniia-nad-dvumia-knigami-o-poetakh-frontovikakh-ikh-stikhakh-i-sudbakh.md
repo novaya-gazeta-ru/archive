@@ -186,4 +186,4 @@ tags: "великая отечественная война"
 
 Кем же был «какой-то поэт», умыкнувший дочь у генерала Жадова, мечтавшего выдать её за «героя войны»?
 
-[*Окончание*](https://novayagazeta.ru/articles/2021/07/03/kim-smirnov-bez-sokrashchenii-razmyshleniia-nad-dvumia-knigami-o-poetakh-frontovikakh-ikh-stikhakh-i-sudbakh)*.*
+[*Окончание*](2021/07/03/kim-smirnov-bez-sokrashchenii-razmyshleniia-nad-dvumia-knigami-o-poetakh-frontovikakh-ikh-stikhakh-i-sudbakh.md)*.*

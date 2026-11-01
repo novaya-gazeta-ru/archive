@@ -23,10 +23,10 @@ tags: "bellingcat, беларусь, мид, санкции, сша"
 
 С 2008 года у США нет посла в Минске, а у Беларуси — посла в Вашингтоне. Более 12 лет дипмиссии в странах возглавляют временные поверенные. В декабре 2020 года Государственный департамент США утвердил на должность посла в Минске Джули Фишер, однако она так и не прибыла в страну.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/09/belorus-belorusu-belorus
+**Читайте также:** [«Белорус белорусу белорус»](2021/08/09/belorus-belorusu-belorus.md)
 
 США 9 августа утвердили новые санкции против Беларуси в связи с действиями белорусских властей, направленными на «подавление демократии и прав человека». Под новые санкции, в частности, [попали](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20210809) «Беларуськалий», «Белнефтегаз», «Белказтранс», «Белказатранс Украина», «Энерго-Ойл», «Интер Тобакко», Абсолютбанк, Следственный комитет Беларуси, Национальный Олимпийский комитет Беларуси (НОК) и «Новая нефтяная компания Восток», зарегистрированная в российском Смоленске. Всего в список вошли 23 человека и 21 компания.
 
-О новых санкциях против Беларуси также [объявила](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/belarus_regulations-reglement.aspx?lang=eng) Канада и [Великобритания](https://novayagazeta.ru/articles/2021/08/09/velikobritaniia-vvela-novye-sanktsii-protiv-belarusi-pod-ogranicheniia-popal-i-rossiianin-mikhail-gutseriev-news), под ограничения которой попал в том числе российский бизнесмен Михаил Гуцериев.
+О новых санкциях против Беларуси также [объявила](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/belarus_regulations-reglement.aspx?lang=eng) Канада и [Великобритания](2021/08/09/velikobritaniia-vvela-novye-sanktsii-protiv-belarusi-pod-ogranicheniia-popal-i-rossiianin-mikhail-gutseriev-news.md), под ограничения которой попал в том числе российский бизнесмен Михаил Гуцериев.
 
 Дополнительные санкции последовали за ограничениями, введенными в конце июня ЕС, США, Великобританией и Канадой в ответ на задержание экс-редактора NEXTA Романа Протасевича и россиянки Софьи Сапеги после внеплановой посадки самолета Ryanair в аэропорту Минска.

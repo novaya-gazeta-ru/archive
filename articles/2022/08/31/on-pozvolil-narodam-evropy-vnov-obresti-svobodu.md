@@ -27,4 +27,4 @@ tags: "горбачев, нобелевская премия, реакция м�
 >
 > **Осло, 31 августа 2022 года**
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/15/noch-v-dome-s-privideniiami-kak-spasali-chelovechestvo-ot-iadernoi-ugrozy
+**Читайте также:** [Ночь в доме с привидениями](2021/08/15/noch-v-dome-s-privideniiami-kak-spasali-chelovechestvo-ot-iadernoi-ugrozy.md)

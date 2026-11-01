@@ -113,4 +113,4 @@ tags: "владимир тендряков, люди или нелюди, тол
 >
 > В меру своих сил я старался быть верным учеником наших классиков, и меня всегда властно тянуло на умиление перед милосердием самаритян из гущи народной, но жизнь постоянно преподносила мне жестокие разочарования.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/31/dusha-pod-arestom
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/31/dusha-pod-arestom](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/31/dusha-pod-arestom)

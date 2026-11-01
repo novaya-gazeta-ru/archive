@@ -29,6 +29,6 @@ tags: ""
 
 Вину Лида Мониава не признавала.
 
-Ее забрали на допрос и пришли к ней с обыском 2 сентября по делу [о «распространении заведомо ложной информации о российской армии»](https://novayagazeta.ru/articles/2026/09/02/lide-moniave-prediavili-obvinenie-v-rasprostranenii-voennykh-feikov-sledstvie-khochet-otpravit-ee-v-sizo-news) в соцсетях 3,5 года назад.
+Ее забрали на допрос и пришли к ней с обыском 2 сентября по делу [о «распространении заведомо ложной информации о российской армии»](2026/09/02/lide-moniave-prediavili-obvinenie-v-rasprostranenii-voennykh-feikov-sledstvie-khochet-otpravit-ee-v-sizo-news.md) в соцсетях 3,5 года назад.
 
 #### * Минюст включил в реестр «иноагентов».

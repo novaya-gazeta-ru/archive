@@ -17,12 +17,12 @@ tags: "италия, украина"
 
 «Дело о задержании гражданина Украины В.Маркива находится на особом контроле Департамента консульской службы МИД и Генерального консульства Украины в Милане», — отмечается в сообщении.
 
-Накануне в итальянском городе Болонья суд [арестовал](https://www.novayagazeta.ru/news/2017/07/01/133071-v-italii-arestovali-ukrainskogo-boytsa-po-delu-o-gibeli-zhurnalista-na-donbasse) гражданина Украины Виталия Маркива, которого подозревают в причастности к гибели журналиста Андреа Роккелли и российского правозащитника и журналиста Андрея Миронова на Донбассе в 2014 году.
+Накануне в итальянском городе Болонья суд [арестовал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/07/01/133071-v-italii-arestovali-ukrainskogo-boytsa-po-delu-o-gibeli-zhurnalista-na-donbasse) гражданина Украины Виталия Маркива, которого подозревают в причастности к гибели журналиста Андреа Роккелли и российского правозащитника и журналиста Андрея Миронова на Донбассе в 2014 году.
 
-**link:** https://novayagazeta.ru/articles/2017/07/01/72980-markiv-ochen-mnogo-znaet-konechno-v-artobstrele-uchastvoval-on-ne-odin
+**link:** [«Маркив очень много знает»](2017/07/01/72980-markiv-ochen-mnogo-znaet-konechno-v-artobstrele-uchastvoval-on-ne-odin.md)
 
-Напомним, 25 мая 2014 года под Славянском [были убиты](https://www.novayagazeta.ru/news/2014/05/25/101072-pod-slavyanskom-ubity-zhurnalist-andrea-rokkelli-i-ego-perevodchik-andrey-mironov) итальянский журналист Андреа Роккелли и его переводчик Андрей Миронов. По словам ополченцев, журналисты были убиты в результате минометного обстрела.
+Напомним, 25 мая 2014 года под Славянском [были убиты](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2014/05/25/101072-pod-slavyanskom-ubity-zhurnalist-andrea-rokkelli-i-ego-perevodchik-andrey-mironov) итальянский журналист Андреа Роккелли и его переводчик Андрей Миронов. По словам ополченцев, журналисты были убиты в результате минометного обстрела.
 
 Андреа Роккелли было 30 лет. Он фотокорреспондент и основатель проекта Cesura.it. Роккелли работал на Кавказе, в Киргизии, в Тунисе и в Ливии во время «арабской весны».
 
-В мае 2014 года в «Новой газете» [вышел](https://www.novayagazeta.ru/articles/2014/05/25/59599-171-my-151-ne-zveri-ne-nado-nas-kolyuchey-provolokoy-obtyagivat-187) материал итальянского журналиста.
+В мае 2014 года в «Новой газете» [вышел](2014/05/25/59599-171-my-151-ne-zveri-ne-nado-nas-kolyuchey-provolokoy-obtyagivat-187.md) материал итальянского журналиста.

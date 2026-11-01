@@ -19,4 +19,4 @@ tags: ""
 
 Два предупреждения Роскомнадзора в год грозят отзывом лицензии СМИ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/28/my-priostanavlivaem-rabotu
+**Читайте также:** [Мы приостанавливаем работу](2022/03/28/my-priostanavlivaem-rabotu.md)

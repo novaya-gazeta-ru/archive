@@ -19,7 +19,7 @@ tags: "немцов, суды"
 
 — Ничего. Был обычный день. Кушать ходили.
 
-**link:** https://novayagazeta.ru/articles/2017/02/18/71556-politicheskoe-ubiystvo-sudebnogo-sledstviya
+**link:** [https://novayagazeta.ru/articles/2017/02/18/71556-politicheskoe-ubiystvo-sudebnogo-sledstviya](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/02/18/71556-politicheskoe-ubiystvo-sudebnogo-sledstviya)
 
 Защиту столь короткий ответ удовлетворил, и присяжным были продемонстрированы кадры с камер наблюдения другой гостиницы — «Украина» за 26 февраля 2015 года (то есть за два дня до убийства Немцова), на которых видно, как туда дважды за один день — в районе 15 и в районе 18 часов — заходят Эскерханов и теперь уже точно Руслан Геремеев. Этого не стал отрицать и подсудимый.
 

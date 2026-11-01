@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/16/1373965216_346048_57.jpg" style="width: 360px; height: 240px;"><sup>Фото: Евгений Фельдман — «Новая»</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/16/1373965216_346048_57.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/16/1373965216_346048_57.jpg)" style="width: 360px; height: 240px;"><sup>Фото: Евгений Фельдман — «Новая»</sup></td>
 		</tr>
 	</tbody>]*
 

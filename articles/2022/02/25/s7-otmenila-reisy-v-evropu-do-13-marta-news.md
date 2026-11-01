@@ -19,6 +19,6 @@ tags: "самолеты, украина, россия, sn"
 
 Пассажиры могут вернуть полную стоимость билетов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/25/putin-nachal-voinu-s-ukrainoi-den-vtoroi-onlain
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/25/putin-nachal-voinu-s-ukrainoi-den-vtoroi-onlain](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/25/putin-nachal-voinu-s-ukrainoi-den-vtoroi-onlain)
 
 Ранее [сообщалось](https://ria.ru/amp/20220225/samolety-1775135891.html), что Польша и Чехия закрывают воздушное пространство для российских самолетов с 26 февраля из-за наступательной операции России в Украине.

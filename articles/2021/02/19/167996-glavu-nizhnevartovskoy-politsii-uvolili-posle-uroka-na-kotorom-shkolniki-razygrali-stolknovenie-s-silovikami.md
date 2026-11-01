@@ -15,8 +15,8 @@ tags: "sf, акции протеста, силовики, урок, нижнев
 
 Три сотрудника ведомства также получили предупреждения о неполном служебном соответствии, еще четверым сотрудникам сделали строгий выговор.
 
-Ранее МВД России [назвало](https://novayagazeta.ru/news/2021/02/17/167927-mvd-nazvalo-nedopustimym-urok-v-nizhnevartovskoy-shkole-na-kotorom-proveli-imitatsiyu-stolknoveniya-s-silovikami) недопустимой «профориентационную акцию», которую сотрудники полиции провели в школе №42 в Нижневартовске.
+Ранее МВД России [назвало](https://web.archive.org/web/*/https://novayagazeta.ru/news/2021/02/17/167927-mvd-nazvalo-nedopustimym-urok-v-nizhnevartovskoy-shkole-na-kotorom-proveli-imitatsiyu-stolknoveniya-s-silovikami) недопустимой «профориентационную акцию», которую сотрудники полиции провели в школе №42 в Нижневартовске.
 
-15 февраля в школе №42 в Нижневартовске сотрудники полиции [провели](https://novayagazeta.ru/news/2021/02/16/167903-chtoby-ne-uchastvovali-vo-vseh-etih-sobytiyah-v-shkole-nizhnevartovska-proveli-imitatsiyu-mitinga-s-uchastiem-rosgvardii) тренировку, в процессе которой школьники в спортзале были разделены на две команды. Первая команда имитировала атаку на силовиков, а вторая отражала ее в роли бойцов ОМОНа. МВД России по Ханты-Мансийскому автономному округу [назвало](https://86.xn--b1aew.xn--p1ai/news/item/23097016) мероприятие «Уроком мужества». После того, как новость получила огласку в СМИ, Нижневартовский департамент образования начал проверку.
+15 февраля в школе №42 в Нижневартовске сотрудники полиции [провели](https://web.archive.org/web/*/https://novayagazeta.ru/news/2021/02/16/167903-chtoby-ne-uchastvovali-vo-vseh-etih-sobytiyah-v-shkole-nizhnevartovska-proveli-imitatsiyu-mitinga-s-uchastiem-rosgvardii) тренировку, в процессе которой школьники в спортзале были разделены на две команды. Первая команда имитировала атаку на силовиков, а вторая отражала ее в роли бойцов ОМОНа. МВД России по Ханты-Мансийскому автономному округу [назвало](https://86.xn--b1aew.xn--p1ai/news/item/23097016) мероприятие «Уроком мужества». После того, как новость получила огласку в СМИ, Нижневартовский департамент образования начал проверку.
 
-**link:** https://novayagazeta.ru/articles/2021/02/10/89154-marivanna-ne-razreshaet-vyyti
+**link:** [Марьиванна не разрешает выйти](2021/02/10/89154-marivanna-ne-razreshaet-vyyti.md)

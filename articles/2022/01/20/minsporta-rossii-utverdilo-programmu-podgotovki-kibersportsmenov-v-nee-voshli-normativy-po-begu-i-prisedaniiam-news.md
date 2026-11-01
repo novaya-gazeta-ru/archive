@@ -17,7 +17,7 @@ tags: "киберспорт, спортсмены, ng"
 
 Чтобы попасть в группу высшего спортивного мастерства, мужчина должен пробежать три километра не более чем за 15 минут, а также выполнить приседания без остановки 25 раз. Женщинам нужно пробежать два километра за 12 минут и выполнить приседания 23 раза. В списке обязательных нормативов также значатся наклоны вперед и подъемы туловища. Кроме этого, необходимо сдать обязательный тест на определение технического мастерства.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/18/katka-so-schastlivym-kontsom
+**Читайте также:** [Катка со счастливым концом](2021/10/18/katka-so-schastlivym-kontsom.md)
 
 Президент Федерации компьютерного спорта России Дмитрий Смит [заявил](https://www.gazeta.ru/tech/news/2022/01/18/17158309.shtml?updated), что это выводит киберспорт в России на новый уровень.
 
@@ -25,8 +25,8 @@ tags: "киберспорт, спортсмены, ng"
 
 Киберспорт был официально признан видом спорта в России в 2016 году.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/19/bez-predrassudkov-v-golove
+**Читайте также:** [Геймеры, славяне!](2021/11/19/bez-predrassudkov-v-golove.md)
 
-В ноябре прошлого года российско-украинская команда Natus Vincere (NAVI) [выиграла](https://novayagazeta.ru/articles/2021/11/08/rossiisko-ukrainskaia-komanda-natus-vincere-vyigrala-kiberturnir-po-counter-strike-global-offensive-news) престижный киберспортивный турнир по компьютерной игре Counter-Strike: Global Offensive (CS:GO) PGL Major. За все время соревнований NAVI ни разу не проиграла. Призовой фонд турнира составляет $2 млн, $1 млн из них получит победитель.
+В ноябре прошлого года российско-украинская команда Natus Vincere (NAVI) [выиграла](2021/11/08/rossiisko-ukrainskaia-komanda-natus-vincere-vyigrala-kiberturnir-po-counter-strike-global-offensive-news.md) престижный киберспортивный турнир по компьютерной игре Counter-Strike: Global Offensive (CS:GO) PGL Major. За все время соревнований NAVI ни разу не проиграла. Призовой фонд турнира составляет $2 млн, $1 млн из них получит победитель.
 
-17 октября команда Team Spirit впервые [выиграла](https://novayagazeta.ru/articles/2021/10/17/rossiiskaia-komanda-vpervye-vyigrala-krupneishii-turnir-po-dota-2-pobediteli-poluchat-18-mln-dollarov-news) крупнейший международный киберспортивный турнир The International по Dota 2. В состав команды входят россияне Ярослав Найденов (Miposhka), Магомед Халилов (Collapse), Александр Хертек (Torontotokyo) и украинцы Мирослав Колпаков (Mira) и Илья Мулярчук (Yatoro). В финале они обыграли китайскую команду PSG LGD со счетом 3-2.
+17 октября команда Team Spirit впервые [выиграла](2021/10/17/rossiiskaia-komanda-vpervye-vyigrala-krupneishii-turnir-po-dota-2-pobediteli-poluchat-18-mln-dollarov-news.md) крупнейший международный киберспортивный турнир The International по Dota 2. В состав команды входят россияне Ярослав Найденов (Miposhka), Магомед Халилов (Collapse), Александр Хертек (Torontotokyo) и украинцы Мирослав Колпаков (Mira) и Илья Мулярчук (Yatoro). В финале они обыграли китайскую команду PSG LGD со счетом 3-2.

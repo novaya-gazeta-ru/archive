@@ -13,6 +13,6 @@ tags: ""
 
 *Онлайн-проект, посвященный его жизни, научной и правозащитной деятельности*
 
-Столетие академика планируется отмечать в десятке городов по всему миру. В Москве международная конференция «Тревога и надежда» [пройдет](https://novayagazeta.ru/articles/2021/03/18/posviashchennaia-100-letiiu-sakharova-mezhdunarodnaia-konferentsiia-trevoga-i-nadezhda-proidet-v-kontse-maia) 24–25 мая в Сахаровском центре. Все новости и анонсы юбилейной программы Сахаровского центра будут доступны в специальной юбилейной [рассылке](http://www.100.sakharov-center.ru/).
+Столетие академика планируется отмечать в десятке городов по всему миру. В Москве международная конференция «Тревога и надежда» [пройдет](2021/03/18/posviashchennaia-100-letiiu-sakharova-mezhdunarodnaia-konferentsiia-trevoga-i-nadezhda-proidet-v-kontse-maia.md) 24–25 мая в Сахаровском центре. Все новости и анонсы юбилейной программы Сахаровского центра будут доступны в специальной юбилейной [рассылке](http://www.100.sakharov-center.ru/).
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/31/velikie-otkrytiia-sovershaiut-inakomysliashchie
+**Читайте также:** [Великие открытия совершают инакомыслящие](2021/03/31/velikie-otkrytiia-sovershaiut-inakomysliashchie.md)

@@ -25,10 +25,10 @@ tags: "россия, украина, бербок, kn"
 
 Бербок отметила, что они выступают за территориальную целостность и суверенитет Украины, но добавила, что только страна и, прежде всего, ее жители могут решать этот вопрос.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/18/rossiia-splotila-evropu-protiv-sebia
+**Читайте также:** [Россия сплотила Европу. Против себя](2022/02/18/rossiia-splotila-evropu-protiv-sebia.md)
 
-Ранее страны НАТО [объявили](https://novayagazeta.ru/articles/2022/01/24/strany-nato-obiavili-o-perebroske-voisk-v-vostochnuiu-evropu-v-sviazi-s-narashchivaniem-voennogo-prisutstviia-rossii-v-ukraine-i-vokrug-nee-news) о переброске военнослужащих и военной техники в Восточную Европу в связи с «наращиванием военного присутствия России в Украине и вокруг нее».
+Ранее страны НАТО [объявили](2022/01/24/strany-nato-obiavili-o-perebroske-voisk-v-vostochnuiu-evropu-v-sviazi-s-narashchivaniem-voennogo-prisutstviia-rossii-v-u.md) о переброске военнослужащих и военной техники в Восточную Европу в связи с «наращиванием военного присутствия России в Украине и вокруг нее».
 
-15 февраля Украина [запросила](https://novayagazeta.ru/articles/2022/02/15/ukraina-zaprosila-pomoshch-u-nato-na-sluchai-masshtabnykh-chrezvychainykh-situatsii-news) международную помощь у НАТО на случай «масштабных чрезвычайных ситуаций различного характера, которые могут затронуть мирное население».
+15 февраля Украина [запросила](2022/02/15/ukraina-zaprosila-pomoshch-u-nato-na-sluchai-masshtabnykh-chrezvychainykh-situatsii-news.md) международную помощь у НАТО на случай «масштабных чрезвычайных ситуаций различного характера, которые могут затронуть мирное население».
 
-Сегодня глава самопровозглашенной Донецкой народной республики («ДНР») Денис Пушилин [заявил](https://novayagazeta.ru/articles/2022/02/18/glava-dnr-obiavil-ob-evakuatsii-zhitelei-samoprovozglashennoi-respubliki-v-rossiiu-news), что власти самопровозглашенной республики организовали централизованный выезд местных жителей в Россию. Позже об эвакуации жителей объявил и глава самопровозглашенной Луганской народной республики («ЛНР») Леонид Пасечник.
+Сегодня глава самопровозглашенной Донецкой народной республики («ДНР») Денис Пушилин [заявил](2022/02/18/glava-dnr-obiavil-ob-evakuatsii-zhitelei-samoprovozglashennoi-respubliki-v-rossiiu-news.md), что власти самопровозглашенной республики организовали централизованный выезд местных жителей в Россию. Позже об эвакуации жителей объявил и глава самопровозглашенной Луганской народной республики («ЛНР») Леонид Пасечник.

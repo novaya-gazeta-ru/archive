@@ -27,6 +27,6 @@ tags: ""
 
 В общем, отказ от идеи «менять систему» вошел в острое логическое противоречие с тезисом, о том, что система эта, пусть и на фоне давления «заокеанских друзей», представляет собой угрозу национальной безопасности. Президент должен был сделать сложный стратегический выбор между изоляционизмом и либерализмом, но, видимо, не в этот раз.
 
-**link:** https://novayagazeta.ru/politics/66378.html
+**link:** [https://novayagazeta.ru/politics/66378.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66378.html)
 
-**link:** https://novayagazeta.ru/politics/66378.html
+**link:** [https://novayagazeta.ru/politics/66378.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66378.html)

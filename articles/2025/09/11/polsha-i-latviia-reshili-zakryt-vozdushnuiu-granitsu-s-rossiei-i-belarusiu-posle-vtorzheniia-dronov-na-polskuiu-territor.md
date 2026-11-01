@@ -17,4 +17,4 @@ tags: ""
 
 Польша [заявила](https://t.me/novaya_pishet/53491) о масштабном нарушении своего воздушного пространства беспилотниками в ночь на 10 сентября. Варшава считает дроны российскими. Один из БПЛА повредил жилой дом и автомобиль в Люблинском воеводстве, пострадавших нет. Часть дронов была сбита.
 
-Российское Минобороны, комментируя инцидент, [заявило](https://novayagazeta.ru/articles/2025/09/10/minoborony-rf-oproverglo-narushenie-vozdushnogo-prostranstva-polshi-i-predlozhilo-varshave-konsultatsii-v-nato-primenili-statiu-4-news), что готово привести консультации с польским военным ведомством по этому вопросу.
+Российское Минобороны, комментируя инцидент, [заявило](2025/09/10/minoborony-rf-oproverglo-narushenie-vozdushnogo-prostranstva-polshi-i-predlozhilo-varshave-konsultatsii-v-nato-primenili.md), что готово привести консультации с польским военным ведомством по этому вопросу.

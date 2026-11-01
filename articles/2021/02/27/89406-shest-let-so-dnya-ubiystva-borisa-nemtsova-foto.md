@@ -35,7 +35,7 @@ tags: "фотогалерея, убийство, мемориал, немцов"
 
 *Фото: Светлана Виданова / «Новая газета»*
 
-Всего к 14:30 около тысячи человек пришли к мосту почтить память политика, сообщает наш корреспондент. К 17:00, по оценке Белого счетчика, к месту убийства Немцова [пришли](https://novayagazeta.ru/news/2021/02/27/168213-belyy-schetchik-bolee-semi-s-polovinoy-tysyach-chelovek-prishli-k-memorialu-nemtsova-v-moskve) уже 7,8 тыс. граждан.
+Всего к 14:30 около тысячи человек пришли к мосту почтить память политика, сообщает наш корреспондент. К 17:00, по оценке Белого счетчика, к месту убийства Немцова [пришли](https://web.archive.org/web/*/https://novayagazeta.ru/news/2021/02/27/168213-belyy-schetchik-bolee-semi-s-polovinoy-tysyach-chelovek-prishli-k-memorialu-nemtsova-v-moskve) уже 7,8 тыс. граждан.
 
 Санкт-Петербург
 

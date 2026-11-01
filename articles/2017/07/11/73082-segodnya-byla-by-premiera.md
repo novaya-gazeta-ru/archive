@@ -25,4 +25,4 @@ tags: "балет, серебренников, культура"
 
 Источник
 
-**link:** https://novayagazeta.ru/articles/2017/07/11/73080-i-kto-esche-golyy
+**link:** [Запрет «Нуреева». И кто еще голый?](2017/07/11/73080-i-kto-esche-golyy.md)

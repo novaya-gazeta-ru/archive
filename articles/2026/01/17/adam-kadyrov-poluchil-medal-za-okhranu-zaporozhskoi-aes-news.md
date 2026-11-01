@@ -29,6 +29,6 @@ tags: ""
 >
 > Из Грозного вечером 16 января в Москву вылетел самолет-госпиталь, а за ним во Внуково приземлился и бизнес-джет, приписываемый Рамзану Кадырову. Это подтверждается данными сервиса FlightRadar.
 
-Сегодня стало известно, что МАГАТЭ добилось временного [двустороннего прекращения огня](https://novayagazeta.ru/articles/2026/01/17/magate-dobilos-lokalnogo-peremiriia-mezhdu-rossiei-i-ukrainoi-dlia-novogo-remonta-zaporozhskoi-aes-a-posle-povrezhdeniia-chernobylskoi-aes-atomshchiki-proinspektiruiut-10-ukrainskikh-elektropodstantsii-news) между Россией и Украиной в зоне Запорожской АЭС. Режим тишины необходим, чтобы провести ремонт критически важной энергетической инфраструктуры.
+Сегодня стало известно, что МАГАТЭ добилось временного [двустороннего прекращения огня](2026/01/17/magate-dobilos-lokalnogo-peremiriia-mezhdu-rossiei-i-ukrainoi-dlia-novogo-remonta-zaporozhskoi-aes-a-posle-povrezhdeniia.md) между Россией и Украиной в зоне Запорожской АЭС. Режим тишины необходим, чтобы провести ремонт критически важной энергетической инфраструктуры.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/12/01/medalnyi-plan
+**Читайте также:** [Медальный план](2023/12/01/medalnyi-plan.md)

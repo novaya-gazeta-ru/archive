@@ -51,9 +51,9 @@ tags: "застройка, москва, парки, протесты"
 
 Кстати, главное управление МВД по Москве, которое проводило проверку «по факту событий, произошедших 3 февраля», не выявило в действиях полицейских никаких нарушений, а также «фактов причинения телесных повреждений гражданам». И это странно.
 
-**link:** https://novayagazeta.ru/society/71783.html
+**link:** [https://novayagazeta.ru/society/71783.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/71783.html)
 
-**link:** https://novayagazeta.ru/society/71783.html
+**link:** [https://novayagazeta.ru/society/71783.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/71783.html)
 
 Во-первых, потому что одну из жительниц в тот день прямо со стройплощадки увезли на «скорой» в больницу, а несколько человек обратились в травмпункты, зафиксировали побои и написали заявления в полицию.
 

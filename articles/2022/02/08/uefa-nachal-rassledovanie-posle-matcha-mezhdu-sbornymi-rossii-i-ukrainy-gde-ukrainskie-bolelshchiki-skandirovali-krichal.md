@@ -23,4 +23,4 @@ Sports.ru [писал](https://www.sports.ru/soccer/1106124738-match-tv-posle-kr
 
 После этого Российский футбольный союз (РФС) [потребовал](https://www.sport-express.ru/futsal/news/rfs-potreboval-ot-uefa-rassledovat-povedenie-ukrainskih-bolelschikov-na-matche-chempionata-evropy-po-mini-futbolu-1887835/) от УЕФА открыть дисциплинарное расследование. «Во время матча украинские болельщики на трибунах скандировали в адрес российских футболистов оскорбительные высказывания, которые носили политический характер, разжигали ненависть по национальному признаку и в числе прочего содержали призывы к убийству российских граждан», — говорилось в заявлении.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/29/lasitskene-italiia-i-russkie-raketki
+**Читайте также:** [Ласицкене, Италия и русские ракетки](2021/12/29/lasitskene-italiia-i-russkie-raketki.md)

@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<a href="http://www.novayagazeta.ru/storage/c/2012/11/23/1353624544_192218_53.png" target="_blank"><img alt="Петр Саруханов — «Новая»" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2012/11/23/1353624543_892853_92.png" style="width: 350px; height: 245px; "></a></td>
+				<a href="[http://www.novayagazeta.ru/storage/c/2012/11/23/1353624544_192218_53.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/23/1353624544_192218_53.png)" target="_blank"><img alt="Петр Саруханов — «Новая»" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2012/11/23/1353624543_892853_92.png" style="width: 350px; height: 245px; "></a></td>
 		</tr>
 		<tr>
 			<td>
@@ -24,15 +24,15 @@ tags: ""
 		</tr>
 		<tr>
 			<td>
-				<a href="http://www.novayagazeta.ru/storage/c/2012/11/23/1353624557_592203_89.png" target="_blank"><img alt="" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2012/11/23/1353624544_589471_41.png" style="width: 350px; height: 279px; "></a></td>
+				<a href="[http://www.novayagazeta.ru/storage/c/2012/11/23/1353624557_592203_89.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/23/1353624557_592203_89.png)" target="_blank"><img alt="" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2012/11/23/1353624544_589471_41.png" style="width: 350px; height: 279px; "></a></td>
 		</tr>
 		<tr>
 			<td>
-				<a href="http://www.novayagazeta.ru/storage/c/2012/11/23/1353624558_139915_78.png" target="_blank"><img alt="" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2012/11/23/1353624557_871763_51.png" style="width: 350px; height: 178px; "></a></td>
+				<a href="[http://www.novayagazeta.ru/storage/c/2012/11/23/1353624558_139915_78.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/23/1353624558_139915_78.png)" target="_blank"><img alt="" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2012/11/23/1353624557_871763_51.png" style="width: 350px; height: 178px; "></a></td>
 		</tr>
 		<tr>
 			<td>
-				<a href="http://www.novayagazeta.ru/storage/c/2012/11/23/1353624571_305389_58.png" target="_blank"><img alt="" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2012/11/23/1353624571_032416_76.png" style="width: 350px; height: 248px; "></a></td>
+				<a href="[http://www.novayagazeta.ru/storage/c/2012/11/23/1353624571_305389_58.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/23/1353624571_305389_58.png)" target="_blank"><img alt="" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2012/11/23/1353624571_032416_76.png" style="width: 350px; height: 248px; "></a></td>
 		</tr>
 		<tr>
 			<td>
@@ -47,7 +47,7 @@ tags: ""
 		</tr>
 	</tbody>]*
 
-[ Начало в номере №131](http://www.novayagazeta.ru/inquests/55490.html)
+[ Начало в номере №131](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/55490.html)
 
 **Ч** тобы ответить, был ли Олег Дерипаска жертвой рэкета Михаила Черного, принуждал ли он его к сотрудничеству, лондонскому суду требовалось прояснить прежде всего, на чьи деньги в самом начале это сотрудничество осуществлялось.
 

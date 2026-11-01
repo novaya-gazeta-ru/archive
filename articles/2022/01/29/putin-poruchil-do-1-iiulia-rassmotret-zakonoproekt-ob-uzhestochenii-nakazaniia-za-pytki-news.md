@@ -19,14 +19,14 @@ tags: "иноагенты, путин, пытки"
 
 «При необходимости представить предложения о совершенствовании законодательства», — говорится в тексте перечня.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/27/statia-kotoroi-net
+**Читайте также:** [Статья, которой нет](2022/01/27/statia-kotoroi-net.md)
 
-Законопроект, ужесточающий наказание за пытки, в Государственную думу [внесли](https://novayagazeta.ru/articles/2021/12/20/v-gosdumu-vnesli-zakonoproekt-ob-uzhestochenii-nakazaniia-za-pytki-on-predusmatrivaet-do-12-let-lisheniia-svobody-news) в декабре. Авторы нового проекта — депутат Госдумы Павел Крашенинников и сенатор Андрей Клишас.
+Законопроект, ужесточающий наказание за пытки, в Государственную думу [внесли](2021/12/20/v-gosdumu-vnesli-zakonoproekt-ob-uzhestochenii-nakazaniia-za-pytki-on-predusmatrivaet-do-12-let-lisheniia-svobody-news.md) в декабре. Авторы нового проекта — депутат Госдумы Павел Крашенинников и сенатор Андрей Клишас.
 
 В нем предлагается усилить наказание за пытки, организованные представителями власти, и перевести их в разряд особо тяжких. За применение пыток с целью запугать или принудить к даче показаний предусматривается наказание в виде лишения свободы на срок до 12 лет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/20/pytka-ostanetsia-ne-prestupleniem-a-prevysheniem-polnomochii
+**Читайте также:** [«Пытка останется не преступлением, а превышением полномочий»](2021/12/20/pytka-ostanetsia-ne-prestupleniem-a-prevysheniem-polnomochii.md)
 
-В начале октября правозащитный проект Gulagu.net [начал публиковать](https://novayagazeta.ru/articles/2021/11/16/%C2%ABhttps://novayagazeta.ru/articles/2021/10/28/%C2%ABhttps://novayagazeta.ru/articles/2021/10/05/fsin-nachala-sluzhebnuiu-proverku-posle-publikatsii-video-iznasilovanii-zakliuchennykh-v-tuberkuleznoi-bolnitse-v-saratove-news%C2%BB%C2%BB) видеоархивы с пытками осужденных, полученные от бывшего заключенного саратовской колонии программиста Сергея Савельева. По его словам, руководство Саратовской областной туберкулезной больницы (ОТБ-1) заставляло активистов из числа заключенных фиксировать пытки на видеорегистраторы.
+В начале октября правозащитный проект Gulagu.net [начал публиковать](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/16/%C2%AB [https://novayagazeta.ru/articles/2021/10/28/%C2%AB](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/10/28/%C2%AB) [fsin-nachala-sluzhebnuiu-proverku-posle-publikatsii-video-iznasilovanii-zakliuchennykh-v-tuberkuleznoi-bolnitse-v-saratove-news%C2%BB%C2%BB](2021/10/05/fsin-nachala-sluzhebnuiu-proverku-posle-publikatsii-video-iznasilovanii-zakliuchennykh-v-tuberkuleznoi-bolnitse-v-sarato.md)) видеоархивы с пытками осужденных, полученные от бывшего заключенного саратовской колонии программиста Сергея Савельева. По его словам, руководство Саратовской областной туберкулезной больницы (ОТБ-1) заставляло активистов из числа заключенных фиксировать пытки на видеорегистраторы.
 
-Следственный комитет [возбудил](https://novayagazeta.ru/articles/2022/01/22/sk-vozbudil-20-ugolovnykh-del-v-sviazi-s-pytkami-v-saratovskoi-tiuremnoi-bolnitse-news) 20 уголовных дел из-за пыток над осужденными в ОТБ-1. Начальника ОТБ-1 Павла Гаценко и еще троих сотрудников регионального управления ведомства уволили. Глава регионального управления ФСИН Алексей Федотов подал в отставку.
+Следственный комитет [возбудил](2022/01/22/sk-vozbudil-20-ugolovnykh-del-v-sviazi-s-pytkami-v-saratovskoi-tiuremnoi-bolnitse-news.md) 20 уголовных дел из-за пыток над осужденными в ОТБ-1. Начальника ОТБ-1 Павла Гаценко и еще троих сотрудников регионального управления ведомства уволили. Глава регионального управления ФСИН Алексей Федотов подал в отставку.

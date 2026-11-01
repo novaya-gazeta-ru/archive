@@ -31,6 +31,6 @@ tags: ""
 
 Устроившие перфоманс активисты в беседе с журналистами «Бумаги» рассказали, что что ими никто не управляет, они не являются политической организацией и что у участников объединения разные политические взгляды. Своей задачей они называют борьбу за права студентов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/18/zavalivshikh-sessiiu-studentov-urfu-predlozhili-otpravliat-na-svo-s-pravom-vosstanovitsia-v-vuze-ideiu-podskazal-voenkom-news
+**Читайте также:** [Заваливших сессию студентов УрФУ предложили отправлять на СВО с правом восстановиться в вузе. Идею подсказал военком](2025/04/18/zavalivshikh-sessiiu-studentov-urfu-predlozhili-otpravliat-na-svo-s-pravom-vosstanovitsia-v-vuze-ideiu-podskazal-voenkom.md)
 
 #### * Минюст включил в реестр «иноагентов».

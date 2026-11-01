@@ -41,4 +41,4 @@ tags: "жара, блэкаут, тушите свет, электроэнерг
 
 *Крым*
 
-**link:** https://novayagazeta.ru/articles/2017/07/15/73128-turbinynashi
+**link:** [#Турбинынаши](2017/07/15/73128-turbinynashi.md)

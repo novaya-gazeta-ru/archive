@@ -17,10 +17,10 @@ tags: "ng, акции протеста, мвд, суды, кемерово"
 
 Это решение по первому иску против организаторов январских акций в Кузбассе, второй иск на сумму 752 409,39 рублей будет рассмотрен 25 ноября, уточнили в «Апологии протеста».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/02/pereputali-ushcherb-s-raskhodami
+**Читайте также:** [Перепутали ущерб с расходами](2021/09/02/pereputali-ushcherb-s-raskhodami.md)
 
-17 ноября Кировский районный суд Уфы [удовлетворил](https://novayagazeta.ru/articles/2021/11/17/sud-v-ufe-vzyskal-so-storonnikov-navalnogo-bolee-polumilliona-rublei-za-sverkhurochnuiu-rabotu-politseiskikh-na-aktsii-23-ianvaria-news) иск местного МВД и взыскал с экс-главы штаба Навального* в Уфе Лилии Чанышевой, а также активистов Ольги Комлевой и Ильгама Янбердина 529 400,11 рублей за сверхурочную работу полицейских на акции 23 января.
+17 ноября Кировский районный суд Уфы [удовлетворил](2021/11/17/sud-v-ufe-vzyskal-so-storonnikov-navalnogo-bolee-polumilliona-rublei-za-sverkhurochnuiu-rabotu-politseiskikh-na-aktsii-2.md) иск местного МВД и взыскал с экс-главы штаба Навального* в Уфе Лилии Чанышевой, а также активистов Ольги Комлевой и Ильгама Янбердина 529 400,11 рублей за сверхурочную работу полицейских на акции 23 января.
 
-В начале этого года во многих российских городах прошли протесты в поддержку Навального. Помимо Кемерова и Уфы, полиция потребовала выплатить компенсацию за работу на митингах в Омске, [Пензе](https://novayagazeta.ru/articles/2021/04/12/politsiia-penzy-potrebovala-ot-glavy-mestnogo-shtaba-navalnogo-900-tysiach-rublei-za-vyplaty-silovikam-rabotavshim-v-vykhodnoi-23-ianvaria), [Челябинске](https://novayagazeta.ru/articles/2021/04/28/za-iznos-dubinki), [Ярославле](https://novayagazeta.ru/articles/2021/07/28/sud-v-iaroslavle-vzyskal-so-storonnitsy-navalnogo-pochti-300-tysiach-rublei-za-rabotu-politseiskikh-na-aktsii-23-ianvaria) и других городах.
+В начале этого года во многих российских городах прошли протесты в поддержку Навального. Помимо Кемерова и Уфы, полиция потребовала выплатить компенсацию за работу на митингах в Омске, [Пензе](2021/04/12/politsiia-penzy-potrebovala-ot-glavy-mestnogo-shtaba-navalnogo-900-tysiach-rublei-za-vyplaty-silovikam-rabotavshim-v-vyk.md), [Челябинске](2021/04/28/za-iznos-dubinki.md), [Ярославле](2021/07/28/sud-v-iaroslavle-vzyskal-so-storonnitsy-navalnogo-pochti-300-tysiach-rublei-za-rabotu-politseiskikh-na-aktsii-23-ianvari.md) и других городах.
 
 #### *Мосгорсуд признал «штабы Навального» экстремистской структурой и запретил их деятельность на территории РФ, внесены Минюстом в список НКО, выполняющих функцию иностранного агента

@@ -97,4 +97,4 @@ tags: "орлов, мемориал, политзаключенные, сво, �
 
 #### ** Внесены Минюстом в реестр иностранных агентов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/09/22/ne-zhelaiu-svoei-strane-katastrofy
+**Читайте также:** [«Не желаю своей стране катастрофы»](2023/09/22/ne-zhelaiu-svoei-strane-katastrofy.md)

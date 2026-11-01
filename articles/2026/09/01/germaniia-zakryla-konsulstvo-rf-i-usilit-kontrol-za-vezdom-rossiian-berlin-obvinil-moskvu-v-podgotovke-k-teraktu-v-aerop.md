@@ -33,7 +33,7 @@ tags: ""
 
 > «Придумали повод! При этом сам Берлин полностью замаран как разжиганием украинского конфликта, так и участием в терактах против мирных жителей <…> Русский дом давно им не давал покоя. Поэтому искали, за что зацепиться. <…> Москва даст ответ».
 
-Об опасности диверсий «одноразовых» агентов-непрофессионалов в интересах российских спецслужб днем ранее [заявляла](https://novayagazeta.ru/articles/2026/08/31/cheshskaia-kontrrazvedka-predupredila-o-riskakh-odnorazovykh-diversii-v-strane-so-storony-agentov-neprofessionalov-zaverbovannykh-v-interesakh-rossiiskikh-spetssluzhb-news) Чехия. За август в ЕС пострадали несколько заводов, связанных с поставками военных грузов Украине.
+Об опасности диверсий «одноразовых» агентов-непрофессионалов в интересах российских спецслужб днем ранее [заявляла](2026/08/31/cheshskaia-kontrrazvedka-predupredila-o-riskakh-odnorazovykh-diversii-v-strane-so-storony-agentov-neprofessionalov-zaver.md) Чехия. За август в ЕС пострадали несколько заводов, связанных с поставками военных грузов Украине.
 
 **P.S.**
 

@@ -35,7 +35,7 @@ tags: "навальный, усманов"
 
 **Александр Солдатов —** специально для «Новой»
 
-**link:** https://novayagazeta.ru/articles/2017/06/02/72663-yuliya-latynina-glavnyy-vopros-skolko-vyydet-na-ulitsu-12-iyunya
+**link:** [Юлия Латынина: «Главный вопрос: сколько выйдет на улицу 12 июня»](2017/06/02/72663-yuliya-latynina-glavnyy-vopros-skolko-vyydet-na-ulitsu-12-iyunya.md)
 
 # Тьфу и нейролингвистическое программирование
 

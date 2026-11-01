@@ -87,7 +87,7 @@ tags: "социология, рождаемость, пропаганда рож
 >
 > \
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/29/kak-gosudarstvo-zaletelo
+**Читайте также:** [Как государство залетело…](2025/04/29/kak-gosudarstvo-zaletelo.md)
 
 > **опрос 2**
 >

@@ -101,4 +101,4 @@ tags: "doxa, студенты, журналистика, преследован�
 
 Но все же не интеллектуальность делает DOXA столь важным проектом для Москвы, хотя это тоже играет свою роль. Не менее важно то, что любой студент может обратиться в DOXA и получить поддержку, которую он или она не может получить в университете.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/04/14/v-2021-godu-vlasti-pereshli-k-silovym-metodam
+**Читайте также:** [https://novayagazeta.ru/articles/2021/04/14/v-2021-godu-vlasti-pereshli-k-silovym-metodam](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/04/14/v-2021-godu-vlasti-pereshli-k-silovym-metodam)

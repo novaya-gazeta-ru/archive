@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/05/05/1399298089_035371_97.png" style="width: 360px; height: 327px;"><sup>Алексей Гордеев и Максим Кавджарадзе</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/05/05/1399298089_035371_97.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/05/05/1399298089_035371_97.png)" style="width: 360px; height: 327px;"><sup>Алексей Гордеев и Максим Кавджарадзе</sup></td>
 		</tr>
 	</tbody>]*
 

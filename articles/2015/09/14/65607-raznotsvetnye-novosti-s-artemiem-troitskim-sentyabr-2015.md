@@ -13,8 +13,8 @@ tags: "реакция, троицкий"
 
 *Приговор Сенцову, Энтео на Манеже, освобождение белорусских политзаключенных, часы Пескова и вычеркнутый из истории советского спорта Каспаров – обзор самых ярких событий прошедшего месяца в совместном проекте ARU TV и «Новой газеты»*
 
-**link:** https://novayagazeta.ru/tv/topics/68927.html
+**link:** [https://novayagazeta.ru/tv/topics/68927.html](https://web.archive.org/web/*/https://novayagazeta.ru/tv/topics/68927.html)
 
-**link:** https://novayagazeta.ru/tv/topics/68927.html
+**link:** [https://novayagazeta.ru/tv/topics/68927.html](https://web.archive.org/web/*/https://novayagazeta.ru/tv/topics/68927.html)
 
 Приговор Сенцову, Энтео на Манеже, освобождение белорусских политзаключенных, часы Пескова и вычеркнутый из истории советского спорта Каспаров – обзор самых ярких событий прошедшего месяца в совместном проекте ARU TV и «Новой газеты»

@@ -17,8 +17,8 @@ tags: "германия, путин, канцлер, шольц, германи�
 
 Главы государств также обсудили предложения России по безопасности в Европе, исключающие дальнейшее продвижение НАТО на восток, и поговорили о конфликте в Украине. «Путин в деталях информировал о состоянии дел на этом направлении, отметив, в частности, что Киев по-прежнему упорно уклоняется от выполнения своих обязательств по Минским договоренностям 2015 года», — говорится в сообщении.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/08/kantsler-kotoraia-smogla
+**Читайте также:** [Канцлер, которая смогла](2021/12/08/kantsler-kotoraia-smogla.md)
 
-В начале декабря в Германии [представили](https://novayagazeta.ru/articles/2021/12/08/v-germanii-predstavili-novoe-pravitelstvo-strany-pri-kantslere-sholtse-posty-vitse-kantslera-i-glavy-mid-zaniali-kritiki-sevpotoka-2-khabek-i-berbok-news) новое правительство страны во главе с канцлером Олафом Шольцем. Кабмин сформировали три партии из коалиции «светофор» (названа по цветам партий): Социал-демократическая партия (СДПГ), «Зеленые» и «Свободная демократическая партия» (СвДП; либералы). Выборы в Бундестаг в этом году впервые за 16 лет [прошли](https://novayagazeta.ru/articles/2021/09/27/sotsial-demokraty-vyigrali-parlamentskie-vybory-v-germanii-blok-merkel-s-nebolshim-otstavaniem-idet-vtorym-news) без участия Ангелы Меркель.
+В начале декабря в Германии [представили](2021/12/08/v-germanii-predstavili-novoe-pravitelstvo-strany-pri-kantslere-sholtse-posty-vitse-kantslera-i-glavy-mid-zaniali-kritiki.md) новое правительство страны во главе с канцлером Олафом Шольцем. Кабмин сформировали три партии из коалиции «светофор» (названа по цветам партий): Социал-демократическая партия (СДПГ), «Зеленые» и «Свободная демократическая партия» (СвДП; либералы). Выборы в Бундестаг в этом году впервые за 16 лет [прошли](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/27/sotsial-demokraty-vyigrali-parlamentskie-vybory-v-germanii-blok-merkel-s-nebolshim-otstavaniem-idet-vtorym-news) без участия Ангелы Меркель.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/26/vkliuchili-svetofor
+**Читайте также:** [Включили «Светофор»](2021/11/26/vkliuchili-svetofor.md)

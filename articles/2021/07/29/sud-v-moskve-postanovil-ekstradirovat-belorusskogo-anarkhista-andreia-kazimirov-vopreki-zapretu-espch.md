@@ -23,8 +23,8 @@ tags: "анархист, беларусь, экстрадиция, кудин, �
 
 В мае Мосгорсуд постановил выслать Казимирова, однако позже ЕСПЧ запретил экстрадировать анархиста по Правилу 39 об экстренных мерах.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/04/07/vozhd-silno-vozbudilsia
+**Читайте также:** [«Вождь сильно возбудился»](2021/04/07/vozhd-silno-vozbudilsia.md)
 
 Как [рассказывал](https://t.me/belarus_abc/472) телеграм-канал «АЧК Беларусь», в конце августа к Казимирову пришли силовики из брестского отделения Следственного комитета, пригласили его на допрос, но после отпустили под подписку о невыезде. Анархист бежал в Россию. Правозащитники отмечают, что в ходе протестов силовики ранили Казимирова резиновой пулей.
 
-22 июля [стало известно](https://novayagazeta.ru/articles/2021/07/22/rossiia-vydala-obviniaemogo-v-belarusi-po-ugolovnomu-delu-bortsa-mma-nesmotria-na-zapret-espch), что Россия выдала Беларуси бойца ММА Алексея Кудина, несмотря на аналогичный запрет ЕСПЧ. Сейчас Кудин находится в минском СИЗО №1, его вывезли туда тайно, не уведомляя защиту. МХГ [обратилась](https://openmedia.io/news/n3/pravozashhitniki-obratilas-v-sovet-evropy-iz-za-poxishhenij-grazhdan-belorussii-v-rossii-i-skrytoj-deportacii/?utm_source=telegram&utm_media=telegram) в Совет Европы в связи с практикой «скрытых депортаций» преследуемых граждан Беларуси из России.
+22 июля [стало известно](2021/07/22/rossiia-vydala-obviniaemogo-v-belarusi-po-ugolovnomu-delu-bortsa-mma-nesmotria-na-zapret-espch.md), что Россия выдала Беларуси бойца ММА Алексея Кудина, несмотря на аналогичный запрет ЕСПЧ. Сейчас Кудин находится в минском СИЗО №1, его вывезли туда тайно, не уведомляя защиту. МХГ [обратилась](https://openmedia.io/news/n3/pravozashhitniki-obratilas-v-sovet-evropy-iz-za-poxishhenij-grazhdan-belorussii-v-rossii-i-skrytoj-deportacii/?utm_source=telegram&utm_media=telegram) в Совет Европы в связи с практикой «скрытых депортаций» преследуемых граждан Беларуси из России.

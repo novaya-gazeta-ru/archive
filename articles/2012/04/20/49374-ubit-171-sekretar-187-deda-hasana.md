@@ -14,22 +14,22 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/04/20/1334934167_198425_28.jpg" style="width: 360px; height: 270px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/04/20/1334934167_198425_28.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/04/20/1334934167_198425_28.jpg)" style="width: 360px; height: 270px; "><br>
 				<sup>Илгар Джабраилов</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/04/20/1334934170_587734_29.jpg" style="width: 360px; height: 239px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/04/20/1334934170_587734_29.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/04/20/1334934170_587734_29.jpg)" style="width: 360px; height: 239px; "><br>
 				<sup>На месте убийства Джабраилова</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/04/20/1334934174_249811_70.jpg" style="width: 360px; height: 335px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/04/20/1334934174_249811_70.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/04/20/1334934174_249811_70.jpg)" style="width: 360px; height: 335px; "><br>
 				<sup>Юсиф Бакинский. На лобовом стекле — пропуск Верховного суда РФ</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/04/20/1334934162_370583_35.jpg" style="width: 360px; height: 270px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/04/20/1334934162_370583_35.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/04/20/1334934162_370583_35.jpg)" style="width: 360px; height: 270px; "><br>
 				<sup>Место Джабраилова может занять авторитет Садко (справа)</sup></td>
 		</tr>
 	</tbody>]*

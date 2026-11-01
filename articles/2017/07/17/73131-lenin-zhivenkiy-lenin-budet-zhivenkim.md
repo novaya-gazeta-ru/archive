@@ -39,4 +39,4 @@ tags: "ленин, литература, книги"
 
 Встреча с его двойником у Иверских ворот будет куда познавательнее.
 
-**link:** https://novayagazeta.ru/articles/2017/03/24/71896-lev-danilkin-navalnomu-nado-chitat-gegelya
+**link:** [Лев Данилкин: «Навальному надо читать Гегеля»](2017/03/24/71896-lev-danilkin-navalnomu-nado-chitat-gegelya.md)

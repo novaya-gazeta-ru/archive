@@ -17,6 +17,6 @@ tags: "приговор, солдаты, иркутск, em"
 
 «Тайга.Инфо» [сообщила](https://tayga.info/174215), что Албакова признали виновным в неуставных отношениях (п. «б» ч. 2 ст 335 УК) и возбуждении ненависти с использованием интернета (п. «а» ч. 2 ст 282 УК).
 
-Ранее суд в Сочи [приговорил](https://novayagazeta.ru/articles/2021/11/09/sud-v-sochi-prigovoril-serzhanta-kontraktnika-k-45-goda-kolonii-za-izbienie-srochnika-iz-za-izdevatelstv-poterpevshii-oslep-news) сержанта-контрактника Карасева к 4,5 года колонии за издевательств над срочником. В марте 2021 года военный избил солдата-срочника, а затем начал светить ему в глаза лазерной указкой. В результате издевательств потерпевший ослеп на оба глаза.
+Ранее суд в Сочи [приговорил](2021/11/09/sud-v-sochi-prigovoril-serzhanta-kontraktnika-k-45-goda-kolonii-za-izbienie-srochnika-iz-za-izdevatelstv-poterpevshii-os.md) сержанта-контрактника Карасева к 4,5 года колонии за издевательств над срочником. В марте 2021 года военный избил солдата-срочника, а затем начал светить ему в глаза лазерной указкой. В результате издевательств потерпевший ослеп на оба глаза.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/12/dedovshchine-obiavlen-otboi
+**Читайте также:** [https://novayagazeta.ru/articles/2021/10/12/dedovshchine-obiavlen-otboi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/10/12/dedovshchine-obiavlen-otboi)

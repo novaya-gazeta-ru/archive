@@ -51,4 +51,4 @@ IT-бизнесмена Сергея Менделева больше удивл�
 
 По всему получается, что атака на информационные системы «Аэрофлота» — не первая атака. И, к сожалению, вероятно, не последняя.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/28/khakery-zaiavili-o-prichastnosti-ko-vzlomu-aeroflota-aviakompaniia-uzhe-otmenila-42-reisa-iz-za-sboia-news
+**Читайте также:** [Хакеры заявили о причастности ко взлому «Аэрофлота». Авиакомпания уже отменила 42 рейса из-за сбоя](2025/07/28/khakery-zaiavili-o-prichastnosti-ko-vzlomu-aeroflota-aviakompaniia-uzhe-otmenila-42-reisa-iz-za-sboia-news.md)

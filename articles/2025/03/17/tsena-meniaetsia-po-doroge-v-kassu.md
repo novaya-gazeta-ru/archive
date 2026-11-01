@@ -106,7 +106,7 @@ tags: "цены, повышение, замер стоимости, продук
 >
 > **Алексей Тарасов**, «Новая»
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/22/paketov-pomenshe-i-chek-pokoroche
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/22/paketov-pomenshe-i-chek-pokoroche](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/22/paketov-pomenshe-i-chek-pokoroche)
 
 > **Санкт-Петербург**
 >

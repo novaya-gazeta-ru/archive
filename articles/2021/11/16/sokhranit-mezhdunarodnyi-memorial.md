@@ -458,7 +458,7 @@ tags: "открытое письмо, мемориал, репрессии, ин
 
 Михаил Ямпольский, культуролог
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/18/prizyvaem-prokuraturu-otozvat-iski-protiv-memoriala
+**Читайте также:** [«Призываем прокуратуру отозвать иски против "Мемориала"»](2021/11/18/prizyvaem-prokuraturu-otozvat-iski-protiv-memoriala.md)
 
 Евгений Ермолин, писатель
 
@@ -577,7 +577,7 @@ tags: "открытое письмо, мемориал, репрессии, ин
 
 Вячеслав Корниченко, актер, режиссер\
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/13/liudmila-petrushevskaia-otkazalas-ot-zvaniia-laureata-gosudarstvennoi-premii-v-znak-protesta-protiv-popytok-likvidirovat-memorial-news
+**Читайте также:** [Людмила Петрушевская отказалась от звания лауреата Государственной премии в знак протеста против попыток ликвидировать «Мемориал»](2021/11/13/liudmila-petrushevskaia-otkazalas-ot-zvaniia-laureata-gosudarstvennoi-premii-v-znak-protesta-protiv-popytok-likvidirovat.md)
 
 Александр Архангельский, писатель
 

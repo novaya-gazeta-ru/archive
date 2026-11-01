@@ -29,7 +29,7 @@ tags: "интернет"
 
 *Фото: Алексей Комаров / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2017/08/26/73601-ya-lyudey-nemnogo-vytyagivayu-podtalkivayu-k-vnutrenney-svobode
+**link:** [Осторожно, интернет закрывается](2017/08/26/73601-ya-lyudey-nemnogo-vytyagivayu-podtalkivayu-k-vnutrenney-svobode.md)
 
 ![](_assets/85/8505322e3ec5e612aebbba57c93b7f2f.webp)
 

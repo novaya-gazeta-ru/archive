@@ -31,9 +31,9 @@ tags: "приговор, суды, седьмая студия, театраль
 
 > **ЧИТАЙТЕ ПОЛНОСТЬЮ**
 >
-> ### [Речь Кирилла Серебренникова в суде по делу «Седьмой студии» 22 июня 2020 года: «Ни о чем не жалею. Сочувствую вам»](https://novayagazeta.ru/articles/2020/06/23/85964-ni-o-chem-ne-zhaleyu-sochuvstvuyu-vam)
+> ### [Речь Кирилла Серебренникова в суде по делу «Седьмой студии» 22 июня 2020 года: «Ни о чем не жалею. Сочувствую вам»](2020/06/23/85964-ni-o-chem-ne-zhaleyu-sochuvstvuyu-vam.md)
 
-**link:** https://novayagazeta.ru/articles/2020/06/23/85976-nepovinnoy-glave-topora-da-zelenogo-lavra
+**link:** [«Неповинной главе — топора да зеленого лавра»](2020/06/23/85976-nepovinnoy-glave-topora-da-zelenogo-lavra.md)
 
 # Евгений Миронов,
 
@@ -57,4 +57,4 @@ tags: "приговор, суды, седьмая студия, театраль
 
 Иначе будущее нашей культуры незавидно.
 
-**link:** https://novayagazeta.ru/articles/2020/06/23/85977-studiya-marionetok
+**link:** [Студия марионеток](2020/06/23/85977-studiya-marionetok.md)

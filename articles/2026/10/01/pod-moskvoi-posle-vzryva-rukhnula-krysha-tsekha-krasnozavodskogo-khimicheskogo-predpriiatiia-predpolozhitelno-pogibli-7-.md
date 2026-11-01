@@ -27,4 +27,4 @@ tags: ""
 
 К утру спасатели [сообщили](https://tass.ru/proisshestviya/28174275) об 1 погибшем. Судьба 4 остается неизвестной. В момент инцидента, который произошел по «техногенным» причинам, на предприятии, предположительно, работали 44 человека, эвакуировали 40, их здоровью ничего не угрожало.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/28/10-chelovek-pogibli-pri-pozhare-na-zavode-pirotekhniki-v-iaroslavskoi-oblasti-mchs-news
+**Читайте также:** [13 человек погибли при пожаре на заводе пиротехники в Ярославской области, один ранен — МЧС. Всего на заводе работало 15 человек](2026/09/28/10-chelovek-pogibli-pri-pozhare-na-zavode-pirotekhniki-v-iaroslavskoi-oblasti-mchs-news.md)

@@ -19,12 +19,12 @@ tags: ""
 
 «Это — предатель», — написал Развозжаев.
 
-Римас Туминас [умер 6 марта 2024 года](https://novayagazeta.ru/articles/2024/03/06/umer-teatralnyi-rezhisser-rimas-tuminas-emu-bylo-72-goda-news) после продолжительной болезни, худруком театра он был 15 лет, по 2022 год.
+Римас Туминас [умер 6 марта 2024 года](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/03/06/umer-teatralnyi-rezhisser-rimas-tuminas-emu-bylo-72-goda-news) после продолжительной болезни, худруком театра он был 15 лет, по 2022 год.
 
 В мае 2022 года Римас Туминас стал жертвой пранкеров Вована и Лексуса, которые позвонили ему, представившись министром культуры Украины, и спровоцировали на «согласие» поставить спектакль о Степане Бандере…
 
-В мае 2024 года театру Вахтангова не дали провести вечер памяти своего худрука — после [жалоб серийных Z-доносчиков](https://novayagazeta.ru/articles/2024/05/25/teatr-vakhtangova-otmenil-vecher-pamiati-svoego-byvshego-khudruka-rimasa-tuminusa-posle-zhaloby-seriinykh-donoschikov-v-minkult-news) в Минкульт.
+В мае 2024 года театру Вахтангова не дали провести вечер памяти своего худрука — после [жалоб серийных Z-доносчиков](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/05/25/teatr-vakhtangova-otmenil-vecher-pamiati-svoego-byvshego-khudruka-rimasa-tuminusa-posle-zhaloby-seriinykh-donoschikov-v-minkult-news) в Минкульт.
 
 Туминас прославил Вахтанговский театр классическими постановками «Онегина», «Дяди Вани». Один из спектаклей, афиши которого сняли с театра в Севастополе, — «Ветер шумит в тополях» — спектакль-трагикомедия Туминаса по французскому тексту Жеральда Сиблейраса.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/03/07/liubov-trebuet-bessmertiia
+**Читайте также:** [https://novayagazeta.ru/articles/2024/03/07/liubov-trebuet-bessmertiia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/03/07/liubov-trebuet-bessmertiia)

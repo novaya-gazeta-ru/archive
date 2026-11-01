@@ -13,7 +13,7 @@ tags: "sn, отравление, расследование, навальный"
 
 > **«новая» объясняет**
 >
-> ##### [Юлия Латынина: разговор Навального с отравителем из ФСБ — это политический Чернобыль](https://novayagazeta.ru/articles/2020/12/21/88473-gulfikgeyt)
+> ##### [Юлия Латынина: разговор Навального с отравителем из ФСБ — это политический Чернобыль](2020/12/21/88473-gulfikgeyt.md)
 
 Сотрудник ФСБ Константин Кудрявцев, чью роль в покушении на Навального выявили авторы совместного расследования The Insider, Bellingcat, CNN, Der Spiegel и ФБК, поговорил с Алексеем Навальным. Об этом [сообщил](https://www.youtube.com/watch?v=ibqiet6Bg38&feature=emb_title) сам политик.
 
@@ -27,10 +27,10 @@ tags: "sn, отравление, расследование, навальный"
 
 В разговоре собеседник Навального также признался, что при очистке одежды политика от возможных следов отравляющего вещества, особое внимание члены группы обратили на нижнее белье политика. «Ну, трусы», — ответил оперативник на вопрос о том, где могла быть самая высокая концентрация отравляющего вещества. «Ну, гульфик так называемый. Там швы такие есть, вот, по швам…», — уточнил он.
 
-**link:** https://novayagazeta.ru/articles/2020/12/20/88458-hristo-s-nami
+**link:** [Христо с нами!](2020/12/20/88458-hristo-s-nami.md)
 
 Из разговора также выяснилось, что в спецгруппу входил еще один сотрудник ФСБ — Василий Калашников. The Insider [отмечает](https://theins.ru/politika/237884?utm_source=telegram.me&utm_medium=social&utm_campaign=odin-iz-fsbshnikov--uchastvovavshih-v-pokush&utm_content=46459345), что он является экспертом в области обнаружения метаболитов нервно-паралитических агентов в биологических образцах. С ним после отравления связывались и Кудрявцев, и Макшаков — еще один фигурант расследования.
 
-Напомним, 14 декабря журналисты The Insider, Bellingcat, CNN и Der Spiegel рассказали о том, что восемь оперативников ФСБ могут быть причастны к отравлению политика. Авторы расследования с помощью телефонных биллингов предположительно [установили](https://novayagazeta.ru/news/2020/12/14/166425-the-insider-nazval-imena-operativnikov-fsb-prichastnyh-k-otravleniyu-navalnogo) личности сотрудников спецслужбы, которые с 2017 года следили за Алексеем Навальным. Они, как говорится в расследовании, проследовали за ним в Томск. После того, как политику стало плохо из-за отравления боевым веществом из группы «Новичок», оперативники будто бы предприняли определенные действия с тем, чтобы избавиться от улик.
+Напомним, 14 декабря журналисты The Insider, Bellingcat, CNN и Der Spiegel рассказали о том, что восемь оперативников ФСБ могут быть причастны к отравлению политика. Авторы расследования с помощью телефонных биллингов предположительно [установили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/12/14/166425-the-insider-nazval-imena-operativnikov-fsb-prichastnyh-k-otravleniyu-navalnogo) личности сотрудников спецслужбы, которые с 2017 года следили за Алексеем Навальным. Они, как говорится в расследовании, проследовали за ним в Томск. После того, как политику стало плохо из-за отравления боевым веществом из группы «Новичок», оперативники будто бы предприняли определенные действия с тем, чтобы избавиться от улик.
 
-**link:** https://novayagazeta.ru/articles/2020/12/19/88447-skazhite-esche-chto-eto-byli-ucheniya-pochemu-argumenty-o-neprichastnosti-fsb-k-otravleniyu-navalnogo-ne-soglasuyutsya-s-elementarnoy-logikoy
+**link:** [https://novayagazeta.ru/articles/2020/12/19/88447-skazhite-esche-chto-eto-byli-ucheniya-pochemu-argumenty-o-neprichastnosti-fsb-k-otravleniyu-navalnogo-ne-soglasuyutsya-s-elementarnoy-logikoy](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/12/19/88447-skazhite-esche-chto-eto-byli-ucheniya-pochemu-argumenty-o-neprichastnosti-fsb-k-otravleniyu-navalnogo-ne-soglasuyutsya-s-elementarnoy-logikoy)

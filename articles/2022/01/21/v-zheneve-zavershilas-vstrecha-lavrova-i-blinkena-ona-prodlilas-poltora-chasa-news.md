@@ -21,14 +21,14 @@ tags: "россия, сша, лавров, блинкен, демидов, го�
 
 Во время пресс-конференции после встречи Блинкен рассказал, что предложил Лаврову отвести российские войска от границы с Украиной для подтверждения отсутствия планов по вторжению.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/18/lavrov-i-novichok
+**Читайте также:** [https://novayagazeta.ru/articles/2022/01/18/lavrov-i-novichok](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/01/18/lavrov-i-novichok)
 
-Переговоры Лаврова и Блинкена стали уже четветыми в серии мероприятий, на которых предствители стран Запада встречаются с делегатами из России. Все эти заседания проходят на фоне информации о [наращивании](https://novayagazeta.ru/articles/2021/10/31/wp-v-ssha-i-evrope-zafiksirovali-narashchivanie-rossiiskikh-voisk-u-granitsy-s-ukrainoi-news) количества российской техники и войск на границе с Украиной.
+Переговоры Лаврова и Блинкена стали уже четветыми в серии мероприятий, на которых предствители стран Запада встречаются с делегатами из России. Все эти заседания проходят на фоне информации о [наращивании](2021/10/31/wp-v-ssha-i-evrope-zafiksirovali-narashchivanie-rossiiskikh-voisk-u-granitsy-s-ukrainoi-news.md) количества российской техники и войск на границе с Украиной.
 
-Издание Politico [сообщало](https://novayagazeta.ru/articles/2021/11/02/maxar-zafiksirovala-sosredotochenie-rossiiskikh-voisk-na-granitse-s-ukrainoi-v-kieve-perebrosku-vooruzhenii-ne-zametili-news), что на спутниковых снимках заметно скопление российских танков, бронетанковых частей, а также самоходной артиллерии и наземных войск в 250-300 км от украинской границы. В Кремле эту информацию [назвали](https://www.rbc.ru/politics/02/11/2021/6180fbff9a7947c2a34bc8e6) «вбросом».
+Издание Politico [сообщало](2021/11/02/maxar-zafiksirovala-sosredotochenie-rossiiskikh-voisk-na-granitse-s-ukrainoi-v-kieve-perebrosku-vooruzhenii-ne-zametili-.md), что на спутниковых снимках заметно скопление российских танков, бронетанковых частей, а также самоходной артиллерии и наземных войск в 250-300 км от украинской границы. В Кремле эту информацию [назвали](https://www.rbc.ru/politics/02/11/2021/6180fbff9a7947c2a34bc8e6) «вбросом».
 
-В начале недели расследовательская группа Conflict Intelligence Team (CIT) [сообщила](https://novayagazeta.ru/articles/2022/01/19/rossiiskie-voiska-pribyli-na-ucheniia-v-belarus-rassledovateli-cit-zametili-ikh-lager-v-90-km-ot-kievskoi-oblasti-news), что российские войска находятся в 90 км от Киевской области — на территории Беларуси. Формально военные прибыли туда на учения.
+В начале недели расследовательская группа Conflict Intelligence Team (CIT) [сообщила](2022/01/19/rossiiskie-voiska-pribyli-na-ucheniia-v-belarus-rassledovateli-cit-zametili-ikh-lager-v-90-km-ot-kievskoi-oblasti-news.md), что российские войска находятся в 90 км от Киевской области — на территории Беларуси. Формально военные прибыли туда на учения.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/20/bezliudnye-tekhnologii
+**Читайте также:** [https://novayagazeta.ru/articles/2022/01/20/bezliudnye-tekhnologii](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/01/20/bezliudnye-tekhnologii)
 
 *Обновлено в 16:00 — добавлены слова Блинкена*

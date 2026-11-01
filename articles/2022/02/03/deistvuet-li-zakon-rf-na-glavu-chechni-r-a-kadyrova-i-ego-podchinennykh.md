@@ -27,8 +27,8 @@ tags: "кадыров, угрозы, милашина, каляпин, кады�
 >
 > **«Синдикат-100»**
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/03/pochemu-kadyrovu-mozhno-vse-dazhe-brat-v-zalozhniki-zhenu-federalnogo-sudi
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/03/pochemu-kadyrovu-mozhno-vse-dazhe-brat-v-zalozhniki-zhenu-federalnogo-sudi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/03/pochemu-kadyrovu-mozhno-vse-dazhe-brat-v-zalozhniki-zhenu-federalnogo-sudi)
 
 #### * Телеканал «Дождь», участник «Синдиката-100», включен Минюстом РФ в реестр СМИ-иноагентов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/24/my-tozhe-ne-mozhem-v-eto-poverit
+**Читайте также:** [«Мы тоже не можем в это поверить»](2022/01/24/my-tozhe-ne-mozhem-v-eto-poverit.md)

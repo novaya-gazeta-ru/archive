@@ -17,4 +17,4 @@ tags: "COVID-19, кадыров, чечня, что нового?, подкас�
 >
 > Apple Podcasts | SoundCloud | Castbox | Подкасты ВКонтакте | Яндекс.Музыка | Google Podcasts
 
-**link:** https://novayagazeta.ru/articles/2020/05/27/85553-chelovek-s-kateterom
+**link:** [«Умышленно вышел в народ и спокойно ходит»](2020/05/27/85553-chelovek-s-kateterom.md)

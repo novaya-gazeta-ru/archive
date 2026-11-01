@@ -21,6 +21,6 @@ tags: ""
 
 Всего в бюллетене 10 парламентских партий.
 
-**Как «Яблоко» лишали выборов:** https://novayagazeta.ru/articles/2026/08/17/pust-vsegda-budet-solntse-a-shaman-v-shtanakh
+**Как «Яблоко» лишали выборов:** [«Пусть всегда будет солнце», а Шаман — в штанах](2026/08/17/pust-vsegda-budet-solntse-a-shaman-v-shtanakh.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/17/kak-proshla-apelliatsiia-iabloka-v-verkhovnom-sude
+**Читайте также:** [Как прошла апелляция «Яблока»](2026/08/17/kak-proshla-apelliatsiia-iabloka-v-verkhovnom-sude.md)

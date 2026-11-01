@@ -93,4 +93,4 @@ tags: ""
 
 Из партии экс-губернатора тоже исключили.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/11/osobaia-karera-biletnogo-kontrolera
+**Читайте также:** [Особая карьера билетного контролера](2024/12/11/osobaia-karera-biletnogo-kontrolera.md)

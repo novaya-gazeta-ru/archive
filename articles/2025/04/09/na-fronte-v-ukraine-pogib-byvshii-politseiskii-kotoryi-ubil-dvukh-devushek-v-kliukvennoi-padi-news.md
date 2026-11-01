@@ -29,4 +29,4 @@ tags: ""
 
 Суд в 2023 года приговорил Инкина к 17 годам колонии, Истомина — к 18 годам. Первый суд присяжных оправдал их, но приговор был отменен после обжалования, и при новом разбирательстве экс-полицейских признали виновными. Они оба подписали контракт с Минобороны и уехали на фронт.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/13/tysiachi-liudei-v-zabaikale-potrebovali-ne-dat-uiti-na-svo-ubiitse-zastrelivshemu-byvshuiu-zhenu-petitsiia-on-uzhe-podpisal-kontrakt-news
+**Читайте также:** [Тысячи людей в Забайкалье потребовали не дать уйти на СВО убийце, застрелившему бывшую жену, — петиция. Он уже подписал контракт](2025/02/13/tysiachi-liudei-v-zabaikale-potrebovali-ne-dat-uiti-na-svo-ubiitse-zastrelivshemu-byvshuiu-zhenu-petitsiia-on-uzhe-podpi.md)

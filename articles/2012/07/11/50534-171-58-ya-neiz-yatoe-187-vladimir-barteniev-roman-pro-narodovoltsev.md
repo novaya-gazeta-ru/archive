@@ -79,7 +79,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right" style="">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/11/1341999798_188069_12.jpg" style="width: 350px; height: 543px; "><sup>После освобождения. 1958 год.</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/11/1341999798_188069_12.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/11/1341999798_188069_12.jpg)" style="width: 350px; height: 543px; "><sup>После освобождения. 1958 год.</sup></td>
 		</tr>
 	</tbody>]*
 

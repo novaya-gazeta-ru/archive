@@ -15,8 +15,8 @@ tags: "кремль, россия, сепаратизм, украина"
 
 «Эта газета иногда делает невообразимые публикации, — [сказал](http://edition.cnn.com/2015/02/25/world/amanpour-russia-dmitry-peskov/index.html) Песков. — Я не вижу никаких причин, чтобы реагировать. Если этот документ и существует, то он точно не имеет ничего общего ни с Кремлем, ни с официальными бумагами российского правительства».
 
-*[media: <p><a href="http://www.novayagazeta.ru/politics/67389.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/02/24/1424812070_659846_78.png" style="width: 100px; height: 75px;"></a><span style="color:#B22222;"><strong>Читайте также:</strong></span></p>
+*[media: <p><a href="[http://www.novayagazeta.ru/politics/67389.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/67389.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/02/24/1424812070_659846_78.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/02/24/1424812070_659846_78.png)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;"><strong>Читайте также:</strong></span></p>
 
-<p><strong><a href="http://www.novayagazeta.ru/politics/67389.html" target="_blank">«Представляется правильным инициировать присоединение восточных областей Украины к России» </a></strong></p>]*
+<p><strong><a href="[http://www.novayagazeta.ru/politics/67389.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/67389.html)" target="_blank">«Представляется правильным инициировать присоединение восточных областей Украины к России» </a></strong></p>]*
 
 24 февраля «Новая газета» опубликовала материал «Представляется правильным инициировать присоединение восточных областей Украины к России», в котором привела документ, содержащий план отторжения Россией ряда территорий Украины, составленный еще во время президентства Януковича. По данным редакции, этот документ был занесен в Администрацию президента России в начале февраля прошлого года. В подготовке документа мог принимать участие олигарх Константин Малофеев.

@@ -23,6 +23,6 @@ tags: ""
 
 Там же в обновлении к посту отмечают, что участие в акции — «исключительно добровольное». Выбирает, в чем выписывать малыша, его мама.
 
-Ранее сегодня мы рассказывали, что в Рязанской области за решившими сделать аборт россиянками [закрепят кураторов](https://novayagazeta.ru/articles/2025/04/24/k-reshivshim-sdelat-abort-rossiiankam-pristaviat-kuratorov-chtoby-prorabotat-vopros-reproduktivnogo-vybora-news) из социальной службы.
+Ранее сегодня мы рассказывали, что в Рязанской области за решившими сделать аборт россиянками [закрепят кураторов](2025/04/24/k-reshivshim-sdelat-abort-rossiiankam-pristaviat-kuratorov-chtoby-prorabotat-vopros-reproduktivnogo-vybora-news.md) из социальной службы.
 
 #### * Минюст включил в реестр иноагентов.

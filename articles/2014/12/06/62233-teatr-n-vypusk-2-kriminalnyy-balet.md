@@ -19,11 +19,11 @@ tags: ""
 
 *[media: &nbsp;]*
 
-*[media: <div><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/11/07/1415380405_883939_13.png" style="width: 100px; height: 65px; float: left;">&nbsp;<strong>Смотрите также:</strong></div>
+*[media: <div><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/11/07/1415380405_883939_13.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/11/07/1415380405_883939_13.png)" style="width: 100px; height: 65px; float: left;">&nbsp;<strong>Смотрите также:</strong></div>
 
-<div>&nbsp;<a href="http://www.novayagazeta.ru/tv/topics/66006.html" target="_blank">Театр Н. Выпуск 1:</a></div>
+<div>&nbsp;<a href="[http://www.novayagazeta.ru/tv/topics/66006.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/tv/topics/66006.html)" target="_blank">Театр Н. Выпуск 1:</a></div>
 
-<div>&nbsp;<a href="http://www.novayagazeta.ru/tv/topics/66006.html" target="_blank">О детском театре замолвите слово</a><br>
+<div>&nbsp;<a href="[http://www.novayagazeta.ru/tv/topics/66006.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/tv/topics/66006.html)" target="_blank">О детском театре замолвите слово</a><br>
 &nbsp;</div>
 
 <div>&nbsp;</div>]*

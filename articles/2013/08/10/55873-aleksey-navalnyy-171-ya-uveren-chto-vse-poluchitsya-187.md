@@ -92,6 +92,6 @@ _От редакции: в ответах А. Навального на вопр
 
 Читайте также:
 
-**Сергей МИТРОХИН** : [«С пиаром у «Яблока» всегда были проблемы»](http://www.novayagazeta.ru/politics/59258.html)
+**Сергей МИТРОХИН** : [«С пиаром у «Яблока» всегда были проблемы»](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/59258.html)
 
-**Иван МЕЛЬНИКОВ** : [«Любезничать со строительной мафией я не буду»](http://www.novayagazeta.ru/politics/59291.html)
+**Иван МЕЛЬНИКОВ** : [«Любезничать со строительной мафией я не буду»](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/59291.html)

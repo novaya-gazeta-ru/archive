@@ -40,6 +40,6 @@ tags: "навальный, ЕСПЧ, суды"
 - Российские власти объявили о «выходе» из Совета Европы в марте 2022 г., а в мае одностороннем порядке [отказались](https://www.bbc.com/russian/features-61474557) исполнять решения ЕСПЧ. Участие России в ЕСПЧ и Европейской конвенции по правам человека прекратилось 16 сентября того же года.
 - Совет Европы тогда [постановил](https://www.coe.int/ru/web/portal/-/russia-ceases-to-be-party-to-the-european-convention-on-human-rights), что «Европейский суд по правам человека по-прежнему компетентен рассматривать жалобы против России, касающиеся действий или бездействия, которые могут представлять собой нарушение Европейской конвенции о правах человека, при условии, что они имели место до 16 сентября 2022 г.».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/04/frantsuzskii-sud-otklonil-isk-navalnykh-protiv-iv-roshe-news
+**Читайте также:** [Французский суд отклонил иск Навальных против «Ив Роше»](2025/02/04/frantsuzskii-sud-otklonil-isk-navalnykh-protiv-iv-roshe-news.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/03/05/ottenki-zapakha
+**Читайте также:** [https://novayagazeta.ru/articles/2024/03/05/ottenki-zapakha](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/03/05/ottenki-zapakha)

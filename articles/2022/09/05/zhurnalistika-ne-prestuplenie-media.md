@@ -13,4 +13,4 @@ tags: "Сафронов, суды, журналистика"
 
 *Мы требуем освобождения Ивана Сафронова*
 
-https://novayagazeta.ru/articles/2022/09/05/zhurnalistika-ne-prestuplenie
+[«Журналистика — не преступление»](2022/09/05/zhurnalistika-ne-prestuplenie.md)

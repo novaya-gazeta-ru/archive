@@ -19,8 +19,8 @@ tags: ""
 
 Стармер [заявил](https://tass.ru/mezhdunarodnaya-panorama/22898339) о передаче Украине новой системы противовоздушной обороны. Кроме того, по его словам, Украине будут переданы 150 стволов для артиллерийских орудий.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/16/smi-frantsiia-taino-provela-ucheniia-po-otrazheniiu-rossiiskogo-napadeniia-na-ukrainu-iz-belarusi-ofitsialno-ikh-ne-podtverzhdali-news
+**Читайте также:** [СМИ: Франция тайно провела учения по «отражению российского нападения на Украину из Беларуси». Официально их не подтверждали](2025/01/16/smi-frantsiia-taino-provela-ucheniia-po-otrazheniiu-rossiiskogo-napadeniia-na-ukrainu-iz-belarusi-ofitsialno-ikh-ne-podt.md)
 
 А в это время России и Иран 17 января [собираются заключить](https://t.me/tass_agency/295774) договор о всеобъемлющем стратегическом партнерстве. Он не предполагает создания военного альянса, [утверждает](https://t.me/tass_agency/296042) МИД Ирана, зато, как ожидается, даст странам возможность наладить систему взаимных денежных переводов в обход SWIFT.
 
-Похожий договор РФ подписала летом с КНДР. После этого появились сообщения об отправке северокорейских солдат для участия в военных действиях в Украине: Россия эти данные [не опровергала](https://novayagazeta.ru/articles/2024/11/12/kndr-ratifitsirovala-dogovor-o-vseobemliushchem-strategicheskom-partnerstve-s-rossiei-news).
+Похожий договор РФ подписала летом с КНДР. После этого появились сообщения об отправке северокорейских солдат для участия в военных действиях в Украине: Россия эти данные [не опровергала](2024/11/12/kndr-ratifitsirovala-dogovor-o-vseobemliushchem-strategicheskom-partnerstve-s-rossiei-news.md).

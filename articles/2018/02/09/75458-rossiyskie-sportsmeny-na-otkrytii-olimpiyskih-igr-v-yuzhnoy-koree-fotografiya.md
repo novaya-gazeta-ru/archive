@@ -25,4 +25,4 @@ tags: "россия, южная корея, олимпиада"
 
 За событиями в Южной Корее следит спецкор «Новой газеты» Надежда Прусенкова. Читайте ее дневник:
 
-**link:** https://novayagazeta.ru/articles/2018/02/08/75436-olimpiada-utrenney-svezhesti
+**link:** [Олимпиада утренней свежести](2018/02/08/75436-olimpiada-utrenney-svezhesti.md)

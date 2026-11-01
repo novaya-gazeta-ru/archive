@@ -75,7 +75,7 @@ tags: "условия, сизо, суды, новое величие, павли
 
 *Фото: Анна Артемьева / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2018/08/16/77515-novaya-solidarnost
+**link:** [Новая солидарность](2018/08/16/77515-novaya-solidarnost.md)
 
 ![](_assets/e4/e45544a22e33065064b09e7d07514bc0.webp)
 

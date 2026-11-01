@@ -27,4 +27,4 @@ tags: "ng, brent, нефть"
 
 Июльские фьючерсы на нефть марки WTI к закрытию сессии 21 июня [стоили](https://www.theice.com/products/213/WTI-Crude-Futures/data?marketId=5281013) 73,46 долларов за баррель. По [данным](https://www.moex.com/ru/data/) Мосбиржи, на курс рубля подорожание нефти сильно не повлияло: по данным на 08:00 по мск, доллар торговался на уровне 73,07 рубля (-0,08%), евро — на уровне 87,03 рубля (-0,14%).
 
-Ранее, 11 июня, цена Brent [превысила](https://novayagazeta.ru/articles/2021/06/11/tsena-brent-prevysila-73-dollara-vpervye-s-20-maia-2019-goda) 73 доллара (впервые с 20 мая 2019 года), а 18 мая она впервые с марта этого года [преодолела](https://novayagazeta.ru/articles/2021/05/18/tsena-nefti-marki-brent-vpervye-s-15-marta-prevysila-otmetku-v-70-dollarov-za-barrel) отметку в 70 долларов.
+Ранее, 11 июня, цена Brent [превысила](2021/06/11/tsena-brent-prevysila-73-dollara-vpervye-s-20-maia-2019-goda.md) 73 доллара (впервые с 20 мая 2019 года), а 18 мая она впервые с марта этого года [преодолела](2021/05/18/tsena-nefti-marki-brent-vpervye-s-15-marta-prevysila-otmetku-v-70-dollarov-za-barrel.md) отметку в 70 долларов.

@@ -23,8 +23,8 @@ Reuters пишет, что среди освобожденных — 14 инос
 
 Освобождение состоялось во время встречи Лукашенко [с американской делегацией](https://t.me/smartpress/64644). Представитель американцев Джон Коул заявил, что США хотят вернуть дипломатов в Минск, США готовы частично снять санкции с белорусских компаний.
 
-В феврале с призывом к Лукашенко [немедленно выпустить](https://novayagazeta.ru/articles/2025/02/20/nobelevskie-laureaty-prizvali-trampa-i-drugikh-mirovykh-liderov-sodeistvovat-osvobozhdeniiu-belorusskikh-politzakliuchennykh-news) политзаключенных из тюрем обращались лауреаты Нобелевской премии. Уже были случаи гибели в тюрьме политзеков.
+В феврале с призывом к Лукашенко [немедленно выпустить](2025/02/20/nobelevskie-laureaty-prizvali-trampa-i-drugikh-mirovykh-liderov-sodeistvovat-osvobozhdeniiu-belorusskikh-politzakliuchen.md) политзаключенных из тюрем обращались лауреаты Нобелевской премии. Уже были случаи гибели в тюрьме политзеков.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/23/i-zhizn-i-slezy-i-svoboda
+**Читайте также:** [И жизнь, и слезы, и свобода](2025/06/23/i-zhizn-i-slezy-i-svoboda.md)
 
 #### * Минюст России включил в реестр иноагентов.

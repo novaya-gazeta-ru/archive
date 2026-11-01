@@ -27,10 +27,10 @@ tags: "комитет против пыток, каляпин, увольнен�
 
 — подчеркнул он.
 
-Ранее в Нижнем Новгороде неизвестные [расклеили](https://novayagazeta.ru/articles/2022/01/30/v-nizhnem-novgorode-neizvestnye-obkleili-plakatami-pozor-inoagentu-dver-materi-pravozashchitnika-igoria-kaliapina-news) плакаты с надписью «позор иноагенту» на двери подъезда и квартиры матери Каляпина. В реестре «иноагентов», который ведет Минюст, фамилии Каляпина нет.
+Ранее в Нижнем Новгороде неизвестные [расклеили](2022/01/30/v-nizhnem-novgorode-neizvestnye-obkleili-plakatami-pozor-inoagentu-dver-materi-pravozashchitnika-igoria-kaliapina-news.md) плакаты с надписью «позор иноагенту» на двери подъезда и квартиры матери Каляпина. В реестре «иноагентов», который ведет Минюст, фамилии Каляпина нет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/20/pytka-ostanetsia-ne-prestupleniem-a-prevysheniem-polnomochii
+**Читайте также:** [«Пытка останется не преступлением, а превышением полномочий»](2021/12/20/pytka-ostanetsia-ne-prestupleniem-a-prevysheniem-polnomochii.md)
 
-В январе глава Чечни Рамзан Кадыров [назвал](https://novayagazeta.ru/articles/2022/01/24/glava-chechni-nazval-terroristami-chlena-spch-kaliapina-i-zhurnalistku-novoi-milashinu-news) «террористами» члена президентского Совета по правам человека Игоря Каляпина и журналистку «Новой газеты» Елену Милашину, освещавших похищение чеченскими силовиками из Нижнего Новгорода Заремы Мусаевой — жены федерального судьи Сайди Янгулбаева.
+В январе глава Чечни Рамзан Кадыров [назвал](2022/01/24/glava-chechni-nazval-terroristami-chlena-spch-kaliapina-i-zhurnalistku-novoi-milashinu-news.md) «террористами» члена президентского Совета по правам человека Игоря Каляпина и журналистку «Новой газеты» Елену Милашину, освещавших похищение чеченскими силовиками из Нижнего Новгорода Заремы Мусаевой — жены федерального судьи Сайди Янгулбаева.
 
 #### *Включено Минюстом в перечень СМИ, выполняющих функцию иностранного агента

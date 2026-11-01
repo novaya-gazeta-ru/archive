@@ -39,7 +39,7 @@ tags: "москва, коронавирус, религия, рпц"
 
 *Фото: Виктория Одиссонова / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2020/03/13/84296-ikonovirus
+**link:** [Иконовирус](2020/03/13/84296-ikonovirus.md)
 
 ![](_assets/da/daf15319430a48d902b639fbe11af643.webp)
 

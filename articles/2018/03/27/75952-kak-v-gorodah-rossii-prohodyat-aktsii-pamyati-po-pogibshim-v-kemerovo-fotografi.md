@@ -43,7 +43,7 @@ tags: "якутия, ростов-на-дону, петербург, влади�
 
 *Симферополь. Фото: Алексей Мальгавко / РИА Новости*
 
-**link:** https://novayagazeta.ru/articles/2018/03/27/75951-govoril-s-nimi-po-telefonu-do-poslednego
+**link:** [«Говорил с ними по телефону до последнего»](2018/03/27/75951-govoril-s-nimi-po-telefonu-do-poslednego.md)
 
 ![](_assets/61/61b7b72f23ad647d3d29c6bda55de843.webp)
 

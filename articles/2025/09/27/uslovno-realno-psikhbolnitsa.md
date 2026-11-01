@@ -103,7 +103,7 @@ tags: "репрессии, политзэки, политические закл
 
 Обвинение запрашивало для Рябцевой два года колонии-поселения.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/09/22/politzeki-gorinov-i-miftakhov-obratilis-v-oon-s-zhalobami-na-nezakonnoe-lishenie-svobody-news
+**Читайте также:** [Политзеки Горинов и Мифтахов обратились в ООН с жалобами на незаконное лишение свободы](2025/09/22/politzeki-gorinov-i-miftakhov-obratilis-v-oon-s-zhalobami-na-nezakonnoe-lishenie-svobody-news.md)
 
 ## **Дело о подготовке теракта в РУДН**
 

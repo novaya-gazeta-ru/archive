@@ -23,4 +23,4 @@ tags: ""
 
 Врачебной тайной гражданина РФ является факт обращения его за медпомощью, сведения о его диагнозе и состоянии здоровья. Не конфликтует ли с этим правом россиян инициатива властей Саратовской области — пока неясно.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/20/liudei-v-pogonakh-ne-volnuet-nichia-sudba-tem-bolee-kakogo-to-narkomana
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/20/liudei-v-pogonakh-ne-volnuet-nichia-sudba-tem-bolee-kakogo-to-narkomana](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/20/liudei-v-pogonakh-ne-volnuet-nichia-sudba-tem-bolee-kakogo-to-narkomana)

@@ -69,7 +69,7 @@ tags: "москва, зоопарк"
 
 Кстати, многие животные живут у нас гораздо дольше, чем в дикой природе.
 
-**link:** https://novayagazeta.ru/articles/2017/12/13/74900-den-pod-kupolom
+**link:** [День под куполом,](2017/12/13/74900-den-pod-kupolom.md)
 
 ![](_assets/0f/0f5b92f9b7dac69b4fcfb3d09c3bd112.webp)
 

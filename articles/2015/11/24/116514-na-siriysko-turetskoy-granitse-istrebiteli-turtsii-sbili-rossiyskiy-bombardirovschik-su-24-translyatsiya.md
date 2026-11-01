@@ -11,9 +11,9 @@ tags: "авиация, сирия, турция"
 
 # На сирийско-турецкой границе истребители Турции сбили российский бомбардировщик Су-24. Трансляция
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/news/1698206.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/11/24/1448399062_539455_86.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте продолжение:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/news/1698206.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1698206.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/11/24/1448399062_539455_86.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/11/24/1448399062_539455_86.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте продолжение:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/news/1698206.html" target="_blank"><strong>Генсек НАТО Столтенберг призвал Анкару и Москву дипломатическим путем улаживать конфликт из-за сбитого самолета и воздержаться от эскалации</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/news/1698206.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1698206.html)" target="_blank"><strong>Генсек НАТО Столтенберг призвал Анкару и Москву дипломатическим путем улаживать конфликт из-за сбитого самолета и воздержаться от эскалации</strong></a></p>]*
 
 **18:35** Председатель Евросовета Дональд Туск призвал сохранять хладнокровие и спокойствие в опасной ситуации, возникшей после уничтожения российского бомбардировщика у сирийско-турецкой границы. «Наступил опасный момент после того, как был сбит российский самолет, и все должны сохранять хладнокровие и спокойствие», — написал он во вторник в Twitter.
 
@@ -33,9 +33,9 @@ tags: "авиация, сирия, турция"
 
 **16:50** Турецкое министерство обороны вызвало представителей России, США, Франции, Великобритании и Китая, чтобы обсудить ситуацию со сбитым бомбардировщиком, [сообщает](http://www.bbc.com/news/live/world-middle-east-34908469) BBC.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/politics/70875.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/11/24/1448377510_095845_22.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/politics/70875.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/70875.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/11/24/1448377510_095845_22.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/11/24/1448377510_095845_22.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/politics/70875.html" target="_blank"><strong>Ирек Муртазин: Решение об атаке самолета ВКС России был принят на самом высоком уровне?</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/politics/70875.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/70875.html)" target="_blank"><strong>Ирек Муртазин: Решение об атаке самолета ВКС России был принят на самом высоком уровне?</strong></a></p>]*
 
 **16:35** Владимир Путин обвинил Турцию в недружественных действиях и назвал ее обращение к НАТО попыткой поставить альянс на службу «Исламскому государству» (запрещенная в России организация): «Как будто это мы сбили турецкий самолет, а не они наш. Они что, хотят поставить НАТО на службу ИГИЛ?» Кроме того, президент России пообещал пересмотреть россйско-турецкие отношения.
 
@@ -81,24 +81,24 @@ tags: "авиация, сирия, турция"
 
 *[media: <p><strong>12:55. Россия и Турция. Инциденты в воздухе за последнее время. <span style="color:#B22222;">Справка</span></strong></p>
 
-<p>В середине октября Турция <a href="http://www.novayagazeta.ru/news/1697304.html" target="_blank">сбила</a> российский беспилотник. Источник «Газеты.ру» тогда <a href="http://www.novayagazeta.ru/news/1697304.html" target="_blank">заявил</a>, что сбитое судно — секретная разработка, используемая российской стороной, но не Министерством обороны, а «другими структурами». В турецких СМИ говорили о том, что сбитый аппарат — «Орлан-10», запущенный в серийное производство в 2013-м году.</p>
+<p>В середине октября Турция <a href="[http://www.novayagazeta.ru/news/1697304.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1697304.html)" target="_blank">сбила</a> российский беспилотник. Источник «Газеты.ру» тогда <a href="[http://www.novayagazeta.ru/news/1697304.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1697304.html)" target="_blank">заявил</a>, что сбитое судно — секретная разработка, используемая российской стороной, но не Министерством обороны, а «другими структурами». В турецких СМИ говорили о том, что сбитый аппарат — «Орлан-10», запущенный в серийное производство в 2013-м году.</p>
 
 <p>Ранее российские самолеты Су-30 и Су-24 нарушали воздушное пространство Турции 3 и 4 октября. По информации Генштаба Турции, 4 октября самолет МиГ-29 пять минут и сорок секунд удерживал на прицеле своего радара турецкие истребители F-16 в районе сирийско-турецкой границы. Тогда российского посла вызвали в МИД Турции для объяснений.</p>
 
-<p>Минобороны РФ&nbsp;<a href="http://www.novayagazeta.ru/news/1696989.html" target="_blank">признало</a>, что 3 октября Су-30 на несколько секунд нарушил воздушное пространство Турции из-за близости базы «Хмеймим» в Сирии к границе.</p>
+<p>Минобороны РФ&nbsp;<a href="[http://www.novayagazeta.ru/news/1696989.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1696989.html)" target="_blank">признало</a>, что 3 октября Су-30 на несколько секунд нарушил воздушное пространство Турции из-за близости базы «Хмеймим» в Сирии к границе.</p>
 
-<p class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/10/06/1444134587_639177_21.jpg" style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 13px; vertical-align: baseline; max-width: 100%; font-family: Arial, sans-serif; line-height: 18.85px; text-align: right; width: 530px; height: 353px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><br>
+<p class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/10/06/1444134587_639177_21.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/10/06/1444134587_639177_21.jpg)" style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 13px; vertical-align: baseline; max-width: 100%; font-family: Arial, sans-serif; line-height: 18.85px; text-align: right; width: 530px; height: 353px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><br>
 <sub><sup style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-family: Arial, sans-serif; text-align: right; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">РИА Новости</sup></sub></p>
 
-<p>Позднее президент Турции Реджеп Эрдоган <a href="http://www.novayagazeta.ru/news/1697025.html" target="_blank">пригрозил</a> России потерей дружбы из-за инцидентов в воздухе, конкретно это означало и возможный <a href="http://www.novayagazeta.ru/news/1697106.html" target="_blank">отказ</a> от российского газа. Эрдоган напомнил, что Турция является членом НАТО, и нападение на страну будет расценено как нападение на весь Североатлантический альянс.</p>]*
+<p>Позднее президент Турции Реджеп Эрдоган <a href="[http://www.novayagazeta.ru/news/1697025.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1697025.html)" target="_blank">пригрозил</a> России потерей дружбы из-за инцидентов в воздухе, конкретно это означало и возможный <a href="[http://www.novayagazeta.ru/news/1697106.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1697106.html)" target="_blank">отказ</a> от российского газа. Эрдоган напомнил, что Турция является членом НАТО, и нападение на страну будет расценено как нападение на весь Североатлантический альянс.</p>]*
 
 **12:42** Премьер-министр Турции Ахмет Давтоглу обсудил с главой российского Генштаба и главой МИД РФ ситуацию со сбитым бомбардировщиком. Об этом сообщило агентство Reuters. МИДу Турции поручили провести консультации со штабом НАТО. Президенту Турции доложили об инциденте.
 
 **12:35** На завтра, 25 ноября, был запланирован визит Сергея Лаврова в Анкару — вместе с главой турецкого МИД он должен был принять участие в переговорах по «Турецкому потоку» — газопроводу, по которому через Турцию российский газ в обход Украины дойдет до потребителей в Европе. Визит не отменяли, сообщила турецкая газета Hurriyet.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/news/1697336.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/10/17/1445100696_585774_38.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте ранее:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/news/1697336.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1697336.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/10/17/1445100696_585774_38.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/10/17/1445100696_585774_38.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте ранее:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/news/1697336.html" target="_blank"><strong>Турция будет сбивать нарушающие воздушное пространство самолеты</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/news/1697336.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1697336.html)" target="_blank"><strong>Турция будет сбивать нарушающие воздушное пространство самолеты</strong></a></p>]*
 
 **12:10**  Минобороны РФ настаивает, что сбитый Су-24 находился исключительно в воздушном пространстве Сирии, не нарушая турецкую зону. «Это зафиксировано объективными средствами контроля», — [заявили](http://tass.ru/politika/2465907) ТАСС в ведомстве. Судьба летчиков все еще уточняется. Ранее CNN со ссылкой на свои источники предполагала, что один из летчиков мог быть захвачен сирийскими туркменами.
 

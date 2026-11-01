@@ -268,7 +268,7 @@ tags: "сталин, троцкий, нина ермакова, покушени
 
 Логику спецслужб понять невозможно тоже.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/07/dva-vida-ispolneniia-prigovorov-rasstrel-i-udushenie
+**Читайте также:** [«Два вида исполнения приговоров — расстрел и удушение»](2025/11/07/dva-vida-ispolneniia-prigovorov-rasstrel-i-udushenie.md)
 
 ## **Счастливая судьба террористки**
 
@@ -316,7 +316,7 @@ tags: "сталин, троцкий, нина ермакова, покушени
 
 В 2003-м он стал лауреатом Нобелевской премии.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/14/zabastovka-pererosla-v-politicheskii-bunt
+**Читайте также:** [«Забастовка переросла в политический бунт»](2025/11/14/zabastovka-pererosla-v-politicheskii-bunt.md)
 
 ### ***
 

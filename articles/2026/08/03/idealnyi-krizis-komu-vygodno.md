@@ -17,6 +17,6 @@ tags: "экономика, кризис, инфляция, wildberries"
 
 **Произведено «Но.Медиа из России»:** https://youtu.be/ns161Av6rB0
 
-**Смотрите также:** https://novayagazeta.ru/articles/2026/07/20/kuda-dvizhetsia-rossiiskaia-ekonomika
+**Смотрите также:** [Куда движется российская экономика?](2026/07/20/kuda-dvizhetsia-rossiiskaia-ekonomika.md)
 
 #### * Внесена властями РФ в реестр «иноагентов».

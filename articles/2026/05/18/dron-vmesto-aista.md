@@ -61,4 +61,4 @@ tags: ""
 >
 > Лариса Малюкова ведет телеграм-канал о кино и не только. [Подписывайтесь тут](https://t.me/larisamalukova).
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/05/15/i-dym-otechestva
+**Читайте также:** [И дым отечества](2026/05/15/i-dym-otechestva.md)

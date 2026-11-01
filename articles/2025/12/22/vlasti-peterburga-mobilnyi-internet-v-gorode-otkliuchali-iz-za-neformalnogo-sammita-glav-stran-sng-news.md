@@ -31,6 +31,6 @@ tags: ""
 
 22 декабря в Петербурге [прошел](https://t.me/vedomosti/71025) неформальный саммит лидеров СНГ. В нем, кроме Путина, участвовали президенты Армении, Беларуси, Казахстана, Кыргызстана, Таджикистана, Туркменистана и Узбекистана.
 
-Президент Азербайджана Ильхам Алиев не приехал: Баку сослался на его [«плотный рабочий график»](https://novayagazeta.ru/articles/2025/12/22/aliev-otkazalsia-uchastvovat-v-sammite-glav-sng-v-peterburge-iz-za-plotnogo-grafika-v-kremle-govorili-chto-gotoviatsia-k-ego-priezdu-news), а в Кремле отнеслись «с полным пониманием».
+Президент Азербайджана Ильхам Алиев не приехал: Баку сослался на его [«плотный рабочий график»](2025/12/22/aliev-otkazalsia-uchastvovat-v-sammite-glav-sng-v-peterburge-iz-za-plotnogo-grafika-v-kremle-govorili-chto-gotoviatsia-k.md), а в Кремле отнеслись «с полным пониманием».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/12/22/putin-prines-soboleznovaniia-prezidentu-rakhmonu-iz-za-ubiistva-10-letnego-kobildzhona-alieva-pri-terakte-v-shkole-k-rossiiskim-ministram-obrashchalis-iz-mida-mvd-i-sovbeza-tadzhikistana-trebuia-rassledovaniia-news
+**Читайте также:** [Путин принес соболезнования президенту Рахмону из-за убийства 10-летнего Кобилджона Алиева при теракте в школе. К российским министрам обращались из МИДа, МВД и Совбеза Таджикистана, требуя расследования](2025/12/22/putin-prines-soboleznovaniia-prezidentu-rakhmonu-iz-za-ubiistva-10-letnego-kobildzhona-alieva-pri-terakte-v-shkole-k-ros.md)

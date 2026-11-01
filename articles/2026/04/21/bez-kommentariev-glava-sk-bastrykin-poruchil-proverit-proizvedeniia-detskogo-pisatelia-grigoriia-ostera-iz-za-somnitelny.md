@@ -31,4 +31,4 @@ tags: ""
 
 *Из «Вредных советов» Остера, многим россиянам известных еще с детства…*
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/04/21/rukovodstvo-eksmo-zaderzhali-po-ekstremistskomu-delu
+**Читайте также:** [Руководство «Эксмо» задержали по «экстремистскому делу»](2026/04/21/rukovodstvo-eksmo-zaderzhali-po-ekstremistskomu-delu.md)

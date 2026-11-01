@@ -26,4 +26,4 @@ tags: "елена абрамова, приговор, дискредитация
 
 **власти РФ считают «иноагентом»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/12/politsiia-podoshla-za-schitanye-sekundy
+**Читайте также:** [«Полиция подошла за считаные секунды»](2025/02/12/politsiia-podoshla-za-schitanye-sekundy.md)

@@ -25,4 +25,4 @@ tags: "журналисты, курск"
 
 РИА «Курск» [сообщило](https://riakursk.ru/v-kurske-na-mitinge-23-yanvarya-zaderzhali-kuryan-i-4-zhurnalistov-i-1-deputata/), что в Курске в акции участвовали более 200 человек. По [данным](https://ovdinfo.org/) «ОВД-Инфо», в этом городе были задержаны в связи с протестами как минимум 35 человек, по всей стране — свыше четырех тысяч.
 
-**link:** https://novayagazeta.ru/articles/2021/01/29/88941-repression-guide
+**link:** [Обновляемый гид «Новой» по преследованиям протестующих](2021/01/29/88941-repression-guide.md)

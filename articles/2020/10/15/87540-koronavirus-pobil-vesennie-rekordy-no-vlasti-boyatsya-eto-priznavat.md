@@ -19,4 +19,4 @@ tags: "пандемия, эксплейнер, коронавирус"
 
 Что происходит? Объясняем за 3 минуты.
 
-**link:** https://novayagazeta.ru/articles/2020/10/09/87448-ya-istoriyu-s-kovidom-tak-i-nazyvayu-voynoy
+**link:** [«Я историю с ковидом так и называю — войной»](2020/10/09/87448-ya-istoriyu-s-kovidom-tak-i-nazyvayu-voynoy.md)

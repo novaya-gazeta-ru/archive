@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/12/12/1418333975_878835_54.jpg" style="width: 300px; height: 423px; float: right;"><sup>Пригласительный билет в «Недетское время»</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/12/12/1418333975_878835_54.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/12/12/1418333975_878835_54.jpg)" style="width: 300px; height: 423px; float: right;"><sup>Пригласительный билет в «Недетское время»</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -25,7 +25,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/12/12/1418333976_160897_6.jpg" style="width: 300px; height: 348px; float: right;"><sup>Автопортрет</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/12/12/1418333976_160897_6.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/12/12/1418333976_160897_6.jpg)" style="width: 300px; height: 348px; float: right;"><sup>Автопортрет</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -33,10 +33,10 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/12/12/1418334207_352389_98.jpg" style="width: 300px; height: 411px; float: right;"></td>
+			<td><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/12/12/1418334207_352389_98.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/12/12/1418334207_352389_98.jpg)" style="width: 300px; height: 411px; float: right;"></td>
 		</tr>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/12/12/1418334342_954105_74.jpg" style="width: 300px; height: 276px; float: right;"><sup>«Школа Дункан»</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/12/12/1418334342_954105_74.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/12/12/1418334342_954105_74.jpg)" style="width: 300px; height: 276px; float: right;"><sup>«Школа Дункан»</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -76,7 +76,7 @@ _Ах, какая весна Вербным веточкам-весточкам 
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/12/12/1418334702_498475_21.jpg" style="width: 300px; height: 416px; float: right;"><sup>«Психея». Из серии «Мифологическая азбука»</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/12/12/1418334702_498475_21.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/12/12/1418334702_498475_21.jpg)" style="width: 300px; height: 416px; float: right;"><sup>«Психея». Из серии «Мифологическая азбука»</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -106,7 +106,7 @@ _Ах, какая весна Вербным веточкам-весточкам 
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/12/12/1418334886_910034_2.jpg" style="width: 300px; height: 363px; float: right;"><sup>«Во ржи»</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/12/12/1418334886_910034_2.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/12/12/1418334886_910034_2.jpg)" style="width: 300px; height: 363px; float: right;"><sup>«Во ржи»</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -126,7 +126,7 @@ _Ах, какая весна Вербным веточкам-весточкам 
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/12/12/1418334886_323573_73.jpg" style="width: 300px; height: 405px; float: right;"><sup>«Пионеры»</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/12/12/1418334886_323573_73.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/12/12/1418334886_323573_73.jpg)" style="width: 300px; height: 405px; float: right;"><sup>«Пионеры»</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -150,10 +150,10 @@ _Ах, какая весна Вербным веточкам-весточкам 
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/12/12/1418335085_555257_96.jpg" style="width: 300px; height: 437px; float: right;"><sup>«Раненый голубь». Рисунок</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/12/12/1418335085_555257_96.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/12/12/1418335085_555257_96.jpg)" style="width: 300px; height: 437px; float: right;"><sup>«Раненый голубь». Рисунок</sup></td>
 		</tr>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/12/12/1418334886_613967_33.jpg" style="width: 300px; height: 401px; float: right;"><sup>«Раненый голубь». Мозаика</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/12/12/1418334886_613967_33.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/12/12/1418334886_613967_33.jpg)" style="width: 300px; height: 401px; float: right;"><sup>«Раненый голубь». Мозаика</sup></td>
 		</tr>
 	</tbody>]*
 

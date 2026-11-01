@@ -21,4 +21,4 @@ tags: "kb, петербург, ядерные отходы, гринпис"
 
 По данным «Гринпис», восемь сотрудников полиции сначала пытались проникнуть в квартиру Алимова, однако его дочь отказалась открыть дверь. Тогда правоохранители дождались возвращения активиста снаружи, после чего задержали его.
 
-**link:** https://novayagazeta.ru/articles/2019/11/26/82884-tyanutsya-hvosty
+**link:** [https://novayagazeta.ru/articles/2019/11/26/82884-tyanutsya-hvosty](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/11/26/82884-tyanutsya-hvosty)

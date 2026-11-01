@@ -21,13 +21,13 @@ tags: ""
 
 Там — письмо-поздравление от главы региона, письмо от главы местной митрополии, информационный буклет о поддержке беременных со стороны государства, НКО и бизнеса.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/06/ot-abortov-otkazalas-piataia-chast-chastnykh-klinik-v-rossii-imevshikh-na-eto-litsenziiu-press-sluzhba-rpts-news
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/06/ot-abortov-otkazalas-piataia-chast-chastnykh-klinik-v-rossii-imevshikh-na-eto-litsenziiu-press-sluzhba-rpts-news](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/06/ot-abortov-otkazalas-piataia-chast-chastnykh-klinik-v-rossii-imevshikh-na-eto-litsenziiu-press-sluzhba-rpts-news)
 
 Москвитина рассказала, что в пилотной для проекта Магаданской области количество абортов за год сократилось на 40%. После этого, по ее словам, проект «Здравствуй, мама!» расширился.
 
-«Новая газета» на этой неделе [уже рассказывала](https://novayagazeta.ru/articles/2024/10/17/rpts-vkliuchilas-v-borbu-za-rozhdaemost-v-tverskoi-oblasti-vsem-beremennym-nachnut-vruchat-pismo-ot-mitropolita-news), как в Тверской области все беременные начинают получать письма от митрополита Амвросия. То есть в некоторых регионах россиянкам будут вручать не одно, а сразу два письма от функционеров РПЦ.
+«Новая газета» на этой неделе [уже рассказывала](2024/10/17/rpts-vkliuchilas-v-borbu-za-rozhdaemost-v-tverskoi-oblasti-vsem-beremennym-nachnut-vruchat-pismo-ot-mitropolita-news.md), как в Тверской области все беременные начинают получать письма от митрополита Амвросия. То есть в некоторых регионах россиянкам будут вручать не одно, а сразу два письма от функционеров РПЦ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/18/v-rpts-poprosili-uchest-monashestvo-pri-zaprete-propagandy-chaildfri-news
+**Читайте также:** [В РПЦ попросили учесть монашество при запрете «пропаганды чайлдфри»&nbsp;](2024/10/18/v-rpts-poprosili-uchest-monashestvo-pri-zaprete-propagandy-chaildfri-news.md)
 
 После рождении ребенка молодым мамам из регионов проекта «Здравствуй, мама!» вручают «крестильный набор» от РПЦ и средства для ухода за ребенком от регионального правительства.
 

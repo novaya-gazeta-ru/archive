@@ -13,7 +13,7 @@ tags: "радищев, алексей кузнецов, политзаключе
 
 *О Радищеве и его трудах рассказывает историк Алексей Кузнецов, а спрашивают: Ирина Воробьева и Сергей Соколов*
 
-**Смотрите также:** https://novayagazeta.ru/articles/2024/09/23/demograficheskii-krizis-v-rossii
+**Смотрите также:** [https://novayagazeta.ru/articles/2024/09/23/demograficheskii-krizis-v-rossii](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/23/demograficheskii-krizis-v-rossii)
 
 Смотрите также
 

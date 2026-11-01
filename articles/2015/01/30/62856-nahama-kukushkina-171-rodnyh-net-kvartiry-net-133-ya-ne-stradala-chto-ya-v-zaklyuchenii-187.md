@@ -27,7 +27,7 @@ tags: "правда гулага"
 
 Работала швеей. Живет в городе Печоре.
 
-#Справка об освобождении[*](https://novayagazeta.ru/articles/2015/01/30/62856-nahama-kukushkina-171-rodnyh-net-kvartiry-net-133-ya-ne-stradala-chto-ya-v-zaklyuchenii-187?export=1#)
+#Справка об освобождении[*](2015/01/30/62856-nahama-kukushkina-171-rodnyh-net-kvartiry-net-133-ya-ne-stradala-chto-ya-v-zaklyuchenii-187.md)
 
 *Особенности речи сохранены
 

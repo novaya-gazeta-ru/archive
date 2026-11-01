@@ -81,4 +81,4 @@ tags: "вася обломов, mr freeman, арефьева, музыка, пр
  Похолодало, долгой будет зима,\
  Тем, кто ложится — спокойного сна.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/16/ia-ne-vizhu-v-ikh-glazakh-barrikad-video
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/16/ia-ne-vizhu-v-ikh-glazakh-barrikad-video](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/16/ia-ne-vizhu-v-ikh-glazakh-barrikad-video)

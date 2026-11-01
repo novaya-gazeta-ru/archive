@@ -21,6 +21,6 @@ tags: "QR коды, театры, sf"
 
 Согласно [постановлению](https://www.mos.ru/kultura/documents/normativnye-pravovye-akty-departamenta/) московского Департамента культуры от 20 июля 2021 года, зрителям можно будет находиться в зале без масок и перчаток в случае, если театр организует систему QR-кодов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/01/net-sil-net-verandy-net-spravedlivosti
+**Читайте также:** [«Нет сил, нет веранды, нет справедливости»](2021/07/01/net-sil-net-verandy-net-spravedlivosti.md)
 
-С 28 июня власти Москвы и Подмосковья [разрешили](https://novayagazeta.ru/articles/2021/06/22/sobianin-zapretil-nevaktsinirovannym-grazhdanam-poseshchat-restorany-i-bary-bez-ptsr-testa) посещать заведения общепита только тем, что «имеет защиту от заболевания»: вакцинированным гражданам, тем, кто недавно переболел или сделал ПЦР-тест в течение последних трех дней. Уже с 16 июля система [стала](https://novayagazeta.ru/articles/2021/07/16/sobianin-otmenil-sistemu-qr-kodov-v-moskve) необязательной.
+С 28 июня власти Москвы и Подмосковья [разрешили](2021/06/22/sobianin-zapretil-nevaktsinirovannym-grazhdanam-poseshchat-restorany-i-bary-bez-ptsr-testa.md) посещать заведения общепита только тем, что «имеет защиту от заболевания»: вакцинированным гражданам, тем, кто недавно переболел или сделал ПЦР-тест в течение последних трех дней. Уже с 16 июля система [стала](2021/07/16/sobianin-otmenil-sistemu-qr-kodov-v-moskve.md) необязательной.

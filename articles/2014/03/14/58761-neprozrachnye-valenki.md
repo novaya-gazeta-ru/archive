@@ -18,7 +18,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" class="g-image-align-right" src="http://www.novayagazeta.ru/storage/c/2014/03/14/1394815798_999074_17.jpg" style="width: 360px; height: 203px;"><sup>Николай Маковский</sup></td>
+				<img alt="" class="g-image-align-right" src="[http://www.novayagazeta.ru/storage/c/2014/03/14/1394815798_999074_17.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/03/14/1394815798_999074_17.jpg)" style="width: 360px; height: 203px;"><sup>Николай Маковский</sup></td>
 		</tr>
 	</tbody>]*
 

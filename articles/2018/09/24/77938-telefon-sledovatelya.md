@@ -57,11 +57,11 @@ tags: "полиция, система, государство, угон, бар�
 
 **В предыдущих сериях:**
 
-**link:** https://novayagazeta.ru/articles/2018/08/13/77472-kafka-kodeks-delo-o-ezhe-i-zerkale
+**link:** [«Кафка-кодекс»: Дело о Еже и Зеркале](2018/08/13/77472-kafka-kodeks-delo-o-ezhe-i-zerkale.md)
 
-**link:** https://novayagazeta.ru/articles/2018/08/27/77618-kafka-kodeks-delo-ob-orehovom-fermere
+**link:** [«Кафка-кодекс»: Дело об ореховом фермере](2018/08/27/77618-kafka-kodeks-delo-ob-orehovom-fermere.md)
 
-**link:** https://novayagazeta.ru/articles/2018/09/07/77727-kafka-kodeks-delo-o-vmeshatelstve-v-vybory
+**link:** [«Кафка-кодекс»: Дело о вмешательстве в выборы](2018/09/07/77727-kafka-kodeks-delo-o-vmeshatelstve-v-vybory.md)
 
 *[media: &nbsp;]*
 
@@ -69,4 +69,4 @@ tags: "полиция, система, государство, угон, бар�
 
 Леонид Никитинский, Анна Игнатенко, «Новая газета», Юлия Счастливцева, специально для «Новой»
 
-**link:** https://novayagazeta.ru/articles/2018/08/13/77482-chto-takoe-kafka-kodeks
+**link:** [Что такое «Кафка-кодекс»](2018/08/13/77482-chto-takoe-kafka-kodeks.md)

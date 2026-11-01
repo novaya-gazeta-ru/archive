@@ -21,7 +21,7 @@ tags: "петербург, рпц, музеи, акции протеста, чи
 
 *Фото: Елена Лукьянова / «Новая газета в Петербурге»*
 
-**link:** https://novayagazeta.ru/articles/2017/01/10/71081-isaakiy-dlya-goroda
+**link:** [Исаакий для церкви](2017/01/10/71081-isaakiy-dlya-goroda.md)
 
 ![](_assets/93/935fa559b2c36f1de7fe77ba6f6b2565.webp)
 

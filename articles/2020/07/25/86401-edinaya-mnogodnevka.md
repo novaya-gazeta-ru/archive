@@ -83,7 +83,7 @@ tags: "голос, голосование, наблюдатели, как это
 
 > **А что думают читатели?**
 >
-> ### [96,18% читателей «Новой газеты» считают многодневное голосование плохой практикой. Опрос](https://novayagazeta.ru/quiz/2020/07/23/53-schitaete-li-vy-udobnoy-praktiku-golosovaniya-v-techenie-neskolkih-dney-dubliruem-opros-ot-tsik-rf)
+> ### [96,18% читателей «Новой газеты» считают многодневное голосование плохой практикой. Опрос](https://web.archive.org/web/*/https://novayagazeta.ru/quiz/2020/07/23/53-schitaete-li-vy-udobnoy-praktiku-golosovaniya-v-techenie-neskolkih-dney-dubliruem-opros-ot-tsik-rf)
 
 # «Требования времени»
 

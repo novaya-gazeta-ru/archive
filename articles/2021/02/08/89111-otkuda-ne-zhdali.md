@@ -31,7 +31,7 @@ tags: "кадыров, полиция, похищение, традиционн�
 
 > **есть продолжение**
 >
-> [ЕСПЧ обязал Россию в срочном порядке обеспечить допуск независимых медиков, адвокатов и родственников к вывезенным в Чечню Магамадову и Исаеву из-за&nbsp;риска нанесения им непоправимого вреда здоровью.](https://novayagazeta.ru/news/2021/02/08/167690-pohischennye-iz-nizhnego-novgoroda-yunoshi-nahodyatsya-v-ivs-urus-martanovskogo-rayona-k-nim-vse-esche-ne-puskayut-advokata)
+> [ЕСПЧ обязал Россию в срочном порядке обеспечить допуск независимых медиков, адвокатов и родственников к вывезенным в Чечню Магамадову и Исаеву из-за&nbsp;риска нанесения им непоправимого вреда здоровью.](https://web.archive.org/web/*/https://novayagazeta.ru/news/2021/02/08/167690-pohischennye-iz-nizhnego-novgoroda-yunoshi-nahodyatsya-v-ivs-urus-martanovskogo-rayona-k-nim-vse-esche-ne-puskayut-advokata)
 
 **link:** https://new.novayagazeta.ru/articles/2021/02/06/89088-k-allahu-iz-pod-palki
 

@@ -35,7 +35,7 @@ tags: ""
 
 *Тело второго дельфина убирают с грязного пляжа. Кадры волонтеров*
 
-Волонтеры и спасатели продолжают работу. Капитаны судов, напомним, [арестованы](https://novayagazeta.ru/articles/2024/12/19/kapitana-tankera-volgoneft-212-arestovali-po-delu-o-razlive-mazuta-i-avarii-v-kerchenskom-prolive-news).
+Волонтеры и спасатели продолжают работу. Капитаны судов, напомним, [арестованы](2024/12/19/kapitana-tankera-volgoneft-212-arestovali-po-delu-o-razlive-mazuta-i-avarii-v-kerchenskom-prolive-news.md).
 
 > **А что я могу сделать?**
 >

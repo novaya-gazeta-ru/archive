@@ -13,7 +13,7 @@ tags: "церковь, pussy riot"
 
 *Церковь на службе у государства, язычники, батюшки-диссиденты и Pussy Riot*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/03/30/govorit-o-kanonizatsii-navalnogo-poka-prezhdevremenno
+**Читайте также:** [https://novayagazeta.ru/articles/2024/03/30/govorit-o-kanonizatsii-navalnogo-poka-prezhdevremenno](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/03/30/govorit-o-kanonizatsii-navalnogo-poka-prezhdevremenno)
 
 Когда в 2012 году Pussy Riot ворвались в Храм Христа Спасителя, никто не думал, что это станет пророчеством о будущем России. В разговоре с Ириной Воробьевой журналист и автор телеграм-канала «Православие и зомби» Ксения Лученко анализирует:
 

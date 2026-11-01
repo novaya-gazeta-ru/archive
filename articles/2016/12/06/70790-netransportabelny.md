@@ -57,7 +57,7 @@ tags: "трагедия, дети, дтп, хмао"
 
 Родители 11-летнего мальчика, члена нефтеюганской команды, которые с соревнований увезли ребенка на личной машине, теперь точно знают это. Они выехали позже, чем автобус с командой, и подъехали к месту аварии, когда «скорые» уже забирали пострадавших и погибших.
 
-**link:** https://novayagazeta.ru/news/2016/12/05/127166-posle-dtp-v-hmao-v-rossii-proveryat-rabotu-vsego-obschestvennogo-transporta
+**link:** [https://novayagazeta.ru/news/2016/12/05/127166-posle-dtp-v-hmao-v-rossii-proveryat-rabotu-vsego-obschestvennogo-transporta](https://web.archive.org/web/*/https://novayagazeta.ru/news/2016/12/05/127166-posle-dtp-v-hmao-v-rossii-proveryat-rabotu-vsego-obschestvennogo-transporta)
 
 После трагедии губернатор ХМАО Наталья Комарова заявила, что обратится в федеральный центр с просьбой пересмотреть нормы перевозок детей. Но в Кремле уже прокомментировали эту инициативу как избыточную: дескать, правила и так жесткие, надо только их исполнять.
 

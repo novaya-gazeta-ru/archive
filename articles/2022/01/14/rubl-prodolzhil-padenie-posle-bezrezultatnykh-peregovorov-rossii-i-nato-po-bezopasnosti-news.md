@@ -21,8 +21,8 @@ tags: "доллар, евро , рубль, нато, Мосбиржа, sf"
 
 Индекс Мосбиржи [упал](https://www.moex.com/ru/index/IMOEX/) ниже 3600 пунктов впервые с середины декабря, индекс PTC [опустился](https://www.moex.com/ru/index/RTSI/) ниже 1500 пунктов впервые с начала мая.
 
-Рубль начал стремительно дешеветь по отношению к евро и доллару накануне. Это совпало с [заявлением](https://novayagazeta.ru/articles/2022/01/13/kurs-dollara-prevysil-75-rublei-posle-zaiavleniia-zamglavy-mid-rossii-sergeia-riabkova-ob-itogakh-peregovorov-s-ssha-i-nato-news) замглавы МИД Сергея Рябкова в эфире RTVI о том, что США и их союзники заявили России «нет» по ключевым предложениям по безопасности. По словам Рябкова, США и НАТО «ни под каким видом не готовы идти навстречу нашим ключевым требованиям» по нерасширению альянса и свертыванию его инфраструктуры.
+Рубль начал стремительно дешеветь по отношению к евро и доллару накануне. Это совпало с [заявлением](2022/01/13/kurs-dollara-prevysil-75-rublei-posle-zaiavleniia-zamglavy-mid-rossii-sergeia-riabkova-ob-itogakh-peregovorov-s-ssha-i-n.md) замглавы МИД Сергея Рябкова в эфире RTVI о том, что США и их союзники заявили России «нет» по ключевым предложениям по безопасности. По словам Рябкова, США и НАТО «ни под каким видом не готовы идти навстречу нашим ключевым требованиям» по нерасширению альянса и свертыванию его инфраструктуры.
 
 Подешевели акции «Норникеля», ВТБ, «Аэрофлота», «Газпрома», «Роснефти», «Яндекса» и других компаний.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/14/rossiia-i-nato-obmenialis-udarami-poka-diplomaticheskimi
+**Читайте также:** [https://novayagazeta.ru/articles/2022/01/14/rossiia-i-nato-obmenialis-udarami-poka-diplomaticheskimi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/01/14/rossiia-i-nato-obmenialis-udarami-poka-diplomaticheskimi)

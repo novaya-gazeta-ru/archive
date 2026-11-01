@@ -32,15 +32,15 @@ _«Требуются интернет-операторы! Работа в ши�
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/09/09/1378715720_770882_54.jpg" style="width: 320px; height: 213px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/09/09/1378715720_770882_54.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/09/09/1378715720_770882_54.jpg)" style="width: 320px; height: 213px;"></td>
 		</tr>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/09/09/1378715721_236414_96.jpg" style="width: 320px; height: 213px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/09/09/1378715721_236414_96.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/09/09/1378715721_236414_96.jpg)" style="width: 320px; height: 213px;"></td>
 		</tr>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/09/09/1378715721_520631_28.jpg" style="width: 320px; height: 427px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/09/09/1378715721_520631_28.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/09/09/1378715721_520631_28.jpg)" style="width: 320px; height: 427px;"></td>
 		</tr>
 	</tbody>]*
 

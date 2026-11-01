@@ -27,8 +27,8 @@ tags: ""
 
 -
 
-Накануне Глава Сбербанка Греф [заявил](https://novayagazeta.ru/articles/2026/06/30/glava-sberbanka-gref-zaiavil-chto-pri-tekushchei-kliuchevoi-stavke-ekonomika-dolgo-sushchestvovat-ne-mozhet-i-nazval-skoreishee-zavershenie-voennykh-deistvii-glavnym-voprosom-dlia-rossiian-news), что при текущей ключевой ставке экономика «долго существовать не может». Чиновник также назвал скорейшее завершение военных действий «главным вопросом для россиян».
+Накануне Глава Сбербанка Греф [заявил](2026/06/30/glava-sberbanka-gref-zaiavil-chto-pri-tekushchei-kliuchevoi-stavke-ekonomika-dolgo-sushchestvovat-ne-mozhet-i-nazval-sko.md), что при текущей ключевой ставке экономика «долго существовать не может». Чиновник также назвал скорейшее завершение военных действий «главным вопросом для россиян».
 
 -
 
-«Новая» [следит](https://novayagazeta.ru/articles/2026/06/27/slezaem-s-neftianoi-igly) за топливным кризисом в регионах: наши спецкоры рассказывают, что творится на заправках и как на это реагируют россияне от Белгорода до Владивостока.
+«Новая» [следит](2026/06/27/slezaem-s-neftianoi-igly.md) за топливным кризисом в регионах: наши спецкоры рассказывают, что творится на заправках и как на это реагируют россияне от Белгорода до Владивостока.

@@ -108,7 +108,7 @@ tags: "русская община, национализм, мигранты, м
 
 Монолог этого человека интересен не только тем, что дает понять, как устроена «Русская община», — он описывает черту, которая раньше ни в каких ультраправых и националистических организациях не проявлялась. Главная стратегия рекрутинга в РО в том, что туда могут прийти люди с улицы — люди, которые хотят «просто помочь». И это, наверное, главное отличие «Общины» от любых ранее существовавших и существующих группировок.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/06/27/deistvuite-priamo-seichas
+**Читайте также:** [https://novayagazeta.ru/articles/2024/06/27/deistvuite-priamo-seichas](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/06/27/deistvuite-priamo-seichas)
 
 ## По зову сердца, а не по закону
 
@@ -134,4 +134,4 @@ tags: "русская община, национализм, мигранты, м
 
 Со стороны общинников, естественно. Они же русские, с ними Бастрыкин.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/05/15/tolko-ne-nuzhno-nazyvat-nas-natsistami
+**Читайте также:** [https://novayagazeta.ru/articles/2024/05/15/tolko-ne-nuzhno-nazyvat-nas-natsistami](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/05/15/tolko-ne-nuzhno-nazyvat-nas-natsistami)

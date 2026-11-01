@@ -15,4 +15,4 @@ tags: "em, фигурное катание, чемпионат европы"
 
 Синицина и Кацалапов набрали 217,96 балла, Степанова и Букин — 213,20. Бронзу завоевала пара из Италии Шарлен Гиньяр и Марко Фаббри (207,97).
 
-Накануне российский фигурист Марк Кондратюк [стал](https://novayagazeta.ru/articles/2022/01/14/rossiianin-mark-kondratiuk-zavoeval-zoloto-che-po-figurnomu-kataniiu-news) чемпионом Европы в мужском одиночном катании. До этого в парном катании золото ЧЕ [завоевали](https://novayagazeta.ru/articles/2022/01/13/anastasiia-mishina-i-aleksandr-galliamov-stali-chempionami-evropy-po-figurnomu-kataniiu-news) Анастасия Мишина и Александр Галлямов.
+Накануне российский фигурист Марк Кондратюк [стал](2022/01/14/rossiianin-mark-kondratiuk-zavoeval-zoloto-che-po-figurnomu-kataniiu-news.md) чемпионом Европы в мужском одиночном катании. До этого в парном катании золото ЧЕ [завоевали](2022/01/13/anastasiia-mishina-i-aleksandr-galliamov-stali-chempionami-evropy-po-figurnomu-kataniiu-news.md) Анастасия Мишина и Александр Галлямов.

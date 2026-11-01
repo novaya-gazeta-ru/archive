@@ -17,4 +17,4 @@ tags: "москва, статистика, коронавирус, va"
 
 Газета The Moscow Times [обратила](https://www.themoscowtimes.com/2020/05/10/moscow-sees-20-surge-in-mortality-in-april-official-data-a70235) внимание на [статистику](https://data.mos.ru/opendata/7704111479-dinamika-registratsii-aktov-grajdanskogo-sostoyaniya/row/1035521177?pageNumber=13&versionNumber=3&releaseNumber=42) департамента здравоохранения, согласно которой всего в апреле погибли 11846 жителей Москвы — это на 20% больше среднего показателя в этом месяце за предыдущие десять лет (9866). В Минздраве при этом накануне [отчитывались](https://www.rbc.ru/rbcfreenews/5eb823d09a79470ad94e16ed) о снижении смертности с января по март на 2,7% к прошлому году.
 
-**link:** https://novayagazeta.ru/articles/2020/05/10/85318-konstitutsionnaya-vaktsinatsiya
+**link:** [Конституционная вакцинация](2020/05/10/85318-konstitutsionnaya-vaktsinatsiya.md)

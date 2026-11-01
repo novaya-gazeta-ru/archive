@@ -16,7 +16,7 @@ tags: "латынина, навальный, следствие ведут"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right" style="">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/12/14/1355502397_560061_25.jpg" style="width: 360px; height: 229px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/12/14/1355502397_560061_25.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/12/14/1355502397_560061_25.jpg)" style="width: 360px; height: 229px;"><br>
 				<sup>Олег Навальный. Кадр Первого канала</sup></td>
 		</tr>
 	</tbody>]*

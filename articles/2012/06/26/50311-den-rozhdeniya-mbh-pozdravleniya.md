@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<strong><img alt="Фото: Юрий Рост — «Новая газета»" src="http://www.novayagazeta.ru/storage/c/2012/06/26/1340713081_079034_23.jpg" style="width: 360px; height: 573px; "></strong><br>
+				<strong><img alt="Фото: Юрий Рост — «Новая газета»" src="[http://www.novayagazeta.ru/storage/c/2012/06/26/1340713081_079034_23.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/06/26/1340713081_079034_23.jpg)" style="width: 360px; height: 573px; "></strong><br>
 				<sup>Фото: Юрий Рост — «Новая газета»</sup></td>
 		</tr>
 	</tbody>]*

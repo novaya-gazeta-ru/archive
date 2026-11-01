@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/07/16/1405529558_816127_77.jpg" style="width: 320px; height: 425px;"><sup>Наталья Эстемирова в Грозном. 2004 год.</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/07/16/1405529558_816127_77.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/07/16/1405529558_816127_77.jpg)" style="width: 320px; height: 425px;"><sup>Наталья Эстемирова в Грозном. 2004 год.</sup></td>
 		</tr>
 	</tbody>]*
 

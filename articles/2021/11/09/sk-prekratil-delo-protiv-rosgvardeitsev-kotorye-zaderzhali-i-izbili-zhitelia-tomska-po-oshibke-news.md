@@ -25,4 +25,4 @@ tags: "томск, росгвардия, следственный комитет
 
 #### ** Минюст внес в реестр СМИ-иностранных агентов*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/01/26/88890-primenyayte-nasilie-vam-nichego-za-eto-ne-budet
+**Читайте также:** [https://novayagazeta.ru/articles/2021/01/26/88890-primenyayte-nasilie-vam-nichego-za-eto-ne-budet](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/01/26/88890-primenyayte-nasilie-vam-nichego-za-eto-ne-budet)

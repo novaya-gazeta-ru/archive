@@ -11,7 +11,7 @@ tags: ""
 
 # Прокурор запросил для экс-редактора «URA ру» Аллаярова пять лет колонии по делу о взятках дяде-полицейскому
 
-> ### Бывшему редактору Ura.ru Денису Аллаярову [дали 5 лет за покупку «сливов» у дяди-полицейского](https://novayagazeta.ru/articles/2026/04/21/byshemu-redaktoru-ura-ru-denisu-allaiarovu-dali-5-let-za-pokupku-slivov-u-diadi-politseiskogo-sam-on-ranee-otdelalsia-uslovnym-srokom-news) — тот отделался условным сроком
+> ### Бывшему редактору Ura.ru Денису Аллаярову [дали 5 лет за покупку «сливов» у дяди-полицейского](2026/04/21/byshemu-redaktoru-ura-ru-denisu-allaiarovu-dali-5-let-za-pokupku-slivov-u-diadi-politseiskogo-sam-on-ranee-otdelalsia-us.md) — тот отделался условным сроком
 
 Гособвинение запросило пять лет исправительной колонии для бывшего редактора URA RU Дениса Аллярова по делу о даче взятки, [передает](https://www.interfax.ru/russia/1084920) «Интерфакс». Кроме срока, обвинение попросило оштрафовать Аллярова на 1,2 млн рублей (десятикратная стоимость вменяемой взятки).
 

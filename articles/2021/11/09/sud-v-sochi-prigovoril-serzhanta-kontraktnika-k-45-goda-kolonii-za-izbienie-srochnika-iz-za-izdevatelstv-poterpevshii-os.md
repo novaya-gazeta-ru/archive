@@ -17,6 +17,6 @@ tags: "дедовщина, армия, приговор, неуставные о
 
 Суд признал Карасева виновным в превышении должностных полномочий, повлекшем причинение тяжких последствий здоровью потерпевшего (п. «а», «в» ч. 3 ст. 286 УК).
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/12/dedovshchine-obiavlen-otboi
+**Читайте также:** [https://novayagazeta.ru/articles/2021/10/12/dedovshchine-obiavlen-otboi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/10/12/dedovshchine-obiavlen-otboi)
 
-В октябре военная прокуратура Хабаровского края [возбудила](https://novayagazeta.ru/articles/2021/10/09/v-khabarovskom-krae-vozbudili-delo-ob-izbienii-srochnika-sosluzhivtsami-news) уголовное дело после публикации видео с избиением военнослужащего солдатами в казарме. Дело возбудили по двум статьям: о вымогательстве (ч. 2 ст. 163 УК) и неуставных отношениях (ч. 2 ст. 335 УК).
+В октябре военная прокуратура Хабаровского края [возбудила](2021/10/09/v-khabarovskom-krae-vozbudili-delo-ob-izbienii-srochnika-sosluzhivtsami-news.md) уголовное дело после публикации видео с избиением военнослужащего солдатами в казарме. Дело возбудили по двум статьям: о вымогательстве (ч. 2 ст. 163 УК) и неуставных отношениях (ч. 2 ст. 335 УК).

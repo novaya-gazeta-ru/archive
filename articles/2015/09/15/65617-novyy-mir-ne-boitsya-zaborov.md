@@ -69,9 +69,9 @@ tags: "беженцы, евросоюз, сирия"
 
 — Я не могу ничего обещать, я, так же, как и вы, только надеюсь.
 
-**link:** https://novayagazeta.ru/society/69945.html
+**link:** [https://novayagazeta.ru/society/69945.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/69945.html)
 
-**link:** https://novayagazeta.ru/society/69945.html
+**link:** [https://novayagazeta.ru/society/69945.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/69945.html)
 
 Волонтера зовут Роберт, он из Германии. Немцев, австрийцев и скандинавов среди добровольцев здесь вообще большинство. Но есть и словаки, чехи, несколько человек из России и самой Венгрии.
 

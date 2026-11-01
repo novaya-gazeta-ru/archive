@@ -17,8 +17,8 @@ tags: "pussy riot, рита флорес, арест, круговорот ар�
 
 После выздоровления акционистке придется вернуться в спецприемние и отбыть там 5 суток 21 час из 15-суточного ареста. Определение суда еще не вступило в силу.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/09/krugovorot-arestov-i-spetspriemnikov
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/09/krugovorot-arestov-i-spetspriemnikov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/09/krugovorot-arestov-i-spetspriemnikov)
 
-21 июля полиция [задержала](https://novayagazeta.ru/articles/2021/07/21/v-moskve-zaderzhali-uchastnitsu-pussy-riot-ritu-flores) Риту Флорес возле ее дома без объяснения причин и оставила девушку на ночь в отделе по району Котловка. На следующий день суд арестовал ее за «неповиновении полиции» (ст. 19.3 КоАП).
+21 июля полиция [задержала](2021/07/21/v-moskve-zaderzhali-uchastnitsu-pussy-riot-ritu-flores.md) Риту Флорес возле ее дома без объяснения причин и оставила девушку на ночь в отделе по району Котловка. На следующий день суд арестовал ее за «неповиновении полиции» (ст. 19.3 КоАП).
 
-Ранее два ареста по 15 суток отбыли участницы Pussy Riot Вероника Никульшина и Анна Кузьминых, первая [покинула](https://novayagazeta.ru/articles/2021/07/18/uchastnitsa-pussy-riot-veronika-nikulshina-uekhala-iz-rossii-posle-dvukh-arestov-podriad) Россию, вторая — [говорила](https://mbk-news.appspot.com/news/kuzminyh-uededt/) о таких планах. Из страны [уехал](https://novayagazeta.ru/articles/2021/07/20/eshche-odin-uchastnik-pussy-riot-uekhal-iz-rossii-posle-neskolkikh-administrativnykh-arestov-podriad) и участник группы Александр Софеев, которому тоже назначали административные аресты.
+Ранее два ареста по 15 суток отбыли участницы Pussy Riot Вероника Никульшина и Анна Кузьминых, первая [покинула](2021/07/18/uchastnitsa-pussy-riot-veronika-nikulshina-uekhala-iz-rossii-posle-dvukh-arestov-podriad.md) Россию, вторая — [говорила](https://mbk-news.appspot.com/news/kuzminyh-uededt/) о таких планах. Из страны [уехал](2021/07/20/eshche-odin-uchastnik-pussy-riot-uekhal-iz-rossii-posle-neskolkikh-administrativnykh-arestov-podriad.md) и участник группы Александр Софеев, которому тоже назначали административные аресты.

@@ -35,4 +35,4 @@ tags: "Зиявудин Магомедов, сумма, суды"
 
 > **Продолжение. Начало в публикациях:**
 >
-> **[«Кто прислал рейдеров в Севастополь»? в № 59 от 2 июня 2021](https://novayagazeta.ru/articles/2021/05/29/kto-prislal-reiderov-v-sevastopol)[«В «деле Магомедовых» найден украинский след» в № 51 от 14 мая 2021](https://novayagazeta.ru/articles/2021/05/13/v-dele-magomedovykh-naiden-ukrainskii-sled)[«Зерновое сомнение» в № 46 от 28 апреля 2021](https://novayagazeta.ru/articles/2021/04/27/zernovoe-somnenie)[««Сумма» преступлений» в № 38 от 9 апреля 2021](https://novayagazeta.ru/articles/2021/04/08/summa-prestuplenii)**
+> **[«Кто прислал рейдеров в Севастополь»? в № 59 от 2 июня 2021](2021/05/29/kto-prislal-reiderov-v-sevastopol.md)[«В «деле Магомедовых» найден украинский след» в № 51 от 14 мая 2021](2021/05/13/v-dele-magomedovykh-naiden-ukrainskii-sled.md)[«Зерновое сомнение» в № 46 от 28 апреля 2021](2021/04/27/zernovoe-somnenie.md)[««Сумма» преступлений» в № 38 от 9 апреля 2021](2021/04/08/summa-prestuplenii.md)**

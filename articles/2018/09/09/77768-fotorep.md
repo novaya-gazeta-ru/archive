@@ -13,7 +13,7 @@ tags: "задержания, протесты, петербург, москва"
 
 *Фоторепортаж*
 
-**link:** https://novayagazeta.ru/articles/2018/09/09/77773-pechalnaya-metafora-rossii
+**link:** [Печальная метафора России](2018/09/09/77773-pechalnaya-metafora-rossii.md)
 
 ![](_assets/13/13ae00e13145264a3b6a88113e888317.webp)
 
@@ -31,7 +31,7 @@ tags: "задержания, протесты, петербург, москва"
 
 *Москва. Пушкинская площадь. Активисты требуют отставки правительства. Фото: Виктория Одиссонова/ «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2018/09/09/77767-den-vyborov-i-mitingi-protiv-pensionnoy-reformy
+**link:** [День выборов и митинги против пенсионной реформы](2018/09/09/77767-den-vyborov-i-mitingi-protiv-pensionnoy-reformy.md)
 
 ![](_assets/b9/b950fdb27729e5ac1bc49e53ef514fb4.webp)
 

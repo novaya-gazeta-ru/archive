@@ -13,9 +13,9 @@ tags: "терроризм, франция"
 
 *«Новая газета» выражает глубокие соболезнования народу Франции. Вы тоже можете оставить свои соболезнования в комментариях к этому материалу*
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/news/1697957.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/11/14/1447450673_385791_98.png" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Следите за темой:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/news/1697957.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1697957.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/11/14/1447450673_385791_98.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/11/14/1447450673_385791_98.png)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Следите за темой:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/news/1697957.html" target="_blank"><strong>Серия террористических атак на Париж, погибли более 120 человек. Во Франции трехдневный траур. Трансляция трагических событий</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/news/1697957.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1697957.html)" target="_blank"><strong>Серия террористических атак на Париж, погибли более 120 человек. Во Франции трехдневный траур. Трансляция трагических событий</strong></a></p>]*
 
 Ранним утром, в 4:00 утра у посольства Франции в Москве уже были цветы и горели свечи:
 

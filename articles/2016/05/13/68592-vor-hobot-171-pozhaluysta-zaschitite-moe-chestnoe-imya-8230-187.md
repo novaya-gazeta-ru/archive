@@ -83,9 +83,9 @@ tags: "сизо, фсин"
 
 — (_С напором._) Не надо, мать, мне священника…
 
-**link:** https://novayagazeta.ru/society/71947.html
+**link:** [https://novayagazeta.ru/society/71947.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/71947.html)
 
-**link:** https://novayagazeta.ru/society/71947.html
+**link:** [https://novayagazeta.ru/society/71947.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/71947.html)
 
 #Тэко и Заур
 

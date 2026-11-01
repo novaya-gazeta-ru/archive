@@ -121,4 +121,4 @@ tags: "украина, россия, днр, пытки, обсе, лнр"
 
 10 ноября в Покровске Донецкой области прошло первое [заседание](https://dn.npu.gov.ua/news/bojoviki/na-donechchini-visim-chleniv-zlochinnoji-organizacziji-postanut-pered-sudom-za-katuvannya-gromadyan-ta-inshi-tyazhki-zlochini-u-v-yazniczi-Izolyacziya/?fbclid=IwAR3cPOAqhisjMfSPc_n9FMvRBIa39AwvCjNcE_-BDbt15hVZvXN6d7m6PEU&__cf_chl_rt_tk=8bJELd2MDY3v1BMZnJZMgTx0Se_UnfD.gjhFVDt.0_k-1636817836-0-gaNycGzNCRE) заочного суда против первых, установленных восьми охранников «Изоляции». В их деле 34 потерпевших.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/19/vy-tam-ne-oslepli-sobaki
+**Читайте также:** [«Вы там не ослепли, собаки?!»](2021/10/19/vy-tam-ne-oslepli-sobaki.md)

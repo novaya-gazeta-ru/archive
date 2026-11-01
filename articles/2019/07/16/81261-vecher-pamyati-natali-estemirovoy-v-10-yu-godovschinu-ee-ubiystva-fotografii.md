@@ -29,7 +29,7 @@ tags: "титиев, права человека, убийство, эстеми
 
 *Татьяна Локшина и Лана Эстемирова. Фото: Анна Артемьева / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2019/07/15/81247-ne-nosila-platka-i-obhodila-prospekt-putina
+**link:** [Не носила платка и обходила проспект Путина](2019/07/15/81247-ne-nosila-platka-i-obhodila-prospekt-putina.md)
 
 ![](_assets/64/642c9c3174d6371fe6bfe63eaf49d543.webp)
 

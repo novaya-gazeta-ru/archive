@@ -125,4 +125,4 @@ tags: "письма счастья, минобороны, угрозы, сша, 
 
 — Ыыыыыыыыыыыыыыыыыыыыыыыыыыыы!
 
-**link:** https://novayagazeta.ru/articles/2018/03/03/75688-staya-letayuschih-chernobyley
+**link:** [Стая летающих Чернобылей](2018/03/03/75688-staya-letayuschih-chernobyley.md)

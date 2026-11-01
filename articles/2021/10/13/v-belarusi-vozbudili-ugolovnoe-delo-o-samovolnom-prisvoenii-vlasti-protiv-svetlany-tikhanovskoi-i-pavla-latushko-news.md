@@ -17,9 +17,9 @@ tags: "тихановская, Беларусь, уголовное дело, в
 
 Официальный представитель СК Сергей Кабакович заявил, что Тихановская и Латушко «по согласованию с другим участниками заговора» создали за границей «псевдоорганы государственной власти, управлений и представительств», а также «вступили в переговоры с представителями иностранных государств и международных организаций».
 
-В марте Генпрокуратура Беларуси [возбудила](https://novayagazeta.ru/articles/2021/03/29/v-belarusi-v-otnoshenii-tikhanovskoi-vozbudili-ugolovnoe-delo-o-podgotovke-terakta) против Тихановской и участников проекта экс-сотрудников силовых структур BYPOL уголовное дело о подготовке теракта (статья 289 УК РБ). Ранее в отношении них [возбудили](https://novayagazeta.ru/articles/2020/12/21/166634-genprokuratura-belarusi-vozbudila-ugolovnoe-delo-protiv-tihanovskoy) уголовное дело по статье по создании экстремистского формирования и руководстве им (ч.1 ст. 361-1 УК РБ).
+В марте Генпрокуратура Беларуси [возбудила](2021/03/29/v-belarusi-v-otnoshenii-tikhanovskoi-vozbudili-ugolovnoe-delo-o-podgotovke-terakta.md) против Тихановской и участников проекта экс-сотрудников силовых структур BYPOL уголовное дело о подготовке теракта (статья 289 УК РБ). Ранее в отношении них [возбудили](2020/12/21/166634-genprokuratura-belarusi-vozbudila-ugolovnoe-delo-protiv-tihanovskoy.md) уголовное дело по статье по создании экстремистского формирования и руководстве им (ч.1 ст. 361-1 УК РБ).
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/16/tikhanovskaia-my-pobedim-v-borbe-s-diktaturoi-nuzhna-podderzhka-makrona
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/16/tikhanovskaia-my-pobedim-v-borbe-s-diktaturoi-nuzhna-podderzhka-makrona](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/16/tikhanovskaia-my-pobedim-v-borbe-s-diktaturoi-nuzhna-podderzhka-makrona)
 
 Генпрокуратура назвала деятельность Координационного совета оппозиции Беларуси «антиконституционной» и заявила, что совет направлен на захват власти. В связи с созданием совета в стране возбуждено уголовное дело о призывах к действиям, направленным на причинение вреда национальной безопасности Беларуси (ст. 361 УК РБ).
 

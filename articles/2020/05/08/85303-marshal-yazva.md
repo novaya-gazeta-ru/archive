@@ -249,7 +249,7 @@ tags: "бактериологическое оружие, сибирская я�
 
 Раиса Смирнова надеется дожить до момента, когда гриф секретности с документов о сибирской язве будет снят. Тогда она подаст в суд во второй раз.
 
-**novaya:** https://novayagazeta.ru/articles/2018/05/20/76539-pora-nashim-vlastyam-i-voennym-nazad-oborachivatsya
+**novaya:** [«Пора нашим властям и военным назад оборачиваться»](2018/05/20/76539-pora-nashim-vlastyam-i-voennym-nazad-oborachivatsya.md)
 
 ___
 

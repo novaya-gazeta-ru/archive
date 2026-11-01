@@ -47,4 +47,4 @@ tags: "биткоин, крипта, майнинг, цифровые деньг
 
 И только побултыхавшись в яме и отлежавшись на плато, биткоин начнет новый подъем.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/03/18/smertelnyi-nomer
+**Читайте также:** [https://novayagazeta.ru/articles/2024/03/18/smertelnyi-nomer](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/03/18/smertelnyi-nomer)

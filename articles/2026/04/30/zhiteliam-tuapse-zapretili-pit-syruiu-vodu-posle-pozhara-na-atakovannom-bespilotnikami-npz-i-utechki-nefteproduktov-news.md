@@ -33,6 +33,6 @@ tags: ""
 
 Атака беспилотников в Туапсе в ночь на 28 апреля стала третьей за апрель. Из-за пожара часть Туапсе осталась без воды после того, как вышла из строя система энергоснабжения насосной станции.
 
-Местами нефтепродукты из НПЗ [выплеснулись из раскаленного резервуара](https://novayagazeta.ru/articles/2026/04/28/gubernatoru-pokazali-apokalipticheskie-kartiny-pozhara-na-tuapsinskom-npz-vytekshaia-na-ulitsu-neft-sozhgla-avtomobili-chast-raionov-bez-vody-news) на дорогу, повредив несколько автомобилей. Из близлежащих домов эвакуировали 60 человек.
+Местами нефтепродукты из НПЗ [выплеснулись из раскаленного резервуара](2026/04/28/gubernatoru-pokazali-apokalipticheskie-kartiny-pozhara-na-tuapsinskom-npz-vytekshaia-na-ulitsu-neft-sozhgla-avtomobili-c.md) на дорогу, повредив несколько автомобилей. Из близлежащих домов эвакуировали 60 человек.
 
-> ### Что происходит в Туапсе — [рассказывал](https://novayagazeta.ru/articles/2026/04/29/strakh-nad-gorodom) для «Новой газеты» Александр Романов
+> ### Что происходит в Туапсе — [рассказывал](2026/04/29/strakh-nad-gorodom.md) для «Новой газеты» Александр Романов

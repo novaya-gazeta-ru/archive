@@ -53,4 +53,4 @@ tags: "нобелевская премия, разведка, спецопера
 
 Главная цель, по мнению скандинавских политологов, — изменить расстановку сил в национальных парламентах, чтобы в дальнейшем добиться отмены западных санкций против РФ.
 
-**link:** https://novayagazeta.ru/articles/2016/06/01/68815-fabrika-trolley-anatomiya-protesta-ili-viskas-dlya-shkolnikov-chto-hochet-zabyt-kremlevskiy-povar-prigozhin
+**link:** [«Фабрика троллей», «Анатомия протеста» или «Вискас» для школьников](2016/06/01/68815-fabrika-trolley-anatomiya-protesta-ili-viskas-dlya-shkolnikov-chto-hochet-zabyt-kremlevskiy-povar-prigozhin.md)

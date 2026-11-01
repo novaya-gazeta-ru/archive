@@ -27,9 +27,9 @@ tags: "платформа кольская, суды"
 
 Теперь же Наталью Дмитриеву ждет самая страшная борьба — за тех, кого сделали обвиняемыми. Семьи погибших уверены, что на скамье подсудимых только «стрелочники». И требуют для них оправдания.
 
-**link:** https://novayagazeta.ru/society/67858.html
+**link:** [https://novayagazeta.ru/society/67858.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/67858.html)
 
-**link:** https://novayagazeta.ru/society/67858.html
+**link:** [https://novayagazeta.ru/society/67858.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/67858.html)
 
 Уже на предварительных слушаниях потерпевшие ходатайствовали о возвращении дела да доследование, но получили отказ. Адвокат планирует вновь заявить такое требование во время судебного следствия.
 

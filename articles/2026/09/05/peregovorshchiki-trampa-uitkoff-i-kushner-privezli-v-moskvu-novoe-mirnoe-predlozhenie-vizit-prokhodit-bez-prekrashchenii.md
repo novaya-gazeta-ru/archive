@@ -15,7 +15,7 @@ tags: ""
 
 > **есть продолжение**
 >
-> ### **[Кремль отказался от ударов по Киеву с 5 по 7 сентября включительно для работы там американских посланников Кушнера и Уиткоффа](https://novayagazeta.ru/articles/2026/09/05/kreml-otkazalsia-ot-udarov-po-kievu-s-5-po-7-sentiabria-vkliuchitelno-dlia-raboty-tam-amerikanskikh-poslannikov-kushnera-i-uitkoffa-kotorye-seichas-v-moskve-news)**
+> ### **[Кремль отказался от ударов по Киеву с 5 по 7 сентября включительно для работы там американских посланников Кушнера и Уиткоффа](2026/09/05/kreml-otkazalsia-ot-udarov-po-kievu-s-5-po-7-sentiabria-vkliuchitelno-dlia-raboty-tam-amerikanskikh-poslannikov-kushnera.md)**
 
 Представительный кортеж из Aurus и джипы сопровождения со спецсигналами и кортежем ГАИ прибыл во Внуково, чтобы встретить прилетевших в Москву спецпредставителей президента Трампа Стива Уиткоффа и Джареда Кушнера. Прибытие американцев [подтвердили](https://t.me/interfaxonline/78252) «Интерфаксу» во Внуково.
 

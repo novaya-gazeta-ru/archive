@@ -43,4 +43,4 @@ SMiLE Beach Boys — УЛыБКА Beach Boys, это мир разноцветн
 
 И оказалось, что этот мир прекрасен.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/01/kogda-slezy-tekut
+**Читайте также:** [Когда слезы текут](2025/02/01/kogda-slezy-tekut.md)

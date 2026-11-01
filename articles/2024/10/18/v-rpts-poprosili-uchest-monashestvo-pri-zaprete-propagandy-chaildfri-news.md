@@ -19,4 +19,4 @@ tags: ""
 
 За то, что российские власти сочтут «пропагандой чайлдфри», гражданам будет грозить штраф до 400 тысяч рублей, а юрлицам — до 5 млн рублей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/05/kvadrober-s-aifonom-skloniaet-k-abortu-germionu-greindzher
+**Читайте также:** [Квадробер с айфоном склоняет к аборту Гермиону Грейнджер](2024/10/05/kvadrober-s-aifonom-skloniaet-k-abortu-germionu-greindzher.md)

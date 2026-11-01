@@ -27,4 +27,4 @@ tags: ""
 
 В защиту телеграм-канала «Суджа Родная» начали выступать Z-блогеры, подписчики у канала растут.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/01/ty-oresh-kak-nemoi-a-tebia-ne-slyshit-nikto
+**Читайте также:** [«Ты орешь, как немой, а тебя не слышит никто»](2025/02/01/ty-oresh-kak-nemoi-a-tebia-ne-slyshit-nikto.md)

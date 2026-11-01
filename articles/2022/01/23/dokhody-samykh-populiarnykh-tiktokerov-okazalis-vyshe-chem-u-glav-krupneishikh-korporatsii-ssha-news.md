@@ -27,4 +27,4 @@ The Wall Street Journal [сравнил](https://www.wsj.com/articles/these-tikt
 
 Третье место в списке самых полярных тиктокеров заняла Эддисон Рэй, она, по данным Forbes, заработала за год 8,5 млн долларов. На четвертом месте — Белла Поарч (5 млн долларов).
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/11/kalmarnyi-kapitalizm-glazami-tiktok-kommunizma
+**Читайте также:** [Кальмарный капитализм глазами «тикток-коммунизма»](2021/10/11/kalmarnyi-kapitalizm-glazami-tiktok-kommunizma.md)

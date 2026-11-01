@@ -19,6 +19,6 @@ tags: "бастрыкин, ск, следственный комитет"
 
 В далеком прошлом Александр Бастрыкин и Владимир Путин были однокурсниками юрфака Ленинградского университета, Бастрыкин к тому же был [старостой его группы на четвертом курсе.](https://www.kommersant.ru/doc/777085)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/26/bastrykin-my-predlagali-ponizit-vozrast-ugolovnoi-otvetstvennosti-dlia-podrostkov-do-12-let-news
+**Читайте также:** [Бастрыкин: «Мы предлагали понизить возраст уголовной ответственности для подростков до 12 лет»](2026/06/26/bastrykin-my-predlagali-ponizit-vozrast-ugolovnoi-otvetstvennosti-dlia-podrostkov-do-12-let-news.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/20/14-letnii-vania-k-stal-novym-samym-molodym-figurantom-reestra-terroristov-i-ekstremistov-news
+**Читайте также:** [14-летний Ваня М. стал новым самым молодым фигурантом реестра террористов и экстремистов](2026/08/20/14-letnii-vania-k-stal-novym-samym-molodym-figurantom-reestra-terroristov-i-ekstremistov-news.md)

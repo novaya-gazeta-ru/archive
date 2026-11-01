@@ -30,7 +30,7 @@ tags: "докуменальная съемка, новая продакшн, ф�
 **Лариса Малюкова,** \
  обозреватель «Новой газеты»
 
-**link:** https://novayagazeta.ru/arts/71365.html
+**link:** [https://novayagazeta.ru/arts/71365.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/71365.html)
 
 > **3** января **«Волшебный комсомолец»** . Фильм открытия. — Режиссер Анна Булгакова, 60 мин.
 

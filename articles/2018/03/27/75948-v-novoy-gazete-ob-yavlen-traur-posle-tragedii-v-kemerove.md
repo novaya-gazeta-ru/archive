@@ -39,4 +39,4 @@ tags: "траур, кемерово"
 
 Президент на вторые сутки прилетел к месту трагедии и возложил цветы у мемориала. Государственный траур в стране, к которому призывали власти пользователи соцсетей и ряд СМИ, президент объявил в тот же день.
 
-**link:** https://novayagazeta.ru/news/2018/03/27/140507-u-zdaniya-oblastnoy-administratsii-kemerova-nachalsya-stihiynyy-miting
+**link:** [https://novayagazeta.ru/news/2018/03/27/140507-u-zdaniya-oblastnoy-administratsii-kemerova-nachalsya-stihiynyy-miting](https://web.archive.org/web/*/https://novayagazeta.ru/news/2018/03/27/140507-u-zdaniya-oblastnoy-administratsii-kemerova-nachalsya-stihiynyy-miting)

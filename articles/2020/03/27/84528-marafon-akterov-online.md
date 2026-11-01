@@ -25,4 +25,4 @@ tags: "жигалкин, онлайн, театр"
 
 «Новая газета» транслирует вечер для читателей сайта.
 
-**link:** https://novayagazeta.ru/articles/2020/03/26/84520-pustoe-prostranstvo
+**link:** [Пустое пространство](2020/03/26/84520-pustoe-prostranstvo.md)

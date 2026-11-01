@@ -57,7 +57,7 @@ _Марат Александрович ГЕЛЬМАН — о тайнах нын
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/09/12/1378979791_784997_59.jpg" style="width: 360px; height: 562px"><sup>Фото: Анна Артемьева/«Новая газета»</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/09/12/1378979791_784997_59.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/09/12/1378979791_784997_59.jpg)" style="width: 360px; height: 562px"><sup>Фото: Анна Артемьева/«Новая газета»</sup></td>
 		</tr>
 	</tbody>]*
 

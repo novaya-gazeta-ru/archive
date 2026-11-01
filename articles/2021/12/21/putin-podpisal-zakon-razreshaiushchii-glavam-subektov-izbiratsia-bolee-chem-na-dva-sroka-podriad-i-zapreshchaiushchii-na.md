@@ -19,9 +19,9 @@ tags: "татарстан, президент, регионы, путин, sf"
 
 Ожидается, что закон вступит в силу с 1 июня следующего года.
 
-Госдума 14 декабря в финальном чтении [приняла](https://novayagazeta.ru/articles/2021/12/14/gosduma-priniala-zakonoproekt-o-glavakh-subektov-on-snimaet-ogranicheniia-na-ikh-izbranie-i-zapreshchaet-glave-regiona-nazyvatsia-prezidentom-news) законопроект об организации публичной власти в субъектах РФ.
+Госдума 14 декабря в финальном чтении [приняла](2021/12/14/gosduma-priniala-zakonoproekt-o-glavakh-subektov-on-snimaet-ogranicheniia-na-ikh-izbranie-i-zapreshchaet-glave-regiona-n.md) законопроект об организации публичной власти в субъектах РФ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/13/vozvrashchenie-kazanskogo-khana
+**Читайте также:** [Возвращение казанского хана](2021/12/13/vozvrashchenie-kazanskogo-khana.md)
 
 Ранее проект закона вернули на второй этап рассмотрения на фоне несогласия с предлагаемыми поправками Госсовета Татарстана, где глава республики называется президентом. В то же время в комитете Госдумы по госстроительству РИА Новости заявили, что возврат инициативы якобы обусловлен техническими изменениями.
 

@@ -67,4 +67,4 @@ tags: "ким чен ын, космодром восточный, путин"
 
 **Приморье**
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/09/12/otvernites-k-nam-edet-kim-chen-yn
+**Читайте также:** [Отвернитесь, к нам едет Ким Чен Ын!](2023/09/12/otvernites-k-nam-edet-kim-chen-yn.md)

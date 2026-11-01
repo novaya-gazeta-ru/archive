@@ -19,6 +19,6 @@ tags: "Tor, блокировка, госдума, sn"
 
 Несколько дней назад российские пользователи столкнулись с трудностями при пользовании браузером. По данным IT-исследователей, система прокси-серверов Tor частично перестала работать в России примерно с 17:21 мск 2 декабря. Среди операторов, у которых пользователи [заметили](https://ntc.party/t/ooni-reports-of-tor-blocking-in-certain-isps-since-2021-12-01/1477) аномалию, почти все крупные российские провайдеры — МТС, Ростелеком, МГТС, «Билайн», Tele2, «Мегафон» и другие.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/04/sosredotochiv-v-rukakh-neobiatnyi-vk
+**Читайте также:** [Сосредоточив в руках необъятный VK](2021/12/04/sosredotochiv-v-rukakh-neobiatnyi-vk.md)
 
-Возможную блокировку Tor [прокомментировали](https://novayagazeta.ru/articles/2021/12/06/molodezh-vovlekaetsia-v-narkopotreblenie-absoliutnoe-zlo-zampred-komiteta-gosdumy-antona-gorelkin-o-blokirovke-tor-v-rossii-news) и в Госдуме. Зампред думской комиссии по информполитике Антон Горелкин заявил, что Tor — это «абсолютное зло», с помощью которого «молодежь вовлекается в наркопотребление».
+Возможную блокировку Tor [прокомментировали](2021/12/06/molodezh-vovlekaetsia-v-narkopotreblenie-absoliutnoe-zlo-zampred-komiteta-gosdumy-antona-gorelkin-o-blokirovke-tor-v-ros.md) и в Госдуме. Зампред думской комиссии по информполитике Антон Горелкин заявил, что Tor — это «абсолютное зло», с помощью которого «молодежь вовлекается в наркопотребление».

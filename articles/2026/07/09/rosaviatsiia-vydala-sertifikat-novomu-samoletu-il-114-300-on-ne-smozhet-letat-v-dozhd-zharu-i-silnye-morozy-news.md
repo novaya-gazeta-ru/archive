@@ -33,4 +33,4 @@ tags: ""
 >
 > Разработка российского Ил-114-300 ведется с середины 2010-х гг., самолет предназначен для замены устаревших Ан-24 и Ан-26, а также иностранных бортов. В модернизированной версии импортозаместили канадские двигатели и зарубежное бортовое оборудование.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/06/zamenu-dvigatelei-na-superdzhetakh-na-rossiiskie-otsenili-v-115-mlrd-rublei-i-pristupiat-k-nei-cherez-tri-goda-do-etogo-putin-zaiavil-chto-rossiia-smogla-importozamestit-vsiu-aviatekhniku-news
+**Читайте также:** [Замену двигателей на «суперджетах» на российские оценили в 115 млрд рублей и приступят к ней через три года. До этого Путин заявил, что Россия смогла импортозаместить всю авиатехнику](2026/07/06/zamenu-dvigatelei-na-superdzhetakh-na-rossiiskie-otsenili-v-115-mlrd-rublei-i-pristupiat-k-nei-cherez-tri-goda-do-etogo-.md)

@@ -11,7 +11,7 @@ tags: "подброс, наркотики, подмосковье, sn"
 
 # Мособлсуд заменил условные сроки на реальные полицейским, фабриковавшим дела о наркотиках в Подмосковье
 
-Московский областной суд заменил условные сроки на реальные полицейским из подмосковного Раменского, [сообщает](https://epp.genproc.gov.ru/web/proc_50/mass-media/news?item=69972961) пресс-служба подмосковной прокуратуры. Ранее их [признали](https://novayagazeta.ru/articles/2021/10/09/shestero-ramenskikh-politseiskikh-poluchili-uslovnye-sroki-za-fabrikatsiiu-del-o-narkotikakh-obvinenie-zaprashivalo-dlia-nikh-do-13-let-kolonii-news) виновными в фабрикации дел о наркотиках.
+Московский областной суд заменил условные сроки на реальные полицейским из подмосковного Раменского, [сообщает](https://epp.genproc.gov.ru/web/proc_50/mass-media/news?item=69972961) пресс-служба подмосковной прокуратуры. Ранее их [признали](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/10/09/shestero-ramenskikh-politseiskikh-poluchili-uslovnye-sroki-za-fabrikatsiiu-del-o-narkotikakh-obvinenie-zaprashivalo-dlia-nikh-do-13-let-kolonii-news) виновными в фабрикации дел о наркотиках.
 
 В деле о подбросе запрещенных веществ и фальсификации материалов уголовных дел шесть фигурантов: экс-глава отдела МВД по борьбе с наркотиками в Раменском Дмитрий Понкратов, его заместитель Евгений Сороколетов, а также оперативники Сергей Горьков, Алексей Антонов, Иван Суслопаров и Сергей Кукин.
 
@@ -21,8 +21,8 @@ tags: "подброс, наркотики, подмосковье, sn"
 
 В итоге Понкратов получил 7 лет и 10 месяцев колонии общего режима, его заместитель — на четыре месяца меньше. Кукина приговорили к шести годам лишения свободы, остальных — к пяти. В отношении Алексея Антонова приговор отменили в связи с его смертью.
 
-**Читайте также:**  https://novayagazeta.ru/articles/2021/03/31/libo-my-sotrudnichaem-libo-ty-poedesh-v-tiurmu
+**Читайте также:**  [https://novayagazeta.ru/articles/2021/03/31/libo-my-sotrudnichaem-libo-ty-poedesh-v-tiurmu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/03/31/libo-my-sotrudnichaem-libo-ty-poedesh-v-tiurmu)
 
 Потерпевшими по делу о подбросе наркотиков и фальсификации доказательств признаны пять человек. Трое из них получили реальные сроки, некоторых впоследствии реабилитировали. Один потерпевший провел год в СИЗО, только после этого дело против него прекратили.
 
-Понкратова [задержали](https://novayagazeta.ru/articles/2019/06/20/152654-smi-byvshego-glavu-narkopolitsii-podmoskovnogo-ramenskogo-obvinili-v-podbrose-amfetamina) в 2019-м году, его тогда арестовали. Перед этим по делу о фабрикации дел о наркотиках были арестованы трое его подчиненных.
+Понкратова [задержали](2019/06/20/152654-smi-byvshego-glavu-narkopolitsii-podmoskovnogo-ramenskogo-obvinili-v-podbrose-amfetamina.md) в 2019-м году, его тогда арестовали. Перед этим по делу о фабрикации дел о наркотиках были арестованы трое его подчиненных.

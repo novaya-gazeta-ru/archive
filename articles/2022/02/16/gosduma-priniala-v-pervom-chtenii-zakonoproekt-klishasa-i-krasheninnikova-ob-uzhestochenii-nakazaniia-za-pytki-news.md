@@ -19,8 +19,8 @@ tags: "пытки, клишас, госдума, крашенинников, з�
  \
  В документе к пыткам предлагают относить «запугивание как способ контроля над личностью заключенного или принуждения другого лица к совершению каких-либо действий под страхом пытки».\
  \
- Российские правозащитники [раскритиковали](https://novayagazeta.ru/articles/2021/12/20/pytka-ostanetsia-ne-prestupleniem-a-prevysheniem-polnomochii) законопроект, так как он не выделяет пытки как отдельное преступление.
+ Российские правозащитники [раскритиковали](2021/12/20/pytka-ostanetsia-ne-prestupleniem-a-prevysheniem-polnomochii.md) законопроект, так как он не выделяет пытки как отдельное преступление.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/20/pytka-ostanetsia-ne-prestupleniem-a-prevysheniem-polnomochii
+**Читайте также:** [«Пытка останется не преступлением, а превышением полномочий»](2021/12/20/pytka-ostanetsia-ne-prestupleniem-a-prevysheniem-polnomochii.md)
 
-Вчера Людмила Нарусова[внесла](https://novayagazeta.ru/articles/2022/02/14/senator-narusova-vnesla-v-dumu-alternativnye-popravki-o-pytkakh-oni-pozvoliaiut-otkazatsia-v-sude-ot-vybitykh-pokazanii-news) в Госдуму альтернативный законопроект об ужесточении наказания за пытки. Она предложила выделить их в отдельное преступление и запретить признавать достоверными признания, полученные под пытками.
+Вчера Людмила Нарусова[внесла](2022/02/14/senator-narusova-vnesla-v-dumu-alternativnye-popravki-o-pytkakh-oni-pozvoliaiut-otkazatsia-v-sude-ot-vybitykh-pokazanii-.md) в Госдуму альтернативный законопроект об ужесточении наказания за пытки. Она предложила выделить их в отдельное преступление и запретить признавать достоверными признания, полученные под пытками.

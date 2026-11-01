@@ -17,8 +17,8 @@ tags: "полиция, полицейский, закон о полиции, ai"
 
 Закон также оставляет за полицейскими право представляться задержанным только после прекращения ими противоправных действий.
 
-В начале декабря проект поправок к закону «О полиции» [приняли](https://novayagazeta.ru/articles/2021/12/08/gosduma-priniala-proekt-popravok-k-zakonu-o-politsii-on-pozvoliaet-silovikam-pronikat-v-zhile-i-vskryvat-mashiny-news) в Госдуме. При этом, во время рассмотрения закона во [втором](https://novayagazeta.ru/articles/2021/12/07/proekt-popravok-k-zakonu-o-politsii-proshel-vtoroe-chtenie-deputaty-podderzhali-pravo-silovikov-pronikat-v-zhile-i-vskryvat-mashiny-news) чтении депутаты исключили из текста положения, которые освобождали полицейских от ответственности за действия при исполнении, и разрешавшие им открыть огонь, если задерживаемый просто пытается приблизиться.
+В начале декабря проект поправок к закону «О полиции» [приняли](2021/12/08/gosduma-priniala-proekt-popravok-k-zakonu-o-politsii-on-pozvoliaet-silovikam-pronikat-v-zhile-i-vskryvat-mashiny-news.md) в Госдуме. При этом, во время рассмотрения закона во [втором](2021/12/07/proekt-popravok-k-zakonu-o-politsii-proshel-vtoroe-chtenie-deputaty-podderzhali-pravo-silovikov-pronikat-v-zhile-i-vskry.md) чтении депутаты исключили из текста положения, которые освобождали полицейских от ответственности за действия при исполнении, и разрешавшие им открыть огонь, если задерживаемый просто пытается приблизиться.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/08/politsiia-proizvela-kholostoi-vystrel
+**Читайте также:** [Полиция произвела холостой выстрел](2021/12/08/politsiia-proizvela-kholostoi-vystrel.md)
 
 В мае 2020 года правительство внесло в Госдуму проект поправок к закону «О полиции», которые расширяют полномочия сотрудников правоохранительных органов. В частности, документ [предполагает](https://sozd.duma.gov.ru/bill/955380-7) больше возможностей для применения полицейскими оружия, разрешает им вскрывать автомобили и не представляться.

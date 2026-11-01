@@ -178,6 +178,6 @@ tags: "будущее россии, доклад россия будущего, 
 
 И надо помнить, что у многих других, причем с похожим прошлым, — все-таки выбраться получилось.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/30/reviziia-bezansona
+**Читайте также:** [Ревизия Безансона](2026/07/30/reviziia-bezansona.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/30/v-poiskakh-utrachennogo-budushchego
+**Читайте также:** [В поисках утраченного будущего](2026/07/30/v-poiskakh-utrachennogo-budushchego.md)

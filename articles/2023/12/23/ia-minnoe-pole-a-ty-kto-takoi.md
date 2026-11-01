@@ -115,7 +115,7 @@ tags: "музыка, рок, музыкальные новинки, премье
 
 \
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/11/16/tsifrovaia-pamiat-muzyki
+**Читайте также:** [Цифровая память музыки](2023/11/16/tsifrovaia-pamiat-muzyki.md)
 
 > **БОЛЬШЕ О МУЗЫКЕ**
 >

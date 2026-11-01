@@ -141,41 +141,41 @@ tags: ""
 Схема 1.2. Расходование ЗАО «СЦМ Макси» в интересах компаний Максимова денежных средств, полученных
 
 *[media: <div>
-		<a href="http://www.novayagazeta.ru/storage/b/2012/04/09/1.3.pdf"><strong><span style="color:#b22222;">Схема 1.3.</span> Погашение ЗАО «СЦМ Макси» кредита за счет средств полученных от ОАО «Металлургический холдинг»&nbsp;за облигации ЗАО «НСММЗ»</strong></a></div>
+		<a href="[http://www.novayagazeta.ru/storage/b/2012/04/09/1.3.pdf](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/b/2012/04/09/1.3.pdf)"><strong><span style="color:#b22222;">Схема 1.3.</span> Погашение ЗАО «СЦМ Макси» кредита за счет средств полученных от ОАО «Металлургический холдинг»&nbsp;за облигации ЗАО «НСММЗ»</strong></a></div>
 	<div>
-		<a href="http://www.novayagazeta.ru/storage/b/2012/04/09/1.4.pdf"><br>
+		<a href="[http://www.novayagazeta.ru/storage/b/2012/04/09/1.4.pdf](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/b/2012/04/09/1.4.pdf)"><br>
 		<strong><span style="color:#b22222;">Схема 1.4.</span> Вывод средств, полученных от ЗАО «НСММЗ» за облигации поледнего, в подконтрольные Максимову общества</strong></a></div>
 	<div>
-		<a href="http://www.novayagazeta.ru/storage/b/2012/04/09/1.5.pdf"><br>
+		<a href="[http://www.novayagazeta.ru/storage/b/2012/04/09/1.5.pdf](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/b/2012/04/09/1.5.pdf)"><br>
 		<strong><span style="color:#b22222;">Схема 1.5.</span> Структура косвенного владения ЗАО «СЦМ МАКСИ» Максимовым</strong></a></div>
 	<div>
 		<br>
 		<div>
-			<a href="http://www.novayagazeta.ru/storage/b/2012/04/09/2.1.pdf"><strong><span style="color:#b22222;">Схема 2.1.</span> Искусственное обременение 29 ноября 2007 г. ОАО «МХ» задолженностью перед ОАО «ИК Макси» с использованием</strong></a></div>
+			<a href="[http://www.novayagazeta.ru/storage/b/2012/04/09/2.1.pdf](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/b/2012/04/09/2.1.pdf)"><strong><span style="color:#b22222;">Схема 2.1.</span> Искусственное обременение 29 ноября 2007 г. ОАО «МХ» задолженностью перед ОАО «ИК Макси» с использованием</strong></a></div>
 		<div>
-			<a href="http://www.novayagazeta.ru/storage/b/2012/04/09/2.1.pdf"><strong>средств Стабилизационнго Займа ОАО «НЛМК»</strong></a></div>
+			<a href="[http://www.novayagazeta.ru/storage/b/2012/04/09/2.1.pdf](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/b/2012/04/09/2.1.pdf)"><strong>средств Стабилизационнго Займа ОАО «НЛМК»</strong></a></div>
 		<div>
-			<a href="http://www.novayagazeta.ru/storage/b/2012/04/09/2.2.pdf"><br>
+			<a href="[http://www.novayagazeta.ru/storage/b/2012/04/09/2.2.pdf](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/b/2012/04/09/2.2.pdf)"><br>
 			<strong><span style="color:#b22222;">Схема 2.2.</span> Оплата ООО «Лайт Хаус» акций ОАО «ИК Макси» с использованием средств Стабилизационного Займа ОАО «НЛМК»</strong></a></div>
 		<div>
-			<a href="http://www.novayagazeta.ru/storage/b/2012/04/09/3.1.pdf"><br>
+			<a href="[http://www.novayagazeta.ru/storage/b/2012/04/09/3.1.pdf](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/b/2012/04/09/3.1.pdf)"><br>
 			<strong><span style="color:#b22222;">Схема 3.1.</span> Выкуп облигаций ОАО «Макси-Групп» от имени ООО «Уралснабкомплект» за счет средств ОАО «Макси-Групп»</strong></a></div>
 		<div>
-			<a href="http://www.novayagazeta.ru/storage/b/2012/04/09/3.2.pdf"><br>
+			<a href="[http://www.novayagazeta.ru/storage/b/2012/04/09/3.2.pdf](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/b/2012/04/09/3.2.pdf)"><br>
 			<strong><span style="color:#b22222;">Схема 3.2.</span> Выкуп облигаций ОАО «Макси-Групп» за счет средств ЗАО «НСММЗ»</strong></a></div>
 		<div>
 			&nbsp;</div>
 		<div>
 			&nbsp;</div>
 		<div>
-			<strong>—&nbsp;<a href="http://www.novayagazeta.ru/storage/b/2012/04/09/MaxiGroup_2006-RU.pdf">«Макси Групп». Консолидированная финансовая отчетность&nbsp;(2006)</a></strong></div>
+			<strong>—&nbsp;<a href="[http://www.novayagazeta.ru/storage/b/2012/04/09/MaxiGroup_2006-RU.pdf](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/b/2012/04/09/MaxiGroup_2006-RU.pdf)">«Макси Групп». Консолидированная финансовая отчетность&nbsp;(2006)</a></strong></div>
 		<div>
 			<br>
-			<strong>— <a href="http://www.novayagazeta.ru/storage/b/2012/04/09/Rep_letter_2006.TIF">Rep letter 2006</a></strong></div>
+			<strong>— <a href="[http://www.novayagazeta.ru/storage/b/2012/04/09/Rep_letter_2006.TIF](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/b/2012/04/09/Rep_letter_2006.TIF)">Rep letter 2006</a></strong></div>
 		<div>
 			<br>
-			<strong>—&nbsp;<a href="http://www.novayagazeta.ru/storage/b/2012/04/09/maksimovletter.pdf">Гарантийное письмо Максимова</a></strong></div>
+			<strong>—&nbsp;<a href="[http://www.novayagazeta.ru/storage/b/2012/04/09/maksimovletter.pdf](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/b/2012/04/09/maksimovletter.pdf)">Гарантийное письмо Максимова</a></strong></div>
 		<div>
 			<br>
-			— <a href="http://www.novayagazeta.ru/storage/b/2012/04/09/KPMG_Maxi-group_report_31_05_2007_final.pdf"><strong>Страница из&nbsp;анализа инвестиционной&nbsp;привлекательности ОАО Макси-Групп, подготовленного KPMG (2007)</strong></a></div>
+			— <a href="[http://www.novayagazeta.ru/storage/b/2012/04/09/KPMG_Maxi-group_report_31_05_2007_final.pdf](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/b/2012/04/09/KPMG_Maxi-group_report_31_05_2007_final.pdf)"><strong>Страница из&nbsp;анализа инвестиционной&nbsp;привлекательности ОАО Макси-Групп, подготовленного KPMG (2007)</strong></a></div>
 	</div>]*

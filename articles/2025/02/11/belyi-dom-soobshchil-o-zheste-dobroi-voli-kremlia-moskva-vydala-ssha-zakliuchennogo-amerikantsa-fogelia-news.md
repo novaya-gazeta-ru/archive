@@ -33,4 +33,4 @@ tags: ""
 
 Прилет в Россию такого рейса в канун Мюнхенской конференции по безопасности (она пройдет 14-16 февраля), в центре которой будет вопрос украинского урегулирования, вызвал ажиотаж, но не был поддержан Кремлем.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/15/rossiianku-s-grazhdanstvom-ssha-kseniiu-karelinu-khavana-osudili-na-12-let-za-donat-v-fond-podderzhki-vsu-news
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/15/rossiianku-s-grazhdanstvom-ssha-kseniiu-karelinu-khavana-osudili-na-12-let-za-donat-v-fond-podderzhki-vsu-news](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/15/rossiianku-s-grazhdanstvom-ssha-kseniiu-karelinu-khavana-osudili-na-12-let-za-donat-v-fond-podderzhki-vsu-news)

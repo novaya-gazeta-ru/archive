@@ -11,4 +11,4 @@ tags: ""
 
 # Наша акция «Будем людьми в год Собаки». Сюжет «Третьего канала» (4,2 мегабайта)
 
-[Скачать видео](https://novayagazeta.ru/storage/d/2006/01/23/sobaki-2.rm)
+[Скачать видео](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2006/01/23/sobaki-2.rm)

@@ -301,7 +301,7 @@ tags: "авиакатастрофа, Azerbaijan Airlines, актау"
 
 — Ко мне тогда подруги приехали, где-то полдня меня успокаивали, говорили, что вроде три члена экипажа выжили, — говорит Елена Кальянинова. — Не давали смотреть в интернете информацию. Я сама зашла в телефоне и увидела, как садился самолет. Видно было, что он носом идет, и уже дальше ни кабины, ничего не было. Понятно было, такая махина…
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/04/opublikovan-predvaritelnyi-otchet-o-krushenii-samoleta-azerbaijan-airlines-v-nem-govoritsia-o-povrezhdeniiakh-ot-vneshnikh-obektov-news
+**Читайте также:** [Опубликован предварительный отчет о крушении самолета Azerbaijan Airlines. В нем говорится о повреждениях от «внешних объектов»](2025/02/04/opublikovan-predvaritelnyi-otchet-o-krushenii-samoleta-azerbaijan-airlines-v-nem-govoritsia-o-povrezhdeniiakh-ot-vneshni.md)
 
 ## Второй
 

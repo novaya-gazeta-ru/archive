@@ -25,4 +25,4 @@ tags: "навальный, задержания, россия, em, протес�
 
 Управления Следственного комитета в восьми регионах возбудили уголовные дела о «применении насилия в отношении силовиков» на протестах в прошлую субботу. Несмотря на это, штабы Навального по всей стране объявили новые акции.
 
-**link:** https://novayagazeta.ru/articles/2021/01/31/88975-mitingi-31-yanvarya-online
+**link:** [https://novayagazeta.ru/articles/2021/01/31/88975-mitingi-31-yanvarya-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/01/31/88975-mitingi-31-yanvarya-online)

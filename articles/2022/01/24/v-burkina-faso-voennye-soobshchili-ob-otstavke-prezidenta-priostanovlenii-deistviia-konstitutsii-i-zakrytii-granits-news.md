@@ -27,4 +27,4 @@ tags: "буркина-фасо, африка, президент, военный
 
 AFP со ссылкой на заявление правящей в стране партии «Народное движение за прогресс» [передавало](https://tass.ru/mezhdunarodnaya-panorama/13511797), что на президента была совершена неудачная попытка покушения.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/09/za-chto-kaznili-prezidenta
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/09/za-chto-kaznili-prezidenta](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/09/za-chto-kaznili-prezidenta)

@@ -147,4 +147,4 @@ tags: "петербург, протесты, митинги, навальный"
 
 *Фото: Алексей Душутин / «Новая газета»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/04/22/v-peterburge-na-aktsii-solidarnosti-s-alekseem-navalnym-politsiia-vpervye-massovo-primeniala-elektroshokery
+**Читайте также:** [В Петербурге на акции солидарности с Алексеем Навальным полиция впервые массово применяла электрошокеры](2021/04/22/v-peterburge-na-aktsii-solidarnosti-s-alekseem-navalnym-politsiia-vpervye-massovo-primeniala-elektroshokery.md)

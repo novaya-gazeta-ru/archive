@@ -117,7 +117,7 @@ tags: "коронавирус, пандемия, благотворительн�
 >
 > https://livefund.ru Телефон: +7 929 916-10-16
 
-**link:** https://novayagazeta.ru/articles/2020/04/02/84661-mne-mama-skazala-v-bolnitse-seychas-zhest
+**link:** [«Мне мама сказала: в больнице сейчас жесть»](2020/04/02/84661-mne-mama-skazala-v-bolnitse-seychas-zhest.md)
 
 Общественная организация «Жизнь без слез» (Махачкала)
 
@@ -151,7 +151,7 @@ tags: "коронавирус, пандемия, благотворительн�
 >
 > http://сохраняяжизнь.рф Телефон: +7 3532 67-62-54
 
-**link:** https://novayagazeta.ru/articles/2020/04/04/84705-deystvuesh-znachit-suschestvuesh
+**link:** [«Действуешь — значит существуешь»](2020/04/04/84705-deystvuesh-znachit-suschestvuesh.md)
 
 «Территория семьи» (Пермь)
 

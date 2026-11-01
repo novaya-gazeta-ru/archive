@@ -13,7 +13,7 @@ tags: "космос, рогозин, скафандры, мода"
 
 *Патриотические скафандры от Физраствора в «Новой газете»*
 
-Старые скафандры у наших космонавтов [закончились](https://novayagazeta.ru/articles/2021/07/19/rossiiskie-kosmonavty-na-mks-ne-smogut-vykhodit-v-otkrytyi-kosmos-iz-za-istecheniia-garantii-u-skafandrov), глава Роскосмоса Дмитрий Рогозин обещал наделать новых. Шлём ему в помощь наброски наших специалистов по русскому космизму.
+Старые скафандры у наших космонавтов [закончились](2021/07/19/rossiiskie-kosmonavty-na-mks-ne-smogut-vykhodit-v-otkrytyi-kosmos-iz-za-istecheniia-garantii-u-skafandrov.md), глава Роскосмоса Дмитрий Рогозин обещал наделать новых. Шлём ему в помощь наброски наших специалистов по русскому космизму.
 
 ![](_assets/c1/c1aa12bbaff3c615e207fbbe5bb26a52.webp)
 

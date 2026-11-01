@@ -19,8 +19,8 @@ tags: "фейки, госдума, уголовное дело, лишение �
 
 «В ближайшем будущем мы сможем уже какие-то первые предложения высказать», — заявил Пискарев.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/27/i-chto-smolchim
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/27/i-chto-smolchim](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/27/i-chto-smolchim)
 
-Ранее Роскомнадзор [заблокировал](https://novayagazeta.ru/articles/2022/02/28/roskomnadzor-zablokiroval-sait-doxa-iz-za-teksta-o-tom-kak-razgovarivat-s-rodstvennikami-i-kollegami-o-voine-news) сайты «Настоящего времени»*, New Times, «Крым.Реалий»* и русскоязычную версию «Интерфакс-Украина», а также украинские издания «Гордон», «Корреспондент» и «Украинская правда». До этого ведомство [потребовало](https://novayagazeta.ru/articles/2022/02/28/roskomnadzor-zablokiroval-sait-telekanala-nastoiashchee-vremia-news) от «Новой газеты», «Дождя»*, «Медиазоны»* и других СМИ удалить материалы, в которых издания называли «военную спецоперацию» войной.
+Ранее Роскомнадзор [заблокировал](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/28/roskomnadzor-zablokiroval-sait-doxa-iz-za-teksta-o-tom-kak-razgovarivat-s-rodstvennikami-i-kollegami-o-voine-news) сайты «Настоящего времени»*, New Times, «Крым.Реалий»* и русскоязычную версию «Интерфакс-Украина», а также украинские издания «Гордон», «Корреспондент» и «Украинская правда». До этого ведомство [потребовало](2022/02/28/roskomnadzor-zablokiroval-sait-telekanala-nastoiashchee-vremia-news.md) от «Новой газеты», «Дождя»*, «Медиазоны»* и других СМИ удалить материалы, в которых издания называли «военную спецоперацию» войной.
 
 #### *Издания внесены Минюстом в список СМИ, выполняющих функцию иностранного агента

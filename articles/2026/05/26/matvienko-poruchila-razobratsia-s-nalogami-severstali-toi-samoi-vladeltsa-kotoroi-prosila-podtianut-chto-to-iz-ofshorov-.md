@@ -23,7 +23,7 @@ tags: ""
  \
  И отдельно высказалась по поводу совладельца «Северстали» Алексея Мордашева: он как раз возглавил рейтинг богатейших миллиардеров России по версии Forbes в 2026 году с состоянием семьи в $37 млрд.
 
-> Матвиенко [сказала](https://novayagazeta.ru/articles/2026/04/29/matvienko-predlozhila-mordashovu-podtianut-chto-to-iz-ofshorov-na-pomoshch-vologodskoi-oblasti-severstal-otvetila-chto-ofshorov-u-nego-net-a-vlasti-regiona-sami-rastratili-sredstva-news), что рада этому, и «хорошо, что наши люди богатеют», но «может быть, что-то из офшоров подтянуть все-таки в Российскую Федерацию?»
+> Матвиенко [сказала](2026/04/29/matvienko-predlozhila-mordashovu-podtianut-chto-to-iz-ofshorov-na-pomoshch-vologodskoi-oblasti-severstal-otvetila-chto-o.md), что рада этому, и «хорошо, что наши люди богатеют», но «может быть, что-то из офшоров подтянуть все-таки в Российскую Федерацию?»
 
 «Северсталь» в ответ на это заявила, что и сама компания, и другие активы Мордашова находятся в российской юрисдикции, а не в «неких офшорах», к тому же миллиардер под санкциями США, ЕС и других стран.
 

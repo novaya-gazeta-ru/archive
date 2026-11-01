@@ -19,10 +19,10 @@ tags: "футбол, уефа, em"
 - итальянец Жоржиньо («Челси»),
 - француз Н'Голо Канте («Челси»).
 
-Де Брёйне в ушедшем сезоне [стал](https://www.bbc.com/russian/news-57081878) чемпионом Англии в составе «Манчестер Сити», «Челси», за который играют Канте и Жоржиньо, [стал](https://www.skysports.com/football/news/11945/12380397/cesar-azpilicueta-jorginho-and-ngolo-kante-among-chelsea-players-shortlisted-for-champions-league-awards) победителем Лиги чемпионов. Последний футболист также выступает за сборную Италии, которая [выиграла](https://novayagazeta.ru/articles/2021/07/11/italiia-obygrala-angliiu-po-penalti-i-vyigrala-evro-po-futbolu) золото на прошедшем чемпионате Европы.
+Де Брёйне в ушедшем сезоне [стал](https://www.bbc.com/russian/news-57081878) чемпионом Англии в составе «Манчестер Сити», «Челси», за который играют Канте и Жоржиньо, [стал](https://www.skysports.com/football/news/11945/12380397/cesar-azpilicueta-jorginho-and-ngolo-kante-among-chelsea-players-shortlisted-for-champions-league-awards) победителем Лиги чемпионов. Последний футболист также выступает за сборную Италии, которая [выиграла](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/11/italiia-obygrala-angliiu-po-penalti-i-vyigrala-evro-po-futbolu) золото на прошедшем чемпионате Европы.
 
 Награду [учредили](https://ru.uefa.com/uefachampionsleague/news/0262-1081dd94cc1b-6977f79173f3-1000—лучшии-футболист-сезона-левандовски/) в 2011 году. Ее вручают лучшим футболистам, которые в прошлом сезоне играли за клуб одной из ассоциаций УЕФА. Игроков оценивают по выступлениям на турнирах всех уровней: внутренних, еврокубковых и в сборных.
 
 Роналду получал звание лучшего футболиста трижды, в том числе два раза подряд — в сезонах 2015/16 и 2016/17. Месси становился обладателем награды дважды. Лучшим футболистом сезона 2019/20 стал поляк Роберт Левандовски.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/08/iug-protiv-severa
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/08/iug-protiv-severa](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/08/iug-protiv-severa)

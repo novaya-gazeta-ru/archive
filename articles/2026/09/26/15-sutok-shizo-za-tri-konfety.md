@@ -53,4 +53,4 @@ tags: "беркович, шизо"
 
 Ж. Б.»
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/06/nelzia-pisat-nelzia-chitat-nelzia-zvonit
+**Читайте также:** [Нельзя писать, нельзя читать, нельзя звонить](2026/03/06/nelzia-pisat-nelzia-chitat-nelzia-zvonit.md)

@@ -17,4 +17,4 @@ SpaceX запустила ракету с украинским спутнико�
 
 Для Украины это [первый](https://strana.news/news/371505-raketa-falcon-9-s-ukrainskim-sputnikom-sich-2-30-startovala-s-mysa-kanaverel.html) запуск спутника почти за 11 лет. «Сич-2-30» [отправили](https://tass.ru/kosmos/13148703) в США в декабре. Ожидалось, что спутник запустят 10 января после завершения таможенного оформления и подготовки в Космическом центре имени Кеннеди.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/16/sbei-svoikh-chtoby-chuzhie-boialis
+**Читайте также:** [Сбей своих, чтобы чужие боялись](2021/11/16/sbei-svoikh-chtoby-chuzhie-boialis.md)

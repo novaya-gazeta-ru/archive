@@ -18,4 +18,4 @@ tags: ""
  Куда другим хотелось бы\
  едва ли
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/30/ekzistentsialnaia-ugroza
+**Читайте также:** [Экзистенциальная угроза](2024/11/30/ekzistentsialnaia-ugroza.md)

@@ -285,7 +285,7 @@ tags: ""
 
 *1804*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/26/ranshe-zhizni-ne-budet-sudby
+**Читайте также:** [«Раньше жизни не будет судьбы»](2025/07/26/ranshe-zhizni-ne-budet-sudby.md)
 
 ### **Логика пьяного**
 

@@ -13,7 +13,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/01/08/1420734824_669712_48.png" style="width: 292px; height: 194px; float: right;"><br>
+			<td><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/01/08/1420734824_669712_48.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/01/08/1420734824_669712_48.png)" style="width: 292px; height: 194px; float: right;"><br>
 			&nbsp;</td>
 		</tr>
 		<tr>

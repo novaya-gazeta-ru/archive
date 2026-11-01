@@ -21,10 +21,10 @@ tags: "голикова, собянин, коронавирус, омикрон,
 
 «Из числа заболевших, пробы которых прошли секвенирование, имеют полный курс вакцинации 27,9%. Однократно привиты 3,2%, не привиты 68,9%. Ранее переболели, или были вакцинированы, или одновременно переболели и вакцинированы 4,6%», — добавила Голикова.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/15/omikron-prishel-v-stolitsy
+**Читайте также:** [https://novayagazeta.ru/articles/2022/01/15/omikron-prishel-v-stolitsy](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/01/15/omikron-prishel-v-stolitsy)
 
 Мэр Москвы Сергей Собянин [сообщил](https://tass.ru/obschestvo/13456811), что **количество случаев заражений «омикроном» в столице удвоилось за неделю.** «Одновременно с ростом доли омикрона растет и количество заболеваний. На той неделе она выросла в два раза и на этой неделе снова в два раза вырастет», — сказал он, уточнив, что число обращений в столичные поликлиники на прошлой неделе тоже выросло в два раза. При этом, **по словам Собянина, число госпитализаций пациентов с COVID-19 в столице не увеличилось.**
 
-За последние сутки, по данным оперштаба, в России [выявили](https://novayagazeta.ru/articles/2022/01/18/v-rossii-vyiavili-31-252-novykh-sluchaia-covid-19-eto-na-526-bolshe-chem-dnem-ranee-news) 31 252 новых случая заражения коронавирусом — это максимум с 6 декабря. Накануне на территории РФ было зафиксировано 30 726 новых случаев заражения COVID-19.
+За последние сутки, по данным оперштаба, в России [выявили](2022/01/18/v-rossii-vyiavili-31-252-novykh-sluchaia-covid-19-eto-na-526-bolshe-chem-dnem-ranee-news.md) 31 252 новых случая заражения коронавирусом — это максимум с 6 декабря. Накануне на территории РФ было зафиксировано 30 726 новых случаев заражения COVID-19.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/17/omikron-shagaet-po-rossii-nas-zhdut-sotni-tysiach-zabolevshikh-ili-vse-ne-tak-strashno
+**Читайте также:** [https://novayagazeta.ru/articles/2022/01/17/omikron-shagaet-po-rossii-nas-zhdut-sotni-tysiach-zabolevshikh-ili-vse-ne-tak-strashno](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/01/17/omikron-shagaet-po-rossii-nas-zhdut-sotni-tysiach-zabolevshikh-ili-vse-ne-tak-strashno)

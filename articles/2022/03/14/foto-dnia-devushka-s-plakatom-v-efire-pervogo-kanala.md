@@ -27,4 +27,4 @@ tags: "телевидение, акционизм"
 
 **Признан иностранным агентом*
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/14/iuliia-latynina-psikhopatologiia-lzhi-i-very
+**Читайте также:** [Юлия Латынина. Психопатология лжи и веры](2022/03/14/iuliia-latynina-psikhopatologiia-lzhi-i-very.md)

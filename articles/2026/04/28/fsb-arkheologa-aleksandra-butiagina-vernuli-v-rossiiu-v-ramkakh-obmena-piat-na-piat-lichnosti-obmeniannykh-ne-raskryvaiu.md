@@ -25,4 +25,4 @@ tags: ""
 
 Дело археолога Бутягина комментировали российские дипломаты и Кремль.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/26/arkheolog-dolzhen-kopat-tochka
+**Читайте также:** [Археолог должен копать. Точка](2026/03/26/arkheolog-dolzhen-kopat-tochka.md)

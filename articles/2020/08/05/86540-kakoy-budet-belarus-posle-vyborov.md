@@ -20,6 +20,6 @@ tags: "стрим, выборы, беларусь"
 > ### Подкаст «Что Нового?»\
 >  Что происходит в Беларуси накануне выборов
 
-**link:** https://novayagazeta.ru/articles/2020/08/05/86535-bolshaya-razminka-silovikov
+**link:** [Большая разминка силовиков](2020/08/05/86535-bolshaya-razminka-silovikov.md)
 
-**link:** https://novayagazeta.ru/articles/2020/08/04/86524-slava-bogu-chto-esche-tak-zhivem
+**link:** [«Слава богу, что еще так живем»](2020/08/04/86524-slava-bogu-chto-esche-tak-zhivem.md)

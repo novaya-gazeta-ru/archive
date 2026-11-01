@@ -29,9 +29,9 @@ tags: "прямая линия, путин, сахалин"
 
 Уволена руководитель Сахалинского агентства по труду и занятости.Составляются списки желающих покинуть Шикотан, заработали горячие линии — по условиям труда, по бронированию и оформлению билетов с острова.
 
-**link:** https://novayagazeta.ru/inquests/72747.html
+**link:** [https://novayagazeta.ru/inquests/72747.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/72747.html)
 
-**link:** https://novayagazeta.ru/inquests/72747.html
+**link:** [https://novayagazeta.ru/inquests/72747.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/72747.html)
 
 # Место встречи изменить нельзя
 

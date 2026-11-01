@@ -103,7 +103,7 @@ tags: "война, дебальцево, специальный репортаж
 
 — А лекарства где? Инсулин где?
 
-**novaya:** https://novayagazeta.ru/topics/131.html
+**novaya:** [https://novayagazeta.ru/topics/131.html](https://web.archive.org/web/*/https://novayagazeta.ru/topics/131.html)
 
 — Женщина, я тут один остался! А вы только просите, и просите, и просите! Никто ничего не хочет делать! Вот садитесь — вон там стол — и пишите, какие лекарства нужны, опросите людей!
 

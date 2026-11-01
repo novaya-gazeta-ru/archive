@@ -15,9 +15,9 @@ tags: "великая отечественная война, историчес�
 
 > **ЧИТАЙТЕ ПО ТЕМЕ**
 >
-> [**Лучший и единственный способ не позволить фальсифицировать историю — полностью открыть архивы. **Предисловие к спецвыпуску «Новой газеты» 22 июня](https://novayagazeta.ru/articles/2021/06/22/luchshii-i-edinstvennyi-sposob-ne-pozvolit-falsifitsirovat-istoriiu-polnostiu-otkryt-arkhivy)
+> [**Лучший и единственный способ не позволить фальсифицировать историю — полностью открыть архивы. **Предисловие к спецвыпуску «Новой газеты» 22 июня](2021/06/22/luchshii-i-edinstvennyi-sposob-ne-pozvolit-falsifitsirovat-istoriiu-polnostiu-otkryt-arkhivy.md)
 >
-> [**Негативы — это окно в реальное прошлое.** Визуальный археолог Артур Бондарь об истории Войны, цензуре и пропаганде в фотографии](https://novayagazeta.ru/articles/2021/06/22/negativy-eto-okno-v-realnoe-proshloe)
+> [**Негативы — это окно в реальное прошлое.** Визуальный археолог Артур Бондарь об истории Войны, цензуре и пропаганде в фотографии](2021/06/22/negativy-eto-okno-v-realnoe-proshloe.md)
 >
 > \
 

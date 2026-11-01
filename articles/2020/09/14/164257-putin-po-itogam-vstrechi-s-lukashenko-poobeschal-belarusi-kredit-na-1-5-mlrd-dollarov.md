@@ -19,4 +19,4 @@ tags: "кредит, лукашенко, путин"
 
 Напомним, что в конце августа Александр Лукашенко [заявлял](https://www.belta.by/president/view/lukashenko-my-ne-dopustim-obvala-natsionalnoj-valjuty-i-utsepivshis-rukami-ne-sderzhivaem-kurs-rublja-404418-2020/), что «государство не допустит обвала национальной валюты» и что некие «внутренние негодяи» пытаются дестабилизировать финансовый рынок страны. Он также сообщал, что уже договорился насчет рефинансирования 1 миллиарда долларов долга с президентом России Путиным.
 
-**link:** https://novayagazeta.ru/articles/2020/08/29/86879-diktator-na-milliard
+**link:** [Диктатор на миллиард](2020/08/29/86879-diktator-na-milliard.md)

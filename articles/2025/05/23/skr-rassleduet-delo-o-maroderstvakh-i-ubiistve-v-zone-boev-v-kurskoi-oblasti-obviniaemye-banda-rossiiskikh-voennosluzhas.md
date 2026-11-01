@@ -25,6 +25,6 @@ tags: ""
 
 Подсудимые отрицают обвинения в мародерстве. Их позиция: они собирали необходимые для фронта вещи, чтобы обустроить солдатский быт.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/01/veteran-svo-pod-narkotikami-ubil-v-nalchike-87-letniuiu-pensionerku-vinu-on-priznal-no-motiv-obiasnit-ne-smog-news
+**Читайте также:** [Ветеран СВО под наркотиками убил в Нальчике 87-летнюю пенсионерку. Вину он признал, но мотив объяснить не смог](2025/02/01/veteran-svo-pod-narkotikami-ubil-v-nalchike-87-letniuiu-pensionerku-vinu-on-priznal-no-motiv-obiasnit-ne-smog-news.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/14/otets-studentki-uznal-chto-ee-ubiitsy-zaverbovalis-na-svo-i-vyshli-iz-tiurmy-na-15-let-ranshe-sroka-odin-kupil-kvartiru-news
+**Читайте также:** [Отец студентки узнал, что ее убийцы завербовались на СВО и вышли из тюрьмы на 15 лет раньше срока. Один купил квартиру](2025/01/14/otets-studentki-uznal-chto-ee-ubiitsy-zaverbovalis-na-svo-i-vyshli-iz-tiurmy-na-15-let-ranshe-sroka-odin-kupil-kvartiru-.md)

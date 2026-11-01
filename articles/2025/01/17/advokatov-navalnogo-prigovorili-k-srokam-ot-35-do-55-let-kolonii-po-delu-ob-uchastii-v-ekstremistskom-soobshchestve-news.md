@@ -45,4 +45,4 @@ tags: ""
 
 *Алексей Липцер и Вадим Кобзев за решеткой. Рисунок Екатерины Галактионовой*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/10/nas-sudiat-za-peredachu-myslei
+**Читайте также:** [«Нас судят за передачу мыслей»](2025/01/10/nas-sudiat-za-peredachu-myslei.md)

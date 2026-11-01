@@ -49,9 +49,9 @@ tags: "допинг, скандал, спорт"
 
 Запрет любых препаратов означает, что спорт вернется к своему базовому реальному уровню и станет действительно соревнованием спортсменов, а не достижений биохимии.
 
-**link:** https://novayagazeta.ru/sports/72153.html
+**link:** [https://novayagazeta.ru/sports/72153.html](https://web.archive.org/web/*/https://novayagazeta.ru/sports/72153.html)
 
-**link:** https://novayagazeta.ru/sports/72153.html
+**link:** [https://novayagazeta.ru/sports/72153.html](https://web.archive.org/web/*/https://novayagazeta.ru/sports/72153.html)
 
 Мне скажут, что эта картина нереалистична. Что спорт высоких достижений подразумевает столь высокие нагрузки, что они должны быть скомпенсированы фармакологией — функция, которую, в частности, выполняет тот же милдронат, который российские спортсмены кличут «витаминкой».
 

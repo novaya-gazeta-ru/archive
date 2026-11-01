@@ -19,6 +19,6 @@ tags: "путин, совбез, украина, sn"
 
 Президент уверен, что «специальная операция» в Украине идет согласно намеченному плану. По его словам, на украинской стороне якобы воюют наемники с Ближнего Востока.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/03/putin-nastupaet-na-ukrainu-den-vosmoi-onlain
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/03/putin-nastupaet-na-ukrainu-den-vosmoi-onlain](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/03/putin-nastupaet-na-ukrainu-den-vosmoi-onlain)
 
 Путин повторил тезис главы минобороны Сергея Шойгу о том, что военная техника размещается в жилых кварталах, возле детских садов и больниц украинских городов. Также президент России заявил, что ВСУ «держат в заложниках» иностранных студентов.

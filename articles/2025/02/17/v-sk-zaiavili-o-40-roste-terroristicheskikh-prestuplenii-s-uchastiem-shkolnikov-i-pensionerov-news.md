@@ -23,6 +23,6 @@ tags: ""
 
 Фигурантов подобных дел вносят в перечень экстремистов и террористов.
 
-В феврале в реестр экстремистов и террористов [внесли 14-летнего Кирилла Блохина](https://novayagazeta.ru/articles/2025/02/14/novyi-antirekord-v-reestre-ekstremistov-i-terroristov-okazalsia-14-letnii-podrostok-news) — он самый молодой его фигурант, проходит по делу о поджоге релейного шкафа РЖД.
+В феврале в реестр экстремистов и террористов [внесли 14-летнего Кирилла Блохина](2025/02/14/novyi-antirekord-v-reestre-ekstremistov-i-terroristov-okazalsia-14-letnii-podrostok-news.md) — он самый молодой его фигурант, проходит по делу о поджоге релейного шкафа РЖД.
 
-«Новая газета» рассказывала о [конвейере дел на школьников-«террористов»](https://novayagazeta.ru/articles/2024/12/02/etot-vozrast-v-ogne). Одного из героев публикации, уже осужденного, только что [поместили в ШИЗО](https://novayagazeta.ru/articles/2025/02/17/podrostkov-osuzhdennykh-za-podzhogi-releinykh-shkafov-i-su-24-v-novosibirske-otpravili-v-kartser-bez-obiasneniia-prichin-news) без объяснения причин.
+«Новая газета» рассказывала о [конвейере дел на школьников-«террористов»](2024/12/02/etot-vozrast-v-ogne.md). Одного из героев публикации, уже осужденного, только что [поместили в ШИЗО](2025/02/17/podrostkov-osuzhdennykh-za-podzhogi-releinykh-shkafov-i-su-24-v-novosibirske-otpravili-v-kartser-bez-obiasneniia-prichin.md) без объяснения причин.

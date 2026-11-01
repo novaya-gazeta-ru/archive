@@ -15,12 +15,12 @@ tags: "санитарное дело, навальный, акции проте�
 
 Ляскина признали виновным в подстрекательстве к нарушению санитарно-эпидемиологических правил (ч. 4 ст. 33, ч. 1 ст. 236 УК).
 
-Прокурор [запрашивал](https://novayagazeta.ru/articles/2021/08/05/gosobvinenie-zaprosilo-dlia-soratnika-navalnogo-nikolaia-liaskina-2-goda-ogranicheniia-svobody-po-sanitarnomu-delu-news) для него 2 года ограничения свободы.
+Прокурор [запрашивал](2021/08/05/gosobvinenie-zaprosilo-dlia-soratnika-navalnogo-nikolaia-liaskina-2-goda-ogranicheniia-svobody-po-sanitarnomu-delu-news.md) для него 2 года ограничения свободы.
 
-Кроме того, прокуратура [запросила](https://novayagazeta.ru/articles/2021/08/04/gosobvinenie-zaprosilo-dlia-olega-navalnogo-god-uslovno-po-sanitarnomu-delu-news) для другого фигуранта дела — брата Алексея Навального Олега — год лишения свободы условно с испытательным сроком 3 года.
+Кроме того, прокуратура [запросила](2021/08/04/gosobvinenie-zaprosilo-dlia-olega-navalnogo-god-uslovno-po-sanitarnomu-delu-news.md) для другого фигуранта дела — брата Алексея Навального Олега — год лишения свободы условно с испытательным сроком 3 года.
 
-Соратницу Навального Любовь Соболь ранее [приговорили](https://novayagazeta.ru/articles/2021/08/03/liubov-sobol-prigovorili-k-15-goda-ogranicheniia-svobody-po-sanitarnomu-delu-news) к 1,5 года ограничения свободы. Ей запретили выходить из дома с 22 часов до 6 утра, посещать или участвовать в массовых и иных мероприятиях, выезжать за пределы Москвы и Московской области. Также Соболь нужно будет отмечаться в инспекции трижды в месяц.
+Соратницу Навального Любовь Соболь ранее [приговорили](2021/08/03/liubov-sobol-prigovorili-k-15-goda-ogranicheniia-svobody-po-sanitarnomu-delu-news.md) к 1,5 года ограничения свободы. Ей запретили выходить из дома с 22 часов до 6 утра, посещать или участвовать в массовых и иных мероприятиях, выезжать за пределы Москвы и Московской области. Также Соболь нужно будет отмечаться в инспекции трижды в месяц.
 
 «Санитарное дело» — уголовное дело по ст. 236 УК («Нарушение санитарно-эпидемиологических правил»), его возбудили после московской акции протеста в поддержку политика Алексея Навального 23 января.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/23/svideteli-masochnogo-rezhima
+**Читайте также:** [Свидетели «масочного режима»](2021/07/23/svideteli-masochnogo-rezhima.md)

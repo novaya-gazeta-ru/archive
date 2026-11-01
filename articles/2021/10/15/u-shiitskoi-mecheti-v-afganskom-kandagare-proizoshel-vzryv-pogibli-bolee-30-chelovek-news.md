@@ -21,10 +21,10 @@ tags: "талибан, афганистан, взрыв, шииты, терак�
 
 Никто не взял на себя ответственность за взрыв.
 
-8 октября террорист-смертник [взорвал](https://novayagazeta.ru/articles/2021/10/08/v-mecheti-v-afganistane-proizoshel-vzryv-pogibli-bolee-100-chelovek-18-news)бомбу в шиитской мечети в провинции Кундуз (север Афганистана). По данным СМИ, при взрыве погибли более 100 человек. 3 октября взрыв [прогремел](https://novayagazeta.ru/articles/2021/10/03/ap-v-odnoi-iz-mechetei-kabula-progremel-vzryv-est-pogibshie-news) в мечети Кабула, когда там проходила заупокойная служба по матери представителя талибов Забихуллы Муджахида. Погибли два человека.
+8 октября террорист-смертник [взорвал](2021/10/08/v-mecheti-v-afganistane-proizoshel-vzryv-pogibli-bolee-100-chelovek-18-news.md)бомбу в шиитской мечети в провинции Кундуз (север Афганистана). По данным СМИ, при взрыве погибли более 100 человек. 3 октября взрыв [прогремел](2021/10/03/ap-v-odnoi-iz-mechetei-kabula-progremel-vzryv-est-pogibshie-news.md) в мечети Кабула, когда там проходила заупокойная служба по матери представителя талибов Забихуллы Муджахида. Погибли два человека.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/14/pod-adskii-ogon-popali-deti
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/14/pod-adskii-ogon-popali-deti](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/14/pod-adskii-ogon-popali-deti)
 
-Талибы объявили себя новой властью Афганистана 15 августа после того, как без боя взяли Кабул. После прихода к власти талибы [предупредили](https://novayagazeta.ru/articles/2021/09/24/taliby-vozobnoviat-smertnye-kazni-i-praktiku-otrubaniia-konechnostei-eto-obiasnili-neobkhodimostiu-dlia-obespecheniia-bezopasnosti-news) о возобновлении практики отрубания рук и возвращении смертной казни.
+Талибы объявили себя новой властью Афганистана 15 августа после того, как без боя взяли Кабул. После прихода к власти талибы [предупредили](2021/09/24/taliby-vozobnoviat-smertnye-kazni-i-praktiku-otrubaniia-konechnostei-eto-obiasnili-neobkhodimostiu-dlia-obespecheniia-be.md) о возобновлении практики отрубания рук и возвращении смертной казни.
 
 #### **Организация признана террористической и запрещена в РФ*

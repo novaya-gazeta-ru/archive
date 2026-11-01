@@ -25,4 +25,4 @@ tags: ""
 
 Торговаться на российских биржах будут криптовалюты с капитализацией на триллионы рублей и историей торгов не менее пяти лет. Среди тех, кто [соответствует](https://www.rbc.ru/finances/23/03/2026/69c0393f9a7947d94d261970) критериям — биткоин, Ethereum, Solana и другие из числа крупнейших.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/04/02/k-rossiianam-s-nezadeklarirovannym-beznalichnym-dokhodom-svyshe-24-mln-rublei-v-god-reshili-avtomaticheski-otpravliat-nalogovuiu-news
+**Читайте также:** [К россиянам с незадекларированным безналичным доходом свыше 2,4 млн рублей в год решили автоматически отправлять налоговую](2026/04/02/k-rossiianam-s-nezadeklarirovannym-beznalichnym-dokhodom-svyshe-24-mln-rublei-v-god-reshili-avtomaticheski-otpravliat-na.md)

@@ -47,7 +47,7 @@ tags: "мединский, оружие, памятники, москва"
 
 Решусь со всей определенностью утверждать, что ликующим милитаристом с постамента в Оружейном переулке Михаил Тимофеевич никак не был.
 
-**link:** https://novayagazeta.ru/news/2014/01/13/90638-oruzheynik-kalashnikov-v-lichnom-pisme-glave-rpts-pokayalsya-chto-terzaetsya-171-nesterpimoy-dushevnoy-mukoy-187
+**link:** [https://novayagazeta.ru/news/2014/01/13/90638-oruzheynik-kalashnikov-v-lichnom-pisme-glave-rpts-pokayalsya-chto-terzaetsya-171-nesterpimoy-dushevnoy-mukoy-187](https://web.archive.org/web/*/https://novayagazeta.ru/news/2014/01/13/90638-oruzheynik-kalashnikov-v-lichnom-pisme-glave-rpts-pokayalsya-chto-terzaetsya-171-nesterpimoy-dushevnoy-mukoy-187)
 
 И все-таки.
 
@@ -57,7 +57,7 @@ tags: "мединский, оружие, памятники, москва"
 
 Нет, при всей моей человеческой симпатии к Калашникову я бы все-таки предпочел, чтобы Россию узнавали по Перельману.
 
-**link:** https://novayagazeta.ru/articles/2017/02/01/71366-priglashenie-k-stvolu
+**link:** [https://novayagazeta.ru/articles/2017/02/01/71366-priglashenie-k-stvolu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/02/01/71366-priglashenie-k-stvolu)
 
 Ну и последнее. В Ижевске, где Михаила Тимофеевича знают все и все доподлинно знают ему цену, памятник у музея его имени — маленький и уютный. В городе есть и еще два памятника оружейникам, из которых один лично мне особенно нравится. Самым выдающимся мастерам здесь когда-то присваивались зеленые кафтаны и зеленые же цилиндры, отчего их уважительно именовали «кафтанщиками» и «крокодилами». Так что это вовсе не Гена из мультфильма, как думают некоторые проезжие. Тем более он без автомата... Мединский был бы в шоке.
 

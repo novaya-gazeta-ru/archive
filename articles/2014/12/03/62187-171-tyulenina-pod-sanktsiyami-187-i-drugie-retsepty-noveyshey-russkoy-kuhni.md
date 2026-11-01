@@ -55,6 +55,6 @@ tags: ""
 
 Импортозамещателям на заметку: голуби — это не только деликатесное и диетическое мясо, богатое аминокислотами, а еще перо и пух. Особенно хороши эти расплодившиеся без меры птахи на пятой неделе жизни. Также, безусловно, целебна собачатина — собачий жир и мясо успешно купируют и лечат многие инфекционные заболевания. А еще есть кошки, крысы…
 
-**link:** https://novayagazeta.ru/columns/66343.html
+**link:** [https://novayagazeta.ru/columns/66343.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/66343.html)
 
-**link:** https://novayagazeta.ru/columns/66343.html
+**link:** [https://novayagazeta.ru/columns/66343.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/66343.html)

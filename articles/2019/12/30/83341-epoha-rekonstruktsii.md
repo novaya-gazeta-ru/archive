@@ -55,4 +55,4 @@ tags: "можем повторить, путин, история, итоги, 20
 
 Когда же закончатся 2010-е?
 
-**link:** https://novayagazeta.ru/articles/2019/12/30/83340-razvitie-naoborot
+**link:** [Развитие наоборот](2019/12/30/83340-razvitie-naoborot.md)

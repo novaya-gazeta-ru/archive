@@ -11,4 +11,4 @@ tags: ""
 
 # Специальный выпуск программы "Тушите свет", посвященный 10-летию "Новой газеты". (5,3 мегабайт)
 
-[Скачать видео](https://novayagazeta.ru/storage/d/2006/01/01/tushite-svet.rm)
+[Скачать видео](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2006/01/01/tushite-svet.rm)

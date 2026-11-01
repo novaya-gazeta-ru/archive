@@ -23,10 +23,10 @@ tags: "свидетели иеговы, экстремизм, верховный
 
 Преследовать верующих «Свидетелей Иеговы» начали в 2017 году после решения Верховного суда о признании этой организации экстремистской. С тех пор против ее последователей регулярно возбуждают уголовные дела, в их домах проходят обыски.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/13/v-missionerskoi-oppozitsii
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/13/v-missionerskoi-oppozitsii](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/13/v-missionerskoi-oppozitsii)
 
 В середине октября свидетели Иеговы из Иркутска Николай Меринов и Анатолий Раздабаров рассказали, что при обысках и допросах их пытали бойцы спецназа «Гром» МВД и Росгвардии.
 
-«В рамках стратегии запугивания сотрудники имитировали изнасилование, толкая в область ягодиц стеклянную бутылку», — [рассказали](https://novayagazeta.ru/articles/2021/10/11/tolkaia-v-oblast-iagodits-stekliannuiu-butylku-svideteli-iegovy-rasskazali-o-pytkakh-pri-zaderzhanii-spetsnazom-mvd-news#) они правозащитникам.
+«В рамках стратегии запугивания сотрудники имитировали изнасилование, толкая в область ягодиц стеклянную бутылку», — [рассказали](2021/10/11/tolkaia-v-oblast-iagodits-stekliannuiu-butylku-svideteli-iegovy-rasskazali-o-pytkakh-pri-zaderzhanii-spetsnazom-mvd-news.md) они правозащитникам.
 
 #### **организация признана Верховным судом экстремистской и запрещена в России*

@@ -21,6 +21,6 @@ tags: "доклад, оон, днр, em"
 
 Напомним, Трехсторонняя контактная группа по урегулированию конфликта на востоке Украины [согласовала](https://112.ua/glavnye-novosti/v-tkg-dogovorilis-o-peremirii-na-donbasse-s-1-iyulya-451548.html) полное прекращение огня в Донбассе с 1 июля. Однако боевые действия не прекращались, и, по [данным](https://ria.ru/world/20180802/1525853409.html?referrer_block=index_archive_8) Специальной мониторинговой миссии ОБСЕ, в июле было зафиксировано 15 тысяч нарушений.
 
-После этого группа [договорилась](https://www.novayagazeta.ru/news/2018/08/22/144410-kontaktnaya-gruppa-po-donbassu-priurochila-novoe-peremirie-k-nachalu-uchebnogo-goda) о начале нового перемирия с 29 августа. Помощница полпреда самопровозглашенной ДНР Дениса Пушилина Виктория Талакина отметила, что дата была приурочена к началу нового учебного года в сентябре.
+После этого группа [договорилась](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/08/22/144410-kontaktnaya-gruppa-po-donbassu-priurochila-novoe-peremirie-k-nachalu-uchebnogo-goda) о начале нового перемирия с 29 августа. Помощница полпреда самопровозглашенной ДНР Дениса Пушилина Виктория Талакина отметила, что дата была приурочена к началу нового учебного года в сентябре.
 
-**link:** https://novayagazeta.ru/articles/2018/09/18/77867-vosstanovlennomu-verit
+**link:** [Восстановленному верить?](2018/09/18/77867-vosstanovlennomu-verit.md)

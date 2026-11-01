@@ -101,9 +101,9 @@ tags: "российская армия, украина"
 
 — И не надо было. Надо было относиться как к рядовому случаю. И хранить молчание. Еще бы чуть-чуть, и возможно при такой тактике случилось бы чудо. Но вы, журналисты, и адвокат Ерофеева раздули все. И чуда не случилось! Точно так же и с той стороны раздували по Савченко. А ведь возможно, удалось бы как-то решить все эти дела без суда. Были неплохие шансы на обмен.
 
-**link:** https://novayagazeta.ru/tv/topics/69412.html
+**link:** [https://novayagazeta.ru/tv/topics/69412.html](https://web.archive.org/web/*/https://novayagazeta.ru/tv/topics/69412.html)
 
-**link:** https://novayagazeta.ru/tv/topics/69412.html
+**link:** [https://novayagazeta.ru/tv/topics/69412.html](https://web.archive.org/web/*/https://novayagazeta.ru/tv/topics/69412.html)
 
 #«Вы удивитесь, когда узнаете, где сейчас находится осужденный на 14 лет майор Старков»
 
@@ -125,9 +125,9 @@ tags: "российская армия, украина"
 
 **— Родственники его признали, сказали, что служил на Дальнем Востоке, затем отправился в Донбасс.**
 
-**link:** https://novayagazeta.ru/news/1696168.html
+**link:** [https://novayagazeta.ru/news/1696168.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1696168.html)
 
-**link:** https://novayagazeta.ru/news/1696168.html
+**link:** [https://novayagazeta.ru/news/1696168.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1696168.html)
 
 — Но сейчас у него, думаю, все уже хорошо.
 
@@ -159,9 +159,9 @@ tags: "российская армия, украина"
 
 — Конечно. Об этом открыто говорили высокие чины у нас.
 
-**link:** https://novayagazeta.ru/society/69819.html
+**link:** [https://novayagazeta.ru/society/69819.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/69819.html)
 
-**link:** https://novayagazeta.ru/society/69819.html
+**link:** [https://novayagazeta.ru/society/69819.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/69819.html)
 
 **— А в России?**
 
@@ -193,9 +193,9 @@ tags: "российская армия, украина"
 
 — Конечно, очень жалко девочку, которая попала в такой водоворот. Поэтому, конечно, хочется верить в обмен. Конечно, желательно всех на всех, без фамилий. Всех жалко. И Ерофеев с Александровым — они тоже вынесли свой урок из всей этой ситуации. Так что подождем — думаю, в скором будущем обменяют их на каком-нибудь мосту, и все закончится.
 
-**link:** https://novayagazeta.ru/politics/69410.html
+**link:** [https://novayagazeta.ru/politics/69410.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/69410.html)
 
-**link:** https://novayagazeta.ru/politics/69410.html
+**link:** [https://novayagazeta.ru/politics/69410.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/69410.html)
 
 **— Почему не произошел такой обмен раньше?**
 

@@ -17,13 +17,13 @@ tags: "валиева, олимпиада-2022, CAS, спорт, da"
 
 Спортсменка [продолжает](https://t.me/olympic_russia/7580) тренироваться. 15 февраля стартуют личные соревнования женщин по одиночному фигурному катанию. В состав сборной России на ближайший турнир на данный момент входят Камила Валиева, Анна Щербакова и Александра Трусова.
 
-В пятницу Российское антидопинговое агентство (РУСАДА) [начало](https://novayagazeta.ru/articles/2022/02/11/rusada-nachalo-rassledovanie-v-otnoshenii-personala-figuristki-kamily-valievoi-iz-za-polozhitelnoi-doping-proby-news) расследование в отношении персонала 15-летней фигуристки Камилы Валиевой из-за положительной допинг-пробы у нее.
+В пятницу Российское антидопинговое агентство (РУСАДА) [начало](2022/02/11/rusada-nachalo-rassledovanie-v-otnoshenii-personala-figuristki-kamily-valievoi-iz-za-polozhitelnoi-doping-proby-news.md) расследование в отношении персонала 15-летней фигуристки Камилы Валиевой из-за положительной допинг-пробы у нее.
 
 Международное агентство допинг-тестирования (ITA) 11 февраля официально подтвердило, что в допинг-тесте спортсменки, который был сдан перед Олимпиадой в Пекине, нашли препарат триметазидин. Допинг-пробу у Валиевой взяли 25 декабря 2021 года во время чемпионата России по фигурному катанию в Петербурге.
 
-После результатов Валиеву временно отстранили от соревнований. Однако 9 февраля Дисциплинарный антидопинговый комитет снял ограничения с Валиевой. Всемирное антидопинговое агентство [решило](https://novayagazeta.ru/articles/2022/02/11/wada-podast-zhalobu-na-reshenie-rusada-kotoroe-pozvolilo-rossiiskoi-figuristke-kamile-valievoi-prodolzhit-uchastie-v-olimpiade-news) оспорить отмену отстранения фигуристки. CAS жалобы МОК и WADA [зарегистрировал](https://www.tas-cas.org/en/general-information/news-detail/article/the-cas-ad-hoc-division-registers-the-applications-filed-by-the-ioc-and-wada-against-the-decision-is/).
+После результатов Валиеву временно отстранили от соревнований. Однако 9 февраля Дисциплинарный антидопинговый комитет снял ограничения с Валиевой. Всемирное антидопинговое агентство [решило](2022/02/11/wada-podast-zhalobu-na-reshenie-rusada-kotoroe-pozvolilo-rossiiskoi-figuristke-kamile-valievoi-prodolzhit-uchastie-v-oli.md) оспорить отмену отстранения фигуристки. CAS жалобы МОК и WADA [зарегистрировал](https://www.tas-cas.org/en/general-information/news-detail/article/the-cas-ad-hoc-division-registers-the-applications-filed-by-the-ioc-and-wada-against-the-decision-is/).
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/10/malchiki-izvinite-no-ne-do-vas
+**Читайте также:** [«Мальчики, извините, но не до вас»](2022/02/10/malchiki-izvinite-no-ne-do-vas.md)
 
 Экс-глава WADA Дик Паунд [призвал](https://www.reuters.com/lifestyle/sports/russia-may-need-games-timeout-over-doping-says-iocs-pound-2022-02-12/) отстранить Россию от Олимпиад после дела Валиевой. Он заявил Reuters, что российским спортсменам необходимо «взять тайм-аут на одну, две, или три Олимпиады, пока ситуация [с допингом] не будет под контролем».
 

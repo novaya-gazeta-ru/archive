@@ -13,4 +13,4 @@ tags: ""
 
 Тренировка, первые двадцать минут который были открыты для журналистов, была почти целиком посвящена упражнениям с мячом, а закончилась, судя по всему, двусторонкой с воротами, расположенными на длинных сторонах поля...
 
-*[media: <a href="http://www.novayagazeta.ru/news/61078.html"><strong>Подробности</strong></a>]*
+*[media: <a href="[http://www.novayagazeta.ru/news/61078.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/61078.html)"><strong>Подробности</strong></a>]*

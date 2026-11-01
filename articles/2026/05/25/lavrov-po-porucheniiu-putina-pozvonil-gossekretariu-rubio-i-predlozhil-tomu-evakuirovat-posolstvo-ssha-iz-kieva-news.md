@@ -23,13 +23,13 @@ tags: ""
 
 *Посольство США в Киеве. Фото из открытых источников*
 
-МИД РФ ранее днем [анонсировал](https://novayagazeta.ru/articles/2026/05/25/mid-rossii-ot-imeni-minoborony-rf-anonsiroval-sistemnye-udary-po-tsentram-priniatiia-reshenii-v-kieve-inostrantsev-prizvali-pokinut-gorod-a-kievlian-ne-priblizhatsia-k-voennym-obektam-news) «системные» удары по «центрам принятия решений» в Киеве. Иностранцев призвали покинуть город, а киевлян — «не приближаться» к военным объектам.
+МИД РФ ранее днем [анонсировал](2026/05/25/mid-rossii-ot-imeni-minoborony-rf-anonsiroval-sistemnye-udary-po-tsentram-priniatiia-reshenii-v-kieve-inostrantsev-prizv.md) «системные» удары по «центрам принятия решений» в Киеве. Иностранцев призвали покинуть город, а киевлян — «не приближаться» к военным объектам.
 
 На это заявление уже отреагировала посол ЕС в Украине Катарина Матернова. Она заявила: «ЕС никуда не уйдет. Мы остаемся в Киеве. Угрозы в адрес дипломатов и международных организаций — это не признак силы. Это признак отчаяния».
 
 > **есть продолжение**
 >
-> ### [«Об эвакуации не может быть и речи». МИД Франции ответил на «призыв» российского МИД к иностранным дипломатам покинуть Киев](https://novayagazeta.ru/articles/2026/05/25/ob-evakuatsii-ne-mozhet-byt-i-rechi-mid-frantsii-otvetil-na-prizyv-rossiiskogo-mid-k-inostrannym-diplomatam-pokinut-kiev-news)
+> ### [«Об эвакуации не может быть и речи». МИД Франции ответил на «призыв» российского МИД к иностранным дипломатам покинуть Киев](2026/05/25/ob-evakuatsii-ne-mozhet-byt-i-rechi-mid-frantsii-otvetil-na-prizyv-rossiiskogo-mid-k-inostrannym-diplomatam-pokinut-kiev.md)
 
 Объявленная Москвой эскалация — реакция на ночной дроновый удар по старобельскому педколледжу в ЛНР 22 мая, в результате которого погибли 21 человек, в основном — студенты. Удар Киева «переполнил чашу терпения» Москвы, говорилось в заявлении МИД РФ.
 
@@ -39,4 +39,4 @@ tags: ""
 
 Теперь анонсируются новые удары — уже непосредственно по столице Украины.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/05/25/smozhet-li-rossiia-vypolnit-glavnuiu-zadachu-svo
+**Читайте также:** [Сможет ли Россия выполнить главную задачу СВО](2026/05/25/smozhet-li-rossiia-vypolnit-glavnuiu-zadachu-svo.md)

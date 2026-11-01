@@ -95,6 +95,6 @@ Microsoft выделила 1 миллион долларов, что вдвое 
 
 *Вашингтон*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/17/trampa-nado-vosprinimat-serezno-no-ne-bukvalno
+**Читайте также:** [Трампа надо воспринимать серьезно, но не буквально](2025/01/17/trampa-nado-vosprinimat-serezno-no-ne-bukvalno.md)
 
 #### *Meta признана в РФ экстремистской организацией и запрещена.

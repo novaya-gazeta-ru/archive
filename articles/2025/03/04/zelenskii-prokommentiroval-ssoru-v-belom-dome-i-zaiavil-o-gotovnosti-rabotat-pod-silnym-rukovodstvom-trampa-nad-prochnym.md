@@ -25,7 +25,7 @@ tags: ""
 - **перемирие в воздухе — запрет на ракеты, дальнобойные дроны, бомбардировки;**
 - **немедленное перемирие на море.**
 
-Встреча Трампа и Зеленского в Овальном кабинете Белого дома 28 февраля была невероятно эмоциональной и [быстро скатилась в ссору](https://novayagazeta.ru/articles/2025/03/01/mechi-perekovali-na-orala).
+Встреча Трампа и Зеленского в Овальном кабинете Белого дома 28 февраля была невероятно эмоциональной и [быстро скатилась в ссору](2025/03/01/mechi-perekovali-na-orala.md).
 
 Трамп и вице-президент Вэнс обвинили Зеленского в неблагодарности и в слабой позиции для несогласия немедленно прекратить огонь.
 
@@ -33,6 +33,6 @@ tags: ""
 
 Тема «неуважения и к Трампу, и к США» и требование «извинений» от Зеленского звучали из Белого дома все громче.
 
-3 марта Трамп [подписал указ](https://novayagazeta.ru/articles/2025/03/04/tramp-priostanovil-vsiu-voennuiu-pomoshch-ukraine-v-belom-dome-zhdut-chto-kiev-pokazhet-stremlenie-k-miru-news) о приостановке военной помощи Украине.
+3 марта Трамп [подписал указ](2025/03/04/tramp-priostanovil-vsiu-voennuiu-pomoshch-ukraine-v-belom-dome-zhdut-chto-kiev-pokazhet-stremlenie-k-miru-news.md) о приостановке военной помощи Украине.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/03/koalitsiia-dobroi-voli-no-s-volei-i-koalitsiei-poka-ne-opredelilis
+**Читайте также:** [«Коалиция доброй воли». Но с волей и коалицией пока не определились](2025/03/03/koalitsiia-dobroi-voli-no-s-volei-i-koalitsiei-poka-ne-opredelilis.md)

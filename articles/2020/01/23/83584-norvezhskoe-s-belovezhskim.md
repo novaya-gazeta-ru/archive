@@ -49,6 +49,6 @@ tags: "нпз , нефть, норвегия, белоруссия, белару
 >
 > Добавлена информация о месторождении Johan Sverdrup. *Последнее обновление — от 23 января, 17:43 (мск)*
 
-**link:** https://novayagazeta.ru/articles/2020/01/09/83381-igra-v-tridtsat-odno
+**link:** [https://novayagazeta.ru/articles/2020/01/09/83381-igra-v-tridtsat-odno](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/01/09/83381-igra-v-tridtsat-odno)
 
 *При участии Никиты Кондратьева, «Новая»*

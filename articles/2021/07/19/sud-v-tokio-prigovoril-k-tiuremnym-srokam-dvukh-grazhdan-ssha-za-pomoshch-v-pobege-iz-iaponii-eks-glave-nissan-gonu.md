@@ -17,8 +17,8 @@ tags: "карлос гон, япония, побег, суды, токио, пр
 
 В прокуратуре заявили, что отец и сын попросили у Гона еще 500 тысяч долларов на оплату судебных издержек после того, как власти Японии потребовали их ареста. Тейлоры признали свою вину и извинились перед судом.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/01/08/83378-v-yaponskoy-tyurme-dush-pozvolyali-prinimat-2-raza-v-nedelyu
+**Читайте также:** [https://novayagazeta.ru/articles/2020/01/08/83378-v-yaponskoy-tyurme-dush-pozvolyali-prinimat-2-raza-v-nedelyu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/01/08/83378-v-yaponskoy-tyurme-dush-pozvolyali-prinimat-2-raza-v-nedelyu)
 
 Гона впервые арестовали в Японии в ноябре 2019 года по делу о сокрытии размера доходов в биржевых отчетах, Nissan [уволил](https://www.theguardian.com/business/live/2018/nov/22/carlos-ghosn-nissan-board-meeting-misconduct-business-live) его с поста председателя совета директоров. Его обвинили в сокрытии доходов более чем на 80 млн долларов, а также в том, что он списал на Nissan свои личные потери от финансовых операций после кризиса в 2008 году на сумму более 16 млн долларов.
 
-В начале марта прошлого года Гона [отпустили](https://www.novayagazeta.ru/news/2019/03/05/149731-v-yaponii-eks-glavu-nissan-karlosa-gona-osvobodili-pod-zalog) под залог в 9 млн долларов. Впоследствии его арестовали по новым обвинениям, и в конце года он бежал из Японии.
+В начале марта прошлого года Гона [отпустили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/03/05/149731-v-yaponii-eks-glavu-nissan-karlosa-gona-osvobodili-pod-zalog) под залог в 9 млн долларов. Впоследствии его арестовали по новым обвинениям, и в конце года он бежал из Японии.

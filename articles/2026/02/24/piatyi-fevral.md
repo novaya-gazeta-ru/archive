@@ -217,4 +217,4 @@ tags: "сво, мир, февраль, февраль 2022"
 
 > Этот материал вышел в шестнадцатом номере «Новая газета. Журнал». Купить его можно в [онлайн-магазине](https://t.me/LLCNewSalesBot/Catalog) наших партнеров.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/01/12/apatiia-strakh-adaptatsiia-pravo-sily-no-est-i-aksioma-vremeni
+**Читайте также:** [Апатия, страх, адаптация, право силы… Но есть и аксиома времени](2026/01/12/apatiia-strakh-adaptatsiia-pravo-sily-no-est-i-aksioma-vremeni.md)

@@ -85,4 +85,4 @@ tags: ""
 
 Жить ему оставалось меньше пяти месяцев.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/04/legenda-i-missiia
+**Читайте также:** [Легенда и миссия](2025/06/04/legenda-i-missiia.md)

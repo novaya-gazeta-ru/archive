@@ -13,7 +13,7 @@ tags: ""
 
 > **есть продолжение**
 >
-> Суд приговорил Надин Гейслер [к 22 годам колонии и штрафу](https://novayagazeta.ru/articles/2025/06/20/22-goda-kolonii-dali-aktivistke-armii-krasotok-nadin-geisler-po-tselomu-buketu-obvinenii-gosizmena-sodeistvie-terrorizmu-ugroza-bezopasnosti-rossii-news).
+> Суд приговорил Надин Гейслер [к 22 годам колонии и штрафу](2025/06/20/22-goda-kolonii-dali-aktivistke-armii-krasotok-nadin-geisler-po-tselomu-buketu-obvinenii-gosizmena-sodeistvie-terrorizmu.md).
 
 Адвокат активистки Надин Гейслер Алексей Прянишников* в своем телеграм-канале объявил срок, который запросило для его подзащитной гособвинение. Приговор по делу Гейслер будет оглашен завтра, 20 июня.
 

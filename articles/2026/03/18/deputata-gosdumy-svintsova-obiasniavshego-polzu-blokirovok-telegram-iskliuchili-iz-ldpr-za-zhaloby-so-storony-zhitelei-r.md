@@ -21,6 +21,6 @@ tags: ""
 
 Свинцов — владелец «ЛДПР ТВ». Что теперь будет с медиаактивом — неясно.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/18/vy-tam-nuzhny-za-27-milliardov
+**Читайте также:** [Вы там нужны за $27 миллиардов](2026/03/18/vy-tam-nuzhny-za-27-milliardov.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/12/v-leto-bez-interneta
+**Читайте также:** [В лето — без интернета](2026/03/12/v-leto-bez-interneta.md)

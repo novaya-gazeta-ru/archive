@@ -49,7 +49,7 @@ tags: "великая отечественная война, потери"
 
 \
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/22/nam-prikhodilos-liudei-ubivat-pust-eto-vragi-no-eto-liudi-kakovo-eto-detskoi-dushe
+**Читайте также:** [«Нам приходилось людей убивать. Пусть это враги, но это люди. Каково это детской душе?»](2021/06/22/nam-prikhodilos-liudei-ubivat-pust-eto-vragi-no-eto-liudi-kakovo-eto-detskoi-dushe.md)
 
 **— А кто такой Кавалерчик, соавтор ваш?**
 

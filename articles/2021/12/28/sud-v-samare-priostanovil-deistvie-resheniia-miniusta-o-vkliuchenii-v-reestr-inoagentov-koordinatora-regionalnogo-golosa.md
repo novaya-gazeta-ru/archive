@@ -19,9 +19,9 @@ tags: "суды, самара, голос, иноагенты, em"
 
 Таким образом, суд удовлетворил ходатайство о применении мер предварительной защиты — приостановления распоряжения Минюста. Он заявил, что он принял во внимание характер требований Кузьминой и удовлетворил ходатайство, «поскольку их непринятие может затруднить исполнение решения суда в случае удовлетворения заявленных административных исковых требований». В целом правозащитница требует признать незаконным ее включение в реестр и исключить ее из него.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/02/silnaia-vlast-ne-begaet-za-tetenkami-moego-vozrasta
+**Читайте также:** [«Сильная власть не бегает за тетеньками моего возраста»](2021/10/02/silnaia-vlast-ne-begaet-za-tetenkami-moego-vozrasta.md)
 
-Ранее аналогичные решения принимали суды во Пскове (по журналистке [Людмиле Савицкой](«https://novayagazeta.ru/articles/2021/03/23/v-pskove-priostanovili-deistvie-resheniia-miniusta-o-vkliuchenii-zhurnalistki-liudmily-savitskoi-v-spisok-inoagentov»)*) и в Москве (по журналисту [Сергею Маркелову](https://novayagazeta.ru/articles/2021/03/24/v-moskve-priostanovili-deistvie-resheniia-miniusta-o-vkliuchenii-zhurnalista-7x7-i-avtora-novoi-sergeia-markelova-v-reestr-smi-inoagentov)*). Однако в итоге им отказали в исключении из реестра.
+Ранее аналогичные решения принимали суды во Пскове (по журналистке [Людмиле Савицкой](2021/03/23/v-pskove-priostanovili-deistvie-resheniia-miniusta-o-vkliuchenii-zhurnalistki-liudmily-savitskoi-v-spisok-inoagentov.md)*) и в Москве (по журналисту [Сергею Маркелову](2021/03/24/v-moskve-priostanovili-deistvie-resheniia-miniusta-o-vkliuchenii-zhurnalista-7x7-i-avtora-novoi-sergeia-markelova-v-rees.md)*). Однако в итоге им отказали в исключении из реестра.
 
 Кузьмину внесли в реестр СМИ-«иноагентов» в конце сентября. В общей сложности в реестре сейчас 103 пункта — помимо физлиц, туда включают ООО, созданные ими для отчетности перед Минюстом, а также СМИ.
 

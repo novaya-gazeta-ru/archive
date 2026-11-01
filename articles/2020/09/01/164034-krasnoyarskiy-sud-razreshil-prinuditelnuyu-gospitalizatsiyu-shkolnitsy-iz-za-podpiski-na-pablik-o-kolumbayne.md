@@ -19,4 +19,4 @@ tags: "em, школьники, красноярск"
 
 «7 канал», подконтрольный властям, [сообщил](https://www.trk7.ru/news/113096.html?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews), что эта девочка не единственная, кого отправили в психдиспансер из-за интереса к группе о «Колумбайне». По его данным, всего туда поместили девять красноярских школьников.
 
-**link:** https://novayagazeta.ru/articles/2020/08/26/86835-a-devochka-sozrela
+**link:** [«А девочка созрела»](2020/08/26/86835-a-devochka-sozrela.md)

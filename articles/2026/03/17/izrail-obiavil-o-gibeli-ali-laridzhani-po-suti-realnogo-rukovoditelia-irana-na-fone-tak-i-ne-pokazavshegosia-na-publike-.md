@@ -17,15 +17,15 @@ tags: ""
 
 Власти Ирана не комментировали сообщения.
 
-↩️ Лариджани [был самым могущественным силовиком](https://novayagazeta.ru/articles/2026/03/01/iran-ostanetsia-ranenym-zverem-no-dalshe-uzhe-delo-irantsev) в Иране и получил всю полноту власти после гибели «верховного лидера» Хаменеи в первый день бомбардировок. Лариджани был главой иранского Совбеза, близкий Хаменеи, его старший советник.
+↩️ Лариджани [был самым могущественным силовиком](2026/03/01/iran-ostanetsia-ranenym-zverem-no-dalshe-uzhe-delo-irantsev.md) в Иране и получил всю полноту власти после гибели «верховного лидера» Хаменеи в первый день бомбардировок. Лариджани был главой иранского Совбеза, близкий Хаменеи, его старший советник.
 
 > При этом Лариджани не мог быть избран в качестве нового «верховного лидера», поскольку не имел необходимого для этой позиции статуса знатока ислама — «аятоллы».
 
-В итоге новым «верховным лидером» иранская ассамблея избрала сына Али Хаменеи Моджтабу Хаменеи. За почти три недели тот так и не появился на публике и на видео, Иран подтвердил, что он [был ранен](https://novayagazeta.ru/articles/2026/03/12/iran-podtverdil-novyi-verkhovnyi-lider-khamenei-mladshii-ranen-s-pervykh-dnei-voiny-no-chuvstvuet-sebia-khorosho-ego-zameniaiut-na-tseremoniiakh-kartonnoi-figuroi-news) в том же ударе, в котором погиб его отец и другие члены семьи.
+В итоге новым «верховным лидером» иранская ассамблея избрала сына Али Хаменеи Моджтабу Хаменеи. За почти три недели тот так и не появился на публике и на видео, Иран подтвердил, что он [был ранен](2026/03/12/iran-podtverdil-novyi-verkhovnyi-lider-khamenei-mladshii-ranen-s-pervykh-dnei-voiny-no-chuvstvuet-sebia-khorosho-ego-zam.md) в том же ударе, в котором погиб его отец и другие члены семьи.
 
-От имени Моджтабы Хаменеи распространили [воинственное текстовое заявление](https://novayagazeta.ru/articles/2026/03/12/khamenei-mladshii-vpervye-obratilsia-k-natsii-v-kachestve-verkhovnogo-lidera-v-voinstvennoi-rechi-on-potreboval-blokirovat-ormuzskii-proliv-i-rasskazal-o-gibeli-semi-news) с требованием сопротивляться атакам США-Израиля и продолжать блокировать Ормузский пролив.
+От имени Моджтабы Хаменеи распространили [воинственное текстовое заявление](2026/03/12/khamenei-mladshii-vpervye-obratilsia-k-natsii-v-kachestve-verkhovnogo-lidera-v-voinstvennoi-rechi-on-potreboval-blokirov.md) с требованием сопротивляться атакам США-Израиля и продолжать блокировать Ормузский пролив.
 
-Ходят слухи, что Хаменеи [вывезли в Россию](https://novayagazeta.ru/articles/2026/03/16/smi-soobshchili-chto-novogo-lidera-irana-khamenei-mladshego-lechat-v-moskve-kreml-otkazalsia-eto-kommentirovat-news) на лечение и якобы успешно прооперировали. Кремль это не опровергал.
+Ходят слухи, что Хаменеи [вывезли в Россию](2026/03/16/smi-soobshchili-chto-novogo-lidera-irana-khamenei-mladshego-lechat-v-moskve-kreml-otkazalsia-eto-kommentirovat-news.md) на лечение и якобы успешно прооперировали. Кремль это не опровергал.
 
 Али Лариджани с первых дней новой войны публично призывал отомстить за удары американо-израильской авиации.
 

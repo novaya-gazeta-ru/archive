@@ -13,7 +13,7 @@ tags: "крым, митинги, москва"
 
 *Заготовленные люди, запрограммированные эмоции, организованное унижение*
 
-[ Фоторепортаж Евгения Фельдмана](http://www.novayagazeta.ru/photos/67703.html)
+[ Фоторепортаж Евгения Фельдмана](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/67703.html)
 
 **Годовщину аннексии Крыма в Москве отметили масштабным празднеством на Васильевском спуске. Было до 100 тыс. участников действа. Как и почему люди пришли отметиться на этой сходке? Оказалось, включили административный ресурс. Получился праздник имитации и профанации**
 
@@ -21,15 +21,15 @@ tags: "крым, митинги, москва"
 
 Эти плакаты в разном оформлении, но с неизменным текстом несли и учителя, и строители, и работники ЖКХ.
 
-*[media: <p><a href="http://www.novayagazeta.ru/news/1692436.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/03/17/1426613594_508945_68.png" style="width: 100px; height: 75px;"></a><strong><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><a href="[http://www.novayagazeta.ru/news/1692436.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1692436.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/03/17/1426613594_508945_68.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/03/17/1426613594_508945_68.png)" style="width: 100px; height: 75px;"></a><strong><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><strong><a href="http://www.novayagazeta.ru/news/1692436.html" target="_blank">Директоров школ обязали прийти на митинг в годовщину присоединения Крыма с плакатами «Горжусь страной»</a></strong></p>]*
+<p><strong><a href="[http://www.novayagazeta.ru/news/1692436.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1692436.html)" target="_blank">Директоров школ обязали прийти на митинг в годовщину присоединения Крыма с плакатами «Горжусь страной»</a></strong></p>]*
 
 Учителя собирались у метро «Библиотека им. Ленина». Рядом отмечались строители. Неподалеку собирались в колонну работники торговли. Люди с плакатами «Горжусь страной» шли угрюмо и радовались только весеннему солнцу. При этом вспоминали, как в прошлый раз было холодно, и все перемерзли, а сегодня тепло. Дойдя до места проведения митинга, тут же начали спрашивать друг друга, можно ли уже расходиться по домам. В 16.00 на выход устремились первые ручейки, слившиеся к 17.00 в бурный поток. Оставляя плакат у парапета набережной, немолодой усатый мужчина пробурчал: «Больше не горжусь».
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/03/19/1426766672_291717_55.jpg" style="width: 570px; height: 950px;"><sup>Женщина отмечает делегации, предположительно, строительных компаний. Фото: Людмила Рыбина / «Новая»</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/03/19/1426766672_291717_55.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/03/19/1426766672_291717_55.jpg)" style="width: 570px; height: 950px;"><sup>Женщина отмечает делегации, предположительно, строительных компаний. Фото: Людмила Рыбина / «Новая»</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -57,8 +57,8 @@ tags: "крым, митинги, москва"
 
 Это заявление руководитель столичного образования сделал после того, как в Зеленограде была уволена директор детско-юношеского центра «Каравелла» за то, что не послала своих педагогов на митинг в поддержку Владимира Путина.
 
-*[media: <p><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2012/02/06/1328472758_037799_59.jpg" style="width: 100px; height: 75px;"><strong><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2012/02/06/1328472758_037799_59.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/02/06/1328472758_037799_59.jpg)" style="width: 100px; height: 75px;"><strong><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><strong><a href="http://www.novayagazeta.ru/politics/50883.html" target="_blank">«Я не отправила людей на Поклонную. Меня уволили»</a></strong></p>]*
+<p><strong><a href="[http://www.novayagazeta.ru/politics/50883.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/50883.html)" target="_blank">«Я не отправила людей на Поклонную. Меня уволили»</a></strong></p>]*
 
 Три года спустя к годовщине взятия Крыма события развивались прямо по знаменитой максиме Виктора Черномырдина: никогда такого не было, и вот опять.

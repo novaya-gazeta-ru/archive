@@ -19,6 +19,6 @@ tags: "ng, канада, протесты"
 
 Дальнобойщики потребовали отменить карантин для невакцинированных водителей по возвращении в Канаду из США, а затем выступили за отмену всех коронавирусных мер в Канаде.
 
-Водители грузовиков ведут себя мирно, но много шумят, что мешает местным жителям, [сообщает](https://ottawa.ctvnews.ca/ottawa-mayor-declares-state-of-emergency-amid-freedom-convoy-protest-1.5769811)CTV. Премьер-министр Канады Джастин Трюдо выступил с критикой протестующих и затем в целях безопасности [покинул](https://novayagazeta.ru/articles/2022/01/30/smi-premer-kanady-triudo-uekhal-iz-stolichnoi-rezidentsii-iz-za-protestov-protiv-koronavirusnykh-ogranichenii-news) резиденцию вместе с семьей.
+Водители грузовиков ведут себя мирно, но много шумят, что мешает местным жителям, [сообщает](https://ottawa.ctvnews.ca/ottawa-mayor-declares-state-of-emergency-amid-freedom-convoy-protest-1.5769811)CTV. Премьер-министр Канады Джастин Трюдо выступил с критикой протестующих и затем в целях безопасности [покинул](2022/01/30/smi-premer-kanady-triudo-uekhal-iz-stolichnoi-rezidentsii-iz-za-protestov-protiv-koronavirusnykh-ogranichenii-news.md) резиденцию вместе с семьей.
 
 Полиция изначально не вмешивалась в протесты, однако после очередной волны протеста 5 февраля полицейские изменили тактику и выписали более 450 штрафов за день.

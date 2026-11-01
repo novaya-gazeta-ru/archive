@@ -41,4 +41,4 @@ tags: ""
 
 **Екатеринбург**
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/03/30/v-chem-vasha-vina-uznaete-v-sude
+**Читайте также:** [«В чем ваша вина, узнаете в суде»](2023/03/30/v-chem-vasha-vina-uznaete-v-sude.md)

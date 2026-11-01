@@ -19,10 +19,10 @@ tags: "выборы президента сша, байден, сша, em"
 
 Джона Керри, который занимал пост госсекретаря во время президентства Барака Обамы, предлагается назначить спецпосланником президента по климату. Также планируется, что министром внутренней безопасности станет Алехандро Майоркас, в 2013–2016 годах был заместителем министра по внутренней безопасности.
 
-**link:** https://novayagazeta.ru/articles/2020/11/10/87894-46-y-ne-skoryy
+**link:** [46-й, не скорый](2020/11/10/87894-46-y-ne-skoryy.md)
 
-Президентские выборы прошли в США 3 ноября, 7 числа СМИ [спрогнозировали](https://novayagazeta.ru/news/2020/11/07/165512-prognoz-cnn-dzho-bayden-nabral-dostatochno-golosov-vyborschikov-dlya-pobedy) победу Байдена. Официально выборщики проголосуют 14 декабря.
+Президентские выборы прошли в США 3 ноября, 7 числа СМИ [спрогнозировали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/07/165512-prognoz-cnn-dzho-bayden-nabral-dostatochno-golosov-vyborschikov-dlya-pobedy) победу Байдена. Официально выборщики проголосуют 14 декабря.
 
-Байден уже [запустил](https://novayagazeta.ru/news/2020/11/08/165528-kandidat-v-prezidenta-ssha-dzho-bayden-zapustil-kampaniyu-po-peredache-vlasti) кампанию по передаче власти, однако Трамп поражения не признал и выразил уверенность в своей победе. «Законное голосование решает, кто президент, а не СМИ», — заявил он.
+Байден уже [запустил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/08/165528-kandidat-v-prezidenta-ssha-dzho-bayden-zapustil-kampaniyu-po-peredache-vlasti) кампанию по передаче власти, однако Трамп поражения не признал и выразил уверенность в своей победе. «Законное голосование решает, кто президент, а не СМИ», — заявил он.
 
-В ряде штатов штаб действующего президента США подавал иски о признании результатов голосования недействительными. В конце прошлой недели решение было вынесено в Пенсильвании — там суд иск штаба Трампа [отклонил](https://novayagazeta.ru/news/2020/11/22/165895-sud-v-pensilvanii-otkazalsya-annulirovat-byulleteni-v-shtate-i-otklonil-isk-izbiratelnogo-shtaba-trampa).
+В ряде штатов штаб действующего президента США подавал иски о признании результатов голосования недействительными. В конце прошлой недели решение было вынесено в Пенсильвании — там суд иск штаба Трампа [отклонил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/22/165895-sud-v-pensilvanii-otkazalsya-annulirovat-byulleteni-v-shtate-i-otklonil-isk-izbiratelnogo-shtaba-trampa).

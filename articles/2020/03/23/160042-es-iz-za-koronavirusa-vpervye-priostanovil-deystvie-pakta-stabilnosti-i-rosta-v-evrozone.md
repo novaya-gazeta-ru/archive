@@ -19,4 +19,4 @@ tags: "евросоюз, коронавирус, em"
 
 Пакт стабильности и роста был принят в 1997 году в Амстердаме. По нему страны ЕС обязаны соблюдать условия о том, что годовой дефицит бюджета не должен составлять более 3% ВВП, а национальный долг обязан быть меньше 60% валового продукта. Действие Пакта приостановили впервые.
 
-**link:** https://novayagazeta.ru/articles/2020/03/23/84471-investitsii-v-biznes-vyplaty-samozanyatym-nalogovye-kanikuly-evropa-pytaetsya-spravitsya-s-ekonomicheskimi-posledstviyami-koronavirusa
+**link:** [Инвестиции в бизнес, выплаты самозанятым, налоговые каникулы](2020/03/23/84471-investitsii-v-biznes-vyplaty-samozanyatym-nalogovye-kanikuly-evropa-pytaetsya-spravitsya-s-ekonomicheskimi-posleds.md)

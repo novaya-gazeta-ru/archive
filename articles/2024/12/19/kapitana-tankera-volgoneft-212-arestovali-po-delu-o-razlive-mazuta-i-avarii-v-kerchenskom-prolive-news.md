@@ -17,12 +17,12 @@ tags: ""
 
 Об аресте [сообщило](https://t.me/sledcomcrimea/3593) управление СК по Крыму и Севастополю. Капитаны «Волгонефти-212» и «Волгонефти-239» арестованы до 17 февраля 2025 года. Их обвиняют в нарушении правил безопасности движения и эксплуатации морского транспорта. Первому капитану предъявлены обвинения по ч. 2 ст. 263 УК РФ, то есть за нарушение, повлекшее смерть человека. Второму — по ч. 1 ст. 263 УК РФ.
 
-Два танкера «Волгонефть» [потерпели крушение](https://novayagazeta.ru/articles/2024/12/16/iz-razlomannogo-vysokoi-volnoi-starogo-rossiiskogo-tankera-v-kerchenskom-prolive-vytekaiut-tysiachi-tonn-mazuta-news) в Керченском проливе 15 декабря. Один из из кораблей разломился пополам. Один моряк погиб, 11 пострадали. Сигнал бедствия [подавал](https://novayagazeta.ru/articles/2024/12/17/tretii-tanker-volgoneft-podal-signal-bedstviia-v-kerchenskom-prolive-dva-uzhe-poterpeli-krushenie-news) еще один танкер, «Волгонефть-109», но в его случае ситуация была не критичной.
+Два танкера «Волгонефть» [потерпели крушение](2024/12/16/iz-razlomannogo-vysokoi-volnoi-starogo-rossiiskogo-tankera-v-kerchenskom-prolive-vytekaiut-tysiachi-tonn-mazuta-news.md) в Керченском проливе 15 декабря. Один из из кораблей разломился пополам. Один моряк погиб, 11 пострадали. Сигнал бедствия [подавал](2024/12/17/tretii-tanker-volgoneft-podal-signal-bedstviia-v-kerchenskom-prolive-dva-uzhe-poterpeli-krushenie-news.md) еще один танкер, «Волгонефть-109», но в его случае ситуация была не критичной.
 
-Крушение в Керченском проливе стало крупнейшей экокатастрофой со времен Норильска. По оценкам экспертов, из каждого из танкеров [вытекло по 1,5 тысячи тонн](https://novayagazeta.ru/articles/2024/12/17/poberezhe-chernogo-moria-v-krasnodarskom-krae-pokrylo-mazutom-s-poterpevshikh-krushenie-tankerov-news) мазута. Очевидцы сообщили о загрязнении топливом пляжей и перепачканных птицах. На 18 декабря зона загрязнения составила 49 км, от Анапы до курорта Веселовка в Кубани.
+Крушение в Керченском проливе стало крупнейшей экокатастрофой со времен Норильска. По оценкам экспертов, из каждого из танкеров [вытекло по 1,5 тысячи тонн](2024/12/17/poberezhe-chernogo-moria-v-krasnodarskom-krae-pokrylo-mazutom-s-poterpevshikh-krushenie-tankerov-news.md) мазута. Очевидцы сообщили о загрязнении топливом пляжей и перепачканных птицах. На 18 декабря зона загрязнения составила 49 км, от Анапы до курорта Веселовка в Кубани.
 
 Во время прямой линии с Путиным днем президент назвал «экологической бедой» аварию старых танкеров в Керченском проливе. Он [заявил](https://t.me/news_93_ru/14679), что доклады, которые ему делали об этом, свидетельствуют об «ошибках капитанов» танкеров.
 
-«Новая» [рассказывала](https://novayagazeta.ru/articles/2024/12/18/takie-drevnie-suda-nelzia-vypuskat-v-more) о причинах и последствиях катастрофы.
+«Новая» [рассказывала](2024/12/18/takie-drevnie-suda-nelzia-vypuskat-v-more.md) о причинах и последствиях катастрофы.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/18/takie-drevnie-suda-nelzia-vypuskat-v-more
+**Читайте также:** [«Такие древние суда нельзя выпускать в море»](2024/12/18/takie-drevnie-suda-nelzia-vypuskat-v-more.md)

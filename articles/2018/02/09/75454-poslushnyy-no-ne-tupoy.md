@@ -63,12 +63,12 @@ tags: "школа"
 
 *Варвара Тихон, 8-й класс*
 
-**link:** https://novayagazeta.ru/articles/2018/02/09/75453-samoe-vazhnoe-nado-prosnutsya
+**link:** [Самое важное — надо проснуться](2018/02/09/75453-samoe-vazhnoe-nado-prosnutsya.md)
 
-**link:** https://novayagazeta.ru/articles/2018/02/09/75450-nedelya-s-katapultoy
+**link:** [Неделя с катапультой](2018/02/09/75450-nedelya-s-katapultoy.md)
 
-**link:** https://novayagazeta.ru/articles/2018/02/09/75450-nedelya-s-katapultoy
+**link:** [Неделя с катапультой](2018/02/09/75450-nedelya-s-katapultoy.md)
 
-**link:** https://novayagazeta.ru/articles/2018/02/09/75449-mezhdu-zhavoronkom-i-zombi
+**link:** [Между жаворонком и зомби](2018/02/09/75449-mezhdu-zhavoronkom-i-zombi.md)
 
-**link:** https://novayagazeta.ru/articles/2018/02/09/75448-fastfud-nam-v-glotku
+**link:** [Фастфуд нам в глотку](2018/02/09/75448-fastfud-nam-v-glotku.md)

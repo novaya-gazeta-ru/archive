@@ -61,7 +61,7 @@ tags: "реакция, лукашенко, протесты, как у них, �
 
 *Имена погибших. Фото: Ирина Тумакова / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2020/09/05/86975-nik-mayk-i-chelovek-s-ruzhiem
+**link:** [Ник, Майк и человек с ружьем](2020/09/05/86975-nik-mayk-i-chelovek-s-ruzhiem.md)
 
 ![](_assets/36/36bf270978481b272bf1d4b26a71c1e6.webp)
 

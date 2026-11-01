@@ -45,7 +45,7 @@ tags: "акции протеста, феминизм"
 
 *Та самая фотография*
 
-**link:** https://novayagazeta.ru/news/2017/03/09/129700-feministki-priznali-ispolzovanie-fotoshopa-na-fotografii-s-bannerom-na-bashne-kremlya
+**link:** [https://novayagazeta.ru/news/2017/03/09/129700-feministki-priznali-ispolzovanie-fotoshopa-na-fotografii-s-bannerom-na-bashne-kremlya](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/03/09/129700-feministki-priznali-ispolzovanie-fotoshopa-na-fotografii-s-bannerom-na-bashne-kremlya)
 
 Четверых — Елену Тищенко, Александру Орлову, Марину Тимофееву, Леду Гарину — задержали.
 

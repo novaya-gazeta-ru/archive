@@ -17,10 +17,10 @@ tags: "сачков, group-ib, госизмена, сизо лефортово, 
 
 Дихтярь уточнил, что дело Сачкова не связано с деятельностью Group-IB.
 
-Ранее члена московской Общественной наблюдательной комиссии (ОНК) Александр Хуруджи [передал](https://novayagazeta.ru/articles/2021/10/19/okazalsia-v-polnom-informatsionnom-vakuume-arestovannyi-po-delu-o-gosizmene-osnovatel-group-ib-sachkov-soobshchil-o-zaprete-chitat-pisma-news), что основатель компании не получает газеты и письма. «Оказался в полном информационном вакууме», — подчеркнул Хуруджи.
+Ранее члена московской Общественной наблюдательной комиссии (ОНК) Александр Хуруджи [передал](2021/10/19/okazalsia-v-polnom-informatsionnom-vakuume-arestovannyi-po-delu-o-gosizmene-osnovatel-group-ib-sachkov-soobshchil-o-zapr.md), что основатель компании не получает газеты и письма. «Оказался в полном информационном вакууме», — подчеркнул Хуруджи.
 
 По его словам, Сачков заявил, что ему в СИЗО поступило 25 писем, однако прочесть их ему не разрешили. Также он сам пытался отправить 17 писем, но их не доставляют до адресата.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/29/chelovek-pervogo-softa
+**Читайте также:** [Человек первого софта](2021/09/29/chelovek-pervogo-softa.md)
 
-29 сентября Лефортовский суд Москвы [арестовал](https://novayagazeta.ru/articles/2021/09/29/osnovatelia-group-ib-iliu-sachkova-otpravili-v-sizo-po-delu-o-gosizmene-news) на два месяца основателя Group-IB Илью Сачкова. Он стал фигурантом дела о госизмене. В штаб-квартире его компании прошли обыски. На уголовное дело в отношении IT-бизнесмена наложен гриф «Секретно». Bloomberg [писал](https://novayagazeta.ru/articles/2021/10/03/bloomberg-ugolovnoe-delo-protiv-glavy-group-ib-sachkova-sviazano-s-ego-planami-vyvesti-biznes-za-granitsu-news), что оно может быть связано планами Сачкова вывести бизнес за границу.
+29 сентября Лефортовский суд Москвы [арестовал](2021/09/29/osnovatelia-group-ib-iliu-sachkova-otpravili-v-sizo-po-delu-o-gosizmene-news.md) на два месяца основателя Group-IB Илью Сачкова. Он стал фигурантом дела о госизмене. В штаб-квартире его компании прошли обыски. На уголовное дело в отношении IT-бизнесмена наложен гриф «Секретно». Bloomberg [писал](2021/10/03/bloomberg-ugolovnoe-delo-protiv-glavy-group-ib-sachkova-sviazano-s-ego-planami-vyvesti-biznes-za-granitsu-news.md), что оно может быть связано планами Сачкова вывести бизнес за границу.

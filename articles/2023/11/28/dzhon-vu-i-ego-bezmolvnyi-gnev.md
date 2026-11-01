@@ -59,4 +59,4 @@ tags: "немая ярость, кино, джон ву , юэль киннам�
 >
 > Лариса Малюкова ведет телеграм-канал о кино и не только. [Подписывайтесь тут](https://t.me/larisamalukova).
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/11/27/angelus-domini
+**Читайте также:** [Angelus Domini](2023/11/27/angelus-domini.md)

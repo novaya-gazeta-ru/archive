@@ -37,7 +37,7 @@ tags: "москва, Санкт-Петербург, протесты"
 
 *Москва. Фото: Влад Докшин / «Новая»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/13/ne-moskva-l-za-nami
+**Читайте также:** [Не Москва ль Za нами?](2022/03/13/ne-moskva-l-za-nami.md)
 
 ![](_assets/cd/cd9cb53c201ab01d5d16133b852dad36.webp)
 

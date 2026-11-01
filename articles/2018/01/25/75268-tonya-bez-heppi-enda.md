@@ -61,4 +61,4 @@ tags: "кино, рецензия"
 
 Знаете, и не только в Америке!
 
-**link:** https://novayagazeta.ru/articles/2018/01/25/75259-d-artanyan-i-nkvd-nesovmestimy
+**link:** [Д’Артаньян и НКВД несовместимы](2018/01/25/75259-d-artanyan-i-nkvd-nesovmestimy.md)

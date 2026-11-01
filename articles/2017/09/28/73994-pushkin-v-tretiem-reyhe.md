@@ -39,7 +39,7 @@ tags: "история, нацизм, кино"
 
 — Нет, никто не был от этого свободен. Режиссер Лени Рифеншталь, снимавшая очень важные фильмы для Гитлера, потеряла постоянного оператора — Вилли Цильке, с которым всегда работала. Он был болен, поэтому считался неполноценным, его арестовали, подвергли принудительной кастрации.
 
-**link:** https://novayagazeta.ru/articles/2017/09/14/73835-za-oskorblenie-chuvstv-veteranov-voyny
+**link:** [https://novayagazeta.ru/articles/2017/09/14/73835-za-oskorblenie-chuvstv-veteranov-voyny](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/09/14/73835-za-oskorblenie-chuvstv-veteranov-voyny)
 
 **— Что изменилось в немецком кино после прихода нацистов к власти в 1933 году?**
 

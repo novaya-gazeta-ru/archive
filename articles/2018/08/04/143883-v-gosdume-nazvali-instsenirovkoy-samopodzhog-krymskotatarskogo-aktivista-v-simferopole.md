@@ -17,9 +17,9 @@ tags: ""
 
 «В лучших голливудских традициях, рассчитанные на внешнего потребителя», — заключил Бальбек.
 
-О том, что Карабаш [совершил](https://www.novayagazeta.ru/news/2018/08/03/143860-v-simferopole-krymskotatarskiy-aktivist-v-znak-protesta-podzheg-sebya-u-zdaniya-goradministratsii) самоподжог в центре Симферополя у здания горадминистрации во время митинга против сноса домой на поляне «Стрелковая» «Новая газета» сообщила 3 августа.
+О том, что Карабаш [совершил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/08/03/143860-v-simferopole-krymskotatarskiy-aktivist-v-znak-protesta-podzheg-sebya-u-zdaniya-goradministratsii) самоподжог в центре Симферополя у здания горадминистрации во время митинга против сноса домой на поляне «Стрелковая» «Новая газета» сообщила 3 августа.
 
-**link:** https://novayagazeta.ru/articles/2018/07/06/77064-zatoptat-chuzhie-skrepy
+**link:** [Затоптать чужие скрепы](2018/07/06/77064-zatoptat-chuzhie-skrepy.md)
 
 Мужчина облил себя легковоспламеняющийся жидкостью и [поджег](https://ua.krymr.com/a/video-samossozhenie-protest/29409691.html#player-start-time=19.412704) ее, полиция при этом не предпринимала никаких мер. Огонь быстро потушили участники митинга. «Скорая помощь» приехала через десять минут после инцидента, Карабаша госпитализировали в ожоговое отделение 6 горбольницы.
 

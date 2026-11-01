@@ -33,4 +33,4 @@ tags: ""
 
 Сама Трепова раскаялась частично, признав только то, что действительно принесла статуэтку по заданию кураторов. О том, что внутри была взрывчатка, Трепова, с ее слов, не представляла.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/01/23/moimi-rukami-ustroili-terakt
+**Читайте также:** [https://novayagazeta.ru/articles/2024/01/23/moimi-rukami-ustroili-terakt](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/01/23/moimi-rukami-ustroili-terakt)

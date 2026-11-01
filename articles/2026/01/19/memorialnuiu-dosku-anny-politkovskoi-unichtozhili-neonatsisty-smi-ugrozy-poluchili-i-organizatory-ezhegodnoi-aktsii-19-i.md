@@ -13,9 +13,9 @@ tags: ""
 
 > **Есть продолжение**
 >
-> ### [Вандалы во второй раз за сутки сбили памятную доску Анны Политковской с дома, где она жила и где ее убили. Свою причастность к вандализму ранее признали неонацисты](https://novayagazeta.ru/articles/2026/01/19/vandaly-vo-vtoroi-raz-za-sutki-sbili-pamiatnuiu-dosku-anny-politkovskoi-s-doma-gde-ona-zhila-i-gde-ee-ubili-svoiu-prichastnost-k-vandalizmu-ranee-priznali-neonatsisty-news)
+> ### [Вандалы во второй раз за сутки сбили памятную доску Анны Политковской с дома, где она жила и где ее убили. Свою причастность к вандализму ранее признали неонацисты](2026/01/19/vandaly-vo-vtoroi-raz-za-sutki-sbili-pamiatnuiu-dosku-anny-politkovskoi-s-doma-gde-ona-zhila-i-gde-ee-ubili-svoiu-pricha.md)
 
-Мониторящие активность неонацистских группировок СМИ в Европе сообщили сегодня о том, что свою причастность за вчерашнее [уничтожение мемориальной доски Анны Политковской](https://novayagazeta.ru/articles/2026/01/18/redaktsiia-novoi-gazety-i-deti-anny-politkovskoi-trebuiut-nakazat-vandalov-razbivshikh-memorialnuiu-dosku-ee-imeni-na-lesnoi-ulitse-news) на Лесной улице в Москве подтвердили неонацисты.
+Мониторящие активность неонацистских группировок СМИ в Европе сообщили сегодня о том, что свою причастность за вчерашнее [уничтожение мемориальной доски Анны Политковской](2026/01/18/redaktsiia-novoi-gazety-i-deti-anny-politkovskoi-trebuiut-nakazat-vandalov-razbivshikh-memorialnuiu-dosku-ee-imeni-na-le.md) на Лесной улице в Москве подтвердили неонацисты.
 
 Журналисты рассказали, что в одном из закрытых каналов неонацистской тематики в ночь на 19 января, то есть спустя 7 часов после уничтожения мемориала, был опубликован пост, авторы рассказали об уничтожении мемориальной таблички на доме Политковской «инициативными лицами».
 
@@ -27,7 +27,7 @@ tags: ""
 
 Нескольких участников российской NS/WP недавно осудили на многолетние сроки за попытку покушения на пропагандиста Владимира Соловьева, другой целью якобы могла быть пропагандист Маргарита Симоньян.
 
-Редакция «Новой» и семья Анны Политковской обратилась в правоохранительные органы [с требованием наказать вандалов](https://novayagazeta.ru/articles/2026/01/18/redaktsiia-novoi-gazety-i-deti-anny-politkovskoi-trebuiut-nakazat-vandalov-razbivshikh-memorialnuiu-dosku-ee-imeni-na-lesnoi-ulitse-news). Партия «Яблоко» еще вчера подало заявление в московскую полицию.
+Редакция «Новой» и семья Анны Политковской обратилась в правоохранительные органы [с требованием наказать вандалов](2026/01/18/redaktsiia-novoi-gazety-i-deti-anny-politkovskoi-trebuiut-nakazat-vandalov-razbivshikh-memorialnuiu-dosku-ee-imeni-na-le.md). Партия «Яблоко» еще вчера подало заявление в московскую полицию.
 
 > **дата**
 >

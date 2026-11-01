@@ -29,4 +29,4 @@ tags: ""
 >
 > Москва официально отрицает все подозрения. А обвинения Берлина министр иностранных дел Лавров назвал «настоящим объявлением войны».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/07/rossiia-zakryvaet-genkonsulstvo-germanii-v-peterburge-i-vse-tsentry-gete-v-strane-sotrudnikam-predpisano-pokinut-rossiiu-za-10-dnei-news
+**Читайте также:** [Россия закрывает генконсульство Германии в Петербурге и все центры Гете в стране. Сотрудникам предписано уехать за 10 дней](2026/09/07/rossiia-zakryvaet-genkonsulstvo-germanii-v-peterburge-i-vse-tsentry-gete-v-strane-sotrudnikam-predpisano-pokinut-rossiiu.md)

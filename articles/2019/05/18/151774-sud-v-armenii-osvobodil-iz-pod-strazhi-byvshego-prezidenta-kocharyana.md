@@ -23,8 +23,8 @@ tags: "армения, кочарян, kb"
 
 Власти Армении стали разгонять участников многотысячной акции, силовики применили огнестрельное оружие. В результате [погибло](https://www.kavkaz-uzel.eu/articles/134995/) 10 человек, еще 250 — получили ранения. В рамках этого дела обвинения предъявили также нескольким высокопоставленным чиновникам. Кроме того, экс-президенту Армении вменяют получение взятки в особо крупном размере.
 
-Адвокаты подали иск о прекращении уголовного преследования Кочаряна из-за его неприкосновенности, однако в апреле его суд [отклонил](https://www.novayagazeta.ru/news/2019/04/12/150817-sud-otkazalsya-prekraschat-presledovanie-eks-prezidenta-armenii-kocharyana-obvinyaemogo-v-sverzhenii-konstitutsionnogo-stroya). Бывший президент Армении считает уголовное преследование политическим.
+Адвокаты подали иск о прекращении уголовного преследования Кочаряна из-за его неприкосновенности, однако в апреле его суд [отклонил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/04/12/150817-sud-otkazalsya-prekraschat-presledovanie-eks-prezidenta-armenii-kocharyana-obvinyaemogo-v-sverzhenii-konstitutsionnogo-stroya). Бывший президент Армении считает уголовное преследование политическим.
 
 Роберт Кочарян был президентом Армении в период с 1998 по 2008 год.
 
-**link:** https://novayagazeta.ru/articles/2018/12/11/78896-armeniya-vybrala-revolyutsiyu
+**link:** [Армения выбрала революцию](2018/12/11/78896-armeniya-vybrala-revolyutsiyu.md)

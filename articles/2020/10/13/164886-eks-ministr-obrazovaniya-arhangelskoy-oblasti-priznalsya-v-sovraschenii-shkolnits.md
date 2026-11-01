@@ -15,10 +15,10 @@ tags: "sk, уголовное дело, архангельская област�
 
 Как уточняет СК, бывший министр признал вину в ходе допроса. В заявлении также указано, что эксперты обнаружили по месту жительства и работы обвиняемого предметы, «имеющие значение для дела».
 
-Ранее Ломоносовский районный суд Архангельска [отправил](https://novayagazeta.ru/news/2020/10/11/164847-eks-ministra-obrazovaniya-arhangelskoy-oblasti-otpravili-pod-domashniy-arest-po-delu-o-sovraschenii-dvuh-shkolnits) экс-министра под домашний арест сроком на два месяца.
+Ранее Ломоносовский районный суд Архангельска [отправил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/11/164847-eks-ministra-obrazovaniya-arhangelskoy-oblasti-otpravili-pod-domashniy-arest-po-delu-o-sovraschenii-dvuh-shkolnits) экс-министра под домашний арест сроком на два месяца.
 
-**link:** https://novayagazeta.ru/articles/2020/10/12/87480-novye-priklyucheniya-krasnoy-tapochki
+**link:** [Новые приключения красной тапочки](2020/10/12/87480-novye-priklyucheniya-krasnoy-tapochki.md)
 
-Гнедышева [задержали](https://novayagazeta.ru/news/2020/10/09/164817-glavu-arhangelskogo-ministerstva-obrazovaniya-zaderzhali-po-delu-o-sovraschenii-dvuh-shkolnits) 9 октября. Против него возбудили уголовные дела о развратных действиях по отношению к несовершеннолетним и об изготовлении и обороте порнографии (ст. 135 и 242 УК). По версии СК, в 2019 году экс-министр переписывался со школьницами, «оказывая на них развращающее влияние». Одной из них он отправил ссылку на непристойную видеозапись.
+Гнедышева [задержали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/09/164817-glavu-arhangelskogo-ministerstva-obrazovaniya-zaderzhali-po-delu-o-sovraschenii-dvuh-shkolnits) 9 октября. Против него возбудили уголовные дела о развратных действиях по отношению к несовершеннолетним и об изготовлении и обороте порнографии (ст. 135 и 242 УК). По версии СК, в 2019 году экс-министр переписывался со школьницами, «оказывая на них развращающее влияние». Одной из них он отправил ссылку на непристойную видеозапись.
 
 Накануне задержания Гнедышев написал заявление об увольнении.

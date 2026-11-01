@@ -35,4 +35,4 @@ tags: "телевидение, пропаганда, пропагандисты,
 
 Солдат простят. Колдунов — нет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/14/foto-dnia-devushka-s-plakatom-v-efire-pervogo-kanala
+**Читайте также:** [Фото дня. Девушка с плакатом в эфире Первого канала](2022/03/14/foto-dnia-devushka-s-plakatom-v-efire-pervogo-kanala.md)

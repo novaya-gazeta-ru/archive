@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2014/02/20/1392848613_772356_28.png" style="width: 340px; height: 342px;"><em><sup>Майдан Незалежности</sup></em></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/02/20/1392848613_772356_28.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/02/20/1392848613_772356_28.png)" style="width: 340px; height: 342px;"><em><sup>Майдан Незалежности</sup></em></td>
 		</tr>
 	</tbody>]*
 

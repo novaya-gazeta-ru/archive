@@ -19,6 +19,6 @@ tags: "дружба народов, отношения, дипломатия, а
 
 Об этом наш роуд-муви.
 
-**link:** https://novayagazeta.ru/articles/2019/06/30/81074-eto-spetsialno-sdelano-chtoby-lyudi-v-krym-ezdili
+**link:** [«Это специально сделано, чтобы люди в Крым ездили»](2019/06/30/81074-eto-spetsialno-sdelano-chtoby-lyudi-v-krym-ezdili.md)
 
 > *При поддержке Медиасети*

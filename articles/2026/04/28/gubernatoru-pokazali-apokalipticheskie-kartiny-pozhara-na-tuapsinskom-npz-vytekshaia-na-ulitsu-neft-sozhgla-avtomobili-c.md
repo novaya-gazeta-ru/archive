@@ -31,8 +31,8 @@ tags: ""
 
 Пожар на НПЗ тушат 220 человек, в течение дня им на подмогу прибудут сводные отряды из Адыгеи, Ростовской области и Ставропольского края. В пункте эвакуации находится 31 человек, при необходимости жителей домов рядом с НПЗ расположат в гостинице.
 
-В ночь на 28 апреля Туапсе [пережил третью атаку](https://novayagazeta.ru/articles/2026/04/28/v-tuapse-posle-ataki-dronov-vnov-zagorelsia-na-dniakh-potushennyi-npz-zhitelei-blizlezhashchikh-raionov-evakuiruiut-nad-gorodom-chernyi-dym-news) беспилотников за апрель. На НПЗ вспыхнул пожар: в Кремле [заявили](https://www.rbc.ru/rbcfreenews/69f0c6fa9a79474692d79acb), что удар пришелся по хранилищам, в которых хранится нефть на экспорт.
+В ночь на 28 апреля Туапсе [пережил третью атаку](2026/04/28/v-tuapse-posle-ataki-dronov-vnov-zagorelsia-na-dniakh-potushennyi-npz-zhitelei-blizlezhashchikh-raionov-evakuiruiut-nad-.md) беспилотников за апрель. На НПЗ вспыхнул пожар: в Кремле [заявили](https://www.rbc.ru/rbcfreenews/69f0c6fa9a79474692d79acb), что удар пришелся по хранилищам, в которых хранится нефть на экспорт.
 
 Сегодня глава МЧС доложил Путину о ситуации в Туапсе, рассказал на брифинге журналистам пресс-секретарь Кремля Дмитрий Песков. Затем он обвинил Украину в увеличении «дефицита нефти».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/04/28/skhvativshii-menia-muzhchina-okazalsia-initsiativnym-mestnym-zhitelem-zhurnalistku-kedra-otpustili-iz-politsii-tuapse-posle-5-chasovogo-zaderzhaniia-news
+**Читайте также:** [«Схвативший меня мужчина оказался инициативным местным жителем». Журналистку «Кедра»* отпустили из полиции Туапсе после 5-часового задержания](2026/04/28/skhvativshii-menia-muzhchina-okazalsia-initsiativnym-mestnym-zhitelem-zhurnalistku-kedra-otpustili-iz-politsii-tuapse-po.md)

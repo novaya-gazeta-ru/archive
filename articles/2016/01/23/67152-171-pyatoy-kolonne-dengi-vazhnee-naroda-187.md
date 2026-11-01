@@ -35,9 +35,9 @@ tags: "грозный, кадыров"
 
 — Нет, конечно! — удивляется она. — На работе надо показать!
 
-**link:** https://novayagazeta.ru/politics/71527.html
+**link:** [https://novayagazeta.ru/politics/71527.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/71527.html)
 
-**link:** https://novayagazeta.ru/politics/71527.html
+**link:** [https://novayagazeta.ru/politics/71527.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/71527.html)
 
 Митинг уже вскоре после начала чеченская полиция объявила «миллионным». В центре города в этот день действительно собралось много людей, однако плотно они стоят только около самой сцены, установленной возле мечети. Метрах в двадцати от этой сцены люди стоят так тесно, что ближе протискиваться приходится уже по газону. Но чуть дальше, на проспекте Кадырова, намного свободнее. Над площадью беспрерывно кружит вертолет, среди собравшихся, помимо СОБРа, очень много охранников в гражданском.
 
@@ -59,9 +59,9 @@ tags: "грозный, кадыров"
 
 Глава Чечни на митинг в свою поддержку так и не пришел.
 
-**link:** https://novayagazeta.ru/politics/71551.html
+**link:** [https://novayagazeta.ru/politics/71551.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/71551.html)
 
-**link:** https://novayagazeta.ru/politics/71551.html
+**link:** [https://novayagazeta.ru/politics/71551.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/71551.html)
 
 ![](_assets/12/12b73a0e3be0401d18b80d047ccbfbe6.webp)
 

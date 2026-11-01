@@ -117,4 +117,4 @@ tags: ""
 
 Или не возникнет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/08/posle-vot-etogo-vot-vsego
+**Читайте также:** [После «вот этого вот всего»](2026/07/08/posle-vot-etogo-vot-vsego.md)

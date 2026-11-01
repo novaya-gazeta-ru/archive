@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *Криминальный док «Неповар» — про создателя ЧВК «Вагнер», «кремлевского повара» Евгения Пригожина. И конспирологическая версия об истинной цели июньского мятежа*
 
-https://novayagazeta.ru/issues/3259
+[https://novayagazeta.ru/issues/3259](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3259)

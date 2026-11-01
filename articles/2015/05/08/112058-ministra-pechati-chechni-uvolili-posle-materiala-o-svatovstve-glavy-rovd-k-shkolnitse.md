@@ -14,7 +14,7 @@ tags: "журналисты, кадыров, реакция властей, че
 \
  ^Уже бывший министр печати Чечни Шаид Жамалдаев / ТВ Вайнах
 
-Министра по делам печати и информации в правительстве Чечни Шаида Жамалдаева Рамзан Кадыров уволил в четверг, 7 мая, сразу после встречи с представителями СМИ республики на котором [обсуждалась](http://www.novayagazeta.ru/columns/68348.html) реакция чеченских СМИ на публикацию «Новой газеты».
+Министра по делам печати и информации в правительстве Чечни Шаида Жамалдаева Рамзан Кадыров уволил в четверг, 7 мая, сразу после встречи с представителями СМИ республики на котором [обсуждалась](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/68348.html) реакция чеченских СМИ на публикацию «Новой газеты».
 
 Рамзан Кадыров раскритиковал работу Шаида Жамалдаева в эфире телеканала «Вайнах», говоря в целом о низком качестве работы чеченских средств массовой информации.
 
@@ -26,8 +26,8 @@ tags: "журналисты, кадыров, реакция властей, че
 
 Затем Кадыров рассказал, что решил лично проверить факты, указанные в публикации «Новой газеты», и выяснил, что никакого конфликта между женихом и родителями невесты нет, а свадьба — состоится.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/columns/68304.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/04/30/1430395841_895387_8.png" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/columns/68304.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/68304.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/04/30/1430395841_895387_8.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/04/30/1430395841_895387_8.png)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/columns/68304.html" target="_blank"><strong>Глава чеченского РОВД захотел жениться: требуется помощь</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/columns/68304.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/68304.html)" target="_blank"><strong>Глава чеченского РОВД захотел жениться: требуется помощь</strong></a></p>]*
 
 Напомним, обозреватель «Новой газеты» Елена Милашина рассказала о том, что к ней обратились односельчане семьи Гойлабиевых с просьбой помешать неравному браку, против которого выступают родители школьницы.

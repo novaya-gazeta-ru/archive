@@ -27,4 +27,4 @@ tags: ""
 
 Недавно студентов «Вышки» [собирали](https://t.me/inside_hse/823) на лекцию «Война информационная и реальная: опыт СВО» от «военкора» телеканала «Спас» Андрея Афанасьева.
 
-**Больше — об индоктринации:** https://novayagazeta.ru/articles/2025/02/14/tema-rezonirovala-na-fone-nastroeniia-detskikh-ulybok
+**Больше — об индоктринации:** [«Тема резонировала на фоне настроения детских улыбок»](2025/02/14/tema-rezonirovala-na-fone-nastroeniia-detskikh-ulybok.md)

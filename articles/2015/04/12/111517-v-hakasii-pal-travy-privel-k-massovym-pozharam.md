@@ -21,6 +21,6 @@ tags: "пожары, хакасия"
 
 В результате пожаров, как [сообщает](http://www.interfax.ru/russia/435773) «Интерфакс», уже пострадали 58 человек.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/society/63796.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2014/05/28/1401282189_700388_33.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/society/63796.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/63796.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2014/05/28/1401282189_700388_33.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/05/28/1401282189_700388_33.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/society/63796.html" target="_blank"><strong>Пожара нет, но тушить его надо </strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/society/63796.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/63796.html)" target="_blank"><strong>Пожара нет, но тушить его надо </strong></a></p>]*

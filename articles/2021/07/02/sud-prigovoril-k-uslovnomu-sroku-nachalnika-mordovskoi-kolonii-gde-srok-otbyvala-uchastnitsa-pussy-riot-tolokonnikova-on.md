@@ -19,10 +19,10 @@ tags: "колонии, мордовия, толоконникова , pussy riot
 
 По версии следствия, в ноябре-декабре 2018 года Куприянов принуждал заключенных работать по ночам сверхурочно на швейном производстве.
 
-В декабре 2018 года СК по Мордовии [возбудил](https://www.novayagazeta.ru/news/2018/12/28/148016-sk-po-mordovii-vozbudil-delo-protiv-vrio-nachalnika-kolonii-gde-otbyvala-srok-tolokonnikova) уголовное дело о превышении должностных полномочий (ч. 1 ст. 286 УК) против временно исполняющего обязанности начальника ИК-14 Куприянова в связи с информацией об использовании рабского труда.
+В декабре 2018 года СК по Мордовии [возбудил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/12/28/148016-sk-po-mordovii-vozbudil-delo-protiv-vrio-nachalnika-kolonii-gde-otbyvala-srok-tolokonnikova) уголовное дело о превышении должностных полномочий (ч. 1 ст. 286 УК) против временно исполняющего обязанности начальника ИК-14 Куприянова в связи с информацией об использовании рабского труда.
 
-**Читайте также:** https://novayagazeta.ru/articles/2013/09/28/56562-advokat-nadezhdy-tolokonnikovoy-irina-hrunova-171-ey-na-golovu-vylivali-kashu-ona-stoyala-odna-protiv-pyatisot-chelovek-187
+**Читайте также:** [«Ей на голову выливали кашу, она стояла одна против пятисот человек»](2013/09/28/56562-advokat-nadezhdy-tolokonnikovoy-irina-hrunova-171-ey-na-golovu-vylivali-kashu-ona-stoyala-odna-protiv-pyatisot-che.md)
 
-О рабском труде в мордовской ИК-14 [рассказывала](https://www.novayagazeta.ru/news/2013/09/25/75014-zaschita-tolokonnikovoy-prosit-genprokuraturu-proverit-massovye-narusheniya-prav-zhenschin-v-kolonii-8470-14) участница Pussy Riot Надежда Толоконникова, которая в 2013 году отбывала наказание в этом исправительном учреждении. В ее жалобе говорилось, что бригады работали по 16 часов в день, иногда без выходных.
+О рабском труде в мордовской ИК-14 [рассказывала](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2013/09/25/75014-zaschita-tolokonnikovoy-prosit-genprokuraturu-proverit-massovye-narusheniya-prav-zhenschin-v-kolonii-8470-14) участница Pussy Riot Надежда Толоконникова, которая в 2013 году отбывала наказание в этом исправительном учреждении. В ее жалобе говорилось, что бригады работали по 16 часов в день, иногда без выходных.
 
 По ее словам, на производстве не было перерывов, из-за неисправного оборудования многие получали травмы, однако администрация колонии не предпринимала никакие меры.

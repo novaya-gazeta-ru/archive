@@ -21,4 +21,4 @@ tags: "лгбт, преследование, толерантность, как 
 >
 > ### [Castbox](https://castbox.fm/episode/id2805556-id437901131?) || [Soundcloud](https://soundcloud.com/novaya_gazeta/ty-izvrashchenets-zaboleesh-spidom-kak-v-rossii-lechat-gomoseksualnykh-lyudey-18?si=2791de1e3c2d427289613553b2806550) || [Vk](https://vk.com/podcast-6726778_456239721) || [Apple Podcasts](https://podcasts.apple.com/ru/podcast/%D1%87%D1%82%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE/id1510447025?i=1000540393974) || [Google Podcasts](https://podcasts.google.com/search/%D1%87%D1%82%D0%BE%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE) || [Яндекс.Музыка](https://music.yandex.ru/album/10572799) || [Spotify](https://open.spotify.com/episode/2rgn240QkgIeBlTuFHgVkN?si=5127aaae38dd4f48)
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/23/zhenshchiny-stonali-dergalis-rychali-18
+**Читайте также:** [«Женщины стонали, дергались, рычали» (18+)](2021/10/23/zhenshchiny-stonali-dergalis-rychali-18.md)

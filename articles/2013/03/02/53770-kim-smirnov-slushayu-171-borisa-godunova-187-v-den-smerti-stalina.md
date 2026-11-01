@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/03/02/1362222648_650432_90.jpg" style="width: 360px; height: 255px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/03/02/1362222648_650432_90.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/03/02/1362222648_650432_90.jpg)" style="width: 360px; height: 255px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -24,7 +24,7 @@ tags: ""
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/03/02/1362222648_932494_90.jpg" style="width: 360px; height: 264px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/03/02/1362222648_932494_90.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/03/02/1362222648_932494_90.jpg)" style="width: 360px; height: 264px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -32,7 +32,7 @@ tags: ""
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/03/02/1362222649_216938_56.jpg" style="width: 360px; height: 257px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/03/02/1362222649_216938_56.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/03/02/1362222649_216938_56.jpg)" style="width: 360px; height: 257px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -40,7 +40,7 @@ tags: ""
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/03/02/1362222654_384862_66.jpg" style="width: 360px; height: 188px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/03/02/1362222654_384862_66.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/03/02/1362222654_384862_66.jpg)" style="width: 360px; height: 188px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">

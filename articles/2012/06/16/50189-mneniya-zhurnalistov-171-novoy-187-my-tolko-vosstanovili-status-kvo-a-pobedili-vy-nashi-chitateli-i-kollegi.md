@@ -15,7 +15,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/06/16/1339857156_268854_25.jpg" style="width: 360px; height: 328px; "><br>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/06/16/1339857156_268854_25.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/06/16/1339857156_268854_25.jpg)" style="width: 360px; height: 328px; "><br>
 					<sup>13 июня Ольга Алленова («Ъ») инициировала пикет у</sup><br>
 					<sup>Следственного комитета. Поддержать нас вышли десятки коллег.</sup><br>
 					<sup>К черту &nbsp;лес. С нас — поляна</sup></p>

@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/11/28/1417192249_394201_97.jpg" style="width: 570px; height: 239px;"></td>
+			<td><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/11/28/1417192249_394201_97.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/11/28/1417192249_394201_97.jpg)" style="width: 570px; height: 239px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><span style="color:#A9A9A9;"><sup>ЕРА</sup></span></td>

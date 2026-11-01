@@ -19,12 +19,12 @@ tags: "минкульт, мединский"
 
 Министр культуры неоднократно резко высказывался в отношении людей, отрицающих подвиг панфиловцев.  В октябре он назвал таких людей «кончеными мразями». Мединский отмечал, что не нужно проверять, сколько панфиловцев было в действительности, поскольку их подвиг можно сравнить с подвигом 300 спартанцев. Даже если история выдумана, заявил министр, она стала «святой легендой», к «которой нельзя прикасаться».
 
-**link:** https://novayagazeta.ru/articles/2016/11/17/70568-pohozhe-na-gramotnuyu-voenno-istoricheskuyu-rekonstruktsiyu
+**link:** [https://novayagazeta.ru/articles/2016/11/17/70568-pohozhe-na-gramotnuyu-voenno-istoricheskuyu-rekonstruktsiyu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2016/11/17/70568-pohozhe-na-gramotnuyu-voenno-istoricheskuyu-rekonstruktsiyu)
 
-Пресс-секретарь президента Дмитрий Песков, комментируя слова Мединского, [сказал](https://www.novayagazeta.ru/news/2016/10/05/125471-v-kremle-prokommentirovali-slova-medinskogo-o-mrazyah), что «министр культуры в совершенстве владеет русским языком, который весьма многогранен». В Кремле также добавили, что «история в том или ином виде с героями-панфиловцами имела место».
+Пресс-секретарь президента Дмитрий Песков, комментируя слова Мединского, [сказал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2016/10/05/125471-v-kremle-prokommentirovali-slova-medinskogo-o-mrazyah), что «министр культуры в совершенстве владеет русским языком, который весьма многогранен». В Кремле также добавили, что «история в том или ином виде с героями-панфиловцами имела место».
 
 Речь идет об истории 28 панфиловцев, которые, обороняя Москву в 1941 году, уничтожили 18 немецких танков, но сами погибли. Сообщение об их подвиге впервые было опубликовано в газете «Красная звезда» в том же году.
 
-**link:** https://novayagazeta.ru/news/2016/11/25/126924-dissertatsiyu-medinskogo-izuchit-sovet-s-razoblachitelem-podviga-panfilovtsev
+**link:** [https://novayagazeta.ru/news/2016/11/25/126924-dissertatsiyu-medinskogo-izuchit-sovet-s-razoblachitelem-podviga-panfilovtsev](https://web.archive.org/web/*/https://novayagazeta.ru/news/2016/11/25/126924-dissertatsiyu-medinskogo-izuchit-sovet-s-razoblachitelem-podviga-panfilovtsev)
 
 В июле 2015 года российский Государственный архив опубликовал копию доклада главного военного прокурора СССР, в котором история называлась вымыслом журналистов. В марте текущего года глава архива ушел со своей должности.

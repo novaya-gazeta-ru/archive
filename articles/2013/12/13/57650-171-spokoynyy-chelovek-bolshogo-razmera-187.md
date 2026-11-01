@@ -16,7 +16,7 @@ tags: "суды"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/12/13/1386947753_357043_97.jpg" style="width: 340px; height: 227px;"><sup>Ален Воликов. Фото: КоммерсантЪ</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/12/13/1386947753_357043_97.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/12/13/1386947753_357043_97.jpg)" style="width: 340px; height: 227px;"><sup>Ален Воликов. Фото: КоммерсантЪ</sup></td>
 		</tr>
 	</tbody>]*
 

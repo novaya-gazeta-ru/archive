@@ -39,4 +39,4 @@ tags: ""
 
 **К. Арарат**
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/05/27/v-poiskakh-pamiati
+**Читайте также:** [В поисках памяти](2025/05/27/v-poiskakh-pamiati.md)

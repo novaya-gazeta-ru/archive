@@ -17,7 +17,7 @@ tags: "интернет, чиновники, украина, блокировк�
 
 Подробно о самом запрете на российские IT-компании на Украине, о технической возможности его исполнить и об эффекте санкций для компаний и для самих украинских граждан — читайте в подборке «Новой газеты».
 
-**link:** https://novayagazeta.ru/articles/2017/05/16/72454-poroshenko-zablokiroval-na-ukraine-rossiyskie-smi-sotsseti-i-it-kompanii
+**link:** [Порошенко заблокировал на Украине российские СМИ, соцсети и IT-компании (Обновлено)](2017/05/16/72454-poroshenko-zablokiroval-na-ukraine-rossiyskie-smi-sotsseti-i-it-kompanii.md)
 
 ### Комментарии
 

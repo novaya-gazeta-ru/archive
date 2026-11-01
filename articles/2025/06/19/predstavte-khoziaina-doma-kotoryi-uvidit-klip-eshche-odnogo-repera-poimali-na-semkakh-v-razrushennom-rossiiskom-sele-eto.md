@@ -29,8 +29,8 @@ tags: ""
 
 Весной разгорелся скандал вокруг поездки в Суджу Z-рэпера Акима Апачева: он нанес на стены домов в городе нецензурные граффити, в том числе с оскорблениями в адрес украинцев, назвав это «современным искусством». Жители Суджи возмутились в соцсетях, Апачев в ответ их оскорблял. После того, как в ситуацию вмешались власти, Апачев извинился на видео.
 
-В апреле Апачев [был оштрафован](https://novayagazeta.ru/articles/2025/04/10/z-repera-akima-apacheva-oshtrafovali-na-70-tysiach-rublei-za-maternye-graffiti-v-sudzhe-news) по статье о мелком хулиганстве. Его адвокат заявил, что рэпер обжаловать решение суда не будет и «сожалеет, что выбрал неверную лингвистическую формулировку». Позже его оштрафовали еще и за незаконный въезд в Суджу.
+В апреле Апачев [был оштрафован](2025/04/10/z-repera-akima-apacheva-oshtrafovali-na-70-tysiach-rublei-za-maternye-graffiti-v-sudzhe-news.md) по статье о мелком хулиганстве. Его адвокат заявил, что рэпер обжаловать решение суда не будет и «сожалеет, что выбрал неверную лингвистическую формулировку». Позже его оштрафовали еще и за незаконный въезд в Суджу.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/24/khinshtein-predlozhil-zhiteliam-kurskoi-oblasti-prostit-z-repera-apacheva-za-maternye-graffiti-v-sudzhi-no-bolshinstvo-otkazalos-news
+**Читайте также:** [Хинштейн предложил жителям Курской области простить Z-рэпера Апачева за матерные граффити в Судже. Но большинство отказалось](2025/03/24/khinshtein-predlozhil-zhiteliam-kurskoi-oblasti-prostit-z-repera-apacheva-za-maternye-graffiti-v-sudzhi-no-bolshinstvo-o.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/08/shtatushki-sarmatushki
+**Читайте также:** [Штатушки-сарматушки](2025/04/08/shtatushki-sarmatushki.md)

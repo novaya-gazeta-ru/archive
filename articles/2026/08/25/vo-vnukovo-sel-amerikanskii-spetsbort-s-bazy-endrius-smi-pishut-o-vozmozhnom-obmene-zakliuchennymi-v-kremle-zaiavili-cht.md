@@ -13,7 +13,7 @@ tags: "спецборт, внуково"
 
 > **Есть продолжение**
 >
-> ### [СМИ: директор ЦРУ Рэтклифф прибыл в Россию — впервые с начала СВО. Он был на переговорах в Анкоридже](https://novayagazeta.ru/articles/2026/08/25/direktor-tsru-pribyl-v-rossiiu-soobshchaet-korrespondent-cbs-news)
+> ### [СМИ: директор ЦРУ Рэтклифф прибыл в Россию — впервые с начала СВО. Он был на переговорах в Анкоридже](2026/08/25/direktor-tsru-pribyl-v-rossiiu-soobshchaet-korrespondent-cbs-news.md)
 
 ![](_assets/79/797e8dccce94e34e39ec7f976d300473.webp)
 

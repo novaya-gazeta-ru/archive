@@ -14,7 +14,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/12/12/1386845663_703076_20.png" style="width: 360px; height: 256px;"><sup>Второй день слушаний по делу Аксаны Пановой</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/12/12/1386845663_703076_20.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/12/12/1386845663_703076_20.png)" style="width: 360px; height: 256px;"><sup>Второй день слушаний по делу Аксаны Пановой</sup></td>
 		</tr>
 	</tbody>]*
 

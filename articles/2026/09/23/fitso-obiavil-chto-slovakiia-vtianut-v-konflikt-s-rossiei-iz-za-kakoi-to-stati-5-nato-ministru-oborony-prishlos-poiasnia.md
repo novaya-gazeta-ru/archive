@@ -31,4 +31,4 @@ tags: ""
 
 После возвращения Роберта Фицо к власти в 2023 году Словакия прекратила безвозмездные государственные поставки оружия Украине, сохранив коммерческий экспорт словацких производителей. Премьер неоднократно встречался с Владимиром Путиным и выступает против дальнейшей военной поддержки Киева и за восстановление экономического сотрудничества с Россией.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/19/ukraina-sozdala-karpatskuiu-vosmerku-s-serbiei-i-vengriei-kandidaty-v-chleny-es-budut-otstaivat-regionalnye-interesy-vmeste-s-evropeiskimi-sosediami-news
+**Читайте также:** [Украина создала «Карпатскую восьмерку» — с Сербией и Венгрией. Кандидаты в члены ЕС будут отстаивать региональные интересы вместе с европейскими соседями](2026/09/19/ukraina-sozdala-karpatskuiu-vosmerku-s-serbiei-i-vengriei-kandidaty-v-chleny-es-budut-otstaivat-regionalnye-interesy-vme.md)

@@ -43,6 +43,6 @@ tags: "ng, левада-центр, опросы, социология, нару
 
 Ответственность за это, несправедливое, по их мнению, поведение властей, они возлагают опять-таки на президента. Получается замкнутый круг», — подытожил Левинсон.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany
+**Читайте также:** [https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany)
 
 #### *внесен Минюстом РФ в реестр НКО, выполняющих функции иностранного агента

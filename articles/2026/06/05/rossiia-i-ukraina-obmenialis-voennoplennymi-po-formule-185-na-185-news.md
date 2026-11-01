@@ -13,7 +13,7 @@ tags: "обмен пленными, лантратова"
 
 > **Есть продолжение**
 >
-> ### [Путин «пока не видит смысла» встречаться с Зеленским. Вместо этого он призвал российских военных поднажать на СВО](https://novayagazeta.ru/articles/2026/06/05/putin-poka-ne-vidit-smysla-vstrechatsia-s-zelenskim-vmesto-etogo-on-prizval-rossiiskikh-voennykh-podnazhat-na-svo-news)
+> ### [Путин «пока не видит смысла» встречаться с Зеленским. Вместо этого он призвал российских военных поднажать на СВО](2026/06/05/putin-poka-ne-vidit-smysla-vstrechatsia-s-zelenskim-vmesto-etogo-on-prizval-rossiiskikh-voennykh-podnazhat-na-svo-news.md)
 
 Москва и Киев 5 июня провели очередной обмен пленными. Из украинского плена вернулись 185 военнослужащих, столько же российская сторона вернула Украине, [сообщила](https://www.kommersant.ru/doc/8725760?from=horisontal_lenta) пресс-служба Минобороны РФ.
 

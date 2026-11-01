@@ -15,7 +15,7 @@ tags: "звягинцев, кино, михалков, премия"
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/01/24/1422098432_494767_70.jpg" style="width: 340px; height: 255px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/01/24/1422098432_494767_70.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/01/24/1422098432_494767_70.jpg)" style="width: 340px; height: 255px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><img alt="" src="https://static.novayagazeta.ru/storage/c/2015/01/24/1422098424_028608_29.png" style="width: 340px; height: 262px;"></td>
@@ -46,9 +46,9 @@ tags: "звягинцев, кино, михалков, премия"
 
 А я вспомнила, как перед «орлиной» церемонией, на которой должны были чествовать фильм «12», заранее (!) были сделаны еще 12 золоченых статуэток, дабы вознаградить всех актеров легендарного михалковского фильма. «Солнечный удар» также отметили в номинациях **«За лучшую музыку»** (Эдуард Артемьев), **«Лучший художник по костюмам»** (Сергей Стручев), **«Лучший оператор»** (Владислав Опельянц), **«Художник-постановщик»** (Валентин Гидулянов).
 
-*[media: <p><span style="color:#B22222;"><strong><a href="http://www.novayagazeta.ru/arts/65656.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2014/10/11/1413037945_658365_83.png" style="width: 100px; height: 74px;"></a>Читайте также:</strong></span></p>
+*[media: <p><span style="color:#B22222;"><strong><a href="[http://www.novayagazeta.ru/arts/65656.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/arts/65656.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2014/10/11/1413037945_658365_83.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/10/11/1413037945_658365_83.png)" style="width: 100px; height: 74px;"></a>Читайте также:</strong></span></p>
 
-<p><a href="http://www.novayagazeta.ru/arts/65656.html" target="_blank"><strong>Ударенные солнцем. Дмитрий БЫКОВ посмотрел картину Михалкова в кинопрокате</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/arts/65656.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/arts/65656.html)" target="_blank"><strong>Ударенные солнцем. Дмитрий БЫКОВ посмотрел картину Михалкова в кинопрокате</strong></a></p>]*
 
 Непозволительно было бы забыть еще двух статусных кинематографистов. Андрона Кончаловского и Станислава Говорухина. Честно говоря, я предполагала, что Говорухина за его провальный Weekend порадуют наградой в категории «Лучший сценарий» (хотя история снята по мотивам триллера Луи Маля «Лифт на эшафот»), а Кончаловскому за «Белые ночи почтальона Тряпицына» дадут главную награду (в Венеции он получил приз за режиссуру). Но академики решили отметить Говорухина «Золотым орлом» **«За выдающийся вклад в развитие российского кинематографа»** . Значит, Кончаловскому остался приз « **За сценарий»** (написанный вместе с Еленой Киселевой). Хотя сильная сторона «…Тряпицына» — в ощущении жизни, собранной на монтажном столе на живую нитку.
 
@@ -60,6 +60,6 @@ tags: "звягинцев, кино, михалков, премия"
 
 …Вот и я тоже.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/arts/66267.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2014/11/26/1417011666_074519_53.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/arts/66267.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/arts/66267.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2014/11/26/1417011666_074519_53.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/11/26/1417011666_074519_53.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/arts/66267.html" target="_blank"><strong>«Золотой Орел» вылетел из доверия. Письмо вдовы Алексея Германа Светланы Кармалиты о побудительных мотивах отказа от премиальной номинации</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/arts/66267.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/arts/66267.html)" target="_blank"><strong>«Золотой Орел» вылетел из доверия. Письмо вдовы Алексея Германа Светланы Кармалиты о побудительных мотивах отказа от премиальной номинации</strong></a></p>]*

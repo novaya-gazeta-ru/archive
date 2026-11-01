@@ -17,6 +17,6 @@ tags: "митинги, активисты, мусор, коломна, ek"
 
 По мнению Эйсмонт, такое наказание необходимо, чтобы исключить Егорова из общественно-политической повестки Коломны. Само дело еще расследуется, срок следствия продлен до середины осени, [добавляет](https://zona.media/news/2019/07/30/egorov) «Медиазона».
 
-**link:** https://novayagazeta.ru/articles/2019/01/31/79383-vzbesivshiysya-musor
+**link:** [Взбесившийся мусор](2019/01/31/79383-vzbesivshiysya-musor.md)
 
-Вячеслава Егорова отправили под домашний арест в январе этого года, «Мемориал» [признал](https://www.novayagazeta.ru/news/2019/02/21/149425-memorial-priznal-politzaklyuchennym-kolomenskogo-aktivista-vystupavshego-protiv-musornogo-poligona-ego-obvinili-v-neodnokratnom-narushenii-poryadka-provedeniya-mitingov) его преследование политически мотивированным. Мужчина был одним из лидеров протеста против мусорного полигона «Воловичи».
+Вячеслава Егорова отправили под домашний арест в январе этого года, «Мемориал» [признал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/02/21/149425-memorial-priznal-politzaklyuchennym-kolomenskogo-aktivista-vystupavshego-protiv-musornogo-poligona-ego-obvinili-v-neodnokratnom-narushenii-poryadka-provedeniya-mitingov) его преследование политически мотивированным. Мужчина был одним из лидеров протеста против мусорного полигона «Воловичи».

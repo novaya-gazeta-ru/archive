@@ -67,7 +67,7 @@ tags: "музыка, рок, арт рок, бг, борис гребенщик�
 >  — «Down On The Clown»\
 >  — «Hawaii»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/07/14/rodina-vernis-domoi-media
+**Читайте также:** [«Родина, вернись домой»](2023/07/14/rodina-vernis-domoi-media.md)
 
 ![](_assets/f3/f3e41e13c137477fab8cb16f307f645d.webp)
 
@@ -120,4 +120,4 @@ tags: "музыка, рок, арт рок, бг, борис гребенщик�
 
 #### * Внесен властями РФ в реестр «иноагентов»
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/08/31/afrikanskie-postantsy-zabytyi-iazyk-i-cherepashki-nindzia
+**Читайте также:** [Африканские повстанцы, забытый язык и черепашки-ниндзя](2023/08/31/afrikanskie-postantsy-zabytyi-iazyk-i-cherepashki-nindzia.md)

@@ -23,4 +23,4 @@ tags: ""
 
 В 11:30 Березовский предупредил о «возможной» повторной атаке беспилотников.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/19/ataki-ukrainskikh-dronov-stali-zaderzhivat-dvizhenie-poezdov-v-rossii-news
+**Читайте также:** [Атаки украинских дронов стали задерживать движение поездов в России](2025/07/19/ataki-ukrainskikh-dronov-stali-zaderzhivat-dvizhenie-poezdov-v-rossii-news.md)

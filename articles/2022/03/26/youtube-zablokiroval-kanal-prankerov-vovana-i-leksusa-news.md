@@ -27,6 +27,6 @@ tags: "Вован, Лексус, пранкер, youtube, ep"
  \
  «Мы призываем YouTube помочь нам поддержать Украину, удалив видеоролики, сфабрикованные российским государством и распространяемые с целью подорвать боевой дух людей, борющихся за свою свободу», — сказано в заявлении министерства.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/12/youtube-bez-registratsii-i-sms
+**Читайте также:** [YouTube без регистрации и СМС](2022/03/12/youtube-bez-registratsii-i-sms.md)
 
-Ранее YouTube объявил о блокировке аккаунтов российских СМИ, финансируемых государством. После этого Роскомнадзор [потребовал](https://novayagazeta.ru/articles/2022/02/27/rkn-potreboval-ot-google-sniat-ogranicheniia-s-youtube-kanalov-rossiiskikh-gos-smi-eto-mozhet-privesti-k-zamedleniiu-servisa-news) от компании Google, которой принадлежит видеохостинг, снять ограничения с каналов «Звезда», Sputnik и РБК.
+Ранее YouTube объявил о блокировке аккаунтов российских СМИ, финансируемых государством. После этого Роскомнадзор [потребовал](2022/02/27/rkn-potreboval-ot-google-sniat-ogranicheniia-s-youtube-kanalov-rossiiskikh-gos-smi-eto-mozhet-privesti-k-zamedleniiu-ser.md) от компании Google, которой принадлежит видеохостинг, снять ограничения с каналов «Звезда», Sputnik и РБК.

@@ -22,7 +22,7 @@ tags: "russia; explained, kadyrov, newsletter"
 
 # **Novaya’s Elena Milashina Forced to Leave Russia**
 
-You may remember that [last week’s edition of Russia, Explained](https://novayagazeta.ru/articles/2022/02/01/russia-explained) featured reporting on Head of Chechnya Ramzan Kadyrov’s vendetta against the family of former judge Saidi Yangulbayev by our correspondent, Elena Milashina. Following those reports, Kadyrov made several personal threats against her, branding her a “terrorist”. A powerful Russian official has also been attacking Novaya as a whole, demanding that a criminal case be opened against us. Because of this, our editorial team made the decision to send Milashina abroad for her own safety. You can read our full statement on the decision [here](https://novayagazeta.ru/articles/2022/02/03/elena-milashina-pokidaet-rossiiskuiu-federatsiiu). Before her departure, Milashina came on our podcast “*What’s New?” *to discuss her perspective on what’s happening in Chechnya, as well as the fate of Yangulbayev’s wife, Zarema Musayeva, who was detained and forcibly returned to the republic. We highlight some of Milashina’s most powerful quotes from the episode.
+You may remember that [last week’s edition of Russia, Explained](2022/02/01/russia-explained.md) featured reporting on Head of Chechnya Ramzan Kadyrov’s vendetta against the family of former judge Saidi Yangulbayev by our correspondent, Elena Milashina. Following those reports, Kadyrov made several personal threats against her, branding her a “terrorist”. A powerful Russian official has also been attacking Novaya as a whole, demanding that a criminal case be opened against us. Because of this, our editorial team made the decision to send Milashina abroad for her own safety. You can read our full statement on the decision [here](2022/02/03/elena-milashina-pokidaet-rossiiskuiu-federatsiiu.md). Before her departure, Milashina came on our podcast “*What’s New?” *to discuss her perspective on what’s happening in Chechnya, as well as the fate of Yangulbayev’s wife, Zarema Musayeva, who was detained and forcibly returned to the republic. We highlight some of Milashina’s most powerful quotes from the episode.
 
 ![](_assets/08/082c0bb6cdb37c512e0ba68abc3db1e2.webp)
 
@@ -54,7 +54,7 @@ She adds that the Kremlin’s disregard for violations committed by the Chechen 
 
 **BACKSTORY. **Ramzan Kadyrov has been the Head of the Chechen Republic since 2007 and has gained a reputation for ruthlessness and political repression. He is the son of former Chechen President Akhmed Kadyrov, who was assassinated in 2004. He is a staunch supporter of President Putin, while also building his own power base and personality cult. He is considered by many as the second most powerful politician in the Russian Federation, and has frequently styled himself as the representative of the country’s some 20 million Muslim citizens. Many of those who have dared to oppose him have ended up in prison or murdered. He is, for example, widely believed to be behind the murder of human rights campaigner Natalia Estemirova in 2009. He has also presided over the systematic persecution of LGBTQ+ people in Chechnya, infamously claiming that the republic has “no gay people.”
 
-**You can listen to Milashina’s podcast interview in full **[**here**](https://novayagazeta.ru/articles/2022/02/04/elena-milashina-uezzhaet-iz-rossii-i-obiasniaet-pochemu-kadyrovu-mozhno-vse)**.**
+**You can listen to Milashina’s podcast interview in full **[**here**](2022/02/04/elena-milashina-uezzhaet-iz-rossii-i-obiasniaet-pochemu-kadyrovu-mozhno-vse.md)**.**
 
 # Far Eastern Hectare Scam, Explained
 
@@ -74,15 +74,15 @@ The Russian Government launched the Far Eastern Hectare scheme with much fanfare
 
 **BACKSTORY. **Russia’s colonial designs on the Far East are centuries old. From Ivan the Terrible to Joseph Stalin, its rulers have expanded eastward, disregarding the local indigenous populations to extract natural resources, build vast prison systems, and assert Moscow’s authority. President Putin, who has made developing the region one of his top priorities, is part of this long imperial tradition. After the Soviet Union’s collapse, thousands abandoned the region for the economic opportunities of Russia’s Western regions. The Far Eastern Federal District accounts for 41% of Russia’s landmass, but just 6% of its population. It loses 17,000 inhabitants a year on average. The Far Eastern Hectare is a — so far not very successful — bid to change that.
 
-**Read Fedorenko’s full report **[**here**](https://novayagazeta.ru/articles/2022/02/02/polakomitsia-gektarom)**.**
+**Read Fedorenko’s full report **[**here**](2022/02/02/polakomitsia-gektarom.md)**.**
 
 # **How Irkutsk Became Russia’s Crypto Capital**
 
-In the last few years, cryptocurrencies have never been far from the headlines. Last month, Russia’s Central Bank proposed banning the use, and mining, of any cryptocurrency, citing threats to financial stability, citizens' wellbeing and its monetary policy sovereignty. It’s no wonder they are concerned: [Russia is the world’s third largest source of mines](https://novayagazeta.ru/articles/2021/04/07/russia-explained) following China and the United States. Our special correspondent Irek Murtazin flew to Irkutsk to visit a crypto mine, and to find out why this region has become a “crypto-klondike”.
+In the last few years, cryptocurrencies have never been far from the headlines. Last month, Russia’s Central Bank proposed banning the use, and mining, of any cryptocurrency, citing threats to financial stability, citizens' wellbeing and its monetary policy sovereignty. It’s no wonder they are concerned: [Russia is the world’s third largest source of mines](2021/04/07/russia-explained.md) following China and the United States. Our special correspondent Irek Murtazin flew to Irkutsk to visit a crypto mine, and to find out why this region has become a “crypto-klondike”.
 
 **WHAT IS CRYPTO MINING?** Put simply, crypto mining is the process of generating new units of a cryptocurrency. Cryptocurrencies luse distributed public ledgers to record all financial transactions. The ledger is public so each record needs to be validated in order to prevent fraudulent transactions. Validation involves solving a complex mathematical problem. A network of computers compete to solve the problem. The computer (miner) that solves the problem first earns the right to post the transaction in the ledger and gets a financial reward, typically paid in cryptocurrency.
 
-**WHY IRKUTSK?** The process described above takes energy — lots of it. The computers require large amounts of electricity to perform the operation which, in turn, produces large amounts of heat. The need to cool them down leads to even greater energy consumption. For example, a Russian-controlled crypto mining [broke the energy grid in Abkhazia](https://novayagazeta.ru/articles/2021/04/07/russia-explained), a Russia-controlled breakaway region of Georgia. So no surprise that few countries welcome the miners. In 2021, China banned crypto mining and much of the equipment made its way over the Russian border — most of it ended up in Irkutsk Oblast. It’s little wonder that the heart of Russia’s famously chilly Siberia — with its cheap electricity tariffs — is attractive to those who want to get rich on crypto mining.
+**WHY IRKUTSK?** The process described above takes energy — lots of it. The computers require large amounts of electricity to perform the operation which, in turn, produces large amounts of heat. The need to cool them down leads to even greater energy consumption. For example, a Russian-controlled crypto mining [broke the energy grid in Abkhazia](2021/04/07/russia-explained.md), a Russia-controlled breakaway region of Georgia. So no surprise that few countries welcome the miners. In 2021, China banned crypto mining and much of the equipment made its way over the Russian border — most of it ended up in Irkutsk Oblast. It’s little wonder that the heart of Russia’s famously chilly Siberia — with its cheap electricity tariffs — is attractive to those who want to get rich on crypto mining.
 
 **TIME TO PANIC?** Regional authorities sounded the alarm last autumn, with governor Igor Kobzev writing a letter to Russian Deputy Prime Minister Alexander Novak, reporting that energy consumption in the region had increased by 159 percent compared to 2020 due to crypto mining. "They shamelessly take advantage of the fact that we have low electricity tariffs in the region”, wrote Kobzev, suggesting introducing differentiated electricity tariffs for the population.
 
@@ -98,11 +98,11 @@ Aleksei Zhemchuzhnikov, a member of Irkutsk’s public chamber, shares this view
 
 **BACKSTORY. **Cryptocurrencies have been recognised in Russian law since 2020, but they operate in a legal grey zone. They have been permitted in Russia since January 2021 — but cannot be used to purchase goods and services. This means Russians can mine, trade and hold cryptocurrencies — but using them is illegal. While the idea of recognising crypto mining as a legitimate business activity has been gaining traction in some quarters, the Central Bank continues to oppose the free circulation of cryptocurrencies in the Russian economy.
 
-**Read Murtazin’s full report **[**here**](https://novayagazeta.ru/articles/2021/12/28/maining-kampf)**.**
+**Read Murtazin’s full report **[**here**](2021/12/28/maining-kampf.md)**.**
 
 # **Bonus Round**
 
-### 2.4 million people died in Russia in 2021 — 1 out of 4 of these deaths was a result of Covid-19. [Antonia Asanova](https://novayagazeta.ru/articles/2022/02/03/ubyl-molodetskaia) breaks down the data on Russia’s plummeting population
+### 2.4 million people died in Russia in 2021 — 1 out of 4 of these deaths was a result of Covid-19. [Antonia Asanova](2022/02/03/ubyl-molodetskaia.md) breaks down the data on Russia’s plummeting population
 
 ### **How has the population of Russia changed**
 
@@ -114,6 +114,6 @@ The shocking statistics represent the greatest decline in the country’s popula
 >
 > This newsletter drop is written and edited by several journalists at the Novaya Gazeta newsroom. Please, support our work by promoting our newsletter with *#RussiaExplained* hashtag on social media.
 >
-> To keep up with Novaya Gazeta’s reporting throughout the week, you can follow us on [Facebook](https://www.facebook.com/novgaz/), [Twitter](https://twitter.com/novaya_gazeta), [Instagram](https://www.instagram.com/novayagazeta/), and [Telegram](https://t.me/novaya_pishet). Our video content is available on [Youtube](https://www.youtube.com/user/novayagazeta) and don’t forget to visit our [website](https://www.novayagazeta.ru/) for the latest stories in Russian.
+> To keep up with Novaya Gazeta’s reporting throughout the week, you can follow us on [Facebook](https://www.facebook.com/novgaz/), [Twitter](https://twitter.com/novaya_gazeta), [Instagram](https://www.instagram.com/novayagazeta/), and [Telegram](https://t.me/novaya_pishet). Our video content is available on [Youtube](https://www.youtube.com/user/novayagazeta) and don’t forget to visit our [website](https://web.archive.org/web/*/https://www.novayagazeta.ru/) for the latest stories in Russian.
 >
 > *The Novaya Gazeta Team*

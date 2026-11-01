@@ -39,7 +39,7 @@ tags: "украина, театр, рефлексия"
 
 После армии я понял: все, что там происходило, потом выходит наружу, в обычную жизнь. Надо никогда не забывать, что это все выходит наружу. Никогда не забывать: это те же люди, других не будет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/20/khvatit-smertei-khvatit-zloby-khvatit-krovi-vsego-etogo-khvatit-i-nam-i-nashim-detiam
+**Читайте также:** [«Хватит смертей, хватит злобы, хватит крови, всего этого хватит и нам, и нашим детям»](2022/03/20/khvatit-smertei-khvatit-zloby-khvatit-krovi-vsego-etogo-khvatit-i-nam-i-nashim-detiam.md)
 
 # **Я был в армии два года**
 
@@ -63,7 +63,7 @@ tags: "украина, театр, рефлексия"
 
 Но для всех таких случаев, когда обсуждается эта дребедень телевизионная, «Раша Тудей» и прочее, у меня есть фраза того же Борхеса — «Гнев столь омерзительного человека равен похвале».
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/19/kogda-nachinaetsia-vremia-mnogie-kollegi-vykliuchaiut-zvuk
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/19/kogda-nachinaetsia-vremia-mnogie-kollegi-vykliuchaiut-zvuk](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/19/kogda-nachinaetsia-vremia-mnogie-kollegi-vykliuchaiut-zvuk)
 
 # **Я хожу в каком-то смысле, опустив глаза**
 

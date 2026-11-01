@@ -17,10 +17,10 @@ tags: "коронавирус, корона, ковид, статистика, a
 
 За сутки от COVID-19 в стране скончались 1217 человек. За все время пандемии инфекция унесла более 278 тысяч жизней.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/02/naskolko-strashen-omikron
+**Читайте также:** [Насколько страшен омикрон?](2021/12/02/naskolko-strashen-omikron.md)
 
 Сегодня в Индии [выявили](https://www.bbc.com/news/world-asia-india-59472675) первый случай заражения новым штаммом коронавируса «омикрон». Вирус выявили у двух людей, один из них не совершал поездок за границу. Сообщается, что оба пациента переносят болезнь в легкой форме.
 
-Накануне глава Еврокомиссии Урсула фон дер Ляйен [предложила](https://novayagazeta.ru/articles/2021/12/01/glava-evrokomissii-predlozhila-vvesti-obiazatelnuiu-vaktsinatsiiu-vo-vsem-es-na-fone-rasprostraneniia-shtamma-omikron-news) Евросоюзу обсудить вопрос введения обязательной вакцинации на всей территории содружества из-за распространения нового варианта COVID-19. Власти Греции уже [ввели](https://novayagazeta.ru/articles/2021/12/01/v-gretsii-vveli-ezhemesiachnye-shtrafy-v-100-evro-dlia-liudei-starshe-60-let-kotorye-otkazyvaiutsia-ot-vaktsinatsii-news) штрафы в размере 100 евро для людей старше 60 лет, которые отказываются делать прививку.
+Накануне глава Еврокомиссии Урсула фон дер Ляйен [предложила](2021/12/01/glava-evrokomissii-predlozhila-vvesti-obiazatelnuiu-vaktsinatsiiu-vo-vsem-es-na-fone-rasprostraneniia-shtamma-omikron-ne.md) Евросоюзу обсудить вопрос введения обязательной вакцинации на всей территории содружества из-за распространения нового варианта COVID-19. Власти Греции уже [ввели](2021/12/01/v-gretsii-vveli-ezhemesiachnye-shtrafy-v-100-evro-dlia-liudei-starshe-60-let-kotorye-otkazyvaiutsia-ot-vaktsinatsii-news.md) штрафы в размере 100 евро для людей старше 60 лет, которые отказываются делать прививку.
 
-Многие страны ограничили авиасообщение с южноафриканскими государствами, а Израиль и Марокко полностью [закрыли](https://novayagazeta.ru/articles/2021/11/28/izrail-pervym-polnostiu-zakryl-granitsy-iz-za-novogo-shtamma-koronavirusa-omikron-news) границы в попытке сдержать «омикрон».
+Многие страны ограничили авиасообщение с южноафриканскими государствами, а Израиль и Марокко полностью [закрыли](2021/11/28/izrail-pervym-polnostiu-zakryl-granitsy-iz-za-novogo-shtamma-koronavirusa-omikron-news.md) границы в попытке сдержать «омикрон».

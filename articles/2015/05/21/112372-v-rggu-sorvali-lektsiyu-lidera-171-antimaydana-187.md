@@ -17,9 +17,9 @@ tags: "антимайдан, пропаганда, студенты"
 
 По словам одного из присутствовавших, после того, как студентам включили видео «из разряда тех, которое было призвано раскрыть глаза по поводу того, кто на самом деле стоит за всеми революциями», слушатели осудили Старикова за пропаганду и с криками «Позор!» покинули аудиторию. Профессор РГГУ Константин Ерусалимский открыто возразил Старикову, обвинив его в антинаучной и политизированной позиции.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/politics/67341.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/02/19/1424362191_431411_4.png" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/politics/67341.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/67341.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/02/19/1424362191_431411_4.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/02/19/1424362191_431411_4.png)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/politics/67341.html" target="_blank"><strong>«Антимайдан» собирает массовку</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/politics/67341.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/67341.html)" target="_blank"><strong>«Антимайдан» собирает массовку</strong></a></p>]*
 
 «Большое спасибо, что вы нам показали конкретное пособие по организации Майдана», — прокомментировал акцию протеста сам лектор.
 

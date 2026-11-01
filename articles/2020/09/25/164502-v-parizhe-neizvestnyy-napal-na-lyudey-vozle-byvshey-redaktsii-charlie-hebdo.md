@@ -33,4 +33,4 @@ tags: "париж, nt"
 
 При этом редакция Charlie не находится по этому адресу с момента теракта, произошедшего 7 января 2015 года. Расположение нового помещения Charlie Hebdo хранится в строжайшей тайне, редакция тщательно охраняется.
 
-**link:** https://novayagazeta.ru/articles/2020/09/03/86940-prizrak-frantsuzskogo-dzhihada
+**link:** [Призрак французского джихада](2020/09/03/86940-prizrak-frantsuzskogo-dzhihada.md)

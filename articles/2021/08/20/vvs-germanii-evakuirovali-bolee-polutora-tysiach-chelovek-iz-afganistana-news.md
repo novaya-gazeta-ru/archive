@@ -21,6 +21,6 @@ tags: "талибан, самолеты, германия, sn"
 
 Люди цеплялись за улетающие самолеты НАТО и срывались вниз, и американские войска, и талибы стреляли в воздух, чтобы разогнать толпу. По [данным](https://www.reuters.com/world/asia-pacific/taliban-urge-people-leave-airport-afghan-capital-after-12-killed-since-sunday-2021-08-19/) Reuters, в результате этого коллапса погибли по меньшей мере 12 человек.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/16/ne-letiat-shuravi
+**Читайте также:** [Не летят шурави](2021/08/16/ne-letiat-shuravi.md)
 
 #### *Движение признано террористическим и запрещено в РФ

@@ -20,9 +20,9 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/01/13/1358058368_250170_64.jpg" style="width: 360px; height: 270px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/01/13/1358058368_250170_64.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/01/13/1358058368_250170_64.jpg)" style="width: 360px; height: 270px; "></td>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/01/13/1358058376_242682_70.jpg" style="width: 202px; height: 270px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/01/13/1358058376_242682_70.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/01/13/1358058376_242682_70.jpg)" style="width: 202px; height: 270px; "></td>
 		</tr>
 		<tr>
 			<td>
@@ -41,7 +41,7 @@ _Из блога Уэйли, 3 января 2013 года: _«Наша мечт
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/01/13/1358058955_965708_51.jpg" style="width: 200px; height: 264px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/01/13/1358058955_965708_51.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/01/13/1358058955_965708_51.jpg)" style="width: 200px; height: 264px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -60,7 +60,7 @@ _Из блога Уэйли, 3 января 2013 года: _«Наша мечт
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" height="254" src="http://www.novayagazeta.ru/storage/c/2013/01/13/1358059145_618492_79.jpg" width="200"></td>
+				<img alt="" height="254" src="[http://www.novayagazeta.ru/storage/c/2013/01/13/1358059145_618492_79.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/01/13/1358059145_618492_79.jpg)" width="200"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -79,7 +79,7 @@ _Из блога Мойеров, 26 ноября 2012 года: _«Мы вст�
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/01/13/1358059677_090331_32.jpg" style="width: 300px; height: 225px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/01/13/1358059677_090331_32.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/01/13/1358059677_090331_32.jpg)" style="width: 300px; height: 225px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -100,7 +100,7 @@ _Из интервью Билла Дейча РИА «Новости»: _«Я �
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/01/13/1358059833_565121_70.jpg" style="width: 565px; height: 318px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/01/13/1358059833_565121_70.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/01/13/1358059833_565121_70.jpg)" style="width: 565px; height: 318px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -108,7 +108,7 @@ _Из интервью Билла Дейча РИА «Новости»: _«Я �
 		</tr>
 	</tbody>]*
 
-Прощаясь с 5-летней Полиной во время последнего визита накануне принятия закона, Кендра Скеггс из Арканзаса не выдержала и расплакалась. «Не плачь, мама, будь сильной», — сказала девочка. Подробнее о семье — [в выпуске «Новой» от 9 января](http://www.novayagazeta.ru/society/56161.html).
+Прощаясь с 5-летней Полиной во время последнего визита накануне принятия закона, Кендра Скеггс из Арканзаса не выдержала и расплакалась. «Не плачь, мама, будь сильной», — сказала девочка. Подробнее о семье — [в выпуске «Новой» от 9 января](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/56161.html).
 
 *[media: <tbody>
 		<tr>
@@ -149,6 +149,6 @@ ___
 
 **Читайте также:**
 
-[Адам и Джоди Хьюн: «Не можем представить, как судья говорит «Нет»](http://www.novayagazeta.ru/society/56212.html)
+[Адам и Джоди Хьюн: «Не можем представить, как судья говорит «Нет»](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/56212.html)
 
-[Американцы ждут суда в Москве. Отдадут ли им сына?](http://www.novayagazeta.ru/society/56212.html)
+[Американцы ждут суда в Москве. Отдадут ли им сына?](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/56212.html)

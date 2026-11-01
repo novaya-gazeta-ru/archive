@@ -13,7 +13,7 @@ tags: ""
 
 *В Москве ввели режим контртеррористической операции*
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/06/23/evgenii-prigozhin-vzbuntovalsia-protiv-rossiiskoi-armii-vozbuzhdeno-ugolovnoe-delo
+**Читайте также:** [«Мятеж» Пригожина 23—24 июня: хроника](2023/06/23/evgenii-prigozhin-vzbuntovalsia-protiv-rossiiskoi-armii-vozbuzhdeno-ugolovnoe-delo.md)
 
 В Москве, Подмосковье и Воронежской области ввели режим контртеррористической операции. Что это такое и как себя вести?
 

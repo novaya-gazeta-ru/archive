@@ -27,7 +27,7 @@ tags: ""
 
 Ветер не направлял дым и взвесь в сторону города. А нефть в танкере выгорала, а не выливалась в море — по крайней мере пока, следует из официальных заявлений.
 
-Напомним, 6 октября у берегов Сочи [был атакован](https://novayagazeta.ru/articles/2026/10/06/smog-ot-goriashchego-tankera-bystro-doshel-sochi-vlasti-goroda-zakryli-pliazhi-news) украинскими безэкипажными катерами средней нефтетанкер Aframax Rio с индийским экипажем. Пожар был огромным, его было видно из любой точки побережья. В первые часы власти Сириуса и Сочи [закрыли пляжи](https://novayagazeta.ru/articles/2026/10/07/u-beregov-sochi-prodolzhaet-goret-neftenalivnoi-tanker-ego-gruzopodemnost-v-20-raz-bolshe-tankerov-zagriaznivshikh-anapskoe-poberezhe-news), вход к ним обнесли предупредительными лентами. Пострадавших среди команды нет.
+Напомним, 6 октября у берегов Сочи [был атакован](2026/10/06/smog-ot-goriashchego-tankera-bystro-doshel-sochi-vlasti-goroda-zakryli-pliazhi-news.md) украинскими безэкипажными катерами средней нефтетанкер Aframax Rio с индийским экипажем. Пожар был огромным, его было видно из любой точки побережья. В первые часы власти Сириуса и Сочи [закрыли пляжи](2026/10/07/u-beregov-sochi-prodolzhaet-goret-neftenalivnoi-tanker-ego-gruzopodemnost-v-20-raz-bolshe-tankerov-zagriaznivshikh-anaps.md), вход к ним обнесли предупредительными лентами. Пострадавших среди команды нет.
 
 Танкер шел из Новороссийска в Индию с полным грузом сырой нефти, ее количество было в 20 раз большем, чем в каждом из двух танкеров «Волгонефти», надолго загрязнивших мазутом побережье Анапы в 2024-2026 годах.
 

@@ -33,4 +33,4 @@ tags: ""
 
 Задержанный ранее судим.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/27/na-sotrudnikov-voenchasti-v-primore-zaveli-delo-oni-rekrutirovali-asotsialnykh-liudei-v-shturmoviki-na-svo-i-fiktivno-zhenili-ikh-chtoby-poluchit-grobovye-news
+**Читайте также:** [На сотрудников военчасти в Приморье завели дело: они рекрутировали асоциальных людей в штурмовики на СВО и фиктивно женили их, чтобы получить гробовые](2025/03/27/na-sotrudnikov-voenchasti-v-primore-zaveli-delo-oni-rekrutirovali-asotsialnykh-liudei-v-shturmoviki-na-svo-i-fiktivno-zh.md)

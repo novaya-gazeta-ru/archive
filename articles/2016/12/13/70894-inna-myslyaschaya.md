@@ -25,4 +25,4 @@ tags: "память"
 
 Ваша «Новая газета».
 
-**link:** https://novayagazeta.ru/articles/2016/05/04/68476-inna-pavlovna-koroleva-slov
+**link:** [Инна Павловна, королева слов](2016/05/04/68476-inna-pavlovna-koroleva-slov.md)

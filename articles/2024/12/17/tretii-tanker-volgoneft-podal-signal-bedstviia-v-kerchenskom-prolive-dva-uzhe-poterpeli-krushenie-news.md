@@ -19,6 +19,6 @@ tags: ""
 
 В ГУ МЧС России по Краснодарскому краю уточнили, что сейчас танкер находится на якорной стоянке, ситуация не критичная.
 
-15 декабря в Керченском проливе [потерпели крушение](https://novayagazeta.ru/articles/2024/12/16/iz-razlomannogo-vysokoi-volnoi-starogo-rossiiskogo-tankera-v-kerchenskom-prolive-vytekaiut-tysiachi-tonn-mazuta-news) два танкера «Волгонефть» с нефтепродуктами: один из кораблей разломился пополам. Один моряк погиб, 11 пострадали.
+15 декабря в Керченском проливе [потерпели крушение](2024/12/16/iz-razlomannogo-vysokoi-volnoi-starogo-rossiiskogo-tankera-v-kerchenskom-prolive-vytekaiut-tysiachi-tonn-mazuta-news.md) два танкера «Волгонефть» с нефтепродуктами: один из кораблей разломился пополам. Один моряк погиб, 11 пострадали.
 
-По [оценкам экспертов](https://novayagazeta.ru/articles/2024/12/17/poberezhe-chernogo-moria-v-krasnodarskom-krae-pokrylo-mazutom-s-poterpevshikh-krushenie-tankerov-news) из РАН, из каждого танкера вытекло по 1,5 тысячи тонн мазута. Пятна нефтепродуктов вынесло на берег в Краснодарском крае. Очевидцы публикуют видео, на котором видны полностью залитый мазутом пляж «Жемчужина России» и испачканные птицы.
+По [оценкам экспертов](2024/12/17/poberezhe-chernogo-moria-v-krasnodarskom-krae-pokrylo-mazutom-s-poterpevshikh-krushenie-tankerov-news.md) из РАН, из каждого танкера вытекло по 1,5 тысячи тонн мазута. Пятна нефтепродуктов вынесло на берег в Краснодарском крае. Очевидцы публикуют видео, на котором видны полностью залитый мазутом пляж «Жемчужина России» и испачканные птицы.

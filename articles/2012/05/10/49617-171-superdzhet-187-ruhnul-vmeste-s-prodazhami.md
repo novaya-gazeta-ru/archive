@@ -17,7 +17,7 @@ tags: ""
 		<tr>
 			<td>
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/10/1336656810_915919_59.jpg" style="width: 280px; height: 210px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/10/1336656810_915919_59.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/10/1336656810_915919_59.jpg)" style="width: 280px; height: 210px; "></p>
 				<p class="g-justify-right">
 					<sup>Индонезия. Место крушения «Суперджета». Фото: EPA</sup></p>
 			</td>

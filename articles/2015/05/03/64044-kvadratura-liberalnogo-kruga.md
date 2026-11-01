@@ -33,9 +33,9 @@ tags: "левые, права человека, сталин, удальцов, 
 
 Никакого.
 
-**link:** https://novayagazeta.ru/comments/64585.html
+**link:** [https://novayagazeta.ru/comments/64585.html](https://web.archive.org/web/*/https://novayagazeta.ru/comments/64585.html)
 
-**link:** https://novayagazeta.ru/comments/64585.html
+**link:** [https://novayagazeta.ru/comments/64585.html](https://web.archive.org/web/*/https://novayagazeta.ru/comments/64585.html)
 
 Для безопасности и стабильности общества нет ничего важнее, чем ясные и честные правила игры. Ярое беззаконие, допущенное против «левых» теми, кто называет себя «рыночниками» (а сажали Удальцова и Развозжаева, в конечном счете, бенефициары воровства, происходившего именно под либеральными лозунгами), — непременно отзовется возвращением исторического маятника!
 

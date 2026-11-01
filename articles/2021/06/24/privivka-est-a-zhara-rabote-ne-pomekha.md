@@ -59,4 +59,4 @@ tags: "мигранты, жара, трудовое рабство, москва
 
 Кого-то из мигрантов сотрудникам «Тонг Жахони» удается спасти. Кто-то оказывается слишком далеко.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/10/rabskii-trud-migrantofobiia-vizovyi-rezhim
+**Читайте также:** [Рабский труд, мигрантофобия, визовый режим](2021/03/10/rabskii-trud-migrantofobiia-vizovyi-rezhim.md)

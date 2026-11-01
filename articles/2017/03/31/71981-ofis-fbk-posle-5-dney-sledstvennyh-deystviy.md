@@ -19,7 +19,7 @@ tags: "навальный, акции протеста"
 
 С 26 марта офис ФБК был опечатан для проведения следственных действий. 31 марта, не добившись никакой реакции на жалобы в прокуратуру, Басманный и Симоновский суды, сотрудники ФБК решили войти в опечатанный офис, привести его в порядок и возобновить работу.
 
-**link:** https://novayagazeta.ru/news/2017/03/31/130326-v-ofise-fbk-snyali-otpechatki-paltsev-so-stolov-i-kompyuterov
+**link:** [https://novayagazeta.ru/news/2017/03/31/130326-v-ofise-fbk-snyali-otpechatki-paltsev-so-stolov-i-kompyuterov](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/03/31/130326-v-ofise-fbk-snyali-otpechatki-paltsev-so-stolov-i-kompyuterov)
 
 ![](_assets/23/239c59369db423df2e89894ce5308cf0.webp)
 
@@ -43,4 +43,4 @@ tags: "навальный, акции протеста"
 
 О том, что происходит в ФБК после акции 26 марта, почему на нее пришли школьники и как элементарный протокол безопасности не позволил властям сорвать выход фильма о Медведеве — «Новой газете» рассказал руководитель расследований фонда Георгий Албуров.
 
-**link:** https://novayagazeta.ru/articles/2017/03/30/71964-my-fatalisty-praktiki
+**link:** [«Мы фаталисты-практики»](2017/03/30/71964-my-fatalisty-praktiki.md)

@@ -77,7 +77,7 @@ tags: "коррупция, украина, янукович"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2014/02/01/1391257475_848082_78.jpg" style="width: 340px; height: 434px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/02/01/1391257475_848082_78.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/02/01/1391257475_848082_78.jpg)" style="width: 340px; height: 434px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -96,7 +96,7 @@ tags: "коррупция, украина, янукович"
 
 Засветившиеся в скандале с буровой вышкой офшоры всплыли и в другой компании, связанной с Филипенко. Долгое время именно они были владельцами британской Darton Management LLP — [учредителя зернотрейдера ООО «Хлеб ИнвестСтрой».](http://gazeta.ua/ru/articles/business/_gosudarstvo-zaplatilo-hleb-investstroyu-2-5-milliarda-za-zerno/397232) Эта фирма-посредник была выведена на зерновой рынок аграрным министром Украины и по совместительству давним другом Виктора Януковича — Николаем Присяжнюком (вместе работали в 80-х в городе Енакиево на одном угольном предприятии). «Хлеб ИнвестСтрой», по решению властей, монополизировал всю торговлю украинской пшеницей и [получил почти 5 миллиардов гривен](http://z.texty.org.ua/seller/9171) (без малого 21 миллиард рублей) из бюджета на закупку зерна в государственный Аграрный фонд. Сомнительный зернотрейдер возглавлялся [Игорем Филипенко лично](http://www.kommersant.ua/doc/1945855). А британский учредитель этой украинской компании — Darton Management LLP — имел двух уже упомянутых белизских владельцев: Ireland & Overseas Acquisitions Limited и Milltown Corporate Services Limited.
 
-1. [](http://www.novayagazeta.ru/storage/b/2014/02/01/Annual_Return_-_17_Feb_09,_Darton_Management_LLP_from_Duedil.pdf) 2. [](http://www.novayagazeta.ru/storage/b/2014/02/01/Annual_Return_-_17_Mar_09,_Bincroft_LLP_from_Duedil.pdf)
+1. [](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/b/2014/02/01/Annual_Return_-_17_Feb_09,_Darton_Management_LLP_from_Duedil.pdf) 2. [](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/b/2014/02/01/Annual_Return_-_17_Mar_09,_Bincroft_LLP_from_Duedil.pdf)
 
 Но после отыгранной аферы на зерновом рынке оба эти скандальных офшора были отправлены на свалку. Их заменили еще более темные сейшельские компании — Intrahold A.G. и Monohold A.G.
 

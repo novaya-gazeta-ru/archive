@@ -25,10 +25,10 @@ tags: ""
 
 По [данным](https://t.me/vorobiev_live/8489) губернатора Воробьева, два дрона были сбиты над Балашихой, в обломки, упав, повредили стройплощадку микрорайона Измайлово. Третий дрон упал в районе микрорайона Железнодорожный. Оба района находятся к востоку от Москвы, вплотную к ней.
 
-Среди людей нет пострадавших, говорят власти. Вводились временные ограничения на работу аэропорта «Внуково». Через него вчера [прибыл](https://novayagazeta.ru/articles/2025/03/13/samolet-spetsposlannika-trampa-uitkoffa-prizemlilsia-v-moskve-ego-vstretil-kortezh-ssha-anonsirovali-vstrechu-s-putinym-news) в Москву спецпосланник Трампа Стив Уиткофф.
+Среди людей нет пострадавших, говорят власти. Вводились временные ограничения на работу аэропорта «Внуково». Через него вчера [прибыл](2025/03/13/samolet-spetsposlannika-trampa-uitkoffa-prizemlilsia-v-moskve-ego-vstretil-kortezh-ssha-anonsirovali-vstrechu-s-putinym-.md) в Москву спецпосланник Трампа Стив Уиткофф.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/13/putin-vremennoe-prekrashchenie-ognia-v-interesakh-kieva-a-dolgosrochnoe-peremirie-trebuet-ustraneniia-pervoprichin-konflikta-i-obsuzhdeniia-mekhanizma-garantii-news
+**Читайте также:** [Путин: временное прекращение огня — в интересах Киева, а долгосрочное перемирие требует устранения «первопричин конфликта» и обсуждения «механизма гарантий»](2025/03/13/putin-vremennoe-prekrashchenie-ognia-v-interesakh-kieva-a-dolgosrochnoe-peremirie-trebuet-ustraneniia-pervoprichin-konfl.md)
 
-Всего лишь три дня назад, 11 марта, московские и подмосковные власти отчитывались об отражении [«самой массированной атаки БПЛА»](https://novayagazeta.ru/articles/2025/03/11/vlasti-moskvy-i-podmoskovia-soobshchili-o-samoi-massirovannoi-s-nachala-svo-atake-bespilotnikov-odin-chelovek-pogib-news) на город. По словам Собянина, в ней участвовали более 90 беспилотников, и они были сбиты. Наибольший удар пришелся на Домодедово и Раменский городской округ.
+Всего лишь три дня назад, 11 марта, московские и подмосковные власти отчитывались об отражении [«самой массированной атаки БПЛА»](2025/03/11/vlasti-moskvy-i-podmoskovia-soobshchili-o-samoi-massirovannoi-s-nachala-svo-atake-bespilotnikov-odin-chelovek-pogib-news.md) на город. По словам Собянина, в ней участвовали более 90 беспилотников, и они были сбиты. Наибольший удар пришелся на Домодедово и Раменский городской округ.
 
-В результате удара почти 20 человек [пострадали](https://novayagazeta.ru/articles/2025/03/11/dvoe-chelovek-pogibli-i-18-postradali-v-rezultate-ataki-dronov-na-podmoskove-news), трое погибли.
+В результате удара почти 20 человек [пострадали](2025/03/11/dvoe-chelovek-pogibli-i-18-postradali-v-rezultate-ataki-dronov-na-podmoskove-news.md), трое погибли.

@@ -87,4 +87,4 @@ tags: "голая вечеринка, ивлеева, собчак"
 
 #### * Признано экстремистским и запрещено в России.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/12/26/i-vechnyi-karnaval-na-fone-okopov
+**Читайте также:** [И вечный карнавал на фоне окопов](2023/12/26/i-vechnyi-karnaval-na-fone-okopov.md)

@@ -19,9 +19,9 @@ tags: "антимайдан, кремль, крым"
 
 — Так и будем стоять, как тополя на Плющихе? — интересуется Николай, который пониже.
 
-**link:** https://novayagazeta.ru/photos/67703.html
+**link:** [https://novayagazeta.ru/photos/67703.html](https://web.archive.org/web/*/https://novayagazeta.ru/photos/67703.html)
 
-**link:** https://novayagazeta.ru/photos/67703.html
+**link:** [https://novayagazeta.ru/photos/67703.html](https://web.archive.org/web/*/https://novayagazeta.ru/photos/67703.html)
 
 Мужики потеряли свою бригаду и теперь мечутся в поисках по улице, прорываясь сквозь толпу. На одном из перекрестков их выхватывает мужчина в дубленке, седой, загорелый, с пышными усами, Михалыч — их начальник. К Васильевскому спуску текут уже вчетвером. «Согнали, как овец», — переговариваются женщины в потоке. По пути с тротуаров нам машут какие-то мужчины.
 
@@ -33,9 +33,9 @@ tags: "антимайдан, кремль, крым"
 
 — И орехи, грецкие.
 
-**link:** https://novayagazeta.ru/politics/67705.html
+**link:** [https://novayagazeta.ru/politics/67705.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/67705.html)
 
-**link:** https://novayagazeta.ru/politics/67705.html
+**link:** [https://novayagazeta.ru/politics/67705.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/67705.html)
 
 Михалычу, впрочем, без разницы, он любит рыбалку и дачу. И даже в Крым на общей волне патриотизма не собирается. А Володя собирается — но в этом году не судьба. Из-за войны на Украине, говорит, дорого.
 
@@ -57,7 +57,7 @@ tags: "антимайдан, кремль, крым"
 
 Про войну Николай тоже узнает из телевизора.
 
-*[media: <p class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/03/18/1426711241_774520_77.jpg" style="text-align: right; width: 570px; height: 380px;"><br style="text-align: right;">
+*[media: <p class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/03/18/1426711241_774520_77.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/03/18/1426711241_774520_77.jpg)" style="text-align: right; width: 570px; height: 380px;"><br style="text-align: right;">
 <sup style="text-align: right;">Фото: Екатерина Фомина / «Новая»</sup></p>]*
 
 — Каждый день смотрю, детишек жалко, стариков. Они же братья наши. В Крыму-то сейчас все хорошо стало, пенсии им, наконец, начали платить. Ну да, сейчас мы им все оплачиваем. Но скоро наладится производство, как-то людей займут. Если они наши — не выкидывать же их теперь?
@@ -76,7 +76,7 @@ tags: "антимайдан, кремль, крым"
 
 Сегодня «Мосводоканал» пришел на митинг скромно, без шаров и плакатов, не то, что в прошлом году. Всего в одном районном отделении «Мосводоканала» работает 80 человек, на митинги приходят человек 15-20. Кто-то работает в ночную смену, кто-то не может. Никого не заставляют, уверяют мужики. Сами они ушли со смены на час раньше, чтобы успеть.
 
-*[media: <p class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/03/18/1426711242_084028_84.jpg" style="text-align: right; width: 570px; height: 380px;"><br style="text-align: right;">
+*[media: <p class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/03/18/1426711242_084028_84.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/03/18/1426711242_084028_84.jpg)" style="text-align: right; width: 570px; height: 380px;"><br style="text-align: right;">
 <sup style="text-align: right;">Фото: Екатерина Фомина / «Новая»</sup></p>]*
 
 В «Мосводоканал» берут только надежных, честных и семейных, но на митинг проще собраться коллективом, чем семьей, считает Володя. Жена, четверо детей — у всех свои интересы.
@@ -101,10 +101,10 @@ tags: "антимайдан, кремль, крым"
 
 Начало митинга не возмутило спокойствия «Мосводоканала». Сцену от Собора Василия Блаженного было видно, но не слышно, и при появлении Дмитрия Харатьяна работники «Мосводоканала» и усом не повели.
 
-*[media: <p class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/03/18/1426711547_984745_31.jpg" style="width: 570px; height: 380px;"><br>
+*[media: <p class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/03/18/1426711547_984745_31.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/03/18/1426711547_984745_31.jpg)" style="width: 570px; height: 380px;"><br>
 <sup>Фото: Евгений Фельдман / «Новая»</sup></p>]*
 
-«Мою страну Спаситель причастил. Весь путь ее — к истокам возвращенье. Один Владимир нашу Русь крестил, другой вернул ей колыбель крещенья», — читал со сцены Харатьян. Эти стихи звучали в финале детской сказки в[ байк-центре у Хирурга](http://www.novayagazeta.ru/society/66943.html).
+«Мою страну Спаситель причастил. Весь путь ее — к истокам возвращенье. Один Владимир нашу Русь крестил, другой вернул ей колыбель крещенья», — читал со сцены Харатьян. Эти стихи звучали в финале детской сказки в[ байк-центре у Хирурга](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/66943.html).
 
 Историческая справедливость уже никого не волновала в наших рядах, обсуждали рабочие вопросы и как начальник съездил в отпуск и ел там тараканов.
 

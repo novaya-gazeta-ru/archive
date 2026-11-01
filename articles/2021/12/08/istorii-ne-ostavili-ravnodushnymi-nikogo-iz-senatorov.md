@@ -17,10 +17,10 @@ tags: "матвиенко, письмо, сма"
 
 > **Спецвыпуск «Новой» о людях, больных сма**
 >
-> [**«Я умру, когда мне исполнится 18 лет?» Катя Мисько, 17 лет **](https://novayagazeta.ru/articles/2021/11/15/ia-umru-kogda-mne-ispolnitsia-18-let)
+> [**«Я умру, когда мне исполнится 18 лет?» Катя Мисько, 17 лет **](2021/11/15/ia-umru-kogda-mne-ispolnitsia-18-let.md)
 >
-> [**«Хочу жить. Даже если не жить, то хотя бы существовать»**](https://novayagazeta.ru/articles/2021/11/15/ia-khochu-zhit-dazhe-esli-ne-zhit-to-khotia-by-sushchestvovat) [**Игорь Вершинин, 17 лет**](https://novayagazeta.ru/articles/2021/11/15/ia-khochu-zhit-dazhe-esli-ne-zhit-to-khotia-by-sushchestvovat)
+> [**«Хочу жить. Даже если не жить, то хотя бы существовать»**](2021/11/15/ia-khochu-zhit-dazhe-esli-ne-zhit-to-khotia-by-sushchestvovat.md) [**Игорь Вершинин, 17 лет**](2021/11/15/ia-khochu-zhit-dazhe-esli-ne-zhit-to-khotia-by-sushchestvovat.md)
 >
-> [**«Одна рука у нас еще пока работает» Даня Шпагин, 18 лет**](https://novayagazeta.ru/articles/2021/11/15/odna-ruka-u-nas-eshche-poka-rabotaet)
+> [**«Одна рука у нас еще пока работает» Даня Шпагин, 18 лет**](2021/11/15/odna-ruka-u-nas-eshche-poka-rabotaet.md)
 >
-> [**«Гуманность — это реклама государства» Иван Ефимчук, 18 лет **](https://novayagazeta.ru/articles/2021/11/15/gumannost-eto-reklama-gosudarstva)
+> [**«Гуманность — это реклама государства» Иван Ефимчук, 18 лет **](2021/11/15/gumannost-eto-reklama-gosudarstva.md)

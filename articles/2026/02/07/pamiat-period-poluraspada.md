@@ -260,7 +260,7 @@ tags: "город лермонтов, уран, гулаг, бештау, доб
 >
 > Товарищ Сталин оставил после себя страну с сюрпризами. Мы никогда не знаем, где будет следующее Колпашево.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/15/banka-tushenki-i-durnaia-beskonechnost
+**Читайте также:** [Банка тушенки и дурная бесконечность](2025/11/15/banka-tushenki-i-durnaia-beskonechnost.md)
 
 - [https://koka-lermont.livejournal.com/14071284.html](https://koka-lermont.livejournal.com/14071284.html)
 - [https://ru.wikipedia.org/wiki/ГУЛАГ](https://ru.wikipedia.org/wiki/%D0%93%D0%A3%D0%9B%D0%90%D0%93)

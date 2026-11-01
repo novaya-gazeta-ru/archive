@@ -25,6 +25,6 @@ tags: "исаакиевский собор, смольный, рпц, право
 
 Но крестные ходы в Петербурге устраивают гораздо чаще, чем раз в год. Так, в предыдущий раз у того же Исаакия РПЦ устраивала акцию в феврале.
 
-**link:** https://novayagazeta.ru/articles/2017/02/19/71564-voskresnyy-krestnyy-hod-za-peredachu-isaakiya-rpts-sobral-tysyachi-pravoslavnyh
+**link:** [https://novayagazeta.ru/articles/2017/02/19/71564-voskresnyy-krestnyy-hod-za-peredachu-isaakiya-rpts-sobral-tysyachi-pravoslavnyh](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/02/19/71564-voskresnyy-krestnyy-hod-za-peredachu-isaakiya-rpts-sobral-tysyachi-pravoslavnyh)
 
 Подобные акции воспринимаются в контексте идеи передать Исаакиевский собор под управление РПЦ, которую продвигает правительство. О том, что этот вопрос «решен», губернатор города Георгий Полтавченко заявлял еще в 2016 году, после чего в городе регулярно проходят массовые акции противников передачи музея — церкви.

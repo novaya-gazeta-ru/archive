@@ -21,4 +21,4 @@ tags: "оппозиция, премьера, макаревич, музыка"
 
 *Услышать Андрея Макаревича (с группой Yo5) можно 25 октября в «Концертном зале на Новом Арбате». На концерте прозвучат песни «Машины Времени» и сольный материал Макаревича в джазовых аранжировках.*
 
-**link:** https://novayagazeta.ru/articles/2020/10/21/87628-to-li-v-chay-plesnuli-otravy-to-li-devyat-na-odnogo
+**link:** [https://novayagazeta.ru/articles/2020/10/21/87628-to-li-v-chay-plesnuli-otravy-to-li-devyat-na-odnogo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/10/21/87628-to-li-v-chay-plesnuli-otravy-to-li-devyat-na-odnogo)

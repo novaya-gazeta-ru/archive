@@ -27,12 +27,12 @@ tags: ""
 
 Накануне глава МВД Кристоф Кастанер [попросил ](https://www.ouest-france.fr/politique/christophe-castaner/christophe-castaner-se-dit-contre-le-maintien-de-la-marche-pour-le-climat-samedi-paris-6106653)участников «Марша за климат», тоже намеченного на ближайшую субботу, отказаться от его проведения.
 
-**link:** https://novayagazeta.ru/articles/2018/12/01/78769-mozhno-li-sputat-zheltye-zhilety-s-korichnevoy-chumoy
+**link:** [«Коричневая чума» в желтых жилетах](2018/12/01/78769-mozhno-li-sputat-zheltye-zhilety-s-korichnevoy-chumoy.md)
 
 Напомним, члены движения «Желтые жилеты», которые с 17 ноября провели в стране несколько масштабных акций, настаивают на необходимости полной отмены ожидающегося роста налогов на топливо и экологического сбора.
 
 Ожидалось, что с 1 января цены на бензин во Франции должны были вырасти на 2,9 евроцента за литр, на дизель — на 6,5 евроцента. Активисты отмечали, что в течение 2018 года цена на дизельное топливо уже возросла приблизительно на 23%, на бензин — на 15%.
 
-1 декабря во Франции [прошла](https://www.novayagazeta.ru/news/2018/12/02/147250-v-parizhe-iz-za-besporyadkov-zaderzhali-bolee-400-chelovek-vlasti-ne-isklyuchayut-vvedenie-rezhima-chs) очередная волна выступлений против повышения цен на топливо. В Париже во время акции задержали более 400 человек, в результате столкновений пострадали более 130 человек, 23 из которых являются сотрудниками правопорядка.
+1 декабря во Франции [прошла](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/12/02/147250-v-parizhe-iz-za-besporyadkov-zaderzhali-bolee-400-chelovek-vlasti-ne-isklyuchayut-vvedenie-rezhima-chs) очередная волна выступлений против повышения цен на топливо. В Париже во время акции задержали более 400 человек, в результате столкновений пострадали более 130 человек, 23 из которых являются сотрудниками правопорядка.
 
-**link:** https://novayagazeta.ru/articles/2018/12/03/78796-zheltye-zhilety-i-bronezhilety
+**link:** [Желтые жилеты — и бронежилеты](2018/12/03/78796-zheltye-zhilety-i-bronezhilety.md)

@@ -25,4 +25,4 @@ tags: "non-fiction, документальное кино, бабий яр, da"
 
 Премьера фильма Сергея Лозницы прошла в июле прошлого года на Каннском кинофестивале. В интервью «Новой газете» ровно месяц назад сам режиссер говорил, что «Война — всегда отвратительный способ нерешения проблемы».
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/26/sergei-loznitsa-voina-vsegda-otvratitelnyi-sposob-neresheniia-nikakoi-problemy
+**Читайте также:** [Сергей Лозница: «Война — всегда отвратительный способ нерешения проблемы»](2022/01/26/sergei-loznitsa-voina-vsegda-otvratitelnyi-sposob-neresheniia-nikakoi-problemy.md)

@@ -27,7 +27,7 @@ tags: "политзаключенные, российские адвокаты, 
 
 А вообще, хочу вам доложить, тюрьмы как таковой не существует. В том смысле, что для каждого она своя, особенная, как повезет. Моя тюрьма, как скоро я сижу один, большей частью акустическая. Когда я был ребенком, по радио была такая передача «Театр у микрофона». Зэки же все время орут в окна. Это называется «на погоду». Вот такой у меня «театр у микрофона».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/07/02/slova-o-skorbi-i-razume
+**Читайте также:** [https://novayagazeta.ru/articles/2024/07/02/slova-o-skorbi-i-razume](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/07/02/slova-o-skorbi-i-razume)
 
 **— Что вы прочли интересного и важного за эти три года? **
 
@@ -111,4 +111,4 @@ tags: "политзаключенные, российские адвокаты, 
 
 *28.06.2025 г.*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/04/esli-vosstanovlenie-spravedlivosti-zaimet-gody-ia-gotovlius-provesti-ikh-s-dostoinstvom
+**Читайте также:** [«Если восстановление справедливости займет годы, я готовлюсь провести их с достоинством»](2025/07/04/esli-vosstanovlenie-spravedlivosti-zaimet-gody-ia-gotovlius-provesti-ikh-s-dostoinstvom.md)

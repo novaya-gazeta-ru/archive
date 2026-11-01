@@ -23,8 +23,8 @@ tags: "вакцинация, moderna, подростки, европа, sf"
 
 EMA пришел к выводу, что преимущества от применения вакцины для этой возрастной группы перевешивают риски, в частности, среди подростков, у которых может развиться тяжелое течение COVID-19
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu)
 
-Ранее EMA [разрешило](https://novayagazeta.ru/articles/2021/05/28/evropeiskii-reguliator-razreshil-privivat-podrostkov-vaktsinoi-pfizer) прививать подростков вакциной от коронавируса, разработанной американской компанией Pfizer и немецкой BioNTech. Компании сообщали, что проводят клинические испытания своего препарата среди детей в возрасте от 6 месяцев до 2 лет, а также на группах от 2 до 5 и от 5 до 11 лет.
+Ранее EMA [разрешило](2021/05/28/evropeiskii-reguliator-razreshil-privivat-podrostkov-vaktsinoi-pfizer.md) прививать подростков вакциной от коронавируса, разработанной американской компанией Pfizer и немецкой BioNTech. Компании сообщали, что проводят клинические испытания своего препарата среди детей в возрасте от 6 месяцев до 2 лет, а также на группах от 2 до 5 и от 5 до 11 лет.
 
-Европейский регулятор в июле [раскрыл](https://novayagazeta.ru/articles/2021/07/10/evrosoiuz-raskryl-statistiku-pobochnykh-effektov-posle-vaktsinatsii-preparat-pfizer-vyzval-32-sluchaia-problem-s-serdtsem-na-million-privitykh-a-moderna-38) статистику побочных эффектов после вакцинации. Препарат Pfizer вызвал 3,2 случая проблем с сердцем на миллион привитых, а Moderna — 3,8.
+Европейский регулятор в июле [раскрыл](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/10/evrosoiuz-raskryl-statistiku-pobochnykh-effektov-posle-vaktsinatsii-preparat-pfizer-vyzval-32-sluchaia-problem-s-serdtsem-na-million-privitykh-a-moderna-38) статистику побочных эффектов после вакцинации. Препарат Pfizer вызвал 3,2 случая проблем с сердцем на миллион привитых, а Moderna — 3,8.

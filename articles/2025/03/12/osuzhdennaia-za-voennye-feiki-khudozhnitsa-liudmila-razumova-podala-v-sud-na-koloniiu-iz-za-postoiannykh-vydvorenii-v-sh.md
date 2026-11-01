@@ -29,6 +29,6 @@ tags: "людмила разумова, шизо, суды, голодовка"
 
 **Минюст считает «иноагентом»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/07/veriu-v-pobedu-i-v-sebia
+**Читайте также:** [«Верю в победу и в себя»](2025/03/07/veriu-v-pobedu-i-v-sebia.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/06/ubivaiut-menia-za-to-chto-ia-govoriu-pravdu-o-nikh
+**Читайте также:** [«Убивают меня за то, что я говорю правду о них»](2025/03/06/ubivaiut-menia-za-to-chto-ia-govoriu-pravdu-o-nikh.md)

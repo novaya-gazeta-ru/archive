@@ -47,4 +47,4 @@ tags: "некролог, тимофеевский"
 
 И поэтому он был шедевром.
 
-**link:** https://novayagazeta.ru/articles/2019/12/07/83044-dau-uvechnyy-pokaz
+**link:** [«ДАУ». Увечный показ](2019/12/07/83044-dau-uvechnyy-pokaz.md)

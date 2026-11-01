@@ -20,7 +20,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/10/24/1382619072_249549_42.jpg" style="width: 360px; height: 228px;"><sup>Володя Иваницкий</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/10/24/1382619072_249549_42.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/10/24/1382619072_249549_42.jpg)" style="width: 360px; height: 228px;"><sup>Володя Иваницкий</sup></td>
 		</tr>
 	</tbody>]*
 

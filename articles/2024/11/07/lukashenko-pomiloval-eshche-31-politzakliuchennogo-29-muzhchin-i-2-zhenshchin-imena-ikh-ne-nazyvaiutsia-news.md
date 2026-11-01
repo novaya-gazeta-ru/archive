@@ -23,4 +23,4 @@ tags: ""
 
 ️В октябре Лукашенко в ответ на вопрос журналиста «Би-би-си» [заявил](https://t.me/novaya_pishet/47809) о готовности помиловать Колесникову, если будет прошение об этом.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/22/iaitsa-po-korzinam
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/22/iaitsa-po-korzinam](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/22/iaitsa-po-korzinam)

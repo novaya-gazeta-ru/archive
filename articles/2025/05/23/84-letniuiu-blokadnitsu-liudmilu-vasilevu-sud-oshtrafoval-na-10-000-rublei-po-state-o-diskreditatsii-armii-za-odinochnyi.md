@@ -25,10 +25,10 @@ tags: ""
 
 *Лестницу и коридоры суда заполнили зрители суда над блокадницей Васильевой. Фото: Алексей Душутин / «Новая газета»*
 
-24 февраля 2025 года Людмила Васильева вышла с одиночным пикетом к Гостиному двору, снова заявив о своей антивоенной позиции. На нее [составили](https://novayagazeta.ru/articles/2025/04/09/v-peterburge-zaveli-delo-o-diskreditatsii-armii-na-izvestnuiu-v-gorode-blokadnitsu-liudmilu-vasilevu-news) административный протокол.
+24 февраля 2025 года Людмила Васильева вышла с одиночным пикетом к Гостиному двору, снова заявив о своей антивоенной позиции. На нее [составили](2025/04/09/v-peterburge-zaveli-delo-o-diskreditatsii-armii-na-izvestnuiu-v-gorode-blokadnitsu-liudmilu-vasilevu-news.md) административный протокол.
 
 Людмила Васильева — известный активист, ребенок блокадного Ленинграда, она пыталась выдвинуться на выборы губернатора Петербурга в 2024-м году как единственный антивоенный кандидат, но не смогла набрать нужное количество подписей.
 
 Еще с 2022-м года Васильеву неоднократно задерживали на пикетах и пацифистских акциях.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/12/khotela-stat-gubernatorom
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/12/khotela-stat-gubernatorom](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/12/khotela-stat-gubernatorom)

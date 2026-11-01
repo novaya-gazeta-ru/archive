@@ -15,8 +15,8 @@ tags: "бессмертный полк, уголовное дело, следс�
 
 Житель Якутии разместил фотографию 4 мая. Следователи провели у него обыск, а также допросили подозреваемого. Мужчина признал, что разместил фотографию Гитлера.
 
-До этого СК [возбудил](https://novayagazeta.ru/news/2020/07/25/163277-sk-vozbudil-esche-dva-dela-o-reabilitatsii-natsizma-iz-za-publikatsiy-na-sayte-bessmertnogo-polka) уже несколько уголовных дел против жителей разных регионов России из-за публикации фотографий нацистов на сайте «Бессмертного полка». Ведомство считает, что к этому также причастны граждане Украины и Эстонии.
+До этого СК [возбудил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/07/25/163277-sk-vozbudil-esche-dva-dela-o-reabilitatsii-natsizma-iz-za-publikatsiy-na-sayte-bessmertnogo-polka) уже несколько уголовных дел против жителей разных регионов России из-за публикации фотографий нацистов на сайте «Бессмертного полка». Ведомство считает, что к этому также причастны граждане Украины и Эстонии.
 
-Шествие «Бессмертного полка» прошло в этом году в онлайн-формате из-за пандемии коронавируса. Очную акцию [решили перенести](https://novayagazeta.ru/news/2020/07/20/163145-putin-soglasilsya-perenesti-shestvie-bessmertnogo-polka-na-2021-god) на следующий год.
+Шествие «Бессмертного полка» прошло в этом году в онлайн-формате из-за пандемии коронавируса. Очную акцию [решили перенести](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/07/20/163145-putin-soglasilsya-perenesti-shestvie-bessmertnogo-polka-na-2021-god) на следующий год.
 
-**link:** https://novayagazeta.ru/articles/2020/07/27/86420-zadnie-videli-chto-my-perednih-rasstrelivaem
+**link:** [«Задние видели, что мы передних расстреливаем»](2020/07/27/86420-zadnie-videli-chto-my-perednih-rasstrelivaem.md)

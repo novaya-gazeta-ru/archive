@@ -13,7 +13,7 @@ tags: "sn, госизмена, роскосмос, задержания"
 
 > **&nbsp;Продолжение**
 >
-> [Кремль: обвинение Ивана Сафронова в госизмене «никоим образом не связано с журналистской деятельностью»](https://novayagazeta.ru/news/2020/07/07/162837-kreml-obvinenie-ivana-safronova-v-gosizmene-nikoim-obrazom-ne-svyazano-s-zhurnalistskoy-deyatelnostyu)
+> [Кремль: обвинение Ивана Сафронова в госизмене «никоим образом не связано с журналистской деятельностью»](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/07/07/162837-kreml-obvinenie-ivana-safronova-v-gosizmene-nikoim-obrazom-ne-svyazano-s-zhurnalistskoy-deyatelnostyu)
 
 В Москве задержали бывшего журналиста «Коммерсанта» и советника по информационной политике главы «Роскосмоса» Ивана Сафронова. Первым об этом [сообщил](https://t.me/Lshot/19315) телеграм-канал Life shot, задержание ТАСС [подтвердили](http://tass.ru/proisshestviya/8901113) в пресс-службе госкорпорации.
 

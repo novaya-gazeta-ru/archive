@@ -15,8 +15,8 @@ tags: "россия, коронавирус, em"
 
 В Москве за сутки коронавирус зафиксировали еще у 4561 человек, у 2541 — в Подмосковье и 1957 — в Петербурге. В остальных российских регионах за сутки было выявлено менее тысячи заразившихся.
 
-Скончались от COVID-19 по стране за тот же период 787 человек, в том числе 102 — в Москве и 105 — в Петербурге. Накануне в России за сутки [умерли](https://novayagazeta.ru/articles/2021/07/16/v-rossii-za-sutki-skonchalis-799-chelovek-eto-maksimum-s-nachala-pandemii) от коронавируса 799 человек, что стало максимумом за пандемию.
+Скончались от COVID-19 по стране за тот же период 787 человек, в том числе 102 — в Москве и 105 — в Петербурге. Накануне в России за сутки [умерли](2021/07/16/v-rossii-za-sutki-skonchalis-799-chelovek-eto-maksimum-s-nachala-pandemii.md) от коронавируса 799 человек, что стало максимумом за пандемию.
 
-Ранее власти [сообщили](https://novayagazeta.ru/articles/2021/07/16/sobianin-otmenil-sistemu-qr-kodov-v-moskve), что в Москве и Подмосковье с 19 июля отменят систему обязательных QR-кодов для посещения общепита. Они решили снять и ряд других ковидных ограничений.
+Ранее власти [сообщили](2021/07/16/sobianin-otmenil-sistemu-qr-kodov-v-moskve.md), что в Москве и Подмосковье с 19 июля отменят систему обязательных QR-кодов для посещения общепита. Они решили снять и ряд других ковидных ограничений.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu)

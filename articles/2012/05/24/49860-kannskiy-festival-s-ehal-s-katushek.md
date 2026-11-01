@@ -17,7 +17,7 @@ tags: ""
 		<tr>
 			<td>
 				<p class="g-justify-right">
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/24/1337874760_221590_84.jpg" style="width: 360px; height: 236px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/24/1337874760_221590_84.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/24/1337874760_221590_84.jpg)" style="width: 360px; height: 236px; "></p>
 				<p class="g-justify-right">
 					<sup>«Вы этого не видели»</sup></p>
 			</td>
@@ -25,7 +25,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/24/1337874760_395400_1.jpg" style="width: 360px; height: 240px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/24/1337874760_395400_1.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/24/1337874760_395400_1.jpg)" style="width: 360px; height: 240px; "></p>
 				<p>
 					<sup>«Доля ангелов»</sup></p>
 			</td>
@@ -33,7 +33,7 @@ tags: ""
 		<tr>
 			<td>
 				<p>
-					<sup><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/24/1337874760_559421_76.jpg" style="width: 360px; height: 215px; "></sup></p>
+					<sup><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/24/1337874760_559421_76.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/24/1337874760_559421_76.jpg)" style="width: 360px; height: 215px; "></sup></p>
 				<p class="g-justify-right">
 					<sup>«Как влюбленный»</sup></p>
 			</td>
@@ -41,7 +41,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/24/1337874779_735846_23.jpg" style="width: 360px; height: 240px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/24/1337874779_735846_23.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/24/1337874779_735846_23.jpg)" style="width: 360px; height: 240px; "></p>
 				<p>
 					<sup>«Ограбление казино»</sup></p>
 			</td>
@@ -49,7 +49,7 @@ tags: ""
 		<tr>
 			<td>
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/24/1337874779_925952_93.jpg" style="width: 360px; height: 240px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/24/1337874779_925952_93.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/24/1337874779_925952_93.jpg)" style="width: 360px; height: 240px; "></p>
 				<p class="g-justify-right">
 					<sup>«Святые моторы»</sup></p>
 				<p class="g-justify-right">

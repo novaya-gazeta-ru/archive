@@ -15,7 +15,7 @@ tags: "домников, суды"
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/01/30/1422615386_243054_32.jpg" style="width: 340px; height: 276px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/01/30/1422615386_243054_32.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/01/30/1422615386_243054_32.jpg)" style="width: 340px; height: 276px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><span style="font-family: Arial, sans-serif; font-size: 10.8333330154419px; line-height: 15.7083330154419px; text-align: right;">Бывший вице-губернатор&nbsp;Липецкой области&nbsp;Сергей Доровской</span></td>

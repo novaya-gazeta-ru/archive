@@ -33,4 +33,4 @@ tags: "дальнегорск, ольга харламова,  здание на
 
 **Приморье**
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/04/24/tam-territoriia-vse-vremia-shevelitsia
+**Читайте также:** [«Там территория все время шевелится»&nbsp;](2026/04/24/tam-territoriia-vse-vremia-shevelitsia.md)

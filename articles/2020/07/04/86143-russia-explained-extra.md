@@ -101,7 +101,7 @@ Russian cities no longer want to support this regime. Putin doesn't have fans, n
 
 ___
 
-**Thanks for reading!**To keep up with Novaya Gazeta’s reporting throughout the week, you can follow us on Facebook, Twitter, Instagram, and Telegram. Our video content is available on Youtube and don’t forget to visit our website https://www.novayagazeta.ru for the latest stories in Russian.
+**Thanks for reading!**To keep up with Novaya Gazeta’s reporting throughout the week, you can follow us on Facebook, Twitter, Instagram, and Telegram. Our video content is available on Youtube and don’t forget to visit our website [https://www.novayagazeta.ru](https://web.archive.org/web/*/https://www.novayagazeta.ru) for the latest stories in Russian.
 
 - *— The Novaya Gazeta Team*
 

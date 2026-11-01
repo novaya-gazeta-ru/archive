@@ -22,4 +22,4 @@ tags: "MH17, сбитый боинг, донбасс"
 
 **Павел Каныгин на протяжении семи лет после трагедии ведет собственное расследование крушения. В эксплейнере «Новой» он рассказывает, кто стоял за атакой на малазийский «боинг».**
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/07/bolshe-nam-delat-nechego-tolko-na-buk-nadeiatsia
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/07/bolshe-nam-delat-nechego-tolko-na-buk-nadeiatsia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/07/bolshe-nam-delat-nechego-tolko-na-buk-nadeiatsia)

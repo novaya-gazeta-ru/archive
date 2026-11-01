@@ -119,4 +119,4 @@ tags: ""
 
 > Вот сколько раз уже убеждаемся, что для того, чтобы решить какую-то проблему, надо просто что-то разрешить — и все заработает. А запретишь — наоборот, сломается…
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/31/studentov-za-zapakhom-taigi-babu-iagu-v-tiurmu-drugie-vedmy-otbilis
+**Читайте также:** [Студентов — за запахом тайги, Бабу Ягу — в тюрьму, другие ведьмы отбились](2025/07/31/studentov-za-zapakhom-taigi-babu-iagu-v-tiurmu-drugie-vedmy-otbilis.md)

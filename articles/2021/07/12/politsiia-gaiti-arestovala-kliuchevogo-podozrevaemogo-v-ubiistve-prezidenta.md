@@ -21,10 +21,10 @@ Associated Press со ссылкой на главу Национальной п
 
 Всего в убийстве президента Гаити подозреваются 26 человек, 5 из них находятся на свободе, отчиталась полиция.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/09/za-chto-kaznili-prezidenta
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/09/za-chto-kaznili-prezidenta](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/09/za-chto-kaznili-prezidenta)
 
-Ранее полиция Гаити [отчиталась](https://novayagazeta.ru/articles/2021/07/08/politsiia-gaiti-zastrelila-podozrevaemykh-v-ubiistve-prezidenta-strany) об убийстве четырех подозреваемых в нападении на президента страны. Шарль назвал убитых «наемниками». Местное издание Le Nouvelliste ранее [сообщало](https://lenouvelliste.com/article/230306/assassinat-de-jovenel-moise-15-colombiens-et-2-americains-interpelles) со ссылкой на правоохранителей, что всего в нападении на президента участвовали 28 человек, из них 26 — выходцы из Колумбии, еще двое — граждане США гаитянского происхождения.
+Ранее полиция Гаити [отчиталась](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/08/politsiia-gaiti-zastrelila-podozrevaemykh-v-ubiistve-prezidenta-strany) об убийстве четырех подозреваемых в нападении на президента страны. Шарль назвал убитых «наемниками». Местное издание Le Nouvelliste ранее [сообщало](https://lenouvelliste.com/article/230306/assassinat-de-jovenel-moise-15-colombiens-et-2-americains-interpelles) со ссылкой на правоохранителей, что всего в нападении на президента участвовали 28 человек, из них 26 — выходцы из Колумбии, еще двое — граждане США гаитянского происхождения.
 
-Президент Гаити [погиб](https://novayagazeta.ru/articles/2021/07/07/na-gaiti-neizvestnye-ubili-prezidenta-strany-pri-napadenii-na-ego-rezidentsiiu) после нападения преступников, которые проникли в его резиденцию в ночь с 6 на 7 июля. При нападении пострадала также супруга Жовенеля Моиза Мартин Моиз, ее отправили на лечение в Майами.
+Президент Гаити [погиб](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/07/na-gaiti-neizvestnye-ubili-prezidenta-strany-pri-napadenii-na-ego-rezidentsiiu) после нападения преступников, которые проникли в его резиденцию в ночь с 6 на 7 июля. При нападении пострадала также супруга Жовенеля Моиза Мартин Моиз, ее отправили на лечение в Майами.
 
 В феврале службы безопасности Гаити [предотвратили](https://www.bbc.com/russian/news-55973793) попытку нападения на Моиза. Тогда были задержаны судья Верховного суда и высокопоставленный офицер полиции. Моиз стал президентом Гаити в 2017 году. Его назначили на пост после того, как он победил на повторных выборах в 2016 году.

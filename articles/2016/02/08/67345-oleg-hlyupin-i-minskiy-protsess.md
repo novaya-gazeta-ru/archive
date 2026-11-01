@@ -21,9 +21,9 @@ tags: "пленные, украина"
 
 **Спецкор «Новой» Юлия Полухина, с 2014 года неоднократно работавшая в зоне боевых действий на территориях, подконтрольных как Киеву, так и сепаратистам, выяснила, что происходит с гражданином России, находящимся в украинском СИЗО.**
 
-**link:** https://novayagazeta.ru/society/71310.html
+**link:** [https://novayagazeta.ru/society/71310.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/71310.html)
 
-**link:** https://novayagazeta.ru/society/71310.html
+**link:** [https://novayagazeta.ru/society/71310.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/71310.html)
 
 Перевод Хлюпина в СИЗО Старобельска имеет ряд весьма сложных и неприятных последствий. Это зона АТО, куда доступ затруднен для журналистов, представителей международных правозащитных организаций и даже для адвокатов.
 

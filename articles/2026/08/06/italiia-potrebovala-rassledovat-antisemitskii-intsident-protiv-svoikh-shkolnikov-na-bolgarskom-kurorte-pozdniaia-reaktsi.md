@@ -27,6 +27,6 @@ tags: ""
 
 Именно этот акцент, прозвучавший уже после широкого обсуждения инцидента в СМИ, вызвал недоумение в Италии, где ожидали, прежде всего, заверений в тщательном расследовании недопустимого инцидента, но этого не прозвучало.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/03/zdes-ne-moskva-v-bolgarskoi-sofii-prervali-tserkovnuiu-sluzhbu-posle-poiavleniia-rossiiskogo-posla-news
+**Читайте также:** [«Здесь не Москва!» В болгарской Софии прервали церковную службу после появления российского посла](2026/08/03/zdes-ne-moskva-v-bolgarskoi-sofii-prervali-tserkovnuiu-sluzhbu-posle-poiavleniia-rossiiskogo-posla-news.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/16/igra-na-interesy
+**Читайте также:** [Игра на интересы](2026/07/16/igra-na-interesy.md)

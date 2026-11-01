@@ -27,7 +27,7 @@ tags: "wildberries, выплаты, песков"
 
 -
 
-Напомним, в начале июля Wildberries [изменили](https://novayagazeta.ru/articles/2026/07/18/wildberries-i-ozon-za-neskolko-dnei-do-ataki-dronov-po-skladam-v-elektrostali-i-kotovske-izmenili-poriadok-vyplaty-kompensatsii-prodavtsam-nazvav-udary-bpla-fors-mazhorom-news) оферту для продавцов: в ее новой редакции атаки БПЛА стали относить форс-мажорам за которые площадка не обязана выплачивать компенсацию.
+Напомним, в начале июля Wildberries [изменили](2026/07/18/wildberries-i-ozon-za-neskolko-dnei-do-ataki-dronov-po-skladam-v-elektrostali-i-kotovske-izmenili-poriadok-vyplaty-kompe.md) оферту для продавцов: в ее новой редакции атаки БПЛА стали относить форс-мажорам за которые площадка не обязана выплачивать компенсацию.
 
 -
 

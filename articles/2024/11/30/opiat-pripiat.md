@@ -73,4 +73,4 @@ S.T.A.L.K.E.R. 2 подвергался критике и до, и после р
 
 **Рэдрик Шухарт**
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/10/vlast-rf-vremen-grazhdanskoi-voiny
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/10/vlast-rf-vremen-grazhdanskoi-voiny](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/10/vlast-rf-vremen-grazhdanskoi-voiny)

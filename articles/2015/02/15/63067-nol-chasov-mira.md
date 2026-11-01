@@ -51,9 +51,9 @@ tags: "перемирие, специальный репортаж, украин
 
 — Сергей Иванович, вы по Донецку работаете? Ответка? Понял… Ну в одиннадцать — все? Договорились, да.
 
-**link:** https://novayagazeta.ru/politics/67242.html
+**link:** [https://novayagazeta.ru/politics/67242.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/67242.html)
 
-**link:** https://novayagazeta.ru/politics/67242.html
+**link:** [https://novayagazeta.ru/politics/67242.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/67242.html)
 
 Достает из шкафа тщательно отстиранную, отглаженную футболку некогда защитного цвета, что порыжела от пота: память.
 

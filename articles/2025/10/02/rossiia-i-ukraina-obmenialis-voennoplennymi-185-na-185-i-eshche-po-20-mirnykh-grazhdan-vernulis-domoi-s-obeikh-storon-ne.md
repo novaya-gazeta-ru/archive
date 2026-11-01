@@ -23,4 +23,4 @@ tags: ""
 
 Военные после обмена переданы Беларуси, оттуда они отправятся на медобследования и психологической помощи в российские госпитали.
 
-Предыдущий обмен военнопленными и гражданскими между странами состоялся в августе: тогда домой вернулись [по 84 человека](https://novayagazeta.ru/articles/2025/08/14/za-sutki-do-vstrechi-na-aliaske-rossiia-i-ukraina-obmenialis-voennoplennymi-po-formule-84-na-84-news) с каждой стороны.
+Предыдущий обмен военнопленными и гражданскими между странами состоялся в августе: тогда домой вернулись [по 84 человека](2025/08/14/za-sutki-do-vstrechi-na-aliaske-rossiia-i-ukraina-obmenialis-voennoplennymi-po-formule-84-na-84-news.md) с каждой стороны.

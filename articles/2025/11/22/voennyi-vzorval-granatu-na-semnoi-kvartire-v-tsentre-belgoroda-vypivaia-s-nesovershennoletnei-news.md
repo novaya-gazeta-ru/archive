@@ -23,4 +23,4 @@ tags: ""
 
 Квартира сдавалась на сутки, теперь она требует ремонта, выбиты стекла, повреждено отопление и газовая труба, разрушена обстановка. Ремонт владельцы оценили в 1,5 млн рублей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/05/smi-soobshchili-o-zaderzhanii-sbezhavshego-iz-politsii-voennogo-kostrikina-ego-podozrevaiut-v-ubiistve-dvukh-zhitelei-novoi-tavolzhanki-news
+**Читайте также:** [СМИ сообщили о задержании сбежавшего из полиции военного Кострикина. Его подозревают в убийстве двух жителей Новой Таволжанки](2025/11/05/smi-soobshchili-o-zaderzhanii-sbezhavshego-iz-politsii-voennogo-kostrikina-ego-podozrevaiut-v-ubiistve-dvukh-zhitelei-no.md)

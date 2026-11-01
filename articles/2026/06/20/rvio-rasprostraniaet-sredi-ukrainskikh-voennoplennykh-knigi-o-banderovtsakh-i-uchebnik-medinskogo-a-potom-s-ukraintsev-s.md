@@ -49,4 +49,4 @@ tags: ""
 
 и другие.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/16/suverennyi-globus-rossii
+**Читайте также:** [Суверенный глобус России](2026/06/16/suverennyi-globus-rossii.md)

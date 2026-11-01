@@ -25,4 +25,4 @@ tags: ""
 
 В 2025 году православная и католическая Пасхи пройдут в один день, 20 апреля.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/19/territoriia-molchashchei-tserkvi
+**Читайте также:** [https://novayagazeta.ru/articles/2025/04/19/territoriia-molchashchei-tserkvi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2025/04/19/territoriia-molchashchei-tserkvi)

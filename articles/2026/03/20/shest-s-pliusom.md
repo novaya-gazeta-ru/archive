@@ -77,4 +77,4 @@ tags: "паралимпийцы"
 
 Наши герои, впрочем, не обиделись. Их радость была сильнее обиды.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/09/30/oni-khoteli-prosto-vystupat
+**Читайте также:** [Они хотели просто выступать](2025/09/30/oni-khoteli-prosto-vystupat.md)

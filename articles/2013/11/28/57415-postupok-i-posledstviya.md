@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/11/28/1385646679_383871_75.jpg" style="width: 340px; height: 301px;"><em><sup>Вахид Абубакаров</sup></em></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/11/28/1385646679_383871_75.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/11/28/1385646679_383871_75.jpg)" style="width: 340px; height: 301px;"><em><sup>Вахид Абубакаров</sup></em></td>
 		</tr>
 	</tbody>]*
 

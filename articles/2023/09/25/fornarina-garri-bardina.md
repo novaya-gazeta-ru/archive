@@ -75,4 +75,4 @@ tags: ""
 >
 > Наш обозреватель ведет телеграм-канал о кино и не только. [Подписывайтесь тут](https://t.me/larisamalukova).
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/09/22/rezhisser-ilia-malakhova-ia-boius-boiatsia
+**Читайте также:** [«Я боюсь бояться»](2023/09/22/rezhisser-ilia-malakhova-ia-boius-boiatsia.md)

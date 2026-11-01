@@ -21,4 +21,4 @@ tags: "насилие, домашнее насилие, насилию.нет, �
 
 «Центральный вайб» — проект «Новой газеты», в котором мы беседуем со специалистами о самых сложных темах российской жизни.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/01/22/88825-sosedka-posmotrela-i-ushla-potomu-chto-ego-papa-nachalnik-politsii
+**Читайте также:** [«Соседка посмотрела и ушла. Потому что его папа — начальник полиции»](2021/01/22/88825-sosedka-posmotrela-i-ushla-potomu-chto-ego-papa-nachalnik-politsii.md)

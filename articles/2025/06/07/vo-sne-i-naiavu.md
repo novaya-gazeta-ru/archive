@@ -18,4 +18,4 @@ tags: ""
  Но может быть, это просто\
  Любовь?*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/05/31/o-bazovykh-potrebnostiakh
+**Читайте также:** [О базовых потребностях](2025/05/31/o-bazovykh-potrebnostiakh.md)

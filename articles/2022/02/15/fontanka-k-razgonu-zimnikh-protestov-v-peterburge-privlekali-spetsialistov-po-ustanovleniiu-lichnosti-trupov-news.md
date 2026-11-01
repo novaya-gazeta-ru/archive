@@ -41,9 +41,9 @@ tags: "навальный, митинг, полиция, мвд, Санкт-Пе
  \
  На вопрос в суде о том, почему привлекли именно этих специалистов, представители МВД ответили, что все сотрудники универсальны и поэтому могут в том числе заниматься охраной общественного порядка.\
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/01/23/88849-nevskiy-nash
+**Читайте также:** [https://novayagazeta.ru/articles/2021/01/23/88849-nevskiy-nash](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/01/23/88849-nevskiy-nash)
 
-В Санкт-Петербурге на акции в поддержку Навального в январе 2021 [выходили](https://novayagazeta.ru/articles/2021/03/23/v-rosgvardii-schitaiut-chto-siloviki-v-peterburge-deistvovali-v-ramkakh-zakona-i-maksimalno-gumanno-na-aktsiiakh-v-podderzhku-navalnogo) несколько тысяч человек. Митинги закончились столкновениями с полицией. По данным «ОВД-Инфо»**, в результате акций в городе [задержали](https://t.me/ovdinfo/7787) 1176 человек.
+В Санкт-Петербурге на акции в поддержку Навального в январе 2021 [выходили](2021/03/23/v-rosgvardii-schitaiut-chto-siloviki-v-peterburge-deistvovali-v-ramkakh-zakona-i-maksimalno-gumanno-na-aktsiiakh-v-podde.md) несколько тысяч человек. Митинги закончились столкновениями с полицией. По данным «ОВД-Инфо»**, в результате акций в городе [задержали](https://t.me/ovdinfo/7787) 1176 человек.
 
 #### ** Мосгорсуд признал «штабы Навального» экстремистскими структурами и запретил их деятельность на территории РФ *
 

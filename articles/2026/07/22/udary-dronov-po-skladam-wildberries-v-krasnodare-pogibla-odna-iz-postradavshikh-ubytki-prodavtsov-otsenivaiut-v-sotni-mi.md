@@ -23,7 +23,7 @@ tags: "wildberries, беспилотники, атака беспилотник�
 
 -
 
-Кроме складов в Краснодаре, беспилотники [атаковали](https://novayagazeta.ru/articles/2026/07/22/posle-ataki-dronov-na-sklady-wildberries-v-krasnodare-i-nevinnomysske-postradali-15-chelovek-v-stavropolskom-krae-obiavili-lokalnyi-rezhim-chs-news) склад Wildberries в Невинномысске. Перед этим под удар попали склады в Тамбовской области и Подмосковье: там погибли восемь человек.
+Кроме складов в Краснодаре, беспилотники [атаковали](2026/07/22/posle-ataki-dronov-na-sklady-wildberries-v-krasnodare-i-nevinnomysske-postradali-15-chelovek-v-stavropolskom-krae-obiavi.md) склад Wildberries в Невинномысске. Перед этим под удар попали склады в Тамбовской области и Подмосковье: там погибли восемь человек.
 
 -
 

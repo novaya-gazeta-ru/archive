@@ -156,4 +156,4 @@ tags: "обмен пленными, свобода слова, орлов, пр�
 
 #### ** Организация признана нежелательной и запрещена в РФ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/16/chtoby-nevinovnykh-ne-zabyli-v-tiurmakh
+**Читайте также:** [Чтобы невиновных не забыли в тюрьмах](2024/11/16/chtoby-nevinovnykh-ne-zabyli-v-tiurmakh.md)

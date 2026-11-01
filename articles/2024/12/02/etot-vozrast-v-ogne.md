@@ -147,7 +147,7 @@ tags: ""
 
 > **p. s.**
 >
-> ***3 декабря стало известно, что Павел Бугай ***[***заразился туберкулезом в СИЗО***](https://novayagazeta.ru/articles/2024/12/03/obviniaemyi-v-podzhoge-releinykh-shkafov-18-letnii-student-pavel-bugai-zarazilsia-tuberkulezom-v-sizo-news) ***.***
+> ***3 декабря стало известно, что Павел Бугай ***[***заразился туберкулезом в СИЗО***](2024/12/03/obviniaemyi-v-podzhoge-releinykh-shkafov-18-letnii-student-pavel-bugai-zarazilsia-tuberkulezom-v-sizo-news.md) ***.***
 
 ## Путь пустой руки
 

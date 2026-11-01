@@ -19,4 +19,4 @@ tags: "sn, лукашенко, правительство, беларусь"
 
 Правительство во главе с Романом Головченко сложило свои полномочия после президентских выборов. Впрочем, они продолжили исполнять свои обязанности до назначения нового кабмина.
 
-**link:** https://novayagazeta.ru/articles/2020/08/19/86730-protesty-v-belarusi-den-11-online
+**link:** [https://novayagazeta.ru/articles/2020/08/19/86730-protesty-v-belarusi-den-11-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/19/86730-protesty-v-belarusi-den-11-online)

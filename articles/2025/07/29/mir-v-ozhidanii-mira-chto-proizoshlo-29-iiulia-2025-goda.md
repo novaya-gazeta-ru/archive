@@ -85,8 +85,8 @@ tags: ""
 
 - В Москве организаторы эзотерического фестиваля запретили участникам «пропагандировать сатанизм*» в связи с недавним решением Верховного суда, объявившего культ Люцифера экстремистским. Фестиваль Magic Market, неоднократно собиравший любителей оккультизма и магии, в этом году позиционирует себя патриотически. На его афише девушка в кокошнике, в релизе сообщение: «Фестиваль поддерживает цель единения малых и больших социально-культурных групп для объединения российского общества и укрепления Российской государственности».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/28/mir-v-ozhidanii-mira-chto-proizoshlo-28-iiulia-2025-goda
+**Читайте также:** [https://novayagazeta.ru/articles/2025/07/28/mir-v-ozhidanii-mira-chto-proizoshlo-28-iiulia-2025-goda](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2025/07/28/mir-v-ozhidanii-mira-chto-proizoshlo-28-iiulia-2025-goda)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/25/mir-v-ozhidanii-mira-chto-proizoshlo-25-iiulia-2025-goda
+**Читайте также:** [Мир в ожидании мира. Что произошло 25 июля 2025 года](2025/07/25/mir-v-ozhidanii-mira-chto-proizoshlo-25-iiulia-2025-goda.md)
 
 #### * Признаны экстремистскими, запрещены в России.

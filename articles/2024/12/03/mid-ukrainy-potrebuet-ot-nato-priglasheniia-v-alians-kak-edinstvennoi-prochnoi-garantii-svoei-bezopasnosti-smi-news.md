@@ -25,4 +25,4 @@ Reuters добавляет, что Сибига призовет поддерж�
 
 А Владимир Путин не раз заявлял, что отказ Украины от вступления в НАТО — одно из условий начала мирных переговоров Москвы и Киева, и это условие содержалось в мартовских документах 2022 года, которые в Турции обсуждали и готовились подписать Россия и Украина, однако затем Киев вышел из переговоров.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/19/na-1000-i-den-boevykh-deistvii-s-ukrainoi-peskov-zaiavil-svo-prodolzhaetsia-kak-voina-s-nato-i-zaimet-eshche-nemnogo-vremeni-news
+**Читайте также:** [На 1000-й день боевых действий с Украиной Песков заявил: СВО продолжается «как война с НАТО» и «займет еще немного времени»](2024/11/19/na-1000-i-den-boevykh-deistvii-s-ukrainoi-peskov-zaiavil-svo-prodolzhaetsia-kak-voina-s-nato-i-zaimet-eshche-nemnogo-vre.md)

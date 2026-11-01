@@ -31,4 +31,4 @@ tags: "ливни, наводнение, сочи, em"
 
 Как [передает](http://www.interfax.ru/wc2018/619847) «Интерфакс» со ссылкой на Гидрометцентр России, в день матча Россия – Хорватия, пройдет гроза, однако непосредственно во время встречи дождь маловероятен.
 
-1 июля Россия [обыграла](https://www.novayagazeta.ru/news/2018/07/01/142961-rossiya-obygrala-ispaniyu-posle-serii-penalti-i-vyshla-v-chetvertfinal-chm) сборную Испании в 1/8 и вышла в следующий этап турнира, Хорватия [одержала](https://www.novayagazeta.ru/news/2018/07/01/142962-rossiya-sygraet-s-v-chetvertfinale-chm) победу над Данией. Победители в ходе обоих матчей определились после серий пенальти.
+1 июля Россия [обыграла](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/07/01/142961-rossiya-obygrala-ispaniyu-posle-serii-penalti-i-vyshla-v-chetvertfinal-chm) сборную Испании в 1/8 и вышла в следующий этап турнира, Хорватия [одержала](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/07/01/142962-rossiya-sygraet-s-v-chetvertfinale-chm) победу над Данией. Победители в ходе обоих матчей определились после серий пенальти.

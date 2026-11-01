@@ -29,4 +29,4 @@ tags: "акции протеста, мусорный полигон, митин�
 
 *Фото: Георгий Бородянский / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2020/07/11/86235-nas-otpravili-umirat-domoy
+**link:** [«Нас отправили умирать домой»](2020/07/11/86235-nas-otpravili-umirat-domoy.md)

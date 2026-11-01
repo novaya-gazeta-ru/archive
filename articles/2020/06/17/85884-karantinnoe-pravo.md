@@ -109,7 +109,7 @@ tags: "поправки, голосование, карантин, законы,
 
 При этом в пояснительной записке к законопроекту фигурирует статья 67 Конституции с изменениями, которые должны вступить в силу после голосования 1 июля.
 
-**link:** https://novayagazeta.ru/articles/2020/06/15/85853-patrioty-poshli-v-goru
+**link:** [https://novayagazeta.ru/articles/2020/06/15/85853-patrioty-poshli-v-goru](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/06/15/85853-patrioty-poshli-v-goru)
 
 ### Предложение сажать на 10 лет за призывы к массовым беспорядкам
 

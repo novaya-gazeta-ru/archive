@@ -21,4 +21,4 @@ tags: ""
 
 Пилавов был мэром Луганская с 2014 по 2023 год. В Украине он числился в розыске по нескольким уголовным делам.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/03/minoborony-soobshchilo-o-gibeli-zam-glavkoma-vmf-generala-gudkova-v-kurskoi-oblasti-news
+**Читайте также:** [Минобороны сообщило о гибели зам главкома ВМФ генерала Гудкова в Курской области](2025/07/03/minoborony-soobshchilo-o-gibeli-zam-glavkoma-vmf-generala-gudkova-v-kurskoi-oblasti-news.md)

@@ -25,9 +25,9 @@ tags: "ng, pegasus, apple, иски , суды, слежка, цифровая �
 
 > NSO Group и ее клиенты в результате атаки получали доступ к микрофону пользователей, камере и другим персональным данным.
 
-В сентябре Apple [заявила](https://novayagazeta.ru/articles/2021/09/14/apple-zaiavila-ob-ustranenii-uiazvimosti-kotoraia-pozvoliala-shpionskoi-programme-pegasus-vzlamyvat-aifony-cherez-imessage-news) об устранении уязвимости, которая позволяла шпионской программе Pegasus взламывать айфоны через iMessage. По данным исследовательской группы Citizen Lab, израильская компания использовала уязвимость Apple, чтобы незаметно для пользователя заразить айфон через службу обмена сообщениями.
+В сентябре Apple [заявила](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/14/apple-zaiavila-ob-ustranenii-uiazvimosti-kotoraia-pozvoliala-shpionskoi-programme-pegasus-vzlamyvat-aifony-cherez-imessage-news) об устранении уязвимости, которая позволяла шпионской программе Pegasus взламывать айфоны через iMessage. По данным исследовательской группы Citizen Lab, израильская компания использовала уязвимость Apple, чтобы незаметно для пользователя заразить айфон через службу обмена сообщениями.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/19/shpion-v-karmane
+**Читайте также:** [Шпион в кармане](2021/07/19/shpion-v-karmane.md)
 
 В рамках расследования Pegasus Project, опубликованного в июле, СМИ [выяснили](https://forbiddenstories.org/pegasus-the-new-global-weapon-for-silencing-journalists/), что шпионское ПО Pegasus использовалось для слежки за журналистами, политиками, адвокатами и активистами по всему миру. В компании уверили, что соблюдают этику при работе и продолжат расследование случаев неправомерного использования программы.
 

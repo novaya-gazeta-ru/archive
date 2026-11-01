@@ -20,19 +20,19 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/08/19/1376919040_604609_38.jpg" style="width: 360px; height: 243px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/08/19/1376919040_604609_38.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/08/19/1376919040_604609_38.jpg)" style="width: 360px; height: 243px;"></td>
 		</tr>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/08/19/1376919040_888125_84.jpg" style="width: 360px; height: 204px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/08/19/1376919040_888125_84.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/08/19/1376919040_888125_84.jpg)" style="width: 360px; height: 204px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/08/19/1376919041_160154_57.jpg" style="width: 360px; height: 244px;"><sup>Алексей Мозго</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/08/19/1376919041_160154_57.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/08/19/1376919041_160154_57.jpg)" style="width: 360px; height: 244px;"><sup>Алексей Мозго</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/08/19/1376919044_812461_46.jpg" style="width: 360px; height: 191px;"><sup>Нина Шестакова</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/08/19/1376919044_812461_46.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/08/19/1376919044_812461_46.jpg)" style="width: 360px; height: 191px;"><sup>Нина Шестакова</sup></td>
 		</tr>
 	</tbody>]*
 

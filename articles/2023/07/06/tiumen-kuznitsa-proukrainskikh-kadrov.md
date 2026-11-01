@@ -35,4 +35,4 @@ tags: "тюмень, фсб, террорист, госизмена, перес�
 
 *Следы выстрела на автомобиле. Кадр из видео ФСБ*
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/07/04/za-sklonenie-voennykh-na-storonu-vsu
+**Читайте также:** [«За склонение военных на сторону ВСУ»](2023/07/04/za-sklonenie-voennykh-na-storonu-vsu.md)

@@ -19,4 +19,4 @@ tags: "рок, чистяков, онлайн, концерт"
 
 Подробнее о новом альбоме — в интервью:
 
-**link:** https://novayagazeta.ru/articles/2020/06/24/85993-eta-strana-dolzhna-nazyvatsya-kak-to-inache
+**link:** [«Эта страна должна называться как-то иначе»](2020/06/24/85993-eta-strana-dolzhna-nazyvatsya-kak-to-inache.md)

@@ -51,4 +51,4 @@ tags: "надежда буянова, политзаключенные, сво"
 
 *Иллюстрация: Екатерина Галактионова / «Новая газета»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/13/ne-ogovori-blizhnego-svoego
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/13/ne-ogovori-blizhnego-svoego](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/13/ne-ogovori-blizhnego-svoego)

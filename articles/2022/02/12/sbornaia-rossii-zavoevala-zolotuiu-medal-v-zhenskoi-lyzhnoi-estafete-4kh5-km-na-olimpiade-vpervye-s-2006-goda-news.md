@@ -17,6 +17,6 @@ tags: "олимпиада-2022, спорт, da, золотая медаль"
 
 Это первая победа российских лыжниц на Олимпиаде 2006 года.
 
-Второе золото России на Олимпиаде [принесла](https://novayagazeta.ru/articles/2022/02/07/sbornaia-rossii-po-figurnomu-kataniiu-vyigrala-zoloto-v-komandnykh-sorevnovaniiakh-news) сборная страны по фигурному катанию 7 февраля. За нее выступили Марк Кондратюк, Камила Валиева, Анастасия Мишина и Александр Галлямов (спортивные пары), а также Виктория Синицина и Никита Кацалапов (танцы на льду). Накануне российский лыжник Александр Большунов [выиграл](https://novayagazeta.ru/articles/2022/02/06/lyzhnik-aleksandr-bolshunov-prines-rossii-pervoe-olimpiiskoe-zoloto-news) золотую медаль в скиатлоне.
+Второе золото России на Олимпиаде [принесла](2022/02/07/sbornaia-rossii-po-figurnomu-kataniiu-vyigrala-zoloto-v-komandnykh-sorevnovaniiakh-news.md) сборная страны по фигурному катанию 7 февраля. За нее выступили Марк Кондратюк, Камила Валиева, Анастасия Мишина и Александр Галлямов (спортивные пары), а также Виктория Синицина и Никита Кацалапов (танцы на льду). Накануне российский лыжник Александр Большунов [выиграл](2022/02/06/lyzhnik-aleksandr-bolshunov-prines-rossii-pervoe-olimpiiskoe-zoloto-news.md) золотую медаль в скиатлоне.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/10/malchiki-izvinite-no-ne-do-vas
+**Читайте также:** [«Мальчики, извините, но не до вас»](2022/02/10/malchiki-izvinite-no-ne-do-vas.md)

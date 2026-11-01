@@ -29,4 +29,4 @@ tags: "афганистан, талибан, фото, фотография, ф�
 
 #### ** организация признана террористической на территории РФ и запрещена*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/15/plate-moshchnyi-simvol-identichnosti
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/15/plate-moshchnyi-simvol-identichnosti](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/15/plate-moshchnyi-simvol-identichnosti)

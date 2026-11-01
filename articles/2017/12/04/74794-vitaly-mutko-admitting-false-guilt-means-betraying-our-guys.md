@@ -23,7 +23,7 @@ There is still no escape from them if the country is about to be left without th
 
 *Photo: Vladimir Gerdo / TASS*
 
-**link:** https://novayagazeta.ru/articles/2017/12/03/74780-vitaliy-mutko-priznat-lozhnuyu-vinu-znachit-predat-nashih-rebyat
+**link:** [Виталий Мутко: «Признать ложную вину — значит  предать наших ребят»](2017/12/03/74780-vitaliy-mutko-priznat-lozhnuyu-vinu-znachit-predat-nashih-rebyat.md)
 
 There is no collective guilt when it comes to doping
 

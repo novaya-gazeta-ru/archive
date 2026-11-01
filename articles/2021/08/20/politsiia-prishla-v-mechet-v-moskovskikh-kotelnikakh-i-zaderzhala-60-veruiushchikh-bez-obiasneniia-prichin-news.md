@@ -25,4 +25,4 @@ tags: "мечеть, силовики, задержания, kn"
 
 *Обновлено 22:15 Добавлен комментарий дежурного, 23:04 — адвоката*
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/11/06/87855-suschestvuet-znachit-oskorblyaet
+**Читайте также:** [Существует — значит, оскорбляет](2020/11/06/87855-suschestvuet-znachit-oskorblyaet.md)

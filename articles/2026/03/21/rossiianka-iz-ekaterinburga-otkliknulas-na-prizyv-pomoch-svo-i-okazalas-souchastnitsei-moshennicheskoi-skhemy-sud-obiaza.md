@@ -27,4 +27,4 @@ tags: ""
 
 Еще более часты случаи обмана родственников пленных россиян, видео и фото которых были выложены в сеть в специализированных украинских пабликах.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/24/na-urale-razoblachili-opg-verbovavshuiu-bezdomnykh-na-svo-radi-prisvoeniia-vyplat-news
+**Читайте также:** [На Урале разоблачили ОПГ, вербовавшую бездомных на СВО ради присвоения выплат](2025/11/24/na-urale-razoblachili-opg-verbovavshuiu-bezdomnykh-na-svo-radi-prisvoeniia-vyplat-news.md)

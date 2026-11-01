@@ -19,14 +19,14 @@ tags: "днр, лнр, путин, госзакупки, гуманитарна�
 
 Путин также поручил определить пункты пропуска на границе с РФ, через которые будут перемещаться эти товары. Поддержка будет оказываться на «период до политического урегулирования».
 
-Ранее Россия [выступила](https://novayagazeta.ru/articles/2021/09/02/rf-vystupila-protiv-prodleniia-mandata-missii-obse-na-dvukh-pogranichnykh-propusknykh-punktakh-v-donbasse-kiev-polagaet-chto-cherez-nikh-budut-vozit-oruzhie-i-naemnikov-news) против продления мандата миссии пограничных наблюдателей ОБСЕ на пунктах пропуска «Гуково» и «Донецк» на границе с Донбассом. Мандат действовал с июля 2014 по инициативе самой Москвы. В том числе через эти КПП с 17 по 19 сентября на автобусах массово [привозили](https://novayagazeta.ru/articles/2021/09/20/prifrontovye-golosa) из не признанных Донецкой и Луганской республик новых граждан России, получивших возможность голосовать на выборах депутатов Госдумы.
+Ранее Россия [выступила](2021/09/02/rf-vystupila-protiv-prodleniia-mandata-missii-obse-na-dvukh-pogranichnykh-propusknykh-punktakh-v-donbasse-kiev-polagaet-.md) против продления мандата миссии пограничных наблюдателей ОБСЕ на пунктах пропуска «Гуково» и «Донецк» на границе с Донбассом. Мандат действовал с июля 2014 по инициативе самой Москвы. В том числе через эти КПП с 17 по 19 сентября на автобусах массово [привозили](2021/09/20/prifrontovye-golosa.md) из не признанных Донецкой и Луганской республик новых граждан России, получивших возможность голосовать на выборах депутатов Госдумы.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/19/vy-tam-ne-oslepli-sobaki
+**Читайте также:** [«Вы там не ослепли, собаки?!»](2021/10/19/vy-tam-ne-oslepli-sobaki.md)
 
-ОБСЕ в октябре [приостановила](https://novayagazeta.ru/articles/2021/10/17/reuters-obse-priostanovila-missiiu-v-donbasse-iz-soobrazhenii-bezopasnosti-news) миссию в Донбассе из соображений безопасности. В министерстве иностранных дел «ЛНР» [рассказали](https://t.me/rian_ru/125434), что офис специальной мониторинговой миссии ОБСЕ продолжает работать в «штатном режиме».
+ОБСЕ в октябре [приостановила](2021/10/17/reuters-obse-priostanovila-missiiu-v-donbasse-iz-soobrazhenii-bezopasnosti-news.md) миссию в Донбассе из соображений безопасности. В министерстве иностранных дел «ЛНР» [рассказали](https://t.me/rian_ru/125434), что офис специальной мониторинговой миссии ОБСЕ продолжает работать в «штатном режиме».
 
-В начале ноября компания Maxar Technologies [зафиксировала](https://novayagazeta.ru/articles/2021/11/02/maxar-zafiksirovala-sosredotochenie-rossiiskikh-voisk-na-granitse-s-ukrainoi-v-kieve-perebrosku-vooruzhenii-ne-zametili-news)сосредоточение российских войск «на границе с Украиной».
+В начале ноября компания Maxar Technologies [зафиксировала](2021/11/02/maxar-zafiksirovala-sosredotochenie-rossiiskikh-voisk-na-granitse-s-ukrainoi-v-kieve-perebrosku-vooruzhenii-ne-zametili-.md)сосредоточение российских войск «на границе с Украиной».
 
-В Минобороны Украины[заявили](https://novayagazeta.ru/articles/2021/11/02/vy-vse-maniovrite#), что никакой переброски вооружений не заметили. Тем не менее, 10 ноября президент Украина Владимир Зеленский в видеообращении[сообщил](https://www.facebook.com/zelenskiy95/videos/379056247305616), что почти 100 тысяч российских военных находятся рядом с украинской границей.
+В Минобороны Украины[заявили](2021/11/02/vy-vse-maniovrite.md), что никакой переброски вооружений не заметили. Тем не менее, 10 ноября президент Украина Владимир Зеленский в видеообращении[сообщил](https://www.facebook.com/zelenskiy95/videos/379056247305616), что почти 100 тысяч российских военных находятся рядом с украинской границей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/02/vy-vse-maniovrite
+**Читайте также:** [Вы все манёврите!](2021/11/02/vy-vse-maniovrite.md)

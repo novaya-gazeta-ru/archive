@@ -21,4 +21,4 @@ tags: ""
 
 Часть европейских стран выступила против ужесточения визовой политики против России, писало Politico. Собеседник издания среди дипломатов отмечал, что когда россияне приезжают, они «понимают, что значит Европа».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/09/es-usilivaet-vliianie-na-strany-zapadnykh-balkan-pooshchriat-ikh-chlenskimi-privilegiiami-po-chut-chut-budut-za-kazhdyi-shag-po-puti-reform-news
+**Читайте также:** [ЕС усиливает влияние на страны Западных Балкан: поощрять их членскими привилегиями «по чуть-чуть» будут за каждый шаг по пути реформ](2026/06/09/es-usilivaet-vliianie-na-strany-zapadnykh-balkan-pooshchriat-ikh-chlenskimi-privilegiiami-po-chut-chut-budut-za-kazhdyi-.md)

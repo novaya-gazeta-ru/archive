@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<sup><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/29/1351522344_576587_75.jpg" style="width: 360px; height: 344px; ">Tobias M. Eckrich</sup></td>
+				<sup><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/29/1351522344_576587_75.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/29/1351522344_576587_75.jpg)" style="width: 360px; height: 344px; ">Tobias M. Eckrich</sup></td>
 		</tr>
 	</tbody>]*
 

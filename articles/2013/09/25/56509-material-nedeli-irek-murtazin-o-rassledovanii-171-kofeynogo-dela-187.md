@@ -13,4 +13,4 @@ tags: ""
 
 *[media: &nbsp;]*
 
-*[media: Специальный корреспондент Ирек Муртазин рассказывает о сфабрикованном <a href="http://www.novayagazeta.ru/inquests/60122.html">«кофейном деле»</a> и его продолжении.]*
+*[media: Специальный корреспондент Ирек Муртазин рассказывает о сфабрикованном <a href="[http://www.novayagazeta.ru/inquests/60122.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/60122.html)">«кофейном деле»</a> и его продолжении.]*

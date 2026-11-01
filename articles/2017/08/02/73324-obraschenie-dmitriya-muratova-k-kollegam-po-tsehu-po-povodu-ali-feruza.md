@@ -17,4 +17,4 @@ tags: "новая газета, политическое убежище, эми�
 
 **«Да, он потерял узбекский паспорт. Он кругом виноват. Все абсолютно правильно, он три года занимается оформлением документов. Что, за это его нужно растворить в кислоте?»**
 
-**link:** https://novayagazeta.ru/news/2017/08/01/134038-sud-postanovil-vydvorit-korrespondenta-novoy-gazety-ali-feruza-iz-strany
+**link:** [https://novayagazeta.ru/news/2017/08/01/134038-sud-postanovil-vydvorit-korrespondenta-novoy-gazety-ali-feruza-iz-strany](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/08/01/134038-sud-postanovil-vydvorit-korrespondenta-novoy-gazety-ali-feruza-iz-strany)

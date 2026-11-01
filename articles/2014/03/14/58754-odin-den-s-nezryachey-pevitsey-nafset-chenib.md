@@ -15,7 +15,7 @@ tags: ""
 
 *[media: &nbsp;]*
 
-*[media: <a href="http://www.novayagazeta.ru/society/62691.html"><strong>Текст Натальи Черновой</strong></a>]*
+*[media: <a href="[http://www.novayagazeta.ru/society/62691.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/62691.html)"><strong>Текст Натальи Черновой</strong></a>]*
 
 *[media: &nbsp;]*
 

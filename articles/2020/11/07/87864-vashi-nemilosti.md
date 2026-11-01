@@ -49,7 +49,7 @@ tags: "фсин, права человека, портрет явления, к�
 
 - **Дарья Таланова,** *дата-отдел «Новой газеты»*
 
-**novaya:** https://novayagazeta.ru/articles/2020/11/07/87867-mark-rozovskiy-statistika-pokazala-miloserdie-rabotaet-rabotalo
+**novaya:** [Марк Розовский: «Статистика показала: милосердие работает. Работало…»](2020/11/07/87867-mark-rozovskiy-statistika-pokazala-miloserdie-rabotaet-rabotalo.md)
 
 > **от цифр — к реальности**
 >

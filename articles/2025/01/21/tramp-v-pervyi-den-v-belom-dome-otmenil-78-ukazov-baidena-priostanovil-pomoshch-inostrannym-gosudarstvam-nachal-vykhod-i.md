@@ -11,7 +11,7 @@ tags: "трамп, байден, указы"
 
 # Трамп в первый день в Белом доме отменил 78 указов Байдена, приостановил помощь иностранным государствам, начал выход из ВОЗ
 
-Президент США Дональд Трамп в первый день в Белом доме подписал несколько десятков постановлений, выполняющих его [предвыборные обещания](https://novayagazeta.ru/articles/2025/01/20/baiden-pomiloval-rodstvennikov-za-prestupleniia-s-2014-2025-gody-a-tramp-obiavil-sebia-prezidentom-mirotvortsem-kotoryi-postroit-silneishuiu-armiiu-v-mire-news), говорится [на сайте Белого дома](https://www.whitehouse.gov/briefings-statements/2025/01/president-trumps-america-first-priorities/).
+Президент США Дональд Трамп в первый день в Белом доме подписал несколько десятков постановлений, выполняющих его [предвыборные обещания](2025/01/20/baiden-pomiloval-rodstvennikov-za-prestupleniia-s-2014-2025-gody-a-tramp-obiavil-sebia-prezidentom-mirotvortsem-kotoryi-.md), говорится [на сайте Белого дома](https://www.whitehouse.gov/briefings-statements/2025/01/president-trumps-america-first-priorities/).
 
 ## **Что сделал Трамп**
 
@@ -24,4 +24,4 @@ tags: "трамп, байден, указы"
 - **продлил работу TikTok в США**.
 - **объявил о помиловании большинства (около 1500 человек) обвиняемых в штурме Капитолия** в январе 2021 года.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/20/vtoroe-prishestvie
+**Читайте также:** [Второе пришествие](2025/01/20/vtoroe-prishestvie.md)

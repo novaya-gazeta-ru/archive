@@ -79,4 +79,4 @@ tags: "смерш, доносы, шпионы, крым"
 
 #### * Внесены властями РФ в реестр «иноагентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/06/01/dokazatelstva-ne-nuzhny-esli-est-donos
+**Читайте также:** [Доказательства не нужны, если есть донос](2023/06/01/dokazatelstva-ne-nuzhny-esli-est-donos.md)

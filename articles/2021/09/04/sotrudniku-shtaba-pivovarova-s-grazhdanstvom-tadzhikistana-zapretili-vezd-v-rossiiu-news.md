@@ -21,6 +21,6 @@ tags: "em , россия, таджикистан, выдворение, акти
 
 «Думаю, чисто формально можно оспорить, но в таких случаях, когда есть политическая составляющая, мне адвокаты пояснили, что это сложно и вообще такая невозможная история», — добавил Сулаймонов в разговоре с «Новой».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/31/idrak-gosudarstva-nomer-odin
+**Читайте также:** [https://novayagazeta.ru/articles/2021/08/31/idrak-gosudarstva-nomer-odin](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/08/31/idrak-gosudarstva-nomer-odin)
 
-В конце августа МВД России [признало](https://novayagazeta.ru/articles/2021/08/30/mvd-priznalo-pozhiznenno-nezhelatelnym-prebyvanie-v-rf-komika-idraka-mirzalizade-news) «нежелательным» пребывание в стране комика Идрака Мирзализаде. До этого суд назначил ему 10 суток ареста по статье о возбуждении ненависти либо вражды (ст. 20.3.1 КоАП) за шутку про испачканный русскими матрас.
+В конце августа МВД России [признало](2021/08/30/mvd-priznalo-pozhiznenno-nezhelatelnym-prebyvanie-v-rf-komika-idraka-mirzalizade-news.md) «нежелательным» пребывание в стране комика Идрака Мирзализаде. До этого суд назначил ему 10 суток ареста по статье о возбуждении ненависти либо вражды (ст. 20.3.1 КоАП) за шутку про испачканный русскими матрас.

@@ -17,6 +17,6 @@ tags: "Мосбиржа, центробанк, торги, em"
 
 По остальным инструментам торги пройдут в том же режиме, что и сегодня.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/18/rubl-ne-khotel-voevat
+**Читайте также:** [Рубль не хотел воевать](2022/02/18/rubl-ne-khotel-voevat.md)
 
-На Мосбирже 24 марта [возобновились](https://novayagazeta.ru/articles/2022/03/23/tsentrobank-vozobnovil-torgi-aktsiiami-na-mosbirzhe-posle-mesiachnogo-pereryva-news) торги акциями после месячного перерыва. Регулятор запретил торги акциями на следующий день после начала боевых действий в Украине 24 февраля. На фоне происходящего регулятор также [поднял](https://novayagazeta.ru/articles/2022/02/28/bank-rossii-povysil-kliuchevuiu-stavku-do-20-news) ключевую ставку до 20%.
+На Мосбирже 24 марта [возобновились](2022/03/23/tsentrobank-vozobnovil-torgi-aktsiiami-na-mosbirzhe-posle-mesiachnogo-pereryva-news.md) торги акциями после месячного перерыва. Регулятор запретил торги акциями на следующий день после начала боевых действий в Украине 24 февраля. На фоне происходящего регулятор также [поднял](2022/02/28/bank-rossii-povysil-kliuchevuiu-stavku-do-20-news.md) ключевую ставку до 20%.

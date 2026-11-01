@@ -52,6 +52,6 @@ tags: "экология, мазут, пляж, птицы, волганефть,
 
 Заработать деньги здесь и сейчас — один из главных принципов ведения крупного бизнеса в России. А после — хоть потоп. Хоть нефтяной.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/18/eta-zemlia-byla-nashei
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/18/eta-zemlia-byla-nashei](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/18/eta-zemlia-byla-nashei)
 
 #### * Внесен властями РФ в реестр «иноагентов».

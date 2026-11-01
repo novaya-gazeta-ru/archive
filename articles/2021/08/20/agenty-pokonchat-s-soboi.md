@@ -33,7 +33,7 @@ tags: "иноагенты, законодательство, конституц�
 
 > Экспертам Минюста придется поломать голову над тем, как совместить эти требования с конституционным статусом физических лиц, то есть граждан своей страны. Но чего не сделаешь для защиты Конституции от внутренних врагов!
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/20/glavnyi-reestr-fizlits-iurlits-i-vsego-takogo-inostrannogo
+**Читайте также:** [https://novayagazeta.ru/articles/2021/08/20/glavnyi-reestr-fizlits-iurlits-i-vsego-takogo-inostrannogo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/08/20/glavnyi-reestr-fizlits-iurlits-i-vsego-takogo-inostrannogo)
 
 Попавшим же в этот последний перечень впору будет тоже «самоликвидироваться», но способов это сделать мы им подсказывать не будем, а то не ровен час Роскомнадзор покарает нас за описание методов суицида.
 

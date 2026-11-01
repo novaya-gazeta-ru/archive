@@ -35,9 +35,9 @@ tags: "мид рф, украина"
 
 — Не знаю, просто он был расстроен, сказал, что получилось так некорректно.
 
-**link:** https://novayagazeta.ru/politics/68529.html
+**link:** [https://novayagazeta.ru/politics/68529.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/68529.html)
 
-**link:** https://novayagazeta.ru/politics/68529.html
+**link:** [https://novayagazeta.ru/politics/68529.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/68529.html)
 
 **—О чем вообще вы беседовали? Это не секрет?**
 
@@ -87,9 +87,9 @@ tags: "мид рф, украина"
 
 — Так и сказал. А я сказал, что надеюсь, не посадят. Говорил ему, что не могу дозвониться до родных, и он тоже сказал, что не может, — выключен телефон. Будут пытаться дальше.
 
-**link:** https://novayagazeta.ru/politics/68506.html
+**link:** [https://novayagazeta.ru/politics/68506.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/68506.html)
 
-**link:** https://novayagazeta.ru/politics/68506.html
+**link:** [https://novayagazeta.ru/politics/68506.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/68506.html)
 
 **—Мы сейчас с тобой не смогли дозвониться тоже.**
 

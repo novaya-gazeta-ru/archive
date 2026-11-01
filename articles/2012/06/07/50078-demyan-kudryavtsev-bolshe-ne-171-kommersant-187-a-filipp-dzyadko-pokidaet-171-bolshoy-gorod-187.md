@@ -15,7 +15,7 @@ tags: ""
 		<tr>
 			<td>
 				<p class="g-justify-right">
-					<strong><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/06/07/1339079417_067149_4.jpg" style="width: 300px; height: 177px; "></strong><br>
+					<strong><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/06/07/1339079417_067149_4.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/06/07/1339079417_067149_4.jpg)" style="width: 300px; height: 177px; "></strong><br>
 					<sup>Демьян Кудрявцев, Филипп Дзядко. Фото: РИА «Новости»</sup></p>
 			</td>
 		</tr>

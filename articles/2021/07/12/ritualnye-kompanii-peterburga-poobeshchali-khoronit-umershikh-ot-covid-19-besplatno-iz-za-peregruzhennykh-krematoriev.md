@@ -23,7 +23,7 @@ tags: "смерти, коронавирус, sf"
 
 В петербургском государственном предприятии «Ритуальные услуги» сказали, что ситуация, «касающаяся скопления гробов», нормализуется.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/07/tretia-volna-samaia-smertonosnaia
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/07/tretia-volna-samaia-smertonosnaia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/07/tretia-volna-samaia-smertonosnaia)
 
 По словам главы предприятия Андрея Грачева, в петербургские «Ритуальные услуги» обращаются из других регионов, в том числе из Москвы, с просьбой заключить договор на оказание услуг по кремации.
 

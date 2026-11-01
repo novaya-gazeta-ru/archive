@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/05/10/1399727013_429464_72.jpg" style="width: 326px; height: 480px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/05/10/1399727013_429464_72.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/05/10/1399727013_429464_72.jpg)" style="width: 326px; height: 480px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Гарри БАРДИН</sup></td>

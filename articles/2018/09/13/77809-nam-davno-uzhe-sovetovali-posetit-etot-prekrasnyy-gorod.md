@@ -35,7 +35,7 @@ tags: "скрипаль, отравление, симоньян, солсбер�
 
 Подозреваемые также не смогли объяснить, каким образом в аэропорту они оказались в одном гейте на таможне в одно и то же время: «Мы всегда проходим вместе, по одному коридору, через одного таможенника. Один проходит, второй ждет. Мы по коридору вместе проходили, мы всегда вместе <…> Как мы это можем объяснить? Это у них [британцев] надо спросить <…> Это фантастичное, фатальное совпадение».
 
-**link:** https://novayagazeta.ru/articles/2018/09/05/77721-raschet-na-tihuyu-likvidatsiyu
+**link:** [Расчет на тихую ликвидацию](2018/09/05/77721-raschet-na-tihuyu-likvidatsiyu.md)
 
 **Зачем они обратились в СМИ?**
 
@@ -51,4 +51,4 @@ tags: "скрипаль, отравление, симоньян, солсбер�
 
 Боширов и Петров обратились к журналистам с просьбой: «Просто хотелось бы, чтобы нас оставили в покое. Хотя бы наши российские СМИ, российские. Хочется просто отсидеться. Такой популярности нам не нужно».
 
-**link:** https://novayagazeta.ru/news/2018/09/13/145021-mid-velikobritanii-nazval-lozhyu-intervyu-podozrevaemyh-v-otravlenii-skripaley-petrova-i-boshirova
+**link:** [https://novayagazeta.ru/news/2018/09/13/145021-mid-velikobritanii-nazval-lozhyu-intervyu-podozrevaemyh-v-otravlenii-skripaley-petrova-i-boshirova](https://web.archive.org/web/*/https://novayagazeta.ru/news/2018/09/13/145021-mid-velikobritanii-nazval-lozhyu-intervyu-podozrevaemyh-v-otravlenii-skripaley-petrova-i-boshirova)

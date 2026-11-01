@@ -23,4 +23,4 @@ tags: ""
 
 Мэр Москвы Сергей Собянин [рассказал](https://t.me/mos_sobyanin/15978), что с позднего вечера 18 июля ПВО уничтожила 14 дронов, летящих на столицу.
 
-Ранее угроза атак беспилотников стала причиной авиаколлапса в аэропортах Москвы и Петербурга, [продолжавшегося двое суток](https://novayagazeta.ru/articles/2025/07/07/itogi-aviakollapsa-bolee-2000-reisov-zaderzhali-ili-otmenili-s-problemami-stolknulis-bolee-200-tysiach-passazhirov-ushcherb-prevysil-20-mlrd-rublei-news). С проблемами столкнулись 200 тысяч пассажиров, более 2000 рейсов задержали либо отменили.
+Ранее угроза атак беспилотников стала причиной авиаколлапса в аэропортах Москвы и Петербурга, [продолжавшегося двое суток](2025/07/07/itogi-aviakollapsa-bolee-2000-reisov-zaderzhali-ili-otmenili-s-problemami-stolknulis-bolee-200-tysiach-passazhirov-ushch.md). С проблемами столкнулись 200 тысяч пассажиров, более 2000 рейсов задержали либо отменили.

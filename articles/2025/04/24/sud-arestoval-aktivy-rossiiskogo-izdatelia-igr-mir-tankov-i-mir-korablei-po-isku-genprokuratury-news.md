@@ -23,4 +23,4 @@ tags: ""
 
 В свою очередь «Леста» тогда подчеркнула, что она «вне политики» и дала понять, что не имеет отношения к действиям Wargaming и ее спецпроектам в World of Tanks и World of Warships.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/04/tainaia-lapsha-i-pokazatelnaia-porka
+**Читайте также:** [Тайная лапша и показательная порка](2025/02/04/tainaia-lapsha-i-pokazatelnaia-porka.md)

@@ -23,6 +23,6 @@ tags: ""
 
 Случилось это еще в середине ноября.
 
-А в начале декабря мэр Нижнекамска (Татарстан) Рамиль Муллин [объявил](https://novayagazeta.ru/articles/2024/12/02/budem-molitsia-vsevyshnemu-chtoby-on-sneg-daval-nam-dozirovano-mer-nizhnekamska-rasskazal-o-50-defitsite-kadrov-v-zhkkh-news), что коммунальные службы на рынке труда «неконкурентны», в сфере ЖКХ наблюдается дефицит специалистов в 50%, и остается только «молиться Всевышнему, чтобы он снег нам давал дозированно».
+А в начале декабря мэр Нижнекамска (Татарстан) Рамиль Муллин [объявил](2024/12/02/budem-molitsia-vsevyshnemu-chtoby-on-sneg-daval-nam-dozirovano-mer-nizhnekamska-rasskazal-o-50-defitsite-kadrov-v-zhkkh-.md), что коммунальные службы на рынке труда «неконкурентны», в сфере ЖКХ наблюдается дефицит специалистов в 50%, и остается только «молиться Всевышнему, чтобы он снег нам давал дозированно».
 
-В ноябре дворники [возглавили список](https://novayagazeta.ru/articles/2024/11/16/dvorniki-stali-samoi-defitsitnoi-spetsialnostiu-v-rossii-na-noiabr-2024-goda-issledovanie-news) дефицитных специальностей в России по данным портала HeadHunter.
+В ноябре дворники [возглавили список](2024/11/16/dvorniki-stali-samoi-defitsitnoi-spetsialnostiu-v-rossii-na-noiabr-2024-goda-issledovanie-news.md) дефицитных специальностей в России по данным портала HeadHunter.

@@ -30,6 +30,6 @@ tags: ""
 
 Журналисты обнаружили прежние выступления Сулейманова на тему СВО. В 2022-м году он [требовал](https://kprf.ru/party-live/regnews/209631.html) только капитуляции от Украины и именно такой жесткой позиции России на тогдашних переговорах. Осенью 2022 года [поддержал](https://ksonline.ru/464154/chastichnaya-mobilizatsiya-chto-dalshe/) частичную мобилизацию, «тяжелую необходимость для обеспечения победы».
 
-**Милитаризация и экономика:** https://novayagazeta.ru/articles/2026/05/19/atomnye-golovy
+**Милитаризация и экономика:** [Атомные головы](2026/05/19/atomnye-golovy.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/05/15/zhiteli-strany-stali-taki-glavnym-istochnikom-deneg
+**Читайте также:** [Жители страны стали-таки главным источником денег](2026/05/15/zhiteli-strany-stali-taki-glavnym-istochnikom-deneg.md)

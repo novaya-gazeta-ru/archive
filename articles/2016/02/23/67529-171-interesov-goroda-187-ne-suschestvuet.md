@@ -23,9 +23,9 @@ tags: "москва, снос, частная собственность"
 
 Короче говоря, целесообразность важнее законности. И если нельзя, но очень хочется, то можно. Со ссылками на филиппинские фавелы, напоминаниями, как специфически могли быть получены разрешения на размещение павильонов и сетованиями на то, что «каждый системный реформатор всегда является объектом недовольства со стороны социальных групп, интересы которых он нарушает».
 
-**link:** https://novayagazeta.ru/columns/71886.html
+**link:** [https://novayagazeta.ru/columns/71886.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/71886.html)
 
-**link:** https://novayagazeta.ru/columns/71886.html
+**link:** [https://novayagazeta.ru/columns/71886.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/71886.html)
 
 Назовем вещи своими именами: перед нами — демагогия.
 

@@ -43,4 +43,4 @@ tags: "фсб, дело сети, поправки в конституцию, п
 
 *Фото: Светлана Виданова / «Новая»*
 
-**link:** https://novayagazeta.ru/articles/2020/03/14/84313-zloy-duh-konstitutsii
+**link:** [Злой дух Конституции](2020/03/14/84313-zloy-duh-konstitutsii.md)

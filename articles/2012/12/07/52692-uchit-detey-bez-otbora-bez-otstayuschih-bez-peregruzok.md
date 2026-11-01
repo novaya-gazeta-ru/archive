@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/12/07/1354896358_253171_65.jpg" style="width: 300px; height: 200px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/12/07/1354896358_253171_65.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/12/07/1354896358_253171_65.jpg)" style="width: 300px; height: 200px;"><br>
 				<sup>Фото: shkola3000.ru</sup></td>
 		</tr>
 	</tbody>]*

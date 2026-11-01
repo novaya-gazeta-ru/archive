@@ -21,4 +21,4 @@ tags: "лгбт, права человека, суды, sn"
 
 Районный суд заявительнице отказал, решение устояло в апелляции.
 
-**Читайте также:** https://novayagazeta.ru/articles/2018/04/24/76292-takie-tsennosti-rossiya-nosit-tolko-na-vyhod
+**Читайте также:** [Такие ценности Россия носит только на выход](2018/04/24/76292-takie-tsennosti-rossiya-nosit-tolko-na-vyhod.md)

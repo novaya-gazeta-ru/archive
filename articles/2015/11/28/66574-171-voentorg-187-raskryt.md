@@ -29,8 +29,8 @@ tags: "оружие, права журналиста, сирия, турция, 
 
 «Новая газета», следуя принципам журналисткой солидарности, также решила опубликовать перевод этой публикации.
 
-**link:** https://novayagazeta.ru/topics/167.html
+**link:** [https://novayagazeta.ru/topics/167.html](https://web.archive.org/web/*/https://novayagazeta.ru/topics/167.html)
 
-**link:** https://novayagazeta.ru/topics/167.html
+**link:** [https://novayagazeta.ru/topics/167.html](https://web.archive.org/web/*/https://novayagazeta.ru/topics/167.html)
 
-> **[](http://www.novayagazeta.ru/topics/167.html)Следите за темой:**
+> **[](https://web.archive.org/web/*/http://www.novayagazeta.ru/topics/167.html)Следите за темой:**

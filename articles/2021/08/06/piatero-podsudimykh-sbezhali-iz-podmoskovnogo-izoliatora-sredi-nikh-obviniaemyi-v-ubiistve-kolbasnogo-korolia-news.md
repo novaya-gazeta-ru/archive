@@ -29,6 +29,6 @@ tags: "истра , Подмосковье , побег, изолятор, sf"
 
 По версии следствия, 1 ноября Мавриди и второй фигурант дела об убийстве «колбасного короля» Паша Ахмедов приобрели арбалет в одном из торговых центров Москвы, после чего проникли в баню на территории загородного дома в Истре и выстрелили Маругову в грудь.
 
-Мавриди [задержали](https://novayagazeta.ru/news/2020/11/02/165392-podozrevaemogo-v-ubiystve-vladeltsa-kolbasnyh-zavodov-marugova-zaderzhali) 2 ноября, на следующий день у него дома [нашли](https://novayagazeta.ru/news/2020/11/03/165403-doma-u-podozrevaemogo-v-ubiystve-kolbasnogo-korolya-nashli-pensionera-v-naruchnikah) пенсионера, прикованного к кровати наручниками.
+Мавриди [задержали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/02/165392-podozrevaemogo-v-ubiystve-vladeltsa-kolbasnyh-zavodov-marugova-zaderzhali) 2 ноября, на следующий день у него дома [нашли](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/03/165403-doma-u-podozrevaemogo-v-ubiystve-kolbasnogo-korolya-nashli-pensionera-v-naruchnikah) пенсионера, прикованного к кровати наручниками.
 
 Маругову принадлежали «Мясная империя» и завод «Озерецкие колбасы». Кроме того, он был владельцем компаний «Строй-проект» и «СК Теплосеть».

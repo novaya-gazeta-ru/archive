@@ -25,4 +25,4 @@ RuStore [предупредил](https://www.rustore.ru/developer/blog/google-me
 
 -
 
-В июле VK и юрлицо «Макса» попали под санкции Евросоюза. После этого Google [удалил](https://novayagazeta.ru/articles/2026/07/16/maks-i-vk-udalili-iz-google-play-na-fone-sanktsii-es-news) их приложения из Google Play. На месяц раньше это сделала Apple, сославшись на необходимость соблюдать санкций.
+В июле VK и юрлицо «Макса» попали под санкции Евросоюза. После этого Google [удалил](2026/07/16/maks-i-vk-udalili-iz-google-play-na-fone-sanktsii-es-news.md) их приложения из Google Play. На месяц раньше это сделала Apple, сославшись на необходимость соблюдать санкций.

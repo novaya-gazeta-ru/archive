@@ -19,6 +19,6 @@ tags: "новосибирск, томск, выборы, единый день �
 
 В России 13 сентября прошел единый день голосования. Выборы проводились в 83 субъектах, почти в половине из них можно было проголосовать досрочно 11 и 12 сентября.
 
-В 20 регионах прошли губернаторские выборы, в двух из них (ХМАО и НАО) они были непрямыми. В ХМАО депутаты [переизбрали](https://novayagazeta.ru/news/2020/09/13/164238-deputaty-izbrali-glavoy-nenetskogo-avtonomnogo-okruga-yuriya-bezdudnogo) на третий губернаторский срок Наталью Комарову, главой НАО стал Юрий Бездудный, который до этого был врио. В других регионах, по [данным](https://novayagazeta.ru/news/2020/09/14/164244-tsik-na-vyborah-gubernatorov-lidiruyut-deystvuyuschie-glavy-regionov-i-vrio) ЦИК, лидируют действующие главы и временно исполняющие обязанности.
+В 20 регионах прошли губернаторские выборы, в двух из них (ХМАО и НАО) они были непрямыми. В ХМАО депутаты [переизбрали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/09/13/164238-deputaty-izbrali-glavoy-nenetskogo-avtonomnogo-okruga-yuriya-bezdudnogo) на третий губернаторский срок Наталью Комарову, главой НАО стал Юрий Бездудный, который до этого был врио. В других регионах, по [данным](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/09/14/164244-tsik-na-vyborah-gubernatorov-lidiruyut-deystvuyuschie-glavy-regionov-i-vrio) ЦИК, лидируют действующие главы и временно исполняющие обязанности.
 
-**link:** https://novayagazeta.ru/articles/2020/09/14/87075-proryv-s-boyko
+**link:** [Прорыв с Бойко](2020/09/14/87075-proryv-s-boyko.md)

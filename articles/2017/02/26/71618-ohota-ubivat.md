@@ -27,7 +27,7 @@ tags: "дагестан, махачкала, собаки, животные, ж�
 
 #«Мэрия дала добро»
 
-**link:** https://novayagazeta.ru/news/2017/02/27/129434-meriya-mahachkaly-o-rasstrelah-sobak-lyudey-tozhe-mozhno-ponyat
+**link:** [https://novayagazeta.ru/news/2017/02/27/129434-meriya-mahachkaly-o-rasstrelah-sobak-lyudey-tozhe-mozhno-ponyat](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/02/27/129434-meriya-mahachkaly-o-rasstrelah-sobak-lyudey-tozhe-mozhno-ponyat)
 
 **— Где? Точный адрес? Дождитесь, я выезжаю, — Ольга Вяткина, хрупкая молодая девушка на последних месяцах беременности, оборачивается ко мне, параллельно набирая номер такси. — Улица Ирчи Казака, центр самый. Раненая собака истекает кровью, двое щенков.**
 

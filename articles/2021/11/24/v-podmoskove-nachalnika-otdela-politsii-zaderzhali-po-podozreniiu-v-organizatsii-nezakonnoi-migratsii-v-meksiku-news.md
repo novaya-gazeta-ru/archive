@@ -29,4 +29,4 @@ tags: "мигранты, индия, мексика, долгопрудный, s
 >
 > По данным следствия, в октябре 2021 года мужчины организовали незаконную миграцию иностранных граждан за денежное вознаграждение. Левин, как считают следователи, передавал взятки должностным лицам аэропорта Шереметьево.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/16/piat-kilometrov-chrezvychainogo-polozheniia
+**Читайте также:** [https://novayagazeta.ru/articles/2021/11/16/piat-kilometrov-chrezvychainogo-polozheniia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/16/piat-kilometrov-chrezvychainogo-polozheniia)

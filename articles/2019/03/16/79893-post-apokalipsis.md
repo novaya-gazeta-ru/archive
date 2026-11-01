@@ -25,7 +25,7 @@ tags: "быков"
 
 В новозеландской ли мечете, В венесуэльской ли толпе — Все заслужили кары эти, Войну, облаву и т.п.
 
-**link:** https://novayagazeta.ru/articles/2019/03/15/79877-ultrapravye-ustroili-terakty-v-dvuh-mechetyah-v-novoy-zelandii-49-pogibshih-napadavshie-yavlyayutsya-ultrapravymi-glavnoe
+**link:** [Ультраправые устроили теракты в двух мечетях в Новой Зеландии. 50 человек погибли](2019/03/15/79877-ultrapravye-ustroili-terakty-v-dvuh-mechetyah-v-novoy-zelandii-49-pogibshih-napadavshie-yavlyayutsya-ultrapravymi-.md)
 
 Беду встречают чуть не лаем И предвкушеньем новых драк: Мол, мы, конечно, сострадаем, Но вас бы надо и не так.
 
@@ -35,7 +35,7 @@ tags: "быков"
 
 И в этом вое столько злобы, Что правь планетой русский Бог — Он уничтожил всех давно бы И лучше выдумать не мог.
 
-**link:** https://novayagazeta.ru/articles/2019/03/02/79753-smeh-gospoden
+**link:** [Смех господень](2019/03/02/79753-smeh-gospoden.md)
 
 И мусульмане заслужили, И на латиносах вина, Лишь мы при нынешнем режиме Не заслужили ни хрена.
 

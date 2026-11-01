@@ -49,7 +49,7 @@ tags: "регионы, протесты, акции протеста, пенси
 
 **Татьяна Брицкая,** «Новая»
 
-**link:** https://novayagazeta.ru/articles/2018/06/24/76920-priglashenie-na-bunt
+**link:** [Приглашение на бунт](2018/06/24/76920-priglashenie-na-bunt.md)
 
 Саратов
 
@@ -103,7 +103,7 @@ tags: "регионы, протесты, акции протеста, пенси
 
 **Георгий Бородянский,** «Новая»
 
-**link:** https://novayagazeta.ru/articles/2018/06/24/76922-schitayu-net-neobhodimosti
+**link:** [«Считаю, нет необходимости…»](2018/06/24/76922-schitayu-net-neobhodimosti.md)
 
 Крым
 

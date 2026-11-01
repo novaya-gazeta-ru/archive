@@ -25,9 +25,9 @@ tags: "москва, госдума, сексуальные домогатель
 
 Отдел политики отзывает аккредитованного в Думе корреспондента.
 
-**link:** https://novayagazeta.ru/articles/2018/03/22/75900-leonidov-den
+**link:** [Леонидов день](2018/03/22/75900-leonidov-den.md)
 
-**link:** https://novayagazeta.ru/articles/2018/03/21/75891-drugogo-resheniya-komissiya-ne-mogla-prinyat
+**link:** [«Это не нарушение этики поведения. Это проявление любви»](2018/03/21/75891-drugogo-resheniya-komissiya-ne-mogla-prinyat.md)
 
 > **...и еще про этику и депутата слуцкого**
 >

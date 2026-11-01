@@ -87,7 +87,7 @@ tags: "нойз мс, staraya derevnia, музей гараж, viagra boys, со
 >
 > - [**Слушать**](https://station.garagemca.radio/seasons/season-6)** на сайте радио «Станция»**
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/24/vrode-slyshitsia-grom-a-chitaetsia-naoborot
+**Читайте также:** [«Вроде слышится ГРОМ, а читается наоборот»](2024/10/24/vrode-slyshitsia-grom-a-chitaetsia-naoborot.md)
 
 ![](_assets/9a/9add2c73fb104b90352414d3e042b966.webp)
 

@@ -15,8 +15,8 @@ tags: "шахматы, em"
 
 Таким образом, общий счет в матче стал 6:3. Карлсену и Непомнящему осталось провести еще пять матчей.
 
-Предыдущую, восьмую партию, также [выиграл](https://novayagazeta.ru/articles/2021/12/05/norvezhskii-shakhmatist-magnus-karlsen-obygral-rossiianina-nepomniashchego-v-vosmoi-partii-matcha-za-zvanie-chempiona-mira-news) Карлсен. Непомнящий тогда сказал, что надеется отыграться: «Допустил ряд нелогичных решений. Я защищался не лучшим образом, но после ошибки по ходу партии не было особого желания это делать. В любом случае задача остается та же — выиграть».
+Предыдущую, восьмую партию, также [выиграл](2021/12/05/norvezhskii-shakhmatist-magnus-karlsen-obygral-rossiianina-nepomniashchego-v-vosmoi-partii-matcha-za-zvanie-chempiona-mi.md) Карлсен. Непомнящий тогда сказал, что надеется отыграться: «Допустил ряд нелогичных решений. Я защищался не лучшим образом, но после ошибки по ходу партии не было особого желания это делать. В любом случае задача остается та же — выиграть».
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/12/19/88440-vse-razbrelis-po-kletkam
+**Читайте также:** [https://novayagazeta.ru/articles/2020/12/19/88440-vse-razbrelis-po-kletkam](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/12/19/88440-vse-razbrelis-po-kletkam)
 
 Шестая партия Непомнящего и Карлсена оказалась самой долгой за всю историю турнира: всего шахматисты сделали 136 ходов. Остальные встречи закончились ничьей.

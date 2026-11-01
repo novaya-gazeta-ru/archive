@@ -13,7 +13,7 @@ tags: "война, россия, сирия, va"
 
 > **<span style="color:#a52a2a">Продолжение</span>&nbsp;**
 >
-> Российские военные [подняли](https://www.novayagazeta.ru/news/2018/09/18/145156-rossiyskie-voennye-podnyali-oblomki-sbitogo-v-sirii-samoleta?admin_access_token=c1021c6e76c515c751c82e7a892fb87f01448b58) из воды обломки сбитого в Сирии самолета.&nbsp;
+> Российские военные [подняли](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/09/18/145156-rossiyskie-voennye-podnyali-oblomki-sbitogo-v-sirii-samoleta?admin_access_token=c1021c6e76c515c751c82e7a892fb87f01448b58) из воды обломки сбитого в Сирии самолета.&nbsp;
 
 ![](_assets/6d/6dad05f57255742409022149807b4052.webp)
 
@@ -23,15 +23,15 @@ tags: "война, россия, сирия, va"
 
 Конашенков [отметил](https://www.interfax.ru/russia/629646), что Израиль не предупреждал Россию о готовящихся ударах по Сирии, и уведомление по «горячей линии», по его словам, поступило менее чем за минуту до удара, что не позволило вывести российский самолет в безопасную зону.
 
-**link:** https://novayagazeta.ru/articles/2018/09/18/77866-siriyskie-pvo-sbili-rossiyskiy-il-20-pogibli-15-voennyh-rossiya-obvinila-izrail
+**link:** [ПВО Сирии сбили российский Ил-20, погибли 15 военных. Россия обвинила Израиль](2018/09/18/77866-siriyskie-pvo-sbili-rossiyskiy-il-20-pogibli-15-voennyh-rossiya-obvinila-izrail.md)
 
 Напомним, накануне сирийские ПВО частично [отразили](https://www.kommersant.ru/doc/3744628) ракетный удар по территории страны. По [словам](https://www.interfax.ru/russia/629646) Конашенкова, его совершили четыре самолета F-16 ВВС Израиля.
 
-Тогда же Минобороны России [сообщило](https://www.novayagazeta.ru/news/2018/09/18/145149-cnn-siriyskie-pvo-po-oshibke-sbili-rossiyskiy-samolet-il-20) о том, что в 35 километрах от побережья Сирии пропал российский самолет Ил-20 с военными на борту. CNN со ссылкой на американских чиновников [утверждал](http://www.novayagazeta.ru/news/2018/09/18/145149-cnn-siriyskie-pvo-po-oshibke-sbili-rossiyskiy-samolet-il-20), что самолет был сбит во время зенитного огня, который в ответ на действия Израиля открыли сирийские войска.
+Тогда же Минобороны России [сообщило](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/09/18/145149-cnn-siriyskie-pvo-po-oshibke-sbili-rossiyskiy-samolet-il-20) о том, что в 35 километрах от побережья Сирии пропал российский самолет Ил-20 с военными на борту. CNN со ссылкой на американских чиновников [утверждал](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/2018/09/18/145149-cnn-siriyskie-pvo-po-oshibke-sbili-rossiyskiy-samolet-il-20), что самолет был сбит во время зенитного огня, который в ответ на действия Израиля открыли сирийские войска.
 
 В зоне исчезновения Ил-20, по данным Минобороны, также были[ зафиксированы](https://ria.ru/syria/20180918/1528758462.html) пуски ракет с французского фрегата Auvergne. Вооруженные силы Франции не имеют отношения к ракетному обстрелу Сирии, [заявил](http://www.francesoir.fr/actualites-monde/un-avion-russe-avec-14-militaires-bord-disparait-des-radars-en-syrie) France Soir представитель французской армии.
 
-**link:** https://novayagazeta.ru/articles/2018/09/15/77838-stil-militari-klass-premium
+**link:** [Стиль «милитари», класс «премиум»](2018/09/15/77838-stil-militari-klass-premium.md)
 
 Как сообщало РИА Новости, связь с экипажем ИЛ-20 пропала 17 сентября около 23:00 — самолет находился в 35 километрах от побережья Сирии.
 

@@ -53,7 +53,7 @@ tags: "беженцы, украина, спецоперация, помощь, �
 
 **Татьяна Брицкая**
 
-https://novayagazeta.ru/svg/80ba028ff5064a0099eb03ba1065a4ea.svg
+[https://novayagazeta.ru/svg/80ba028ff5064a0099eb03ba1065a4ea.svg](https://web.archive.org/web/*/https://novayagazeta.ru/svg/80ba028ff5064a0099eb03ba1065a4ea.svg)
 
 # **Швейцария**
 
@@ -77,7 +77,7 @@ https://novayagazeta.ru/svg/80ba028ff5064a0099eb03ba1065a4ea.svg
 
 **Екатерина Гликман**
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/15/na-ukraine-evropy
+**Читайте также:** [Близкая Украина Европы](2022/03/15/na-ukraine-evropy.md)
 
 # **Болгария**
 
@@ -109,7 +109,7 @@ https://novayagazeta.ru/svg/80ba028ff5064a0099eb03ba1065a4ea.svg
 
 **Геннадий Габриэлян**
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/15/prosto-grazhdane
+**Читайте также:** [Просто граждане](2022/03/15/prosto-grazhdane.md)
 
 # **Молдова**
 
@@ -153,7 +153,7 @@ https://novayagazeta.ru/svg/80ba028ff5064a0099eb03ba1065a4ea.svg
 
 **Алина Михалкина**
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/15/vas-zdes-ne-brosiat
+**Читайте также:** [«Вас здесь не бросят»](2022/03/15/vas-zdes-ne-brosiat.md)
 
 # **Финляндия**
 

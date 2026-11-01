@@ -21,7 +21,7 @@ tags: "Гоголь-Центр, арест, суды, серебренников
 
 *Продюсер Алексей Малобродский под стражей в суде. Фото: Влад Докшин / "Новая газета"*
 
-**link:** https://novayagazeta.ru/news/2017/10/17/136210-serebrennikov
+**link:** [https://novayagazeta.ru/news/2017/10/17/136210-serebrennikov](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/10/17/136210-serebrennikov)
 
 ![](_assets/b3/b35fa7f52c705130a472e42ae4bebd3a.webp)
 

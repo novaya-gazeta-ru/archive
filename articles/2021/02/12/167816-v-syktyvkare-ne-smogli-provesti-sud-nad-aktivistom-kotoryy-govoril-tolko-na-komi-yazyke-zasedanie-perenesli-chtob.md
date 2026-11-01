@@ -17,4 +17,4 @@ tags: "sf, судьи, активисты, митинги, коми, сыкты�
 
 Судья задала Иванову вопросы про русскую школу, паспорт и имя, а потом решила перенести заседание на 18 февраля и провести его в присутствии переводчика.
 
-После задержания в январе активист [отказался](http://novayagazeta.ru/news/2021/01/28/167470-v-syktyvkare-zaderzhannogo-aktivista-otpustili-posle-togo-kak-on-otkazalsya-podpisat-protokol-bez-perevoda-na-komi-yazyk) подписать протокол без перевода на коми язык. Тогда его отпустили из отделения полиции.
+После задержания в январе активист [отказался](https://web.archive.org/web/*/http://novayagazeta.ru/news/2021/01/28/167470-v-syktyvkare-zaderzhannogo-aktivista-otpustili-posle-togo-kak-on-otkazalsya-podpisat-protokol-bez-perevoda-na-komi-yazyk) подписать протокол без перевода на коми язык. Тогда его отпустили из отделения полиции.

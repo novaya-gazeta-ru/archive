@@ -25,7 +25,7 @@ tags: "ив роше, навальный, суды, ходорковский"
 
 Но, послушайте, ведь, если политические звезды так нагло гасят — значит, это кому-нибудь нужно? Кому — и так понятно, остается только понять — зачем?
 
-**link:** https://novayagazeta.ru/news/1690562.html
+**link:** [https://novayagazeta.ru/news/1690562.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1690562.html)
 
 #Не переставая удивлять
 
@@ -47,9 +47,9 @@ tags: "ив роше, навальный, суды, ходорковский"
 
 Поэтому вопрос сегодня состоит вовсе не в том, посадят завтра или послезавтра Навального или нет, а в том, почему его не посадили до сих пор?
 
-**link:** https://novayagazeta.ru/inquests/64679.html
+**link:** [https://novayagazeta.ru/inquests/64679.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/64679.html)
 
-**link:** https://novayagazeta.ru/inquests/64679.html
+**link:** [https://novayagazeta.ru/inquests/64679.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/64679.html)
 
 Единственным объяснением, почему Навальный до сих пор не ходит в арестантской робе, может быть лишь отсутствие сигнала сверху. По каким-то причинам власти пока было выгодней держать Навального на свободе или, по крайней мере, в состоянии «полусвободы», чем в тюрьме. И только теперь она решила, что наступил нужный момент и Навального пора «приземлять».
 
@@ -111,6 +111,6 @@ tags: "ив роше, навальный, суды, ходорковский"
 
 Лучшим выходом для всех, — и для власти, и для общества, — сегодня было бы экстренное торможение. Самое разумное, что мог бы сделать Кремль — это демонстративно оправдать Навального. Это ничего не меняло бы по сути, но предоставило бы Кремлю некоторое поле для политического маневра. Потому что, чем длиннее будет срок Навального, тем короче будет срок режима.
 
-**link:** https://novayagazeta.ru/columns/66011.html
+**link:** [https://novayagazeta.ru/columns/66011.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/66011.html)
 
-**link:** https://novayagazeta.ru/columns/66011.html
+**link:** [https://novayagazeta.ru/columns/66011.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/66011.html)

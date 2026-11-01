@@ -19,4 +19,4 @@ tags: "простой, трудоустройство, рынок труда, IK
 
 За время военных действий в Украине в России приостановили деятельность такие компании как Apple, McDonalds, IKEA, Volkswagen, Mercedes, H&M, Inditex (бренды Zara, Oysho, Pull&Bear, Bershka, Stradivarius, Massimo Dutti), Sephora, Lush и многие другие.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/18/bez-dezodorantov-i-zhenskikh-trusikov
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/18/bez-dezodorantov-i-zhenskikh-trusikov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/18/bez-dezodorantov-i-zhenskikh-trusikov)

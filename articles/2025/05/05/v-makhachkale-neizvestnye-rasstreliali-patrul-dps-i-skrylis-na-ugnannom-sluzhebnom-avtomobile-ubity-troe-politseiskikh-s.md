@@ -39,8 +39,8 @@ tags: ""
 
 Ранения получили двое гражданских, из них одна — 17-летняя девушка. Ее состояние — средней тяжести.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/06/24/tri-terakta-za-tri-mesiatsa
+**Читайте также:** [https://novayagazeta.ru/articles/2024/06/24/tri-terakta-za-tri-mesiatsa](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/06/24/tri-terakta-za-tri-mesiatsa)
 
-Нападение на пост ДПС было и в соседней с Махачкалой Чечне. Там его совершил подросток, он ранил полицейского ножом и был убит. А затем глава республики устроил [«акцию устрашения»](https://novayagazeta.ru/articles/2025/04/10/telo-podrostka-terrorista-atakovavshego-post-dps-vylozhili-na-ploshchadi-v-achkhoi-martane-rodstvennikov-ego-kadyrov-poruchil-vydvorit-iz-chechni-news): тело убитого подростка выбросили на главную площадь Ачхой-Мартана, туда собрали местных жителей, и не разрешали к нему приближаться, все это снимали на видео. Затем Кадыров поручил прогнать из Чечни родственников нападавшего по мужской линии и отобрать у них собственность.
+Нападение на пост ДПС было и в соседней с Махачкалой Чечне. Там его совершил подросток, он ранил полицейского ножом и был убит. А затем глава республики устроил [«акцию устрашения»](2025/04/10/telo-podrostka-terrorista-atakovavshego-post-dps-vylozhili-na-ploshchadi-v-achkhoi-martane-rodstvennikov-ego-kadyrov-por.md): тело убитого подростка выбросили на главную площадь Ачхой-Мартана, туда собрали местных жителей, и не разрешали к нему приближаться, все это снимали на видео. Затем Кадыров поручил прогнать из Чечни родственников нападавшего по мужской линии и отобрать у них собственность.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/11/detskii-trup-na-ploshchadi
+**Читайте также:** [Детский труп на площади](2025/04/11/detskii-trup-na-ploshchadi.md)

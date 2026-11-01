@@ -15,4 +15,4 @@ tags: ""
 
 #### * Внесена властями РФ в реестр «иноагентов».
 
-**смотрите также:** https://novayagazeta.ru/articles/2026/03/11/chto-ne-tak-s-filmom-gospodin-nikto-protiv-putina
+**смотрите также:** [Что не так с фильмом «Господин никто против Путина»?](2026/03/11/chto-ne-tak-s-filmom-gospodin-nikto-protiv-putina.md)

@@ -16,11 +16,11 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<a href="http://www.novayagazeta.ru/photos/56858.html"><img alt="" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2013/02/20/1361364106_540342_7.jpg" style="width: 360px; height: 240px; "></a></td>
+				<a href="[http://www.novayagazeta.ru/photos/56858.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/56858.html)"><img alt="" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2013/02/20/1361364106_540342_7.jpg" style="width: 360px; height: 240px; "></a></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<a href="http://www.novayagazeta.ru/photos/56858.html"><sup>Фото Евгения Фельдмана</sup></a></td>
+				<a href="[http://www.novayagazeta.ru/photos/56858.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/56858.html)"><sup>Фото Евгения Фельдмана</sup></a></td>
 		</tr>
 	</tbody>]*
 

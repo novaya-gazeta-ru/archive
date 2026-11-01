@@ -23,6 +23,6 @@ tags: "ng, роскомнадзор, vpn"
 
 При этом источники «Ъ» в «большой четверке» операторов заявили, что протестировали сети и причина возникших сложностей — работа оборудования технических средств противодействия угрозам, которое Роскомнадзор установил на сетях в рамках закона о «суверенном рунете».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/14/let-zem-spik-from-zei-kharts
+**Читайте также:** [Лет зем спик фром зей хартс](2021/06/14/let-zem-spik-from-zei-kharts.md)
 
-3 сентября Роскомнадзор [ограничил](https://novayagazeta.ru/articles/2021/09/03/roskomnadzor-zablokiroval-v-rossii-shest-vpn-servisov-sredi-nikh-expressvpn-nord-vpn-i-ipvanish-vpn-news) работу на территории России шести VPN-сервисов, в том числе ExpressVPN, Nord VPN и IPVanish VPN, входящих в рейтинги лучших в мире. В ведомстве заявили, что VPN-сервисы нарушали российское законодательство. 17 июня Роскомнадзор [заблокировал](https://novayagazeta.ru/articles/2021/06/17/roskomnadzor-zablokiroval-servisy-vyprvpn-i-opera-vpn) на территории России Vyprvpn и Opera VPN из-за «угрозы обхода ограничений доступа» к запрещенному контенту.
+3 сентября Роскомнадзор [ограничил](2021/09/03/roskomnadzor-zablokiroval-v-rossii-shest-vpn-servisov-sredi-nikh-expressvpn-nord-vpn-i-ipvanish-vpn-news.md) работу на территории России шести VPN-сервисов, в том числе ExpressVPN, Nord VPN и IPVanish VPN, входящих в рейтинги лучших в мире. В ведомстве заявили, что VPN-сервисы нарушали российское законодательство. 17 июня Роскомнадзор [заблокировал](2021/06/17/roskomnadzor-zablokiroval-servisy-vyprvpn-i-opera-vpn.md) на территории России Vyprvpn и Opera VPN из-за «угрозы обхода ограничений доступа» к запрещенному контенту.

@@ -71,4 +71,4 @@ tags: "лермонтов, бакурадзе, российское кино, ф
 >
 > Лариса Малюкова ведет телеграм-канал о кино и не только. [Подписывайтесь тут](https://t.me/larisamalukova).
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/10/03/tolstoi-vkhodit-v-palatu-chekhova-chekhov-shchupaet-puls-tolstogo
+**Читайте также:** [Толстой входит в палату Чехова — Чехов щупает пульс Толстого…](2025/10/03/tolstoi-vkhodit-v-palatu-chekhova-chekhov-shchupaet-puls-tolstogo.md)

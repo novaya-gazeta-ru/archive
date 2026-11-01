@@ -77,4 +77,4 @@ tags: "ройзман, суд, екатеринбург"
 
 #### * Внесены властями РФ в реестр «иноагентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/03/28/prokuraturu-otpravili-za-reshetku
+**Читайте также:** [Прокуратуру отправили за решетку](2023/03/28/prokuraturu-otpravili-za-reshetku.md)

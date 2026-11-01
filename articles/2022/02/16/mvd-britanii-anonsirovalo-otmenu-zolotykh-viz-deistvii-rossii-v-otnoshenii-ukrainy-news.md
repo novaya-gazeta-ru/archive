@@ -21,6 +21,6 @@ Financial Times пишет, что власти Великобритании в�
 
 Ранее власти страны [объявили](https://www.theguardian.com/world/2022/jan/30/calls-for-uk-to-suspend-golden-visas-after-fast-tracking-of-russian-millionaires) о завершении отчета о визах для инвесторов 1 уровня, выдаваемых, в частности, гражданам России, Китая и Казахстана, составленного на фоне опасений по поводу оборота незаконных средств.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/15/daiu-24-chasa-chtoby-vernutsia
+**Читайте также:** [«Даю 24 часа, чтобы вернуться»](2022/02/15/daiu-24-chasa-chtoby-vernutsia.md)
 
-Накануне Украина [запросила](https://novayagazeta.ru/articles/2022/02/15/ukraina-zaprosila-pomoshch-u-nato-na-sluchai-masshtabnykh-chrezvychainykh-situatsii-news) международную помощь у НАТО на случай «масштабных чрезвычайных ситуаций различного характера, которые могут затронуть мирное население». Из-за опасений «вторжения» уже около 40 стран призвали сограждан покинуть Украину.
+Накануне Украина [запросила](2022/02/15/ukraina-zaprosila-pomoshch-u-nato-na-sluchai-masshtabnykh-chrezvychainykh-situatsii-news.md) международную помощь у НАТО на случай «масштабных чрезвычайных ситуаций различного характера, которые могут затронуть мирное население». Из-за опасений «вторжения» уже около 40 стран призвали сограждан покинуть Украину.

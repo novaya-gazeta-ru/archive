@@ -15,4 +15,4 @@ tags: "интервью с кандидатом, кпрф, грудинин"
 
 *При участии Александры Сорочинской*
 
-**link:** https://novayagazeta.ru/articles/2018/02/11/75477-kandidat-za-kotorogo-krasneyut
+**link:** [Кандидат, за которого краснеют](2018/02/11/75477-kandidat-za-kotorogo-krasneyut.md)

@@ -27,4 +27,4 @@ tags: "донбасс, захоронения, ск, лнр, днр, kn"
 
 Президент Украины Владимир Зеленский на 76-й сессии Генассамблеи ООН уточнил, что почти 15 тысяч человек погибли с момента начала конфликта в Донбассе.
 
-**Слушайте:** https://novayagazeta.ru/articles/2022/02/16/den-kogda-ne-sluchilas-voina
+**Слушайте:** [https://novayagazeta.ru/articles/2022/02/16/den-kogda-ne-sluchilas-voina](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/16/den-kogda-ne-sluchilas-voina)

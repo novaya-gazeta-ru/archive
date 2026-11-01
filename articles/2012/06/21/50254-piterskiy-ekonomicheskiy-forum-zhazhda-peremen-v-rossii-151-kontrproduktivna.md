@@ -17,7 +17,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/06/21/1340360243_478281_36.jpg" style="width: 350px; height: 525px; "><br>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/06/21/1340360243_478281_36.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/06/21/1340360243_478281_36.jpg)" style="width: 350px; height: 525px; "><br>
 					<sup>Фото: Михаил Масленников — «Новая газета в Санкт-Петербурге»</sup></p>
 			</td>
 		</tr>

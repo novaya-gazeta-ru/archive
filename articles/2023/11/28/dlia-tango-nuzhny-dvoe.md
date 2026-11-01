@@ -61,7 +61,7 @@ tags: "аргентина, хавьер милей, диктатура, попу
 
 Унизительное поражение вынудило диктаторов уступить власть и передать ее демократическому правительству в 1983 году.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/11/24/da-zdravstvuet-svoboda-chert-poberi
+**Читайте также:** [https://novayagazeta.ru/articles/2023/11/24/da-zdravstvuet-svoboda-chert-poberi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/11/24/da-zdravstvuet-svoboda-chert-poberi)
 
 ## Финальный аккорд
 

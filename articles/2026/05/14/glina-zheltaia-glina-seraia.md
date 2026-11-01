@@ -49,4 +49,4 @@ tags: "пляжи анапы, разлив мазута в черном море
 
 *Кубань*
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/04/29/ulybka-mertvogo-delfina
+**Читайте также:** [Улыбка мертвого дельфина](2026/04/29/ulybka-mertvogo-delfina.md)

@@ -29,4 +29,4 @@ tags: ""
 
 Глава Центризбиркома Элла Памфилова на заседании с членами УИКов призвала [«объявить бойкот» пиротехнике](https://tass.ru/obschestvo/22766729) и не покупать ее. Зачитав сообщение, что «по воздуху, наземным и иным путем по всей России силами спецслужб Украины осуществляется доставка петард "Корсар" со взрывчаткой моментального действия».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/21/v-peterburge-vzorvali-otdelenie-sbera-a-v-moskve-moshenniki-zastavili-zhertv-vzorvat-petardy-v-tts-i-otdelenii-pochty-news
+**Читайте также:** [Жертвы телефонных мошенников взорвали петарды в московских ТЦ и в отделении почты, а в Петербурге сожгли банкоматы Сбера](2024/12/21/v-peterburge-vzorvali-otdelenie-sbera-a-v-moskve-moshenniki-zastavili-zhertv-vzorvat-petardy-v-tts-i-otdelenii-pochty-ne.md)

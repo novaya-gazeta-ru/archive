@@ -53,7 +53,7 @@ tags: "омск, яды, отравление, навальный"
 
 Пресс-секретарь Навального, однако, уверена, что это — токсическое отравление, что подтверждает название отделения, в котором лежит Алексей.
 
-**link:** https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online
+**link:** [https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online)
 
 На выходе из больницы глава областного ГУИП (Главного управления по информационной политике) Ярослав Лесовский сказал корреспонденту «Новой» доверительно: «Даже если медики знают диагноз и причины заболевания, закон не позволяет им это разглашать. А состояние... сам понимаешь: мужик лежит под ИВЛ без сознания».
 

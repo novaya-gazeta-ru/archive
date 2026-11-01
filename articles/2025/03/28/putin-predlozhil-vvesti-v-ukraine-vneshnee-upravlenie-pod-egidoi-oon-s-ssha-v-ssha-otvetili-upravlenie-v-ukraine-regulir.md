@@ -35,4 +35,4 @@ tags: ""
 
 Киев не прокомментировал вчерашние высказывания Путина.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/27/evropeiskie-mirotvortsy-tochno-budut-v-ukraine-dazhe-bez-ssha
+**Читайте также:** [Европейские миротворцы «точно будут» в Украине. Даже без США](2025/03/27/evropeiskie-mirotvortsy-tochno-budut-v-ukraine-dazhe-bez-ssha.md)

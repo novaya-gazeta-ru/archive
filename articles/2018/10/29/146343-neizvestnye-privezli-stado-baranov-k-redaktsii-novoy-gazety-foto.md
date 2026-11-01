@@ -13,7 +13,7 @@ tags: "фабрика троллей, пригожин"
 
 > **Есть продолжение**
 >
-> [Овец, оставленных у редакции «Новой», отправили в подмосковный приют](https://www.novayagazeta.ru/news/2018/10/29/146352-ovets-ostavlennyh-u-redaktsii-novoy-gazety-otpravili-v-podmoskovnyy-priyut-foto)
+> [Овец, оставленных у редакции «Новой», отправили в подмосковный приют](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/10/29/146352-ovets-ostavlennyh-u-redaktsii-novoy-gazety-otpravili-v-podmoskovnyy-priyut-foto)
 
 К зданию редакции «Новой газеты» в Потаповском переулке в Москве привезли три клетки с овцами, одетыми в жилетки «Пресса».
 
@@ -33,10 +33,10 @@ tags: "фабрика троллей, пригожин"
 
 *Фото: Виктория Одиссонова/ «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2018/10/18/78241-novye-ugrozy-v-adres-novoy-gazety
+**link:** [Новые угрозы в адрес «Новой газеты»](2018/10/18/78241-novye-ugrozy-v-adres-novoy-gazety.md)
 
 Напомним, что 17 октября к зданию редакции «Новой» неизвестные подбросили похоронный венок с угрозами в адрес журналиста Дениса Короткова. А на следующий день, 18 октября, там же была обнаружена корзина с отрезанной головой барана, с угрозами в адрес уже всей редакции.
 
 За несколько дней до этого в ряде СМИ, в том числе на [сайте](https://riafan.ru/1110343-v-civilizovannoi-strane-zhurnalista-korotkova-nazvali-by-predatelem-rodiny-i-shpionom-dobrovolec-donbassa) РИА ФАН, которое связывают с петербургским бизнесменом Евгением Пригожиным, появились статьи о Короткове, в которых он называется [«предателем»,](http://www.iarex.ru/news/60807.html)[«изменником родины»](https://riafan.ru/1110595-zhurnalist-kotoryi-ne-pishet-pochemu-izmennik-rodiny-denis-korotkov-na-novom-meste-ne-napisal-ni-odnoi-stati) и [«пособником террористов»](http://planet-today.ru/novosti/obshchestvo/pravo/item/93785-zhurnalista-posobnika-terroristov-proveryat-spetssluzhby-denisom-korotkovym-mozhet-zainteresovatsya-sk-i-fsb), а в соцсетях появилось много однотипных сообщений о журналисте, оставленных пользователями, страницы которых напоминают аккаунты ботов. Коротков – автор криминальных расследований об империи «кремлевского повара» Евгения Пригожина и деятельности российских частных военных компаний — не раз подвергался травле со стороны «фабрики троллей» Пригожина и получал неоднократные угрозы физической расправой.
 
-**link:** https://novayagazeta.ru/articles/2018/10/20/78278-dmitriy-bykov-son-o-barane
+**link:** [Дмитрий Быков: сон о баране](2018/10/20/78278-dmitriy-bykov-son-o-barane.md)

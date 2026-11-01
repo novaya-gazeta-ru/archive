@@ -21,8 +21,8 @@ tags: "ng, bloomberg, бизнес"
 
 Как отмечает агентство, с начала 2022 года Алекперов и Тимченко потеряли по $10 млрд (более 40%) своего состояния, что стало самым большим снижением среди всех российских миллиардеров. Общее состояние российских миллиардеров к концу прошлого года оценивалось в $375 млрд, отмечает Bloomberg.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/25/putin-nachal-voinu-s-ukrainoi-den-vtoroi-onlain
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/25/putin-nachal-voinu-s-ukrainoi-den-vtoroi-onlain](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/25/putin-nachal-voinu-s-ukrainoi-den-vtoroi-onlain)
 
-23 февраля, еще до вторжения в Украину, Bloomberg [сообщал](https://novayagazeta.ru/articles/2022/02/23/bloomberg-sostoianie-23-bogateishikh-biznesmenov-rossii-v-2022-godu-sokratilos-na-32-mlrd-iz-za-situatsii-vokrug-ukrainy-news), что состояние 23 богатейших бизнесменов России за 2022 год сократилось на $32 млрд из-за ситуации вокруг Украины.
+23 февраля, еще до вторжения в Украину, Bloomberg [сообщал](2022/02/23/bloomberg-sostoianie-23-bogateishikh-biznesmenov-rossii-v-2022-godu-sokratilos-na-32-mlrd-iz-za-situatsii-vokrug-ukrainy.md), что состояние 23 богатейших бизнесменов России за 2022 год сократилось на $32 млрд из-за ситуации вокруг Украины.
 
 Санкции, введенные против России из-за признания президентом РФ Владимиром Путиным «ЛДНР», а также из-за ввода российских войск в Украину, могут стать причиной еще большего сокращения состояния, отметил Bloomberg.

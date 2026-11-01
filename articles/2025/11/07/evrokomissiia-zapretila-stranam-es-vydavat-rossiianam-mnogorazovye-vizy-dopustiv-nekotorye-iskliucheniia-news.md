@@ -21,7 +21,7 @@ tags: ""
 
 Россиянам теперь нужно будет каждый раз подавать документы на новую визу при каждом новом визите страны ЕС.
 
-Ранее ЕС обратился к Сербии с требованием прекратить массово предоставлять гражданство россиянам, так как [это «создает угрозу ЕС»](https://novayagazeta.ru/articles/2025/11/06/evrokomissiia-prizvala-serbiiu-prekratit-predostavleniia-grazhdanstva-rossiianam-eto-ugroza-bezopasnosti-dlia-es-news).
+Ранее ЕС обратился к Сербии с требованием прекратить массово предоставлять гражданство россиянам, так как [это «создает угрозу ЕС»](2025/11/06/evrokomissiia-prizvala-serbiiu-prekratit-predostavleniia-grazhdanstva-rossiianam-eto-ugroza-bezopasnosti-dlia-es-news.md).
 
 Известно, что Германия собирается прекратить признавать российские загранпаспорта без биометрии.
 

@@ -47,14 +47,14 @@ tags: "сумма, магомедов, суды"
 
 > **ПРОДОЛЖЕНИЕ. НАЧАЛО В ПУБЛИКАЦИЯХ:**
 >
-> ### [«Прокуратура машет костылем»](https://novayagazeta.ru/articles/2021/07/17/prokuratura-mashet-kostylem)
+> ### [«Прокуратура машет костылем»](2021/07/17/prokuratura-mashet-kostylem.md)
 >
-> ### [Швейцарский след в деле Магомедовых. Как превратить электрификацию в преступление](https://novayagazeta.ru/articles/2021/06/15/shveitsarskii-sled-v-dele-magomedovykh)
+> ### [Швейцарский след в деле Магомедовых. Как превратить электрификацию в преступление](2021/06/15/shveitsarskii-sled-v-dele-magomedovykh.md)
 >
-> ### [«Кто прислал рейдеров в Севастополь»?](https://novayagazeta.ru/articles/2021/05/29/kto-prislal-reiderov-v-sevastopol)
+> ### [«Кто прислал рейдеров в Севастополь»?](2021/05/29/kto-prislal-reiderov-v-sevastopol.md)
 >
-> ### [«В "деле Магомедовых" найден украинский след»](https://novayagazeta.ru/articles/2021/05/13/v-dele-magomedovykh-naiden-ukrainskii-sled)
+> ### [«В "деле Магомедовых" найден украинский след»](2021/05/13/v-dele-magomedovykh-naiden-ukrainskii-sled.md)
 >
-> ### [«Зерновое сомнение»](https://novayagazeta.ru/articles/2021/04/27/zernovoe-somnenie)
+> ### [«Зерновое сомнение»](2021/04/27/zernovoe-somnenie.md)
 >
-> ### [«"Сумма" преступлений»](https://novayagazeta.ru/articles/2021/04/08/summa-prestuplenii)
+> ### [«"Сумма" преступлений»](2021/04/08/summa-prestuplenii.md)

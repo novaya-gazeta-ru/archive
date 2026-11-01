@@ -23,4 +23,4 @@ tags: "малый бизнес, фаланстер, книги, пандемия
 
 Подписывайте петицию на change.org
 
-**link:** https://novayagazeta.ru/articles/2020/03/28/84555-utopayte-za-svoy-schet
+**link:** [Утопайте за свой счет](2020/03/28/84555-utopayte-za-svoy-schet.md)

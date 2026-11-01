@@ -27,4 +27,4 @@ tags: ""
 
 Взяткодателя Михаила Городничева приговорили к уголовному штрафу в 2,9 млн рублей. Его жена и гендиректор «Мелиостроя» Ирина Городничева — к штрафу в 2,5 млн рублей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/03/glavu-administratsii-severodonetska-v-lnr-zaderzhali-za-uchastie-v-bande-razboe-i-pokhishchenii-cheloveka-news
+**Читайте также:** [Главу администрации Северодонецка в ЛНР задержали за участие в банде, разбое и похищении человека](2025/02/03/glavu-administratsii-severodonetska-v-lnr-zaderzhali-za-uchastie-v-bande-razboe-i-pokhishchenii-cheloveka-news.md)

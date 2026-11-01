@@ -39,9 +39,9 @@ tags: "крестьяне, село"
 
 — А куда страна ушла, ты не знаешь?
 
-**link:** https://novayagazeta.ru/society/50367.html
+**link:** [https://novayagazeta.ru/society/50367.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/50367.html)
 
-**link:** https://novayagazeta.ru/society/50367.html
+**link:** [https://novayagazeta.ru/society/50367.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/50367.html)
 
 Разговоры о санкциях прерываются игрой внучки одной из бабушек Верх-Сузуна: на столике появляется китайская игрушка. Собачка, которая на каждую словесную команду отвечает то лаем, то бегом, то смиренным сидением.
 
@@ -81,9 +81,9 @@ tags: "крестьяне, село"
 
 Когда читаю с детьми стихи Бродского «В деревне Бог не по углам», Елена Валерьевна восклицает: «Это истинная правда!»
 
-**link:** https://novayagazeta.ru/society/50546.html
+**link:** [https://novayagazeta.ru/society/50546.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/50546.html)
 
-**link:** https://novayagazeta.ru/society/50546.html
+**link:** [https://novayagazeta.ru/society/50546.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/50546.html)
 
 Они понимали, что с первого шага в Мерети их вела какая-то сила помимо их самих. Она и сейчас ведет, и все как-то обустраивается. Мы пьем чай из трав. Ступить на пол боязно: пол разрисован, чтобы скрыть щербатость настила. Елене Валерьевне надо, чтобы я непременно увидела с ее косогорья колокольню.
 

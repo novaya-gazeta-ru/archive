@@ -27,4 +27,4 @@ tags: "агломерация, налоги, распределение ресу
 
 -
 
-### [Во что верит Кавказ? При чем тут Рамзан, Хабиб и кафе Махачкалы?](https://novayagazeta.ru/articles/2020/11/20/88034-vo-chto-verit-kavkaz-pri-chem-tut-ramzan-habib-i-kafe-mahachkaly-video)
+### [Во что верит Кавказ? При чем тут Рамзан, Хабиб и кафе Махачкалы?](2020/11/20/88034-vo-chto-verit-kavkaz-pri-chem-tut-ramzan-habib-i-kafe-mahachkaly-video.md)

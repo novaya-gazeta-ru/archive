@@ -23,16 +23,16 @@ tags: "выбросы,   ng, петропавловск-камчатский, э
 >
 > Генпрокуратура Росссии [отчиталась](https://t.me/tass_agency/22454), что взяла под контроль ход и результаты проверки о загрязнении морской воды в районе Халактырского пляжа на Камчатке.
 
-**link:** https://novayagazeta.ru/articles/2020/10/03/87356-konechno-eto-ne-nefteprodukty
+**link:** [«Основная версия — утечка ракетного топлива»](2020/10/03/87356-konechno-eto-ne-nefteprodukty.md)
 
 Вечером 2 октября жители края стали распространять информацию, что на побережье Тихого океана выбросило множество трупов морских животных и беспозвоночных. Выброс неизвестных веществ произошел на огромном Халактырском пляже.
 
 Активисты Гринписа опубликовали космические снимки, на которых видно, что источником загрязнения предположительно могла стать река Налычева. На берегу притока Налычевой находится полигон с ядохимикатами Козельский, о котором в открытых источниках почти нет информации.
 
-**link:** https://novayagazeta.ru/news/2020/10/03/164673-zagryaznenie-pochv-v-rayone-halaktyrskogo-plyazha-na-kamchatke-fiksirovalos-s-2002-goda
+**link:** [https://novayagazeta.ru/news/2020/10/03/164673-zagryaznenie-pochv-v-rayone-halaktyrskogo-plyazha-na-kamchatke-fiksirovalos-s-2002-goda](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/03/164673-zagryaznenie-pochv-v-rayone-halaktyrskogo-plyazha-na-kamchatke-fiksirovalos-s-2002-goda)
 
 По версии официальных властей, в воде превышен уровень допустимой концентрации (ПДК) нефтепродуктов и фенола. Однако экологи и эксперты говорят о возможном выбросе ядохимикатов и пестицидов с военного полигона Козельский.
 
-**link:** https://novayagazeta.ru/news/2020/10/03/164664-ekspert-harakter-katastrofy-na-kamchatke-govorit-o-svyazi-s-voennymi
+**link:** [https://novayagazeta.ru/news/2020/10/03/164664-ekspert-harakter-katastrofy-na-kamchatke-govorit-o-svyazi-s-voennymi](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/03/164664-ekspert-harakter-katastrofy-na-kamchatke-govorit-o-svyazi-s-voennymi)
 
 К проверкам сведений о катастрофе подключились госорганы. Экологи же намерены самостоятельно отобрать пробы и проанализировать их в независимых лабораториях. Глава Минприроды Дмитрий Кобылкин [пообещал](https://tass.ru/obschestvo/9619493) предоставить первые результаты официальных проверок 5 октября.

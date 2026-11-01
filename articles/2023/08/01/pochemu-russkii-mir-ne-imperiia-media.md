@@ -13,4 +13,4 @@ tags: ""
 
 *Когда возник архаично-силовой сценарий русской жизни? Приглашение к дискуссии*
 
-https://novayagazeta.ru/articles/2023/08/01/pochemu-russkii-mir-ne-imperiia
+[Почему русский мир — не империя](2023/08/01/pochemu-russkii-mir-ne-imperiia.md)

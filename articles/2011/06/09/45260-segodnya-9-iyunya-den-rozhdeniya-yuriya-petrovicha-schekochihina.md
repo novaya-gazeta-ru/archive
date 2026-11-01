@@ -19,4 +19,4 @@ tags: ""
 
 (с) НТВ. "В нашу гавань заходили корабли"
 
-**link:** https://novayagazeta.ru/data/2003/58/28.html
+**link:** [https://novayagazeta.ru/data/2003/58/28.html](https://web.archive.org/web/*/https://novayagazeta.ru/data/2003/58/28.html)

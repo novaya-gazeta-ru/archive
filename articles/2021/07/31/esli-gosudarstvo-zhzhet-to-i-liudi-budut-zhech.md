@@ -55,4 +55,4 @@ tags: "пожары, россия, леса, дата-журналистика, 
 
 **Владимир Омелин, **дата-журналист, — специально для «Новой». При участии  **Кати Бонч-Осмоловской, Артема Щенникова и Антона Митина**
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/30/eto-bezumno-dorogoi-psikhologicheskii-effekt-po-uspokoeniiu-naseleniia
+**Читайте также:** [«Это безумно дорогой психологический эффект по успокоению населения»](2021/07/30/eto-bezumno-dorogoi-psikhologicheskii-effekt-po-uspokoeniiu-naseleniia.md)

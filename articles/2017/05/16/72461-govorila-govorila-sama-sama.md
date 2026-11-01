@@ -27,7 +27,7 @@ tags: "еспч, евросоюз, ислам"
 
 В любом случае на суде главным доказательством была не взрывчатка, а записи разговоров, на которых вербовщица промывала мозги русским дурочкам, показания самих дурочек, а также шесть фотографий эскалатора в торговом центре «Охотный ряд», которые, по версии обвинения, Зара Муртазалиева собиралась взорвать.
 
-**link:** https://novayagazeta.ru/news/2017/05/09/131415-espch-ne-nashel-narusheniy-v-dele-osuzhdennoy-za-podgotovku-terakta-zary-murtazalievoy
+**link:** [https://novayagazeta.ru/news/2017/05/09/131415-espch-ne-nashel-narusheniy-v-dele-osuzhdennoy-za-podgotovku-terakta-zary-murtazalievoy](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/05/09/131415-espch-ne-nashel-narusheniy-v-dele-osuzhdennoy-za-podgotovku-terakta-zary-murtazalievoy)
 
 Это обвинение — в отличие от брусков взрывчатки, которые российские оперативники способом Глеба Жеглова обыкновенно подкидывают подозреваемым в терроризме, — выглядит весьма серьезным. У меня во всяком случае нет никаких объяснений, зачем девушке, восхвалявшей прелести джихада, так прилежно фотографировать этот эскалатор.
 

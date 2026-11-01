@@ -25,4 +25,4 @@ tags: ""
 
 **Мы недавно [обсуждали](https://www.youtube.com/watch?v=s4OejIQ_3vA) это с журналистом Марией Божович.**
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/18/290-ballov-i-ne-postupil
+**Читайте также:** [290 баллов — и не поступил](2026/08/18/290-ballov-i-ne-postupil.md)

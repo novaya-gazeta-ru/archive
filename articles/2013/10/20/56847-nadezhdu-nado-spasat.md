@@ -30,7 +30,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/10/19/1382174886_290941_32.jpeg" style="width: 360px; height: 509px;"><sup>Прочитать текст письма и посмотреть на него можно <a href="http://www.novayagazeta.ru/society/60545.html" target="_blank">тут</a></sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/10/19/1382174886_290941_32.jpeg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/10/19/1382174886_290941_32.jpeg)" style="width: 360px; height: 509px;"><sup>Прочитать текст письма и посмотреть на него можно <a href="[http://www.novayagazeta.ru/society/60545.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/60545.html)" target="_blank">тут</a></sup></td>
 		</tr>
 	</tbody>]*
 

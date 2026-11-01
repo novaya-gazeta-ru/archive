@@ -23,4 +23,4 @@ tags: ""
 
 Атакам беспилотников Урал стал подвергаться лишь с весны 2026 года — на четвертый год СВО.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/05/07/moskva-sbila-24-i-bespilotnik-za-7-maia-ugrozu-bpla-obiavili-neskolko-oblastei-na-urale-i-kubani-vlasti-rzheva-evakuirovali-350-chelovek-posle-ataki-na-gorod-news
+**Читайте также:** [Москва сбила 24-й беспилотник с 7 мая, угрозу БПЛА объявили несколько областей на Урале и Кубани, власти Ржева эвакуировали 350 человек после атаки на город](2026/05/07/moskva-sbila-24-i-bespilotnik-za-7-maia-ugrozu-bpla-obiavili-neskolko-oblastei-na-urale-i-kubani-vlasti-rzheva-evakuirov.md)

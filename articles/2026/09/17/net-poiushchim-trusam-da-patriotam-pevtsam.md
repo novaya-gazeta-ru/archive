@@ -69,7 +69,7 @@ tags: ""
 >
 > У этого материала есть [аудиоверсия](https://youtu.be/YGiJxzCuA6Y) на Youtube. Читает Ирина Петровская
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/10/dvizhukha-na-rossiiskom-tv
+**Читайте также:** [«Движуха» на российском ТВ](2026/09/10/dvizhukha-na-rossiiskom-tv.md)
 
 ## Петровская рекомендует
 

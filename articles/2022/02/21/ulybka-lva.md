@@ -38,4 +38,4 @@ tags: "театр, спектакль"
 **Сергей Коробков —**\
  специально для «Новой»
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/19/uekhali-seli-perekovalis-dogovorilis
+**Читайте также:** [«Уехали, сели, перековались, договорились…»](2022/02/19/uekhali-seli-perekovalis-dogovorilis.md)

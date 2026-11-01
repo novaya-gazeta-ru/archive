@@ -17,6 +17,6 @@ tags: "em, москва, коронавирус"
 
 Москва занимает первое место среди российских регионов по числу умерших с коронавирусом. Также в столице больше всего заразившихся COVID-19 — 48426 человек из 93558 по стране.
 
-Мэр Москвы Сергей Собянин сегодня [продлил](https://novayagazeta.ru/news/2020/04/28/161086-sobyanin-prodlil-ogranicheniya-iz-za-situatsii-s-koronavirusom-v-moskve-do-11-maya) ограничения, действующие в столице из-за пандемии, до 11 мая включительно. Среди них — режим самоизоляции и пропускной режим для поездок на личном транспорте.
+Мэр Москвы Сергей Собянин сегодня [продлил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/04/28/161086-sobyanin-prodlil-ogranicheniya-iz-za-situatsii-s-koronavirusom-v-moskve-do-11-maya) ограничения, действующие в столице из-за пандемии, до 11 мая включительно. Среди них — режим самоизоляции и пропускной режим для поездок на личном транспорте.
 
-**link:** https://novayagazeta.ru/articles/2020/04/26/85103-propali-ne-bolnitsy-a-zdravyy-smysl
+**link:** [Пропали не больницы, а здравый смысл](2020/04/26/85103-propali-ne-bolnitsy-a-zdravyy-smysl.md)

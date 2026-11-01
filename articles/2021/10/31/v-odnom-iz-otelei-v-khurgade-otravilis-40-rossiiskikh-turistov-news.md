@@ -27,10 +27,10 @@ tags: "египет, курорты, отравление, туристы, sf"
 
 Источник ТАСС в Федерации туристических палат Египта [сообщал](https://tass.ru/proisshestviya/12809401), что россияне почувствовали себя плохо после обеда в отеле.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/12/kovid-nepriznannyi-i-chesnok-kak-lekarstvo
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/12/kovid-nepriznannyi-i-chesnok-kak-lekarstvo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/12/kovid-nepriznannyi-i-chesnok-kak-lekarstvo)
 
-В конце октября туроператоры [зафиксировали](https://novayagazeta.ru/articles/2021/10/25/rossiiskie-turisty-raskupili-pochti-vse-mesta-v-dorogikh-oteliakh-egipta-na-noiabrskie-prazdniki-news) рекордный спрос на туры в Египет в период ноябрьских праздников. Представители отрасли рассказали, что в основном россияне едут в Хургаду и Шарм-эль-Шейх, а рейсы на этот период загружены более чем на 75%. На некоторые даты осталось не больше двух-трех мест на самолет.
+В конце октября туроператоры [зафиксировали](2021/10/25/rossiiskie-turisty-raskupili-pochti-vse-mesta-v-dorogikh-oteliakh-egipta-na-noiabrskie-prazdniki-news.md) рекордный спрос на туры в Египет в период ноябрьских праздников. Представители отрасли рассказали, что в основном россияне едут в Хургаду и Шарм-эль-Шейх, а рейсы на этот период загружены более чем на 75%. На некоторые даты осталось не больше двух-трех мест на самолет.
 
-Президент России Владимир Путин объявил в стране «нерабочие дни» с 30 октября по 7 ноября. Спрос на туристические поездки [вырос](https://novayagazeta.ru/articles/2021/10/21/spros-na-turisticheskie-poezdki-vyros-30-posle-obiavleniia-nerabochikh-dnei-news) после этого на 30%.
+Президент России Владимир Путин объявил в стране «нерабочие дни» с 30 октября по 7 ноября. Спрос на туристические поездки [вырос](2021/10/21/spros-na-turisticheskie-poezdki-vyros-30-posle-obiavleniia-nerabochikh-dnei-news.md) после этого на 30%.
 
-Авиарейсы на курорты Египта Россия открыла с 9 августа. Они были [запрещены](https://novayagazeta.ru/articles/2021/04/23/rossiia-dogovorilas-o-polnom-vozobnovlenii-aviasoobshcheniia-s-egiptom) в ноябре 2015 года после взрыва над Синайским полуостровом российского самолета, летевшего из Шарм-эль-Шейха в Петербург.
+Авиарейсы на курорты Египта Россия открыла с 9 августа. Они были [запрещены](2021/04/23/rossiia-dogovorilas-o-polnom-vozobnovlenii-aviasoobshcheniia-s-egiptom.md) в ноябре 2015 года после взрыва над Синайским полуостровом российского самолета, летевшего из Шарм-эль-Шейха в Петербург.

@@ -33,6 +33,6 @@ tags: ""
 
 Теперь бензин в Крыму [нельзя купить даже по талонам](https://t.me/Aksenov82/9733) — заправляют только экстренные службы.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/22/strashno-teper-vezde
+**Читайте также:** [«Страшно теперь везде»](2026/06/22/strashno-teper-vezde.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/22/mazut-benzin-i-pustye-pliazhi
+**Читайте также:** [Мазут, бензин и пустые пляжи](2026/06/22/mazut-benzin-i-pustye-pliazhi.md)

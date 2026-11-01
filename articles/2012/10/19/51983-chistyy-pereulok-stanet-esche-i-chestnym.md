@@ -17,7 +17,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/19/1350650144_438146_64.jpg" style="width: 360px; height: 240px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/19/1350650144_438146_64.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/19/1350650144_438146_64.jpg)" style="width: 360px; height: 240px; "></p>
 				<p>
 					<sup>С.И.Злобина беседует с В.В.Есиповым</sup></p>
 			</td>
@@ -25,7 +25,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/19/1350650144_732441_1.jpg" style="width: 360px; height: 602px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/19/1350650144_732441_1.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/19/1350650144_732441_1.jpg)" style="width: 360px; height: 602px; "></p>
 				<p>
 					<sup>дом №8 в Чистом переулке</sup></p>
 			</td>
@@ -33,7 +33,7 @@ tags: ""
 		<tr>
 			<td class="g-justify-right">
 				<p>
-					<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/19/1350650145_047092_45.jpg" style="width: 360px; height: 454px; "></p>
+					<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/19/1350650145_047092_45.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/19/1350650145_047092_45.jpg)" style="width: 360px; height: 454px; "></p>
 				<p>
 					<sup>Б.И.Гудзь в 1955 г.</sup></p>
 			</td>

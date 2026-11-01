@@ -17,6 +17,6 @@ tags: ""
 
 **Произведено: «НО. Медиа из России»:** https://youtu.be/DpbRZQdh7do
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/16/andrei-pivovarov-ia-dumal-menia-vezut-na-svo
+**Читайте также:** [Андрей Пивоваров*: «Я думал, меня везут в Ростов, на спецоперацию…»](2024/08/16/andrei-pivovarov-ia-dumal-menia-vezut-na-svo.md)
 
 #### * Внесен Минюстом РФ в реестр «иноагентов».

@@ -25,4 +25,4 @@ tags: "вакцинация, вакцины, коронавирус, ковид,
  **Монтаж**: Кирилл Семенов\
  **Обложка:** Анна Жаворонкова
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/03/omikron-my-na-grani-katastrofy-no-eto-netochno
+**Читайте также:** [«Омикрон»: мы на грани катастрофы, но это неточно](2021/12/03/omikron-my-na-grani-katastrofy-no-eto-netochno.md)

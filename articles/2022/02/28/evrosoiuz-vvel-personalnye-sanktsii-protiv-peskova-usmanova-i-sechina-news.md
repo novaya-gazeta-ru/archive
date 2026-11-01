@@ -21,6 +21,6 @@ tags: "санкции, евросоюз, песков, сечин, sf"
 
 В санкционный список также попала страховая компания «СОГАЗ» из-за того, что она поддержала присоединение Крымского полуострова к РФ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/28/evrosoiuz-narushil-svoi-tabu
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/28/evrosoiuz-narushil-svoi-tabu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/28/evrosoiuz-narushil-svoi-tabu)
 
-Ранее ЕС [ввел](https://novayagazeta.ru/articles/2022/02/26/ssha-vsled-za-velikobritaniei-es-i-kanadoi-vveli-sanktsii-protiv-putina-i-lavrova-iz-za-voiny-s-ukrainoi-news) санкции против Путина, министра иностранных дел Сергея Лаврова, объявив о заморозке их западных активов. Также на прошлой неделе в черный список попал 351 депутат Госдумы, которые проголосовали за признание независимости Донецкой и Луганской народных республик.
+Ранее ЕС [ввел](2022/02/26/ssha-vsled-za-velikobritaniei-es-i-kanadoi-vveli-sanktsii-protiv-putina-i-lavrova-iz-za-voiny-s-ukrainoi-news.md) санкции против Путина, министра иностранных дел Сергея Лаврова, объявив о заморозке их западных активов. Также на прошлой неделе в черный список попал 351 депутат Госдумы, которые проголосовали за признание независимости Донецкой и Луганской народных республик.

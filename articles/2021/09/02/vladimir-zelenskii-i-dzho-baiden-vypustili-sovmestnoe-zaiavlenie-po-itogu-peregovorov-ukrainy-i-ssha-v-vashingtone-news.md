@@ -25,4 +25,4 @@ tags: "байден, зеленский, украина, россия, крым,
 
 Это первая встреча лидеров после инаугурации Джо Байдена в начале года. Переговоры продлились дольше запланированного времени. Зеленский [охарактеризовал](https://www.kommersant.ru/doc/4967579) встречу как «нормальный мужской разговор».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/20/vladimir-zelenskii-ukraina-zhivet-v-present-continuous-mir-tozhe
+**Читайте также:** [Владимир Зеленский: «Украина живет в present continuous. Мир — тоже»](2021/08/20/vladimir-zelenskii-ukraina-zhivet-v-present-continuous-mir-tozhe.md)

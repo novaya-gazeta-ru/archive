@@ -13,6 +13,6 @@ tags: "навальный, выборы2018, выборы, собчак"
 
 *Что спросили у Ксении Собчак — «кандидата против всех» — на первой пресс-конференции: видео*
 
-**link:** https://novayagazeta.ru/articles/2017/10/20/74269-frivolnyy-rupor
+**link:** [Фривольный рупор](2017/10/20/74269-frivolnyy-rupor.md)
 
-**link:** https://novayagazeta.ru/articles/2017/10/19/74250-formula-vyborov-2018-da-da-net-da
+**link:** [Формула выборов 2018 «Да. Да. Нет. Да»](2017/10/19/74250-formula-vyborov-2018-da-da-net-da.md)

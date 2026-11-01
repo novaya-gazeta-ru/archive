@@ -25,4 +25,4 @@ tags: ""
 
 Но дело все-таки возбуждено.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/28/kak-vyzhigaiut-skvernu
+**Читайте также:** [Как выжигают «скверну»](2025/08/28/kak-vyzhigaiut-skvernu.md)

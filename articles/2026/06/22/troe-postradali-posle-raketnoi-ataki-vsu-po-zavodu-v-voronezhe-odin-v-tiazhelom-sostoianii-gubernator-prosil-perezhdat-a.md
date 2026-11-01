@@ -13,7 +13,7 @@ tags: ""
 
 > **Есть продолжение**
 >
-> ### [Ракетная атака на Воронеж: 5 погибли, пострадали «несколько десятков» — губернатор Гусев](https://novayagazeta.ru/articles/2026/06/22/raketnaia-ataka-na-voronezh-5-pogibli-postradali-neskolko-desiatkov-gubernator-gusev-news)
+> ### [Ракетная атака на Воронеж: 5 погибли, пострадали «несколько десятков» — губернатор Гусев](2026/06/22/raketnaia-ataka-na-voronezh-5-pogibli-postradali-neskolko-desiatkov-gubernator-gusev-news.md)
 
 Губернатор Александр Гусев рассказал о троих пострадавших после ракетного удара по заводу в Воронеже. Один из пострадавших в тяжелом состоянии.
 
@@ -25,6 +25,6 @@ tags: ""
 
 Ночью над регионом [сбивали беспилотники](https://t.me/mod_russia/64830). А теперь и ракетная опасность отменена.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/20/gubernator-tiumenskoi-oblasti-vpervye-rasskazal-ob-atake-bpla-tseliu-byl-krupnyi-regionalnyi-npz-tiumen-v-2000-km-ot-linii-fronta-news
+**Читайте также:** [Губернатор Тюменской области впервые рассказал об атаке БПЛА: целью был крупный региональный НПЗ. Тюмень — в 2000 км от линии фронта](2026/06/20/gubernator-tiumenskoi-oblasti-vpervye-rasskazal-ob-atake-bpla-tseliu-byl-krupnyi-regionalnyi-npz-tiumen-v-2000-km-ot-lin.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/18/zhiteliam-vladimirskoi-oblasti-proreklamirovali-mobilnye-gruppy-po-otrazheniiu-atak-bespilotnikov-cherez-gosuslugi-news
+**Читайте также:** [Жителям Владимирской области прорекламировали «мобильные группы» по отражению атак беспилотников через «Госуслуги»](2026/06/18/zhiteliam-vladimirskoi-oblasti-proreklamirovali-mobilnye-gruppy-po-otrazheniiu-atak-bespilotnikov-cherez-gosuslugi-news.md)

@@ -15,12 +15,12 @@ tags: "грушко, обсе, венский документ, kn, украин
 
 «Если кто-то собирается в какие-то политические игры играть — играйте, а мы все-таки серьезно относимся к инструментам укрепления доверия и безопасности и не дадим использовать их в неблаговидных целях», — ответил замминистра на вопрос журналистов.
 
-В воскресенье Киев[запросил](https://novayagazeta.ru/articles/2022/02/13/kiev-poprosil-o-vstreche-s-rossiei-i-vsemi-gosudarstvami-uchastnikami-venskogo-dokumenta-posle-razgovora-baidena-i-zelenskogo-news) встречу с Россией и всеми странами-участницами Венского документа для того, чтобы обсудить ситуацию с перемещением российских войск вдоль украинской границы.
+В воскресенье Киев[запросил](2022/02/13/kiev-poprosil-o-vstreche-s-rossiei-i-vsemi-gosudarstvami-uchastnikami-venskogo-dokumenta-posle-razgovora-baidena-i-zelen.md) встречу с Россией и всеми странами-участницами Венского документа для того, чтобы обсудить ситуацию с перемещением российских войск вдоль украинской границы.
 
 Венский документ был принят в 2011 году в ОБСЕ и подразумевает, что страны-участницы должны заблаговременно сообщать друг другу о крупных военных учениях. Украина потребовала провести консультацию с ОБСЕ после того, как Россия не представила информации о военных действиях у украинских границ.
 
 Встреча запланирована сегодня в 17:00 мск.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/15/daiu-24-chasa-chtoby-vernutsia
+**Читайте также:** [«Даю 24 часа, чтобы вернуться»](2022/02/15/daiu-24-chasa-chtoby-vernutsia.md)
 
-Ранее [сообщалось](https://novayagazeta.ru/articles/2022/02/15/rubl-pokazal-rost-posle-soobshcheniia-minoborony-ob-okonchanii-uchenii-i-gotoviashchemsia-vozvrashchenii-voennykh-v-punkty-postoiannoi-dislokatsii-news), что учения российской армии в Южном и Западном военных округах закончились и войска возвращаются на места постоянной дислокации.
+Ранее [сообщалось](2022/02/15/rubl-pokazal-rost-posle-soobshcheniia-minoborony-ob-okonchanii-uchenii-i-gotoviashchemsia-vozvrashchenii-voennykh-v-punk.md), что учения российской армии в Южном и Западном военных округах закончились и войска возвращаются на места постоянной дислокации.

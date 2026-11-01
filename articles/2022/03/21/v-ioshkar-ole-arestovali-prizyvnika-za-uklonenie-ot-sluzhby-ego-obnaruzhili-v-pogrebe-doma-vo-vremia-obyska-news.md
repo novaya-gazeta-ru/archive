@@ -17,7 +17,7 @@ tags: "ск, арест, призывники, da"
 
 Сотрудники СК и Росгвардии провели обыск по месту жительства призывника, в результате которого обнаружили призывника в погребе собственного дома. Суд арестовал молодого человека.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/18/stolko-materei-seichas-moliatsia-chto-bog-ne-spravliaetsia
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/18/stolko-materei-seichas-moliatsia-chto-bog-ne-spravliaetsia](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/18/stolko-materei-seichas-moliatsia-chto-bog-ne-spravliaetsia)
 
 Ранее Следственный комитет по региону [сообщил](https://mari.sledcom.ru/news/item/1658289/), что в 2022 году в Марий Эл возбудили 18 уголовных дел по статье об уклонении от военной службы, 15 из них — в Йошкар-Оле. Максимальное наказание по данной статье — два года лишения свободы.
 

@@ -105,7 +105,7 @@ tags: "оппозиция, новосибирск"
 
 — Ельцовка.
 
-**link:** https://novayagazeta.ru/articles/2020/07/16/86296-furgal-on-zhe-kak-putin-a-my-vsegda-za-putina
+**link:** [«Фургал — он же как Путин! А мы всегда за Путина»](2020/07/16/86296-furgal-on-zhe-kak-putin-a-my-vsegda-za-putina.md)
 
 **—Как смотрят из Новосибирска на то, что в стране происходит?**
 

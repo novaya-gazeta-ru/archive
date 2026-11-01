@@ -13,4 +13,4 @@ tags: ""
 
 *Заявление Нобелевского Комитета в связи с кончиной Михаила Горбачева*
 
-https://novayagazeta.ru/articles/2022/08/31/on-pozvolil-narodam-evropy-vnov-obresti-svobodu
+[«Он позволил народам Европы вновь обрести свободу»](2022/08/31/on-pozvolil-narodam-evropy-vnov-obresti-svobodu.md)

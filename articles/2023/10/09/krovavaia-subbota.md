@@ -121,4 +121,4 @@ tags: "хамас, израиль, война, газа"
 
 #### * Движение «Исламский джихад» признано в России террористическим и запрещено
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/10/09/vozmozhno-eto-chast-bolshego-plana-o-kotorom-my-ne-znaem
+**Читайте также:** [«Возможно, это часть большего плана, о котором мы не знаем»](2023/10/09/vozmozhno-eto-chast-bolshego-plana-o-kotorom-my-ne-znaem.md)

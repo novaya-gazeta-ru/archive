@@ -185,4 +185,4 @@ tags: ""
 
 **Данил Симонов**
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/14/barkhatnyi-oreshek-s-metallom-vnutri
+**Читайте также:** [«Бархатный орешек с металлом внутри»](2022/02/14/barkhatnyi-oreshek-s-metallom-vnutri.md)

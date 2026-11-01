@@ -17,7 +17,7 @@ tags: "спорт, олимпиада, фигурное катание, олим
 
 Российские спортсмены получили 131,66 балла за произвольный прокат. Общая оценка за их выступление составила 220,51 балла.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/10/malchiki-izvinite-no-ne-do-vas
+**Читайте также:** [«Мальчики, извините, но не до вас»](2022/02/10/malchiki-izvinite-no-ne-do-vas.md)
 
 Сейчас российские спортсмены находятся на 6-ом месте в общем медальном зачете. Всего на счету российской сборной четыре золотые, шесть серебряных и восемь бронзовых медалей. Первые три места медального зачета занимают Норвегия (9-5-7), Германия (8-5-1) и США (7-6-2).
 
@@ -25,4 +25,4 @@ tags: "спорт, олимпиада, фигурное катание, олим
 
 *Скриншот Olympics*
 
-Накануне российские спортсмены принесли команде сразу четыре медали: сборная [заняла](https://novayagazeta.ru/articles/2022/02/13/sbornaia-rossii-zavoevala-olimpiiskoe-zoloto-v-muzhskoi-lyzhnoi-estafete-4kh10-km-news) первое место в мужской лыжной эстафете 4х10 км, шорт-трекист Ивлиев [завоевал](https://novayagazeta.ru/articles/2022/02/13/rossiiskii-short-trekist-ivliev-zavoeval-serebro-na-olimpiade-v-pekine-news) серебро, а конькобежка [Голикова](https://novayagazeta.ru/articles/2022/02/13/rossiiskaia-konkobezhka-angelina-golikova-zavoevala-bronzu-na-olimpiade-v-pekine-news) и биатлонист [Латыпов](https://novayagazeta.ru/articles/2022/02/13/rossiiskii-biatlonist-latypov-zavoeval-bronzovuiu-medal-v-gonke-presledovaniia-news) принесли по бронзовой медали.
+Накануне российские спортсмены принесли команде сразу четыре медали: сборная [заняла](2022/02/13/sbornaia-rossii-zavoevala-olimpiiskoe-zoloto-v-muzhskoi-lyzhnoi-estafete-4kh10-km-news.md) первое место в мужской лыжной эстафете 4х10 км, шорт-трекист Ивлиев [завоевал](2022/02/13/rossiiskii-short-trekist-ivliev-zavoeval-serebro-na-olimpiade-v-pekine-news.md) серебро, а конькобежка [Голикова](2022/02/13/rossiiskaia-konkobezhka-angelina-golikova-zavoevala-bronzu-na-olimpiade-v-pekine-news.md) и биатлонист [Латыпов](2022/02/13/rossiiskii-biatlonist-latypov-zavoeval-bronzovuiu-medal-v-gonke-presledovaniia-news.md) принесли по бронзовой медали.

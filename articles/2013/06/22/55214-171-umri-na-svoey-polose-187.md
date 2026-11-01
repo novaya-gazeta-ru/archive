@@ -14,7 +14,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/22/1371924276_174266_66.jpg" style="width: 360px; height: 270px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/22/1371924276_174266_66.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/22/1371924276_174266_66.jpg)" style="width: 360px; height: 270px;"><br>
 				<em><sup>Эдуард Игнатян, человек-«невидимка»</sup></em></td>
 		</tr>
 	</tbody>]*

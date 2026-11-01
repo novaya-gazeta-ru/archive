@@ -19,8 +19,8 @@ tags: "валюта, евро , доллар, рубль, em"
 
 Стоимость евро достигла 90 рублей в 18:35 (мск).
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/20/geopoliticheskaia-neopredelennost-goda
+**Читайте также:** [Геополитическая неопределенность года](2022/01/20/geopoliticheskaia-neopredelennost-goda.md)
 
-Рубль слабеет на фоне напряженности вокруг ситуации с Украиной, считают аналитики. Ранее Госдепартамент США [распорядился](https://novayagazeta.ru/articles/2022/01/24/gosdep-rasporiadilsia-evakuirovat-semi-amerikanskikh-diplomatov-iz-ukrainy-iz-za-ugrozy-voennykh-deistvii-so-storony-rossii-news) эвакуировать семьи американских дипломатов из Украины из-за «угрозы военных действий со стороны России». Также НАТО [объявило](https://www.nato.int/cps/en/natohq/news_191040.htm) об увеличении своего присутствия на территории Восточной Европы. На фоне ослабления российской валюты Forbes [заметил](https://novayagazeta.ru/articles/2022/01/26/forbes-rossiiskie-milliardery-za-mesiats-poteriali-28-mlrd-iz-za-napriazhennosti-vokrug-ukrainy-news), что совокупное состояние 104 российских миллиардеров с 20 декабря 2021 года по 25 января 2022 года сократилось на $27,9 млрд.
+Рубль слабеет на фоне напряженности вокруг ситуации с Украиной, считают аналитики. Ранее Госдепартамент США [распорядился](2022/01/24/gosdep-rasporiadilsia-evakuirovat-semi-amerikanskikh-diplomatov-iz-ukrainy-iz-za-ugrozy-voennykh-deistvii-so-storony-ros.md) эвакуировать семьи американских дипломатов из Украины из-за «угрозы военных действий со стороны России». Также НАТО [объявило](https://www.nato.int/cps/en/natohq/news_191040.htm) об увеличении своего присутствия на территории Восточной Европы. На фоне ослабления российской валюты Forbes [заметил](2022/01/26/forbes-rossiiskie-milliardery-za-mesiats-poteriali-28-mlrd-iz-za-napriazhennosti-vokrug-ukrainy-news.md), что совокупное состояние 104 российских миллиардеров с 20 декабря 2021 года по 25 января 2022 года сократилось на $27,9 млрд.
 
 *Обновлено в 19:16 — уточнен курс доллара *

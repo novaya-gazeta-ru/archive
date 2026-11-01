@@ -57,9 +57,9 @@ tags: "адвокаты, савченко"
 
 — Они резко ускорились. Это случилось еще до того, как попали в плен сержант Александров и капитан Ерофеев.
 
-**link:** https://novayagazeta.ru/society/68593.html
+**link:** [https://novayagazeta.ru/society/68593.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/68593.html)
 
-**link:** https://novayagazeta.ru/society/68593.html
+**link:** [https://novayagazeta.ru/society/68593.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/68593.html)
 
 **— А чем это можно объяснить?**
 
@@ -121,9 +121,9 @@ tags: "адвокаты, савченко"
 
 И мы не пытаемся кого-то убедить в том, что она святая и ее нужно при жизни канонизировать. Мы просто должны людям, которые хотят разобраться в этой ситуации объективно, показать, как все было на самом деле.
 
-**link:** https://novayagazeta.ru/politics/66653.html
+**link:** [https://novayagazeta.ru/politics/66653.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66653.html)
 
-**link:** https://novayagazeta.ru/politics/66653.html
+**link:** [https://novayagazeta.ru/politics/66653.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66653.html)
 
 **— Вы имеете в виду людей за пределами России?**
 

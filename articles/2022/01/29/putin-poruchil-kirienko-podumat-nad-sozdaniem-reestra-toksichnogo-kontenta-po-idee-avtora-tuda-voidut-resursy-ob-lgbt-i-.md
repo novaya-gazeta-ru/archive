@@ -25,6 +25,6 @@ tags: "токсичный контент, реестр, ашманов, лгбт
 
 По мысли автора, такой контент следует блокировать и понижать в рейтингах, а сам «токсичный» реестр должно вести открытое сообщество. Ашманов вводит и шкалу токсичности контента — от запрещенного до нежелательного.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/20/gosudarstvo-rassmatrivaet-nas-kak-ideologicheskikh-vragov-18
+**Читайте также:** [https://novayagazeta.ru/articles/2021/11/20/gosudarstvo-rassmatrivaet-nas-kak-ideologicheskikh-vragov-18](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/20/gosudarstvo-rassmatrivaet-nas-kak-ideologicheskikh-vragov-18)
 
 В случае с реестром, предложенным Ашмановым, речь идет о контенте, не запрещенном российским законодательством. Автор предлагает интернет-компаниям, «получившими преференции от государства», вроде VK и «Яндекса», подписать меморандум по противодействию «токсичному контенту».

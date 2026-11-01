@@ -407,4 +407,4 @@ tags: "венедиктов, эхо москвы"
 >
 > *Продолжение интервью смотрите в видео-версии.*
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/27/ia-bolshe-nichego-ne-khochu-pozhaluista-otpustite-menia
+**Читайте также:** [«Я больше ничего не хочу, пожалуйста, отпустите меня»](2022/01/27/ia-bolshe-nichego-ne-khochu-pozhaluista-otpustite-menia.md)

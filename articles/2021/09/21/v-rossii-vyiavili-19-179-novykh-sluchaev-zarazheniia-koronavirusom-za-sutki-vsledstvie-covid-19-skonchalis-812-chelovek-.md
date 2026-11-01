@@ -19,6 +19,6 @@ tags: "ng, COVID-19, коронавирус"
 
 Из них 52 — в Москве, 42 — в Петербурге, 7 — в Подмосковье. Всего с начала пандемии умерли 199 808 пациентов с COVID-19.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/14/chetvertaia-volna-nakroet
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/14/chetvertaia-volna-nakroet](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/14/chetvertaia-volna-nakroet)
 
 Германская BioNTech и американская Pfizer [сообщили](https://tass.ru/obschestvo/12456303) о положительных результатах клинических испытаний вакцины от коронавируса среди детей в возрасте от 5 до 11 лет. По данным производителей, участники хорошо переносили побочные эффекты, которые в целом были схожи с теми, что проявлялись у людей в возрасте от 16 до 25 лет.

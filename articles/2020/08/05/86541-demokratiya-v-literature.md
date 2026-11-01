@@ -19,6 +19,6 @@ tags: "книжная ссылка, подкаст, замятин, антиут
 >
 > SoundCloud | CastBox | Apple Podcasts | Google Podcasts | ВКонтакте | Яндекс.Музыка
 
-**link:** https://novayagazeta.ru/articles/2020/05/30/85614-tekst-pod-nogami-mayora
+**link:** [Текст под ногами майора](2020/05/30/85614-tekst-pod-nogami-mayora.md)
 
 **Ведущие:**Владимир Еремин и Сергей Лебеденко. **Звукорежиссер:**Кристина Зарубина.**Композитор:** Глеб Лиманский.

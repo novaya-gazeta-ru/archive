@@ -15,7 +15,7 @@ tags: "следствие, заказчик, убийство, анна поли
 
 *Ее убили 13 лет назад*
 
-**link:** https://novayagazeta.ru/articles/2019/10/07/82254-esli-my-ne-vstanem-na-zaschitu-zlo-pobedit
+**link:** [«Если мы не встанем на защиту — зло победит»](2019/10/07/82254-esli-my-ne-vstanem-na-zaschitu-zlo-pobedit.md)
 
 «Если мы не встанем на защиту — зло победит»
 

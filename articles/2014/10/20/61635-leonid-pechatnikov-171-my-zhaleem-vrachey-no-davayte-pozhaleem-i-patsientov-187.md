@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/10/20/1413836639_973212_6.jpg" style="width: 340px; height: 489px; float: right;"></td>
+			<td><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/10/20/1413836639_973212_6.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/10/20/1413836639_973212_6.jpg)" style="width: 340px; height: 489px; float: right;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Фото: РИА Новости</sup></td>

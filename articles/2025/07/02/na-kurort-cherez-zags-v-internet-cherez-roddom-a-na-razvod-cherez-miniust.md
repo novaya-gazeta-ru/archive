@@ -95,4 +95,4 @@ tags: "минюст, новые запреты,  ПМЭФ, эскортницы,
 
 *Фото: Егор Алеев / ТАСС*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/03/napoleon-na-pervoi-mirovoi-neelegantnyi-vatikan-i-magiia-konstitutsii
+**Читайте также:** [Наполеон на Первой мировой, неэлегантный Ватикан и магия Конституции](2025/06/03/napoleon-na-pervoi-mirovoi-neelegantnyi-vatikan-i-magiia-konstitutsii.md)

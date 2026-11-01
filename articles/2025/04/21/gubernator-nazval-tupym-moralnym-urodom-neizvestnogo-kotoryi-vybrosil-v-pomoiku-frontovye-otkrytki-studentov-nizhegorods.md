@@ -27,4 +27,4 @@ tags: ""
 
 Судьбу новогодних открыток Никитин пообещал решить «вместе с ребятами», главными пострадавшими он назвал детей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/19/za-to-chto-rasstreliali-dedushku-ia-ne-mogu-nenavidet-stalina
+**Читайте также:** [«За то, что расстреляли дедушку, я не могу ненавидеть Сталина»](2025/04/19/za-to-chto-rasstreliali-dedushku-ia-ne-mogu-nenavidet-stalina.md)

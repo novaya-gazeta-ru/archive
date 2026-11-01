@@ -17,15 +17,15 @@ tags: "лыжи, олимпиала-2022, пекин, большунов, sf"
 
 Пятым к финишу пришел россиянин Алексей Червоткин, девятое место занял Илья Семиков, 13-е — Иван Якимушкин.
 
-Ранее Большунов [выиграл](https://novayagazeta.ru/articles/2022/02/06/lyzhnik-aleksandr-bolshunov-prines-rossii-pervoe-olimpiiskoe-zoloto-news) золотую медаль в скиатлоне. Это первое российское золото на Играх в Пекине. Для Большунова это также первая золотая олимпийская медаль в карьере.
+Ранее Большунов [выиграл](2022/02/06/lyzhnik-aleksandr-bolshunov-prines-rossii-pervoe-olimpiiskoe-zoloto-news.md) золотую медаль в скиатлоне. Это первое российское золото на Играх в Пекине. Для Большунова это также первая золотая олимпийская медаль в карьере.
 
-За прошлый соревновательный день сборная России [не завоевала](https://novayagazeta.ru/articles/2022/02/10/sbornaia-rossii-vpervye-ne-zavoevala-ni-odnoi-nagrady-za-den-na-olimpiade-v-pekine-news) ни одной медали.
+За прошлый соревновательный день сборная России [не завоевала](2022/02/10/sbornaia-rossii-vpervye-ne-zavoevala-ni-odnoi-nagrady-za-den-na-olimpiade-v-pekine-news.md) ни одной медали.
 
 Всего в Играх принимают участие более четырех тысяч атлетов из 91 страны. В семи видах спорта разыгрываются 109 комплектов медалей. Олимпиада завершится 20 февраля.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/10/rossii-net-no-russkie-vezde
+**Читайте также:** [России нет, но русские — везде](2022/02/10/rossii-net-no-russkie-vezde.md)
 
-Церемонию награждения фигуристов на Олимпийских играх в Пекине перенесли. Портал Inside the Games [предположил](https://novayagazeta.ru/articles/2022/02/09/inside-the-games-tseremoniiu-nagrazhdeniia-rossiiskikh-figuristov-na-olimpiade-perenesli-iz-za-doping-testa-kamily-valievoi-news), что это может быть связано с результатом допинг-теста 15-летней фигуристки Камилы Валиевой. Позже Международное агентство допинг-тестирования (ITA) официально [заявило](https://novayagazeta.ru/articles/2022/02/11/mezhdunarodnoe-doping-agentstvo-zaiavlo-chto-v-probe-rossiiskoi-figuristki-kamily-valievoi-nashli-trimetazidin-news), что в допинг-тесте Валиевой, который был сдан перед Олимпиадой в Пекине, нашли препарат триметазидин.
+Церемонию награждения фигуристов на Олимпийских играх в Пекине перенесли. Портал Inside the Games [предположил](2022/02/09/inside-the-games-tseremoniiu-nagrazhdeniia-rossiiskikh-figuristov-na-olimpiade-perenesli-iz-za-doping-testa-kamily-valie.md), что это может быть связано с результатом допинг-теста 15-летней фигуристки Камилы Валиевой. Позже Международное агентство допинг-тестирования (ITA) официально [заявило](2022/02/11/mezhdunarodnoe-doping-agentstvo-zaiavlo-chto-v-probe-rossiiskoi-figuristki-kamily-valievoi-nashli-trimetazidin-news.md), что в допинг-тесте Валиевой, который был сдан перед Олимпиадой в Пекине, нашли препарат триметазидин.
 
 Итоговое решение о распределении медалей олимпийского командного турнира фигуристов будет принято после рассмотрения апелляции МОК.
 

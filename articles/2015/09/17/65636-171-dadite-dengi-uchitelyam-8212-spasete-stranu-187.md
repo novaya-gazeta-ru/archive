@@ -105,9 +105,9 @@ tags: "как у них, образование, франция"
 
 Эти центры имели невероятный успех. Но их закрыли.
 
-**link:** https://novayagazeta.ru/society/66703.html
+**link:** [https://novayagazeta.ru/society/66703.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/66703.html)
 
-**link:** https://novayagazeta.ru/society/66703.html
+**link:** [https://novayagazeta.ru/society/66703.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/66703.html)
 
 **— Угадать, кто это сделал?**
 

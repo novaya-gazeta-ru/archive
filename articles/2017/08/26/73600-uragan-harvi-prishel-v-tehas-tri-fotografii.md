@@ -33,4 +33,4 @@ tags: "ураган, стихия, сша"
 
 *Город Корпус Кристи, штат Техас. Фото: Reuters*
 
-**link:** https://novayagazeta.ru/articles/2017/05/30/72631-net-deneg-na-sputniki-no-est-na-dvortsy
+**link:** [https://novayagazeta.ru/articles/2017/05/30/72631-net-deneg-na-sputniki-no-est-na-dvortsy](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/05/30/72631-net-deneg-na-sputniki-no-est-na-dvortsy)

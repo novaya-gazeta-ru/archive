@@ -155,6 +155,6 @@ tags: "анна каретникова, каретникова, фсин, сиз
 
 Это был тяжелый и вынужденный выбор, я не могу с ним смириться до сих пор. И то, что поддерживает меня сейчас, что дает надежду, — ничем не подтвержденное, быть может, внушенное, но твердое знание, что маршрут до конца еще не пройден.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/12/tekh-kto-mozhet-vyzhit-ne-osvobozhdat
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/12/tekh-kto-mozhet-vyzhit-ne-osvobozhdat](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/12/tekh-kto-mozhet-vyzhit-ne-osvobozhdat)
 
 #### * Признаны властями РФ «иностранными агентами».

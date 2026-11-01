@@ -25,4 +25,4 @@ tags: ""
 
 Проблема с приемом новых купюр может решиться за три-шесть месяцев, прогнозирует основатель Anderida Financial Group Алексей Тараповский. А глава Гознака Аркадий Трачук заявил, что 60% банкоматов в РФ удастся перепрошить программным обеспечением разработки его ведомства.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/18/kogda-u-rossii-zakonchatsia-dengi-chto-zhdet-ekonomiku-posle-svo
+**Читайте также:** [Когда у России закончатся деньги? Что ждет экономику после СВО?](2025/03/18/kogda-u-rossii-zakonchatsia-dengi-chto-zhdet-ekonomiku-posle-svo.md)

@@ -42,4 +42,4 @@ tags: "сенцов"
 >
 > Две родины. Кирилл Мартынов: Будем радоваться свободе всех, но все же заметим разницу между Россией и Украиной
 
-**link:** https://novayagazeta.ru/articles/2019/09/07/81876-sentsova-vstretil-zelenskiy-a-vyshinskogo-kiselev-fotografii
+**link:** [Сенцова встретил Зеленский. А Вышинского — Киселев](2019/09/07/81876-sentsova-vstretil-zelenskiy-a-vyshinskogo-kiselev-fotografii.md)

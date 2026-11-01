@@ -44,8 +44,8 @@ tags: ""
 
 Официальной реакции Киева на российское видение урегулирования пока нет.
 
-Тем не менее, стороны [смогли сегодня договориться](https://novayagazeta.ru/articles/2025/06/02/medinskii-rossiia-peredast-kievu-6000-zamorozhennykh-tel-ukrainskikh-voennykh-kiev-i-moskva-obmeniaiut-vsekh-tiazhelobolnykh-i-molodykh-voennoplennykh-moskva-predlozhila-tochechnoe-prekrashchenie-ognia-na-dva-tri-dnia-news) о крупном обмене «всех на всех» тяжелобольными военнопленными и военнопленными моложе 23 лет. Российская сторона отправит в Украину несколько составов с телами погибших, личности которых она смогла установить.
+Тем не менее, стороны [смогли сегодня договориться](2025/06/02/medinskii-rossiia-peredast-kievu-6000-zamorozhennykh-tel-ukrainskikh-voennykh-kiev-i-moskva-obmeniaiut-vsekh-tiazhelobol.md) о крупном обмене «всех на всех» тяжелобольными военнопленными и военнопленными моложе 23 лет. Российская сторона отправит в Украину несколько составов с телами погибших, личности которых она смогла установить.
 
 Также Москва предложила Киеву «точечное» кратковременное прекращение огня «на два-три дня» на «конкретных участках фронта» — собрать тела во избежание эпидемиологической ситуации из-за жаркой погоды.
 
-**от редакции:** https://novayagazeta.ru/articles/2025/06/02/pervoprichinnoe-mesto
+**от редакции:** [Первопричинное место](2025/06/02/pervoprichinnoe-mesto.md)

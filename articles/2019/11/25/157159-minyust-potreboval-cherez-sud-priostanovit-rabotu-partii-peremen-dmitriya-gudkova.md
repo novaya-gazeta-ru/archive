@@ -17,6 +17,6 @@ tags: "гудков, партия перемен, минюст, суды, va"
 
 «Гражданская инициатива» появилась в 2013 году, в 2018 году она выдвигала кандидатом на президентских выборах телеведущую Ксению Собчак, а на выборах мэра Москвы — Дмитрия Гудкова. На думские выборы 2021 года от партии [собирался пойти](https://www.kommersant.ru/doc/4162797) экс-мэр Екатеринбурга Евгений Ройзман.
 
-Перед президентскими выборами было объявлено о создании на ее базе «Партии перемен» с Гудковым во главе. Однако Минюст [отказался](https://novayagazeta.ru/news/2018/11/30/147210-minyust-otkazal-sobchak-i-gudkovu-v-pereimenovanii-grazhdanskoy-initsiativy-ee-hoteli-nazvat-partiey-peremen) принимать изменения в устав о смене руководства и названия партии.
+Перед президентскими выборами было объявлено о создании на ее базе «Партии перемен» с Гудковым во главе. Однако Минюст [отказался](https://web.archive.org/web/*/https://novayagazeta.ru/news/2018/11/30/147210-minyust-otkazal-sobchak-i-gudkovu-v-pereimenovanii-grazhdanskoy-initsiativy-ee-hoteli-nazvat-partiey-peremen) принимать изменения в устав о смене руководства и названия партии.
 
-**link:** https://novayagazeta.ru/articles/2019/09/14/81976-zakat-glamlibov
+**link:** [Закат гламлибов](2019/09/14/81976-zakat-glamlibov.md)

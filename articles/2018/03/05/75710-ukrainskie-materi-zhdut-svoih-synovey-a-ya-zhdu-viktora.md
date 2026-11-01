@@ -25,4 +25,4 @@ tags: "украина, обмен пленными, пленные, агеев �
 
 *Виктор Агеев на суде. Кадр 112.ua*
 
-**link:** https://novayagazeta.ru/articles/2017/07/23/73205-ya-hochu-chtoby-menya-vytaschili-otsyuda
+**link:** [«Я хочу, чтобы меня вытащили отсюда»](2017/07/23/73205-ya-hochu-chtoby-menya-vytaschili-otsyuda.md)

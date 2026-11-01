@@ -15,4 +15,4 @@ tags: ""
 
 \
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/04/24/teatr-boevykh-deistvii-prevratilsia-v-kilzonu
+**Читайте также:** [Театр боевых действий превратился в килзону](2026/04/24/teatr-boevykh-deistvii-prevratilsia-v-kilzonu.md)

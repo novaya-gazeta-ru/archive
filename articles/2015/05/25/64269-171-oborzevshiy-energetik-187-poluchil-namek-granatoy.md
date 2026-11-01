@@ -22,7 +22,7 @@ tags: "криминал"
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/05/25/1432561546_948021_2.png" style="width: 340px; height: 205px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/05/25/1432561546_948021_2.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/05/25/1432561546_948021_2.png)" style="width: 340px; height: 205px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Юрий Желябовский</sup></td>

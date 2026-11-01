@@ -23,8 +23,8 @@ tags: ""
 
 24 декабря выяснилось, что затонувшие в Керченском проливе танкеры находились в море в нарушение сезонных ограничений, а часть флота ЗАО «Волгатранснефти» при этом вообще не включены в лицензию на перевозки опасных грузов морским транспортом.
 
-В Крансодарском крае объявили режим ЧС в связи с экологической катастрофой, но лишь спустя 10 суток после самой аварии. Губернатор Кондратьев докладывал, что местные власти справляются с ликвидацией последствий, что противоречило [видеообращениям волонтеров](https://novayagazeta.ru/articles/2024/12/23/etu-katastrofu-lopatoi-ne-reshit-shtorm-unosit-uzhe-sobrannyi-s-pliazhei-anapy-mazut-obratno-v-more-zhiteli-prosiat-podkliucheniia-federalnykh-vlastei-news) и экологов. Вчера он [все-таки попросил](https://novayagazeta.ru/articles/2024/12/26/gubernator-krasnodarskogo-kraia-lish-na-12-sutki-poprosil-mchs-podkliuchit-federalnye-resursy-dlia-likvidatsii-ekokatastrofy-liudi-prosili-ob-etom-davno-news) главу МЧС Куренкова прислать в край федеральные силы.
+В Крансодарском крае объявили режим ЧС в связи с экологической катастрофой, но лишь спустя 10 суток после самой аварии. Губернатор Кондратьев докладывал, что местные власти справляются с ликвидацией последствий, что противоречило [видеообращениям волонтеров](2024/12/23/etu-katastrofu-lopatoi-ne-reshit-shtorm-unosit-uzhe-sobrannyi-s-pliazhei-anapy-mazut-obratno-v-more-zhiteli-prosiat-podk.md) и экологов. Вчера он [все-таки попросил](2024/12/26/gubernator-krasnodarskogo-kraia-lish-na-12-sutki-poprosil-mchs-podkliuchit-federalnye-resursy-dlia-likvidatsii-ekokatast.md) главу МЧС Куренкова прислать в край федеральные силы.
 
 С пляжей вывезли 30 тысяч донн песчано-мазутной смеси. Но ожидают, что объемы загрязнения составят 200 тысяч тонн.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/18/takie-drevnie-suda-nelzia-vypuskat-v-more
+**Читайте также:** [«Такие древние суда нельзя выпускать в море»](2024/12/18/takie-drevnie-suda-nelzia-vypuskat-v-more.md)

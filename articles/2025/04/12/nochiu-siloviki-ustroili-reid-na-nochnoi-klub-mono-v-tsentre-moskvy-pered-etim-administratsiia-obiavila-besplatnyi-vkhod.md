@@ -25,12 +25,12 @@ tags: ""
 
 Оба сообщения к утру были удалены, клуб благодарит посетителей за слова поддержки и снова зовет всех «танцевать».
 
-В прошлый раз силовики устроили рейд в Mono [в ночь на 30 ноября](https://novayagazeta.ru/articles/2024/11/30/siloviki-nagrianuli-s-reidami-protiv-mezhdunarodnogo-dvizheniia-lgbt-v-neskolko-nochnykh-klubov-moskvy-news) прошлого года — в годовщину признания «движения ЛГБТ*» экстремистской организацией в России. Тогда посетителей держали на полу несколько часов, а мужчинам призывного возраста еще [и выдавали](https://t.me/ostorozhno_novosti/31737) повестки в военкомат.
+В прошлый раз силовики устроили рейд в Mono [в ночь на 30 ноября](2024/11/30/siloviki-nagrianuli-s-reidami-protiv-mezhdunarodnogo-dvizheniia-lgbt-v-neskolko-nochnykh-klubov-moskvy-news.md) прошлого года — в годовщину признания «движения ЛГБТ*» экстремистской организацией в России. Тогда посетителей держали на полу несколько часов, а мужчинам призывного возраста еще [и выдавали](https://t.me/ostorozhno_novosti/31737) повестки в военкомат.
 
 В ноябре-декабре прошлого года силовики приходили в клуб Arma* (бывший «Мутабор»), бар Simach и ночной клуб Inferno Night на Складочной улице.
 
-В октябре полиция [проводила рейды](https://novayagazeta.ru/articles/2023/12/02/pridut-liudi-v-pogonakh-v-sviazi-s-nedavnimi-zakonom) в московских клубах «Три обезьяны» и «Центральная станция».
+В октябре полиция [проводила рейды](2023/12/02/pridut-liudi-v-pogonakh-v-sviazi-s-nedavnimi-zakonom.md) в московских клубах «Три обезьяны» и «Центральная станция».
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/07/posetitelei-moskovskikh-klubov-snova-polozhili-litsom-v-pol-vo-vremia-reidov-protiv-propagandy-lgbt-news
+**Читайте также:** [Посетителей московских клубов снова положили лицом в пол во время «рейдов против пропаганды ЛГБТ*»](2024/12/07/posetitelei-moskovskikh-klubov-snova-polozhili-litsom-v-pol-vo-vremia-reidov-protiv-propagandy-lgbt-news.md)
 
 #### * «Международное движение ЛГБТ+» признано экстремистским и запрещено в России.

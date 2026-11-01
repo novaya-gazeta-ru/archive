@@ -24,4 +24,4 @@ tags: "подкаст, костюченко, интервью, продолже�
 - Подписывайтесь на [YouTube-канал](https://www.youtube.com/channel/UC2Y8KnPqZnCGlsk00FlX3Xg) «Продолжение следует»
 - [Telegram-канал проекта](https://t.me/prodolzheniesleduetpodcast)
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/22/gosudarstvo-kak-pianyi-muzhik-s-kuvaldoi#
+**Читайте также:** [https://novayagazeta.ru/articles/2021/10/22/gosudarstvo-kak-pianyi-muzhik-s-kuvaldoi#](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/10/22/gosudarstvo-kak-pianyi-muzhik-s-kuvaldoi#)

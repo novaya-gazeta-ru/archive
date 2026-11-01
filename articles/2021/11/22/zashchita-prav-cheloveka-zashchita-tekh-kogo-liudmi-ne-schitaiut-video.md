@@ -25,7 +25,7 @@ tags: "кочетков, лгбт, права человека, преследо
 
 Кирилл Мартынов, редактор отдела политики «Новой газеты», поговорил с Игорем Кочетковым о роли гомофобии в современной российской политике, о том, как движение против вакцинации заимствует правозащитную риторику, о личных рисках активистов и российском будущем.
 
-**Текстовая версия:** https://novayagazeta.ru/articles/2021/11/20/gosudarstvo-rassmatrivaet-nas-kak-ideologicheskikh-vragov-18
+**Текстовая версия:** [https://novayagazeta.ru/articles/2021/11/20/gosudarstvo-rassmatrivaet-nas-kak-ideologicheskikh-vragov-18](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/20/gosudarstvo-rassmatrivaet-nas-kak-ideologicheskikh-vragov-18)
 
 **Ведущий: **Кирилл Мартынов\
  **Продюсеры:** Серафима Свердлова, Маша Улазовская\

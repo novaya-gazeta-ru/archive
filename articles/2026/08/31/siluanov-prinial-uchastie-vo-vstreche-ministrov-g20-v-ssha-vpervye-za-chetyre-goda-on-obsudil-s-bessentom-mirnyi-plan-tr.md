@@ -23,7 +23,7 @@ tags: "силуанов, минфин, минфин сша, g20, трамп, у�
 
 Неделю назад Россию неожиданно [посетил](https://t.me/novaya_pishet/59737) директор ЦРУ Джон Рэтклифф с необъявленным визитом. Причем сделал это [демонстративно](https://t.me/novaya_pishet/59730) на военно-транспортном самолете ВВС США, вылетевшем с военной базы Эндрюс под Вашингтоном с остановкой в Риге.
 
-Встречу с Рэтклиффом подтвердил глава СВР Сергей Нарышкин, [прокомментировав](https://novayagazeta.ru/articles/2026/08/27/nichego-neobychnogo-tak-direktor-svr-naryshkin-obiasnil-vnezapnuiu-i-pervuiu-za-gody-vstrechu-s-glavoi-tsru-retkliffom-v-moskve-amerikanets-pribyl-na-voennom-samolete-news) ее так: «Ничего необычного».
+Встречу с Рэтклиффом подтвердил глава СВР Сергей Нарышкин, [прокомментировав](2026/08/27/nichego-neobychnogo-tak-direktor-svr-naryshkin-obiasnil-vnezapnuiu-i-pervuiu-za-gody-vstrechu-s-glavoi-tsru-retkliffom-v.md) ее так: «Ничего необычного».
 
 Кремль утверждал, что Путин с Рэтклиффом не встречался, и это были «контакты по линии спецслужб».
 

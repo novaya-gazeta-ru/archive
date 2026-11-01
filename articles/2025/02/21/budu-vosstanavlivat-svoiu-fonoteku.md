@@ -69,7 +69,7 @@ tags: "владимир румянцев, фейки, политзаключен
 
 — Это все индивидуально, у кого какой склад характера. Вот у меня Набоков не пошел, еще когда я на «централе» сидел. Что-то у него слишком много душевного самокопания.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/16/kak-ia-vernus-v-to-obshchestvo-kotoroe-sformirovalos-v-rossii
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/16/kak-ia-vernus-v-to-obshchestvo-kotoroe-sformirovalos-v-rossii](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/16/kak-ia-vernus-v-to-obshchestvo-kotoroe-sformirovalos-v-rossii)
 
 **— Как вы в тюрьме узнавали новости о том, что творится в мире?**
 

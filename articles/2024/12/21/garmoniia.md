@@ -18,4 +18,4 @@ tags: ""
  И в музыке этой нет счастья и силы.\
  Одни только воля, покой и гармонь.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/14/poezd-idet-v-neizvestnost
+**Читайте также:** [Поезд идет в неизвестность](2024/12/14/poezd-idet-v-neizvestnost.md)

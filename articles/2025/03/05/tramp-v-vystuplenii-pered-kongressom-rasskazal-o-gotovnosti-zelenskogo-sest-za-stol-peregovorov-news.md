@@ -31,4 +31,4 @@ tags: "трамп, зеленский, конгресс сша, выступле
 
 Выступление Трампа длилось около 100 минут и стало рекордным по продолжительности в истории обращений президента США к конгрессу. Во время речи некоторые демократы выражали несогласие с его заявлениями, выкрикивая «Ложь!» и призывая к импичменту, отмечают СМИ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/04/zelenskii-prokommentiroval-ssoru-v-belom-dome-i-zaiavil-o-gotovnosti-rabotat-pod-silnym-rukovodstvom-trampa-nad-prochnym-mirom-v-ukraine-news
+**Читайте также:** [Зеленский прокомментировал ссору в Белом доме и заявил о готовности работать «под сильным руководством Трампа» над прочным миром в Украине](2025/03/04/zelenskii-prokommentiroval-ssoru-v-belom-dome-i-zaiavil-o-gotovnosti-rabotat-pod-silnym-rukovodstvom-trampa-nad-prochnym.md)

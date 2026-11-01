@@ -17,7 +17,7 @@ tags: "навальный, миняйло, политзаключенные, м�
 
 *Участница митинга «Отпускай» на проспекте Сахарова незадолго до начала. Фото: Влад Докшин / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2019/09/29/82156-ne-my-narushaem-zakon-zakon-narushaet-nas
+**link:** [«Не мы нарушаем закон — закон нарушает нас»](2019/09/29/82156-ne-my-narushaem-zakon-zakon-narushaet-nas.md)
 
 ![](_assets/32/3296cb47f493da4356cb2ec7f791a97f.webp)
 

@@ -35,4 +35,4 @@ tags: "реформа, конституция, володин"
 
 P.S. От редакции «Вы, наверное, так и не поняли, что троллинг — это тоже способ диалога», — заметил нам сведущий сотрудник Госдумы.
 
-**link:** https://novayagazeta.ru/articles/2020/01/24/83608-superveto-otstavka-sudey-i-slabyy-premier
+**link:** [«Супервето», отставка судей и слабый премьер](2020/01/24/83608-superveto-otstavka-sudey-i-slabyy-premier.md)

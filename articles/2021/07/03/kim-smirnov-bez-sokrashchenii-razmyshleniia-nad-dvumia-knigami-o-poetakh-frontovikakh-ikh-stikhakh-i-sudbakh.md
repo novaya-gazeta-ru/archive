@@ -13,7 +13,7 @@ tags: ""
 
 *Из личного дневника. Окончание*
 
-> Начало материала [читайте тут](https://novayagazeta.ru/articles/2021/06/25/kim-smirnov-bez-sokrashchenii-razmyshleniia-nad-dvumia-knigami-o-poetakh-frontovikakh-ikh-stikhakh-i-sudbakh).
+> Начало материала [читайте тут](2021/06/25/kim-smirnov-bez-sokrashchenii-razmyshleniia-nad-dvumia-knigami-o-poetakh-frontovikakh-ikh-stikhakh-i-sudbakh.md).
 
 ![](_assets/1c/1c980ac823abb27c4dbe8f37a29fa77f.webp)
 

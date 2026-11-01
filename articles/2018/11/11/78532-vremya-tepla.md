@@ -101,7 +101,7 @@ ___
 
 *Служба и обед в «Ангаре спасения». Фото: Светлана Виданова, специально для «Новой»*
 
-**link:** https://novayagazeta.ru/articles/2018/11/11/78531-irina-meshkova-lyudey-dobivaet-prezrenie
+**link:** [Ирина Мешкова: «Людей добивает презрение»](2018/11/11/78531-irina-meshkova-lyudey-dobivaet-prezrenie.md)
 
 # Центр социального восстановления «Новое начало»
 

@@ -19,6 +19,6 @@ tags: "ng, youtube, блокировка, фас"
 
 В Google [сообщили](https://t.me/tass_agency/107090), что ждут полного текста решения ФАС о нарушении антимонопольного законодательства для его изучения.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/05/pravaia-ruka-gosudarstva
+**Читайте также:** [Правая рука государства](2022/02/05/pravaia-ruka-gosudarstva.md)
 
-Видеохостинг YouTube 28 ноября прошлого года[удалил](https://novayagazeta.ru/articles/2021/09/28/youtube-zablokiroval-kanaly-rt-de-iz-za-feikov-o-koronaviruse-simonian-potrebovala-v-otvet-nakazat-nemetskikh-zhurnalistov-news)два канала немецкой редакции RT (RT DE и Der Fehlende Part) без возможности восстановления. В Google объяснили, что немецкоязычные каналы RT удалили из-за нарушения правил YouTube в отношении ложной информации о коронавирусе. Второй канал RT заблокировали, так как во время приостановки первого редакция использовала его, чтобы обойти ограничения, добавили в компании.
+Видеохостинг YouTube 28 ноября прошлого года[удалил](2021/09/28/youtube-zablokiroval-kanaly-rt-de-iz-za-feikov-o-koronaviruse-simonian-potrebovala-v-otvet-nakazat-nemetskikh-zhurnalist.md)два канала немецкой редакции RT (RT DE и Der Fehlende Part) без возможности восстановления. В Google объяснили, что немецкоязычные каналы RT удалили из-за нарушения правил YouTube в отношении ложной информации о коронавирусе. Второй канал RT заблокировали, так как во время приостановки первого редакция использовала его, чтобы обойти ограничения, добавили в компании.

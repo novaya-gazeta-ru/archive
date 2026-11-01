@@ -11,4 +11,4 @@ tags: ""
 
 # "Проститутка"
 
-[Скачать видео](https://novayagazeta.ru/storage/d/2007/02/12/video.avi)
+[Скачать видео](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2007/02/12/video.avi)

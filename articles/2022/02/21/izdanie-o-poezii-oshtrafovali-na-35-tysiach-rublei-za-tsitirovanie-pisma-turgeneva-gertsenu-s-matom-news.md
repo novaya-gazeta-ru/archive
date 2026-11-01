@@ -21,8 +21,8 @@ tags: "роскомнадзор, герцен, тургенев, мат , sf"
 
 «Но нет, видимо, растление общественной морали нецензурной бранью, пусть даже и в исполнении певца великого и могучего русского языка, должно было быть наказано», — заявил Козлов.
 
-Протокол на Prosodia управление Роскомнадзора по Ростовской области [направило](https://novayagazeta.ru/articles/2022/02/16/roskomnadzor-podal-v-sud-na-izdanie-o-poezii-za-tsitirovanie-pisma-turgeneva-gertsenu-s-matom-news) 16 февраля.
+Протокол на Prosodia управление Роскомнадзора по Ростовской области [направило](2022/02/16/roskomnadzor-podal-v-sud-na-izdanie-o-poezii-za-tsitirovanie-pisma-turgeneva-gertsenu-s-matom-news.md) 16 февраля.
 
 По словам Козлова, поводом для разбирательства стало цитирование в публикации о выходе поэтического сборника поэта XIX века Степана Шевырева отрывка из письма, которое Иван Тургенев написал Александру Герцену. В нем присутствует слово, которое Роскомнадзор считает матерным, а редакция — нет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/23/lovtsy-slov
+**Читайте также:** [https://novayagazeta.ru/articles/2021/06/23/lovtsy-slov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/06/23/lovtsy-slov)

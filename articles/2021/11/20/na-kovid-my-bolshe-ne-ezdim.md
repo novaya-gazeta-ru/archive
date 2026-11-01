@@ -89,7 +89,7 @@ tags: "коронавирус, вакцинация, выплаты, врачи,
 
 **Нина Петлянова**
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/18/zabolet-kovidom-dlia-syna-vernaia-smert
+**Читайте также:** [«Заболеть ковидом для сына — верная смерть»](2021/11/18/zabolet-kovidom-dlia-syna-vernaia-smert.md)
 
 # Приморье. Болеют дети
 
@@ -249,7 +249,7 @@ tags: "коронавирус, вакцинация, выплаты, врачи,
 
 **Алена Истомина**
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/19/lechenie-pushche-nevoli
+**Читайте также:** [Лечение пуще неволи](2021/11/19/lechenie-pushche-nevoli.md)
 
 # Воронеж. Поделитесь кислородом
 
@@ -295,4 +295,4 @@ tags: "коронавирус, вакцинация, выплаты, врачи,
 
 **Надежда Исаева**
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/20/esli-by-ne-nadbavki-ia-by-ne-poshla-v-kovidnoe-otdelenie
+**Читайте также:** [«Если бы не надбавки, я бы не пошла в ковидное отделение»](2021/11/20/esli-by-ne-nadbavki-ia-by-ne-poshla-v-kovidnoe-otdelenie.md)

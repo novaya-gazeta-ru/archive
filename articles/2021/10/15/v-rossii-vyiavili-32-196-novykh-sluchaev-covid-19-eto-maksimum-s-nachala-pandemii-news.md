@@ -19,10 +19,10 @@ tags: "коронавирус, пандемия, розыгрыш, da"
 
 Общее число летальных случаев от COVID-19 в стране достигло 221 313.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/02/proizvodstvo-ne-sovsem-chistoe
+**Читайте также:** [«Производство не совсем чистое»](2021/10/02/proizvodstvo-ne-sovsem-chistoe.md)
 
-Накануне министр здравоохранения Михаил Мурашко [предложил](https://novayagazeta.ru/articles/2021/10/14/glava-minzdrava-predlozhil-ushedshim-na-pensiiu-medikam-vaktsinirovatsia-i-vernutsia-k-rabote-news) пожилым медикам, ушедшим на пенсию в связи с коронавирусными ограничениями, вернуться к работе.
+Накануне министр здравоохранения Михаил Мурашко [предложил](2021/10/14/glava-minzdrava-predlozhil-ushedshim-na-pensiiu-medikam-vaktsinirovatsia-i-vernutsia-k-rabote-news.md) пожилым медикам, ушедшим на пенсию в связи с коронавирусными ограничениями, вернуться к работе.
 
 Мэр Москвы Сергей Собянин [объявил](https://www.mskagency.ru/materials/3157747) о запуске розыгрыша среди прошедших вакцинацию от COVID-19. Со следующей недели и в течение пяти недель москвичи, сделавшие прививку, примут участие в конкурсе, призовой фонд которого — 10 квартир в столице. «Но все это дополнительные стимулы. Но главный стимул — это собственное здоровье», — подчеркнул мэр.
 
-Ранее РБК со ссылкой на источники [сообщал](https://novayagazeta.ru/articles/2021/10/12/rbk-meriia-moskvy-mozhet-vernut-sistemu-qr-kodov-pri-urovne-zabolevaemosti-okolo-7-tysiach-chelovek-v-den-news), что в мэрии Москвы обсуждают возможность возвращения QR-кодов для прохода в кафе, если заболеваемость COVID-19 достигнет 6-9 тысяч заразившихся в день.
+Ранее РБК со ссылкой на источники [сообщал](2021/10/12/rbk-meriia-moskvy-mozhet-vernut-sistemu-qr-kodov-pri-urovne-zabolevaemosti-okolo-7-tysiach-chelovek-v-den-news.md), что в мэрии Москвы обсуждают возможность возвращения QR-кодов для прохода в кафе, если заболеваемость COVID-19 достигнет 6-9 тысяч заразившихся в день.

@@ -67,7 +67,7 @@ tags: ""
 
 Фестиваль будет проходить со 2 по 12 сентября на острове Лидо.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/23/kak-gefest-v-stroiotriade-rabotal
+**Читайте также:** [Как Гефест в стройотряде работал](2026/07/23/kak-gefest-v-stroiotriade-rabotal.md)
 
 > **БОЛЬШЕ О КИНО**
 >

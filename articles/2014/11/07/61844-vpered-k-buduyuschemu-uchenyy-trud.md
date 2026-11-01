@@ -83,9 +83,9 @@ III
 
 До появления религии, политики и искусства было еще далеко.\
 
-**link:** https://novayagazeta.ru/articles/2014/11/07/61844-vpered-k-buduyuschemu-uchenyy-trud?export=1#
+**link:** [Вперед к будующему. Ученый труд](2014/11/07/61844-vpered-k-buduyuschemu-uchenyy-trud.md)
 
-> [*](https://novayagazeta.ru/articles/2014/11/07/61844-vpered-k-buduyuschemu-uchenyy-trud?export=1#)О мертвых или хорошо, или ничего.
+> [*](2014/11/07/61844-vpered-k-buduyuschemu-uchenyy-trud.md)О мертвых или хорошо, или ничего.
 
 IV
 
@@ -127,9 +127,9 @@ IV
 
 Но не грусти! Многое уже сделано нами для того, чтобы снять солидол с третьей сигнальной и подготовить ее к использованию.
 
-**link:** https://novayagazeta.ru/articles/2014/11/07/61844-vpered-k-buduyuschemu-uchenyy-trud?export=1#
+**link:** [Вперед к будующему. Ученый труд](2014/11/07/61844-vpered-k-buduyuschemu-uchenyy-trud.md)
 
-> [**](https://novayagazeta.ru/articles/2014/11/07/61844-vpered-k-buduyuschemu-uchenyy-trud?export=1#)Вот место, где мертвые служат живым (лат.).
+> [**](2014/11/07/61844-vpered-k-buduyuschemu-uchenyy-trud.md)Вот место, где мертвые служат живым (лат.).
 
 А теперь и вовсе отвлечемся от предмета и бросим слово со всеми его функциями на ветер — пусть покружится, пока мы с вами будем заниматься рассмотрением компенсаторных возможностей организма.
 

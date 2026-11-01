@@ -19,6 +19,6 @@ tags: ""
 
 Омбусдмен обратила внимание, что все из 103 украинских пленных — фигуранты списка, который она опубликовала на прошлой неделе как российский обменный фонд. Публикация списка украинских пленных должна ускорить обмены, рассказывала Лантратова.
 
-13 августа Москва и Киев [обменялись](https://novayagazeta.ru/articles/2026/08/13/rossiia-i-ukraina-snova-obmenialis-telami-voennosluzhashchikh-moskva-vernula-kievu-261-telo-kiev-moskve-24-news) телами погибших — 261 тело получила Украина, 24 тела получила Россия.
+13 августа Москва и Киев [обменялись](2026/08/13/rossiia-i-ukraina-snova-obmenialis-telami-voennosluzhashchikh-moskva-vernula-kievu-261-telo-kiev-moskve-24-news.md) телами погибших — 261 тело получила Украина, 24 тела получила Россия.
 
-В тот же день 8 гражданских лиц (в основном, пожилые люди) из Украины [въехали](https://novayagazeta.ru/articles/2026/08/13/belarus-rasskazala-ob-obmene-grazhdanskimi-mezhdu-rossiei-i-ukrainoi-v-rossiiu-vernulis-8-chelovek-v-ukrainu-7-news) в Россию, и 7 из России в Украину в рамках гуманитарной акции.
+В тот же день 8 гражданских лиц (в основном, пожилые люди) из Украины [въехали](2026/08/13/belarus-rasskazala-ob-obmene-grazhdanskimi-mezhdu-rossiei-i-ukrainoi-v-rossiiu-vernulis-8-chelovek-v-ukrainu-7-news.md) в Россию, и 7 из России в Украину в рамках гуманитарной акции.

@@ -13,6 +13,6 @@ tags: ""
 
 *Мог ли SARS-COV2 сбежать из уханьской лаборатории? Юлия Латынина обсуждает с молекулярным биологом Дейгиным*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/05/pobeg-iz-ukhania
+**Читайте также:** [https://novayagazeta.ru/articles/2021/06/05/pobeg-iz-ukhania](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/06/05/pobeg-iz-ukhania)
 
 Сегодня в 14:00 на YouTube-канале «Новой» прямой эфир с Юрием Дейгиным — канадским молекулярным биологом, CEO Youthereum Genetics, членом группы DRASTIC. Это первый ученый, который объяснил, какие особенности SARS-COV2 заставляют предполагать, что он имеет искусственное происхождение. Эфир проведет журналистка Юлия Латынина.

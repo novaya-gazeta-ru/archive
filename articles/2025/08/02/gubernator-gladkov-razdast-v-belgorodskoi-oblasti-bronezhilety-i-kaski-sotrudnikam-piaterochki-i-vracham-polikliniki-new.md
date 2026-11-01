@@ -43,4 +43,4 @@ tags: ""
 
 *Комбайнер и его комбайн, оба — в защите против беспилотников. Фото: пресс-служба губернатора*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/01/figuranty-dela-o-khishchenii-24-mlrd-rublei-postavili-v-armiiu-30-tysiach-negodnykh-bronezhiletov-poluchennye-s-voennykh-dengi-vozili-v-bolshom-rozovom-chemodane-news
+**Читайте также:** [Фигуранты дела о хищении 2,4 млрд рублей поставили в армию 30 тысяч негодных бронежилетов. Полученные с военных деньги возили в «большом розовом чемодане»](2025/08/01/figuranty-dela-o-khishchenii-24-mlrd-rublei-postavili-v-armiiu-30-tysiach-negodnykh-bronezhiletov-poluchennye-s-voennykh.md)

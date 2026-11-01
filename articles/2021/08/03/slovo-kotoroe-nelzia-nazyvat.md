@@ -49,4 +49,4 @@ tags: "охота, запреты, закон"
 
 Если коротко, увидел депутата с убитым редким животным — проверь, кем он указал себя в переписи населения: нанайцем, манси или долганом. Правда, всегда останется вариант, что он просто мониторит численность…
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/03/podsel-na-baranov
+**Читайте также:** [https://novayagazeta.ru/articles/2021/08/03/podsel-na-baranov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/08/03/podsel-na-baranov)

@@ -27,9 +27,9 @@ tags: "лгбт, общество, театр"
 
 Так что Константин Райкин совершил поступок. «Все оттенки голубого» — значимое высказывание. По сути — слово для защиты. Недаром перед началом (редкий случай) постановщик обращается к зрителям с речью. Она звучит по трансляции. Цель — подготовить зал к предъявлению нерядового явления.
 
-**link:** https://novayagazeta.ru/arts/68879.html
+**link:** [https://novayagazeta.ru/arts/68879.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/68879.html)
 
-**link:** https://novayagazeta.ru/arts/68879.html
+**link:** [https://novayagazeta.ru/arts/68879.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/68879.html)
 
 Спектакль идет два часа с минутами. На программке стоит — «по мотивам реальных событий».
 

@@ -17,12 +17,12 @@ tags: "казахстан, минобороны, эвакуация, ai"
 
 Накануне представитель МИД РФ Мария Захарова [рассказала](https://t.me/MariaVladimirovnaZakharova/1646), что около 1,6 тысячи российских граждан обратили в дипломатические представительства России с просьбой помочь им покинуть Казахстан.
 
-Вывоз россиян из Казахстана начался 8 января, в этот день в Россию вернулись 25 человек. 5 января протестующие временно [захватили](https://novayagazeta.ru/articles/2022/01/05/chetvertyi-den-massovykh-protestov-v-kazakhstane-glavnoe) аэропорт Алматы, авиасообщение было приостановлено.
+Вывоз россиян из Казахстана начался 8 января, в этот день в Россию вернулись 25 человек. 5 января протестующие временно [захватили](2022/01/05/chetvertyi-den-massovykh-protestov-v-kazakhstane-glavnoe.md) аэропорт Алматы, авиасообщение было приостановлено.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/08/my-vse-vmeste-budem-za-eto-platit
+**Читайте также:** [«Мы все вместе будем за это платить»](2022/01/08/my-vse-vmeste-budem-za-eto-platit.md)
 
 1 января в Казахстане начались массовые протесты из-за роста цен на сжиженный природный газ. Вскоре требования митингующих политизировались — они потребовали отставки действующей власти. В ночь с 4 на 5 января произошли масштабные столкновения граждан с силовиками в Алматы.
 
-После потасовок с жителями правительство Казахстана [ушло в отставку](https://novayagazeta.ru/articles/2022/01/05/pravitelstvo-kazakhstana-ushlo-v-otstavku-na-fone-obshchenatsionalnykh-gazovykh-protestov-news), а президент [ввел](https://novayagazeta.ru/articles/2022/01/04/prezident-kazakhstana-vvel-rezhim-chp-v-almaty-i-mangistauskoi-oblasti-do-19-ianvaria-v-khode-protestov-liudi-nachali-szhigat-kolonny-mashin-politsii-news) чрезвычайное положение в двух регионах страны. По данным МВД РК, более 200 человек были задержаны за «нарушения общественного порядка».
+После потасовок с жителями правительство Казахстана [ушло в отставку](2022/01/05/pravitelstvo-kazakhstana-ushlo-v-otstavku-na-fone-obshchenatsionalnykh-gazovykh-protestov-news.md), а президент [ввел](2022/01/04/prezident-kazakhstana-vvel-rezhim-chp-v-almaty-i-mangistauskoi-oblasti-do-19-ianvaria-v-khode-protestov-liudi-nachali-sz.md) чрезвычайное положение в двух регионах страны. По данным МВД РК, более 200 человек были задержаны за «нарушения общественного порядка».
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/08/pogromnaia-imperiia
+**Читайте также:** [Погромная империя](2022/01/08/pogromnaia-imperiia.md)

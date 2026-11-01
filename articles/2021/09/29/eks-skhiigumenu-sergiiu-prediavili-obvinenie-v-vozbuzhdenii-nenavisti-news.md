@@ -15,8 +15,8 @@ tags: "схиигумен сергий, обвинения, em"
 
 По его словам, помимо Романова и его соратника Всеволода Могучева, фигурантами дела стал «неопределенный круг лиц». В материалах дела фигурируют несколько видеороликов, размещенных в интернете.
 
-Могучева [задержали](https://novayagazeta.ru/articles/2021/09/01/siloviki-zaderzhali-soratnika-eks-skhiigumena-sergiia-vsevoloda-mogucheva-po-delu-ob-ekstremizme-news) в начале сентября в Тюменской области и доставили в Екатеринбург, на следующий день его [арестовали](https://novayagazeta.ru/articles/2021/09/02/v-ekaterinburge-arestovali-soratnika-eks-skhiigumena-sergiia-vsevoloda-mogucheva-po-obvineniiu-v-ekstremizme-news). Тогда же стало известно, что Могучеву вменяют в вину п. «в» ч. 2 ст. 282 УК.
+Могучева [задержали](2021/09/01/siloviki-zaderzhali-soratnika-eks-skhiigumena-sergiia-vsevoloda-mogucheva-po-delu-ob-ekstremizme-news.md) в начале сентября в Тюменской области и доставили в Екатеринбург, на следующий день его [арестовали](2021/09/02/v-ekaterinburge-arestovali-soratnika-eks-skhiigumena-sergiia-vsevoloda-mogucheva-po-obvineniiu-v-ekstremizme-news.md). Тогда же стало известно, что Могучеву вменяют в вину п. «в» ч. 2 ст. 282 УК.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/01/27/88913-repressii-po-obrazu-i-prepodobiyu
+**Читайте также:** [Репрессии по образу и преподобию](2021/01/27/88913-repressii-po-obrazu-i-prepodobiyu.md)
 
 Сергий тоже находится в СИЗО, его дело рассматривается в Москве. Ранее ему вменили в вину «склонение к совершению самоубийства несовершеннолетнего лица» (ч. 3 ст. 110.1 УК) из-за проповеди «За Веру Христову мы насмерть стоим», размещенной на YouTube-канале Могучева. Кроме того, экс-схиигумену предъявили обвинения в нарушении права на свободу совести и вероисповеданий (ч. 3 ст. 148 УК) и в самоуправстве (ст. 330 УК).

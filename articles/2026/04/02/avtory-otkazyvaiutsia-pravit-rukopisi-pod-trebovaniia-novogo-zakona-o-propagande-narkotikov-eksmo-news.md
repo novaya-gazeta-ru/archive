@@ -30,6 +30,6 @@ tags: ""
 
 В том числе много учебников, если их когда-то в прошлом выпускала организация, теперь признанная нежелательной — как [только что произошло](https://t.me/novaya_pishet/57076) в Екатеринбурге.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/28/vziat-vse-i-podelit
+**Читайте также:** [«Взять всё и поделить»](2026/03/28/vziat-vse-i-podelit.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/31/pokherotoniia-beniamina-ili-vertofliu
+**Читайте также:** [Похеротония Беньямина, или Вертофлю](2026/03/31/pokherotoniia-beniamina-ili-vertofliu.md)

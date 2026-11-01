@@ -39,7 +39,7 @@ Shadmanov aligned his business strategy with power dynamics, wisely choosing to 
 
 Given Uzbekistan’s historical dependence on Russia as its primary trade partner and export route to global markets, UCG’s owner seized the chance to deepen cooperation with Moscow. In peaceful times, this would have been a lucrative long-term venture. However, the current geopolitical context rendered Shadmanov vulnerable.
 
-**this text in russian:** https://novayagazeta.ru/articles/2025/01/15/otlit-v-tsemente
+**this text in russian:** [Отлит в цементе](2025/01/15/otlit-v-tsemente.md)
 
 ## The U.S. Spotlight
 
@@ -65,7 +65,7 @@ In Uzbekistan, Komil had established himself as a reformer striving to fundament
 
 The assailants fired a burst of automatic gunfire at the vehicle but caused no harm to either its passengers or even the driver.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/30/the-drama-for-komil
+**Читайте также:** [https://novayagazeta.ru/articles/2024/12/30/the-drama-for-komil](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/12/30/the-drama-for-komil)
 
 The crime was committed on the eve of parliamentary elections, appearing as an audacious demonstration of defiance.
 

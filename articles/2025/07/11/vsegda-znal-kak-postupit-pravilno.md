@@ -63,7 +63,7 @@ tags: ""
 
 *Фото: Алексей Душутин / «Новая газета»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/10/ria-novosti-annulirovalo-soobshchenie-o-tom-chto-putin-prislal-na-proshchanie-s-eks-ministrom-starovoitom-venok-kak-vyshedshuiu-oshibochno-news
+**Читайте также:** [РИА Новости аннулировало как «вышедшее ошибочно» сообщение о том, что Путин прислал на прощание с экс-министром Старовойтом венок](2025/07/10/ria-novosti-annulirovalo-soobshchenie-o-tom-chto-putin-prislal-na-proshchanie-s-eks-ministrom-starovoitom-venok-kak-vysh.md)
 
 ![](_assets/49/492ceb3b018cc19d0390b78586baec19.webp)
 

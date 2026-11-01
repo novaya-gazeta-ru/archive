@@ -13,7 +13,7 @@ tags: "em, россия, хабаровск, протесты"
 
 > **есть продолжение**
 >
-> ##### [В Москве и Петербурге начались задержания на акциях солидарности с Хабаровском](https://novayagazeta.ru/news/2020/08/01/163451-v-moskve-i-peterburge-zaderzhali-okolo-20-uchastnikov-aktsii-solidarnosti-s-habarovskom)
+> ##### [В Москве и Петербурге начались задержания на акциях солидарности с Хабаровском](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/08/01/163451-v-moskve-i-peterburge-zaderzhali-okolo-20-uchastnikov-aktsii-solidarnosti-s-habarovskom)
 
 Жители разных российских городов вышли на несогласованные акции в поддержку хабарочан, уже более трех неделю протестующих из-за ареста экс-главы Хабаровского края Сергея Фургала.
 

@@ -11,4 +11,4 @@ tags: ""
 
 # Ночь длинных ковшей. В Москве снесли сотню незаконных магазинов
 
-**novaya:** https://novayagazeta.ru/society/71780.html
+**novaya:** [https://novayagazeta.ru/society/71780.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/71780.html)

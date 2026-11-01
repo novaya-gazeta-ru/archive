@@ -49,9 +49,9 @@ tags: "война, лнр, украина"
 
 Я дошел до Донецка российского. Там познакомился с людьми при лагере беженцев, они отвезли в Алчевск. Так я попал к Мозговому (*командир батальона «Призрак».* — Ю.П.). Нас было 15 человек: три словака и три серба, остальные — россияне.
 
-**link:** https://novayagazeta.ru/society/67041.html
+**link:** [https://novayagazeta.ru/society/67041.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/67041.html)
 
-**link:** https://novayagazeta.ru/society/67041.html
+**link:** [https://novayagazeta.ru/society/67041.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/67041.html)
 
 — Там уже ходили по моим друзьям полицейские с моей фотографией, спрашивали, знают ли они, где я. Но друзья сами хотят приехать ко мне. У нас в Словакии создаются партизанские отряды, люди тренируются. Они называют себя «Славянские бранцы». Я отсюда не уеду, пока все не закончится. Вчера пуля прошла по касательной, я живой, мне повезло. У меня уже было ранение в Югославии в ногу, поэтому меня все это не пугает. Это моя война. Я думаю, она закончится победой, и Евросоюз тоже расколется.
 
@@ -59,9 +59,9 @@ tags: "война, лнр, украина"
 
 — Я не попаду.
 
-**link:** https://novayagazeta.ru/society/67038.html
+**link:** [https://novayagazeta.ru/society/67038.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/67038.html)
 
-**link:** https://novayagazeta.ru/society/67038.html
+**link:** [https://novayagazeta.ru/society/67038.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/67038.html)
 
 **— Ты говоришь, что воюешь с Евросоюзом. А люди, в которых стреляешь ты и которые стреляют в тебя, они враги?**
 

@@ -15,7 +15,7 @@ tags: ""
 
 Результаты получились удивительные:
 
-1. [http://novayagazeta.ru/vote/1521684.html](http://novayagazeta.ru/vote/1521684.html)
+1. [[http://novayagazeta.ru/vote/1521684.html](https://web.archive.org/web/*/http://novayagazeta.ru/vote/1521684.html)](https://web.archive.org/web/*/http://novayagazeta.ru/vote/1521684.html)
 
 2. [http://www.facebook.com/home.php?sk=question&id=200611499981545&qa_ref=ssp](http://www.facebook.com/home.php?sk=question&id=200611499981545&qa_ref=ssp)
 

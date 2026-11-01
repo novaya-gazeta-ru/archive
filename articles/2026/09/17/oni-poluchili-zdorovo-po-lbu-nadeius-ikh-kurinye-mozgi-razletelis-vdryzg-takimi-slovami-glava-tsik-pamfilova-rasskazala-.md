@@ -19,10 +19,10 @@ tags: ""
 
 Памфилова не рассказала, что удалось и чего не удалось хакерам, что это были за хакеры. Но добавила, что «наши недруги настроены на то, чтобы сорвать выборы, потому что они прекрасно понимают, что мы нормально проведем выборы».
 
-В среду Владимир Путин [обратился](https://novayagazeta.ru/articles/2026/09/16/putin-v-teleobrashchenii-k-rossiianam-nazval-uchastie-v-vyborakh-obshchim-vkladom-v-pobedu-rossii-news) к россиянам по видеосвязи, призвав их прийти на выборы, чтобы «внести общий вклад в победу России».
+В среду Владимир Путин [обратился](2026/09/16/putin-v-teleobrashchenii-k-rossiianam-nazval-uchastie-v-vyborakh-obshchim-vkladom-v-pobedu-rossii-news.md) к россиянам по видеосвязи, призвав их прийти на выборы, чтобы «внести общий вклад в победу России».
 
 Выборы в Госдуму пройдут с 18 по 20 сентября. Из 450 мандатов 225 будут избираться по одномандатным округам, 225 — по партийным спискам.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/17/nuzhen-li-strane-parlament
+**Читайте также:** [Нужен ли стране парламент?](2026/09/17/nuzhen-li-strane-parlament.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/16/ochen-tainoe-golosovanie
+**Читайте также:** [Очень тайное голосование](2026/09/16/ochen-tainoe-golosovanie.md)

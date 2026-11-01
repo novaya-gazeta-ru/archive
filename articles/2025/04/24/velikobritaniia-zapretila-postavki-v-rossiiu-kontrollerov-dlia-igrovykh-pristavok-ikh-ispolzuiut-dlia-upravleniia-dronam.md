@@ -15,4 +15,4 @@ tags: ""
 
 Кроме запрета на поставку контроллеров, новый пакет расширяет прежние ограничения на поставку микросхем и технологий, используемых для работы и обслуживания электронного оборудования двойного назначения и производства сложных электронных компонентов, а также металлов и химических компонентов для их производства, [сообщает](https://www.politico.eu/article/uk-bans-export-of-killer-video-games-controllers-to-russia/) Politico.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/04/posle-gibeli-neskolkikh-voenkorov-minoborony-potrebovalo-regulirovat-ikh-peremeshcheniia-v-zone-svo-chtoby-te-ne-popadali-pod-nalety-fpv-dronov-ili-ogon-svoei-artillerii-news
+**Читайте также:** [После гибели нескольких военкоров Минобороны потребовало регулировать их перемещения в зоне СВО, чтобы те не попадали под налеты FPV-дронов или огонь своей артиллерии](2025/04/04/posle-gibeli-neskolkikh-voenkorov-minoborony-potrebovalo-regulirovat-ikh-peremeshcheniia-v-zone-svo-chtoby-te-ne-popadal.md)

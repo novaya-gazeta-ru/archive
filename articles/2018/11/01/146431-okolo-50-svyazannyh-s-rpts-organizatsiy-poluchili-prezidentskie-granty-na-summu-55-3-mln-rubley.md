@@ -21,4 +21,4 @@ tags: "президент, гранты, рпц, ek"
 
 Организации могут подавать заявку на получение гранта в рамках конкурса «Православная инициатива» с 2005 года. По словам гендиректора Фонда президентских грантов Ильи Чукалина, чем больше заявок, тем выше шанс выиграть денежные средства. Он рассказал, что в основном заявки подают приходы церквей в селах на реализацию небольших проектов вроде строительства парка или спортивной площадки.
 
-**link:** https://novayagazeta.ru/articles/2018/10/20/78272-pervye-poteri-na-moskovsko-konstantinopolskom-fronte-kakih-stavshih-uzhe-privychnymi-religioznyh-uslug-i-svyatyn-lishatsya-pravoslavnye-rossiyane-v-rezultate-razryva-rpts-s-konstantinopolskim-patriarhatom-i-voobsche-mirovym-pravoslaviem
+**link:** [Первые потери на московско-константинопольском фронте](2018/10/20/78272-pervye-poteri-na-moskovsko-konstantinopolskom-fronte-kakih-stavshih-uzhe-privychnymi-religioznyh-uslug-i-svyatyn-l.md)

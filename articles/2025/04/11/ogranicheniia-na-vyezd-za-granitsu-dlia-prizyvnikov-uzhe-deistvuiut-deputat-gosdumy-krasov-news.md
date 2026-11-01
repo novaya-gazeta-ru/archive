@@ -19,12 +19,12 @@ tags: ""
 
 До сих пор запретительные меры для призывников в России не действовали, отметил представитель движения «Идите лесом»* Иван Чувиляев в разговоре с «Агентством»*. По его словам, о случаях ограничения прав призывников до сих пор известно не было.
 
-Нынешний весенний призыв — [крупнейший за много лет](https://novayagazeta.ru/articles/2025/03/31/putin-podpisal-ukaz-o-vesennem-prizyve-na-2025-god-krupneishem-za-14-let-povestki-v-nekotorykh-regionakh-budut-dostavliat-elektronno-a-srok-deistviia-ikh-mogut-prodlit-news). Согласно указу, на срочную службу призовут 160 тысяч человек.
+Нынешний весенний призыв — [крупнейший за много лет](2025/03/31/putin-podpisal-ukaz-o-vesennem-prizyve-na-2025-god-krupneishem-za-14-let-povestki-v-nekotorykh-regionakh-budut-dostavlia.md). Согласно указу, на срочную службу призовут 160 тысяч человек.
 
-Госдума уже [приняла в трех чтениях](https://novayagazeta.ru/articles/2025/04/08/gosduma-priniala-zakon-kotoryi-pozvoliaet-otpravliat-prizyvnikov-v-armiiu-po-resheniiam-predydushchikh-prizyvnykh-kampanii-news) закон, который позволит призывать срочников в армию в течение года. Это значит, что если призывник получил повестку в весенний призыв и не отправился на службу, его [могут забрать по ней же осенью](https://novayagazeta.ru/articles/2025/01/27/pravitelstvo-odobrilo-izmeneniia-poriadka-prizyva-v-armiiu-rossiian-budut-otpravliat-na-sluzhbu-po-resheniiam-proshlykh-prizyvnykh-kampanii-news).
+Госдума уже [приняла в трех чтениях](2025/04/08/gosduma-priniala-zakon-kotoryi-pozvoliaet-otpravliat-prizyvnikov-v-armiiu-po-resheniiam-predydushchikh-prizyvnykh-kampan.md) закон, который позволит призывать срочников в армию в течение года. Это значит, что если призывник получил повестку в весенний призыв и не отправился на службу, его [могут забрать по ней же осенью](2025/01/27/pravitelstvo-odobrilo-izmeneniia-poriadka-prizyva-v-armiiu-rossiian-budut-otpravliat-na-sluzhbu-po-resheniiam-proshlykh-.md).
 
 #### * Минюст считает «иноагентами».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/31/siloviki-ustroili-oblavu-na-prizyvnikov-v-odnom-iz-fitnes-klubov-moskvy-news
+**Читайте также:** [Силовики устроили облаву на призывников в одном из фитнес-клубов Москвы&nbsp;](2025/03/31/siloviki-ustroili-oblavu-na-prizyvnikov-v-odnom-iz-fitnes-klubov-moskvy-news.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/05/zamministra-oborony-tsivileva-nazvala-chislo-obrativshikhsia-za-poiskom-propavshikh-v-zone-svo-ee-poprosili-nigde-ne-figurirovat-s-etoi-tsifroi-news
+**Читайте также:** [Замминистра обороны Цивилева назвала число обратившихся за поиском пропавших в зоне СВО. Ее попросили «нигде не фигурировать» с этой цифрой](2024/12/05/zamministra-oborony-tsivileva-nazvala-chislo-obrativshikhsia-za-poiskom-propavshikh-v-zone-svo-ee-poprosili-nigde-ne-fig.md)

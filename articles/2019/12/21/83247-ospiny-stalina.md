@@ -81,4 +81,4 @@ tags: "большой террор, кпрф, регионы, памятники
 
 Не знаю. Не уверен.
 
-**link:** https://novayagazeta.ru/articles/2019/12/16/83185-vozvraschenie-stalinskoy-ekonomiki
+**link:** [Возвращение «сталинской экономики»](2019/12/16/83185-vozvraschenie-stalinskoy-ekonomiki.md)

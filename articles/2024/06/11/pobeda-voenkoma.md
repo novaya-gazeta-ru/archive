@@ -35,4 +35,4 @@ tags: ""
 
 И — печальная известность не только среди местных журналистов и адвокатов, юристов (их он с завидной регулярностью оскорбляет, провоцирует, по данным «Новой», однажды отбирал у адвоката удостоверение), но и родни призывников. Они тоже говорят о хамстве с его стороны и издевательствах.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/06/07/kak-za-odnu-sekundu-stat-ekstremistom
+**Читайте также:** [https://novayagazeta.ru/articles/2024/06/07/kak-za-odnu-sekundu-stat-ekstremistom](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/06/07/kak-za-odnu-sekundu-stat-ekstremistom)

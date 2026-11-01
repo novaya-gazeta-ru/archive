@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right" style="">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/13/1342143405_568612_45.jpg" style="width: 300px; height: 431px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/13/1342143405_568612_45.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/13/1342143405_568612_45.jpg)" style="width: 300px; height: 431px; "><br>
 				<sup>Фото: Юрий Рост</sup></td>
 		</tr>
 	</tbody>]*

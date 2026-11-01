@@ -23,7 +23,7 @@ tags: "Максим Лаврентьев, кемерово"
 
 -
 
-Максим Лаврентьев — фигурант [дела](https://novayagazeta.ru/articles/2021/09/02/prokuratura-dobilas-otvoda-sudi-po-delu-kemerovskikh-blogerov-youtube-kanala-ne-bud-inertnym-news) кемеровских блогеров и бывший активист движения «Не будь инертным», участники которого снимали для одноименного YouTube-канала ролики о нарушениях со стороны чиновников и силовиков.
+Максим Лаврентьев — фигурант [дела](2021/09/02/prokuratura-dobilas-otvoda-sudi-po-delu-kemerovskikh-blogerov-youtube-kanala-ne-bud-inertnym-news.md) кемеровских блогеров и бывший активист движения «Не будь инертным», участники которого снимали для одноименного YouTube-канала ролики о нарушениях со стороны чиновников и силовиков.
 
 -
 

@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/06/10/1402411550_906627_35.jpg" style="width: 340px; height: 227px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/06/10/1402411550_906627_35.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/06/10/1402411550_906627_35.jpg)" style="width: 340px; height: 227px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Грозный</sup></td>
@@ -45,13 +45,13 @@ tags: ""
 			<td class="g-justify-right"><sup>Раиса Турлуева, мать похищенного Саид-Салеха Ибрагимова, и Айма Макаева, мать похищенного Апти Зайналова</sup></td>
 		</tr>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/06/10/1402411964_265145_93.jpg" style="width: 340px; height: 485px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/06/10/1402411964_265145_93.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/06/10/1402411964_265145_93.jpg)" style="width: 340px; height: 485px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Похищенный Саид-Салех Ибрагимов</sup></td>
 		</tr>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/06/10/1402411875_425162_34.jpg" style="width: 340px; height: 454px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/06/10/1402411875_425162_34.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/06/10/1402411875_425162_34.jpg)" style="width: 340px; height: 454px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Похищенный Апти Зайналов</sup></td>

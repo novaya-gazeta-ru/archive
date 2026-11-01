@@ -17,6 +17,6 @@ tags: ""
 
 **Произведено: «НО. Медиа из России»:** https://youtu.be/8Jbf6B6wy68
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/15/moskva-nichego-ne-govorit
+**Читайте также:** [Москва ничего не говорит](2025/11/15/moskva-nichego-ne-govorit.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/10/29/familii-marchenko-na-pamiatnike-ne-nashel
+**Читайте также:** [Фамилии Марченко на памятнике не нашел](2025/10/29/familii-marchenko-na-pamiatnike-ne-nashel.md)

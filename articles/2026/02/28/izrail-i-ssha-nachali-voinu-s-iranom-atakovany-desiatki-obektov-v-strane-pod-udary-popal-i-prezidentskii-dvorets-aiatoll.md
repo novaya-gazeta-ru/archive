@@ -19,7 +19,7 @@ tags: ""
 
 Вскоре за первой последовала вторая волна ударов, их уже несколько десятков. И это уже не только столица, но и разные провинции Ирана. По предварительной информации, атакованы президентский дворец в Тегеране.
 
-> Через несколько после сообщений о второй волне авиаударов президент США Дональд Трамп [подтвердил](https://novayagazeta.ru/articles/2026/02/28/tramp-ssha-uchastvuiut-v-voine-protiv-irana-rezhim-aiatoll-terroristicheskii-garantiruiu-chto-iadernogo-oruzhiia-u-irana-ne-budet-a-kogda-udary-stikhnut-irantsy-smogut-vyiti-i-svergnut-vlast-news): США (накопившие за последние недели огромную ударную группировку в регионе) участвуют в войне против Ирана.
+> Через несколько после сообщений о второй волне авиаударов президент США Дональд Трамп [подтвердил](2026/02/28/tramp-ssha-uchastvuiut-v-voine-protiv-irana-rezhim-aiatoll-terroristicheskii-garantiruiu-chto-iadernogo-oruzhiia-u-irana.md): США (накопившие за последние недели огромную ударную группировку в регионе) участвуют в войне против Ирана.
 
 ![](_assets/80/803d0bb86af82f8fd629758d77166ff6.webp)
 
@@ -39,4 +39,4 @@ Reuters сообщает, что верховный аятолла Ирана А
 
 «Иран не произносит золотых слов: нет ядерному оружию», — [заявил](https://t.me/ClashReport/72216) вчера Трамп, отвечая на вопросы журналистов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/28/tramp-ssha-uchastvuiut-v-voine-protiv-irana-rezhim-aiatoll-terroristicheskii-garantiruiu-chto-iadernogo-oruzhiia-u-irana-ne-budet-a-kogda-udary-stikhnut-irantsy-smogut-vyiti-i-svergnut-vlast-news
+**Читайте также:** [Трамп: США участвуют в войне против Ирана, режим аятолл — «террористический», «гарантирую», что ядерного оружия у Ирана не будет, а когда удары стихнут — иранцы смогут выйти и свергнуть власть](2026/02/28/tramp-ssha-uchastvuiut-v-voine-protiv-irana-rezhim-aiatoll-terroristicheskii-garantiruiu-chto-iadernogo-oruzhiia-u-irana.md)

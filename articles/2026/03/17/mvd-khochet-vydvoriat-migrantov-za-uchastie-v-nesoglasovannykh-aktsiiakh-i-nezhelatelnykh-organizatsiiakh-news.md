@@ -26,4 +26,4 @@ tags: ""
 
 Инициативу сотрудники МВД объяснили «усилением противоправной активности» иностранцев.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/12/kubintsy-ubiraiut-sneg-v-moskve-pochemu
+**Читайте также:** [Кубинцы убирают снег в Москве. Почему?](2026/03/12/kubintsy-ubiraiut-sneg-v-moskve-pochemu.md)

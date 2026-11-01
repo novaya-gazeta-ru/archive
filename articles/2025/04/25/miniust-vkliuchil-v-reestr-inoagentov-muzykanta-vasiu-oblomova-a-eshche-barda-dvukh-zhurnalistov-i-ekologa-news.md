@@ -35,6 +35,6 @@ tags: ""
 
 Назначают иноагентами в РФ внесудебно, делают это чиновники Минюста, предоставляя постфактум формальные обоснования.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/19/za-to-chto-rasstreliali-dedushku-ia-ne-mogu-nenavidet-stalina
+**Читайте также:** [«За то, что расстреляли дедушку, я не могу ненавидеть Сталина»](2025/04/19/za-to-chto-rasstreliali-dedushku-ia-ne-mogu-nenavidet-stalina.md)
 
 #### * Минюст включил в реестр иноагентов.

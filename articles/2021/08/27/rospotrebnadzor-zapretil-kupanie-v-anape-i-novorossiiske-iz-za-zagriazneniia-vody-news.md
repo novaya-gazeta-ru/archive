@@ -15,8 +15,8 @@ tags: "кубань, купание, роспотребнадзор, da"
 
 Ведомство направило властям этих муниципальных образований информацию об ограничении купания. Об источнике загрязнения не сообщается. Эпидемиологическую ситуацию в Краснодарском крае характеризуют как стабильную, случаев заболеваемости нет, согласно сайту местного Роспотребнадзора.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/12/chernee-ne-byvaet
+**Читайте также:** [Чернее не бывает](2021/08/12/chernee-ne-byvaet.md)
 
-Этим летом на Кубани [прошли](https://novayagazeta.ru/articles/2021/08/17/podtopilo-sami-vinovaty) масштабные наводнения. В середине августа в 14 муниципалитетах региона [объявили](https://www.gazeta.ru/social/news/2021/08/14/n_16383686.shtml) режим ЧС из-за обильных осадков. В начале августа на Черном море произошла экологическая катастрофа — [разлилась](https://novayagazeta.ru/articles/2021/08/12/delo-o-razlive-nefti-u-novorossiiska-perekvalifitsirovali-na-bolee-tiazhkii-sostav-prestupleniia-v-ktk-prishli-s-obyskami-news) нефть в районе порта Новороссийска, возбуждено уголовное дело.
+Этим летом на Кубани [прошли](2021/08/17/podtopilo-sami-vinovaty.md) масштабные наводнения. В середине августа в 14 муниципалитетах региона [объявили](https://www.gazeta.ru/social/news/2021/08/14/n_16383686.shtml) режим ЧС из-за обильных осадков. В начале августа на Черном море произошла экологическая катастрофа — [разлилась](2021/08/12/delo-o-razlive-nefti-u-novorossiiska-perekvalifitsirovali-na-bolee-tiazhkii-sostav-prestupleniia-v-ktk-prishli-s-obyskam.md) нефть в районе порта Новороссийска, возбуждено уголовное дело.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/15/mertvyi-sezon
+**Читайте также:** [Мертвый сезон](2021/08/15/mertvyi-sezon.md)

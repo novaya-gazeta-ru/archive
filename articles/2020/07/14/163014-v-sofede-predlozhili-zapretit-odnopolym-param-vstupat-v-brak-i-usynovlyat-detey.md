@@ -21,4 +21,4 @@ tags: "усыновление, однополые браки, сенаторы"
 
 При этом еще на прошлой неделе президент России Владимир Путин [уверял](https://ria.ru/20200703/1573859037.html), что в России не было, нет и не будет никаких ограничений религиозных и национальных прав, а также нарушения прав сексуальных меньшинств.
 
-**link:** https://novayagazeta.ru/articles/2020/03/10/84251-deti-kak-prioritet-dostoyanie-otvlekayuschiy-manevr-nuzhnoe-podcherknut-gosudarstva
+**link:** [Дети как приоритет (достояние, отвлекающий маневр — нужное подчеркнуть) государства](2020/03/10/84251-deti-kak-prioritet-dostoyanie-otvlekayuschiy-manevr-nuzhnoe-podcherknut-gosudarstva.md)

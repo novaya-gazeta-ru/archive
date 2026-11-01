@@ -39,4 +39,4 @@ tags: "ледокол"
 
 *Балтийцы отправляются в Арктику. Фото: Валерий Василевский*
 
-**link:** https://novayagazeta.ru/articles/2020/06/18/85908-shel-chetvertyy-mesyats-reysa
+**link:** [Шел четвертый месяц рейса](2020/06/18/85908-shel-chetvertyy-mesyats-reysa.md)

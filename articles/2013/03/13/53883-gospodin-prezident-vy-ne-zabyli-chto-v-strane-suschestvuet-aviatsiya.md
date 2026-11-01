@@ -68,7 +68,7 @@ _— Вас понял, передам, а сейчас пока ожидайт�
 
 _— А я уже закрыл все двери, и я никого не пущу больше на самолет…» _
 
-(см. «Новую газету» от 28.10.2011. [«Летчик Андрей Литвинов: «Это — моя страна, и будьте любезны мое мнение потерпеть»](http://www.novayagazeta.ru/society/49182.html)) и от 10.01.2012. [«С самолетом так нельзя, а со страной — можно?»](http://www.novayagazeta.ru/society/50285.html))
+(см. «Новую газету» от 28.10.2011. [«Летчик Андрей Литвинов: «Это — моя страна, и будьте любезны мое мнение потерпеть»](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/49182.html)) и от 10.01.2012. [«С самолетом так нельзя, а со страной — можно?»](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/50285.html))
 
 *[media: #next_pages_container { width: 5px; hight: 5px; position: absolute; top: -100px; left: -100px; z-index: 2147483647 !important; }]*
 

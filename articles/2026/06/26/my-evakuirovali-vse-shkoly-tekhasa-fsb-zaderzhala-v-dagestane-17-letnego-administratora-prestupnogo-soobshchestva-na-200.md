@@ -39,6 +39,6 @@ tags: ""
 
 Силовики обещают раскрыть больше деталей и эпизодов столь гигантской, по из словам, преступной группировки.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/16/16-letnego-podrostka-zaderzhali-v-podmoskove-za-popytku-sovershit-terakt-v-svoei-shkole-i-vstuplenie-v-gruppu-kolumbain-news
+**Читайте также:** [16-летнего подростка задержали в Подмосковье за попытку совершить теракт в своей школе и вступление в «группу Колумбайн»*&nbsp;](2025/01/16/16-letnego-podrostka-zaderzhali-v-podmoskove-za-popytku-sovershit-terakt-v-svoei-shkole-i-vstuplenie-v-gruppu-kolumbain-.md)
 
 Предположительно, речь идет о движении «Колумбайн», признанном в РФ террористическом. Культ «Колумбайна» построен вокруг затравленных сверстниками подростков, атаковавших собственные школы.

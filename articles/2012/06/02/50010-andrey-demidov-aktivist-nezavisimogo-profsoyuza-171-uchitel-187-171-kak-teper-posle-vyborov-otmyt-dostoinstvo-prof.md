@@ -18,7 +18,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/06/02/1338803613_988255_62.jpg" style="width: 350px; height: 350px; "></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/06/02/1338803613_988255_62.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/06/02/1338803613_988255_62.jpg)" style="width: 350px; height: 350px; "></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
@@ -43,7 +43,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/06/02/1338803595_793467_99.jpg" style="width: 350px; height: 233px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/06/02/1338803595_793467_99.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/06/02/1338803595_793467_99.jpg)" style="width: 350px; height: 233px; "><br>
 				<sup>Фото: Анна Артемьева/«Новая»</sup></td>
 		</tr>
 	</tbody>]*

@@ -13,11 +13,11 @@ tags: "скрипаль, литвиненко, дело щекочихина, в
 
 *20 лет политических покушений за 10 минут*
 
-**link:** https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online
+**link:** [https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online)
 
-**link:** https://novayagazeta.ru/articles/2020/08/21/86765-eto-ochen-bolno
+**link:** [«Это очень больно»](2020/08/21/86765-eto-ochen-bolno.md)
 
-**link:** https://novayagazeta.ru/articles/2020/08/20/86755-agent-otravleniya
+**link:** [Сущий яд](2020/08/20/86755-agent-otravleniya.md)
 
 **Над материалом работали: Александра Джорджевич, Александр Лавренов, Влад Докшин, Андрей Заякин, Сергей Соколов, Серафима Свердлова, Денис Коротков**
 

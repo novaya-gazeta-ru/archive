@@ -21,7 +21,7 @@ tags: "беженцы, мигранты, кризис, гуманитарный 
 
 > **смотрите еще**
 >
-> ### [Пограничники ЕС опубликовали видео, на котором ведомственная машина из Беларуси провожает мигрантов до границы с Литвой](https://novayagazeta.ru/articles/2021/08/03/pogranichniki-es-opublikovali-video-na-kotorom-vedomstvennaia-mashina-iz-belarusi-provozhaet-migrantov-do-granitsy-s-litvoi-news)
+> ### [Пограничники ЕС опубликовали видео, на котором ведомственная машина из Беларуси провожает мигрантов до границы с Литвой](2021/08/03/pogranichniki-es-opublikovali-video-na-kotorom-vedomstvennaia-mashina-iz-belarusi-provozhaet-migrantov-do-granitsy-s-lit.md)
 
 # Протесты с обеих сторон
 
@@ -113,7 +113,7 @@ tags: "беженцы, мигранты, кризис, гуманитарный 
 
 Еврокомиссар Илва Йоханссон, побывавшая на белорусско-литовской границе в понедельник, подтвердила, что необходимо установить физический барьер на границе с Беларусью.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/08/dazhe-iraktsy-begut-iz-belarusi
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/08/dazhe-iraktsy-begut-iz-belarusi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/08/dazhe-iraktsy-begut-iz-belarusi)
 
 # **Новые законы и права человека**
 

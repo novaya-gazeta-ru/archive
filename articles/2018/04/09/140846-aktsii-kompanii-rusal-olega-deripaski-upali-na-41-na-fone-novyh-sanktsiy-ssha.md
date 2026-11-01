@@ -13,7 +13,7 @@ tags: "дерипаска, бизнесмены, сша, санкции, ek"
 
 > **Продолжение**
 >
-> Правительство [окажет](https://www.novayagazeta.ru/news/2018/04/09/140851-pravitelstvo-okazhet-podderzhku-kompaniyam-popavshim-v-sanktsionnyy-spisok-ssha) поддержку компаниям, попавшим в санкционный список США
+> Правительство [окажет](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/04/09/140851-pravitelstvo-okazhet-podderzhku-kompaniyam-popavshim-v-sanktsionnyy-spisok-ssha) поддержку компаниям, попавшим в санкционный список США
 
 Акции компании по производству алюминия Rusal бизнесмена Олега Дерипаски [рухнули](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=486&sc_lang=en) на 41,8% на Гонконгской фондовой бирже после введения американских санкций. Капитализация компании упала на 3,6 млрд долларов.
 
@@ -21,8 +21,8 @@ tags: "дерипаска, бизнесмены, сша, санкции, ek"
 
 При этом в Rusal заверили, что намерены поддерживать выполнение всех кредитных обязательств.
 
-**link:** https://novayagazeta.ru/articles/2018/04/07/76093-minfin-ssha-uvolil-deripasku-i-vekselberga-s-posta-oligarhov
+**link:** [Минфин США уволил Дерипаску и Вексельберга с поста олигархов](2018/04/07/76093-minfin-ssha-uvolil-deripasku-i-vekselberga-s-posta-oligarhov.md)
 
-Ранее минфин США [ввел](https://www.novayagazeta.ru/news/2018/04/06/140793-ssha-vveli-sanktsii-protiv-38-rossiyskih-biznesmenov) санкции против семи российских олигархов, 17 государственных чиновников и 14 юридических лиц. В их число попали бизнесмен из «кремлевского списка» Олег Дерипаска и подконтрольные ему компания «Русал», группа En+, компания B-Finance и другие.
+Ранее минфин США [ввел](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/04/06/140793-ssha-vveli-sanktsii-protiv-38-rossiyskih-biznesmenov) санкции против семи российских олигархов, 17 государственных чиновников и 14 юридических лиц. В их число попали бизнесмен из «кремлевского списка» Олег Дерипаска и подконтрольные ему компания «Русал», группа En+, компания B-Finance и другие.
 
 Активы физических лиц и компаний из санкционного списка, находящиеся в юрисдикции США, заморожены. Гражданам США запрещено заключать с ними сделки.

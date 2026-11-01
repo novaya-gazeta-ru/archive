@@ -73,7 +73,7 @@ tags: "цены, рост цен, инфляция, дефицит"
 
 **Нина Петлянова**, «Новая газета»
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/17/kupi-menia-esli-smozhesh
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/17/kupi-menia-esli-smozhesh](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/17/kupi-menia-esli-smozhesh)
 
 ![](_assets/ba/babed4e0225e2232529c3a167ba3ff1a.webp)
 

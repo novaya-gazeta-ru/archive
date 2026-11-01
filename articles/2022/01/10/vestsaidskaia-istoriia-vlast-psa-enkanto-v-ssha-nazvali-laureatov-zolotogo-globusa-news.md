@@ -34,6 +34,6 @@ tags: "ng, золотой глобус, премия"
 - Лучшая мужская роль второго плана в сериале: О Ён Су, «Игра в кальмара»;
 - Лучшая женская роль второго плана в сериале: Сара Снук, «Наследники», и другие.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/24/2021-i-zastriavshie-v-matritse
+**Читайте также:** [2021-й. Застрявшие в матрице](2021/12/24/2021-i-zastriavshie-v-matritse.md)
 
-В мае 2021 года телекомпания NBC [отказалась](https://novayagazeta.ru/articles/2021/05/11/telekompaniia-nbc-otkazalas-ot-transliatsii-zolotogo-globusa-iz-za-otsutstviia-rasovogo-raznoobraziia-sredi-chlenov-zhiuri)транслировать американскую премию «Золотой глобус» в 2022 году из-за недостаточного расового разнообразия среди членов жюри.
+В мае 2021 года телекомпания NBC [отказалась](2021/05/11/telekompaniia-nbc-otkazalas-ot-transliatsii-zolotogo-globusa-iz-za-otsutstviia-rasovogo-raznoobraziia-sredi-chlenov-zhiu.md)транслировать американскую премию «Золотой глобус» в 2022 году из-за недостаточного расового разнообразия среди членов жюри.

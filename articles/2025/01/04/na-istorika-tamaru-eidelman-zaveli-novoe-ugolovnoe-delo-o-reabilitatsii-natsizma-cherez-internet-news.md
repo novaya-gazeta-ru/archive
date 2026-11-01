@@ -19,7 +19,7 @@ tags: ""
 
 По данной статье предусмотрен значительный штраф в несколько миллионов рублей либо срок до 5 лет тюрьмы.
 
-Это уголовное дело против Эйдельман — уже второе по схожему составу. Летом 2024 года против историка [уже возбуждали](https://novayagazeta.ru/articles/2024/06/21/moskovskaia-prokuratura-potrebovala-vozbudit-ugolovnye-dela-na-aktrisu-ianu-troianovu-pevitsu-monetochku-i-istorika-tamaru-eidelman-news) дело «о реабилитации нацизма», но — «по предварительному сговору или организованной группой».
+Это уголовное дело против Эйдельман — уже второе по схожему составу. Летом 2024 года против историка [уже возбуждали](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/06/21/moskovskaia-prokuratura-potrebovala-vozbudit-ugolovnye-dela-na-aktrisu-ianu-troianovu-pevitsu-monetochku-i-istorika-tamaru-eidelman-news) дело «о реабилитации нацизма», но — «по предварительному сговору или организованной группой».
 
 В контенте Youtube-канала историка якобы была обнаружена видеозапись, где, по мнению прокуроров, содержались «высказывания, выражающие явное неуважение ко дню воинской славы России (23 февраля) <...>, а также оскорбляющие память защитников Отечества».
 
@@ -29,6 +29,6 @@ tags: ""
 
 В феврале 2022-м она выступила резко против российской СВО, а затем покинула страну и завершила карьеру учителя, превратившись в популярного лектора-историка с Youtube-каналом с более чем 1,75 миллионами подписчиков.
 
-**Слушайте подкаст:** https://novayagazeta.ru/articles/2023/08/25/nelzia-trebovat-pokaianiia-eto-lichnyi-protsess
+**Слушайте подкаст:** [https://novayagazeta.ru/articles/2023/08/25/nelzia-trebovat-pokaianiia-eto-lichnyi-protsess](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/08/25/nelzia-trebovat-pokaianiia-eto-lichnyi-protsess)
 
 #### * В сентябре 2022 года российский Минюст вклчил Эйдельман в реестр иноагентов. Оспорить статус в суде не удалось. Впоследствии Тамару Эйдельман в России штрафовали за неисполнение закона о маркировке иноагентов.

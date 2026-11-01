@@ -65,8 +65,8 @@ tags: "иван ильин, философы, фашизм"
 
 > Этот материал вышел в шестом номере «Новая газета. Журнал». Купить его можно в онлайн-магазине наших [партнеров](https://t.me/LLCNewSalesBot/Catalog).
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/22/prizraki-i-priznaki-fashizma
+**Читайте также:** [Призраки и признаки фашизма](2025/04/22/prizraki-i-priznaki-fashizma.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/23/militarizm-natsionalizm-i-tserkov
+**Читайте также:** [Милитаризм, национализм и Церковь](2025/04/23/militarizm-natsionalizm-i-tserkov.md)
 
 #### * Внесены Минюстом РФ в реестр «иноагентов».

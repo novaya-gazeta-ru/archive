@@ -23,7 +23,7 @@ tags: "кино, театр, табаков"
 
 *Сцена из спектакля «Балалайкин и К». Фото: Анатолий Гаранин / РИА Новости, 1973 год.*
 
-**link:** https://novayagazeta.ru/articles/2018/03/12/75774-mnogolikiy-tabakov
+**link:** [Многоликий Табаков](2018/03/12/75774-mnogolikiy-tabakov.md)
 
 ![](_assets/91/91c2091497f20d2267fb5ef712af84e7.webp)
 

@@ -97,20 +97,20 @@ tags: "слежка, избиение, полицейское насилие, г
 >
 > ### Том VII. <b>Гордые</b>\
 >
-> ### [Том VIII. Обязанные](https://novayagazeta.ru/articles/2020/11/24/88095-wiki-habarovsk-tom-viii)
+> ### [Том VIII. Обязанные](2020/11/24/88095-wiki-habarovsk-tom-viii.md)
 >
-> ### [Том IX. Целеустремленные](https://novayagazeta.ru/articles/2020/11/24/88096-wiki-habarovsk-tom-ix)
+> ### [Том IX. Целеустремленные](2020/11/24/88096-wiki-habarovsk-tom-ix.md)
 >
-> ### [Вернуться в самое начало](https://novayagazeta.ru/articles/2020/11/24/88079-wiki-habarovsk-start)
+> ### [Вернуться в самое начало](2020/11/24/88079-wiki-habarovsk-start.md)
 >
-> ### [Том I. Обвиняемые](https://novayagazeta.ru/articles/2020/11/24/88082-wiki-habarovsk-tom-i)
+> ### [Том I. Обвиняемые](2020/11/24/88082-wiki-habarovsk-tom-i.md)
 >
-> ### [Том II. Марширующие](https://novayagazeta.ru/articles/2020/11/24/88085-wiki-habarovsk-tom-ii)
+> ### [Том II. Марширующие](2020/11/24/88085-wiki-habarovsk-tom-ii.md)
 >
-> ### [Том III. Наблюдающий](https://novayagazeta.ru/articles/2020/11/24/88090-wiki-habarovsk-tom-iii)
+> ### [Том III. Наблюдающий](2020/11/24/88090-wiki-habarovsk-tom-iii.md)
 >
-> ### [Том IV. Несгибаемые](https://novayagazeta.ru/articles/2020/11/24/88091-wiki-habarovsk-tom-iv)
+> ### [Том IV. Несгибаемые](2020/11/24/88091-wiki-habarovsk-tom-iv.md)
 >
-> ### [Том V. Освещающие](https://novayagazeta.ru/articles/2020/11/24/88092-wiki-habarovsk-tom-v)
+> ### [Том V. Освещающие](2020/11/24/88092-wiki-habarovsk-tom-v.md)
 >
-> ### [Том VI. Противостоящие](https://novayagazeta.ru/articles/2020/11/24/88093-wiki-habarovsk-tom-vi)
+> ### [Том VI. Противостоящие](2020/11/24/88093-wiki-habarovsk-tom-vi.md)

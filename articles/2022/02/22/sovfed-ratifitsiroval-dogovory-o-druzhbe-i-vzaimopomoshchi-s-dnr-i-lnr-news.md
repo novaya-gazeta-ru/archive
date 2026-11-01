@@ -15,12 +15,12 @@ tags: "украина, донбасс, лнр, днр, совфед, дружб�
 
 ![](_assets/15/158f153b1f4a43f1ababa6012519e9fd.webp)
 
-Ранее соответствующие договоры единогласно [ратифицировали](https://novayagazeta.ru/articles/2022/02/22/gosduma-edinoglasno-ratifitsirovala-dogovory-o-druzhbe-i-vzaimopomoshchi-mezhdu-rossiei-i-ldnr-news) депутаты Госдумы. За ратификацию проголосовали 400 депутатов, против — 0, воздержавшихся также не было.
+Ранее соответствующие договоры единогласно [ратифицировали](2022/02/22/gosduma-edinoglasno-ratifitsirovala-dogovory-o-druzhbe-i-vzaimopomoshchi-mezhdu-rossiei-i-ldnr-news.md) депутаты Госдумы. За ратификацию проголосовали 400 депутатов, против — 0, воздержавшихся также не было.
 
-Документы [внес](https://novayagazeta.ru/articles/2022/02/22/putin-vnes-na-ratifikatsiiu-v-gosdumu-dogovory-s-dnr-i-lnr-oni-predpolagaiut-sovmestnuiu-oboronu-i-protivodeistvie-aktam-agressii-news) на ратификацию президент России Владимир Путин. Парламенты «ДНР» и «ЛНР» уже [ратифицировали](https://novayagazeta.ru/articles/2022/02/22/parlamenty-dnr-i-lnr-ratifitsirovali-dogovor-o-druzhbe-i-vzaimopomoshchi-s-rossiei-news) договоры.
+Документы [внес](2022/02/22/putin-vnes-na-ratifikatsiiu-v-gosdumu-dogovory-s-dnr-i-lnr-oni-predpolagaiut-sovmestnuiu-oboronu-i-protivodeistvie-aktam.md) на ратификацию президент России Владимир Путин. Парламенты «ДНР» и «ЛНР» уже [ратифицировали](2022/02/22/parlamenty-dnr-i-lnr-ratifitsirovali-dogovor-o-druzhbe-i-vzaimopomoshchi-s-rossiei-news.md) договоры.
 
 Согласно документам, Россия, «ДНР» и «ЛНР» будут противодействовать «актам агрессии» и оказывать друг другу помощь, включая военную. Договоры заключаются сроком на 10 лет с автоматическим продлением на пятилетние периоды.
 
-Путин [подписал](https://novayagazeta.ru/articles/2022/02/21/putin-priznal-nezavisimost-dnr-i-lnr-news) указы о признании Донецкой и Луганской народных республик («ДНР» и «ЛНР») накануне, 21 февраля.Президент поручил Министерству обороны России ввести войска в «ДНР» и «ЛНР», а министерству иностранных дел — провести переговоры об установлении дипломатических отношений.
+Путин [подписал](2022/02/21/putin-priznal-nezavisimost-dnr-i-lnr-news.md) указы о признании Донецкой и Луганской народных республик («ДНР» и «ЛНР») накануне, 21 февраля.Президент поручил Министерству обороны России ввести войска в «ДНР» и «ЛНР», а министерству иностранных дел — провести переговоры об установлении дипломатических отношений.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/21/nechem-svoi-khram-prikryt
+**Читайте также:** [Нечем свой храм прикрыть](2022/02/21/nechem-svoi-khram-prikryt.md)

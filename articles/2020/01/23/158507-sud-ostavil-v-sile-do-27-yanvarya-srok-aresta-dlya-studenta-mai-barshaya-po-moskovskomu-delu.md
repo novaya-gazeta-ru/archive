@@ -13,7 +13,7 @@ tags: "продление ареста, арест, баршай, «москов
 
 Басманный суд Москвы вновь по ходатайству следователя продлил до 27 января срок содержания под стражей фигуранта «московского дела» Андрея Баршая, передает корреспондент «Новой газеты».
 
-[Предыдущее](https://novayagazeta.ru/news/2019/12/27/158001-figuranta-moskovskogo-dela-andreya-barshaya-pereveli-v-sizo-posle-provedeniya-psihiatricheskoy-ekspertizy) решение было [отменено](https://novayagazeta.ru/news/2020/01/22/158476-mosgorsud-otmenil-prodlenie-aresta-figurantu-moskovskogo-dela-andreyu-barshayu) накануне по формальной причине: Баршай тогда не присутствовал на заседании. Суд также назначил на 23 января заседание по ходатайству о новом продлении ареста Баршая, его судья Ирина Вырышева рассмотрит следующим.
+[Предыдущее](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/12/27/158001-figuranta-moskovskogo-dela-andreya-barshaya-pereveli-v-sizo-posle-provedeniya-psihiatricheskoy-ekspertizy) решение было [отменено](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/01/22/158476-mosgorsud-otmenil-prodlenie-aresta-figurantu-moskovskogo-dela-andreyu-barshayu) накануне по формальной причине: Баршай тогда не присутствовал на заседании. Суд также назначил на 23 января заседание по ходатайству о новом продлении ареста Баршая, его судья Ирина Вырышева рассмотрит следующим.
 
 > **обновлено**
 >

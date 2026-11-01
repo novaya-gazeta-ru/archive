@@ -13,13 +13,13 @@ tags: ""
 
 *Наш Юра Козырев  лучший военный фотограф на планете*
 
-[](http://www.novayagazeta.ru/storage/c/2012/05/23/1337718197_904652_53.jpg)\
+[](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/23/1337718197_904652_53.jpg)\
  ^ **Юрий Козырев.** Ливия. Из серии «На дорогах революции»
 
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right" style="">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/23/1337718123_128407_40.jpg" style="width: 350px; height: 350px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/23/1337718123_128407_40.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/23/1337718123_128407_40.jpg)" style="width: 350px; height: 350px; "><br>
 				<sup>Фото: Анна Артемьева/«Новая газета»</sup></td>
 		</tr>
 	</tbody>]*

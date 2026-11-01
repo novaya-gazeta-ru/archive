@@ -19,8 +19,8 @@ tags: "коронавирус, заражения, sf"
 
 В мире за все время пандемии [выявили](https://coronavirus.jhu.edu/map.html) более 215 миллионов случаев заражения коронавирусом, согласно данным университета Джонса Хопкинса.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/27/probirka-pandory-za-i-protiv-razbiraem-argumenty
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/27/probirka-pandory-za-i-protiv-razbiraem-argumenty](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/27/probirka-pandory-za-i-protiv-razbiraem-argumenty)
 
-Накануне власти Дании [объявили](https://novayagazeta.ru/articles/2021/08/27/daniia-otkazalas-ot-vsekh-kovidnykh-ogranichenii-pravitelstvo-strany-bolshe-ne-schitaet-covid-19-opasnoi-dlia-obshchestva-infektsiei-news) об отмене всех коронавирусных ограничений с 10 сентября. Правительство больше не считает COVID-19 «опасной для общества инфекцией», так как в стране «рекордно высокий» уровень вакцинации.
+Накануне власти Дании [объявили](2021/08/27/daniia-otkazalas-ot-vsekh-kovidnykh-ogranichenii-pravitelstvo-strany-bolshe-ne-schitaet-covid-19-opasnoi-dlia-obshchestv.md) об отмене всех коронавирусных ограничений с 10 сентября. Правительство больше не считает COVID-19 «опасной для общества инфекцией», так как в стране «рекордно высокий» уровень вакцинации.
 
 Согласно [официальной](https://www.sst.dk/da) статистике, в Дании полностью вакцинировано более 79% граждан (более 4,1 млн человек). В стране прививают препаратами от Pfizer (эту вакцину получили 83,2% вакцинированных), Moderna (12,2%), AstraZeneca (3,5%) и Janssen (1,1%).

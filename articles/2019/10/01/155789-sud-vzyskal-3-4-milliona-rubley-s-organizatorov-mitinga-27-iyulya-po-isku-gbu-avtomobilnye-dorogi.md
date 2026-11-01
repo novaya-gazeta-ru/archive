@@ -15,12 +15,12 @@ tags: "суды, nt"
 
 Ответчиками по иску также проходили Александр Соловьев, Юлия Галямина, Иван Жданов, Владимир Милов, Олег Степанов и Георгий Албуров. Судья отказала в удовлетворении иска в части взыскания с Албурова.
 
-ГБУ «Автомобильные дороги» [подало](https://www.novayagazeta.ru/news/2019/08/16/154404-k-organizatoram-nesoglasovannyh-aktsiy-v-moskve-podali-iski-o-vozmeschenii-13-mln-rubley-uscherba) иск к организаторам митинга на 11,5 млн рублей в сентябре. Истец считает, что протестующие во время акции повредили газон, цветы и скамейки, а также «технические средства организации дорожного движения».
+ГБУ «Автомобильные дороги» [подало](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/08/16/154404-k-organizatoram-nesoglasovannyh-aktsiy-v-moskve-podali-iski-o-vozmeschenii-13-mln-rubley-uscherba) иск к организаторам митинга на 11,5 млн рублей в сентябре. Истец считает, что протестующие во время акции повредили газон, цветы и скамейки, а также «технические средства организации дорожного движения».
 
-Ранее Коптевский суд [обязал](https://www.novayagazeta.ru/news/2019/09/10/155198-sud-obyazal-organizatorov-mitinga-27-iyulya-vyplatit-mosgortransu-1-2-mln-rubley) организаторов несогласованной акции протеста 27 июля выплатить «Мосгортрансу» 1,2 млн рублей в качестве возмещения убытков.
+Ранее Коптевский суд [обязал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/09/10/155198-sud-obyazal-organizatorov-mitinga-27-iyulya-vyplatit-mosgortransu-1-2-mln-rubley) организаторов несогласованной акции протеста 27 июля выплатить «Мосгортрансу» 1,2 млн рублей в качестве возмещения убытков.
 
-**link:** https://novayagazeta.ru/articles/2019/09/12/81944-gazon-kak-ulika
+**link:** [Газон как улика](2019/09/12/81944-gazon-kak-ulika.md)
 
-В суд на политиков  также [подали](https://www.novayagazeta.ru/news/2019/09/11/155236-moskovskiy-metropoliten-i-mosgortrans-podali-novye-iski-k-oppozitsioneram-sobol-i-alburovu) Московский метрополитен, МВД и другие. Истцы считают, что организаторы протестных акций ответственны за помехи в работе организаций, которые произошли из-за митингов.
+В суд на политиков  также [подали](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/09/11/155236-moskovskiy-metropoliten-i-mosgortrans-podali-novye-iski-k-oppozitsioneram-sobol-i-alburovu) Московский метрополитен, МВД и другие. Истцы считают, что организаторы протестных акций ответственны за помехи в работе организаций, которые произошли из-за митингов.
 
-Самый крупный иск [подала](https://www.novayagazeta.ru/news/2019/09/05/155024-kompaniya-po-prokatu-avtomobiley-podala-isk-k-fbk-i-dozhdyu-na-milliard-rubley) компания по прокату автомобилей «Флай авто» к Фонду борьбы с коррупцией. Служба требует компенсации в размере миллиарда рублей за убытки из-за митингов 27 июля, 3 и 10 августа.
+Самый крупный иск [подала](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/09/05/155024-kompaniya-po-prokatu-avtomobiley-podala-isk-k-fbk-i-dozhdyu-na-milliard-rubley) компания по прокату автомобилей «Флай авто» к Фонду борьбы с коррупцией. Служба требует компенсации в размере миллиарда рублей за убытки из-за митингов 27 июля, 3 и 10 августа.

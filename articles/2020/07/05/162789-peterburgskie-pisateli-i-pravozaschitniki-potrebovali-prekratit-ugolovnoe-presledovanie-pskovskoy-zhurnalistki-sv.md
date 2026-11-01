@@ -19,8 +19,8 @@ tags: "em, заявление, прокопьева"
 
 Подписанты отметили, что одно из основных доказательств в деле — сфальсифицированная экспертиза. Она якобы сделана Хакасским государственным университетом, но факт фальсификации подтвердил сам вуз.
 
-**link:** https://novayagazeta.ru/articles/2020/07/03/86129-gosudarstvennaya-vlast-v-rukah-zhestokih-lyudey-stanovitsya-glavnoy-ugrozoy-bezopasnosti
+**link:** [«Государственная власть в руках жестоких людей становится главной угрозой безопасности»](2020/07/03/86129-gosudarstvennaya-vlast-v-rukah-zhestokih-lyudey-stanovitsya-glavnoy-ugrozoy-bezopasnosti.md)
 
 Дело об оправдании терроризма против Прокопьевой возбудили после ее высказывания в эфире«Эха Москвы в Пскове» о совершенном 17-летним Михаилом Жлобицким теракте в Архангельске. Журналистка заявила, что государство «само воспитало» поколение граждан, которые с нимборются.
 
-Гособвинение [запросило](https://novayagazeta.ru/news/2020/07/03/162744-obvinenie-zaprosilo-dlya-zhurnalistki-svetlany-prokopievoy-shest-let-kolonii-po-delu-ob-opravdanii-terrorizma) для Прокопьевой шесть лет лишения свободы, а также заявило о необходимости запретить ей заниматься журналистикой в течение четырех лет. Совет по правам человека при президенте [назвал](https://novayagazeta.ru/news/2020/07/04/162778-komissiya-spch-nazvala-absurdom-trebovanie-prokuratury-naznachit-zhurnalistke-svetlane-prokopievoy-6-let-lisheniya-svobody) абсурдным требование прокуратуры из-за отсутствия в деле состава преступления.
+Гособвинение [запросило](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/07/03/162744-obvinenie-zaprosilo-dlya-zhurnalistki-svetlany-prokopievoy-shest-let-kolonii-po-delu-ob-opravdanii-terrorizma) для Прокопьевой шесть лет лишения свободы, а также заявило о необходимости запретить ей заниматься журналистикой в течение четырех лет. Совет по правам человека при президенте [назвал](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/07/04/162778-komissiya-spch-nazvala-absurdom-trebovanie-prokuratury-naznachit-zhurnalistke-svetlane-prokopievoy-6-let-lisheniya-svobody) абсурдным требование прокуратуры из-за отсутствия в деле состава преступления.

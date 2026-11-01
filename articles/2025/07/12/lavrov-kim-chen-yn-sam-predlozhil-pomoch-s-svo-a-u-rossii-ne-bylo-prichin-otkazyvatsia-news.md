@@ -15,7 +15,7 @@ tags: ""
 
 *Ким Чен Ын встречает Сергея Лаврова на северокорейском курорте Вонсан. Фото: пресс-служба МИД РФ*
 
-На обратном пути из Малайзии, где он принял участие в саммите стран ASEAN, а также лично [переговорил с госсекретарем США Рубио](https://novayagazeta.ru/articles/2025/07/11/lavrov-ne-raskryl-detalei-razgovora-s-rubio-no-soobshchil-peredal-gossekretariu-vyzhimki-iz-vyskazyvanii-rukovoditelei-ukrainy-pro-rusniu-news), глава МИД Сергей Лавров залетел в КНДР. Там, [на только что открытом курорте](https://novayagazeta.ru/articles/2025/06/26/kim-chen-yn-otkryl-na-poberezhe-kndr-turisticheskuiu-zonu-kuda-rossiianam-uzhe-prodaiut-bilety-news) Вонсон, он провел встречу с северокорейской коллегой — товарищем Цой Сон Хи, по итогам которой пообщался с журналистами.
+На обратном пути из Малайзии, где он принял участие в саммите стран ASEAN, а также лично [переговорил с госсекретарем США Рубио](2025/07/11/lavrov-ne-raskryl-detalei-razgovora-s-rubio-no-soobshchil-peredal-gossekretariu-vyzhimki-iz-vyskazyvanii-rukovoditelei-u.md), глава МИД Сергей Лавров залетел в КНДР. Там, [на только что открытом курорте](2025/06/26/kim-chen-yn-otkryl-na-poberezhe-kndr-turisticheskuiu-zonu-kuda-rossiianam-uzhe-prodaiut-bilety-news.md) Вонсон, он провел встречу с северокорейской коллегой — товарищем Цой Сон Хи, по итогам которой пообщался с журналистами.
 
 Лавров рассказал, что Ким Чен Ын сам предложил военную помощь России, чтобы выбить ВСУ из Курской области.
 
@@ -29,8 +29,8 @@ tags: ""
 
 С августа 2024 года вглубь российской Курской области прорвались ВСУ, заняв значительные территории.
 
-Выбить ВСУ из Курской области удалось к концу мая 2025 гола и при военной поддержке подразделений армии КНДР, о чем глава Генштаба РФ Валерий Герасимов [доложил](https://novayagazeta.ru/articles/2025/04/26/glava-genshtaba-gerasimov-dolozhil-putinu-ob-osvobozhdenii-vsei-territorii-kurskoi-oblasti-i-geroizme-soldat-kndr-news) на приеме у Путина, отметив «стойкость и героизм» северокорейских военных.
+Выбить ВСУ из Курской области удалось к концу мая 2025 гола и при военной поддержке подразделений армии КНДР, о чем глава Генштаба РФ Валерий Герасимов [доложил](2025/04/26/glava-genshtaba-gerasimov-dolozhil-putinu-ob-osvobozhdenii-vsei-territorii-kurskoi-oblasti-i-geroizme-soldat-kndr-news.md) на приеме у Путина, отметив «стойкость и героизм» северокорейских военных.
 
-Но уже с октября 2024 года Путин не отрицал на публике, что присутствие войск КНДР в Курской области показывают космические снимки. «Снимки — вещь серьезная, если есть снимки, значит, они что-то отражают», — так [отвечал](https://novayagazeta.ru/articles/2024/10/24/esli-est-snimki-znachit-oni-chto-to-otrazhaiut-putin-ne-stal-otritsat-vozmozhnoe-uchastie-kndr-v-voennykh-deistviiakh-protiv-ukrainy-news) он на вопрос об участии северокорейских военных в СВО.
+Но уже с октября 2024 года Путин не отрицал на публике, что присутствие войск КНДР в Курской области показывают космические снимки. «Снимки — вещь серьезная, если есть снимки, значит, они что-то отражают», — так [отвечал](2024/10/24/esli-est-snimki-znachit-oni-chto-to-otrazhaiut-putin-ne-stal-otritsat-vozmozhnoe-uchastie-kndr-v-voennykh-deistviiakh-pr.md) он на вопрос об участии северокорейских военных в СВО.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/11/nam-zadali-vopros-est-li-u-vas-chto-to-konkretnoe-eto-ono
+**Читайте также:** [«Нам задали вопрос: есть ли у вас что-то конкретное? Это оно»](2025/07/11/nam-zadali-vopros-est-li-u-vas-chto-to-konkretnoe-eto-ono.md)

@@ -11,8 +11,8 @@ tags: ""
 
 # Поздравляем Андрея Звягинцева: «Левиафан» номинирован на «Оскар»
 
-**link:** https://novayagazeta.ru/news/1690828.html
+**link:** [https://novayagazeta.ru/news/1690828.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1690828.html)
 
-**link:** https://novayagazeta.ru/arts/66790.html
+**link:** [https://novayagazeta.ru/arts/66790.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/66790.html)
 
-**link:** https://novayagazeta.ru/arts/66790.html
+**link:** [https://novayagazeta.ru/arts/66790.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/66790.html)

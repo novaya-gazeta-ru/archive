@@ -45,4 +45,4 @@ tags: ""
 
 Но награда Дмитрия Муратова — это первая в истории Нобелевская медаль Премии мира, которая послужит делу мира таким необычным образом — в соответствии с замечательным примером, который когда-то подал миру Нильс Бор и его товарищи.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/22/nobelevskaia-medal-peredaetsia-iz-novoi-gazety-v-polzu-ukrainskikh-bezhentsev
+**Читайте также:** [Премия — миру](2022/03/22/nobelevskaia-medal-peredaetsia-iz-novoi-gazety-v-polzu-ukrainskikh-bezhentsev.md)

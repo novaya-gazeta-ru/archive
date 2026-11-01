@@ -19,12 +19,12 @@ tags: "роскомнадзор, роскомсвобода, youtube, блоки
 
 При этом Роскомнадзор (РКН) опроверг решение о блокировке видеохостинга YouTube на территории РФ, [пишет](https://t.me/tass_agency/115462)ТАСС.
 
-Ранее РКН [направил](https://novayagazeta.ru/articles/2022/02/27/rkn-potreboval-ot-google-sniat-ogranicheniia-s-youtube-kanalov-rossiiskikh-gos-smi-eto-mozhet-privesti-k-zamedleniiu-servisa-news) в американскую компанию Google письмо с требованием снять ограничения, наложенные на YouTube-каналы российских СМИ «Звезда», Sputnik и РБК.
+Ранее РКН [направил](2022/02/27/rkn-potreboval-ot-google-sniat-ogranicheniia-s-youtube-kanalov-rossiiskikh-gos-smi-eto-mozhet-privesti-k-zamedleniiu-ser.md) в американскую компанию Google письмо с требованием снять ограничения, наложенные на YouTube-каналы российских СМИ «Звезда», Sputnik и РБК.
 
 Тогда проект «Сетевые Свободы» отмечал, что неисполнение аналогичного требования привело к замедлению Facebook.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/01/o-rabote-v-usloviiakh-voennogo-vremeni
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/01/o-rabote-v-usloviiakh-voennogo-vremeni](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/01/o-rabote-v-usloviiakh-voennogo-vremeni)
 
-До этого РКН в рамках защиты россиян от «недостоверной информации» [потребовал](https://novayagazeta.ru/articles/2022/02/26/rkn-potreboval-ot-novoi-gazety-i-drugikh-smi-udalit-materialy-gde-proiskhodiashchee-v-ukraine-nazyvalos-voinoi-news) от «Новой газеты», «Медиазоны»*, «Дождя»* и других СМИ удалить материалы, в которых происходящее в Украине называлось войной.
+До этого РКН в рамках защиты россиян от «недостоверной информации» [потребовал](2022/02/26/rkn-potreboval-ot-novoi-gazety-i-drugikh-smi-udalit-materialy-gde-proiskhodiashchee-v-ukraine-nazyvalos-voinoi-news.md) от «Новой газеты», «Медиазоны»*, «Дождя»* и других СМИ удалить материалы, в которых происходящее в Украине называлось войной.
 
 #### **издания внесены Минюстом в список СМИ, выполняющих функцию иностранного агента*

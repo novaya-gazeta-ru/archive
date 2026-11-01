@@ -21,8 +21,8 @@ tags: "em, допинг, спортсмены, россия"
 
 Международный союз будет ежеквартально проверять, как соблюдаются эти меры.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/09/idealnyi-boikot
+**Читайте также:** [Идеальный бойкот](2021/12/09/idealnyi-boikot.md)
 
-Ранее за нарушение антидопинговых правил [дисквалифицировали](https://www.triathlon.org/news/article/igor_polyanskiy_sanctioned_with_three_year_suspension_after_a_positive_dopi) на три года триатлониста Игоря Полянского. После участия в Олимпиаде у него [взяли](https://novayagazeta.ru/articles/2021/08/13/rossiiskogo-triatlonista-zapodozrili-v-upotreblenii-dopinga-news) пробу на допинг, она оказалась положительной.
+Ранее за нарушение антидопинговых правил [дисквалифицировали](https://www.triathlon.org/news/article/igor_polyanskiy_sanctioned_with_three_year_suspension_after_a_positive_dopi) на три года триатлониста Игоря Полянского. После участия в Олимпиаде у него [взяли](2021/08/13/rossiiskogo-triatlonista-zapodozrili-v-upotreblenii-dopinga-news.md) пробу на допинг, она оказалась положительной.
 
-Ксения Шойгу, дочь министра обороны России Сергея Шойгу, [стала](https://novayagazeta.ru/articles/2020/12/05/166204-doch-ministra-oborony-kseniya-shoygu-stala-prezidentom-federatsii-triatlona-rossii) президентом Федерации триатлона России в декабре прошлого года. Она была единственным кандидатом на пост главы ФТР.
+Ксения Шойгу, дочь министра обороны России Сергея Шойгу, [стала](2020/12/05/166204-doch-ministra-oborony-kseniya-shoygu-stala-prezidentom-federatsii-triatlona-rossii.md) президентом Федерации триатлона России в декабре прошлого года. Она была единственным кандидатом на пост главы ФТР.

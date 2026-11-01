@@ -21,4 +21,4 @@ tags: "em, беларусь, путин"
 
 СМИ обращали внимание, что в Минск за последние две недели дважды прилетал борт, который связывают с главой ФСБ России Александром Бортниковым. Пресс-секретарь президента России Дмитрий Песков заявил, что не знает, кто был на его борту.
 
-**link:** https://novayagazeta.ru/articles/2020/08/26/86821-protesty-v-belarusi-den-18-online
+**link:** [https://novayagazeta.ru/articles/2020/08/26/86821-protesty-v-belarusi-den-18-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/26/86821-protesty-v-belarusi-den-18-online)

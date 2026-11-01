@@ -25,6 +25,6 @@ tags: ""
 
 В таких условиях и при повышенном спросе на панике цены на бензин пошли вверх. ФАС [усилила](https://t.me/novaya_pishet/58526) контроль за ними — а еще обязала маркетплейсы блокировать объявления о продаже топлива.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/23/fas-usilila-kontrol-za-prodazhei-topliva-dlia-agrariev-v-polovine-federalnykh-okrugov-a-rossiiane-stali-massovo-guglit-kak-slit-benzin-news
+**Читайте также:** [ФАС усилила контроль за продажей топлива для аграриев в половине федеральных округов, а россияне стали массово гуглить: «Как слить бензин»](2026/06/23/fas-usilila-kontrol-za-prodazhei-topliva-dlia-agrariev-v-polovine-federalnykh-okrugov-a-rossiiane-stali-massovo-guglit-k.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/22/strashno-teper-vezde
+**Читайте также:** [«Страшно теперь везде»](2026/06/22/strashno-teper-vezde.md)

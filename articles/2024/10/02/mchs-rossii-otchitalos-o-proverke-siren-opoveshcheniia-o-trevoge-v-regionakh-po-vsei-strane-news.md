@@ -17,4 +17,4 @@ tags: ""
 
 Эфир радио- и телеканалов был прерван на минуту для передачи сигнала, включались сирены и громкоговорители.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/02/v-starom-oskole-belgorodskoi-oblasti-oborudovali-roddom-v-podvale-bomboubezhishche-news
+**Читайте также:** [В Старом Осколе Белгородской области оборудовали роддом в подвале-бомбоубежище](2024/10/02/v-starom-oskole-belgorodskoi-oblasti-oborudovali-roddom-v-podvale-bomboubezhishche-news.md)

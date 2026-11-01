@@ -103,4 +103,4 @@ tags: "красноярск, ураган, последствия, сибирь,
 
 *Красноярск*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/22/skromnoe-obonianie-syska
+**Читайте также:** [Скромное обоняние сыска](2024/10/22/skromnoe-obonianie-syska.md)

@@ -45,9 +45,9 @@ tags: "кризис, крым"
 
 С данными Минэнерго о 80% обеспеченности Крыма электроэнергией Александров не спорит, но замечает, что во многом эта цифра получена за счет завезенных на полуостров дизель-генераторов и поставок электроэнергии с Украины, что не гарантирует энергобезопасности полуострова.
 
-**link:** https://novayagazeta.ru/society/70910.html
+**link:** [https://novayagazeta.ru/society/70910.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70910.html)
 
-**link:** https://novayagazeta.ru/society/70910.html
+**link:** [https://novayagazeta.ru/society/70910.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70910.html)
 
 Не способна крымская инфраструктура в ее сегодняшнем виде и к распределению обещанных Москвой объемов электроэнергии.
 

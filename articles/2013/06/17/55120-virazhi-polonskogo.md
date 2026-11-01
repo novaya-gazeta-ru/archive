@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/15/1371298368_006544_51.jpg" style="width: 340px; height: 252px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/15/1371298368_006544_51.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/15/1371298368_006544_51.jpg)" style="width: 340px; height: 252px;"><br>
 				<em><sup>Председатель Мосгордумы Владимир Платонов</sup></em></td>
 		</tr>
 		<tr>

@@ -39,4 +39,4 @@ tags: "владивосток, бывший мэр, гуменюк, катер, 
 
 **Приморье**
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/01/18/prokliatoe-kreslo-media
+**Читайте также:** [Проклятое кресло](2023/01/18/prokliatoe-kreslo-media.md)

@@ -15,6 +15,6 @@ tags: "беженцы, венгрия, сербия, сирия"
 
 *[media: &nbsp;]*
 
-*[media: <a href="http://www.novayagazeta.ru/politics/69940.html" target="_blank">«Новый мир не боится заборов»</a>. Репортаж Павла Каныгина с закрывающейся границы Венгрии]*
+*[media: <a href="[http://www.novayagazeta.ru/politics/69940.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/69940.html)" target="_blank">«Новый мир не боится заборов»</a>. Репортаж Павла Каныгина с закрывающейся границы Венгрии]*
 
 *[media: &nbsp;]*

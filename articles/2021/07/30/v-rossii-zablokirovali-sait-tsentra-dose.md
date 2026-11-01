@@ -19,8 +19,8 @@ tags: "цензура, досье, расследование, sn"
 
 — добавили они.
 
-Ранее сегодня Генпрокуратура [внесла](https://novayagazeta.ru/hyper/editor/2bba36e56cad48d583569027367cb6c9) в реестр запрещенной информации статью центра «Досье» о приговоренном к 15 годам колонии главе Серпуховского района Московской области Александре Шестуне и его взаимоотношениях с сотрудниками ФСБ.
+Ранее сегодня Генпрокуратура [внесла](https://web.archive.org/web/*/https://novayagazeta.ru/hyper/editor/2bba36e56cad48d583569027367cb6c9) в реестр запрещенной информации статью центра «Досье» о приговоренном к 15 годам колонии главе Серпуховского района Московской области Александре Шестуне и его взаимоотношениях с сотрудниками ФСБ.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/27/politiku-zablokirovali
+**Читайте также:** [Политику заблокировали](2021/07/27/politiku-zablokirovali.md)
 
-Также сегодня в России [заблокировали](https://novayagazeta.ru/articles/2021/07/30/osnovatel-gulagu-net-soobshchil-o-blokirovke-resursa-v-rossii) сайт проекта [gulagu.net](http://gulagu.net/), который помогает жертвам пыток в колониях и СИЗО. Кроме того, сегодня же Роскомнадзор [потребовал](https://novayagazeta.ru/articles/2021/07/30/roskomnadzor-potreboval-ot-youtube-zablokirovat-kanaly-liubovi-sobol-i-navalnyi-live) от видеохостинга YouTube заблокировать каналы Любови Соболь и «Навальный Live».
+Также сегодня в России [заблокировали](2021/07/30/osnovatel-gulagu-net-soobshchil-o-blokirovke-resursa-v-rossii.md) сайт проекта [gulagu.net](http://gulagu.net/), который помогает жертвам пыток в колониях и СИЗО. Кроме того, сегодня же Роскомнадзор [потребовал](2021/07/30/roskomnadzor-potreboval-ot-youtube-zablokirovat-kanaly-liubovi-sobol-i-navalnyi-live.md) от видеохостинга YouTube заблокировать каналы Любови Соболь и «Навальный Live».

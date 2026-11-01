@@ -21,9 +21,9 @@ tags: "nt, приходько, дерипаска, расследование, �
 
 На момент публикации новости доступ к navalny.com по-прежнему ограничивался.
 
-**link:** https://novayagazeta.ru/articles/2018/02/15/75520-chelovek-iz-interneta
+**link:** [Человек из интернета](2018/02/15/75520-chelovek-iz-interneta.md)
 
-Ранее Роскомнадзор на основании решений Усть-Лабинского районного суда [внес](https://www.novayagazeta.ru/news/2018/02/10/139381-roskomnadzor-vnes-rassledovanie-fbk-o-deripaske-i-prihodko-v-reestr-zapreschennoy-informatsii) в реестр содержащих запрещенную к распространению информацию ресурсов расследование ФБК о «неформальных переговорах» бизнесмена Олега Дерипаски и зампредседателя правительства Сергея Приходько. Также ведомство внесло в реестр страницу с роликом в YouTube и блог оппозиционера, а затем [потребовало](https://www.novayagazeta.ru/news/2018/02/10/139394-roskomnadzor-zablokiroval-rassledovanie-fbk-iz-za-iska-deripaski-k-naste-rybke?admin_access_token=55d1736b707fe91ed51b0ef9ff54b1cc7f91bcdf) от ряда СМИ удалить фотографии бизнесмена.
+Ранее Роскомнадзор на основании решений Усть-Лабинского районного суда [внес](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/02/10/139381-roskomnadzor-vnes-rassledovanie-fbk-o-deripaske-i-prihodko-v-reestr-zapreschennoy-informatsii) в реестр содержащих запрещенную к распространению информацию ресурсов расследование ФБК о «неформальных переговорах» бизнесмена Олега Дерипаски и зампредседателя правительства Сергея Приходько. Также ведомство внесло в реестр страницу с роликом в YouTube и блог оппозиционера, а затем [потребовало](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/02/10/139394-roskomnadzor-zablokiroval-rassledovanie-fbk-iz-za-iska-deripaski-k-naste-rybke?admin_access_token=55d1736b707fe91ed51b0ef9ff54b1cc7f91bcdf) от ряда СМИ удалить фотографии бизнесмена.
 
 Навальный попытался оспорить решение в Таганском суде, однако его административный иск принят не был.
 

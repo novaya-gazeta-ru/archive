@@ -31,6 +31,6 @@ tags: ""
 
 Стекла окон многоэтажки, во дворе которой произошел взрыв, выбило у десятка квартир, судя по фотографиям с места. Пострадали и автомобили, припаркованные рядом со взорванным.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/24/fsb-ubila-dvukh-urozhentsev-srednei-azii-v-nizhegorodskoi-oblasti-ikh-podozrevali-v-podgotovke-terakta-s-dronami-na-energeticheskom-obekte-news
+**Читайте также:** [ФСБ убила двух уроженцев Средней Азии в Нижегородской области, их подозревали в подготовке теракта с дронами на энергетическом объекте](2025/04/24/fsb-ubila-dvukh-urozhentsev-srednei-azii-v-nizhegorodskoi-oblasti-ikh-podozrevali-v-podgotovke-terakta-s-dronami-na-ener.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/11/shkolniku-v-khabarovske-dali-5-let-za-podgotovku-terakta-v-voinskoi-chasti-a-dvum-nizhegorodskim-vypusknikam-po-25-goda-za-obsuzhdenie-ukrainy-v-litsee-news
+**Читайте также:** [Школьнику в Хабаровске дали 5 лет за «подготовку теракта» в воинской части, а двум нижегородским выпускникам — по 2,5 года за обсуждение Украины в лицее](2025/04/11/shkolniku-v-khabarovske-dali-5-let-za-podgotovku-terakta-v-voinskoi-chasti-a-dvum-nizhegorodskim-vypusknikam-po-25-goda-.md)

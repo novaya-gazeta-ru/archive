@@ -25,15 +25,15 @@ tags: "боинг, расследование"
 
 Напомню, что жители Зарощенского в интервью «Новой» опровергли запуск «Бука» из окрестностей села, а также сообщили, что на момент катастрофы МН17 Зарощенское находилось под контролем ДНР.
 
-**link:** https://novayagazeta.ru/inquests/70323.html
+**link:** [https://novayagazeta.ru/inquests/70323.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/70323.html)
 
-**link:** https://novayagazeta.ru/inquests/70323.html
+**link:** [https://novayagazeta.ru/inquests/70323.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/70323.html)
 
 Презентация доклада проходила на военной базе Хилзе-Рейн, на самом юге Нидерландов. Полторы сотни журналистов со всего мира разделили на несколько групп, которые могли попасть в ангар с обломками «Боинга» лишь по очереди. Сам доклад в течение 15 минут зачитывал прессе представитель министерства безопасности и юстиции Нидерландов Тибе Йостра. Впрочем, всех журналистов предупредили по электронной почте еще накануне, что задавать вопросы господину Йостре не будет никакой возможности. «Он лишь зачитает доклад и уйдет», — говорилось в емейле.
 
-**link:** https://novayagazeta.ru/inquests/68728.html
+**link:** [https://novayagazeta.ru/inquests/68728.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/68728.html)
 
-**link:** https://novayagazeta.ru/inquests/68728.html
+**link:** [https://novayagazeta.ru/inquests/68728.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/68728.html)
 
 Журналисты негодовали. Репортеры крупнейшего в стране медиахолдинга RTL агитировал коллег выразить протест против такого решения властей. «Задавать вопросы — наша работа! Почему они отказывают нам? Или они боятся, что если доклад будет пустой, то мы завалим их вопросами?».
 

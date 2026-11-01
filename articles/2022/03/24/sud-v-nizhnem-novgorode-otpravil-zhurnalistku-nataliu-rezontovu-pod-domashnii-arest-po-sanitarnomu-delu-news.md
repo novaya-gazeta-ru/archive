@@ -15,12 +15,12 @@ tags: "санитарное дело, нижний новгород, резон�
  \
  Ранее Резонтовой было запрещено использовать интернет, общаться с другими подозреваемыми и посещать несогласованные митинги. ФСИН потребовала изменить меру пресечения после того, как обвиняемая отказалась носить электронный браслет.\
  \
- Лето 2021 года избирком Нижегородской области [отказал](https://novayagazeta.ru/articles/2021/07/30/izbirkom-nizhegorodskoi-oblasti-otkazal-v-registratsii-zhurnalistke-natale-rezontovoi-iz-za-sviazei-s-ekstremistskimi-organizatsiiami) Резонтовой в регистрации из-за связей с «экстремистскими организациями».\
+ Лето 2021 года избирком Нижегородской области [отказал](2021/07/30/izbirkom-nizhegorodskoi-oblasti-otkazal-v-registratsii-zhurnalistke-natale-rezontovoi-iz-za-sviazei-s-ekstremistskimi-or.md) Резонтовой в регистрации из-за связей с «экстремистскими организациями».\
  \
  По версии следствия, журналистка дважды публиковала в социальных сетях «информацию о проведении и участии в публичном мероприятии 23 и 31 января». Следователи считают, что из-за ее действий была «создана реальная угроза массового заболевания новой коронавирусной инфекции».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/06/sanitarnaia-rubka
+**Читайте также:** [«Санитарная» рубка](2021/08/06/sanitarnaia-rubka.md)
 
-Всего по «санитарному делу» проходили сначала 10, а потом (после того, как СК [прекратил](https://novayagazeta.ru/articles/2021/07/14/sud-prekratil-presledovanie-moskovskogo-mundepa-konstantina-iankauskasa-po-sanitarnomu-delu) преследование московского мундепа Константина Янкаускаса) — девять человек.\
+Всего по «санитарному делу» проходили сначала 10, а потом (после того, как СК [прекратил](2021/07/14/sud-prekratil-presledovanie-moskovskogo-mundepa-konstantina-iankauskasa-po-sanitarnomu-delu.md) преследование московского мундепа Константина Янкаускаса) — девять человек.\
  \
- 18 февраля Люблинский районный суд Москвы [заменил](https://novayagazeta.ru/articles/2022/02/18/sud-zamenil-olegu-navalnomu-uslovnoe-nakazanie-po-sanitarnomu-delu-na-realnoe-lishenie-svobody-news) Олегу Навальному условное наказание по «санитарному делу» на реальное лишение свободы, а 3 марта ФСИН [попросила](https://novayagazeta.ru/articles/2022/03/03/fsin-poprosila-naznachit-liubovi-sobol-realnyi-srok-po-sanitarnomu-delu-news) назначить Любови Соболь реальный срок.
+ 18 февраля Люблинский районный суд Москвы [заменил](2022/02/18/sud-zamenil-olegu-navalnomu-uslovnoe-nakazanie-po-sanitarnomu-delu-na-realnoe-lishenie-svobody-news.md) Олегу Навальному условное наказание по «санитарному делу» на реальное лишение свободы, а 3 марта ФСИН [попросила](2022/03/03/fsin-poprosila-naznachit-liubovi-sobol-realnyi-srok-po-sanitarnomu-delu-news.md) назначить Любови Соболь реальный срок.

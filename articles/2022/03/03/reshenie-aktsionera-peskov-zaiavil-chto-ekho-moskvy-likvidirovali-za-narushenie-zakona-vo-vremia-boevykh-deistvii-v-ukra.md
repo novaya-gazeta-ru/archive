@@ -21,8 +21,8 @@ tags: "ng, эхо москвы, украина, песков"
 
 На вопрос, возможно ли восстановление ее работы, Песков ответил: «Если собственник посчитает это целесообразным, то безусловно».
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/02/my-soputstvuiushchii-ushcherb
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/02/my-soputstvuiushchii-ushcherb](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/02/my-soputstvuiushchii-ushcherb)
 
-3 марта большинством голосов Совета Директоров «Эха Москвы» [принято](https://novayagazeta.ru/articles/2022/03/03/soveta-direktorov-ekha-moskvy-prinial-reshenie-likvidirovat-radiokanal-i-sait-radiostantsii-news) решение о ликвидации радиоканала и сайта радиостанции. Роскомнадзор также потребовал от Google удалить приложение «Эха Москвы».
+3 марта большинством голосов Совета Директоров «Эха Москвы» [принято](2022/03/03/soveta-direktorov-ekha-moskvy-prinial-reshenie-likvidirovat-radiokanal-i-sait-radiostantsii-news.md) решение о ликвидации радиоканала и сайта радиостанции. Роскомнадзор также потребовал от Google удалить приложение «Эха Москвы».
 
-Ранее, 1 марта, Генпрокуратура [отключила](https://novayagazeta.ru/articles/2022/03/01/genprokuratura-potrebovala-ogranichit-dostup-k-saitam-ekha-moskvy-i-telekanala-dozhd-news) «Эхо Москвы» от эфира, так как радиостанция якобы распространяла материалы с призывами к экстремистской деятельности и ложные сведения о действиях российских военных в рамках «специальной военной операции» в Украине.
+Ранее, 1 марта, Генпрокуратура [отключила](2022/03/01/genprokuratura-potrebovala-ogranichit-dostup-k-saitam-ekha-moskvy-i-telekanala-dozhd-news.md) «Эхо Москвы» от эфира, так как радиостанция якобы распространяла материалы с призывами к экстремистской деятельности и ложные сведения о действиях российских военных в рамках «специальной военной операции» в Украине.

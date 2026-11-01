@@ -17,6 +17,6 @@ tags: "следственный комитет, захарченко, em"
 
 Обвинение в даче взятки (ч. 5 ст. 291 УК) предъявили предпринимателю Валерию Маркелову и посредникам (ч. 4 ст. 291.1 УК) Василию Критинину, а также бывшему адвокату Виктору Белевцову. Еще три человека находятся в розыске.
 
-В июне прошлого года Захарченко [приговорили](https://www.novayagazeta.ru/news/2019/06/10/152400-sud-opravdal-polkovnika-zaharchenko-po-epizodu-polucheniya-vzyatki-v-800-tysyach-dollarov) к 13 годам колонии строгого режима и штрафу в 117 миллионов рублей по делу о взятках в особо крупном размере. При обысках у Захарченко нашли в разной валюте сумму, эквивалентную примерно 9 миллиардам рублей. В октябре Мосгорсуд [смягчил](https://www.novayagazeta.ru/news/2019/10/17/156213-mosgorsud-smyagchil-prigovor-eks-polkovniku-dmitriyu-zaharchenko) приговор Захарченко, уменьшив срок до 12,5 лет.
+В июне прошлого года Захарченко [приговорили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/06/10/152400-sud-opravdal-polkovnika-zaharchenko-po-epizodu-polucheniya-vzyatki-v-800-tysyach-dollarov) к 13 годам колонии строгого режима и штрафу в 117 миллионов рублей по делу о взятках в особо крупном размере. При обысках у Захарченко нашли в разной валюте сумму, эквивалентную примерно 9 миллиардам рублей. В октябре Мосгорсуд [смягчил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/10/17/156213-mosgorsud-smyagchil-prigovor-eks-polkovniku-dmitriyu-zaharchenko) приговор Захарченко, уменьшив срок до 12,5 лет.
 
-**link:** https://novayagazeta.ru/articles/2019/10/09/82277-posadochnyy-pogon
+**link:** [Посадочный погон](2019/10/09/82277-posadochnyy-pogon.md)

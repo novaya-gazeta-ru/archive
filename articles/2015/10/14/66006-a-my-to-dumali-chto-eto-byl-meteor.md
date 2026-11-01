@@ -37,9 +37,9 @@ tags: "боинг, расследование"
 
 Перед нидерландскими расследователями стояла задача куда более простая, чем перед английскими.
 
-**link:** https://novayagazeta.ru/inquests/70325.html
+**link:** [https://novayagazeta.ru/inquests/70325.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/70325.html)
 
-**link:** https://novayagazeta.ru/inquests/70325.html
+**link:** [https://novayagazeta.ru/inquests/70325.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/70325.html)
 
 Гиркин-Стрелков, сразу же после гибели «Боинга» запостил хвастливое объявление о том, что «сбили птичку». На следующий же день СБ Украины опубликовала переговоры между Гиркиным и его «ополченцами», которые не оставляют сомнения в их вине. Роковой «Бук» был сфотографирован в тот день и до запуска, и после, и весь его путь прослеживается в гигантском количестве фоток.
 

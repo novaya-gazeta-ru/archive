@@ -61,4 +61,4 @@ tags: "порошенко, украина, киев, протесты, саак�
 
 На момент публикации этого материала Саакашвили все еще выступал у Рады.
 
-**link:** https://novayagazeta.ru/articles/2017/12/05/74799-kazhdyy-raz-vo-vremya-drak-kamery-otklyuchalis
+**link:** [Саакашвили отбили у спецслужб](2017/12/05/74799-kazhdyy-raz-vo-vremya-drak-kamery-otklyuchalis.md)

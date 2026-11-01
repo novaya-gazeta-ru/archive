@@ -23,14 +23,14 @@ tags: ""
 
 Памятник Грозному лоббировал новый губернатор Вологодчины Георгий Филимонов, он же утверждал финальный макет монумента.
 
-Год назад Филимонов участвовал в открытии памятника Иосифу Сталину (несмотря на протесты жителей и местных чиновников [и промежуточных решений судов](https://novayagazeta.ru/articles/2025/07/09/sud-v-vologde-potreboval-ubrat-pamiatnik-stalinu-ustanovlennyi-s-podachi-gubernatora-posle-pretenzii-prokuratury-on-utverzhdal-chto-monument-budet-stoiat-news)).
+Год назад Филимонов участвовал в открытии памятника Иосифу Сталину (несмотря на протесты жителей и местных чиновников [и промежуточных решений судов](2025/07/09/sud-v-vologde-potreboval-ubrat-pamiatnik-stalinu-ustanovlennyi-s-podachi-gubernatora-posle-pretenzii-prokuratury-on-utve.md)).
 
 На публичных мероприятиях Филимонов регулярно надевает френч «под Сталина», и держит его фигуру в служебном кабинете — вместе с миниатюрной копией монумента Ивану Грозному…
 
-До того, как открыть памятник Сталину, Филимонов [возлагал цветы к мемориалам жертв массовых репрессий](https://novayagazeta.ru/articles/2024/12/21/gubernator-filimonov-otkryl-pamiatnik-stalinu-srazu-posle-vozlozheniia-tsvetov-zhertvam-politrepressii-news) при том же Сталине.
+До того, как открыть памятник Сталину, Филимонов [возлагал цветы к мемориалам жертв массовых репрессий](2024/12/21/gubernator-filimonov-otkryl-pamiatnik-stalinu-srazu-posle-vozlozheniia-tsvetov-zhertvam-politrepressii-news.md) при том же Сталине.
 
 Столь противоречивую свою позицию Филимонов объясняет особым подходом к монументальной политике в регионе и в целом к исторической памяти.
 
 Всеми периодами российской и советской истории надо гордиться, не все были однозначно плохими, а «комплекс неполноценности», сформированный сомнениями, считает Филимонов, «нужно изжить».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/05/17/vologodskii-poligon
+**Читайте также:** [Вологодский полигон](2025/05/17/vologodskii-poligon.md)

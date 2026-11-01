@@ -21,4 +21,4 @@ tags: "пашинян, армения,   ng"
 
 После призыва Генштаба Армении уйти в отставку Пашинян назвал действия армии «попыткой военного переворота» и объявил о решении отправить в отставку главу Генштаба Оника Гаспаряна.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/02/25/89379-pashinyan-protiv-voennyh-glavnoe-o-krizise
+**Читайте также:** [https://novayagazeta.ru/articles/2021/02/25/89379-pashinyan-protiv-voennyh-glavnoe-o-krizise](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/02/25/89379-pashinyan-protiv-voennyh-glavnoe-o-krizise)

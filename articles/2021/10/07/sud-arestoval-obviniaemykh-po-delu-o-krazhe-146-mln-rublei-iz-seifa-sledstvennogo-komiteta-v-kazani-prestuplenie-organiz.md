@@ -25,4 +25,4 @@ tags: "казань, минские соглашения, кража, следо
 
 Также, согласно сайту ФССП, тезка Шакирова родился в Альметьевске — как и другие обвиняемые по делу о краже сейфа из СК.
 
-По данным источников «Коммерсанта», все обвиняемые [признали](https://www.kommersant.ru/amp/5019455) вину и начали сотрудничать со следствием. В местных СМИ, [распространена](https://inkazan.ru/news/society/06-10-2021/sledovatel-razorilsya-na-finiko-i-ukral-dengi-u-sledkoma) версия, что Шакиров совершил кражу, чтобы вернуть деньги, вложенные в [рухнувшую](https://novayagazeta.ru/articles/2021/09/07/smi-v-tatarstane-zaderzhali-odnogo-iz-liderov-finansovoi-piramidy-finiko-news) финансовую пирамиду Finiko.
+По данным источников «Коммерсанта», все обвиняемые [признали](https://www.kommersant.ru/amp/5019455) вину и начали сотрудничать со следствием. В местных СМИ, [распространена](https://inkazan.ru/news/society/06-10-2021/sledovatel-razorilsya-na-finiko-i-ukral-dengi-u-sledkoma) версия, что Шакиров совершил кражу, чтобы вернуть деньги, вложенные в [рухнувшую](2021/09/07/smi-v-tatarstane-zaderzhali-odnogo-iz-liderov-finansovoi-piramidy-finiko-news.md) финансовую пирамиду Finiko.

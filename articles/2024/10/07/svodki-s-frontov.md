@@ -13,7 +13,7 @@ tags: "ширяев, сво, война"
 
 *Валерий Ширяев про новости с фронтов: будет ли новая мобилизация, про изменение ядерной доктрины, как работает «железный купол» и что такое вакуумная бомба*
 
-**Смотрите также:** https://novayagazeta.ru/articles/2024/09/24/chto-proiskhodit-na-svo
+**Смотрите также:** [https://novayagazeta.ru/articles/2024/09/24/chto-proiskhodit-na-svo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/24/chto-proiskhodit-na-svo)
 
 Смотрите также
 

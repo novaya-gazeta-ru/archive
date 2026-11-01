@@ -21,10 +21,10 @@ tags: ""
 
 Сборная Дании сыграет с победителем матча Украина-Англия.
 
-В 1/8 Дания [обыграла](https://novayagazeta.ru/articles/2021/06/26/sbornaia-danii-razgromila-uels-i-vyshla-v-1-4-evro-po-futbolu) Уэльс, [Чехия](https://novayagazeta.ru/articles/2021/06/27/chekhiia-obygrala-niderlandy-i-vyshla-v-1-4-evro-po-futbolu) — Нидерланды. Дания вышла в четвертьфинал Евро впервые с 2004 года, а в полуфинале сыграет впервые с 1992 года — тогда датчане выиграли турнир.
+В 1/8 Дания [обыграла](2021/06/26/sbornaia-danii-razgromila-uels-i-vyshla-v-1-4-evro-po-futbolu.md) Уэльс, [Чехия](2021/06/27/chekhiia-obygrala-niderlandy-i-vyshla-v-1-4-evro-po-futbolu.md) — Нидерланды. Дания вышла в четвертьфинал Евро впервые с 2004 года, а в полуфинале сыграет впервые с 1992 года — тогда датчане выиграли турнир.
 
-Ранее Дания [обыграла](https://novayagazeta.ru/articles/2021/06/21/rossiiskie-futbolisty-proigrali-danii-i-ne-vyshli-v-plei-off-evro) Россию со счетом 4:1 в последнем матче группового турнира, что позволило скандинавской команде выйти в плей-офф турнира. Россия заняла последнее место в группе.
+Ранее Дания [обыграла](2021/06/21/rossiiskie-futbolisty-proigrali-danii-i-ne-vyshli-v-plei-off-evro.md) Россию со счетом 4:1 в последнем матче группового турнира, что позволило скандинавской команде выйти в плей-офф турнира. Россия заняла последнее место в группе.
 
-Во время матча между Данией и Финляндией датский полузащитник Кристиан Эриксен [потерял](https://novayagazeta.ru/articles/2021/06/12/futbolist-sbornoi-danii-kristian-eriksen-poterial-soznanie-v-matche-evro-protiv-finliandii-ego-unesli-s-polia-match-prervan-fotografiia) сознание и был госпитализирован. Позже [выяснилось](https://novayagazeta.ru/articles/2021/06/13/datskii-futbolist-eriksen-perezhil-klinicheskuiu-smert-vo-vremia-matcha-s-finskoi-sbornoi), что Эриксен пережил клиническую смерть.
+Во время матча между Данией и Финляндией датский полузащитник Кристиан Эриксен [потерял](2021/06/12/futbolist-sbornoi-danii-kristian-eriksen-poterial-soznanie-v-matche-evro-protiv-finliandii-ego-unesli-s-polia-match-prer.md) сознание и был госпитализирован. Позже [выяснилось](2021/06/13/datskii-futbolist-eriksen-perezhil-klinicheskuiu-smert-vo-vremia-matcha-s-finskoi-sbornoi.md), что Эриксен пережил клиническую смерть.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/12/futbolist-sbornoi-danii-kristian-eriksen-poterial-soznanie-v-matche-evro-protiv-finliandii-ego-unesli-s-polia-match-prervan-fotografiia
+**Читайте также:** [Футболист сборной Дании Кристиан Эриксен потерял сознание в матче Евро против Финляндии. Его унесли с поля, матч был прерван](2021/06/12/futbolist-sbornoi-danii-kristian-eriksen-poterial-soznanie-v-matche-evro-protiv-finliandii-ego-unesli-s-polia-match-prer.md)

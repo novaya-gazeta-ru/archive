@@ -21,24 +21,24 @@ tags: "немцов, расследование, убийство, фсб"
 
 Задержание подозреваемых прокомментировал адвокат убитого политика Вадим Прохоров. «Это хорошая новость», — сказал он. При этом адвокат заявил, что родственники покойного политика будут добиваться признания их потерпевшими по данному делу.
 
-*[media: <strong><a href="http://www.novayagazeta.ru/politics/67457.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/02/28/1425137253_106432_71.jpg" style="width: 100px; height: 75px;"></a></strong>
+*[media: <strong><a href="[http://www.novayagazeta.ru/politics/67457.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/67457.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/02/28/1425137253_106432_71.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/02/28/1425137253_106432_71.jpg)" style="width: 100px; height: 75px;"></a></strong>
 
 <p><span><strong>Читайте также:</strong></span></p>
 
-<p><strong><a href="http://www.novayagazeta.ru/politics/67457.html" target="_blank">Борис НЕМЦОВ — Елене Масюк: «Они не смогут заставить меня замолчать, просто не смогут». Непубликовавшееся интервью апреля 2014 года</a></strong></p>]*
+<p><strong><a href="[http://www.novayagazeta.ru/politics/67457.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/67457.html)" target="_blank">Борис НЕМЦОВ — Елене Масюк: «Они не смогут заставить меня замолчать, просто не смогут». Непубликовавшееся интервью апреля 2014 года</a></strong></p>]*
 
 Поздно вечером в субботу секретарь Совбеза Ингушетии Альберт Барахоев подтвердил — по делу задержаны еще два человека. Таким образом, число задержанных возросло до четырех.
 
 «Задержаны Заур Дадаев, который является заместителем командира батальона «Север» МВД Чеченской республики и еще один мужчина, который в этот момент находился с ним в машине, — [сказал](http://ria.ru/incidents/20150307/1051448831.html) Барахоев РИА Новости. — Кроме того, задержаны Анзор Губашев, который работал в одном из частных охранных предприятий в Москве, и его младший брат».
 
 *[media: <blockquote>
-<p><a href="http://www.novayagazeta.ru/photos/67556.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/p/2015/03/08/1425826448_475364_36.jpg" style="width: 130px; height: 100px;"></a><strong><span style="color:#B22222;">Смотрите также:</span></strong></p>
+<p><a href="[http://www.novayagazeta.ru/photos/67556.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/67556.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/p/2015/03/08/1425826448_475364_36.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/p/2015/03/08/1425826448_475364_36.jpg)" style="width: 130px; height: 100px;"></a><strong><span style="color:#B22222;">Смотрите также:</span></strong></p>
 
-<p><strong><a href="http://www.novayagazeta.ru/photos/67556.html" target="_blank">9 дней с убийства Бориса Немцова: аресты обвиняемых и мемориал на мосту. Фоторепортаж</a></strong></p>
+<p><strong><a href="[http://www.novayagazeta.ru/photos/67556.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/67556.html)" target="_blank">9 дней с убийства Бориса Немцова: аресты обвиняемых и мемориал на мосту. Фоторепортаж</a></strong></p>
 </blockquote>]*
 
 При этом мать Заура Дадаева Аймани Дадаева [рассказала](http://www.interfax.ru/russia/428539) агентству «Интерфакс», что задержанные являются родственниками. «Что мой сын, что мои племянники, они уже взрослые люди, им уже больше 30 лет, и я не верю, что они могли пойти на такое преступление. Племянники мои Кубашевы последние годы работали в Москве. Я никогда не слышала, что они занимаются противоправными действиями», — сказала она.
 
-Бориса Немцова [убили](http://www.novayagazeta.ru/news/1691988.html) вечером 27 февраля в центре Москвы. По сообщению правоохранителей, в политика выстрелили 6 раз, четыре пули попали ему в спину. Власти называют убийство провокационным.
+Бориса Немцова [убили](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1691988.html) вечером 27 февраля в центре Москвы. По сообщению правоохранителей, в политика выстрелили 6 раз, четыре пули попали ему в спину. Власти называют убийство провокационным.
 
-**UPD 08.03** Как [сообщил](http://www.novayagazeta.ru/news/1692216.html) Интерфаксу источник в правоохранительных органах, в Грозном в собственной квартире на гранате подорвался еще один подозреваемый по делу об убийстве. Якобы полицейские блокировали его, после чего он сначала бросил в них гранату, а затем взорвал себя.
+**UPD 08.03** Как [сообщил](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1692216.html) Интерфаксу источник в правоохранительных органах, в Грозном в собственной квартире на гранате подорвался еще один подозреваемый по делу об убийстве. Якобы полицейские блокировали его, после чего он сначала бросил в них гранату, а затем взорвал себя.

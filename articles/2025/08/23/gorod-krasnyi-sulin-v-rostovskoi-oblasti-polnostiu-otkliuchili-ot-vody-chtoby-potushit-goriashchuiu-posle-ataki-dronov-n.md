@@ -37,4 +37,4 @@ tags: ""
 
 Днем ранее специалисты делали забор воздуха в «месте нависания над городом облака дыма», рассказывал Бондаренко. Тогда они соответствовали нормативам, но ситуация «может ухудшиться», если ветер подует в сторону города.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/04/putinu-dolozhili-ob-ostrom-vodnom-krizise-na-donbasse-v-gorodakh-vodu-vkliuchaiut-raz-v-2-4-dnia-brigady-ustraniaiut-do-2000-proryvov-v-nedeliu-news
+**Читайте также:** [Путину доложили об остром дефиците воды на Донбассе: в городах ее включают раз в 2-4 дня, трубы рвет до 2000 раз в неделю](2025/08/04/putinu-dolozhili-ob-ostrom-vodnom-krizise-na-donbasse-v-gorodakh-vodu-vkliuchaiut-raz-v-2-4-dnia-brigady-ustraniaiut-do-.md)

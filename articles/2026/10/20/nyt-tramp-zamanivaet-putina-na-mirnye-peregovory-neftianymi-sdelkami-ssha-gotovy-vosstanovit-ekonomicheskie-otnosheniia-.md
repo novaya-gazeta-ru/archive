@@ -21,8 +21,8 @@ tags: "мирные переговоры, путин и уиткофф"
 
 -
 
-Напомним, США уже [разрешили](https://novayagazeta.ru/articles/2026/10/10/tramp-snial-sanktsii-s-rossiiskogo-dizelia-putin-podtverdil-rossiia-postavit-miru-krupnuiu-partiiu-topliva-kiev-zaiavil-ssha-ispolzuiut-peregovory-s-ukrainoi-kak-shirmu-i-prodolzhil-udary-po-npz-news) поставки российского дизельного топлива и [обсуждают](https://novayagazeta.ru/articles/2026/10/12/dukh-ankoridzha-pakhnet-dizelem) продажу зарубежных активов «Лукойла» группе инвесторов, среди которых есть бизнесмены, связанные с американскими переговорщиками.
+Напомним, США уже [разрешили](2026/10/10/tramp-snial-sanktsii-s-rossiiskogo-dizelia-putin-podtverdil-rossiia-postavit-miru-krupnuiu-partiiu-topliva-kiev-zaiavil-.md) поставки российского дизельного топлива и [обсуждают](2026/10/12/dukh-ankoridzha-pakhnet-dizelem.md) продажу зарубежных активов «Лукойла» группе инвесторов, среди которых есть бизнесмены, связанные с американскими переговорщиками.
 
 -
 
-Сегодня в Осло [проходят](https://novayagazeta.ru/articles/2026/10/20/uitkoff-letit-v-oslo-na-peregovory-s-zelenskim-i-evropeiskimi-liderami-tam-podgotoviat-novyi-mirnyi-plan-kotoryi-zatem-predstaviat-putinu-utverzhdaiut-smi-news) переговоры спецпосланника Трампа Стива Уиткоффа с Владимиром Зеленским и европейскими лидерами. После встречи американец намерен отправиться в Россию, чтобы представить Кремлю новые мирные предложения. В Москве уже [заявили](https://www.rbc.ru/politics/20/10/2026/6ad733d16fc72a4ee4d7dd84), что рассчитывают на скорую встречу Путина с переговорщиками.
+Сегодня в Осло [проходят](2026/10/20/uitkoff-letit-v-oslo-na-peregovory-s-zelenskim-i-evropeiskimi-liderami-tam-podgotoviat-novyi-mirnyi-plan-kotoryi-zatem-p.md) переговоры спецпосланника Трампа Стива Уиткоффа с Владимиром Зеленским и европейскими лидерами. После встречи американец намерен отправиться в Россию, чтобы представить Кремлю новые мирные предложения. В Москве уже [заявили](https://www.rbc.ru/politics/20/10/2026/6ad733d16fc72a4ee4d7dd84), что рассчитывают на скорую встречу Путина с переговорщиками.

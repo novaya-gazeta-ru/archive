@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/24/1343144210_805017_89.jpg" style="width: 300px; height: 208px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/24/1343144210_805017_89.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/24/1343144210_805017_89.jpg)" style="width: 300px; height: 208px; "><br>
 				<sup>Сергей Цапок</sup></td>
 		</tr>
 	</tbody>]*

@@ -37,7 +37,7 @@ tags: "суджа, коридор, мирные жители"
 
 *Белоброва Анна, Суджа*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/15/nas-net
+**Читайте также:** [Нас нет?](2024/10/15/nas-net.md)
 
 ![](_assets/6a/6a7e962b16ded3479735e95e2ae0efb6.webp)
 
@@ -63,7 +63,7 @@ tags: "суджа, коридор, мирные жители"
 
 *Мироненко Владимир Вячеславович, 1969 г.р., хутор Княжий Суджанского района*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/15/chem-dolshe-bezdeistvie-tem-bolshe-umret
+**Читайте также:** [«Чем дольше бездействие — тем больше умрет»](2024/10/15/chem-dolshe-bezdeistvie-tem-bolshe-umret.md)
 
 ![](_assets/8b/8b48f050b8bf7fc536941f675eaccca5.webp)
 
@@ -89,7 +89,7 @@ tags: "суджа, коридор, мирные жители"
 
 *Степанова Александра Федоровна, Кочура Любовь Павловна, село Гуево Суджанского района*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/13/shansy-vyzhit-u-grazhdanskikh-minimalny
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/13/shansy-vyzhit-u-grazhdanskikh-minimalny](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/13/shansy-vyzhit-u-grazhdanskikh-minimalny)
 
 ![](_assets/b0/b07e5e9b6d800d15afdfe4acd2ee4a00.webp)
 

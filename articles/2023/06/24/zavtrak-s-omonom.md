@@ -43,7 +43,7 @@ tags: "петербург, пригожин, вооруженный мятеж"
 
 На данный момент организаторы праздника от комментариев отказываются и ожидают итогов совещания в городском правительстве.
 
-**Что происходит:** https://novayagazeta.ru/articles/2023/06/23/evgenii-prigozhin-vzbuntovalsia-protiv-rossiiskoi-armii-vozbuzhdeno-ugolovnoe-delo
+**Что происходит:** [«Мятеж» Пригожина 23—24 июня: хроника](2023/06/23/evgenii-prigozhin-vzbuntovalsia-protiv-rossiiskoi-armii-vozbuzhdeno-ugolovnoe-delo.md)
 
 ## А что силовики?
 

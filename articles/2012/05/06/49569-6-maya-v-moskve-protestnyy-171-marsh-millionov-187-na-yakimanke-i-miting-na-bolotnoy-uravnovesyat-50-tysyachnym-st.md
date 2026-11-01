@@ -17,7 +17,7 @@ tags: ""
 		<tr>
 			<td>
 				<h3 class="g-justify-right">
-					<a href="http://img.beta.rian.ru/images/64091/27/640912799.jpg"><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/05/06/1336292005_764531_46.jpg" style="width: 360px; height: 400px; "></a></h3>
+					<a href="http://img.beta.rian.ru/images/64091/27/640912799.jpg"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/05/06/1336292005_764531_46.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/05/06/1336292005_764531_46.jpg)" style="width: 360px; height: 400px; "></a></h3>
 				<p class="g-justify-right">
 					<span style="color:#808080;"><sup>Инфографика: РИА Новости. Кликните для увеличения</sup></span></p>
 				<h3 class="g-justify-right">

@@ -30,7 +30,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/03/1372872110_633048_88.jpeg" style="width: 300px; height: 456px;"><sup>Жена задержанного заммэра Донскова Юлия</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/03/1372872110_633048_88.jpeg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/03/1372872110_633048_88.jpeg)" style="width: 300px; height: 456px;"><sup>Жена задержанного заммэра Донскова Юлия</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -57,7 +57,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/04/1372949070_595270_52.jpg" style="width: 260px; height: 260px;"><sup>Депутат Горсовета от&nbsp;«Единой России»&nbsp;Сергей Шмелев</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/04/1372949070_595270_52.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/04/1372949070_595270_52.jpg)" style="width: 260px; height: 260px;"><sup>Депутат Горсовета от&nbsp;«Единой России»&nbsp;Сергей Шмелев</sup></td>
 		</tr>
 	</tbody>]*
 

@@ -37,4 +37,4 @@ tags: ""
 
 Ломаковой требуется специальная терапия, которую невозможно провести в условиях СИЗО. Несмотря на это, врачи ФСИН продолжают выдавать заключения, что «тяжелых заболеваний» у Ломакиной нет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/10/02/20-letniaia-patsientka-s-geneticheskim-zabolevaniem-legkikh-umiraet-v-sizo-6-v-moskve-sudiu-pervoi-instantsii-diagnoz-ne-vpechatlil-news
+**Читайте также:** [20-летняя пациентка с генетическим заболеванием легких умирает в СИЗО-6 в Москве. Судью первой инстанции диагноз не впечатлил](2025/10/02/20-letniaia-patsientka-s-geneticheskim-zabolevaniem-legkikh-umiraet-v-sizo-6-v-moskve-sudiu-pervoi-instantsii-diagnoz-ne.md)

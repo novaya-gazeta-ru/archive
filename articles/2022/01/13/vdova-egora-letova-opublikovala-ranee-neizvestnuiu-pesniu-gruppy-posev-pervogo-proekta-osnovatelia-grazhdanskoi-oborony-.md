@@ -27,6 +27,6 @@ tags: "гражданскоая оборона, егор летов, посев,
 
 ![](_assets/b1/b1e6a34ea35bd151f3c61002650ada63.webp)
 
-**Читайте также:** https://novayagazeta.ru/articles/2019/11/05/82617-on-zapisal-sebe-v-soratniki-vseh-ot-kiry-muratovoy-do-hrista
+**Читайте также:** [https://novayagazeta.ru/articles/2019/11/05/82617-on-zapisal-sebe-v-soratniki-vseh-ot-kiry-muratovoy-do-hrista](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/11/05/82617-on-zapisal-sebe-v-soratniki-vseh-ot-kiry-muratovoy-do-hrista)
 
 Егор Летов — омский музыкант, одна из ключевых фигур сибирского панк-рока и лидер групп «Гражданская оборона», «Коммунизм», «Егор и », «Цыганята и я с Ильича», «Посев» и многих других. Он также основал ныне запрещенную Национал-большевистскую партию совместно с писателей Эдуардом Лимоновым и философом Александром Дугиным. Летов скончался в Омске в 2008 году.

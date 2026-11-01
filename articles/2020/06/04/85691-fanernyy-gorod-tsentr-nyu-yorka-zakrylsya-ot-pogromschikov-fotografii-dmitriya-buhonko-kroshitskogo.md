@@ -53,7 +53,7 @@ tags: "афроамериканцы, как у них, black lives matter, ре�
 
 *Фото: Дмитрий Бухонко-Крошицкий*
 
-**link:** https://novayagazeta.ru/articles/2020/06/04/85687-stanet-li-voyna-s-bogatymi-mirovoy
+**link:** [Певцы Пандемония](2020/06/04/85687-stanet-li-voyna-s-bogatymi-mirovoy.md)
 
 ![](_assets/7a/7a47331797d8b4823c8846070f473e25.webp)
 

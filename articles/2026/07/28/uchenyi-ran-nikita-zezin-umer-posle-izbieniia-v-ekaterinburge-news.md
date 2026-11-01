@@ -27,4 +27,4 @@ tags: ""
 
 Зезин был профессором Уральского государственного аграрного университета, входил в коллегию Министерства агропромышленного комплекса Свердловской области, в совет Национального союза селекционеров и семеноводов. На его счету свыше 260 научных работ, посвятил сельскохозяйственной науке более 40 лет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/20/95-peresazhennoi-kozhi-prizhilos-zhertva-vernuvshegosia-s-svo-maniaka-kotoryi-iz-revnosti-oblil-ee-kislotoi-poshla-na-popravku-prestupnik-v-sizo-no-grozil-snova-uiti-na-front-news
+**Читайте также:** [«95% пересаженной кожи прижилось». Жертва вернувшегося с СВО маньяка, который из ревности облил ее кислотой, пошла на поправку. Преступник в СИЗО, но грозил снова уйти на фронт](2026/07/20/95-peresazhennoi-kozhi-prizhilos-zhertva-vernuvshegosia-s-svo-maniaka-kotoryi-iz-revnosti-oblil-ee-kislotoi-poshla-na-po.md)

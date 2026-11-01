@@ -17,6 +17,6 @@ tags: "ng, COVID-19, коронавирус"
 
 Общее количество заболевших с начала пандемии в России на 14 июля составило 6 030 240. Непосредственно от COVID-19, по данным оперштаба, за сутки скончались еще 783 человека, всего за все время пандемии — 150 705.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu)
 
 Мэрия Москвы [объявила](https://mosgorzdrav.ru/ru-RU/news/default/card/5832.html) о наличии вакцины центра Вектор «ЭпиВакКороны» только для вторых инъекций. Накануне разработчики вакцины [сообщили](https://vk.com/epivaccorona.vaccine?w=wall-205524858_59), что отправили новую партию препарата в регионы. В столицу должны были привезти более 40 тысяч доз пептидной вакцины и распределить по пунктам вакцинации, всего в регионы направили более 720 тысяч доз «ЭпиВакКороны». Препарат закончился в столице еще 1 июля.

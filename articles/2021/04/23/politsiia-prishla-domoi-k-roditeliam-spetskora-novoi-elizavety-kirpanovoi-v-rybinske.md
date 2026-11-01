@@ -15,4 +15,4 @@ tags: "рыбинск, полиция, em"
 
 Акции в поддержку Навального прошли 21 апреля по всей России. По [оценкам](https://ovdinfo.org/news/2021/04/22/posledstviya-akciy-protesta-iz-za-zaklyucheniya-navalnogo-hronika-chast-2) «ОВД-Инфо», на них в разных городах были задержаны в общей сложности почти 1800 человек. Согласно информации проекта, в Рыбинске в связи с протестами были задержаны два человека.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/04/22/aktsii-v-podderzhku-nachalnogo-21-aprelia-v-reportazhakh-novoi-gazety-fakty-foto-i-video
+**Читайте также:** [Акции в поддержку Навального 21 апреля — в репортажах «Новой газеты»: факты, фото и видео](2021/04/22/aktsii-v-podderzhku-nachalnogo-21-aprelia-v-reportazhakh-novoi-gazety-fakty-foto-i-video.md)

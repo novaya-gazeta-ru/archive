@@ -55,4 +55,4 @@ tags: "маска, пандемия, форд, локдаун, мичиган, �
 
 *Энн Арбор, штат Мичиган, США*
 
-**link:** https://novayagazeta.ru/articles/2020/05/20/85459-ultimatum-trampa
+**link:** [Ультиматум Трампа](2020/05/20/85459-ultimatum-trampa.md)

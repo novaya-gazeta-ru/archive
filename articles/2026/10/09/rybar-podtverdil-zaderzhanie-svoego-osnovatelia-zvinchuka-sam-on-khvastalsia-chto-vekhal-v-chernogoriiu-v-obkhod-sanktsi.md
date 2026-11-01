@@ -29,4 +29,4 @@ tags: "Рыбарь, задержание"
 
 Также перед задержанием Звинчук успел выйти в эфир из Черногории для СоловьевLive. Там он [заявил](https://t.me/ostorozhno_novosti/55775), что россиян начали «кошмарить»..
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/10/09/osnovatelia-z-kanala-rybar-mikhaila-zvinchuka-zaderzhali-v-chernogorii-on-priekhal-snimat-film-o-vvedenii-viz-dlia-rossiian-news
+**Читайте также:** [Основателя Z-канала «Рыбарь» Михаила Звинчука задержали в Черногории. Он приехал снимать фильм о введении виз для россиян](2026/10/09/osnovatelia-z-kanala-rybar-mikhaila-zvinchuka-zaderzhali-v-chernogorii-on-priekhal-snimat-film-o-vvedenii-viz-dlia-rossi.md)

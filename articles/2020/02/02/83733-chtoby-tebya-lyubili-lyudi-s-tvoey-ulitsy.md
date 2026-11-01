@@ -43,7 +43,7 @@ tags: "театр, арье, волчек, современник"
 
 — Очень серьезное и очень для меня дорогое. Прежде всего, потому что я здесь сталкиваюсь с очень хорошими актерами, с которыми пока мне удавалось найти общий язык.
 
-**link:** https://novayagazeta.ru/articles/2020/01/08/83375-naznachenie-premiera
+**link:** [https://novayagazeta.ru/articles/2020/01/08/83375-naznachenie-premiera](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/01/08/83375-naznachenie-premiera)
 
 **— Вы уже 30 лет делаете театр для зрителей, которые генетически несут в себе трагедию. Каким он должен быть на такой земле для таких зрителей?**
 
@@ -97,4 +97,4 @@ tags: "театр, арье, волчек, современник"
 
 — Невозможно! И не надо подниматься на эту высоту, надо хоть что-то понять.
 
-**link:** https://novayagazeta.ru/articles/2019/12/26/83326-galina-borisovna-i-polnyy-zal
+**link:** [Галина Борисовна и полный зал](2019/12/26/83326-galina-borisovna-i-polnyy-zal.md)

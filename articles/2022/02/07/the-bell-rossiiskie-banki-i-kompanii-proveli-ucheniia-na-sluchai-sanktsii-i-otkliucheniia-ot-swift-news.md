@@ -23,12 +23,12 @@ tags: "санкции, банки, IT, SWIFT, kn, учения, сбер, втб
 
 — заявил один из собеседников The Bell.
 
-Ранее «Коммерсант» [сообщал](https://novayagazeta.ru/articles/2022/02/01/sberbank-provel-ucheniia-na-sluchai-otkliucheniia-ot-zarubezhnoi-it-infrastruktury-news), что Сбербанк провел технологические учения по отключению от программ и электроники таких компаний как Microsoft, Nvidia, VMware, SAP, Oracle и Intel.
+Ранее «Коммерсант» [сообщал](2022/02/01/sberbank-provel-ucheniia-na-sluchai-otkliucheniia-ot-zarubezhnoi-it-infrastruktury-news.md), что Сбербанк провел технологические учения по отключению от программ и электроники таких компаний как Microsoft, Nvidia, VMware, SAP, Oracle и Intel.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/01/peretiagivanie-kanata
+**Читайте также:** [Перетягивание каната](2022/02/01/peretiagivanie-kanata.md)
 
 Ранее агентство Reuters [сообщало](https://www.reuters.com/business/white-house-tells-chip-industry-be-ready-potential-russia-export-curbs-2022-01-19/) о планах Белого дома ввести ограничения на экспорт в Россию микрочипов в случае эскалации ситуации в Украине.
 
-Сенат США также [предлагал](https://novayagazeta.ru/articles/2022/01/12/senat-ssha-predlozhil-vvesti-sanktsii-protiv-putina-i-krupneishikh-rossiiskikh-bankov-v-sluchae-vtorzheniia-rossii-v-ukrainu-news) ввести санкции против Владимира Путина, российских чиновников высшего эшелона и крупнейших российских банков. Среди банков и структур, которым потенциально грозят ограничения, оказались Газпромбанк, Сбербанк, «Открытие», Альфа-банк, ВТБ, ВЭБ.РФ, РФПИ и некоторые другие.
+Сенат США также [предлагал](2022/01/12/senat-ssha-predlozhil-vvesti-sanktsii-protiv-putina-i-krupneishikh-rossiiskikh-bankov-v-sluchae-vtorzheniia-rossii-v-ukr.md) ввести санкции против Владимира Путина, российских чиновников высшего эшелона и крупнейших российских банков. Среди банков и структур, которым потенциально грозят ограничения, оказались Газпромбанк, Сбербанк, «Открытие», Альфа-банк, ВТБ, ВЭБ.РФ, РФПИ и некоторые другие.
 
-По [данным](https://novayagazeta.ru/articles/2022/01/27/ft-etsb-zaprosil-u-evropeiskikh-bankov-plany-na-sluchai-vvedeniia-antirossiiskikh-sanktsii-news) Financial Times, Европейский Центробанк (ЕЦБ) запросил и банков Европы отчет о том, какие действия они будут предпринимать, если российские финансовые организации будут отключены от SWIFT. Так ЕЦБ хочет удостовериться, что европейские банки могут соблюдать любой санкционный режим.
+По [данным](2022/01/27/ft-etsb-zaprosil-u-evropeiskikh-bankov-plany-na-sluchai-vvedeniia-antirossiiskikh-sanktsii-news.md) Financial Times, Европейский Центробанк (ЕЦБ) запросил и банков Европы отчет о том, какие действия они будут предпринимать, если российские финансовые организации будут отключены от SWIFT. Так ЕЦБ хочет удостовериться, что европейские банки могут соблюдать любой санкционный режим.

@@ -17,6 +17,6 @@ tags: "теннис, медведев, россия, sn"
 
 Игра в парном разряде не состоялась, так как уже не имела турнирного значения.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/14/voskhititelno-i-bezzhalostno
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/14/voskhititelno-i-bezzhalostno](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/14/voskhititelno-i-bezzhalostno)
 
 Российская сборная третий раз в истории выигрывает Кубок Дэвиса. До этого эту награду теннисистам из России вручали в 2002 и 2006 годах.

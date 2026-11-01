@@ -27,9 +27,9 @@ tags: "акции протеста, антимайдан, байкеры, мос
 
 «Давай селфи зафигачим», — смеются подростки из движения «Местные». Они признаются мне, что еще школьники, то есть несовершеннолетние. У одного на рюкзаке маркером нарисован «кельтский крест» и цифры «1488» — символы неонацистов.
 
-**link:** https://novayagazeta.ru/news/1691849.html
+**link:** [https://novayagazeta.ru/news/1691849.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1691849.html)
 
-**link:** https://novayagazeta.ru/news/1691849.html
+**link:** [https://novayagazeta.ru/news/1691849.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1691849.html)
 
 — Кто это? — спрашиваю про плакат с портретом Немцова и подписью «Организатор Майдана», который держат ребята.
 

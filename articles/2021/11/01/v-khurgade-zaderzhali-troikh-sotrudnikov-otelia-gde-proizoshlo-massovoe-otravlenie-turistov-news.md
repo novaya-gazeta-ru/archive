@@ -21,10 +21,10 @@ tags: "ng, египет, задержания"
 
 > общее число пострадавших россиян превышает 40 человек.
 
-В Федерации туристических палат России накануне также [говорили](https://novayagazeta.ru/articles/2021/10/31/v-odnom-iz-otelei-v-khurgade-otravilis-40-rossiiskikh-turistov-news), что в отеле отравились 40 российских туристов.
+В Федерации туристических палат России накануне также [говорили](2021/10/31/v-odnom-iz-otelei-v-khurgade-otravilis-40-rossiiskikh-turistov-news.md), что в отеле отравились 40 российских туристов.
 
 Помощник министра туризма Абдель Фаттах аль-Асы заявил, что власти закрыли отель AMC Royal на неопределенный срок, пока он «не будет удовлетворять всем критериям работы». В гостинице [создана](https://tass.ru/proisshestviya/12813445) специальная комиссия: специалисты проверяют рестораны, кухни, условия хранения продуктов, они также взяли пробы еды и воды для лабораторного исследования.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/12/kovid-nepriznannyi-i-chesnok-kak-lekarstvo
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/12/kovid-nepriznannyi-i-chesnok-kak-lekarstvo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/12/kovid-nepriznannyi-i-chesnok-kak-lekarstvo)
 
-Авиарейсы на курорты Египта Россия открыла с 9 августа. Они были [запрещены](https://novayagazeta.ru/articles/2021/04/23/rossiia-dogovorilas-o-polnom-vozobnovlenii-aviasoobshcheniia-s-egiptom) в ноябре 2015 года после взрыва над Синайским полуостровом российского самолета, летевшего из Шарм-эль-Шейха в Петербург.
+Авиарейсы на курорты Египта Россия открыла с 9 августа. Они были [запрещены](2021/04/23/rossiia-dogovorilas-o-polnom-vozobnovlenii-aviasoobshcheniia-s-egiptom.md) в ноябре 2015 года после взрыва над Синайским полуостровом российского самолета, летевшего из Шарм-эль-Шейха в Петербург.

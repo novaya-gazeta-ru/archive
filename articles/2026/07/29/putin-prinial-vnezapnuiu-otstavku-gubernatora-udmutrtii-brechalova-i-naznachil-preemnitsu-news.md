@@ -27,4 +27,4 @@ tags: ""
 
 Бречалов занимал пост губернатора с 2017 года, а до того был известен как общественник: возглавлял пореформенную Общественную палату и пропутинский «Народный фронт».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/06/chestno-skazat-ne-rad-ramzan-kadyrov-zaiavil-edinorossam-chto-poidet-na-vybory-no-vynuzhdenno-chechniu-on-vozglavliaet-uzhe-19-let-news
+**Читайте также:** [«Честно сказать, не рад»: Кадыров заявил единороссам, что пойдет на выборы «вынужденно»](2026/07/06/chestno-skazat-ne-rad-ramzan-kadyrov-zaiavil-edinorossam-chto-poidet-na-vybory-no-vynuzhdenno-chechniu-on-vozglavliaet-u.md)

@@ -27,7 +27,7 @@ Telegram начал тестировать рекламные сообщения
 
 «В данном случае, я думаю, особо показательно, насколько дискриминационный закон про иностранных агентов», — написал Смирнов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/26/roskomnadzor-vkliuchil-telegram-i-livejournal-v-reestr-sotssetei-teper-oni-obiazany-blokirovat-zapreshchennuiu-informatsiiu-news
+**Читайте также:** [Роскомнадзор включил Telegram и Livejournal в реестр соцсетей. Теперь они обязаны блокировать запрещенную информацию](2021/10/26/roskomnadzor-vkliuchil-telegram-i-livejournal-v-reestr-sotssetei-teper-oni-obiazany-blokirovat-zapreshchennuiu-informats.md)
 
 Telegram [анонсировал](https://t.me/durov_russia/35) внедрение рекламы в конце октября. Как обещал основатель мессенджера, рекламное сообщение может состоять только из текста до 160 символов, внешние ссылки и изображения не допускаются.
 

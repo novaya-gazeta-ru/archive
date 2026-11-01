@@ -35,6 +35,6 @@ tags: ""
 
 Аккаунты детсадов по всей России сегодня ретранслируют официальные сообщения о ходе выборов в своем регионе. Многие сообщения, судя по клише в тексте, сделаны с помощью ИИ и повторяются в разных вариантах.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/18/glava-tsik-pamfilova-na-etikh-vyborakh-vy-ne-uvidite-skopleniia-naroda-potomu-chto-primeniaiutsia-deviat-vidov-golosovaniia-razumeetsia-v-tseliakh-bezopasnosti-news
+**Читайте также:** [Глава ЦИК Памфилова: «На этих выборах вы не увидите скопления народа», потому что применяются «девять видов голосования» — разумеется «в целях безопасности»](2026/09/18/glava-tsik-pamfilova-na-etikh-vyborakh-vy-ne-uvidite-skopleniia-naroda-potomu-chto-primeniaiutsia-deviat-vidov-golosovan.md)
 
 #### * Минюст включил в реестр иноагентов.

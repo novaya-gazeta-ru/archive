@@ -19,6 +19,6 @@ tags: "коронавирус, границы, авиасообщение, ка�
 
 Также новые правила разрешат въезд иностранных граждан и лиц без гражданства в Россию и выезд граждан России в Монголию через сухопутный участок российско-монгольской границы.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/18/boinia-imeni-berdymukhamedova
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/18/boinia-imeni-berdymukhamedova](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/18/boinia-imeni-berdymukhamedova)
 
-До этого сухопутные границы с Казахстаном и Монголией были закрыты в целях предотвращения распространения COVID-19, но попасть туда можно было на самолете. Россия возобновила авиасообщение с [Казахстаном](https://novayagazeta.ru/articles/2020/09/18/164359-rossiya-vozobnovlyaet-aviasoobschenie-s-kazahstanom-kirgiziey-i-belarusyu-i-yuzhnoy-koreey) в сентябре 2020 года, с [Монголией](https://www.forbes.ru/society/446133-rossia-s-1-dekabra-vozobnovit-aviasoobsenie-s-braziliej-i-ese-cetyr-ma-stranami) — в декабре 2021 года.
+До этого сухопутные границы с Казахстаном и Монголией были закрыты в целях предотвращения распространения COVID-19, но попасть туда можно было на самолете. Россия возобновила авиасообщение с [Казахстаном](2020/09/18/164359-rossiya-vozobnovlyaet-aviasoobschenie-s-kazahstanom-kirgiziey-i-belarusyu-i-yuzhnoy-koreey.md) в сентябре 2020 года, с [Монголией](https://www.forbes.ru/society/446133-rossia-s-1-dekabra-vozobnovit-aviasoobsenie-s-braziliej-i-ese-cetyr-ma-stranami) — в декабре 2021 года.

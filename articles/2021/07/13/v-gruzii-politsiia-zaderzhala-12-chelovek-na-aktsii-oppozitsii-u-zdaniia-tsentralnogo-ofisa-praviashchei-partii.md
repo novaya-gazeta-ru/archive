@@ -17,8 +17,8 @@ tags: "ng, грузия, задержания"
 
 Протесты начались после того, как власти Грузии обнародовали предварительные данные о причинах смерти 11 июля телеоператора TV Pirveli Александра Лашкарава, избитого 5 июля во время освещения митинга ЛГБТ-сообщества. В МВД страны [назвали](https://police.ge/en/shinagan-saqmeta-saministros-brifingi-aleqsandre-lashqaravas-gardatsvalebis-faqtze-mimdinare-gamodziebis-shesakheb/14796) причиной его смерти «передозировку наркотиками».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/09/po-raznye-storony-dostoinstva
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/09/po-raznye-storony-dostoinstva](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/09/po-raznye-storony-dostoinstva)
 
-Мужчину [обнаружили](https://novayagazeta.ru/articles/2021/07/11/v-gruzii-skonchalsia-teleoperator-izbityi-gomofobami-pered-aktsiei-v-podderzhku-lgbt) мертвым в собственной квартире. Оппозиция обвиняет в случившемся правительство. В МВД ранее заявили о начале расследования смерти оператора по статье «доведение до самоубийства».
+Мужчину [обнаружили](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/11/v-gruzii-skonchalsia-teleoperator-izbityi-gomofobami-pered-aktsiei-v-podderzhku-lgbt) мертвым в собственной квартире. Оппозиция обвиняет в случившемся правительство. В МВД ранее заявили о начале расследования смерти оператора по статье «доведение до самоубийства».
 
 ЛГБТК+ активисты Грузии должны были провести 5 июля «Марш достоинства» в Тбилиси в рамках недели прайда, однако столкнулись с агрессией со стороны ультраправых, церковных прихожан и радикальных гомофобов. Полиция Тбилиси, которая сначала пообещала защищать граждан из числа ЛГБТ-сообщества, тогда попросила отменить мероприятие по соображениям безопасности. В стычках пострадали многие журналисты, ранены активисты и прохожие.

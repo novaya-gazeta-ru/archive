@@ -89,10 +89,10 @@ _Фото автора_
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/17/1374009450_790192_6.jpg" style="width: 282px; height: 188px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/17/1374009450_790192_6.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/17/1374009450_790192_6.jpg)" style="width: 282px; height: 188px;"><br>
 				<sup>Судья Блинов. Апрель 2013-го.</sup></td>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/17/1374009474_697728_73.jpg" style="width: 282px; height: 188px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/17/1374009474_697728_73.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/17/1374009474_697728_73.jpg)" style="width: 282px; height: 188px;"><br>
 				<sup>Судья Блинов. Июль 2013-го.</sup></td>
 		</tr>
 	</tbody>]*

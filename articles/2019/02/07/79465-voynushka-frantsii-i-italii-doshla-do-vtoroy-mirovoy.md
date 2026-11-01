@@ -33,11 +33,11 @@ tags: "миграция, франция, италия, дипломатия"
 
 Чтобы быть совсем точным, стоит напомнить, что «атаки» и оскорбительные заявления начались девять месяцев назад, в июне 2018-го, сразу после прихода к власти в Италии «популистской» коалиции во главе с Маттео Сальвини и Луиджи ди Майо.
 
-**link:** https://novayagazeta.ru/articles/2018/06/02/76686-ministry-s-portfelyami-no-bez-diplomov
+**link:** [Министры с портфелями, но без дипломов](2018/06/02/76686-ministry-s-portfelyami-no-bez-diplomov.md)
 
 12 июня президент Франции Эмманюэль Макрон осудил «цинизм» и «безответственность» правительства Италии, которое отказывалось открыть какой-нибудь порт для судна «Аквариус», на борту которого было шестьсот с лишним мигрантов.
 
-**link:** https://novayagazeta.ru/articles/2018/06/19/76859-migratsionnyy-skandal-v-blagorodnom-evropeyskom-semeystve
+**link:** [https://novayagazeta.ru/articles/2018/06/19/76859-migratsionnyy-skandal-v-blagorodnom-evropeyskom-semeystve](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2018/06/19/76859-migratsionnyy-skandal-v-blagorodnom-evropeyskom-semeystve)
 
 Официальный представитель макроновской партии «Вперед, Республика!» Габриэль Атталь высказался еще более образно, назвав позицию итальянского правительства «тошнотворной».
 
@@ -53,4 +53,4 @@ tags: "миграция, франция, италия, дипломатия"
 
 Ну, тут ради мира и справедливости надо заметить, что «отсутствие уважения» было уже с лихвой проявлено с обеих сторон. И конца пока не видно: европейская избирательная кампания только-только начинается.
 
-**link:** https://novayagazeta.ru/articles/2019/01/30/79371-zahotet-evropu-ili-pogibnut-pod-volnami-populizma
+**link:** [«Мы должны захотеть Европу»](2019/01/30/79371-zahotet-evropu-ili-pogibnut-pod-volnami-populizma.md)

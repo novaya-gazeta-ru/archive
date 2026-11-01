@@ -151,7 +151,7 @@ tags: "судьи, следствие, приговор, суды"
 
 **Вера Челищева,** «Новая»
 
-**link:** https://novayagazeta.ru/articles/2017/08/11/73452-po-etomu-delu-dolzhen-byt-tolko-opravdatelnyy-prigovor
+**link:** [По этому делу должен быть только оправдательный приговор](2017/08/11/73452-po-etomu-delu-dolzhen-byt-tolko-opravdatelnyy-prigovor.md)
 
 ### «В суде уже давно никто ничего не доказывает»
 

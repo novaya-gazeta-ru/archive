@@ -25,9 +25,9 @@ tags: "савченко"
 
 «Противниками я называю сепаратистов». — «А врагами?» — «Иностранцев, которые военные, которые пришли на мою землю и убивают мой народ. А наемники — это мне и не враг, и не друг, а так. Они убивают, ну и я убиваю».
 
-**link:** https://novayagazeta.ru/society/70132.html
+**link:** [https://novayagazeta.ru/society/70132.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70132.html)
 
-**link:** https://novayagazeta.ru/society/70132.html
+**link:** [https://novayagazeta.ru/society/70132.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/70132.html)
 
 # О собственном задержании
 

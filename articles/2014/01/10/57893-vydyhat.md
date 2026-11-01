@@ -18,7 +18,7 @@ tags: "суды"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2014/01/10/1389365482_279184_57.jpg" style="width: 360px; height: 480px;"><sup>Ален Воликов (слева) и Алексей Сутуга. Первое фото на свободе. Фото: Алина Колосовская, специально для "Новой"</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/01/10/1389365482_279184_57.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/01/10/1389365482_279184_57.jpg)" style="width: 360px; height: 480px;"><sup>Ален Воликов (слева) и Алексей Сутуга. Первое фото на свободе. Фото: Алина Колосовская, специально для "Новой"</sup></td>
 		</tr>
 	</tbody>]*
 

@@ -29,6 +29,6 @@ tags: "зеленский, украина, резервисты, призыв, k
 
 Зеленский также пообещал снижение НДС на бензин и дизель.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/22/ne-priznaem-priznaniia
+**Читайте также:** [«Не признаем признания»](2022/02/22/ne-priznaem-priznaniia.md)
 
-Ранее сегодня Совфед [разрешил](https://novayagazeta.ru/articles/2022/02/22/sovfed-razreshil-putinu-ispolzovat-vooruzhennye-sily-rf-za-rubezhom-news) президенту Владимиру Путину использовать Вооруженные силы России в «ЛНР» и «ДНР». Сам Путин [подписал](https://novayagazeta.ru/articles/2022/02/22/putin-podpisal-zakony-o-ratifikatsii-dogovorov-o-druzhbe-i-sotrudnichestve-s-dnr-i-lnr-news) законы о ратификации договоров о дружбе и сотрудничестве между Россией, «ДНР» и «ЛНР». Согласно документам, Россия, «ДНР» и «ЛНР» будут противодействовать «актам агрессии» и оказывать друг другу помощь, включая военную.
+Ранее сегодня Совфед [разрешил](2022/02/22/sovfed-razreshil-putinu-ispolzovat-vooruzhennye-sily-rf-za-rubezhom-news.md) президенту Владимиру Путину использовать Вооруженные силы России в «ЛНР» и «ДНР». Сам Путин [подписал](2022/02/22/putin-podpisal-zakony-o-ratifikatsii-dogovorov-o-druzhbe-i-sotrudnichestve-s-dnr-i-lnr-news.md) законы о ратификации договоров о дружбе и сотрудничестве между Россией, «ДНР» и «ЛНР». Согласно документам, Россия, «ДНР» и «ЛНР» будут противодействовать «актам агрессии» и оказывать друг другу помощь, включая военную.

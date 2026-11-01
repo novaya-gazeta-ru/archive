@@ -29,4 +29,4 @@ tags: ""
 
 «Пропагандой» в нем размыто называется любое публичное высказывание, которое называет бездетность нормой. Эксперты в комментариях к тексту законопроекта указывали, что под это определение подпадает фактически любая попытка обсудить сложности воспитания и рождения детей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/24/iz-za-repressii-protiv-chaildfri-zakrylsia-krupneishii-pablik-vkontakte-gde-konsultirovali-molodykh-mam-news
+**Читайте также:** [Из-за репрессий против «чайлдфри» закрылся крупнейший паблик «Вконтакте», где консультировали молодых мам](2024/10/24/iz-za-repressii-protiv-chaildfri-zakrylsia-krupneishii-pablik-vkontakte-gde-konsultirovali-molodykh-mam-news.md)

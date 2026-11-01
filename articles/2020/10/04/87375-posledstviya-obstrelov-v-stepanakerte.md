@@ -17,7 +17,7 @@ tags: "азербайджан, армения, нагорный карабах"
 
 *Вид на Степанакерт с трассы. Фото Павел Волков, специально для «Новой»*
 
-**link:** https://novayagazeta.ru/articles/2020/10/05/87378-bomby-na-desert
+**link:** [Бомбы на десерт](2020/10/05/87378-bomby-na-desert.md)
 
 ![](_assets/f3/f306fc9140a4ef50b231a8c4ee484b58.webp)
 
@@ -75,7 +75,7 @@ tags: "азербайджан, армения, нагорный карабах"
 
 *Снаряд попал в жилой квартал, уничтожил частный дом и повредил дорогу. Фото Павел Волков, специально для «Новой»*
 
-**link:** https://novayagazeta.ru/articles/2020/10/03/87351-prostye-azerbaydzhantsy-takie-zhe-lyudi-kak-i-my-i-oni-hotyat-togo-zhe-samogo
+**link:** [«Мы делаем то, что должны делать, — мы защищаемся»](2020/10/03/87351-prostye-azerbaydzhantsy-takie-zhe-lyudi-kak-i-my-i-oni-hotyat-togo-zhe-samogo.md)
 
 ![](_assets/c2/c2a02b8b76e02a4b35e50723130b91fe.webp)
 

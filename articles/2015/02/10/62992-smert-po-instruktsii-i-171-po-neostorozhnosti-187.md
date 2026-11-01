@@ -23,9 +23,9 @@ tags: "блокада, нравы, полиция"
 
 — В сложившейся обстановке вины в действиях сотрудников полиции не содержится. Напротив, их приезд предотвратил дальнейшее обострение конфликта, — заявили «Новой» в пресс-центре МВД РФ.
 
-**link:** https://novayagazeta.ru/society/67134.html
+**link:** [https://novayagazeta.ru/society/67134.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/67134.html)
 
-**link:** https://novayagazeta.ru/society/67134.html
+**link:** [https://novayagazeta.ru/society/67134.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/67134.html)
 
 5 февраля на основании результатов проверки прокуратуры ГСУ СК РФ по Петербургу возбудило уголовное дело по ст. 109 УК РФ «Причинение смерти по неосторожности». «Подозреваемых в преступлении на сегодняшний день нет», — проинформировали «Новую» в ГСУ.
 

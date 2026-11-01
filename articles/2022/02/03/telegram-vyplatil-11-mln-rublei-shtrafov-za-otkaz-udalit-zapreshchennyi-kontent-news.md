@@ -17,6 +17,6 @@ tags: "телеграм, штрафы, оплата, sn"
 
 Московские суды с прошлого года регулярно штрафуют Telegram за неудаление запрещенной информации (ч. 2 ст. 13.41 КоАП). В итоге сумма штрафов, назначенных Telegram с начала 2021 года, составила около 40 млн рублей.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/11/metodichka-po-raschleneniiu-facebook
+**Читайте также:** [Методичка по расчленению Facebook](2021/10/11/metodichka-po-raschleneniiu-facebook.md)
 
-По этой же статье к административной ответственности регулярно привлекаются Twitter и Meta (Facebook). По данным Роскомнадзора, всего суды в России с января по ноябрь минувшего года [оштрафовали](https://novayagazeta.ru/articles/2021/11/01/sudy-v-rossii-s-nachala-goda-oshtrafovali-internet-kompanii-na-187-mln-rublei-za-neudalenie-kontenta-news) интернет-компании более чем на 187 млн рублей за неудаление контента.
+По этой же статье к административной ответственности регулярно привлекаются Twitter и Meta (Facebook). По данным Роскомнадзора, всего суды в России с января по ноябрь минувшего года [оштрафовали](2021/11/01/sudy-v-rossii-s-nachala-goda-oshtrafovali-internet-kompanii-na-187-mln-rublei-za-neudalenie-kontenta-news.md) интернет-компании более чем на 187 млн рублей за неудаление контента.

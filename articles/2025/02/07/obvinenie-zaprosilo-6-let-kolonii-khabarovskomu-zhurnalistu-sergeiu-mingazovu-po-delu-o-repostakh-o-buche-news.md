@@ -13,7 +13,7 @@ tags: ""
 
 Прокуратура [потребовала](https://www.forbes.ru/society/530404-prokuratura-potrebovala-6-let-kolonii-zurnalistu-forbes-mingazovu-po-delu-o-fejkah) для журналиста Forbes Сергея Мингазова 6 лет колонии по обвинению в «фейках» о российской армии.
 
-Поводом для дела стали [три репоста](https://novayagazeta.ru/articles/2024/04/26/khabarovskii-zhurnalist-sergei-mingazov-zaderzhan-po-ugolovnomu-delu-o-feikakh-protiv-rossiiskoi-armii-news) в личном Telegram-канале Мингазова, которые были посвящены военным действиям в Украине, конкретно — событиям в Буче весной 2022 года.
+Поводом для дела стали [три репоста](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/04/26/khabarovskii-zhurnalist-sergei-mingazov-zaderzhan-po-ugolovnomu-delu-o-feikakh-protiv-rossiiskoi-armii-news) в личном Telegram-канале Мингазова, которые были посвящены военным действиям в Украине, конкретно — событиям в Буче весной 2022 года.
 
 > Прокурор на заседании 7 февраля, ссылаясь на показания сотрудника ФСБ, заявил, что приведенные в репостах сведения не соответствуют позиции Минобороны, «дискредитируют власти» и могут вызвать у читателей «страх и тревогу».
 

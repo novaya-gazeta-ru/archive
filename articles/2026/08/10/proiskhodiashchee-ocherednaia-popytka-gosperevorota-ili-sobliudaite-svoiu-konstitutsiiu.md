@@ -29,4 +29,4 @@ tags: ""
 
 Соблюдайте свою Конституцию!
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/10/verkhovnyi-sud-mozhet-sniat-iabloko-s-vyborov
+**Читайте также:** [Как «Яблоко» сняли с выборов](2026/08/10/verkhovnyi-sud-mozhet-sniat-iabloko-s-vyborov.md)

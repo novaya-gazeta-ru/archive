@@ -33,4 +33,4 @@ tags: ""
 
 Но противотанковые рвы и зубы дракона в Курской области, очевидно, оказались неэффективны: в августе ВСУ прорвали их и стали контролировать российские территории, частично удерживая контроль до сих пор, уже 5-й месяц.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/16/khinshtein-zapretil-chinovniku-v-kurskoi-oblasti-nazyvat-kolichestvo-sbitykh-bespilotnikov-news
+**Читайте также:** [Хинштейн запретил чиновнику в Курской области называть количество сбитых беспилотников](2024/12/16/khinshtein-zapretil-chinovniku-v-kurskoi-oblasti-nazyvat-kolichestvo-sbitykh-bespilotnikov-news.md)

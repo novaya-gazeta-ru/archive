@@ -99,7 +99,7 @@ tags: "мужское государство, кино, насилие, инце
 
 Суд приговорил его к условному сроку за возбуждение ненависти к женщинам, потом отменил приговор в связи с декриминализацией статьи 282 УК РФ. Еще четыре фигуранта дела получили реальные сроки.
 
-**link:** https://novayagazeta.ru/articles/2020/06/01/85645-s-tochki-zreniya-zhenschiny
+**link:** [С точки зрения женщины](2020/06/01/85645-s-tochki-zreniya-zhenschiny.md)
 
 **Санитары леса**
 
@@ -113,7 +113,7 @@ tags: "мужское государство, кино, насилие, инце
 
 Одинокие антисексуалы доказывают, что они не «твари дрожащие», они объединяются, их гендерная война — не на жизнь.
 
-**link:** https://novayagazeta.ru/articles/2020/06/03/85672-molchanie-ne-znak-soglasiya
+**link:** [Молчание — не знак согласия](2020/06/03/85672-molchanie-ne-znak-soglasiya.md)
 
 **Женщины хитрые**
 
@@ -135,7 +135,7 @@ tags: "мужское государство, кино, насилие, инце
 
 По сути, ими удобно манипулировать, они податливы, в них воспитывается тоталитарное мировоззрение. Они не чувствуют фальши и театральности в выступлениях своих лидеров. Они готовы к гендерной войне за радикальный патриархат.
 
-**link:** https://novayagazeta.ru/articles/2020/06/16/85860-bezdeystvie-vlastey-privodit-k-smerti-zhenschin-i-detey
+**link:** [https://novayagazeta.ru/articles/2020/06/16/85860-bezdeystvie-vlastey-privodit-k-smerti-zhenschin-i-detey](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/06/16/85860-bezdeystvie-vlastey-privodit-k-smerti-zhenschin-i-detey)
 
 **«Инцелы открыто говорят о насилии над женщиной как руководстве к действию»**
 

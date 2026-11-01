@@ -38,6 +38,6 @@ tags: "последнее слово, провокация, дубовик, но
 
 > Я, конечно, приму любое решение суда, которое будет вынесено по данному делу. Но я очень надеюсь, что оно будет справедливым. Я хотела просить милости, но мой защитник сказал мне, что надо просить правосудия — милости просят виновные, — а я не виновата. Я не виновата, и я прошу правосудия. Правосудия не только себе, но и остальным ребятам, особенно тем, кто сейчас сидит в тюрьме.
 >
-> ### [Приговор фигурантам дела «Нового величия» огласят 8 августа](https://novayagazeta.ru/news/2020/07/24/163260-ya-hotela-prosit-milosti-no-nado-prosit-pravosudiya-figuranty-novogo-velichiya-vystupili-s-poslednim-slovom)
+> ### [Приговор фигурантам дела «Нового величия» огласят 8 августа](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/07/24/163260-ya-hotela-prosit-milosti-no-nado-prosit-pravosudiya-figuranty-novogo-velichiya-vystupili-s-poslednim-slovom)
 
-**link:** https://novayagazeta.ru/articles/2020/07/24/86389-novoe-velichie-i-nezakonnyy-arsenal-sledstviya
+**link:** [«Новое величие» и незаконный арсенал следствия](2020/07/24/86389-novoe-velichie-i-nezakonnyy-arsenal-sledstviya.md)

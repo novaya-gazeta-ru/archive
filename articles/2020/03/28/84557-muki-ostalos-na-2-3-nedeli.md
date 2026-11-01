@@ -45,7 +45,7 @@ tags: "россия, экспорт, дефицит, сырье, продукт�
 
 Между тем о дефиците сырья сообщают и производители растительного масла. Стоимость масличных на внешних рынках с начала года выросла почти на 20%, к этому добавилась девальвация рубля, которая подтолкнула продавцов сырья отдавать предпочтение экспортным операциям, которые приносят им не рубли, а твердую валюту.
 
-**link:** https://novayagazeta.ru/articles/2018/03/13/75788-chto-s-eli-kramolnyy-razgovor-o-kachestve-sovremennoy-pischi-s-zaveduyuschim-laboratoriey-himii-pischevyh-produktov-federalnogo-issledovatelskogo-tsentra-pitaniya-biotehnologii-i-bezopasnosti-pischi-ran-doktorom-biologicheskih-nauk-vladimirom-bessonovym
+**link:** [https://novayagazeta.ru/articles/2018/03/13/75788-chto-s-eli-kramolnyy-razgovor-o-kachestve-sovremennoy-pischi-s-zaveduyuschim-laboratoriey-himii-pischevyh-produktov-federalnogo-issledovatelskogo-tsentra-pitaniya-biotehnologii-i-bezopasnosti-pischi-ran-doktorom-biologicheskih-nauk-vladimirom-bessonovym](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2018/03/13/75788-chto-s-eli-kramolnyy-razgovor-o-kachestve-sovremennoy-pischi-s-zaveduyuschim-laboratoriey-himii-pischevyh-produktov-federalnogo-issledovatelskogo-tsentra-pitaniya-biotehnologii-i-bezopasnosti-pischi-ran-doktorom-biologicheskih-nauk-vladimirom-bessonovym)
 
 Масложировой союз России еще 25 марта предложил Дмитрию Патрушеву с 1 апреля запретить вывоз масличных, чтобы стабилизировать рынок. Минсельхоз пока никак не ответил на это предложение, но представители отрасли заявляют, что начали испытывать серьезные препятствия при оформлении масла и семечки на экспорт.
 

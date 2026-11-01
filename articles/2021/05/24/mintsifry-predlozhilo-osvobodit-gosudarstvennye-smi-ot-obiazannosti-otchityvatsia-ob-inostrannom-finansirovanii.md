@@ -17,4 +17,4 @@ tags: "сми, иностранное вмешательство, государ
 
 — объясняют авторы инициативы. В список СМИ, получающих государственное финансирование, входят телеканлы «Культура», «Россия-24», «Россия-1», «ТВ Центр», «Первый канал», «Российская газета», «Красная звезда» и другие.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/05/13/poroki-v-svoem-otechestve
+**Читайте также:** [https://novayagazeta.ru/articles/2021/05/13/poroki-v-svoem-otechestve](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/05/13/poroki-v-svoem-otechestve)

@@ -65,7 +65,7 @@ tags: "пандемия, карантин, ограничения, Санкт-П
 
 — Мы соблюдаем всякие меры предосторожности: маски и перчатки в общественном транспорте, — помогает подруге девушка с серебристой кудряшкой.
 
-**link:** https://novayagazeta.ru/articles/2020/06/10/85784-serviz-na-vysshem-urovne
+**link:** [https://novayagazeta.ru/articles/2020/06/10/85784-serviz-na-vysshem-urovne](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/06/10/85784-serviz-na-vysshem-urovne)
 
 * **
 
@@ -81,6 +81,6 @@ tags: "пандемия, карантин, ограничения, Санкт-П
 
 — А чего бояться? — спокойно смотрит на меня. — Это все в голове.
 
-**link:** https://novayagazeta.ru/articles/2020/06/04/85681-chtoby-kostyumchik-sidel
+**link:** [Чтобы костюмчик сидел](2020/06/04/85681-chtoby-kostyumchik-sidel.md)
 
 *Санкт-Петербург*

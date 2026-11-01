@@ -33,4 +33,4 @@ tags: ""
 
 Предыдущая встреча Коула с Лукашенко прошла весной. Спецпредставитель Трампа тогда показал себя эффективным переговорщиком. Благодаря его работе, всего около 500 политзаключенных были освобождены из мест заключения. В их числе нобелевские лауреаты, видные деятели оппозиции, но и просто обычные люди.
 
-Коул в 2026 году [стал лауреатом](https://novayagazeta.ru/articles/2026/08/27/laureatami-premii-kamerton-imeni-politkovskoi-stali-the-bell-verstka-i-bg-spetspriz-poluchil-amerikanets-dzhon-koul-vytashchivshii-pochti-500-politzekov-iz-belorusskikh-tiurem-news) премии «Камертон» имени Анны Политковской, учрежденной «Новой газетой» — за гуманитарную деятельность.
+Коул в 2026 году [стал лауреатом](2026/08/27/laureatami-premii-kamerton-imeni-politkovskoi-stali-the-bell-verstka-i-bg-spetspriz-poluchil-amerikanets-dzhon-koul-vyta.md) премии «Камертон» имени Анны Политковской, учрежденной «Новой газетой» — за гуманитарную деятельность.

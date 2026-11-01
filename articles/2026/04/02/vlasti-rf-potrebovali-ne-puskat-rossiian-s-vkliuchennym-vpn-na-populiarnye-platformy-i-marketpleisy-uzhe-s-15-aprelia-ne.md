@@ -23,12 +23,12 @@ tags: ""
 
 Ограничения, как ожидается, не распространятся на пользователей с корпоративными VPN, которые не используются для обхода блокировок. Но пока непонятно, как отличать их от иного VPN-трафика, так что есть риск, что и их заблокируют оговорился источник.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/04/02/app-uidi
+**Читайте также:** [App-уйди](2026/04/02/app-uidi.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/04/02/mintsifry-reshilo-ubrat-s-rynka-nebolshikh-provaiderov-chtoby-vziat-pod-kontrol-trafik-provodnogo-interneta-news
+**Читайте также:** [Минцифры решило убрать с рынка небольших провайдеров, чтобы взять под контроль трафик проводного интернета](2026/04/02/mintsifry-reshilo-ubrat-s-rynka-nebolshikh-provaiderov-chtoby-vziat-pod-kontrol-trafik-provodnogo-interneta-news.md)
 
 Власти активно борются с VPN на фоне массовых блокировок. Ранее Forbes [сообщил](https://t.me/novaya_pishet/57024), что Минцифры попросили не только платформы ограничить доступ пользователям с VPN, но и операторов связи — взимать плату за VPN-трафик с абонентов.
 
 Шадаев [признал](https://t.me/novaya_pishet/57033), что есть задача сократить использование VPN в России. Он отметил, что обсуждаемые меры — это «сложные компромиссы», «но все другие варианты сильно хуже».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/04/02/kod-durova-v-otvet-na-blokirovki-i-davlenie-vlastei-rf-apple-reshila-besplatno-sokhranit-dannye-rossiian-v-svoikh-oblakakh-news
+**Читайте также:** [«Код Дурова»: в ответ на блокировки и давление властей РФ Apple решила бесплатно сохранить данные россиян в своих облаках](2026/04/02/kod-durova-v-otvet-na-blokirovki-i-davlenie-vlastei-rf-apple-reshila-besplatno-sokhranit-dannye-rossiian-v-svoikh-oblaka.md)

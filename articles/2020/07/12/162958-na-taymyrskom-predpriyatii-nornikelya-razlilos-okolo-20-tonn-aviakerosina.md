@@ -29,6 +29,6 @@ tags: "em, норникель, таймыр"
 
 Напомним, 29 мая произошел разлив топлива из резервуара ТЭЦ-3 под Норильском. ТЭЦ принадлежит «Норильско-Таймырской энергетической компании» (входит в «Норникель»). Разлив привел к тому, что более 20 тысяч тонн солярки попало в почву и реки. Из-за произошедшего было возбуждено несколько уголовных дел.
 
-Росприроднадзор [оценил](https://novayagazeta.ru/news/2020/07/06/162820-rosprirodnadzor-otsenil-uscherb-ot-razliva-topliva-pod-norilskom-v-148-milliardov-rubley) ущерб более чем в 147,7 миллиарда рублей. «Норникель» [не согласился](https://novayagazeta.ru/news/2020/07/08/162866-nornikel-reshil-osporit-rasschitannyy-rosprirodnadzorom-razmer-uscherba-ot-razliva-topliva) с этой суммой, заявив, что расчеты ведомством вреда, «основаны на принципах, которые привели к искажению результатов и нуждаются в корректировке».
+Росприроднадзор [оценил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/07/06/162820-rosprirodnadzor-otsenil-uscherb-ot-razliva-topliva-pod-norilskom-v-148-milliardov-rubley) ущерб более чем в 147,7 миллиарда рублей. «Норникель» [не согласился](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/07/08/162866-nornikel-reshil-osporit-rasschitannyy-rosprirodnadzorom-razmer-uscherba-ot-razliva-topliva) с этой суммой, заявив, что расчеты ведомством вреда, «основаны на принципах, которые привели к искажению результатов и нуждаются в корректировке».
 
-**link:** https://novayagazeta.ru/articles/2020/06/29/86060-ryabinin
+**link:** [«Деревья в озере с этой водой стояли мертвые»](2020/06/29/86060-ryabinin.md)

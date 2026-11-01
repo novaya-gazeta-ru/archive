@@ -15,6 +15,6 @@ tags: ""
 
 **youtube:** https://www.youtube.com/watch?v=F8yRaYAK_Gw&feature=youtu.be
 
-**Смотрите также:** https://novayagazeta.ru/articles/2023/11/22/bolshoi-strim-novoi-gazety
+**Смотрите также:** [Большой стрим «Новой газеты». Прямой эфир](2023/11/22/bolshoi-strim-novoi-gazety.md)
 
 #### * Внесена Минюстом РФ в реестр иностранных агентов.

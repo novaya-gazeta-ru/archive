@@ -13,7 +13,7 @@ tags: "выборы президента сша, майкл коэн, трамп
 
 > **Есть продолжение**
 >
-> [Песков раскрыл содержание писем юриста Трампа о строительстве небоскреба Trump Tower в Москве](https://www.novayagazeta.ru/news/2018/12/01/147231-peskov-raskryl-soderzhanie-pisem-yurista-trampa-o-stroitelstve-neboskreba-trump-tower-v-moskve)
+> [Песков раскрыл содержание писем юриста Трампа о строительстве небоскреба Trump Tower в Москве](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/12/01/147231-peskov-raskryl-soderzhanie-pisem-yurista-trampa-o-stroitelstve-neboskreba-trump-tower-v-moskve)
 
 Компания The Trump Organization американского президента Дональда Трампа планировала подарить российскому президенту Владимиру Путину пентхаус в небоскребе Trump Tower в Москве, строительство которого обсуждалось в 2015-2016 годах,[ утверждает ](https://www.buzzfeednews.com/article/anthonycormier/the-trump-organization-planned-to-give-vladimir-putin-the)BuzzFeed со ссылкой на источники.
 
@@ -25,9 +25,9 @@ BuzzFeed также опубликовал фрагменты переписки
 
 Майкл Коэн, его представитель, а также Trump Organization и пресс-секретарь российского президента Дмитрий Песков отказались предоставить изданию комментарии.
 
-**link:** https://novayagazeta.ru/articles/2018/11/28/78725-sovetnika-pereodeli-v-robu-i-tapochki
+**link:** [Советника переодели в робу и тапочки](2018/11/28/78725-sovetnika-pereodeli-v-robu-i-tapochki.md)
 
-Накануне Майкл Коэн [заявил ](https://www.novayagazeta.ru/news/2018/11/29/147185-yurist-trampa-maykl-koen-priznalsya-v-lozhnyh-pokazaniyah-vo-vremya-slushaniy-o-rossiyskom-vmeshatelstve-v-kongresse)в федеральном суде Манхэттена, что во время прошлогодних закрытых слушаний в Конгрессе дал ложные показания об окончании переговоров о строительстве Trump Tower в Москве.
+Накануне Майкл Коэн [заявил ](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/11/29/147185-yurist-trampa-maykl-koen-priznalsya-v-lozhnyh-pokazaniyah-vo-vremya-slushaniy-o-rossiyskom-vmeshatelstve-v-kongresse)в федеральном суде Манхэттена, что во время прошлогодних закрытых слушаний в Конгрессе дал ложные показания об окончании переговоров о строительстве Trump Tower в Москве.
 
 Он [утверждал](https://assets.documentcloud.org/documents/5331441/Cohen-False-Statements-Criminal-Information.pdf), что они прекратились в январе 2016 года (т.е. до начала президентских праймериз), когда ему якобы не ответил на e-mail представитель администрации президента. Оказалось, что обсуждение строительства прекратилось в июне, когда Трамп стал единственным кандидатом от республиканцев на должность президента.
 

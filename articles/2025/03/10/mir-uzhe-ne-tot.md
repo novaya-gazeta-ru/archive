@@ -19,4 +19,4 @@ tags: "новости, трамп, украина"
 
 #### * Внесен властями РФ в реестр «иноагентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/07/krepostnoe-pravo-v-rossii-kto-vyigral-ot-ego-otmeny
+**Читайте также:** [Крепостное право в России: кто выиграл от его отмены?](2025/03/07/krepostnoe-pravo-v-rossii-kto-vyigral-ot-ego-otmeny.md)

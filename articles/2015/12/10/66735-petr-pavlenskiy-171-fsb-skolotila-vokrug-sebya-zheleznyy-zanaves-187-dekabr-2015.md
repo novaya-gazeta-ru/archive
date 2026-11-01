@@ -92,9 +92,9 @@ tags: "искусство, преследования"
 
 — Да, я буду сохранять регламент молчания, пока судебно-правоохранительный беспредел не будет прекращен.
 
-**link:** https://novayagazeta.ru/comments/70846.html
+**link:** [https://novayagazeta.ru/comments/70846.html](https://web.archive.org/web/*/https://novayagazeta.ru/comments/70846.html)
 
-**link:** https://novayagazeta.ru/comments/70846.html
+**link:** [https://novayagazeta.ru/comments/70846.html](https://web.archive.org/web/*/https://novayagazeta.ru/comments/70846.html)
 
 **— Акция начинается в момент ее фактического осуществления или после? Сейчас акция продолжается? Признаете ли вы государство соавтором?**
 

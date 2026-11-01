@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *VK начал предвыборную кампанию Путина: кто оплачивает? Церковь и государство запрещают аборты: поможет ли? Акунин — про левых и террористов, Петровская — о трех интервью Собчак*
 
-https://novayagazeta.ru/issues/3278
+[https://novayagazeta.ru/issues/3278](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3278)

@@ -17,9 +17,9 @@ tags: "авиация, сирия, турция"
 
 *Турецкие военные знали, что российские самолеты вынужденно пролетают два километра над их территорией*
 
-**link:** https://novayagazeta.ru/politics/70898.html
+**link:** [https://novayagazeta.ru/politics/70898.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/70898.html)
 
-**link:** https://novayagazeta.ru/politics/70898.html
+**link:** [https://novayagazeta.ru/politics/70898.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/70898.html)
 
 На севере Сирии, в провинции Латакия истребитель F-16 ВВС Турции атаковал и сбил российский фронтовой бомбардировщик Су-24.
 
@@ -27,9 +27,9 @@ tags: "авиация, сирия, турция"
 
 Если наложить траектории на карту, российский самолет в момент атаки действительно находился над территорией Турции, которая вклинивается в территорию Сирии своеобразной «кишкой» шириной чуть больше двух тысяч метров.
 
-**link:** https://novayagazeta.ru/news/1698181.html
+**link:** [https://novayagazeta.ru/news/1698181.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1698181.html)
 
-**link:** https://novayagazeta.ru/news/1698181.html
+**link:** [https://novayagazeta.ru/news/1698181.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1698181.html)
 
 Утверждение турецких властей, что они неоднократно предупреждали российский самолет о нарушении воздушного пространства, сомнительны. Для преодоления расстояния в две тысячи метров Су-24 необходимо не более шести секунд. Скорей всего Турция имеет в виду, что раньше предупреждала Россию о несанкционированных пролетах над своей территорией.
 
@@ -41,9 +41,9 @@ tags: "авиация, сирия, турция"
 
 Довольно резко отреагировал и президент России, назвав атаку на Су-24 ударом в спину, нанесенным пособниками террористов. Путин так и сказал, что Россия «давно фиксировала поставки нефти в Турцию из районов Сирии, захваченных террористам» («Новая» писала о нефтяном бизнесе террористов через Турцию еще в сентябре, подробности — в № 106 от 28 сентября 2015).
 
-**link:** https://novayagazeta.ru/inquests/70094.html
+**link:** [https://novayagazeta.ru/inquests/70094.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/70094.html)
 
-**link:** https://novayagazeta.ru/inquests/70094.html
+**link:** [https://novayagazeta.ru/inquests/70094.html](https://web.archive.org/web/*/https://novayagazeta.ru/inquests/70094.html)
 
 Сегодня можно говорить только о том, что для России атака ВВС Турции оказалась полной неожиданностью.
 

@@ -17,11 +17,11 @@ tags: "doxa, репрессии, обыски, права человека, да
 
 *Обложка завтрашнего номера «Новой газеты» выглядит так*
 
-**Прекратите репрессии против студентов:** https://novayagazeta.ru/articles/2021/04/14/v-2021-godu-vlasti-pereshli-k-silovym-metodam
+**Прекратите репрессии против студентов:** [https://novayagazeta.ru/articles/2021/04/14/v-2021-godu-vlasti-pereshli-k-silovym-metodam](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/04/14/v-2021-godu-vlasti-pereshli-k-silovym-metodam)
 
-**Как это было:** https://novayagazeta.ru/articles/2021/04/15/im-ne-pobedit-molodost
+**Как это было:** [«Им не победить молодость»](2021/04/15/im-ne-pobedit-molodost.md)
 
-**Реакция:** https://novayagazeta.ru/articles/2021/04/14/oni-ne-perestanut-govorit-dazhe-kogda-krugom-vse-umolknut
+**Реакция:** [«Они не перестанут говорить, даже когда кругом все умолкнут»](2021/04/14/oni-ne-perestanut-govorit-dazhe-kogda-krugom-vse-umolknut.md)
 
 Прекратите репрессии против студентов
 

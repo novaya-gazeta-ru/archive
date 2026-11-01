@@ -101,4 +101,4 @@ tags: "автопром, китайский автопром, китайские
 
 — Крупные успешные бренды в большинстве своем, конечно, привлекают специалистов извне. Но не для того, чтобы те руководили и вечно все решали, а скорее для обучения своих людей. Мы за тобой пять, десять лет ходить будем, смотреть — а потом и сами начнем не хуже. Ты деньги заработаешь и поедешь домой, а у нас вырастет свой Ли, который уже все понял.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/08/16/i-v-chetvertyi-raz-mersedes-pokinul-rossiiu
+**Читайте также:** [https://novayagazeta.ru/articles/2023/08/16/i-v-chetvertyi-raz-mersedes-pokinul-rossiiu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/08/16/i-v-chetvertyi-raz-mersedes-pokinul-rossiiu)

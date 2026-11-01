@@ -26,9 +26,9 @@ _Голос Церкви, церковных авторитетов, мудры�
 
 — Думаю, что это развитие того, что началось в 2003 году, когда отец Александр Шаргунов (настоятель храма святителя Николая в Пыжах на Ордынке) послал своих алтарников громить выставку «Осторожно, религия!». У него тогда был комитет «За нравственное возрождение Отечества». Они против Мадонны выступали, против журнала «Молоток», против Гарри Поттера — в общем, против всего подряд. Они за нравственное спасение России. Отец Александр Шаргунов гордился, что послал своих алтарников громить выставку. Алтарников сначала задержали, потом отпустили, а потом и наградили. Есть даже фотография, где их награждают за это.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/columns/69594.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/08/18/1439916381_494279_1.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/columns/69594.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/69594.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/08/18/1439916381_494279_1.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/08/18/1439916381_494279_1.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/columns/69594.html" target="_blank"><strong>Марина ТОКАРЕВА: Пауза. В ней исчезает здравый смысл и надежда</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/columns/69594.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/69594.html)" target="_blank"><strong>Марина ТОКАРЕВА: Пауза. В ней исчезает здравый смысл и надежда</strong></a></p>]*
 
 **— Наградили за преступление?**
 
@@ -48,9 +48,9 @@ _Голос Церкви, церковных авторитетов, мудры�
 
 — В 2003 году погромщиков ведь вначале задержали, как и сейчас Энтео, даже завели на них дело, которое потом закрыли. Но затем возникло уголовное дело против Самодурова и его коллег (_Юрий Самодуров, тогда директор Музея и общественного центра им А.Д. Сахарова, где проходила выставка «Осторожно, религия!»_. — **Е.М** .). Пока ситуация аналогичная, но отличие ее в том, что за прошедшие 12 лет таких нападений и на выставки, и на кураторов, и на оперы, и на спектакли было так много, хроника таких погромов, возмущений, заявлений уже столь обширна, что это говорит о том, что православные набирают силу. Более того, они пробили закон об оскорблении религиозных чувств. И поэтому, если в 2003 году они говорили только о богохульстве, то сейчас Энтео сразу заявил в Манеже: «Мы защищаем закон» и «Это уголовное преступление. Мы уже вызвали полицию».
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/columns/68726.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/06/07/1433674219_590429_43.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/columns/68726.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/68726.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/06/07/1433674219_590429_43.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/06/07/1433674219_590429_43.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/columns/68726.html" target="_blank"><strong>Волшебная борода матушки Ксении</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/columns/68726.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/columns/68726.html)" target="_blank"><strong>Волшебная борода матушки Ксении</strong></a></p>]*
 
 В 2003 году Госдума обратилась к прокурору (тогда Устинову) с требованием наказать художников и организаторов выставки. То есть Госдума сразу встала на сторону погромщиков. В то время как сейчас в Государственной думе даже раздались призывы наказать самих погромщиков. Не думаю, что это большой перевес в пользу законности, тем более что есть закон об оскорблении религиозных чувств, который сам беззаконный. Погромщики теперь апеллируют к этому закону и к Богу, их риторика значительно изменилась.
 
@@ -101,7 +101,7 @@ _Голос Церкви, церковных авторитетов, мудры�
 
 — По уголовному делу против Самодурова, Василовской и Альчук была проведена экспертиза. Делала ее психолог Вера Абраменкова. Эта же Абраменкова потом писала экспертизу по Pussy Riot, основываясь на Трулльском (691—692 годы, Константинополь) и Лаодикийском (360 год, Лаодикия) соборах.
 
-*[media: <p><strong><a href="http://mark-feygin.livejournal.com/89127.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/08/18/1439919012_721572_30.png" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="http://mark-feygin.livejournal.com/89127.html" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/08/18/1439919012_721572_30.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/08/18/1439919012_721572_30.png)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
 <p><a href="http://mark-feygin.livejournal.com/89127.html" target="_blank"><strong>Текст экспертизы по делу Pussy Riot</strong></a></p>]*
 
@@ -111,9 +111,9 @@ _Голос Церкви, церковных авторитетов, мудры�
 
 — Была Крестопоклонная неделя, то есть Кресту посвященная. Это было воскресенье, 18 марта 2012 года. Во всех храмах Москвы настоятелей после проповеди с амвона обязали читать обращение к московскому прокурору с требованием ужесточить наказание Pussy Riot до пяти лет. Это был совершенно беспрецедентный случай. Такого никогда раньше не было, чтобы в церкви призывали посадить в тюрьму, даже в советское время. Отказался читать обращение отец Алексий Уминский (настоятель храма Святой Троицы в Хохлах). А моя аспирантка мне прислала эсэмэску: «Отец Александр Борисов прочитал с амвона призыв посадить Pussy Riot. Как дальше жить, Елена Ивановна?» То есть отец Александр Борисов, один из либеральных последователей отца Александра Меня, у которого как бы либеральный приход Космы и Дамиана в Столешниковом переулке, тоже прочитал. И отец Владимир Лапшин (настоятель храма Успения Пресвятой Богородицы на Успенском Вражке, что в Газетном переулке) тоже прочитал. То есть даже друзья-последователи Меня прочитали это обращение.
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/politics/69460.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2015/08/07/1438904225_678142_12.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/politics/69460.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/69460.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2015/08/07/1438904225_678142_12.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/08/07/1438904225_678142_12.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/politics/69460.html" target="_blank"><strong>РПЦ с политического благословения ведет кампанию по захвату имущества российских музеев</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/politics/69460.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/69460.html)" target="_blank"><strong>РПЦ с политического благословения ведет кампанию по захвату имущества российских музеев</strong></a></p>]*
 
 **— Наверное, они боялись потерять свои приходы?**
 

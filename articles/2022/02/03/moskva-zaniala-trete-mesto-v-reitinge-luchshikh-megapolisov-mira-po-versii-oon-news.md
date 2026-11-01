@@ -28,4 +28,4 @@ tags: "москва, оон, рейтинги, em"
 
 ООН [создала](https://unhabitat.org/the-city-prosperity-initiative-brochure) инструмент для измерения городов в 2012 году. Уже на следующий год, как сообщили авторы индекса, они получили запросы от властей стран и регионов на оценку их населенных пунктов. «Мэры и другие лица, принимающие решения, хотели знать, как выглядят их города по сравнению с другими», — отметили авторы City Prosperity Index.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/08/tekhnologii-neizbezhny-nraviatsia-oni-nam-ili-net
+**Читайте также:** [«Технологии неизбежны, нравятся они нам или нет»](2021/11/08/tekhnologii-neizbezhny-nraviatsia-oni-nam-ili-net.md)

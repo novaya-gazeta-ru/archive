@@ -29,4 +29,4 @@ tags: "тесты, шендерович, наркотики, бизнес, зп�
 
 Также они обязаны предоставлять отпечатки пальцев и биометрические фотографии. По истечении срока медицинских документов, иностранные граждане должны вновь проходить все обследования.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/06/11/85802-osobo-tyazhkie-investitsii
+**Читайте также:** [https://novayagazeta.ru/articles/2020/06/11/85802-osobo-tyazhkie-investitsii](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/06/11/85802-osobo-tyazhkie-investitsii)

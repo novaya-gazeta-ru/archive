@@ -21,8 +21,8 @@ tags: "sn, армения, азербайджан, шуша, нагорный к
 
 Погосян добавил, что силы противника уже находятся на подступах к Степанакерту. «Существование столицы под угрозой», — подчеркнул пресс-секретарь.
 
-О взятии Шуши (на азербайджанском — Шуша) еще накануне [объявил](https://novayagazeta.ru/news/2020/11/08/165518-prezident-azerbaydzhana-zayavil-o-vzyatii-pod-kontrol-vtorogo-po-velichine-goroda-v-nagornom-karabahe) президент Азербайджана Ильхам Алиев. В минобороны Армении тогда подчеркнули, что бои за город еще продолжаются.
+О взятии Шуши (на азербайджанском — Шуша) еще накануне [объявил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/08/165518-prezident-azerbaydzhana-zayavil-o-vzyatii-pod-kontrol-vtorogo-po-velichine-goroda-v-nagornom-karabahe) президент Азербайджана Ильхам Алиев. В минобороны Армении тогда подчеркнули, что бои за город еще продолжаются.
 
 Обострение конфликта в Нагорном Карабахе между Арменией и Азербайджаном продолжается уже больше месяца. С обеих сторон при обстрелах гибнут мирные жители. Ереван [сообщал](https://ru.armeniasputnik.am/society/20201029/25105857/Novyy-spisok-pogibshikh-armyanskikh-voennosluzhaschikh-v-Karabakhe--dannye-za-29-oktyabrya---.html), что с его стороны погибли более тысячи военных. Азербайджан информацию о потерях не разглашает.
 
-**link:** https://novayagazeta.ru/articles/2020/11/09/87883-bitva-za-shushu
+**link:** [Битва за Шушу](2020/11/09/87883-bitva-za-shushu.md)

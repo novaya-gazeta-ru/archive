@@ -18,4 +18,4 @@ tags: ""
  А утром гадает счастливый народ\
  Куда эта белка его заведет.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/04/11/otbros-skoree-vse-svoi-somnenia
+**Читайте также:** [Отбрось скорее все свои сомненья](2026/04/11/otbros-skoree-vse-svoi-somnenia.md)

@@ -21,9 +21,9 @@ tags: ""
 
 Похожие «требования» могли получить и другие издания, позже удалившие сообщения об этом: Mash, «Осторожно, новости», а также Forbes, со ссылкой на источники которого новость и начала распространяться в сети.
 
-Напомним, 3 апреля [перестали работать](https://novayagazeta.ru/articles/2026/04/03/prichinoi-sboia-bankovskikh-servisov-mogla-stat-massovaia-blokirovka-ip-adresov-pod-nee-popala-kriticheskaia-infrastruktura-news) онлайн-системы крупнейших банков России: Сбербанка, ВТБ, Т-Банка, Альфа-Банка, Газпромбанка, и всей Система быстрых платежей. Из-за этого «отвалилась» возможность безналичной оплаты в метро и магазинах. Метрополитен стал пускать россиян бесплатно, чтобы избежать столпотворения.
+Напомним, 3 апреля [перестали работать](2026/04/03/prichinoi-sboia-bankovskikh-servisov-mogla-stat-massovaia-blokirovka-ip-adresov-pod-nee-popala-kriticheskaia-infrastrukt.md) онлайн-системы крупнейших банков России: Сбербанка, ВТБ, Т-Банка, Альфа-Банка, Газпромбанка, и всей Система быстрых платежей. Из-за этого «отвалилась» возможность безналичной оплаты в метро и магазинах. Метрополитен стал пускать россиян бесплатно, чтобы избежать столпотворения.
 
-Интересно, что о прямой связи шатдауна банковской системы с действиями РКН говорят [не только основатель Telegram Павел Дуров](https://novayagazeta.ru/articles/2026/04/04/dobro-pozhalovat-v-tsifrovoe-soprotivlenie-moi-russkie-bratia-i-sestry-durov-poobeshchal-adaptirovat-telegram-k-blokirovkam-v-rossii-i-nazval-chislo-polzovatelei-servisa-news), но даже провластные IT-эксперты. Характерен в этом смысле пост главы InfoWatch Натальи Касперской, [опубликованный](https://t.me/natalya_kasperskaya_channel/228) 4 апреля.
+Интересно, что о прямой связи шатдауна банковской системы с действиями РКН говорят [не только основатель Telegram Павел Дуров](2026/04/04/dobro-pozhalovat-v-tsifrovoe-soprotivlenie-moi-russkie-bratia-i-sestry-durov-poobeshchal-adaptirovat-telegram-k-blokirov.md), но даже провластные IT-эксперты. Характерен в этом смысле пост главы InfoWatch Натальи Касперской, [опубликованный](https://t.me/natalya_kasperskaya_channel/228) 4 апреля.
 
 > **цитата**
 >

@@ -27,4 +27,4 @@ tags: ""
 
 Однако приговоренным к принудительным работам нельзя покидать исправительный центр без разрешения. Они работают на предприятиях и объектах, с которыми у центра заключен договор.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/05/14/glava-fsin-chislo-zakliuchennykh-v-rossii-s-nachala-svo-sokratilos-na-40-a-institut-prinuditelnykh-rabot-pozitivno-sebia-zarekomendoval-news
+**Читайте также:** [Глава ФСИН: число заключенных в России с начала СВО сократилось на 40%, а институт принудительных работ «позитивно» себя зарекомендовал](2026/05/14/glava-fsin-chislo-zakliuchennykh-v-rossii-s-nachala-svo-sokratilos-na-40-a-institut-prinuditelnykh-rabot-pozitivno-sebia.md)

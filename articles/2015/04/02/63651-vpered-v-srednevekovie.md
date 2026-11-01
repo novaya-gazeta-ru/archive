@@ -21,9 +21,9 @@ tags: "акции протеста, москва, мхт имени чехова
 
 На парадное крыльцо главного входа в Московский Художественный театр свиную голову подложили в среду вечером, в знак протеста против спектакля Константина Богомолова «Идеальный муж» (вышел два года назад) и заступничества художественного руководителя МХТ Олега Табакова за постановщика спектакля «Тангейзер».
 
-**link:** https://novayagazeta.ru/arts/67910.html
+**link:** [https://novayagazeta.ru/arts/67910.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/67910.html)
 
-**link:** https://novayagazeta.ru/arts/67910.html
+**link:** [https://novayagazeta.ru/arts/67910.html](https://web.archive.org/web/*/https://novayagazeta.ru/arts/67910.html)
 
 Энтео и его группа стали известны столице и стране только из-за дружной пиар-кампании федеральных СМИ и полной безнаказанности.
 
@@ -33,8 +33,8 @@ tags: "акции протеста, москва, мхт имени чехова
 
 Однако телеканалы, в частности «Москва 24», те же самые действия комментируют, предоставляя слово участникам акции, легализуя таким образом их позицию.
 
-**link:** https://novayagazeta.ru/columns/67906.html
+**link:** [https://novayagazeta.ru/columns/67906.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/67906.html)
 
-**link:** https://novayagazeta.ru/columns/67906.html
+**link:** [https://novayagazeta.ru/columns/67906.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/67906.html)
 
 Люди театра, да и шире — люди культуры — отчетливо сознают наступление нового средневековья. Единственный выход в этой ситуации — объединяться, оставив в стороне идейную рознь и эстетические разногласия.

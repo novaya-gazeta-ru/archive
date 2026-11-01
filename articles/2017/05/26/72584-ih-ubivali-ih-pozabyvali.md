@@ -41,7 +41,7 @@ tags: ""
 
 Другими словами, даже приемлемо-приблизительных цифр нет до сих пор. Пятьдесят тысяч в одну сторону, пятьдесят — в другую.
 
-**link:** https://novayagazeta.ru/articles/2017/05/17/72469-obidy-nenaydennyh-dedov
+**link:** [Обиды ненайденных дедов](2017/05/17/72469-obidy-nenaydennyh-dedov.md)
 
 ![](_assets/32/32d8fb9c7348d47267e60b4dbae268ec.webp)
 

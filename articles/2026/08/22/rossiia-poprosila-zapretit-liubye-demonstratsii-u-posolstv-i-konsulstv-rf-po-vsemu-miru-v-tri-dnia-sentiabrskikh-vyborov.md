@@ -19,6 +19,6 @@ tags: ""
 
 По данным МИД, как минимум в 31 стране будут открыты участки в диппредставительствах РФ, где можно будет проголосовать за депутатов Госдумы и местных парламентов.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/21/iabloko-i-komandu-shlosberga-reshili-tselikom-sniat-s-vyborov-v-parlament-pskovskoi-oblasti-rukami-toi-zhe-rodiny-news
+**Читайте также:** [«Яблоко» и команду Шлосберга* решили целиком снять с выборов в парламент Псковской области руками той же «Родины»](2026/08/21/iabloko-i-komandu-shlosberga-reshili-tselikom-sniat-s-vyborov-v-parlament-pskovskoi-oblasti-rukami-toi-zhe-rodiny-news.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/22/istoricheskaia-oshibka
+**Читайте также:** [Историческая ошибка](2026/08/22/istoricheskaia-oshibka.md)

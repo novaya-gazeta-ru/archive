@@ -115,7 +115,7 @@ tags: "севастополь, идеология, преследования, �
 
 Проходящая свидетелем по делу глава Алушты Галина Огнева в ходе допроса заявила, что Назимов «неправильно критиковал власть», и, с ее точки зрения, нарушил этим закон. «Те вопросы, которые вызывали сомнения, журналист мог со мной согласовать и откорректировать», — сказала она в суде.
 
-**novaya:** https://novayagazeta.ru/articles/2018/02/23/75598-levyy-demarsh
+**novaya:** [Левый демарш](2018/02/23/75598-levyy-demarsh.md)
 
 На одном из заседаний Павел Степанченко пожаловался на избиение в ИВС Алушты. По словам депутата, к нему применили силу после того, как он попросил вызвать врача.
 
@@ -127,4 +127,4 @@ tags: "севастополь, идеология, преследования, �
 
 *Крым*
 
-**novaya:** https://novayagazeta.ru/articles/2017/08/10/73437-pod-ezd-kraskoy-oblili-predatel-rossii-vernulsya-iz-zony-ya-posmeyalsya-mobilizuet-sergey-udaltsov-o-navalnom-putine-bolotnom-dele-donbasse-i-kryme
+**novaya:** [«Подъезд мне краской облили: предатель России вернулся из зоны»](2017/08/10/73437-pod-ezd-kraskoy-oblili-predatel-rossii-vernulsya-iz-zony-ya-posmeyalsya-mobilizuet-sergey-udaltsov-o-navalnom-puti.md)

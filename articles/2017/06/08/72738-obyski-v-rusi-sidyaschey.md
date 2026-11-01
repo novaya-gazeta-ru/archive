@@ -13,7 +13,7 @@ tags: "романова, правозащитники, обыски"
 
 *Фото*
 
-**link:** https://novayagazeta.ru/articles/2017/06/08/72741-ya-schitayu-chto-eto-otvetochka
+**link:** [«Я считаю, что это ответочка»](2017/06/08/72741-ya-schitayu-chto-eto-otvetochka.md)
 
 ![](_assets/54/54c514059cd7dd8c465fdebd0ad31d25.webp)
 

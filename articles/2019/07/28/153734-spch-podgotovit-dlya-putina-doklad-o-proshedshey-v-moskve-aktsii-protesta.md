@@ -17,12 +17,12 @@ tags: "акции протеста, путин, спч, nt"
 
 Он также добавил, что призыв муниципального депутата Ильи Яшина провести еще один митинг 3 августа — «это путь в никуда».
 
-**link:** https://novayagazeta.ru/articles/2019/07/27/81396-27-iyulya-fotografii
+**link:** [Как полиция и Росгвардия целый день били москвичей](2019/07/27/81396-27-iyulya-fotografii.md)
 
 Несанкционированная акция началась днем у здания столичной мэрии. Позднее под давлением силовиков протестующие рассредоточились по близлежащим улицам и переулкам. Затем участники акции собрались на Трубной площади — туда призывали прийти независимые кандидаты Илья Яшин, Юлия Галямина, Иван Жданов и Любовь Соболь, которых отпустили после утреннего задержания.
 
-Собравшихся на Трубной силовики окружили и начали жестко задерживать. Соболь, Галямину, Жданова и Яшина вновь задержали и отвезли в отдел полиции. Они [анонсировали](https://www.novayagazeta.ru/news/2019/07/27/153728-ilya-yashin-anonsiroval-provedenie-novoy-aktsii-protesta-3-avgusta) новую акцию протеста накануне рассмотрения апелляций в Центральной избирательной комиссии 3 августа.
+Собравшихся на Трубной силовики окружили и начали жестко задерживать. Соболь, Галямину, Жданова и Яшина вновь задержали и отвезли в отдел полиции. Они [анонсировали](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/07/27/153728-ilya-yashin-anonsiroval-provedenie-novoy-aktsii-protesta-3-avgusta) новую акцию протеста накануне рассмотрения апелляций в Центральной избирательной комиссии 3 августа.
 
-**link:** https://novayagazeta.ru/articles/2019/07/27/81392-politsiya-obyskivaet-i-zaderzhivaet-nezavisimyh-kandidatov-v-preddverii-protestov-u-stolichnoy-merii-onlayn
+**link:** [https://novayagazeta.ru/articles/2019/07/27/81392-politsiya-obyskivaet-i-zaderzhivaet-nezavisimyh-kandidatov-v-preddverii-protestov-u-stolichnoy-merii-onlayn](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/07/27/81392-politsiya-obyskivaet-i-zaderzhivaet-nezavisimyh-kandidatov-v-preddverii-protestov-u-stolichnoy-merii-onlayn)
 
 Протесты продолжаются уже почти две недели. 14 июля состоялся митинг у здания Мосгоризбиркома, после которого Следственный комитет возбудил уголовное дело о воспрепятствовании деятельности избирательной комиссии (ст. 141 УК). Кандидаты проходят по нему в качестве свидетелей.

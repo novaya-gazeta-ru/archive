@@ -21,4 +21,4 @@ tags: ""
 
 О похожей схеме в августе 2025 года [рассказывали](https://www.fontanka.ru/2025/08/11/75818239/) петербургские СМИ: тогда мошенники вынудили 45 «асоциальных» петербуржцев подписать контракт якобы на льготных условиях. После этого фигуранты похищали положенные жертвам выплаты.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/10/10/v-peterburge-zaderzhali-avtorov-skhemy-s-otpravkoi-negodnykh-k-sluzhbe-dobrovoltsev-na-svo-postradavshikh-bolee-40-nekotorye-uzhe-pogibli-news
+**Читайте также:** [В Петербурге задержали авторов схемы с отправкой негодных к службе добровольцев на СВО. Пострадавших более 40, некоторые уже погибли](2025/10/10/v-peterburge-zaderzhali-avtorov-skhemy-s-otpravkoi-negodnykh-k-sluzhbe-dobrovoltsev-na-svo-postradavshikh-bolee-40-nekot.md)

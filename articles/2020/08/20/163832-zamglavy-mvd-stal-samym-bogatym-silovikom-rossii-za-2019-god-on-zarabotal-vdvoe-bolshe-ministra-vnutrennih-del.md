@@ -19,7 +19,7 @@ tags: "ng                             , мвд, силовики, деклара
 
 Шулика был [назначен ](https://xn--b1aew.xn--p1ai/mvd/Rukovodstvo/item/11939147/)на должность заместителя министра внутренних дел в декабре 2017 года. В ведомстве он [занимается ](https://tass.ru/interviews/5691444)в том числе госзакупками и техническим оснащением министерства.
 
-**link:** https://novayagazeta.ru/articles/2019/04/17/80254-chem-bolshe-osobnyaki-tem-huzhe-upravlenie
+**link:** [Чем больше особняки, тем хуже управление](2019/04/17/80254-chem-bolshe-osobnyaki-tem-huzhe-upravlenie.md)
 
 Среди руководителей силовых ведомств наибольший доход у главы ФСБ Александра Бортникова — он [составляет](http://static.government.ru/media/files/MHvQS160MZshfOcPSVScIgEP8iDG9Raq.pdf) 13,6 миллиона рублей, [глава ](http://fso.gov.ru/protivod_korupz/sved_dohod_rashod/)ФСО Дмитрий Кочнев за 2019 год заработал 12,7 миллиона, [министр ](http://static.government.ru/media/files/MHvQS160MZshfOcPSVScIgEP8iDG9Raq.pdf)обороны Сергей Шойгу — 12,6 миллиона, [глава](https://sledcom.ru/Protivodejstvie_korrupcii/gain) СК Александр Бастрыкин — 12,5 миллиона.
 

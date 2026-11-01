@@ -93,7 +93,7 @@ tags: "арабо-израильский конфликт, цахал, теро�
 
 — Нет, это не пройдет. И я считаю, что справка должна быть не от семейного врача, а от психиатра, потому что людей неадекватных много.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/12/08/otmazki-nikto-ne-primet
+**Читайте также:** [https://novayagazeta.ru/articles/2023/12/08/otmazki-nikto-ne-primet](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/12/08/otmazki-nikto-ne-primet)
 
 **— Какие виды оружия выдают?**
 
@@ -180,4 +180,4 @@ tags: "арабо-израильский конфликт, цахал, теро�
 
 * **Израиль * **
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/12/11/ostalos-poltora-mesiatsa
+**Читайте также:** [Осталось полтора месяца](2023/12/11/ostalos-poltora-mesiatsa.md)

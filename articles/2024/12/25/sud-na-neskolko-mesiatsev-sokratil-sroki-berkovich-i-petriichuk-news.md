@@ -25,4 +25,4 @@ tags: "беркович, петрийчук, апелляция, суды"
 
 **власти РФ считают «иноагентом»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/12/24/veshch-nebanalnost-zla-v-dele-berkovich-i-petriichuk
+**Читайте также:** [ВЕЩЬ.DOC. Небанальность зла в деле Беркович и Петрийчук](2024/12/24/veshch-nebanalnost-zla-v-dele-berkovich-i-petriichuk.md)

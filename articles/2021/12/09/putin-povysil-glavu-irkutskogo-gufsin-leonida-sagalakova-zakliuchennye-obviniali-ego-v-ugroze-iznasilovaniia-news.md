@@ -19,18 +19,18 @@ tags: "сагалаков, сизо, иркутск, ангарск, пытки,
 
 Сагалаков с 1999 года работал в хакасской исправительной колонии №35, а в 2007 году получил должность начальника ИК-33 в Хакасии. Спустя четыре года он стал замначальника УФСИН региона. С октября 2017 года руководил УФСИН по Брянской области, а в марте 2020 назначен главой ГУФСИН по Иркутской области.
 
- Спустя месяц после его последнего назначения заключенные в ИК-15 в Ангарске [устроили](https://novayagazeta.ru/articles/2020/04/10/160602-zaklyuchennye-irkutskoy-kolonii-ustroili-bunt-na-territorii-nachalsya-pozhar) бунт и подожгли цех деревообработки. Поводом стало избиение сотрудником колонии одного из заключенных.
+ Спустя месяц после его последнего назначения заключенные в ИК-15 в Ангарске [устроили](2020/04/10/160602-zaklyuchennye-irkutskoy-kolonii-ustroili-bunt-na-territorii-nachalsya-pozhar.md) бунт и подожгли цех деревообработки. Поводом стало избиение сотрудником колонии одного из заключенных.
 
-В знак протеста 18 осужденных[порезали](https://novayagazeta.ru/articles/2020/04/10/84829-razorvali-neglasnyy-dogovor) себе вены. Спецназ жестко [подавил](https://novayagazeta.ru/articles/2020/05/14/161480-fsin-soobschila-primenenii-sily-i-spetssredstv-k-415-zaklyuchennym-pri-podavlenii-bunta-v-angarskoy-kolonii) бунт, используя «физическую силу и специальные средства» в отношении 415 заключенных, травмы получили несколько десятков человек, один [умер](https://novayagazeta.ru/news/2020/05/06/161270-zaklyuchennyy-poluchivshiy-travmu-pozvonochnika-v-hode-bunta-v-irkutskoy-kolonii-umer-v-bolnitse).
+В знак протеста 18 осужденных[порезали](2020/04/10/84829-razorvali-neglasnyy-dogovor.md) себе вены. Спецназ жестко [подавил](2020/05/14/161480-fsin-soobschila-primenenii-sily-i-spetssredstv-k-415-zaklyuchennym-pri-podavlenii-bunta-v-angarskoy-kolonii.md) бунт, используя «физическую силу и специальные средства» в отношении 415 заключенных, травмы получили несколько десятков человек, один [умер](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/05/06/161270-zaklyuchennyy-poluchivshiy-travmu-pozvonochnika-v-hode-bunta-v-irkutskoy-kolonii-umer-v-bolnitse).
 
 Издание «Тайга.Инфо» [сообщало](https://tayga.info/166704), что во время спецоперации Сагалаков якобы угрожал заключенным изнасилованием. «Он конкретно кричал на всех: «Я вас * [иметь буду] всех. Вы будете * [сношаться]». Прямо вот такими словами», — цитирует «Тайга.Инфо» бывшего заключенного ИК-15 Евгения Юрченко.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/17/na-sizo-6-v-razrabotku-petushka-iz-tebia-sdelaem
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/17/na-sizo-6-v-razrabotku-petushka-iz-tebia-sdelaem](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/17/na-sizo-6-v-razrabotku-petushka-iz-tebia-sdelaem)
 
 Осужденный Сергей Зырянов [подтвердил](https://tayga.info/173954) угрозы от Сагалакова. Позднее Зырянова обвинили в нападении на главу ГУФСИН по Иркутской области. По версии следствия, он бросил в голову Сагалакова кусок бордюра. Вину в нападении Зырянов не признает. По его словам, показания «выбили» у него силой, а позднее перевели в СИЗО-6 и изнасиловали.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/11/razrabotchiki-18
+**Читайте также:** [Разработчики (18+)](2021/10/11/razrabotchiki-18.md)
 
-Многих участников бунта перевели в этот же изолятор, а также в СИЗО-1 и ИК-2. Большинство из них [жаловались](https://novayagazeta.ru/articles/2021/09/17/na-sizo-6-v-razrabotku-petushka-iz-tebia-sdelaem) на неоднократные пытки. Следственный комитет [возбудил](https://novayagazeta.ru/articles/2021/10/11/razrabotchiki-18) уголовное дело после этих событий. Потерпевшими признали 17 заключенных ИК-15, но в деле до сих пор нет ни одного осужденного.
+Многих участников бунта перевели в этот же изолятор, а также в СИЗО-1 и ИК-2. Большинство из них [жаловались](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/17/na-sizo-6-v-razrabotku-petushka-iz-tebia-sdelaem) на неоднократные пытки. Следственный комитет [возбудил](2021/10/11/razrabotchiki-18.md) уголовное дело после этих событий. Потерпевшими признали 17 заключенных ИК-15, но в деле до сих пор нет ни одного осужденного.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/01/29/88949-oni-nasilovali-konkretno-teh-kto-za-chto-to-otvechal-v-kolonii
+**Читайте также:** [«Они насиловали конкретно тех, кто за что-то отвечал в колонии» (18+)](2021/01/29/88949-oni-nasilovali-konkretno-teh-kto-za-chto-to-otvechal-v-kolonii.md)

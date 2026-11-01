@@ -31,4 +31,4 @@ tags: ""
 
 А стрелки на часах командующего РВСН Каракаева показывали 17:54.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/21/putin-minoborony-ispytalo-novuiu-raketu-po-tseli-v-ukraine-v-otvet-na-udary-kieva-dalnoboinym-zapadnym-oruzhiem-a-konflikt-priobrel-elementy-globalnogo-news
+**Читайте также:** [Путин: Минобороны испытало новую ракету по цели в Украине в ответ на удары Киева, а конфликт «приобрел элементы глобального»](2024/11/21/putin-minoborony-ispytalo-novuiu-raketu-po-tseli-v-ukraine-v-otvet-na-udary-kieva-dalnoboinym-zapadnym-oruzhiem-a-konfli.md)

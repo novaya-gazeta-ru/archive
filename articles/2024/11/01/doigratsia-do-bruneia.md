@@ -57,7 +57,7 @@ tags: "карпин, спорт, сборная россии по футболу
 
 Так что с некими футбольными «людьми из Пакистана» Карпин играть отказался.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/22/sbornaia-rossii-po-basketbolu-razgromila-sbornuiu-kolumbii-uznav-ob-etom-iz-smi-federatsiia-kolumbii-zaiavila-chto-eto-ne-ee-komanda-news
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/22/sbornaia-rossii-po-basketbolu-razgromila-sbornuiu-kolumbii-uznav-ob-etom-iz-smi-federatsiia-kolumbii-zaiavila-chto-eto-ne-ee-komanda-news](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/22/sbornaia-rossii-po-basketbolu-razgromila-sbornuiu-kolumbii-uznav-ob-etom-iz-smi-federatsiia-kolumbii-zaiavila-chto-eto-ne-ee-komanda-news)
 
 Сбор, соответственно, превращался в дружескую встречу. Главный тренер сборной России обронил, что не знает, чем займет игроков, вызванных в Новогорск, мастер-класс с юными футболистами из Курской и Белгородской областей пришлось освещать как главное событие, игроков распустили по клубам раньше положенного, а РФС на ноябрьское окно в дополнение к матчу с сирийцами спешно нашел Пакистану замену в лице сборной Брунея. Объявлено об этом было с чувством выполненного долга: «Мы рады сообщить, что оба матча ноябрьского окна пройдут в России. Мы достигли соглашения с соперниками, согласовали даты, место и время проведения матчей. Игры будут учитываться в рейтинге ФИФА».
 

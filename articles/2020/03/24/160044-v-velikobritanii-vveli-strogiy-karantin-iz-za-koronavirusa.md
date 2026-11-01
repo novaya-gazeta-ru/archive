@@ -19,4 +19,4 @@ tags: "коронавирус, великобритания, джонсон, em"
 
 Ранее из-за ситуации с коронавирусом ограничили передвижение граждан и ряд других европейских стран, в том числе Италия и Франция. Собираться больше двух [запрещено](https://nltimes.nl/2020/03/23/dutch-start-fining-groups-defying-pandemic-rules-stop-said-rutte) и в Нидерландах. Издание Liberation [утверждало](https://www.liberation.fr/planete/2020/03/21/coronavirus-les-coulisses-du-bras-de-fer-entre-emmanuel-macron-et-boris-johnson_1782622), что ввести жесткий карантин на территории Великобритании Джонсона убедил французский лидер Эмманюэль Макрон. Всего на территории Соединенного Королевства [подтверждено](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200323-sitrep-63-covid-19.pdf?sfvrsn=d97cb6dd_2) более 5,5 тысяч случаев коронавируса, 281 человек от него скончался.
 
-**link:** https://novayagazeta.ru/articles/2020/03/23/84463-funt-sterlingov-i-funt-liha
+**link:** [Фунт стерлингов и фунт лиха](2020/03/23/84463-funt-sterlingov-i-funt-liha.md)

@@ -33,7 +33,7 @@ tags: "следствие ведут, сурков"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/05/07/1367919839_636634_43.jpg" style="width: 360px; height: 359px;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/05/07/1367919839_636634_43.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/05/07/1367919839_636634_43.jpg)" style="width: 360px; height: 359px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">

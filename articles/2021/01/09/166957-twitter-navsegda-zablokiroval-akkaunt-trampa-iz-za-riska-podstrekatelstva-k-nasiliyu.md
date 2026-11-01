@@ -23,8 +23,8 @@ tags: "sf, соцсети, блокировка, трамп"
 
 Официальный аккаунт президента США остается [активным](https://twitter.com/POTUS), но все опубликованные на нем записи удалили.
 
-**link:** https://novayagazeta.ru/articles/2021/01/07/88629-myatezh-ne-mog-zakonchitsya-udachey
+**link:** [Мятеж не мог закончиться удачей](2021/01/07/88629-myatezh-ne-mog-zakonchitsya-udachey.md)
 
-6 января десятки тысяч сторонников Трампа [собрались](https://novayagazeta.ru/news/2021/01/06/166932-GOP-against-the-order) у Капитолийского холма на митинг, где перед ними выступил президент. Позже они прорвали полицейские кордоны и ворвались в Капитолий, где заседали конгрессмены. В результате беспорядков погибли пять человек, включая офицера полиции.
+6 января десятки тысяч сторонников Трампа [собрались](https://web.archive.org/web/*/https://novayagazeta.ru/news/2021/01/06/166932-GOP-against-the-order) у Капитолийского холма на митинг, где перед ними выступил президент. Позже они прорвали полицейские кордоны и ворвались в Капитолий, где заседали конгрессмены. В результате беспорядков погибли пять человек, включая офицера полиции.
 
-После этого руководитель Facebook Inc. Марк Цукерберг [объявил](https://novayagazeta.ru/news/2021/01/07/166939-tsukerberg-akkaunty-trampa-v-sotssetyah-zamorozheny-do-kontsa-ego-prezidentskogo-sroka) о блокировке аккаунтов Трампа в Facebook и Instagram до передачи власти Байдену.
+После этого руководитель Facebook Inc. Марк Цукерберг [объявил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2021/01/07/166939-tsukerberg-akkaunty-trampa-v-sotssetyah-zamorozheny-do-kontsa-ego-prezidentskogo-sroka) о блокировке аккаунтов Трампа в Facebook и Instagram до передачи власти Байдену.

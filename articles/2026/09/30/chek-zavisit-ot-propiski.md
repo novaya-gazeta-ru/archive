@@ -131,6 +131,6 @@ tags: ""
 
 **Аналитический отдел**
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/30/chto-proiskhodit-s-tsenami-v-krasnoiarske
+**Читайте также:** [Что происходит с ценами в Красноярске](2026/09/30/chto-proiskhodit-s-tsenami-v-krasnoiarske.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/30/chto-proiskhodit-s-tsenami-v-sankt-peterburge
+**Читайте также:** [Что происходит с ценами в Санкт-Петербурге](2026/09/30/chto-proiskhodit-s-tsenami-v-sankt-peterburge.md)

@@ -13,10 +13,10 @@ tags: "цены, инфляция, рост цен, опрос, соучастн
 
 *Как дорожают продукты питания по ощущениями соучастников «Новой»*
 
-https://novayagazeta.ru/svg/ba7f23504a5e4637be96bde99b745da1.svg
+[https://novayagazeta.ru/svg/ba7f23504a5e4637be96bde99b745da1.svg](https://web.archive.org/web/*/https://novayagazeta.ru/svg/ba7f23504a5e4637be96bde99b745da1.svg)
 
 > **ЧИТАЙТЕ ПО ТЕМЕ**
 >
-> [**Здравствуй, цены, новый год! **Собкоры «Новой» замеряют реальную инфляцию по стране](https://novayagazeta.ru/articles/2021/12/20/zdravstvui-tseny-novyi-god)
+> [**Здравствуй, цены, новый год! **Собкоры «Новой» замеряют реальную инфляцию по стране](2021/12/20/zdravstvui-tseny-novyi-god.md)
 >
-> [**Кино на хлеб не намажешь. **Современная учительница приценилась к новогоднему столу Нади из «Иронии судьбы»](https://novayagazeta.ru/articles/2021/12/20/kino-na-khleb-ne-namazhesh)
+> [**Кино на хлеб не намажешь. **Современная учительница приценилась к новогоднему столу Нади из «Иронии судьбы»](2021/12/20/kino-na-khleb-ne-namazhesh.md)

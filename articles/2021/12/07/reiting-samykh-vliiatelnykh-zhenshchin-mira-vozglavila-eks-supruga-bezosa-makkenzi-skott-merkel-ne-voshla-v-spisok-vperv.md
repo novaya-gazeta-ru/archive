@@ -19,8 +19,8 @@ tags: "маккензи скот, безос, forbes, меркель, влият
 
 Ранее 10 лет подряд список возглавляла Меркель, но с уходом из политики она выбыла и из рейтинга. При этом в рейтинг попали другие европейские женщины-лидеры — премьер Дании Метте Фредериксен и глава Еврокомиссии Урсула фон дер Ляйен.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/04/ia-ne-byla-rozhdena-kantslerom-i-ia-ob-etom-pomniu
+**Читайте также:** [https://novayagazeta.ru/articles/2021/12/04/ia-ne-byla-rozhdena-kantslerom-i-ia-ob-etom-pomniu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/12/04/ia-ne-byla-rozhdena-kantslerom-i-ia-ob-etom-pomniu)
 
 Единственной представительницей России в списке четвертый год подряд остается глава Центробанка Эльвира Набиуллина, она занимает 60-ю позицию.
 
-До 2017 года в список также [входила](https://novayagazeta.ru/articles/2018/12/04/147313-angela-merkel-vozglavila-spisok-100-samyh-vliyatelnyh-zhenschin-mira-po-versii-forbes) главный редактор Russia Today Маргарита Симоньян.
+До 2017 года в список также [входила](2018/12/04/147313-angela-merkel-vozglavila-spisok-100-samyh-vliyatelnyh-zhenschin-mira-po-versii-forbes.md) главный редактор Russia Today Маргарита Симоньян.

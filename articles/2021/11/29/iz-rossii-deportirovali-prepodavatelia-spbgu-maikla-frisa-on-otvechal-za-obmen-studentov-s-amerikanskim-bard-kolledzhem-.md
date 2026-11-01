@@ -27,9 +27,9 @@ tags: "спбгу, бард-колледж, кудрин, депортация, 
 
 В июне 2021 года Генпрокуратура РФ признала деятельность американского университета Бард-колледж «нежелательной» и «угрожающей основам конституционного строя и безопасности» России.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/25/shekspir-i-shubert-podryvaiut-rossiiu
+**Читайте также:** [https://novayagazeta.ru/articles/2021/06/25/shekspir-i-shubert-podryvaiut-rossiiu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/06/25/shekspir-i-shubert-podryvaiut-rossiiu)
 
-Бард-колледж — один из партнеров факультета свободных искусств и наук СПбГУ. Сам вуз ранее [заявлял](https://novayagazeta.ru/articles/2021/06/21/genprokuratura-priznala-nezhelatelnoi-organizatsiei-amerikanskii-bard-kolledzh-s-nim-sotrudnichaet-fakultet-kudrina-v-spbgu), что история сотрудничества с американским колледжем «уходит корнями в конец прошлого века».
+Бард-колледж — один из партнеров факультета свободных искусств и наук СПбГУ. Сам вуз ранее [заявлял](2021/06/21/genprokuratura-priznala-nezhelatelnoi-organizatsiei-amerikanskii-bard-kolledzh-s-nim-sotrudnichaet-fakultet-kudrina-v-sp.md), что история сотрудничества с американским колледжем «уходит корнями в конец прошлого века».
 
 Деканом факультета свободных искусств и наук СПбГУ является председатель Счетной палаты РФ Алексей Кудрин. Он [планировал](https://www.vedomosti.ru/career/characters/2021/03/05/860319-aleksei-kudrin) создать на базе факультета отдельный университет и возглавить его. Нынешний факультет задумывался как подразделение, «основанное на принципах либерального образования».
 

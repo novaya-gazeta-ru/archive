@@ -27,4 +27,4 @@ tags: ""
 
 Арт-объект появился на Марсовом поле в Петербурге 14 января.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/12/i-park-prevratilsia-v-parking
+**Читайте также:** [Вместо дубов посадят судей](2022/01/12/i-park-prevratilsia-v-parking.md)

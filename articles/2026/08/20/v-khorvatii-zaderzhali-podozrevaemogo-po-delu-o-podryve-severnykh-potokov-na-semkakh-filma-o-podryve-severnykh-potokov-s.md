@@ -27,4 +27,4 @@ tags: "северный поток, диверсия"
 
 -
 
-Журавлев — второй задержанный по делу о подрыве «Северных потоков». Перед этим в Италии задержали украинца Сергея Кузнецова: итальянский суд [решил](https://novayagazeta.ru/articles/2025/10/27/italianskii-sud-obiazal-vydat-germanii-ukraintsa-podozrevaemogo-v-podryve-severnykh-potokov-news) его экстрадировать в Германию.
+Журавлев — второй задержанный по делу о подрыве «Северных потоков». Перед этим в Италии задержали украинца Сергея Кузнецова: итальянский суд [решил](2025/10/27/italianskii-sud-obiazal-vydat-germanii-ukraintsa-podozrevaemogo-v-podryve-severnykh-potokov-news.md) его экстрадировать в Германию.

@@ -19,7 +19,7 @@ tags: "ученые, арест"
 
 Александру Луканину 64 года. Официально он на пенсии. По словам друзей, пенсия у ученого небольшая. С женой развелся, живет в общежитии. Выдвинутые обвинения друзья Александра называют чушью.
 
-**link:** https://novayagazeta.ru/news/2020/10/03/164661-sud-v-tomske-rassmatrival-materialy-dela-fizika-lukanina-bez-ego-advokata-blizkim-uchenogo-neizvestno-ego-mestopolozhenie
+**link:** [https://novayagazeta.ru/news/2020/10/03/164661-sud-v-tomske-rassmatrival-materialy-dela-fizika-lukanina-bez-ego-advokata-blizkim-uchenogo-neizvestno-ego-mestopolozhenie](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/10/03/164661-sud-v-tomske-rassmatrival-materialy-dela-fizika-lukanina-bez-ego-advokata-blizkim-uchenogo-neizvestno-ego-mestopolozhenie)
 
 # «Везде был к месту»
 
@@ -71,7 +71,7 @@ tags: "ученые, арест"
 
 По словам друзей Александра, его бывшая супруга Ольга сказала, что вмешиваться в это дело не хочет. Дочка его находится за границей. Так что хлопотать за задержанного, кроме них, особо некому. Именно они пошли в местное отделение ФСБ и СИЗО, но никакой информации не получили.
 
-**link:** https://novayagazeta.ru/articles/2020/07/09/86211-rossiya-na-izmene
+**link:** [Россия на измене](2020/07/09/86211-rossiya-na-izmene.md)
 
 «Сейчас будем договариваться с адвокатом, который начнет отсылать запросы. Но ведь и адвокаты не будут допущены. Только на суде материалы принесут, да еще и предупредят о распространении информации. И как адвокат будет проверять эту чепуху, которую они выложат на суде? Никак. Он же не может начать людей спрашивать по этому вопросу. Будет считаться, что это распространение. Бредятина. Я не жил в 37-м году, но идиотизм что-то напоминает», — говорит Сергей Жабин.
 

@@ -19,6 +19,6 @@ tags: "ng, COVID-19, вакцинация, беременность"
 
 Ранее во Всемирной организации здравоохранения (ВОЗ) [отметили](https://reliefweb.int/report/world/who-sage-roadmap-prioritizing-uses-covid-19-vaccines-context-limited-supply-approach), что при беременности повышен риск тяжелого течения коронавируса. К группе риска отнесли беременных старше 35 лет и женщин с сопутствующими заболеваниями.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu)
 
 В конце июня Минздрав России [разрешил](https://www.interfax.ru/russia/773911) прививать российской вакциной от COVID-19 «Спутник V» беременных. «Таким образом открыта возможность вакцинации беременных с высоким риском тяжелого течения заболевания коронавирусной инфекции», — сказал тогда глава ведомства Михаил Мурашко.

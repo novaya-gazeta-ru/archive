@@ -15,7 +15,7 @@ tags: ""
 
 «Telegram был заблокирован в России — и все же 65 миллионов россиян ежедневно используют его через VPN, а более 50 миллионов отправляют сообщения каждый день», — привел статистику Дуров.
 
-В качестве аргумента неуклюжести государственных блокировок Дуров использовал вчерашний короткий [шатдаун банковской системы](https://novayagazeta.ru/articles/2026/04/03/prichinoi-sboia-bankovskikh-servisov-mogla-stat-massovaia-blokirovka-ip-adresov-pod-nee-popala-kriticheskaia-infrastruktura-news) в России:
+В качестве аргумента неуклюжести государственных блокировок Дуров использовал вчерашний короткий [шатдаун банковской системы](2026/04/03/prichinoi-sboia-bankovskikh-servisov-mogla-stat-massovaia-blokirovka-ip-adresov-pod-nee-popala-kriticheskaia-infrastrukt.md) в России:
 
 > «Их попытки блокировки привели к масштабному банковскому кризису — вчера на короткое время наличные стали единственным способом оплаты по всей стране».
 

@@ -97,4 +97,4 @@ tags: ""
 
 **Даниил Черяпкин**
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/02/voina-oshibok
+**Читайте также:** [Война ошибок](2026/03/02/voina-oshibok.md)

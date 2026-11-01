@@ -25,6 +25,6 @@ tags: "смерть, дождь, ng"
 
 Дмитрий Казнин также работал на радиостанциях «Сити FM» и «Москва FM». На «Дожде» он был одним из тех, кто работал с самого основания канала.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/24/vvedenie-tsenzury-i-zapreta-na-professiiu
+**Читайте также:** [https://novayagazeta.ru/articles/2021/08/24/vvedenie-tsenzury-i-zapreta-na-professiiu](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/08/24/vvedenie-tsenzury-i-zapreta-na-professiiu)
 
 #### *Внесено Минюстом в список СМИ, выполняющих функцию иностранного агента

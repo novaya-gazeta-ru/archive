@@ -21,6 +21,6 @@ tags: "олени, браконьеры, красноярский край, уб
 
 По данным местных СМИ, олени [совершали](https://krasnoyarskmedia.ru/news/1144187/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews%2Finstory%2FMassovaya_gibel_severnykh_dikikh_olenej_proizoshla_vKrasnoyarskom_krae—3f3a0daa536190081a4c8e432e0c8831) миграционный переход с Таймыра в Эвенкию, и их путь пролегал около села Хатанга. Тела мертвых оленей разных возрастов остались лежать нетронутыми на протяжении спуска от поселка до берега реки Казачья. Местные охотники считают, что оленей расстреляли браконьеры «из спортивного интереса».
 
-**Читайте также:** https://novayagazeta.ru/articles/2017/02/01/71363-strelyayut-pod-koren
+**Читайте также:** [Стреляют под корень](2017/02/01/71363-strelyayut-pod-koren.md)
 
 Дикий северный олень стремительно исчезает в арктической зоне России. Случаи массового браконьерства в районе села Хатанга Красноярского края [происходили](https://wwf.ru/resources/news/bioraznoobrazie/v-krasnoyarskom-krae-vyyavleny-sluchai-massovogo-brakonerstva-na-severnogo-olenya/) в 2017 году. Тогда, по подсчетам специалистов, было уничтожено около 20 тысяч оленей. В этом году около 70 тысяч оленей [осуществляют](https://www.rgo.ru/ru/article/zhivaya-reka-okolo-70-tysyach-severnyh-oleney-sfotografirovali-v-krasnoyarskom-krae) сезонный миграционный переход к местам зимовки.

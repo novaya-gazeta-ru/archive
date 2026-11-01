@@ -15,6 +15,6 @@ tags: ""
 
 **Произведено: «НО. Медиа из России»:** https://www.youtube.com/watch?v=5vMhfcX5m6o
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/30/budushchee-ekonomiki-rossii
+**Читайте также:** [Будущее экономики России](2024/10/30/budushchee-ekonomiki-rossii.md)
 
 #### * Минюст РФ признал иноагентом.

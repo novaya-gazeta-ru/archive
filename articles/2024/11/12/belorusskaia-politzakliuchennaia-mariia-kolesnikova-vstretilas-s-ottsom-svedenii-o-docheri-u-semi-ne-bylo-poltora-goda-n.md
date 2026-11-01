@@ -31,4 +31,4 @@ tags: ""
 
 В октябре 2024 года Лукашенко заявил, что может рассмотреть помилование Колесниковой, если якобы «будет прошение» об этом.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/12/est-li-v-belarusi-iadernoe-oruzhie-i-pochemu-ei-pridetsia-vstupit-v-nato
+**Читайте также:** [https://novayagazeta.ru/articles/2024/11/12/est-li-v-belarusi-iadernoe-oruzhie-i-pochemu-ei-pridetsia-vstupit-v-nato](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/11/12/est-li-v-belarusi-iadernoe-oruzhie-i-pochemu-ei-pridetsia-vstupit-v-nato)

@@ -65,4 +65,4 @@ tags: "петербург, лдпр, нева, черный пиар, съемк
 
 — Нет-нет, это не я, я ничего не снимаю вообще.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/25/voennyi-parad-bez-zritelei-sobral-na-naberezhnykh-peterburga-tysiachi-chelovek
+**Читайте также:** [Военный парад «без зрителей» собрал на набережных Петербурга тысячи человек](2021/07/25/voennyi-parad-bez-zritelei-sobral-na-naberezhnykh-peterburga-tysiachi-chelovek.md)

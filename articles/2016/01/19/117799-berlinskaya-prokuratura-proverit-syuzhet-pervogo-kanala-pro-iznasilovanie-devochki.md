@@ -21,12 +21,12 @@ tags: "германия, мигранты, первый канал, прокур
 
 «Сам автор лживой информации работает в Берлине. На данный период его сюжет с немецкими субтитрами в «Фейсбуке» просмотрело более 1,3 млн человек. Более 28 тысяч из них оставили почти 3,5 тысячи злобных ксенофобских комментариев. Они разжигают ненависть к беженцам и поощряют насилие, другие противоправные меры против личности», — заявил Луитл.
 
-*[media: <p><a href="http://www.novayagazeta.ru/politics/71376.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2016/01/09/1452339378_799140_98.png" style="width: 100px; height: 59px;"></a><span style="color:#B22222;"><strong>Читайте также</strong></span><span><strong>:</strong></span></p>
+*[media: <p><a href="[http://www.novayagazeta.ru/politics/71376.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/71376.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2016/01/09/1452339378_799140_98.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2016/01/09/1452339378_799140_98.png)" style="width: 100px; height: 59px;"></a><span style="color:#B22222;"><strong>Читайте также</strong></span><span><strong>:</strong></span></p>
 
-<p><a href="http://www.novayagazeta.ru/politics/71376.html" target="_blank"><strong>Преступления новогодней ночи в Кельне: что Европе делать с мигрантами</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/politics/71376.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/71376.html)" target="_blank"><strong>Преступления новогодней ночи в Кельне: что Европе делать с мигрантами</strong></a></p>]*
 
-Ранее полиция Берлина официально [опровергла](http://www.novayagazeta.ru/news/1699421.html) информацию «Первого канала».
+Ранее полиция Берлина официально [опровергла](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1699421.html) информацию «Первого канала».
 
 Сюжет о 13-летней девочке, якобы похищенной и изнасилованной мигрантами в Берлине, вышел в эфир 16 января в вечернем выпуске программы «Время».
 
-Напомним, в предновогоднюю ночь в Кельне толпа мужчин арабского и североафриканского происхождения в состоянии алкогольного и наркотического опьянения начала взрывать петарды в толпе, а после стала [нападать](http://www.novayagazeta.ru/news/1699181.html) на женщин. В полицию поступило уже более 600 заявлений о домогательствах, грабежах и изнасилованиях. Канцлер ФРГ Ангела Меркель [пригрозила](http://www.novayagazeta.ru/news/1699194.html) ускорить процедуру депортации мигрантов на родину.
+Напомним, в предновогоднюю ночь в Кельне толпа мужчин арабского и североафриканского происхождения в состоянии алкогольного и наркотического опьянения начала взрывать петарды в толпе, а после стала [нападать](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1699181.html) на женщин. В полицию поступило уже более 600 заявлений о домогательствах, грабежах и изнасилованиях. Канцлер ФРГ Ангела Меркель [пригрозила](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/1699194.html) ускорить процедуру депортации мигрантов на родину.

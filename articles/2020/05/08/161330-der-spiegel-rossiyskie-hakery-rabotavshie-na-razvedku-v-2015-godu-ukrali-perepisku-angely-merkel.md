@@ -21,4 +21,4 @@ tags: "sn, хакеры, переписка, меркель"
 
 Der Spiegel отмечает, что срок давности по этому преступлению истекает в конце месяца. Ранее стало известно, что Генпрокуратура ФРГ объявило в уголовный розыск россиянина Дмитрия Бадина из группировки Fancy Bear, которого [заподозрили](https://www.sueddeutsche.de/politik/hack-bundestag-angriff-russland-1.4891668) в причастности к кибератаке на Бундестаг.
 
-**link:** https://novayagazeta.ru/articles/2018/10/27/78368-vzlamyvat-teh-kto-nas-vzlamyvaet
+**link:** [«Взламывать тех, кто нас взламывает»](2018/10/27/78368-vzlamyvat-teh-kto-nas-vzlamyvaet.md)

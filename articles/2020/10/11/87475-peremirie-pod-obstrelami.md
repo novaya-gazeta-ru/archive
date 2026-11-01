@@ -15,4 +15,4 @@ tags: "азербайджан, армения, нагорный карабах"
 
 **Перейти к оригиналу материала**
 
-**link:** https://novayagazeta.ru/articles/2020/10/08/87430-nagornaya-myasorubka
+**link:** [Под ударом — Ереван и Баку?](2020/10/08/87430-nagornaya-myasorubka.md)

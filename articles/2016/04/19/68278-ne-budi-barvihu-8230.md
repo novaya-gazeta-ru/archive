@@ -13,7 +13,7 @@ tags: "выборы, московская область, навальный, п
 
 *Досрочные выборы в подмосковном поселке — тест для нового председателя ЦИК Эллы Памфиловой*
 
-**link:** https://novayagazeta.ru/news/1702605.html
+**link:** [https://novayagazeta.ru/news/1702605.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1702605.html)
 
 ![](_assets/83/83b6d3e1384c3246a55118626ef963b7.webp)
 

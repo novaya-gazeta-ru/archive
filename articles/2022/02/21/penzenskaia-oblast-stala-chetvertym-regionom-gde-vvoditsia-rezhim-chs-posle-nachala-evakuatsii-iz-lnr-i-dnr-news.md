@@ -17,15 +17,15 @@ tags: "донбасс, днр, лнр, эвакуация, ai"
 
 Режим ЧС в связи с прибытием беженцев Донбасса введен также на территории [Саратовской](https://t.me/tass_agency/110459) и [Волгоградской](https://t.me/rian_ru/146731), [Орловской](https://t.me/bbbreaking/115126) и [Ульяновской](https://t.me/bbbreaking/115132) областей.
 
-Накануне аналогичные меры приняли в [Курской](https://ria.ru/20220220/bezhentsy-1773956279.html) и [Воронежской](https://novayagazeta.ru/articles/2022/02/20/v-voronezhskoi-oblasti-vsled-za-rostovskoi-vveli-rezhim-chs-posle-nachala-evakuatsii-bezhentsev-iz-dnr-i-lnr-news) областях. Первым о введении режима ЧС заявило правительство [Ростовской](https://novayagazeta.ru/articles/2022/02/19/v-rostovskoi-oblasti-obiavili-rezhim-chs-posle-nachala-evakuatsii-iz-dnr-i-lnr-news) области.
+Накануне аналогичные меры приняли в [Курской](https://ria.ru/20220220/bezhentsy-1773956279.html) и [Воронежской](2022/02/20/v-voronezhskoi-oblasti-vsled-za-rostovskoi-vveli-rezhim-chs-posle-nachala-evakuatsii-bezhentsev-iz-dnr-i-lnr-news.md) областях. Первым о введении режима ЧС заявило правительство [Ростовской](2022/02/19/v-rostovskoi-oblasti-obiavili-rezhim-chs-posle-nachala-evakuatsii-iz-dnr-i-lnr-news.md) области.
 
 По [информации](https://t.me/rbc_news/42522) МЧС, на сегодняшний день в Россию приехали уже более 61 тыс человек из «ДНР» и «ЛНР».
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/19/gotovnost-soglashatsia-s-iadovitoi-chushiu-legitimiziruet-budushchuiu-voinu
+**Читайте также:** [«Готовность соглашаться с ядовитой чушью легитимизирует будущую войну»](2022/02/19/gotovnost-soglashatsia-s-iadovitoi-chushiu-legitimiziruet-budushchuiu-voinu.md)
 
 Об эвакуации местных жителей главы «ДНР» и «ЛНР» объявили в пятницу, 18 февраля. Выехать, по оценкам властей, должны будут около 700 тысяч человек. В «ДНР» и «ЛНР» это решение объяснили якобы готовящимися военными действиями со стороны Украины. В Киеве отрицают эту информацию. «Мы категорически опровергаем сообщения российской пропаганды о якобы наступательных операциях Украины <…>. Украина не проводит и не планирует никаких подобных действий на Донбассе», — [написал](https://twitter.com/DmytroKuleba/status/1494666919110221827) в твиттере министр иностранных дел страны Дмитрий Кулеба.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/18/zhitelei-donbassa-massovo-evakuiruiut-v-rostov-na-donu-glavnoe
+**Читайте также:** [Жителей Донбасса массово эвакуируют в Ростов-на-Дону. Главное](2022/02/18/zhitelei-donbassa-massovo-evakuiruiut-v-rostov-na-donu-glavnoe.md)
 
 *Обновлено в 09:53. Добавлена информация о Саратовской области*
 

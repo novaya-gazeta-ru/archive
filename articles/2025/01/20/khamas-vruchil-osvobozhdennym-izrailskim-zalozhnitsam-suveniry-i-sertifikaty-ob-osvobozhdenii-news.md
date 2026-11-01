@@ -25,4 +25,4 @@ tags: "хамас, израиль, прекращение огня, заложн
 
 - 19 января вступило в силу [соглашение](https://t.me/novaya_pishet/49243) между Израилем и ХАМАС о прекращении огня, первый этап рассчитан на 42 дня. В ответ на освобождение израильских заложниц Тель-Авив выпустил 69 женщин и 20 мужчин (из них восемь — несовершеннолетние) из числа палестинских заключенных, [сообщает](https://www.timesofisrael.com/liveblog_entry/israel-releases-90-palestinian-security-prisoners-in-exchange-for-3-hostages/) The Times of Israel.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/18/chto-zhdat-na-sleduiushchii-den
+**Читайте также:** [Что ждать «на следующий день»?](2025/01/18/chto-zhdat-na-sleduiushchii-den.md)

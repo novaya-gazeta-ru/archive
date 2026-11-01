@@ -29,4 +29,4 @@ tags: ""
 \
  **Требуем возбуждения уголовного дела в отношении прокурора Коржинека**
 
-**[CБОР ПОДПИСЕЙ](http://www.novayagazeta.ru/vote2010_4/)**
+**[CБОР ПОДПИСЕЙ](https://web.archive.org/web/*/http://www.novayagazeta.ru/vote2010_4/)**

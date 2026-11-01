@@ -21,6 +21,6 @@ tags: ""
 
 **Произведено: «НО. Медиа из России»:** https://youtu.be/32pYwvvBljI
 
-Отец Андрей — философ и публицист, друг и автор «Новой» и сооснователь проекта, который помогает антивоенным священникам в изгнании. В пятницу его [назначили «иноагентом»](https://novayagazeta.ru/articles/2025/08/22/miniust-poschital-inoagentami-protoiereia-andreia-kordochkina-i-sistemnogo-politologa-sergeia-markova-news), и о своем отношении к этому отец Андрей тоже рассказывает в этом видео.
+Отец Андрей — философ и публицист, друг и автор «Новой» и сооснователь проекта, который помогает антивоенным священникам в изгнании. В пятницу его [назначили «иноагентом»](2025/08/22/miniust-poschital-inoagentami-protoiereia-andreia-kordochkina-i-sistemnogo-politologa-sergeia-markova-news.md), и о своем отношении к этому отец Андрей тоже рассказывает в этом видео.
 
 #### * Минюст РФ считает «иноагентом».

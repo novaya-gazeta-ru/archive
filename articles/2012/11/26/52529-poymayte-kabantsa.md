@@ -16,17 +16,17 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right" style="">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/11/26/1353947640_299145_98.jpg" style="width: 360px; height: 295px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/11/26/1353947640_299145_98.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/26/1353947640_299145_98.jpg)" style="width: 360px; height: 295px;"><br>
 				<sup>Генерал Кабанец (второй справа)</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/11/26/1353947640_603377_5.jpg" style="width: 360px; height: 288px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/11/26/1353947640_603377_5.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/26/1353947640_603377_5.jpg)" style="width: 360px; height: 288px;"><br>
 				<sup>Герой Советского Союза Витя Хохол</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right" style="">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/11/26/1353947640_888780_13.jpg" style="width: 360px; height: 307px;"><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/11/26/1353947640_888780_13.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/26/1353947640_888780_13.jpg)" style="width: 360px; height: 307px;"><br>
 				<sup>«Ксива» Кабанца</sup></td>
 		</tr>
 		<tr>
@@ -57,7 +57,7 @@ tags: ""
 
 Сначала «чекист» охотно общался с бизнесменом и даже рассказывал, как якобы «утрясает» вопрос в администрации президента, на Лубянке и с советником губернатора Сергея Шойгу. Однако через некоторое время перестал отвечать на звонки, а его помощник по фамилии Олейников сообщил, что «Виктор Григорьевич перенес инсульт и находится в закрытом госпитале»
 
-Пока Кабанец «лечился» в закрытом госпитале, Владимир случайно наткнулся в интернете на [статью в «Новой газете»](http://www.novayagazeta.ru/inquests/44565.html) (№ 67 от 26 июня 2009 г.) о Вите Хохле и забил тревогу.
+Пока Кабанец «лечился» в закрытом госпитале, Владимир случайно наткнулся в интернете на [статью в «Новой газете»](https://web.archive.org/web/*/http://www.novayagazeta.ru/inquests/44565.html) (№ 67 от 26 июня 2009 г.) о Вите Хохле и забил тревогу.
 
 О Викторе Кабанце, который несколько лет подряд безнаказанно «кидает» российских бизнесменов и чиновников нужно рассказать особо.
 

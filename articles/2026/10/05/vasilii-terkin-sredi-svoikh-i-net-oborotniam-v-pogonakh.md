@@ -97,4 +97,4 @@ tags: ""
 
 *Фото: Агентство «Москва»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/09/02/izbegaia-chrezmernogo-umileniia
+**Читайте также:** [«Избегая чрезмерного умиления»](2026/09/02/izbegaia-chrezmernogo-umileniia.md)

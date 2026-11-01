@@ -27,10 +27,10 @@ tags: ""
 
 Ранее стало известно, что [США](https://t.me/novaya_pishet/48213) и некоторые страны ЕС разрешили Украине использовать свои ракеты для ударов по военным объектам в России.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/18/prezident-frantsii-daet-razreshenie-na-dalnoboinye-udary-po-rossiiskim-voennym-obektam-istochnik-novoi-news
+**Читайте также:** [Президент Франции дает разрешение на дальнобойные удары по российским военным объектам — источник «Новой»](2024/11/18/prezident-frantsii-daet-razreshenie-na-dalnoboinye-udary-po-rossiiskim-voennym-obektam-istochnik-novoi-news.md)
 
-19 ноября Минобороны РФ [подтвердило](https://novayagazeta.ru/articles/2024/11/19/minoborony-rf-zaiavilo-o-pervom-udare-ukrainy-raketami-atacms-po-voennomu-obektu-v-brianskoi-oblasti-news) удар по объекту в Брянской области американскими ракетами ATACMS, а 21 ноября рассказало о сбитии двух ракет Storm Shadow в небе над Курской областью.
+19 ноября Минобороны РФ [подтвердило](2024/11/19/minoborony-rf-zaiavilo-o-pervom-udare-ukrainy-raketami-atacms-po-voennomu-obektu-v-brianskoi-oblasti-news.md) удар по объекту в Брянской области американскими ракетами ATACMS, а 21 ноября рассказало о сбитии двух ракет Storm Shadow в небе над Курской областью.
 
 Кремль в ответ на решение США [заявил](https://t.me/novaya_pishet/48213) о «качественно новом витке напряженности». Путин утвердил новую ядерную доктрину: она предусматривает возможность применения ядерного оружия при информации о «массированном старте средств воздушно-космического нападения» — то есть не только ракет, но и беспилотников, которые уже бьют по территории России.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/19/putin-utverdil-novuiu-iadernuiu-doktrinu-po-nei-primeniat-iadernoe-oruzhie-mozhno-dazhe-v-otvet-na-ataki-bpla-news
+**Читайте также:** [Путин утвердил новую ядерную доктрину — по ней применять ядерное оружие можно даже в ответ на атаки БПЛА](2024/11/19/putin-utverdil-novuiu-iadernuiu-doktrinu-po-nei-primeniat-iadernoe-oruzhie-mozhno-dazhe-v-otvet-na-ataki-bpla-news.md)

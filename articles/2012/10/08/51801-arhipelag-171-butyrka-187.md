@@ -28,7 +28,7 @@ tags: "тюрьмы"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right" style="">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/08/1349687552_352479_20.jpg" style="width: 200px; height: 262px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/08/1349687552_352479_20.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/08/1349687552_352479_20.jpg)" style="width: 200px; height: 262px; "><br>
 				<sup>Фото: Лена Керн</sup></td>
 		</tr>
 	</tbody>]*
@@ -48,7 +48,7 @@ tags: "тюрьмы"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right" style="">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/10/08/1349654481_007809_32.jpg" style="width: 350px; height: 301px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/10/08/1349654481_007809_32.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/10/08/1349654481_007809_32.jpg)" style="width: 350px; height: 301px; "><br>
 				<sup>Бутырская тюрьма (спутниковый снимок Google)</sup></td>
 		</tr>
 	</tbody>]*

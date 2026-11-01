@@ -27,8 +27,8 @@ tags: "акции протеста, ереван, оппозиция, пашин
 
 Кроме того, на площадь Республики привезли снег, люди одеты в белое — символ чистоты.
 
-**link:** https://novayagazeta.ru/articles/2018/05/07/76396-oni-postupayut-tak-kak-tridtsat-let-nazad-postupali-my
+**link:** [«Они поступают так, как тридцать лет назад поступали мы»](2018/05/07/76396-oni-postupayut-tak-kak-tridtsat-let-nazad-postupali-my.md)
 
-В Армении с середины апреля идут акции протеста против власти и коррупции в стране. 1 мая парламент [отказался](https://www.novayagazeta.ru/news/2018/05/01/141377-parlament-armenii-otkazalsya-naznachit-pashinyana-premier-ministrom) утвердить Пашиняна на должности премьера: за него проголосовали 45 парламентариев, для избрания необходимы голоса 53.
+В Армении с середины апреля идут акции протеста против власти и коррупции в стране. 1 мая парламент [отказался](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/05/01/141377-parlament-armenii-otkazalsya-naznachit-pashinyana-premier-ministrom) утвердить Пашиняна на должности премьера: за него проголосовали 45 парламентариев, для избрания необходимы голоса 53.
 
-После этого оппозиционер [призвал](https://www.novayagazeta.ru/news/2018/05/02/141388-v-armenii-ne-sostoyalos-zasedanie-parlamenta-iz-za-totalnoy-aktsii-protesta) своих сторонников провести «тотальную забастовку». В итоге спустя день правящая Республиканская партия [согласилась](https://www.novayagazeta.ru/news/2018/05/02/141395-pravyaschaya-partiya-armenii-soglasilas-podderzhat-pashinyana-na-vyborah-premiera) утвердить Пашиняна на посту главы правительства.
+После этого оппозиционер [призвал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/05/02/141388-v-armenii-ne-sostoyalos-zasedanie-parlamenta-iz-za-totalnoy-aktsii-protesta) своих сторонников провести «тотальную забастовку». В итоге спустя день правящая Республиканская партия [согласилась](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/05/02/141395-pravyaschaya-partiya-armenii-soglasilas-podderzhat-pashinyana-na-vyborah-premiera) утвердить Пашиняна на посту главы правительства.

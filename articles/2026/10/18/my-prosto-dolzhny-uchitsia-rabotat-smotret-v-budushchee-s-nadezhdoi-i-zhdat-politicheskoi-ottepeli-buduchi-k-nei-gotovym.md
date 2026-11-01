@@ -11,4 +11,4 @@ tags: ""
 
 # Мы просто должны учиться, работать, смотреть в будущее с надеждой и ждать политической оттепели — будучи к ней готовыми
 
-https://novayagazeta.ru/articles/2026/10/18/za-vualiu-neizvestnosti?utm_source=cit
+[За вуалью неизвестности](2026/10/18/za-vualiu-neizvestnosti.md)

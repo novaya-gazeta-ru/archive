@@ -33,4 +33,4 @@ tags: ""
 
 Российское военно-историческое общество [участвует](https://t.me/novaya_pishet/58497) в редактуре и действующих школьных учебников истории — например, обещая добавить туда эпизод с участием военных из КНДР в боях за Курскую область. Автор нынешней редакции школьного учебника Владимир Мединский — председатель РВИО.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/26/v-spetskhrane-destruktivnoi-literatury-rgb-nashli-detskie-povesti-khokinga-i-biografiiu-cherchillia-v-biblioteke-poiasnili-chto-mnogoe-zavisit-ot-perevoda-news
+**Читайте также:** [В спецхране «деструктивной литературы» РГБ нашли детские повести Хокинга и биографию Черчилля. В библиотеке пояснили, что «многое зависит от перевода»](2026/08/26/v-spetskhrane-destruktivnoi-literatury-rgb-nashli-detskie-povesti-khokinga-i-biografiiu-cherchillia-v-biblioteke-poiasni.md)

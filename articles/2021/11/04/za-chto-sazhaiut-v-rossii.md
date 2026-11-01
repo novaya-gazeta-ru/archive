@@ -19,4 +19,4 @@ tags: "уголовное дело, пивоваров, мирзализаде, 
 
 Сергей рассказал Ирине Воробьевой о своих доверителях, о том, как получается не выгорать в борьбе за правосудие, откуда берутся жестокие следователи и почему он сам не может смотреть «ментовские» сериалы.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/31/idrak-gosudarstva-nomer-odin
+**Читайте также:** [https://novayagazeta.ru/articles/2021/08/31/idrak-gosudarstva-nomer-odin](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/08/31/idrak-gosudarstva-nomer-odin)

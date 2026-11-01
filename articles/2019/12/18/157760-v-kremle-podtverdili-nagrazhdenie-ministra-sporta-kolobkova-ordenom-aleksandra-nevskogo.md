@@ -17,4 +17,4 @@ tags: "минспорта, госнаграды, кремль, va"
 
 Согласно [положению](http://www.consultant.ru/document/cons_doc_LAW_104589/0f863b1acd72f262c9f569be3e74396e98560c7b/) об ордене, чиновники могут получить его «за особые личные заслуги в госстроительстве, укреплении международного авторитета России». Обычно указы о награждении граждан госнаградами публикуются в открытом доступе, однако только в этом году по неопубликованным указам орденом Невского наградили главреда Russia Today Маргариту [Симоньян](http://kremlin.ru/supplement/5407) и экс-посла в Беларуси Михаила [Бабича](https://ya62.ru/news/politics/smi_ryazantsa_mikhaila_babicha_nagradili_ordenom_aleksandra_nevskogo/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews).
 
-**link:** https://novayagazeta.ru/articles/2019/12/11/83112-geroy-s-dyroy-no-delo-ne-v-nem
+**link:** [Герой с дырой, но дело не в нем](2019/12/11/83112-geroy-s-dyroy-no-delo-ne-v-nem.md)

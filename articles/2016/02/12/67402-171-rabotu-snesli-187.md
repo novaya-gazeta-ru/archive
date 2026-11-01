@@ -28,9 +28,9 @@ tags: "москва, снос"
 У меня в помещении оставались деньги. И одежда. Как до них добраться? Копать, что ли? Сутки здесь провела. Как загипнотизированная, стою и смотрю на мусор».
 
 *[media: <blockquote>
-<p><strong><a href="http://www.novayagazeta.ru/photos/71772.html" target="_blank"><span><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/p/2016/02/09/1454993760_616098_51.jpg" style="width: 100px; height: 75px;"></span></a><span>Смотрите также:</span></strong></p>
+<p><strong><a href="[http://www.novayagazeta.ru/photos/71772.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/71772.html)" target="_blank"><span><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/p/2016/02/09/1454993760_616098_51.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/p/2016/02/09/1454993760_616098_51.jpg)" style="width: 100px; height: 75px;"></span></a><span>Смотрите также:</span></strong></p>
 
-<p><strong><a href="http://www.novayagazeta.ru/photos/71772.html" target="_blank">Ночь длинных ковшей. В Москве снесли сотню незаконных магазинов. Фоторепортаж</a></strong></p>
+<p><strong><a href="[http://www.novayagazeta.ru/photos/71772.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/71772.html)" target="_blank">Ночь длинных ковшей. В Москве снесли сотню незаконных магазинов. Фоторепортаж</a></strong></p>
 </blockquote>]*
 
 **Аркадий Тарасов, владелец снесенного павильона у метро «Выхино»:** «Мы потеряли 700 квадратных метров — аптеку, мини-пекарню, продуктовый и хозяйственный магазины. Ущерб? 80 миллионов рублей по кадастровой стоимости. И хуже всего, что на улице оказались 50 человек.

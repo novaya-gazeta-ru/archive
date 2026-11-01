@@ -27,6 +27,6 @@ tags: "навальный"
 
 У всех сотрудников медицинской службы, которые работают в колонии, обязательно должны быть видеорегистраторы. Мы будем требовать предоставления записей: когда приехали медики, как оказывалась помощь, были ли использованы все возможности для спасения.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/02/16/fsin-ofitsialno-soobshchila-o-smerti-alekseia-navalnogo-news
+**Читайте также:** [https://novayagazeta.ru/articles/2024/02/16/fsin-ofitsialno-soobshchila-o-smerti-alekseia-navalnogo-news](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/02/16/fsin-ofitsialno-soobshchila-o-smerti-alekseia-navalnogo-news)
 
 #### *Внесен Минюстом РФ в реестр иностранных агентов.

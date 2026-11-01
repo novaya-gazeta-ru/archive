@@ -191,7 +191,7 @@ ___
 
 *Фото: Влад Докшин / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2019/08/15/81618-ne-znayu-budu-li-svobodnym-ya-no-rossiya-budet-svobodnoy
+**link:** [«Не знаю, буду ли свободным я, но Россия будет свободной»](2019/08/15/81618-ne-znayu-budu-li-svobodnym-ya-no-rossiya-budet-svobodnoy.md)
 
 ___
 
@@ -209,7 +209,7 @@ ___
 
 *Фото: Дмитрий Швец / Медиазона*
 
-**link:** https://novayagazeta.ru/articles/2019/08/22/81695-prinuzhdenie-k-apolitichnosti
+**link:** [«Обещаю посещать фестиваль шашлыков»](2019/08/22/81695-prinuzhdenie-k-apolitichnosti.md)
 
 ___
 

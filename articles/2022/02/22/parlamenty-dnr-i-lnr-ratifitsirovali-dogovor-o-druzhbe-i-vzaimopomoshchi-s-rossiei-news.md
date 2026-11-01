@@ -19,12 +19,12 @@ tags: "донецкая область, луганская область, лд�
 
 Россия, «ДНР» и «ЛНР» будут противодействовать «актам агрессии» против них со стороны любого государства и оказывать друг другу помощь, включая военную. В частности, документы предполагают охрану государственных границ.
 
-Ранее президент России Владимир Путин [внес](https://novayagazeta.ru/articles/2022/02/22/putin-vnes-na-ratifikatsiiu-v-gosdumu-dogovory-s-dnr-i-lnr-oni-predpolagaiut-sovmestnuiu-oboronu-i-protivodeistvie-aktam-agressii-news) в Госудму законопроекты о ратификации этих договоров о дружбе и взаимопомощи.
+Ранее президент России Владимир Путин [внес](2022/02/22/putin-vnes-na-ratifikatsiiu-v-gosdumu-dogovory-s-dnr-i-lnr-oni-predpolagaiut-sovmestnuiu-oboronu-i-protivodeistvie-aktam.md) в Госудму законопроекты о ратификации этих договоров о дружбе и взаимопомощи.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/21/zadolbali-suki-daite-zhit-no-zhit-ne-dadut
+**Читайте также:** [«Задолбали, суки, дайте жить! Но жить не дадут»](2022/02/21/zadolbali-suki-daite-zhit-no-zhit-ne-dadut.md)
 
 Председатель Госдумы Вячеслав Володин направил оба документа в профильные комитеты — в комитет по международным делам и в комитет по делам СНГ, евразийской интеграции и связям с соотечественниками.
 
-Путин [подписал](https://novayagazeta.ru/articles/2022/02/21/putin-priznal-nezavisimost-dnr-i-lnr-news) указы о признании Донецкой и Луганской народных республик («ДНР» и «ЛНР») вечером 21 февраля. Согласно [указу](https://novayagazeta.ru/articles/2022/02/21/putin-poruchil-minoborony-obespechit-podderzhanie-mira-v-dnr-i-lnr-rossiiskimi-vooruzhennymi-silami-news), российский президент поручил Министерству обороны РФ ввести войска в «ДНР» и «ЛНР», а министерству иностранных дел — провести переговоры об установлении дипломатических отношений.
+Путин [подписал](2022/02/21/putin-priznal-nezavisimost-dnr-i-lnr-news.md) указы о признании Донецкой и Луганской народных республик («ДНР» и «ЛНР») вечером 21 февраля. Согласно [указу](2022/02/21/putin-poruchil-minoborony-obespechit-podderzhanie-mira-v-dnr-i-lnr-rossiiskimi-vooruzhennymi-silami-news.md), российский президент поручил Министерству обороны РФ ввести войска в «ДНР» и «ЛНР», а министерству иностранных дел — провести переговоры об установлении дипломатических отношений.
 
-Днем 21 февраля главы «ДНР» и «ЛНР» Денис Пушилин и Леонид Пасечник [попросили](https://novayagazeta.ru/articles/2022/02/21/glavy-dnr-i-lnr-poprosili-putina-priznat-nezavisimost-samoprovozglashennykh-respublik-news) президента признать суверенитет этих территорий.
+Днем 21 февраля главы «ДНР» и «ЛНР» Денис Пушилин и Леонид Пасечник [попросили](2022/02/21/glavy-dnr-i-lnr-poprosili-putina-priznat-nezavisimost-samoprovozglashennykh-respublik-news.md) президента признать суверенитет этих территорий.

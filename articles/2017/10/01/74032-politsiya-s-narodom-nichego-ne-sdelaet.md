@@ -29,7 +29,7 @@ tags: "независимость, как у них, референдум, ка�
 
 «Тогда чего вы хотите, — спрашиваю, — для родной Каталонии?» — «Я хочу, чтобы Испания стала федеральным государством, но я не хочу, чтобы страна развалилась».
 
-**novaya:** https://novayagazeta.ru/articles/2017/09/30/74027-pochemu-katalontsy-hotyat-nezavisimosti
+**novaya:** [Почему каталонцы хотят независимости](2017/09/30/74027-pochemu-katalontsy-hotyat-nezavisimosti.md)
 
 ![](_assets/85/8518da64d0ed6bbac8c1ed8f3d267127.webp)
 

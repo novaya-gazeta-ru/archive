@@ -31,4 +31,4 @@ tags: ""
 
 Трансляцию из Верховного суда можно посмотреть на канале «НО. Медиа из России». [Сейчас ее смотрят](https://www.youtube.com/watch?v=Pdet_Cr1Sew) уже более 10 тысяч человек единовременно.
 
-> ### [Главный редактор «Новой газеты» Сергей Соколов: «Происходящее — очередная попытка госпереворота, или Соблюдайте свою Конституцию»](https://novayagazeta.ru/articles/2026/08/10/proiskhodiashchee-ocherednaia-popytka-gosperevorota-ili-sobliudaite-svoiu-konstitutsiiu)
+> ### [Главный редактор «Новой газеты» Сергей Соколов: «Происходящее — очередная попытка госпереворота, или Соблюдайте свою Конституцию»](2026/08/10/proiskhodiashchee-ocherednaia-popytka-gosperevorota-ili-sobliudaite-svoiu-konstitutsiiu.md)

@@ -133,8 +133,8 @@ tags: ""
 
 В тех, кто живет после тебя…
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/06/kak-ubili-annu
+**Читайте также:** [Как убили Анну](2021/10/06/kak-ubili-annu.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/10/07/esli-by-khoteli-naiti-zakazchika-nashli-by
+**Читайте также:** [«Если бы хотели найти заказчика — нашли бы»](2026/10/07/esli-by-khoteli-naiti-zakazchika-nashli-by.md)
 
 #### * Минюст России считает «иностранными агентами»

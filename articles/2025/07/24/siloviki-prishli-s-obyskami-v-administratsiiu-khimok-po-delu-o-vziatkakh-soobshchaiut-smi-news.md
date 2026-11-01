@@ -27,6 +27,6 @@ tags: ""
 
 Экс-губернатора Тамбовской области Максима Егорова сегодня утром обвинили в получении взятки.
 
-В Брянской области к вице-губернатору Николаю Симоненко [пришли с обысками](https://novayagazeta.ru/articles/2025/07/22/k-vitse-gubernatoru-brianskoi-oblasti-prishli-s-obyskami-po-delu-o-khishcheniiakh-pri-vozvedenii-zubov-drakona-news).
+В Брянской области к вице-губернатору Николаю Симоненко [пришли с обысками](2025/07/22/k-vitse-gubernatoru-brianskoi-oblasti-prishli-s-obyskami-po-delu-o-khishcheniiakh-pri-vozvedenii-zubov-drakona-news.md).
 
-Экс-министр транспорта и бывший Курской области Роман Старовойт в начале июля покончил с собой на фоне увольнения. Причины увольнения не назывались, но СМИ писали [о возможной связи](https://novayagazeta.ru/articles/2025/07/07/putin-uvolil-s-dolzhnosti-glavy-mintransa-eks-gubernatora-kurskoi-oblasti-romana-starovoita-na-fone-rassledovaniia-dela-o-korruptsii-v-regione-news) с расследованием хищения 1 млрд рублей на строительство укреплений у границы. Задержаны чиновники Курской и Белгородской областей.
+Экс-министр транспорта и бывший Курской области Роман Старовойт в начале июля покончил с собой на фоне увольнения. Причины увольнения не назывались, но СМИ писали [о возможной связи](2025/07/07/putin-uvolil-s-dolzhnosti-glavy-mintransa-eks-gubernatora-kurskoi-oblasti-romana-starovoita-na-fone-rassledovaniia-dela-.md) с расследованием хищения 1 млрд рублей на строительство укреплений у границы. Задержаны чиновники Курской и Белгородской областей.

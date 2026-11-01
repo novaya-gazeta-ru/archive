@@ -25,16 +25,16 @@ tags: "волгоград, массовые беспорядки, беспоря
 
 «Ну и открытие штаба было в Волгограде. Прям будет, что вспомнить», — написал он.
 
-**link:** https://novayagazeta.ru/articles/2017/03/24/71903-shahmatnye-turniry-sneg-parad-velosipedistov-i-kolokolnyy-zvon
+**link:** [Почему нет? 10 лучших поводов не согласовать политическую акцию](2017/03/24/71903-shahmatnye-turniry-sneg-parad-velosipedistov-i-kolokolnyy-zvon.md)
 
-Напомним, Навального [облили](https://www.novayagazeta.ru/news/2017/03/20/129976-navalnogo-oblili-zelenkoy-na-otkrytii-predvybornogo-shtaba-v-barnaule) зеленкой на открытии штаба в Барнауле. А в ночь на 23 марта в Санкт-Петербурге неизвестные [подожгли](https://www.novayagazeta.ru/news/2017/03/23/130085-v-peterburge-neizvestnye-podozhgli-dver-v-shtab-navalnogo) дверь в его штаб. Возгорание двери в полиции [признали](https://www.novayagazeta.ru/news/2017/03/24/130130-v-peterburge-politsiya-vozbudila-ugolovnoe-delo-iz-za-podzhoga-dveri-v-shtab-navalnogo) поджогом. Возбуждено уголовное дело.
+Напомним, Навального [облили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/03/20/129976-navalnogo-oblili-zelenkoy-na-otkrytii-predvybornogo-shtaba-v-barnaule) зеленкой на открытии штаба в Барнауле. А в ночь на 23 марта в Санкт-Петербурге неизвестные [подожгли](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/03/23/130085-v-peterburge-neizvestnye-podozhgli-dver-v-shtab-navalnogo) дверь в его штаб. Возгорание двери в полиции [признали](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/03/24/130130-v-peterburge-politsiya-vozbudila-ugolovnoe-delo-iz-za-podzhoga-dveri-v-shtab-navalnogo) поджогом. Возбуждено уголовное дело.
 
 Навальный открывает свои штабы в городах России для подготовки предвыборной кампании накануне митингов 26 марта.
 
-**link:** https://novayagazeta.ru/articles/2017/03/23/71881-stavki-i-shtaby-navalnogo
+**link:** [Ставки и штабы Навального](2017/03/23/71881-stavki-i-shtaby-navalnogo.md)
 
-На этот день политик анонсировал антикоррупционные митинги в десятках городах России. Самый массовый должен пройти в Москве. Столичные власти Москвы [предупредили](https://www.novayagazeta.ru/news/2017/03/24/130116-vlasti-moskvy-predupredili-o-nezakonnosti-aktsii-oppozitsii-26-marta) о незаконности акции.
+На этот день политик анонсировал антикоррупционные митинги в десятках городах России. Самый массовый должен пройти в Москве. Столичные власти Москвы [предупредили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2017/03/24/130116-vlasti-moskvy-predupredili-o-nezakonnosti-aktsii-oppozitsii-26-marta) о незаконности акции.
 
 Навальный призвал росиян выйти на улицы после выхода фильма Фонда борьбы с коррупции (ФБК), посвященному расследованию имущества премьер-министра России Дмитрия Медведева.
 
-«Новая газета» на вечер 24 марта [насчитала](https://www.novayagazeta.ru/articles/2017/03/24/71903-shahmatnye-turniry-sneg-parad-velosipedistov-i-kolokolnyy-zvon?utm_source=push) 15 городов, в которых воскресные акции сторонников Алексея Навального получили официальное согласование властей.
+«Новая газета» на вечер 24 марта [насчитала](2017/03/24/71903-shahmatnye-turniry-sneg-parad-velosipedistov-i-kolokolnyy-zvon.md) 15 городов, в которых воскресные акции сторонников Алексея Навального получили официальное согласование властей.

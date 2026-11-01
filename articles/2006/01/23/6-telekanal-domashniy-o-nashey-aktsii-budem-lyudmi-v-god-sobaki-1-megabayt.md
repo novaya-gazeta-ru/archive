@@ -11,4 +11,4 @@ tags: ""
 
 # Телеканал «Домашний» о нашей акции «Будем людьми в год Собаки»(1 мегабайт)
 
-[Скачать видео](https://novayagazeta.ru/storage/d/2006/01/23/sobaki-1.rm)
+[Скачать видео](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2006/01/23/sobaki-1.rm)

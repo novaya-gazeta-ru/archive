@@ -29,7 +29,7 @@ tags: "фсб, теракт , архангельск, давление на см
 
 *После обыска в квартире журналистки Светланы Прокопьевой*
 
-**link:** https://novayagazeta.ru/articles/2019/11/28/82916-dvornik-bezrabotnyy-i-dva-psevdonima
+**link:** [Дворник, безработный и два псевдонима](2019/11/28/82916-dvornik-bezrabotnyy-i-dva-psevdonima.md)
 
 Роскомнадзор увидел в колонке Прокопьевой оправдание терроризма. Светлана стала обвиняемой в уголовном деле.
 
@@ -93,7 +93,7 @@ tags: "фсб, теракт , архангельск, давление на см
 
 А потом показания давали коллеги подсудимой.
 
-**link:** https://novayagazeta.ru/articles/2019/10/01/82180-sem-let-za-dve-stranitsy-teksta
+**link:** [https://novayagazeta.ru/articles/2019/10/01/82180-sem-let-za-dve-stranitsy-teksta](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/10/01/82180-sem-let-za-dve-stranitsy-teksta)
 
 **«Может быть, прочел текст за рулем»**
 

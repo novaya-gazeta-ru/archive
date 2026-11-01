@@ -34,6 +34,6 @@ tags: ""
 
 «Думаю, ненадолго он на свободе», — говорил он. И оказался прав.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/14/novosibirets-zhestoko-zarezal-devushku-i-sel-na-15-let-no-uzhe-chetyre-goda-spustia-ego-nashli-v-piterskom-vuze-na-nagrazhdenii-za-uchastie-v-svo-news
+**Читайте также:** [Новосибирец жестоко зарезал девушку и сел на 15 лет. Но уже четыре года спустя его нашли в питерском вузе на награждении — за участие в СВО](2025/07/14/novosibirets-zhestoko-zarezal-devushku-i-sel-na-15-let-no-uzhe-chetyre-goda-spustia-ego-nashli-v-piterskom-vuze-na-nagra.md)
 
 #### * Минюст включил в реестр иноагентов.

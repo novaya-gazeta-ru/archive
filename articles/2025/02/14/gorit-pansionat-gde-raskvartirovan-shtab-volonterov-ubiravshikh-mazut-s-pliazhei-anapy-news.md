@@ -19,4 +19,4 @@ tags: ""
 
 О пострадавших не сообщается.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/06/vse-gubit-khaos
+**Читайте также:** [Все губит хаос](2025/02/06/vse-gubit-khaos.md)

@@ -17,10 +17,10 @@ tags: ""
 
 Официального подтверждения этой информации со стороны России пока нет.
 
-Действительно, Россия признает атаки украинских БПЛА по судам в Таганрогском проливе, — с 8 июля губернатор Ростовской области [сообщал](https://novayagazeta.ru/articles/2026/07/11/bespilotniki-atakovali-taganrog-i-suda-v-zalive-v-tom-chisle-tanker-s-metanolom-pogib-matros-gubernator-rostovskoi-oblasti-news) о нескольких таких случаях, есть и раненые среди матросов. Последний случай атаки был этой ночью. Ранен 1 матрос, поврежден танкер с метанолом, но угрозы разлива яда нет.
+Действительно, Россия признает атаки украинских БПЛА по судам в Таганрогском проливе, — с 8 июля губернатор Ростовской области [сообщал](2026/07/11/bespilotniki-atakovali-taganrog-i-suda-v-zalive-v-tom-chisle-tanker-s-metanolom-pogib-matros-gubernator-rostovskoi-oblas.md) о нескольких таких случаях, есть и раненые среди матросов. Последний случай атаки был этой ночью. Ранен 1 матрос, поврежден танкер с метанолом, но угрозы разлива яда нет.
 
 Морская артерия Азово-Донского канала важна для вывоза зерна. Его длительное перекрытие может затронуть до четверти нынешнего российского зернового экспорта.
 
 Украина называют своей целью танкеры «нефтяного флота». Как на логистику ГСМ повлияет временное перекрытие судоходства — Reuters не сообщает.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/11/bespilotniki-atakovali-taganrog-i-suda-v-zalive-v-tom-chisle-tanker-s-metanolom-pogib-matros-gubernator-rostovskoi-oblasti-news
+**Читайте также:** [Беспилотники атаковали Таганрог и суда в заливе, в том числе танкер с метанолом, погиб матрос — губернатор Ростовской области](2026/07/11/bespilotniki-atakovali-taganrog-i-suda-v-zalive-v-tom-chisle-tanker-s-metanolom-pogib-matros-gubernator-rostovskoi-oblas.md)

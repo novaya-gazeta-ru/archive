@@ -27,6 +27,6 @@ tags: ""
 
 Разумова считает, что в ИК-5 в Вышнем Волочке ее жизни грозит опасность.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/24/golodovki-borba-za-nesolenoe-maslo-i-gruzinskii-domik
+**Читайте также:** [Голодовки, борьба за несоленое масло и грузинский домик](2025/03/24/golodovki-borba-za-nesolenoe-maslo-i-gruzinskii-domik.md)
 
 #### *Властями РФ признан «иноагентом»

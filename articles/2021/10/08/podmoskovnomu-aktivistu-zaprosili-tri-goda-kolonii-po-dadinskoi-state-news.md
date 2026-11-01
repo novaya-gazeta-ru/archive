@@ -15,6 +15,6 @@ tags: "em , прокуратура, Подмосковье , активисты"
 
 Вячеслав Егоров — один из лидеров протестов против мусорного полигона «Воловичи». Уголовное против активиста возбудили на основании четырех административных дел по статье о нарушении «митингового» законодательства (ст. 20.2 КоАП). По трем из них активиста признали виновным, а материалы четвертого — передали следствию.
 
-Около полугода Егоров провел под домашним арестом, позже меру пресечения заменили на запрет определенных действий, а [затем](https://novayagazeta.ru/articles/2019/07/30/153815-kolomenskogo-aktivista-obvinyaemogo-v-neodnokratnyh-narusheniyah-na-mitingah-otpustili-iz-pod-domashnego-aresta)— на подписку о невыезде.
+Около полугода Егоров провел под домашним арестом, позже меру пресечения заменили на запрет определенных действий, а [затем](2019/07/30/153815-kolomenskogo-aktivista-obvinyaemogo-v-neodnokratnyh-narusheniyah-na-mitingah-otpustili-iz-pod-domashnego-aresta.md)— на подписку о невыезде.
 
-28 сентябряэкс-главу штаба Навального в Хабаровске Алексея Ворсина [приговорили](https://novayagazeta.ru/articles/2021/09/28/eks-glavu-shtaba-navalnogo-v-khabarovske-alekseia-vorsina-prigovorili-k-3-godam-uslovno-po-dadinskoi-state-news) к 3 годам условно. Его тоже признали виновным по «дадинской» статье.
+28 сентябряэкс-главу штаба Навального в Хабаровске Алексея Ворсина [приговорили](2021/09/28/eks-glavu-shtaba-navalnogo-v-khabarovske-alekseia-vorsina-prigovorili-k-3-godam-uslovno-po-dadinskoi-state-news.md) к 3 годам условно. Его тоже признали виновным по «дадинской» статье.

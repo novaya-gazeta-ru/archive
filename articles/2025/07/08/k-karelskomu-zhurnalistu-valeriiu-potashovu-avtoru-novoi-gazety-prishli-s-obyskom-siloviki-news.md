@@ -23,4 +23,4 @@ tags: ""
 
 Поташов работал в различных медиа Республики Карелия. С 2022 года — постоянный автор «Новой газеты».
 
-**Ранее сегодня:** https://novayagazeta.ru/articles/2025/07/08/siloviki-prishli-s-obyskom-v-kulturnoe-prostranstvo-revolt-tsentr-v-syktyvkare-nakanune-tam-anonsirovali-vystavku-fotografa-dmitriia-markova-news
+**Ранее сегодня:** [Силовики пришли с обыском в культурное пространство «Револьт-центр» в Сыктывкаре. Накануне там анонсировали выставку фотографа Дмитрия Маркова](2025/07/08/siloviki-prishli-s-obyskom-v-kulturnoe-prostranstvo-revolt-tsentr-v-syktyvkare-nakanune-tam-anonsirovali-vystavku-fotogr.md)

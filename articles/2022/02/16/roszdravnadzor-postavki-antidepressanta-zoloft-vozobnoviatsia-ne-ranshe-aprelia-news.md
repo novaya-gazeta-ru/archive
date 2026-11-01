@@ -17,10 +17,10 @@ tags: "золофт, антидепрессанты , росздравнадзо
  \
  В Viatris объяснили, что рост спроса на препарат отмечается в связи с пандемией COVID-19. Из-за этого происходят задержки поставок в разных странах.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/15/antidepressant-zoloft-propal-iz-aptek-teper-ego-mozhno-kupit-tolko-v-darknete
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/15/antidepressant-zoloft-propal-iz-aptek-teper-ego-mozhno-kupit-tolko-v-darknete](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/15/antidepressant-zoloft-propal-iz-aptek-teper-ego-mozhno-kupit-tolko-v-darknete)
 
-Ранее [стало](https://novayagazeta.ru/articles/2022/01/11/rossiiskie-apteki-pozhalovalis-na-pereboi-s-postavkami-antidepressanta-zoloft-news#) известно о перебоях с поставками антидепрессанта в аптеки. Представитель «36,6» рассказал, что поставок «Золофта» не было с октября 2021 года.
+Ранее [стало](2022/01/11/rossiiskie-apteki-pozhalovalis-na-pereboi-s-postavkami-antidepressanta-zoloft-news.md) известно о перебоях с поставками антидепрессанта в аптеки. Представитель «36,6» рассказал, что поставок «Золофта» не было с октября 2021 года.
 
-В феврале препарат [начали](https://novayagazeta.ru/articles/2022/02/11/antidepressant-zoloft-propavshii-iz-rossiiskikh-aptek-nachali-prodavat-v-darknete-putem-zakladok-news) продавать в даркнете. Магазины предлагают забирать лекарство с помощью «закладок».\
+В феврале препарат [начали](2022/02/11/antidepressant-zoloft-propavshii-iz-rossiiskikh-aptek-nachali-prodavat-v-darknete-putem-zakladok-news.md) продавать в даркнете. Магазины предлагают забирать лекарство с помощью «закладок».\
  \
  «Золофт» — антидепрессант с действующим веществом сертралин, который назначают при депрессивных состояниях, обсессивно-компульсивных и панических расстройствах, а также социальных фобиях. Замена или отмена препарата должна происходить только под контролем врача.

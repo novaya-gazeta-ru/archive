@@ -17,6 +17,6 @@ tags: "протесты в Беларуси, kn, пастила, штрафы, �
 
 > «Да, это так она выражает протест. Зефиркой»,&nbsp;—&nbsp;свидетельствовал перед судом&nbsp;капитан милиции Евгений Семашко.
 
-**link:** https://novayagazeta.ru/articles/2020/10/26/87710-respublika-beret-otgul
+**link:** [Республика берет отгул](2020/10/26/87710-respublika-beret-otgul.md)
 
 К Миско в квартиру также пришли сотрудники местного ОВД и изъяли компьютер. Ей сообщили, что милиция располагает другими протоколами по ее делу. После президентских выборов в Беларуси 9 августа Миско регулярно выходит на митинги с БЧБ-флагом, о чем ранее открыто [заявляла](https://ex-press.by/rubrics/novosti-zhodino/2020/10/04/budu-xadzicz-sa-scyagam-pakul-budu-trymaczcza-na-nagax-chto-skazala-v-sude-75-letnyaya-kandidat-nauk-iraida-misko-iz-zhodino).

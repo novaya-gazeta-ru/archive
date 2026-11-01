@@ -19,4 +19,4 @@ tags: ""
 
 Зеленский тоже заявил: «Украина будет действовать зеркально».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/05/07/nashe-posolstvo-prodolzhit-rabotat-v-kieve-9-maia-mid-frantsii-otvetil-na-prizyv-moskvy-evakuirovatsia-iz-stolitsy-ukrainy-news
+**Читайте также:** [«Наше посольство продолжит работать в Киеве 9 мая»: МИД Франции ответил на призыв Москвы эвакуироваться из столицы Украины](2026/05/07/nashe-posolstvo-prodolzhit-rabotat-v-kieve-9-maia-mid-frantsii-otvetil-na-prizyv-moskvy-evakuirovatsia-iz-stolitsy-ukrai.md)

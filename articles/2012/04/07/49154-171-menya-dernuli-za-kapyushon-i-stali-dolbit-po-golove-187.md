@@ -16,7 +16,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/04/07/1333821444_698028_76.jpg" style="width: 360px; height: 480px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/04/07/1333821444_698028_76.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/04/07/1333821444_698028_76.jpg)" style="width: 360px; height: 480px; "><br>
 				<sup>Фоторобот одного из напавших</sup></td>
 		</tr>
 	</tbody>]*

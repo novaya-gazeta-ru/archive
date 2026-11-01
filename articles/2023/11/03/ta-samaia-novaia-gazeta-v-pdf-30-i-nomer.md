@@ -13,4 +13,4 @@ tags: "та самая новая газета"
 
 *Неслучившиеся еврейские погромы и реакция Кремля, 60-летие пропагандиста Соловьева, как устроено ШИЗО и культ смерти — как новая религия России*
 
-https://novayagazeta.ru/issues/3275
+[https://novayagazeta.ru/issues/3275](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3275)

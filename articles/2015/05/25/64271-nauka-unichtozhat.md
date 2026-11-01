@@ -41,9 +41,9 @@ tags: "благотворительность, наука"
 
 Но дело даже не в миллиардерах. Endowment funds лучших американских университетов измеряются в миллиардах долларов, что позволяет им давать стипендии бедным, но талантливым студентам.
 
-**link:** https://novayagazeta.ru/society/49540.html
+**link:** [https://novayagazeta.ru/society/49540.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/49540.html)
 
-**link:** https://novayagazeta.ru/society/49540.html
+**link:** [https://novayagazeta.ru/society/49540.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/49540.html)
 
 Эндаумент Гарварда составляет 33 млрд долларов, Йеля — 21 млрд долларов, Принстона — 19 млрд, Стенфорда — 19 млрд, MIT — 11 млрд, University of Michigan — 9 млрд и т.д. Большая часть этих денег пожертвованы выпускниками. То же — частные школы. Эндаументы лучших из них могут достигать сотен миллионов.
 

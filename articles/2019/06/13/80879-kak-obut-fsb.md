@@ -82,7 +82,7 @@ tags: "провокация, медоев, документы, недвижим�
 
 Ранее Фонд борьбы с коррупцией Алексея Навального нашел недвижимость семьи Медоева на миллиард рублей в России. А также выяснил, что Игорь Медоев сдает здание в аренду все той же административной дорожной полиции, которую до недавнего времени возглавлял его свояк.
 
-**link:** https://novayagazeta.ru/articles/2019/06/08/80819-grob-kladbische-sotni-milliardov-rubley
+**link:** [https://novayagazeta.ru/articles/2019/06/08/80819-grob-kladbische-sotni-milliardov-rubley](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/06/08/80819-grob-kladbische-sotni-milliardov-rubley)
 
 # Генерал на пенсии
 

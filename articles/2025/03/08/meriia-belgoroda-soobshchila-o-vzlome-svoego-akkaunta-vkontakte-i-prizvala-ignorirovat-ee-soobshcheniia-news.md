@@ -17,4 +17,4 @@ tags: ""
 
 В ответ подписчики стали [делиться скриншотами](https://vk.com/beladm31?reactions_opened=wall-91905587_73045&w=wall-91905587_80274_r80275) из личных сообщений, в которых от имени белгородской администрации действительно приходит «подарок» и предложение открыть подозрительного вида ссылку для участия якобы в совместной с крупным маркетплейсом акции.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/28/smi-soobshchili-ob-obyskakh-u-komandy-telegram-bota-glaz-boga-cherez-kotoryi-probivali-kontakty-rossiian-osnovatel-proekta-eto-oproverg-news
+**Читайте также:** [СМИ сообщили об обысках у команды телеграм-бота «Глаз бога», через который «пробивали» контакты россиян. Основатель проекта это опроверг](2025/02/28/smi-soobshchili-ob-obyskakh-u-komandy-telegram-bota-glaz-boga-cherez-kotoryi-probivali-kontakty-rossiian-osnovatel-proek.md)

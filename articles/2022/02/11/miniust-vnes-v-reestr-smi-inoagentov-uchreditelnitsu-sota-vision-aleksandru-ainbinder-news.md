@@ -17,8 +17,8 @@ tags: "минюст, сми-иноагенты, em"
 
 Позже Минюст также [внес](https://minjust.gov.ru/ru/pages/reestr-nezaregistrirovannyh-obshestvennyh-obedinenij-vypolnyayushih-funkcii-inostrannogo-agenta/) Московский комьюнити-центр для ЛГБТ+ инициатив в реестр незарегистрированных движений, выполняющих функции «иностранного агента». Согласно списку ведомства, цели организации — «безопасная достойная жизнь в условиях принятия и равноправия для ЛГБТ+»
 
-В ноябре прошлого года в реестр СМИ-«иноагентов» [внесли](https://novayagazeta.ru/articles/2021/11/26/glavreda-sota-vision-olega-elanchika-vnesli-v-reestr-smi-inoagentov-news) главреда Sota.Vision Олега Еланчика. Его Минюст включил в список под номером 99.
+В ноябре прошлого года в реестр СМИ-«иноагентов» [внесли](2021/11/26/glavreda-sota-vision-olega-elanchika-vnesli-v-reestr-smi-inoagentov-news.md) главреда Sota.Vision Олега Еланчика. Его Минюст включил в список под номером 99.
 
 В реестр СМИ-«иноагентов» могут попасть как физлица, так и средства массовой информации. Также туда включают юрлица, созданные людьми, ранее внесенными в список, для отчетности перед Минюстом.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/01/12-popravok-v-zakony-ob-inoagentakh
+**Читайте также:** [12 поправок в законы об «иноагентах»](2021/09/01/12-popravok-v-zakony-ob-inoagentakh.md)

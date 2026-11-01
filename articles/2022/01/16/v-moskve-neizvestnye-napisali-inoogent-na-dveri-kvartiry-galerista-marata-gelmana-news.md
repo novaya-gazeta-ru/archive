@@ -21,10 +21,10 @@ tags: "гельман, иностранный агент, надпись, хул
 
 Сам Гельман [уточнил](https://zona.media/news/2022/01/16/inooagent) в разговоре с «Медиазоной»*, что накануне вернулся в Москву из Черногории, а в этой квартире живет его мать.
 
-Минюст РФ [внес](https://novayagazeta.ru/articles/2021/12/30/miniust-vnes-v-reestr-inoagentov-pisatelia-viktora-shenderovicha-uchastnits-pussy-riot-glavreda-kholoda-i-eshche-chetyrekh-chelovek-news) Гельмана в список СМИ-«иностранных агентов» 30 декабря. В тот же день в реестре оказался писатель Виктор Шендерович*, участницы панк-группы Pussy Riot Вероника Никульшина* и Надежда Толоконникова*, главный редактор издания «Холод» Таисия Бекбулатова*, а также Иван Беляев* из «Радио Свобода»*, Елена Владыкина* из «Север.Реалий»*.
+Минюст РФ [внес](2021/12/30/miniust-vnes-v-reestr-inoagentov-pisatelia-viktora-shenderovicha-uchastnits-pussy-riot-glavreda-kholoda-i-eshche-chetyre.md) Гельмана в список СМИ-«иностранных агентов» 30 декабря. В тот же день в реестре оказался писатель Виктор Шендерович*, участницы панк-группы Pussy Riot Вероника Никульшина* и Надежда Толоконникова*, главный редактор издания «Холод» Таисия Бекбулатова*, а также Иван Беляев* из «Радио Свобода»*, Елена Владыкина* из «Север.Реалий»*.
 
-В начале сентября на двери офиса и подъезда дома правозащитника Льва Пономарева*, который также включен Минюстом в список «иноагентов», неизвестные [оставили](https://novayagazeta.ru/articles/2021/09/02/neizvestnye-ispisali-oskorbleniiami-steny-doma-i-ofisa-pravozashchitnika-lva-ponomareva-v-den-ego-80-letiia-news) надписи красной краской «Логово защитника террористов» и развесили листовки с его фотографией.
+В начале сентября на двери офиса и подъезда дома правозащитника Льва Пономарева*, который также включен Минюстом в список «иноагентов», неизвестные [оставили](2021/09/02/neizvestnye-ispisali-oskorbleniiami-steny-doma-i-ofisa-pravozashchitnika-lva-ponomareva-v-den-ego-80-letiia-news.md) надписи красной краской «Логово защитника террористов» и развесили листовки с его фотографией.
 
 #### *внесены Минюстом РФ в список СМИ, выполняющих функцию иностранного агента
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany
+**Читайте также:** [https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/09/tak-mozhno-priznat-inoagentami-polstrany)

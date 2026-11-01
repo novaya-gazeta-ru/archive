@@ -23,10 +23,10 @@ Novartis International AG — транснациональная фармаце�
 
 «Закупки лекарственного препарата «Золгенсма» идут в плановом режиме. Практически еженедельно рассматриваются новые заявки, и поставки осуществляются без задержек. Novartis сохранил прежнюю цену», — сообщили «Новой» в госфонде «Круг добра».
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/10/boleznennye-sanktsii
+**Читайте также:** [Болезненные санкции](2022/03/10/boleznennye-sanktsii.md)
 
 Ранее производитель инсулина и онколекарств, американская компания Eli Lilly также [заявила](https://www.lilly.com/news/stories/ukraine-support) о приостановке инвестиций и экспорта неосновных лекарств в Россию. В компании уточнили, что продолжат поставлять лекарства для больных раком и диабетом.
 
 Также инвестиции в Россию уже приостановили фармкомпании [Bayer](https://www.bayer.com/en/ukraine) и [Pfizer](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-updates-company-position-russia). Однако, руководствуясь принципом приоритета здоровья пациентов, ограничивать поставки лекарств не стали.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/13/segodnia-lekarstva-eshche-est-a-zavtra
+**Читайте также:** [Сегодня лекарства еще есть. А завтра?](2022/03/13/segodnia-lekarstva-eshche-est-a-zavtra.md)

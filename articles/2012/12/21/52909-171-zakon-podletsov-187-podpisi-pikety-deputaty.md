@@ -13,4 +13,4 @@ tags: ""
 
 *[media: #next_pages_container { width: 5px; hight: 5px; position: absolute; top: -100px; left: -100px; z-index: 2147483647 !important; }]*
 
-*[media: Читайте также:&nbsp;<a href="http://www.novayagazeta.ru/news/61802.html">Сегодня Госдума рассматривает законопроект подлецов в третьем чтении. ОНЛАЙН-трансляция</a>]*
+*[media: Читайте также:&nbsp;<a href="[http://www.novayagazeta.ru/news/61802.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/61802.html)">Сегодня Госдума рассматривает законопроект подлецов в третьем чтении. ОНЛАЙН-трансляция</a>]*

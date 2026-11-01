@@ -15,4 +15,4 @@ tags: "дерипаска, бизнес, иван любимов, сергей �
 
 *Иллюстратор — Наталья Ямщикова, специально для «Новой газеты»*
 
-**link:** https://novayagazeta.ru/articles/2018/04/14/76176-rossiyskaya-elita-ne-mozhet-vorovat-tehnologii-tolko-byudzhetnye-dengi
+**link:** [Российская элита не может воровать технологии — только бюджетные деньги](2018/04/14/76176-rossiyskaya-elita-ne-mozhet-vorovat-tehnologii-tolko-byudzhetnye-dengi.md)

@@ -77,4 +77,4 @@ tags: "кино, кинофестиваль, премьера"
 >
 > Лариса Малюкова ведет телеграм-канал о кино и не только. [Подписывайтесь тут](https://t.me/larisamalukova).
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/10/04/luzery-protiv-uoll-strit
+**Читайте также:** [Лузеры против Уолл-стрит](2023/10/04/luzery-protiv-uoll-strit.md)

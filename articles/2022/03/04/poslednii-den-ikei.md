@@ -25,7 +25,7 @@ tags: "Икеа, спецоперация, закрытие, штурм, мос�
 
 *IKEA Теплый Стан. Фото: Анастасия Цицинова / «‎Новая газета»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/05/rezervy-est-uma-ne-nado
+**Читайте также:** [Резервы есть — ума не надо](2022/03/05/rezervy-est-uma-ne-nado.md)
 
 ![](_assets/b2/b2e365e2d32d0b4568e8bbfab5aae3d7.webp)
 

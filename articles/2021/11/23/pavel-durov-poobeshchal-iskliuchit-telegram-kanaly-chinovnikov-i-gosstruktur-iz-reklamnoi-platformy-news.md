@@ -17,9 +17,9 @@ tags: "telegram, дуров, павел дуров, реклама, госуда
 
 «Это было временно, сейчас мы исключаем из рекламной платформы каналы госчиновников и госструктур», — ответил Дуров.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/22/roskomnadzor-obiazal-google-apple-tiktok-telegram-meta-i-drugie-it-kompanii-otkryt-ofisy-v-rossii-do-1-ianvaria-news
+**Читайте также:** [Роскомнадзор обязал Google, Apple, Tiktok, Telegram, Meta и другие IT-компании открыть офисы в России до 1 января](2021/11/22/roskomnadzor-obiazal-google-apple-tiktok-telegram-meta-i-drugie-it-kompanii-otkryt-ofisy-v-rossii-do-1-ianvaria-news.md)
 
-Telegram [начал](https://novayagazeta.ru/articles/2021/11/05/osnovatel-telegram-pavel-durov-razmestil-v-krupnykh-telegram-kanalakh-soobshcheniia-o-testirovanii-reklamy-v-messendzhere-news) тестировать рекламные сообщения 5 ноября. Тогда Дуров разместил в крупных телеграм-каналах сообщение со ссылкой на собственный канал с текстом «Telegram начинает тестировать рекламные сообщения. Как это скажется на пользователях?». Этот пост закреплялся последним в канале, удалить сообщение Дурова из своего канала, как и другие рекламные объявления, было невозможно.
+Telegram [начал](2021/11/05/osnovatel-telegram-pavel-durov-razmestil-v-krupnykh-telegram-kanalakh-soobshcheniia-o-testirovanii-reklamy-v-messendzher.md) тестировать рекламные сообщения 5 ноября. Тогда Дуров разместил в крупных телеграм-каналах сообщение со ссылкой на собственный канал с текстом «Telegram начинает тестировать рекламные сообщения. Как это скажется на пользователях?». Этот пост закреплялся последним в канале, удалить сообщение Дурова из своего канала, как и другие рекламные объявления, было невозможно.
 
 Дуров обещал, что мессенджер не будет показывать рекламные сообщения в списке чатов, личных беседах или группах и что реклама не будет навязчивой.
 

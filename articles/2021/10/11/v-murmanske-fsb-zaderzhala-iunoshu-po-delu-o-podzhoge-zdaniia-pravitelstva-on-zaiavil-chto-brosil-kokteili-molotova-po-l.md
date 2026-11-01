@@ -17,8 +17,8 @@ tags: "мурманск, коктейль молотова, поджог, фсб
 
 Источник «Интерфакса» сообщил, что по факту нападения на здание возбуждено уголовное дело о попытке умышленного повреждения чужого имущества путем поджога, совершенной из хулиганских побуждений (ст. 30, ст. 167 УК).
 
-Во время инцидента 1 октября несколько чиновников [находились](https://novayagazeta.ru/articles/2021/10/01/v-zdanie-pravitelstva-murmanskii-oblasti-brosili-dve-butylki-s-zazhigatelnoi-smesiu-news) в здании в своих рабочих кабинетах. Потстрадал сотрудник охраны Игорь Кореневский. У него были обожжены руки. Губернатор Мурманской области Андрей Чибис вручил ему благодарственное письмо.
+Во время инцидента 1 октября несколько чиновников [находились](2021/10/01/v-zdanie-pravitelstva-murmanskii-oblasti-brosili-dve-butylki-s-zazhigatelnoi-smesiu-news.md) в здании в своих рабочих кабинетах. Потстрадал сотрудник охраны Игорь Кореневский. У него были обожжены руки. Губернатор Мурманской области Андрей Чибис вручил ему благодарственное письмо.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/29/duma-po-poniatiiam
+**Читайте также:** [Дума по понятиям](2021/07/29/duma-po-poniatiiam.md)
 
-За день до происшествия на заседании совета депутатов Мурманска депутаты [отклонили](https://novayagazeta.ru/articles/2021/09/30/murmanskii-gorsovet-otkazalsia-izbrat-merom-kandidatku-rekomendovannuiu-gensovetom-edinoi-rossii-news) кандидатуру бывшего министра образования региона Ольги Дзюбы, которая единственной была выдвинута на должность мэра города. Ее публично [поддерживал](https://murman.tv/news/russian-1/novosti/1632826375-andrey-turchak-gensovet-parti-poderzhivaet-olgu-dzyubu-na-post-glavy-murmanska) секретарь генсовета партии «Единая Россия» Андрей Турчак.
+За день до происшествия на заседании совета депутатов Мурманска депутаты [отклонили](2021/09/30/murmanskii-gorsovet-otkazalsia-izbrat-merom-kandidatku-rekomendovannuiu-gensovetom-edinoi-rossii-news.md) кандидатуру бывшего министра образования региона Ольги Дзюбы, которая единственной была выдвинута на должность мэра города. Ее публично [поддерживал](https://murman.tv/news/russian-1/novosti/1632826375-andrey-turchak-gensovet-parti-poderzhivaet-olgu-dzyubu-na-post-glavy-murmanska) секретарь генсовета партии «Единая Россия» Андрей Турчак.

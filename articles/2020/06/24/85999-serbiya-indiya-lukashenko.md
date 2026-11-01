@@ -65,7 +65,7 @@ tags: "кнр, индия, туркменистан, узбекистан, па�
 
 *Президент Беларуси Александр Лукашенко с сыном. Фото: Reuters*
 
-**link:** https://novayagazeta.ru/articles/2020/06/23/85970-paradnyy-nevyhod
+**link:** [Парадный невыход](2020/06/23/85970-paradnyy-nevyhod.md)
 
 ![](_assets/b2/b2020a7a7db46295264a121090099330.webp)
 
@@ -91,7 +91,7 @@ tags: "кнр, индия, туркменистан, узбекистан, па�
 
 *Военнослужащие в униформе, приближенной к форме 1945 года. Фото: Reuters*
 
-**link:** https://novayagazeta.ru/articles/2020/06/24/85992-nu-pokashlyaem-podi-ne-umrem
+**link:** [«Ну, покашляем. Поди, не умрем»](2020/06/24/85992-nu-pokashlyaem-podi-ne-umrem.md)
 
 ![](_assets/31/31268f65ecedcfc3f6fbeff0b110627b.webp)
 

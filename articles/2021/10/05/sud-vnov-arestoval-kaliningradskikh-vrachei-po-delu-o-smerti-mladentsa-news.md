@@ -21,9 +21,9 @@ tags: "калининград, врачи, sf"
 
 При этом Сушкевич сказала в суде, что пользовалась интернетом под домашним арестом в объеме, разрешенном судом.
 
-В мае Первый апелляционный суд общей юрисдикции в Москве [отменил](https://novayagazeta.ru/articles/2021/05/27/sud-otmenil-opravdatelnyi-prigovor-kaliningradskim-vracham-po-delu-o-smerti-mladentsa) оправдательный приговор, который калининградским врачам [вынесли](https://novayagazeta.ru/articles/2020/12/16/166488-sud-opravdal-kaliningradskih-vrachey-po-delu-o-smerti-mladentsa) в декабре прошлого года.  До этого их оправдали присяжные.
+В мае Первый апелляционный суд общей юрисдикции в Москве [отменил](2021/05/27/sud-otmenil-opravdatelnyi-prigovor-kaliningradskim-vracham-po-delu-o-smerti-mladentsa.md) оправдательный приговор, который калининградским врачам [вынесли](2020/12/16/166488-sud-opravdal-kaliningradskih-vrachey-po-delu-o-smerti-mladentsa.md) в декабре прошлого года.  До этого их оправдали присяжные.
 
-**Читайте также:** https://novayagazeta.ru/articles/2019/07/03/81109-novoe-delo-vrachey-ubiyts
+**Читайте также:** [Новое «дело врачей-убийц»](2019/07/03/81109-novoe-delo-vrachey-ubiyts.md)
 
 Суд отправил дело на новое рассмотрение, а в июне 2021 года Верховный Суд по ходатайству заместителя генерального прокурора [перенес](https://www.newkaliningrad.ru/news/briefs/community/23936445-delo-kaliningradskikh-medikov-beloy-i-sushkevich-budet-zanovo-slushatsya-v-moskve.html) его в Московский областной суд.
 

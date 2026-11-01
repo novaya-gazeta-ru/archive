@@ -19,7 +19,7 @@ tags: "новое величие, москва, акции протеста, м�
 
 В Москве прошла без задержаний несогласованная акция «Марш матерей», на которой выдвигались требования прекратить дело «Нового величия» и освободить из-под стражи его фигурантов, находящихся сейчас в СИЗО.
 
-**link:** https://novayagazeta.ru/articles/2018/08/16/77509-materinskiy-kapital
+**link:** [Материнский капитал](2018/08/16/77509-materinskiy-kapital.md)
 
 ![](_assets/ca/cab0878cb45fa371b096e9458bc9e45a.webp)
 
@@ -33,7 +33,7 @@ tags: "новое величие, москва, акции протеста, м�
 
 *Фото: Анна Артемьева / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2018/08/14/77489-kak-mne-prishla-v-golovu-mysl-vyyti-na-marsh-materey
+**link:** [Как нам пришла в голову мысль выйти на марш матерей](2018/08/14/77489-kak-mne-prishla-v-golovu-mysl-vyyti-na-marsh-materey.md)
 
 ![](_assets/22/22b292d321ab69a57c80384b92a9290f.webp)
 

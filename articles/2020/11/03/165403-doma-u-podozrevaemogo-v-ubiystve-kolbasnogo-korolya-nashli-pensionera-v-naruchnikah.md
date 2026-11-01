@@ -19,6 +19,6 @@ tags: "ng, Подмосковье , убийство"
 
 В ГСУСК, как [передают](https://t.me/rian_ru/63186) РИА Новости, сообщили, что пенсионера госпитализировали.
 
-Об убийстве бывшего владельца компании «Мясная империя» Владимира Маругова, которого называют «колбасным королем», [стало известно](https://novayagazeta.ru/news/2020/11/02/165380-v-podmoskovie-iz-arbaleta-zastrelili-kolbasnogo-korolya-vyacheslava-marugova) 2 ноября — неизвестные в подмосковной Истре застрелили его из арбалета. Вечером того же дня в Подмосковье [задержали](https://novayagazeta.ru/news/2020/11/02/165392-podozrevaemogo-v-ubiystve-vladeltsa-kolbasnyh-zavodov-marugova-zaderzhali) предполагаемого убийцу.
+Об убийстве бывшего владельца компании «Мясная империя» Владимира Маругова, которого называют «колбасным королем», [стало известно](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/02/165380-v-podmoskovie-iz-arbaleta-zastrelili-kolbasnogo-korolya-vyacheslava-marugova) 2 ноября — неизвестные в подмосковной Истре застрелили его из арбалета. Вечером того же дня в Подмосковье [задержали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/11/02/165392-podozrevaemogo-v-ubiystve-vladeltsa-kolbasnyh-zavodov-marugova-zaderzhali) предполагаемого убийцу.
 
 Маругову принадлежали «Мясная империя» и завод «Озерецкие колбасы». Кроме того, он был владельцем компаний «Строй-проект» и «СК Теплосеть».

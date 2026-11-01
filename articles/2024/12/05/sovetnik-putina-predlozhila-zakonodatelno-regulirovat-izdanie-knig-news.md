@@ -19,8 +19,8 @@ tags: ""
 
 В ноябре в Госдуме призвали бороться с распространением «деструктивных» детских книг. Глава комитета по защите семьи Нина Останина сослалась на исследование Союза писателей, авторы которого нашли книги, которые формируют в сознании ребенка «негативные установки». Например, внушают безразличие к будущему, сводят человеческую природу к инстинктам или отвергают традиционные роли мужчин и женщин. Книгоиздатели потребовали раскрыть полную версию исследования, подчеркивая, что для исследования был использован лишь малый процент литературы.
 
-«Новая» недавно [рассказывала](https://novayagazeta.ru/articles/2024/11/27/delo-zapakhlo-zharenymi-edinorozhkami) с чего начались разговоры о «деструктивных» детских книгах и что не так с заключениями говорящих об этом экспертов.
+«Новая» недавно [рассказывала](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/11/27/delo-zapakhlo-zharenymi-edinorozhkami) с чего начались разговоры о «деструктивных» детских книгах и что не так с заключениями говорящих об этом экспертов.
 
-На прошлой неделе Минпромторг выступил с идеей ввести [«прокатное удостоверение»](https://novayagazeta.ru/articles/2024/11/25/minpromtorg-obsudil-vvedenie-prokatnogo-udostovereniia-dlia-kompiuternykh-igr-news) для компьютерных и консольных игр…
+На прошлой неделе Минпромторг выступил с идеей ввести [«прокатное удостоверение»](2024/11/25/minpromtorg-obsudil-vvedenie-prokatnogo-udostovereniia-dlia-kompiuternykh-igr-news.md) для компьютерных и консольных игр…
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/27/delo-zapakhlo-zharenymi-edinorozhkami
+**Читайте также:** [https://novayagazeta.ru/articles/2024/11/27/delo-zapakhlo-zharenymi-edinorozhkami](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/11/27/delo-zapakhlo-zharenymi-edinorozhkami)

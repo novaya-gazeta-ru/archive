@@ -25,7 +25,7 @@ tags: ""
 
 Смотрите документальный фильм 7 октября на [YouTube-канале «Новой газеты»](https://www.youtube.com/c/NovayagazetaRu).
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/06/zakazchik-izvesten-emu-prosto-vydali-indulgentsiiu
+**Читайте также:** [Заказчик известен. Ему просто выдали индульгенцию](2021/10/06/zakazchik-izvesten-emu-prosto-vydali-indulgentsiiu.md)
 
 #### * Минюст включил в реестр «иноагентов».
 

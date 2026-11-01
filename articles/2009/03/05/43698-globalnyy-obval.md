@@ -67,4 +67,4 @@ tags: ""
 
 #
 
-**[Глобальный обвал\ *Часть 3**.* *Проблески* *в туннеле*](http://www.novayagazeta.ru/data/2009/029/34.html)**
+**[Глобальный обвал\ *Часть 3**.* *Проблески* *в туннеле*](https://web.archive.org/web/*/http://www.novayagazeta.ru/data/2009/029/34.html)**

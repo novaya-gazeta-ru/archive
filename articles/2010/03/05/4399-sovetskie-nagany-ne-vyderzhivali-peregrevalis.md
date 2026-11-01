@@ -37,4 +37,4 @@ _«Всего по решениям специальной тройки НКВД
 
 _* Осадники — бывшие военнослужащие Войска Польского, получившие земельные наделы на присоединенных к Польше по Рижскому договору территориях и периодически собиравшиеся на военные сборы._ \
 \
- **Смотреть архивные материалы в формате pdf: [1](https://novayagazeta.ru/storage/d/2010/03/05/Katynstalin.pdf), [2](https://novayagazeta.ru/storage/d/2010/03/05/katyndoc.pdf)**
+ **Смотреть архивные материалы в формате pdf: [1](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2010/03/05/Katynstalin.pdf), [2](https://web.archive.org/web/*/https://novayagazeta.ru/storage/d/2010/03/05/katyndoc.pdf)**

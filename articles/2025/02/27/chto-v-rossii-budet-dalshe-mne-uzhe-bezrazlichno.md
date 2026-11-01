@@ -131,7 +131,7 @@ tags: "мигранты, сахарово, киркизы, узбеки, тад�
 
 Сам в Россию ехать больше не планирую. Даже в гости».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/12/pochemu-rossiia-vysylaet-migrantov-iz-strany
+**Читайте также:** [Почему Россия высылает мигрантов из страны?](2025/02/12/pochemu-rossiia-vysylaet-migrantov-iz-strany.md)
 
 ## **Волонтер**
 
@@ -171,4 +171,4 @@ tags: "мигранты, сахарово, киркизы, узбеки, тад�
 
 **Бишкек — Ош**
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/14/vse-govorili-chto-ia-geroi-i-liudei-spas-a-potom-priekhali-politseiskie
+**Читайте также:** [«Все говорили, что я герой и людей спас. А потом приехали полицейские»](2025/02/14/vse-govorili-chto-ia-geroi-i-liudei-spas-a-potom-priekhali-politseiskie.md)

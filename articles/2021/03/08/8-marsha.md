@@ -25,7 +25,7 @@ tags: "петербург, 8 марта, права женщин, марш"
 
 *Невский проспект. Фото: Елена Лукьянова / «Новая газета»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/08/dorogaia-elena-svetlanovna
+**Читайте также:** [Дорогая Елена Светлановна](2021/03/08/dorogaia-elena-svetlanovna.md)
 
 ![](_assets/24/241ba081c843216ea1b4c9c3537192cc.webp)
 
@@ -47,7 +47,7 @@ tags: "петербург, 8 марта, права женщин, марш"
 
 *Невский проспект. Фото: Елена Лукьянова / «Новая газета»*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/08/est-takaia-nina-kotoraia-vse-taki-smogla
+**Читайте также:** [«Есть такая Нина, которая все-таки смогла»](2021/03/08/est-takaia-nina-kotoraia-vse-taki-smogla.md)
 
 ![](_assets/e1/e12d0ac62c04d758b05cf834e8db916e.webp)
 

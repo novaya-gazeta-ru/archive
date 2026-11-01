@@ -17,4 +17,4 @@ tags: "зубаревич, стрим, коронавирус, кризис, э�
 
 Присоединяйтесь к обсуждению в комментариях на YouTube канале «Новой»!
 
-**link:** https://novayagazeta.ru/articles/2020/06/16/85867-zhizn-posle-renty
+**link:** [https://novayagazeta.ru/articles/2020/06/16/85867-zhizn-posle-renty](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/06/16/85867-zhizn-posle-renty)

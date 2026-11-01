@@ -99,4 +99,4 @@ tags: ""
 
 **Зара Абдуллаева**
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/09/01/assaias-ne-volshebnik
+**Читайте также:** [Ассайас не волшебник](2025/09/01/assaias-ne-volshebnik.md)

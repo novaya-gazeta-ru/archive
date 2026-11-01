@@ -16,7 +16,7 @@ tags: "пенсионеры, пенсионный фонд"
 *[media: <tbody>
 		<tr>
 			<td>
-				<a href="http://www.novayagazeta.ru/storage/c/2012/11/16/1353011759_570930_61.png" target="_blank"><img alt="" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2012/11/16/1353011759_286150_78.png" style="width: 350px; height: 358px; "></a></td>
+				<a href="[http://www.novayagazeta.ru/storage/c/2012/11/16/1353011759_570930_61.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/11/16/1353011759_570930_61.png)" target="_blank"><img alt="" class="g-image-align-right" src="https://static.novayagazeta.ru/storage/c/2012/11/16/1353011759_286150_78.png" style="width: 350px; height: 358px; "></a></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">

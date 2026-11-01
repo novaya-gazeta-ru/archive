@@ -16,7 +16,7 @@ tags: "особый порядок, павел устинов, дело 212, «�
 > **обновлено<br>
 &nbsp;**
 >
-> **[Мосгорсуд оставил без изменений приговор Данилу Беглецу из-за митинга 27 июля: 2 года колонии](https://www.novayagazeta.ru/news/2019/10/07/155939-mosgorsud-ostavil-bez-izmeneniy-prigovor-uchastniku-aktsii-27-iyulya-danilu-begletsu)**
+> **[Мосгорсуд оставил без изменений приговор Данилу Беглецу из-за митинга 27 июля: 2 года колонии](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/10/07/155939-mosgorsud-ostavil-bez-izmeneniy-prigovor-uchastniku-aktsii-27-iyulya-danilu-begletsu)**
 
 #«Пора ехать за папой»
 

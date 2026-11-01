@@ -83,4 +83,4 @@ tags: ""
 
 Лера умерла.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/01/22/nechem-dyshat
+**Читайте также:** [Нечем дышать](2026/01/22/nechem-dyshat.md)

@@ -19,6 +19,6 @@ tags: ""
 
 **youtube:** https://youtu.be/owU8Xlsq6Lc
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/16/demograficheskii-krizis-v-rossii-pochemu-vlasti-ne-khotiat-pokazyvat-tsifry
+**Читайте также:** [Демографический кризис в России: почему власти не хотят показывать цифры?](2025/07/16/demograficheskii-krizis-v-rossii-pochemu-vlasti-ne-khotiat-pokazyvat-tsifry.md)
 
 #### * Власти РФ внесли в реестр «иноагентов».

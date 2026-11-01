@@ -21,4 +21,4 @@ tags: "роскомнадзор, цензура, карелия, da"
 
 Напомним, 24 февраля РКН [выпустил](https://rkn.gov.ru/news/rsoc/news74084.htm) пресс-релиз, в котором обязал СМИ при освещении «спецоперации» в Украине «использовать информацию и данные, полученные только из официальных российских источников». Позднее надзорный орган усмотрел нарушение закона в том, что «специальная операция» в материалах ряда изданий была названа войной, что привело к их блокировке.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/02/my-soputstvuiushchii-ushcherb
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/02/my-soputstvuiushchii-ushcherb](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/02/my-soputstvuiushchii-ushcherb)

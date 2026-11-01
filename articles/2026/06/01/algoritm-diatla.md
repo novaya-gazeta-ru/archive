@@ -119,6 +119,6 @@ Zondacrypto — один из крупнейших игроков криптор
 
  *Подробнее о польской части скандала — в ближайшее время.*
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/05/13/fbr-prizraki-kremlia-gotovili-plan-informatsionnoi-ataki
+**Читайте также:** [ФБР: «Призраки Кремля» готовили план информационной атаки](2026/05/13/fbr-prizraki-kremlia-gotovili-plan-informatsionnoi-ataki.md)
 
 #### * Внесен властями РФ в реестр «иноагентов».

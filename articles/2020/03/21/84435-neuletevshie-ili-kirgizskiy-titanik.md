@@ -97,7 +97,7 @@ tags: "права человека, реакция, эпидемия, аэроп
 
 Люди кричат: «Мы достучались до власти, а улетают другие!», «Мы не можем больше!», «Пустите!».
 
-**link:** https://novayagazeta.ru/articles/2020/03/21/84427-s-samogo-nachala-prinimalis-neadekvatnye-resheniya
+**link:** [«С самого начала принимались неадекватные решения»](2020/03/21/84427-s-samogo-nachala-prinimalis-neadekvatnye-resheniya.md)
 
 # Деньги и воздух
 

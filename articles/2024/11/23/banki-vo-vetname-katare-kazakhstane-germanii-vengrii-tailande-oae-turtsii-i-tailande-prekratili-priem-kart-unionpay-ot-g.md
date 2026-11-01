@@ -23,8 +23,8 @@ tags: ""
 
 Напомним, UnionPay — китайская международная платежная система, подключение к которой позволяла клиентам российских банков расплачиваться за рубежом даже после отключения SWIFT.
 
-Очередной пакет санкций, принятый Минфином США [в четверг](https://novayagazeta.ru/articles/2024/11/21/ssha-vveli-sanktsii-protiv-gazprombanka-dom-rf-i-rukovodstva-tsb-i-prigrozili-sanktsiiami-za-podkliuchenie-k-rossiiskomu-swift-news), коснулся физлиц — среди них руководство ЦБ, и банков — среди крупных из них Газпромбанк, ДОМРФ, инвестиционный БКС-банк и банки поменьше.
+Очередной пакет санкций, принятый Минфином США [в четверг](2024/11/21/ssha-vveli-sanktsii-protiv-gazprombanka-dom-rf-i-rukovodstva-tsb-i-prigrozili-sanktsiiami-za-podkliuchenie-k-rossiiskomu.md), коснулся физлиц — среди них руководство ЦБ, и банков — среди крупных из них Газпромбанк, ДОМРФ, инвестиционный БКС-банк и банки поменьше.
 
 Кроме того, под угрозой санкций оказался «российский SWIFT» — автономная система межбанковских переводов СПФС.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/11/22/kurs-dollara-podnialsia-vyshe-103-rublei-vpervye-s-marta-2022-goda-news
+**Читайте также:** [Курс доллара поднялся выше 103 рублей — впервые с марта 2022 года](2024/11/22/kurs-dollara-podnialsia-vyshe-103-rublei-vpervye-s-marta-2022-goda-news.md)

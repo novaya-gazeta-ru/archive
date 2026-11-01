@@ -13,7 +13,7 @@ tags: "врачи, навальный, омск, em"
 
 > **есть продолжение**
 >
-> [В омской больнице заявили, что не нашли следов ядов в организме Навального](https://novayagazeta.ru/news/2020/08/21/163849-v-omskoy-bolnitse-zayavili-chto-ne-nashli-sledov-yadov-v-organizme-navalnogo)
+> [В омской больнице заявили, что не нашли следов ядов в организме Навального](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/08/21/163849-v-omskoy-bolnitse-zayavili-chto-ne-nashli-sledov-yadov-v-organizme-navalnogo)
 
 Александр Мураховский, главврач омской больницы, в которой находится политик Алексей Навальный, заявили, что он нетранспортабелен. Об этом сообщила в твиттере пресс-секретарь Навального Кира Ярмыш.
 
@@ -23,7 +23,7 @@ tags: "врачи, навальный, омск, em"
 
 Позже Ярмыш [сообщила](https://twitter.com/Kira_Yarmysh/status/1296682151094685696), что к прессе вышел директор Фонда борьбы с коррупцией Иван Жданов и со слов полицейского в больнице рассказал о нахождении в организме политика яда, опасного не только для него, но и для окружающих. Название вещества не говорят, объясняя это «тайной следствия», а врачи, по ее словам, на сообщение не реагируют. Однако в транспортной полиции Омска [заявили](https://t.me/OpenMedia/6617), что пока не могут подтвердить информацию об опасном для окружающих яде в организме политика.
 
-Накануне канцлер ФРГ Ангела Меркель и президент Франции Эмманюэль Макрон [заявили](https://novayagazeta.ru/news/2020/08/20/163843-makron-i-merkel-zayavili-o-gotovnosti-predostavit-medpomosch-navalnomu), что их страны готовы оказать Навальному медпомощь. Кинопродюсер и правозащитник Яка Бизиль [сообщил](https://www.spiegel.de/politik/ausland/russland-alexej-nawalny-soll-in-deutschland-behandelt-werden-a-30db26ee-f43e-4952-9781-31a06c6e7556?d=1597941083&sara_ecid=app_upd_xDl6zCyJhGEY9I3axx5s5LM6z4xunp&sara_ecid=soci_upd_KsBF0AFjflf0DZCxpPYDCQgO1dEMph) Der Spiegel, что клиника Шарите в Берлине согласилась принять Навального. В фонде Cinema For Peace [говорили](https://www.bild.de/politik/inland/politik-inland/behandlung-in-der-berliner-charit-putin-kritiker-nawalny-soll-nach-deutschland-72490674.bild.html) Bild, что самолет для транспортировки политика вылетел из Нюрнберга в 3:11 по местному времени (4:11 мск).
+Накануне канцлер ФРГ Ангела Меркель и президент Франции Эмманюэль Макрон [заявили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/08/20/163843-makron-i-merkel-zayavili-o-gotovnosti-predostavit-medpomosch-navalnomu), что их страны готовы оказать Навальному медпомощь. Кинопродюсер и правозащитник Яка Бизиль [сообщил](https://www.spiegel.de/politik/ausland/russland-alexej-nawalny-soll-in-deutschland-behandelt-werden-a-30db26ee-f43e-4952-9781-31a06c6e7556?d=1597941083&sara_ecid=app_upd_xDl6zCyJhGEY9I3axx5s5LM6z4xunp&sara_ecid=soci_upd_KsBF0AFjflf0DZCxpPYDCQgO1dEMph) Der Spiegel, что клиника Шарите в Берлине согласилась принять Навального. В фонде Cinema For Peace [говорили](https://www.bild.de/politik/inland/politik-inland/behandlung-in-der-berliner-charit-putin-kritiker-nawalny-soll-nach-deutschland-72490674.bild.html) Bild, что самолет для транспортировки политика вылетел из Нюрнберга в 3:11 по местному времени (4:11 мск).
 
 Напомним, Навальному накануне стало плохо в самолете Томск — Москва. Из-за этого лайнер совершил экстренную посадку в Омске. Сейчас политик находится в коме, врачи говорили, что его состояние оценивается как стабильно тяжелое, но точный диагноз не озвучивали.
 
@@ -31,4 +31,4 @@ tags: "врачи, навальный, омск, em"
 
 Помощник президента США по нацбезопасности Роберт О’Брайен [заявил](https://www.reuters.com/article/us-russia-politics-navalny/putin-critic-navalny-fights-for-life-aides-suspect-poisoning-idUSKBN25G0F9), что произошедшее с Навальным вызывает обеспокоенность. Если версия об отравлении подтвердится, то это негативно скажется на отношениях Вашингтона и Москвы.
 
-**link:** https://novayagazeta.ru/articles/2020/08/20/86755-agent-otravleniya
+**link:** [Сущий яд](2020/08/20/86755-agent-otravleniya.md)

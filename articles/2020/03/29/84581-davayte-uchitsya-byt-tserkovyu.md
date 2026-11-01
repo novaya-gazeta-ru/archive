@@ -51,4 +51,4 @@ tags: "карантин, церковь, православие, рпц"
 
 *Отец Алексей Уминский, настоятель храма Святой Троицы в Хохлах*
 
-**link:** https://novayagazeta.ru/articles/2020/03/26/84523-milost-bozhiya-morovaya-yazva
+**link:** [«Милость Божия» или моровая язва?](2020/03/26/84523-milost-bozhiya-morovaya-yazva.md)

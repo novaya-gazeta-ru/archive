@@ -21,4 +21,4 @@ tags: "петербург, репрессии, ремонт"
 
 - 16 февраля — вторая годовщина смерти Алексея Навального. В Петербурге с самого утра люди несут цветы к Соловецкому камню на Троицкой площади однако, принесенные утром букеты уже исчезли, [отмечают](https://t.me/MR7v2/7813) журналисты. Рядом с монументом также дежурит полиция. О задержаниях не сообщается.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/14/pravitelstvo-velikobritanii-i-mirovye-smi-opublikovali-versiiu-spetsialistov-iz-laboratorii-germanii-frantsii-velikobritanii-shvetsii-i-niderlandov-o-smerti-navalnogo-ot-sverkhtoksichnogo-iada-news
+**Читайте также:** [Правительство Великобритании и мировые СМИ опубликовали версию специалистов из лабораторий Германии, Франции, Великобритании, Швеции и Нидерландов — о смерти Навального от сверхтоксичного яда](2026/02/14/pravitelstvo-velikobritanii-i-mirovye-smi-opublikovali-versiiu-spetsialistov-iz-laboratorii-germanii-frantsii-velikobrit.md)

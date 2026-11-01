@@ -63,8 +63,8 @@ tags: ""
  \
  По версии следствия, в 2019–2022 годах Гуцул, работая секретарем партии Илана Шора, ввозила в Молдову деньги, полученные от российских источников. Гуцул возглавляет Гагаузию с июля 2023 года.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/04/mir-v-ozhidanii-mira-chto-proizoshlo-4-avgusta-2025-goda
+**Читайте также:** [Мир в ожидании мира. Что произошло 4 августа 2025 года](2025/08/04/mir-v-ozhidanii-mira-chto-proizoshlo-4-avgusta-2025-goda.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/01/mir-v-ozhidanii-mira-chto-proizoshlo-1-avgusta-2025-goda
+**Читайте также:** [Мир в ожидании мира. Что произошло 1 августа 2025 года](2025/08/01/mir-v-ozhidanii-mira-chto-proizoshlo-1-avgusta-2025-goda.md)
 
 #### * Признан нежелательной организацией в РФ.

@@ -53,7 +53,7 @@ tags: "поэзия, литература, книги"
 
 **В.Ш.:** Да, мы будем все время стрелять в то место, где утка только что пролетела. Тогда внутри этого сценария появился какой-то старик со своей старой собакой…
 
-**link:** https://novayagazeta.ru/articles/2017/02/15/71524-22-y-trolleybus-i-drugie-etyudy
+**link:** [https://novayagazeta.ru/articles/2017/02/15/71524-22-y-trolleybus-i-drugie-etyudy](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/02/15/71524-22-y-trolleybus-i-drugie-etyudy)
 
 **И.Л.:** Сочинили три новеллы об этом старике. Уходящая натура — ​эта тема проклевывалась постепенно.
 

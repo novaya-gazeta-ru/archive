@@ -15,4 +15,4 @@ tags: ""
 
 *[media: &nbsp;]*
 
-*[media: Подробности — в <a href="http://www.novayagazeta.ru/society/64519.html">репортаже</a> стажеров «Новой газеты»&nbsp;Полины БУЛДОВСКОЙ, Дарьи ЯКИМОВОЙ, Инны ФЕДОСЕЕВОЙ, Анастасии МОРОЗОВОЙ, Дарьи КРАМАРОВОЙ]*
+*[media: Подробности — в <a href="[http://www.novayagazeta.ru/society/64519.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/64519.html)">репортаже</a> стажеров «Новой газеты»&nbsp;Полины БУЛДОВСКОЙ, Дарьи ЯКИМОВОЙ, Инны ФЕДОСЕЕВОЙ, Анастасии МОРОЗОВОЙ, Дарьи КРАМАРОВОЙ]*

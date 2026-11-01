@@ -27,7 +27,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/05/06/1399384032_452547_52.jpg" style="width: 360px; height: 320px;"><sup>Игры Путина</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/05/06/1399384032_452547_52.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/05/06/1399384032_452547_52.jpg)" style="width: 360px; height: 320px;"><sup>Игры Путина</sup></td>
 		</tr>
 	</tbody>]*
 
@@ -39,7 +39,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><sup><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/05/06/1399384020_980205_85.jpg" style="width: 360px; height: 240px;">Показательный процесс. История Pussy Riot</sup></td>
+			<td class="g-justify-right"><sup><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/05/06/1399384020_980205_85.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/05/06/1399384020_980205_85.jpg)" style="width: 360px; height: 240px;">Показательный процесс. История Pussy Riot</sup></td>
 		</tr>
 	</tbody>]*
 

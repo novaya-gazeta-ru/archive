@@ -141,4 +141,4 @@ tags: "пацифик, цветы, песня про войну, мегапол�
 
 Я и так ее слышал.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/08/11/vnutri-vysokhshego-basseina
+**Читайте также:** [Внутри высохшего бассейна](2023/08/11/vnutri-vysokhshego-basseina.md)

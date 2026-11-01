@@ -51,4 +51,4 @@ tags: "санкт-петербург, снос, ольга берггольц, �
 
 Молчание было ответом.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/03/04/grazhdanin-pushkin-dolzhen-predostavit-spravku
+**Читайте также:** [Гражданин Пушкин должен предоставить справку](2023/03/04/grazhdanin-pushkin-dolzhen-predostavit-spravku.md)

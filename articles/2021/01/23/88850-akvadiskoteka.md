@@ -29,7 +29,7 @@ tags: "фоторепортаж, задержания, навальный, ак�
 
 *Фото: Юрий Козырев / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2021/01/23/88853-na-sklad-gryazi
+**link:** [«Вся Россия — дворец Путина»](2021/01/23/88853-na-sklad-gryazi.md)
 
 ![](_assets/77/77c33eceb1af68ec80db3da648c8b880.webp)
 

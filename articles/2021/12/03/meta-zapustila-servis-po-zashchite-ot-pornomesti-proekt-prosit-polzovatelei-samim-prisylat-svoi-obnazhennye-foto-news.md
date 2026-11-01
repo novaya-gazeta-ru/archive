@@ -25,10 +25,10 @@ Meta разработала проект совместно с горячей л
 
 StopNCII.org основан на технологии, разработанной в рамках пилотного проекта Facebook и Instagram в 2018 году. Разработчики уточнили, что если интимную фотографию обрежут или наложат на нее фильтры, то у нее изменится хеш и сервис [не сможет](https://stopncii.org/faq/) ее распознать.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/16/i-so-smertiu-tsukerberg-skoro-chto-nibud-pridumaet
+**Читайте также:** [И со смертью Цукерберг скоро что-нибудь придумает](2021/11/16/i-so-smertiu-tsukerberg-skoro-chto-nibud-pridumaet.md)
 
-Ранее компания Apple [собиралась](https://novayagazeta.ru/articles/2021/08/05/ft-apple-sobiraetsia-vnedrit-po-pozvoliaiushchee-skanirovat-fotografii-v-aifonakh-eto-obiasniaiut-zashchitoi-detei-news) внедрить в смартфоны американских пользователей специальное программное обеспечение, которое сможет сканировать фотографии на устройствах. Предполагается, что ПО будет анализировать изображения, на которых могут быть запечатлены кадры насилия в отношении несовершеннолетних.
+Ранее компания Apple [собиралась](2021/08/05/ft-apple-sobiraetsia-vnedrit-po-pozvoliaiushchee-skanirovat-fotografii-v-aifonakh-eto-obiasniaiut-zashchitoi-detei-news.md) внедрить в смартфоны американских пользователей специальное программное обеспечение, которое сможет сканировать фотографии на устройствах. Предполагается, что ПО будет анализировать изображения, на которых могут быть запечатлены кадры насилия в отношении несовершеннолетних.
 
 Компания и раньше сканировала выгруженные в облачное хранилище iCloud фотографии на предмет жесткого обращения с детьми.
 
-В сентябре Apple [отложила](https://novayagazeta.ru/articles/2021/09/03/apple-otlozhila-zapusk-po-dlia-skanirovaniia-foto-polzovatelei-tak-kompaniia-khotela-borotsia-s-detskim-porno-no-ee-obvinili-v-slezhke-news) запуск проекта, чтобы его улучшить.
+В сентябре Apple [отложила](2021/09/03/apple-otlozhila-zapusk-po-dlia-skanirovaniia-foto-polzovatelei-tak-kompaniia-khotela-borotsia-s-detskim-porno-no-ee-obvi.md) запуск проекта, чтобы его улучшить.

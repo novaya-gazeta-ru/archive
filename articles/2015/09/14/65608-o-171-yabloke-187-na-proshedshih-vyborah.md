@@ -23,9 +23,9 @@ tags: "выборы, яблоко"
 
 При этом важнее всего то, что наши кандидаты шли с четкой политической позицией, заявив свое категорическое неприятие внутреннего и внешнего политического курса действующей в России власти, подписав предвыборный политический Меморандум. В нем события в Крыму определены как аннексия, отрицается сталинизм и национализм, а европейский выбор признается не имеющим для нашей страны альтернативы.
 
-**link:** https://novayagazeta.ru/news/1696486.html
+**link:** [https://novayagazeta.ru/news/1696486.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1696486.html)
 
-**link:** https://novayagazeta.ru/news/1696486.html
+**link:** [https://novayagazeta.ru/news/1696486.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1696486.html)
 
 * **
 

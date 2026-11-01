@@ -205,4 +205,4 @@ tags: "врачи, медицина, интервью"
 
 Вот это именно то, к чему я и стремлюсь.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/10/doloi-tsarizm-vsekh-boleznei
+**Читайте также:** [Долой царизм всех болезней](2021/03/10/doloi-tsarizm-vsekh-boleznei.md)

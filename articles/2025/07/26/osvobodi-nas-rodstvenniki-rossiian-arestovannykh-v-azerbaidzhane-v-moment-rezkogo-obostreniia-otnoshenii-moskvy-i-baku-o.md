@@ -23,15 +23,15 @@ tags: ""
 
 > Подписи под петицией, где чиновников и дипломатов просят сделать все возможное для скорейшего освобождения незаконно заключенных, оставляют и обычные россияне — на момент написания этой заметки их уже более 2800.
 
-Напомним, задержания россиян в Баку состоялись в момент резкого обострения отношений России и Азербайджана — после [рейдов против азербайджанской общины](https://novayagazeta.ru/articles/2025/06/28/v-ekaterinburge-v-khode-oblavy-na-azerbaidzhantsev-skonchalsia-podozrevaemyi-v-prestuplenii-20-letnei-davnosti-eshche-desiatki-liudei-zaderzhany-news) в Екатеринбурге, которые устроили силовики, задерживая обвиняемых в резонансных преступлениях прошлых лет.
+Напомним, задержания россиян в Баку состоялись в момент резкого обострения отношений России и Азербайджана — после [рейдов против азербайджанской общины](2025/06/28/v-ekaterinburge-v-khode-oblavy-na-azerbaidzhantsev-skonchalsia-podozrevaemyi-v-prestuplenii-20-letnei-davnosti-eshche-de.md) в Екатеринбурге, которые устроили силовики, задерживая обвиняемых в резонансных преступлениях прошлых лет.
 
 СК решил задержать подозреваемых в убийстве 20-летней давности, в котором, предположительно, раскрыл «новые обстоятельства», — но при задержании скончались два азербайджанца.
 
 По российской версии, у одного из них не выдержало сердце в момент проведения следственных действий. Про смерть второго российская сторона не сообщала.
 
-Азербайджанская сторона, которая добилась репатриации тел погибших — а они братья — после проведения собственной медицинской экспертизы, [заявила о пытках и следах избиений погибших](https://novayagazeta.ru/articles/2025/07/01/prichinoi-smerti-azerbaidzhantsev-safarovykh-stal-travmaticheskii-shok-u-odnogo-iz-nikh-byli-slomany-vse-rebra-obnaruzhili-sudmedeksperty-v-baku-news).
+Азербайджанская сторона, которая добилась репатриации тел погибших — а они братья — после проведения собственной медицинской экспертизы, [заявила о пытках и следах избиений погибших](2025/07/01/prichinoi-smerti-azerbaidzhantsev-safarovykh-stal-travmaticheskii-shok-u-odnogo-iz-nikh-byli-slomany-vse-rebra-obnaruzhi.md).
 
-В ответ на задержания в Екатеринбурге, Баку отменил все культурные мероприятия с участием россиян, задержал журналистов российского местного холдинга RT, [обвинив их в шпионаже](https://novayagazeta.ru/articles/2025/06/30/mid-rf-vyzval-posla-azerbaidzhana-posle-zaderzhaniia-rukovoditelei-biuro-sputnik-v-baku-kak-agentov-fsb-news), и устроил [показательно жестокие задержания](https://novayagazeta.ru/articles/2025/07/01/spetssluzhby-azerbaidzhana-otchitalis-o-zaderzhanii-dvukh-opg-rossiian-i-pokazali-ikh-zhestkoe-zaderzhanie-i-izbitye-litsa-news) группы других россиян-айтишников, предположительно, релокантов, в создании некой «ОПГ» для совершения киберпреступлений.
+В ответ на задержания в Екатеринбурге, Баку отменил все культурные мероприятия с участием россиян, задержал журналистов российского местного холдинга RT, [обвинив их в шпионаже](2025/06/30/mid-rf-vyzval-posla-azerbaidzhana-posle-zaderzhaniia-rukovoditelei-biuro-sputnik-v-baku-kak-agentov-fsb-news.md), и устроил [показательно жестокие задержания](2025/07/01/spetssluzhby-azerbaidzhana-otchitalis-o-zaderzhanii-dvukh-opg-rossiian-i-pokazali-ikh-zhestkoe-zaderzhanie-i-izbitye-lit.md) группы других россиян-айтишников, предположительно, релокантов, в создании некой «ОПГ» для совершения киберпреступлений.
 
 ![](_assets/10/1057872fe4f9089d3d0cb207694c54d1.webp)
 
@@ -39,8 +39,8 @@ tags: ""
 
 Обе страны вызывали чужих послов в МИДы и выразили им протест.
 
-Российский МИД выразил сожаление ухудшением взаимоотношений, но в России жесткие задержания влиятельных членов азербайджанской общины еще некоторое время [продолжились](https://novayagazeta.ru/articles/2025/07/02/vykhodtsam-iz-azerbaidzhana-v-ekaterinburge-prediavili-obvineniia-po-delu-ob-ubiistvakh-i-pokushenii-20-letnei-davnosti-news) — [и в Екатеринбурге](https://novayagazeta.ru/articles/2025/07/01/lezhat-glavu-azerbaidzhanskoi-diaspory-v-ekaterinburge-vyvolokli-iz-avto-i-nadeli-naruchniki-prizhav-k-asfaltu-ssora-s-baku-prodolzhaetsia-news), и в других регионах. МИД настаивал, что все действия российские силовики производят в соответствии с законом.
+Российский МИД выразил сожаление ухудшением взаимоотношений, но в России жесткие задержания влиятельных членов азербайджанской общины еще некоторое время [продолжились](2025/07/02/vykhodtsam-iz-azerbaidzhana-v-ekaterinburge-prediavili-obvineniia-po-delu-ob-ubiistvakh-i-pokushenii-20-letnei-davnosti-.md) — [и в Екатеринбурге](2025/07/01/lezhat-glavu-azerbaidzhanskoi-diaspory-v-ekaterinburge-vyvolokli-iz-avto-i-nadeli-naruchniki-prizhav-k-asfaltu-ssora-s-b.md), и в других регионах. МИД настаивал, что все действия российские силовики производят в соответствии с законом.
 
 Несколько дней спустя Кремль объявил (https://t.me/novaya_pishet/52715): «Нам важно, чтобы в Азербайджане уважали русских». Публичной реакции МИД на просьбу родных арестованных в Баку россиян пока не было.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/03/is-pytanie
+**Читайте также:** [Ис-пытание](2025/07/03/is-pytanie.md)

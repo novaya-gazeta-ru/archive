@@ -27,6 +27,6 @@ tags: ""
 
 Судно, за которым тянется нефтяной след, могло получить повреждения в результате ударов ВСУ по танкерам и сухогрузам, которое украинские военные предпринимают с начала июля.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/14/ot-chushki-do-kuchugury-vlasti-kubani-zaiavili-o-novykh-vybrosakh-nefteproduktov-na-pliazhi-v-temriukskom-raione-news
+**Читайте также:** [От Чушки до Кучугуры. Власти Кубани заявили о новых выбросах нефтепродуктов на пляжах в Темрюкском районе](2026/07/14/ot-chushki-do-kuchugury-vlasti-kubani-zaiavili-o-novykh-vybrosakh-nefteproduktov-na-pliazhi-v-temriukskom-raione-news.md)
 
 #### * Минюст считает «иноагентом».

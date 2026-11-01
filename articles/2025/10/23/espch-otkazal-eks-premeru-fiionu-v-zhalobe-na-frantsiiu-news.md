@@ -17,7 +17,7 @@ tags: ""
 
 > Суд [пришел к выводу](https://www.echr.coe.int/fr/w/inadmissibility-decision-concerning-france-4?p_l_back_url=%2Ffr%2Fsearch%3Fq%3DFillon&p_l_back_url_title=Page+de+recherche), что «оспариваемая уголовная процедура в целом явно носила справедливый характер» в соответствии с Европейской конвенцией по правам человека.
 
-Напомним, господин Фийон был приговорен во Франции за хищение государственных средств [по делу о фиктивном трудоустройстве своей жены Пенелопы](https://novayagazeta.ru/articles/2025/06/17/4-goda-zakliucheniia-dlia-muzha-penelopy-fiion-vo-frantsii-opiat-prigovorili-byvshego-premer-ministra-news) во французском парламенте.
+Напомним, господин Фийон был приговорен во Франции за хищение государственных средств [по делу о фиктивном трудоустройстве своей жены Пенелопы](2025/06/17/4-goda-zakliucheniia-dlia-muzha-penelopy-fiion-vo-frantsii-opiat-prigovorili-byvshego-premer-ministra-news.md) во французском парламенте.
 
 Экс-премьер времен президентства Саркози (2007-2012) получил 4 года, из которых 1 год «реально» (что по французскому закону позволяло заменить этот приговор на домашний арест с электронным браслетом), а также к штрафу в 375 тыс. евро и запрету занимать госдолжности в течение 10 лет. Двое других фигурантов этого дела — получивших сегодня отказ в ЕСПЧ — это Пенелопа Фийон и бывший фийоновский помощник Марк Жуло.
 
@@ -25,8 +25,8 @@ tags: ""
 
 Это громкое дело стало главным скандалом предвыборной президентской кампании во Франции в 2017 году и не позволило тогдашнему главному фавориту гонки Фийону попасть в Елисейский дворец.
 
-Президентом страны в итоге [стал Эмманюэль Макрон](https://novayagazeta.ru/articles/2017/05/07/72392-vybory-frantsiya).
+Президентом страны в итоге [стал Эмманюэль Макрон](2017/05/07/72392-vybory-frantsiya.md).
 
-В июле 2025 года ЕСПЧ [отклонил](https://novayagazeta.ru/articles/2025/07/09/espch-otklonil-obrashchenie-le-pen-trebovavshei-pozvolit-ei-vydvigatsia-v-prezidenty-news) обращение Марин Ле Пен, требовавшей позволить ей выдвигаться в президенты, несмотря на запрет французского суда, лишивший ее избирательных прав на 5 лет по [делу о фиктивных рабочих местах в Европарламенте](https://novayagazeta.ru/articles/2025/04/08/okhota-na-vedmu).
+В июле 2025 года ЕСПЧ [отклонил](2025/07/09/espch-otklonil-obrashchenie-le-pen-trebovavshei-pozvolit-ei-vydvigatsia-v-prezidenty-news.md) обращение Марин Ле Пен, требовавшей позволить ей выдвигаться в президенты, несмотря на запрет французского суда, лишивший ее избирательных прав на 5 лет по [делу о фиктивных рабочих местах в Европарламенте](2025/04/08/okhota-na-vedmu.md).
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/10/21/eks-prezident-frantsii-sarkozi-nachal-otbyvat-nakazanie-v-tiurme-sante-prigovorennyi-k-piati-godam-po-delu-kaddafi-on-provedet-za-reshetkoi-ne-bolshe-mesiatsa-nadeiutsia-advokaty-news
+**Читайте также:** [Экс-президент Франции Саркози начал отбывать наказание в тюрьме Санте. Приговоренный к пяти годам по «делу Каддафи», он проведет за решеткой не больше месяца, надеются адвокаты](2025/10/21/eks-prezident-frantsii-sarkozi-nachal-otbyvat-nakazanie-v-tiurme-sante-prigovorennyi-k-piati-godam-po-delu-kaddafi-on-pr.md)

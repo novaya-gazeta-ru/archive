@@ -13,7 +13,7 @@ tags: "свердловская область, чайка, генпрокура
 
 Генеральный прокурор Юрий Чайка отстранил от исполнения обязанностей заместителя прокурора Свердловской области Дмитрия Чуличкова. В отношении него начата служебная проверка, [сообщает](https://genproc.gov.ru/smi/news/genproc/news-1749166/) пресс-служба надзорного ведомства.
 
-Чуличкова подозревают в причастности к [делу замруководителя](https://novayagazeta.ru/news/2019/12/01/157339-v-ekaterinburge-zamestitelya-glavy-oblastnogo-sk-otpravili-pod-domashniy-arest) свердловского управления СКР Михаила Бусылко, которого 29 ноября [задержали](https://novayagazeta.ru/news/2019/11/30/157320-v-ekaterinbuge-fsb-zaderzhala-pervogo-zamnachalnika-skr-po-sverdlovskoy-oblasti) по подозрению в получении взятки в размере 1,8 млн рублей.
+Чуличкова подозревают в причастности к [делу замруководителя](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/12/01/157339-v-ekaterinburge-zamestitelya-glavy-oblastnogo-sk-otpravili-pod-domashniy-arest) свердловского управления СКР Михаила Бусылко, которого 29 ноября [задержали](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/11/30/157320-v-ekaterinbuge-fsb-zaderzhala-pervogo-zamnachalnika-skr-po-sverdlovskoy-oblasti) по подозрению в получении взятки в размере 1,8 млн рублей.
 
 Деньги Бусылко, по версии следствия, передал через своего адвоката Владислава Вострецова владелец металлургического завода имени Бардина Виталий Трухин. Таким образом бизнесмен хотел добиться возобновления уголовного дела о хищении имущесттва с его предприятия.
 

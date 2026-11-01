@@ -21,8 +21,8 @@ tags: "убийство, керчь, em"
 
 Следственный комитет России возбудил уголовное дело по статье об убийстве двух и более лиц (ч. 2 ст. 105 УК).
 
-Президент Владимир Путин [заявил](https://www.novayagazeta.ru/news/2018/10/18/146053-putin-svyazal-napadenie-v-kerchi-s-globalizatsiey-i-otsutstviem-poleznogo-kontenta-dlya-molodezhi), что трагедия является результатом всеобщей мировой глобализации: «В соцсетях и интернете мы видим, что целые сообщества созданы. Все началось с известных трагических событий в школах США. Молодые люди с неустойчивой психикой каких-то лжегероев себе создают».
+Президент Владимир Путин [заявил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/10/18/146053-putin-svyazal-napadenie-v-kerchi-s-globalizatsiey-i-otsutstviem-poleznogo-kontenta-dlya-molodezhi), что трагедия является результатом всеобщей мировой глобализации: «В соцсетях и интернете мы видим, что целые сообщества созданы. Все началось с известных трагических событий в школах США. Молодые люди с неустойчивой психикой каких-то лжегероев себе создают».
 
-Церемония прощания с погибшими в колледже [прошла](https://www.novayagazeta.ru/news/2018/10/19/146086-v-kerchi-proshla-tseremoniya-proschaniya-s-pogibshimi-pri-strelbe-v-kolledzhe) 19 октября.
+Церемония прощания с погибшими в колледже [прошла](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/10/19/146086-v-kerchi-proshla-tseremoniya-proschaniya-s-pogibshimi-pri-strelbe-v-kolledzhe) 19 октября.
 
-**link:** https://novayagazeta.ru/articles/2018/10/20/78277-paren-prosto-ne-znal-chto-delat-po-zhizni
+**link:** [«Колумбайны придумали американцы, чтобы нас атаковать»](2018/10/20/78277-paren-prosto-ne-znal-chto-delat-po-zhizni.md)

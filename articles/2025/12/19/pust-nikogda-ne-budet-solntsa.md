@@ -113,7 +113,7 @@ tags: "политзаключенные, пытки , шизо, лгбт, рос
 
 Мужчина признал свою вину. Кроме основного наказания обвиняемому запретили в течение двух лет размещать материалы в интернете.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/12/10/62-toma-i-ni-odnogo-dokazatelstva
+**Читайте также:** [https://novayagazeta.ru/articles/2025/12/10/62-toma-i-ni-odnogo-dokazatelstva](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2025/12/10/62-toma-i-ni-odnogo-dokazatelstva)
 
 ### * * *
 

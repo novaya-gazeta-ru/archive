@@ -93,9 +93,9 @@ tags: "космодром восточный, рогозин"
 
 Но вместо Тюришева перед Путиным и широкой общественностью отчитался вице-премьер Дмитрий Рогозин — 9 мая он заявил, что на «Восточном» погашены все задолженности по зарплате. А еще раньше, за день до прямой линии, «Дальспецстрой» заявил о том, что ТМК тоже полностью закрыла долги перед своими работниками.
 
-**link:** https://novayagazeta.ru/society/69160.html
+**link:** [https://novayagazeta.ru/society/69160.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/69160.html)
 
-**link:** https://novayagazeta.ru/society/69160.html
+**link:** [https://novayagazeta.ru/society/69160.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/69160.html)
 
 У самого Антона никаких «специальных» способов связи с президентским окружением — кроме общедоступных — после прямой линии так и не появилось.
 

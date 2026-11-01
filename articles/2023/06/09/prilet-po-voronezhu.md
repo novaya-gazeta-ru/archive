@@ -27,4 +27,4 @@ tags: "атака беспилотников, воронеж"
 
 В городе о случившемся мало кто знает, паники нет.
 
-**Смотрите фото:** https://novayagazeta.ru/articles/2023/06/09/bespilotnik-s-vzryvchatkoi-upal-na-zhiloi-dom-v-voronezhe-fotografiia
+**Смотрите фото:** [Воронеж, Белгород и Курск: последствия атаки беспилотников 9 июня. Фотографии](2023/06/09/bespilotnik-s-vzryvchatkoi-upal-na-zhiloi-dom-v-voronezhe-fotografiia.md)

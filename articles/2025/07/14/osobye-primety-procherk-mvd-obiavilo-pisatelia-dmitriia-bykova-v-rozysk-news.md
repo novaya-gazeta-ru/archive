@@ -17,6 +17,6 @@ tags: ""
 
 Быков эмигрировал из России осенью 2021 года. Он живет в США, преподает в Корнеллском университете.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/14/pisatelia-borisa-akunina-prigovorili-k-14-godam-lisheniia-svobody-i-shtrafu-v-600-tysiach-rublei-news
+**Читайте также:** [Писателя Бориса Акунина* приговорили к 14 годам лишения свободы и штрафу в 600 тысяч рублей](2025/07/14/pisatelia-borisa-akunina-prigovorili-k-14-godam-lisheniia-svobody-i-shtrafu-v-600-tysiach-rublei-news.md)
 
 #### * Минюст считает «иноагентами».

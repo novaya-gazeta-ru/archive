@@ -68,7 +68,7 @@ tags: "вячеслав малахов, дореволюцiонный совѣт
  Живя между мгновениями истерзанной нежности,\
  Мы верим день за днем в день за дном и держимся.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/04/09/okazalos-liubov-krepche-sten-dolgovechnee-slov
+**Читайте также:** [https://novayagazeta.ru/articles/2024/04/09/okazalos-liubov-krepche-sten-dolgovechnee-slov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/04/09/okazalos-liubov-krepche-sten-dolgovechnee-slov)
 
 ### 3.
 

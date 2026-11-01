@@ -13,7 +13,7 @@ tags: "адвокат, мария эйсмонт"
 
 *Гость стрима — адвокат Мария Эйсмонт*
 
-**А еще смотрите:** https://novayagazeta.ru/articles/2023/12/26/slovo-patsana-i-goluboi-ogonek-2024-chto-nam-pokazhut-na-prazdnikakh
+**А еще смотрите:** [«Слово пацана» и «Голубой огонек» 2024. Что нам покажут на праздниках?](2023/12/26/slovo-patsana-i-goluboi-ogonek-2024-chto-nam-pokazhut-na-prazdnikakh.md)
 
 А еще смотрите
 

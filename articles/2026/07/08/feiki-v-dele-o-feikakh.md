@@ -41,4 +41,4 @@ tags: ""
 
 *Санкт-Петербург*
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/07/ia-ne-mogu-byt-vinovnym-eto-ne-prestuplenie
+**Читайте также:** [«Я не могу быть виновным, это не преступление»](2026/07/07/ia-ne-mogu-byt-vinovnym-eto-ne-prestuplenie.md)

@@ -63,4 +63,4 @@ tags: "фсб, филинков , дело сети, суды, петербур�
 
 * Организация признана террористической и запрещена в России
 
-**novaya:** https://novayagazeta.ru/articles/2020/05/26/85538-vyzyvaet-nedoumenie
+**novaya:** [«Вызывает недоумение»](2020/05/26/85538-vyzyvaet-nedoumenie.md)

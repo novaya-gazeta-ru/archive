@@ -47,9 +47,9 @@ tags: "арест, как это устроено, мотив"
 
 Был случай, когда следователь мотивировал необходимость продления ареста «большим объемом дела, которые принтер не успевает печатать».
 
-**link:** https://novayagazeta.ru/news/1694671.html
+**link:** [https://novayagazeta.ru/news/1694671.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1694671.html)
 
-**link:** https://novayagazeta.ru/news/1694671.html
+**link:** [https://novayagazeta.ru/news/1694671.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1694671.html)
 
 Все это, конечно, может вызвать улыбку, если бы подобный бред не стоил людям реальных месяцев, а то и лет, проведенных в камере.
 

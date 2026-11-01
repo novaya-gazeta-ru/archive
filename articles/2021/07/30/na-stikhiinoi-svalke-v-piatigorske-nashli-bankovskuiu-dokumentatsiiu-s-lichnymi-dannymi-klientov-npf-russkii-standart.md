@@ -23,4 +23,4 @@ NewsTracker пишет, что в начале этого года в здани
 
 Прокуратура начала проверку.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/13/napriazhenie-v-seti
+**Читайте также:** [Напряжение в Сети](2021/03/13/napriazhenie-v-seti.md)

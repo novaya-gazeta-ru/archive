@@ -29,4 +29,4 @@ tags: "елена липцер,  алексей липцер, дело адво�
 
 Мы просим о милосердии: помогите сыну проститься с мамой!
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/08/14/chto-bylo-na-sekretnom-protsesse-v-petushkakh
+**Читайте также:** [Что было на «секретном» процессе в Петушках](2025/08/14/chto-bylo-na-sekretnom-protsesse-v-petushkakh.md)

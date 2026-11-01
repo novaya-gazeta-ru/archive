@@ -47,9 +47,9 @@ tags: "архитектура, москва"
 
 Есть ли вообще федеральная политика в отношении Москвы? В чем она выражается или должна выражаться?
 
-**link:** https://novayagazeta.ru/society/72619.html
+**link:** [https://novayagazeta.ru/society/72619.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/72619.html)
 
-**link:** https://novayagazeta.ru/society/72619.html
+**link:** [https://novayagazeta.ru/society/72619.html](https://web.archive.org/web/*/https://novayagazeta.ru/society/72619.html)
 
 Мой любимый пример связан с попыткой переноса парламента на мокрый луг, в спальный район.
 

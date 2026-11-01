@@ -21,4 +21,4 @@ tags: "скандинавия, авиасообщение, авиакомпан�
 
 Во всех континентальных скандинавских странах уже сняты противоэпидемические ограничения.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/10/16/koronavirus-teper-ne-ugroza-dlia-obshchestva
+**Читайте также:** [Коронавирус теперь не угроза для общества](2021/10/16/koronavirus-teper-ne-ugroza-dlia-obshchestva.md)

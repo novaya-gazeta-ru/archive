@@ -89,11 +89,11 @@ tags: ""
 *[media: <strong>Читайте также:</strong>]*
 
 *[media: <p>
-		<strong><a href="http://www.novayagazeta.ru/blogs/163/55948.html">Андрей ЛОШАК: Шантажировать детьми могут только конченые отморозки</a></strong></p>
+		<strong><a href="[http://www.novayagazeta.ru/blogs/163/55948.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/blogs/163/55948.html)">Андрей ЛОШАК: Шантажировать детьми могут только конченые отморозки</a></strong></p>
 	<p>
-		<strong><a href="http://www.novayagazeta.ru/news/61753.html">Более 20 участников одиночных пикетов против запрета на усыновление российских детей иностранными гражданами задержали сегодня утром у здания Госдумы</a></strong></p>
+		<strong><a href="[http://www.novayagazeta.ru/news/61753.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/61753.html)">Более 20 участников одиночных пикетов против запрета на усыновление российских детей иностранными гражданами задержали сегодня утром у здания Госдумы</a></strong></p>
 	<p>
-		<a href="http://www.novayagazeta.ru/photos/55980.html"><strong>«Закон подлецов»: у здания Госдумы полиция разогнала пикеты против запрета усыновления россиян иностранцами. Фоторепортаж</strong></a></p>
+		<a href="[http://www.novayagazeta.ru/photos/55980.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/55980.html)"><strong>«Закон подлецов»: у здания Госдумы полиция разогнала пикеты против запрета усыновления россиян иностранцами. Фоторепортаж</strong></a></p>
 	<p>
 		<strong></strong></p>
 	<p>

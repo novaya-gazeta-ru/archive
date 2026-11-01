@@ -19,7 +19,7 @@ tags: ""
 
 Не по умыслу чьему. А так… провинция бедна, столице не до этих глупостей.
 
-Путевые записки профессора М.О.Чудаковой читайте в «Новой»:http://www.novayagazeta.ru/data/2007/20/23.htmlhttp://www.novayagazeta.ru/data/2007/27/38.html
+Путевые записки профессора М.О.Чудаковой читайте в «Новой»:[http://www.novayagazeta.ru/data/2007/20/23.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/data/2007/20/23.html) [http://www.novayagazeta.ru/data/2007/27/38.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/data/2007/27/38.html)
 
 Продолжение следует.
 

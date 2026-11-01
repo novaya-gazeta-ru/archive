@@ -15,7 +15,7 @@ tags: "митинги, оппозиция, регионы"
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/03/06/1425666867_344158_28.png" style="width: 340px; height: 252px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/03/06/1425666867_344158_28.png](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/03/06/1425666867_344158_28.png)" style="width: 340px; height: 252px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Станислав Шкель / Vk.com</sup></td>

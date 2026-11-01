@@ -13,7 +13,7 @@ tags: "фсин, колонии, тюрьмы"
 
 *Руководство и сотрудники мордовской колонии внимательно прочитали «Новую газету»*
 
-**link:** https://novayagazeta.ru/articles/2017/03/13/71764-menya-boevogo-ofitsera-postavili-uborschikom-tualetov
+**link:** [«Меня, боевого офицера, поставили уборщиком туалетов»](2017/03/13/71764-menya-boevogo-ofitsera-postavili-uborschikom-tualetov.md)
 
 # Барыги и хозяин
 

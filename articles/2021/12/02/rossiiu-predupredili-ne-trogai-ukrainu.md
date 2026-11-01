@@ -75,7 +75,7 @@ tags: "нато, россия, международные отношения, у
 
 НАТО выбирает тесное сотрудничество с государствами-единомышленниками по всему миру. Кроме Европы и Америки это партнеры в Азиатско-Тихоокеанском регионе: Австралия, Япония, Южная Корея и Новая Зеландия.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/12/novoe-vtorzhenie-v-ukrainu-ispolzovanie-vagnerovtsev-v-mali
+**Читайте также:** [https://novayagazeta.ru/articles/2021/11/12/novoe-vtorzhenie-v-ukrainu-ispolzovanie-vagnerovtsev-v-mali](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/12/novoe-vtorzhenie-v-ukrainu-ispolzovanie-vagnerovtsev-v-mali)
 
 Нужно больше взаимодействовать с другими странами Азии, Африки и Латинской Америки.
 

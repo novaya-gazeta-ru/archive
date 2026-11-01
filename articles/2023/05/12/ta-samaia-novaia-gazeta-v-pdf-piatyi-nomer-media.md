@@ -13,4 +13,4 @@ tags: "pdf, та самая новая газета"
 
 *«Театральное дело» Беркович-Петрийчук. Государственному террору подвергается любая жизнь, альтернативная власти. Листайте газету и печатайте ее дома*
 
-https://novayagazeta.ru/issues/3250
+[https://novayagazeta.ru/issues/3250](https://web.archive.org/web/*/https://novayagazeta.ru/issues/3250)

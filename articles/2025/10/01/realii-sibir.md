@@ -57,4 +57,4 @@ tags: ""
 
 Знание, как оно было, — похоже, единственное у нас, что осталось.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/09/30/v-krasnoiarske-zaderzhali-izvestnuiu-zhurnalistku-svetlanu-khustik-po-delu-o-voennykh-feikakh-news
+**Читайте также:** [Известную красноярскую журналистку Светлану Хустик на два месяца отправили в СИЗО по делу о военных «фейках»](2025/09/30/v-krasnoiarske-zaderzhali-izvestnuiu-zhurnalistku-svetlanu-khustik-po-delu-o-voennykh-feikakh-news.md)

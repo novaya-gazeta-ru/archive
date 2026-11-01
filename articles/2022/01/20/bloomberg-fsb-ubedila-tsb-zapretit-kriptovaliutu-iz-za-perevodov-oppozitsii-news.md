@@ -21,4 +21,4 @@ tags: "криптовалюты, цб, набиуллина, фсб, sf"
 
 В декабре Набиуллина [выступила](https://www.rbc.ru/finances/20/01/2022/61e911ed9a79476db721c0a7) против проведения операций с криптовалютой на российской финансовой инфраструктуре. До этого Reuters со ссылкой на источники [сообщил](https://www.reuters.com/markets/currencies/russian-cenbank-seek-ban-investment-cryptocurrencies-sources-say-2021-12-16/), что ЦБ планирует запретить инвестиции в криптовалюты в России.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/28/maining-kampf
+**Читайте также:** [Майнинг кампф](2021/12/28/maining-kampf.md)

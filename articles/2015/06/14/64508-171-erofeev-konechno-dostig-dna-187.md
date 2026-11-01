@@ -31,9 +31,9 @@ tags: "сбу, украина"
 
 — Наверное, не было особого желания. Увиделись, если б было.
 
-**link:** https://novayagazeta.ru/topics/150.html
+**link:** [https://novayagazeta.ru/topics/150.html](https://web.archive.org/web/*/https://novayagazeta.ru/topics/150.html)
 
-**link:** https://novayagazeta.ru/topics/150.html
+**link:** [https://novayagazeta.ru/topics/150.html](https://web.archive.org/web/*/https://novayagazeta.ru/topics/150.html)
 
 # Сержант Александр Александров
 

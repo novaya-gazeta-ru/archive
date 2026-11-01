@@ -11,9 +11,9 @@ tags: ""
 
 # Путин подписал закон о штрафах за поиск «экстремистского» контента в интернете с 1 сентября. В том числе за поиск мемуаров Навального
 
-Президент Владимир Путин сегодня подписал ранее принятый Госдумой в трех чтениях, а затем в Совете Федерации [подавляющим большинством голосов](https://novayagazeta.ru/articles/2025/07/25/sovet-federatsii-odobril-zakon-o-shtrafakh-rossiian-za-poisk-v-internete-protiv-nikto-ne-progolosoval-a-vozderzhalsia-odin-senator-news) закон о штрафах за поиск в сети экстремистского контента.
+Президент Владимир Путин сегодня подписал ранее принятый Госдумой в трех чтениях, а затем в Совете Федерации [подавляющим большинством голосов](2025/07/25/sovet-federatsii-odobril-zakon-o-shtrafakh-rossiian-za-poisk-v-internete-protiv-nikto-ne-progolosoval-a-vozderzhalsia-od.md) закон о штрафах за поиск в сети экстремистского контента.
 
-Накануне принятия механизм работы закона [несколько раз и не очень внятно объяснял](https://novayagazeta.ru/articles/2025/07/23/putin-ne-ponial-kak-budet-rabotat-zakon-o-shtrafakh-za-poisk-v-internete-ministr-sviazi-emu-obiasnil-a-kreml-opublikoval-eto-video-news) министр связи Максут Шадаев.
+Накануне принятия механизм работы закона [несколько раз и не очень внятно объяснял](2025/07/23/putin-ne-ponial-kak-budet-rabotat-zakon-o-shtrafakh-za-poisk-v-internete-ministr-sviazi-emu-obiasnil-a-kreml-opublikoval.md) министр связи Максут Шадаев.
 
 > Объяснения сводились к тому, что новые правила «якобы не повлияют на обычных пользователей», и «если пользователь не знал о том, что материал экстремистский», «никакой ответственности» не предусмотрено.
 
@@ -33,6 +33,6 @@ tags: ""
 
 Кроме штрафов за поиск заведомо экстремистского контента от 3 до 5 тысяч рублей, закон накладывает большие штрафы за рекламу сервисов VPN, а также за передачу абонентских номеров третьим лицам.
 
-Вчера в реестр запрещенных материалов были добавлены [посмертные мемуары Алексея Навального](https://novayagazeta.ru/articles/2025/07/30/miniust-vnes-memuary-navalnogo-v-reestr-ekstremistskikh-materialov-news) «Патриот», изданные на русском языке. С 1 сентября даже «гуглить» информацию о книге в интернете будет наказываться штрафом.
+Вчера в реестр запрещенных материалов были добавлены [посмертные мемуары Алексея Навального](2025/07/30/miniust-vnes-memuary-navalnogo-v-reestr-ekstremistskikh-materialov-news.md) «Патриот», изданные на русском языке. С 1 сентября даже «гуглить» информацию о книге в интернете будет наказываться штрафом.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/31/nizhegorodskii-gubernator-sravnil-otkliuchenie-interneta-s-ozdorovitelnoi-protseduroi-tipa-detoks-v-regione-sviaz-sboit-uzhe-neskolko-nedel-news
+**Читайте также:** [Нижегородский губернатор сравнил отключение интернета с «оздоровительной процедурой» типа «детокс». В регионе связь сбоит уже несколько недель](2025/07/31/nizhegorodskii-gubernator-sravnil-otkliuchenie-interneta-s-ozdorovitelnoi-protseduroi-tipa-detoks-v-regione-sviaz-sboit-.md)

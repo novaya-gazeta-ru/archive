@@ -23,8 +23,8 @@ tags: ""
 
 Попов вину не признавал, считая судебный процесс местью за конфликт с руководством Генштаба в 2023-м году, когда его отправили в отставку.
 
-Попов [обращался](https://novayagazeta.ru/articles/2025/03/20/eks-komanduiushchii-58-i-gvardeiskoi-armiei-iz-sizo-poprosil-putina-vernut-ego-na-svo-news) к президенту Путину с просьбой отправить его на фронт еще до приговора, Путину, сообшил Кремль, было «доложено» о письме генерала.
+Попов [обращался](2025/03/20/eks-komanduiushchii-58-i-gvardeiskoi-armiei-iz-sizo-poprosil-putina-vernut-ego-na-svo-news.md) к президенту Путину с просьбой отправить его на фронт еще до приговора, Путину, сообшил Кремль, было «доложено» о письме генерала.
 
 Однако на фронт до приговора Попова не отпустили. Защита Ивана Попова объявила, что будет оспаривать приговор, к тому же он якобы не отказался от желания отправиться на фронт — уже в другом звании.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/07/27/delo-generalov
+**Читайте также:** [https://novayagazeta.ru/articles/2024/07/27/delo-generalov](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/07/27/delo-generalov)

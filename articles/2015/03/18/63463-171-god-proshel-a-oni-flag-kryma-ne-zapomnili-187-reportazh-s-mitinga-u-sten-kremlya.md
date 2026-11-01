@@ -13,8 +13,8 @@ tags: "антимайдан, кремль, крым"
 
 *Митинг в годовщину «крымской весны»: к Крыму россияне уже привыкли, кризис с ним не связывают, к новому празднику — дню его присоединения — пока равнодушны*
 
-*[media: <p><a href="http://www.novayagazeta.ru/photos/67703.html" target="_blank"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/03/18/1426704189_362201_25.jpg" style="width: 570px; height: 380px;"></a><br>
-<a href="http://www.novayagazeta.ru/photos/67703.html" target="_blank"><strong>Фоторепортаж Евгения Фельдмана</strong></a></p>]*
+*[media: <p><a href="[http://www.novayagazeta.ru/photos/67703.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/67703.html)" target="_blank"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/03/18/1426704189_362201_25.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/03/18/1426704189_362201_25.jpg)" style="width: 570px; height: 380px;"></a><br>
+<a href="[http://www.novayagazeta.ru/photos/67703.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/67703.html)" target="_blank"><strong>Фоторепортаж Евгения Фельдмана</strong></a></p>]*
 
 — Я очень рада, что Крым наконец-то с нами, — говорит Алена, молодая и модно одетая сотрудница одной из московских управ: она несет флаг «Единой России». — Если этого хотели люди, значит, это законно.
 
@@ -34,7 +34,7 @@ tags: "антимайдан, кремль, крым"
 
 — А вы это печатать будете? Надеюсь, меня потом не посадят, — полушутливо кричит мне вслед живущая в демократической стране Алена.
 
-*[media: <p class="g-justify-right"><a href="http://www.novayagazeta.ru/photos/67703.html" target="_blank"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/03/18/1426704076_652071_6.jpg" style="width: 570px; height: 380px;"></a><br>
+*[media: <p class="g-justify-right"><a href="[http://www.novayagazeta.ru/photos/67703.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/67703.html)" target="_blank"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/03/18/1426704076_652071_6.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/03/18/1426704076_652071_6.jpg)" style="width: 570px; height: 380px;"></a><br>
 <sup>Фото: Евгений Фельдман /&nbsp;«Новая»</sup></p>]*
 
 На митинг-концерт в честь годовщины присоединения Крыма собралось около ста тысяч человек. Партии: кроме правящей, все парламентские, «Родина», «Правое дело», «Зеленые». Лидеры парламентских партий вышли на сцену сразу вчетвером, как осенью — на митинге в поддержку Новороссии. Движения: «Офицеры России», обязательный «НОД», объединение байкеров, казаки и движение «Антимайдан». Люди, кажется, чувствуют себя по-праздничному: машут пластиковыми цветами, парень поздравляет незнакомых девушек в толпе и предлагает подарить воздушные шарики.
@@ -52,7 +52,7 @@ tags: "антимайдан, кремль, крым"
 
 *[media: <div>
 <div>
-<p class="g-justify-right"><a href="http://www.novayagazeta.ru/photos/67703.html" target="_blank"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/03/18/1426704077_236609_45.jpg" style="width: 570px; height: 380px;"></a><br>
+<p class="g-justify-right"><a href="[http://www.novayagazeta.ru/photos/67703.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/67703.html)" target="_blank"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/03/18/1426704077_236609_45.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/03/18/1426704077_236609_45.jpg)" style="width: 570px; height: 380px;"></a><br>
 <sup>Фото: Евгений Фельдман /&nbsp;«Новая»</sup></p>
 </div>
 </div>
@@ -92,8 +92,8 @@ tags: "антимайдан, кремль, крым"
 — Война на кухне у нас будет? — улыбается довольный своей метафорой Владимир.
 
 *[media: <div>
-<p><a href="http://www.novayagazeta.ru/photos/67703.html" target="_blank"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/03/18/1426704087_295422_0.jpg" style="width: 570px; height: 380px;"></a><br>
-<a href="http://www.novayagazeta.ru/photos/67703.html" target="_blank"><strong>Фоторепортаж Евгения Фельдмана</strong></a></p>
+<p><a href="[http://www.novayagazeta.ru/photos/67703.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/67703.html)" target="_blank"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/03/18/1426704087_295422_0.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/03/18/1426704087_295422_0.jpg)" style="width: 570px; height: 380px;"></a><br>
+<a href="[http://www.novayagazeta.ru/photos/67703.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/67703.html)" target="_blank"><strong>Фоторепортаж Евгения Фельдмана</strong></a></p>
 </div>
 
 <p>«Урааа, вперед, Крылатское!» — по мосту бегут женщины средних лет, размахивая пластиковыми подсолнухами. Их радость вызвала всего лишь возможность двинуться вперед: полицейское оцепление расступилось, пропуская часть толпы. Внутренние войска рассекают народ, следят, чтобы не было давки.</p>]*

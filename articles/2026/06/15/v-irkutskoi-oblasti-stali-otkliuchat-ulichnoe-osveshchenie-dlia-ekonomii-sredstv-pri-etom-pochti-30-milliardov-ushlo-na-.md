@@ -21,4 +21,4 @@ tags: ""
 
 При этом на выплаты военным власти Иркутской области с начала СВО [выделили](https://irkutskmedia.ru/news/2464997) из бюджета почти 30 миллиардов. В нынешнем году на эти цели уже ушли 4 млрд.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/05/donastroika-vo-vremia-chudovishch-togo-chem-mozhno-gorditsia
+**Читайте также:** [«Донастройка» того, чем «можно гордиться» во «время чудовищ»](2026/06/05/donastroika-vo-vremia-chudovishch-togo-chem-mozhno-gorditsia.md)

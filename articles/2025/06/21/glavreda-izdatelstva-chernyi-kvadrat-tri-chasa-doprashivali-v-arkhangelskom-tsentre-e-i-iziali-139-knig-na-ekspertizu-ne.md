@@ -23,8 +23,8 @@ tags: ""
 
 При этом книга Медведева была упакована в пленку и имела надлежащую маркировку, а выборка в целом выглядит случайной. Полиция составила протокол осмотра «места происшествия».
 
-В феврале 2025 года по доносам z-активистов презентацию «Антифашизма для всех» [был вынужден отменить](https://novayagazeta.ru/articles/2025/02/14/falanster-otmenil-prezentatsiiu-knigi-pro-ubiistvo-markelova-i-baburovoi-posle-donosa-z-kanalov-news) книжный магазин «Фаланстер».
+В феврале 2025 года по доносам z-активистов презентацию «Антифашизма для всех» [был вынужден отменить](2025/02/14/falanster-otmenil-prezentatsiiu-knigi-pro-ubiistvo-markelova-i-baburovoi-posle-donosa-z-kanalov-news.md) книжный магазин «Фаланстер».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/20/srok-mezhdu-strok
+**Читайте также:** [Срок между строк](2025/06/20/srok-mezhdu-strok.md)
 
 #### * Минюст включил в реестр иноагентов.

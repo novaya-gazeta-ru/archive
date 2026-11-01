@@ -25,7 +25,7 @@ tags: "талибы, война в афганистане, афганистан,
 
 *13 сентября. Остов башни-«близнеца» Всемирного Торгового центра. Фото: U.S. Navy Photo by Jim Watson / Getty Images*
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/11/tam-gde-byli-bliznetsy
+**Читайте также:** [https://novayagazeta.ru/articles/2021/09/11/tam-gde-byli-bliznetsy](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/09/11/tam-gde-byli-bliznetsy)
 
 ![](_assets/7e/7e151e26be180e9d9ddb879968c74b51.webp)
 

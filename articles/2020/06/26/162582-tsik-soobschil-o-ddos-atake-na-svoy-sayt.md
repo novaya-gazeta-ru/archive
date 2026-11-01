@@ -17,6 +17,6 @@ tags: "ddos-атака, kb, цик, поправки2020"
 
 «У меня пришло сообщение, откуда-то, пока не проверено, что у нас на сайт идет DDoS-атака, 240 тысяч запросов в секунду, но мы не испытываем проблем. Если она идет вообще. Но пришло сообщение, что ребята, берегитесь, 240 тысяч запросов в секунду обрушат вас. У нас все нормально», — [цитирует](https://www.interfax.ru/russia/714818) его Интерфакс.
 
-Накануне в первые минуты своей работы [дал сбой](https://novayagazeta.ru/news/2020/06/25/162549-moskvichi-pozhalovalis-na-nevozmozhnost-progolosovat-onlayn-po-popravkam-v-konstitutsiyu) сайт, предназначенный для дистанционного голосования по поправкам в Конституцию. В ЦИКе возникновение трудностей объяснили пиком нагрузки сайта, позже его работу восстановили.
+Накануне в первые минуты своей работы [дал сбой](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/06/25/162549-moskvichi-pozhalovalis-na-nevozmozhnost-progolosovat-onlayn-po-popravkam-v-konstitutsiyu) сайт, предназначенный для дистанционного голосования по поправкам в Конституцию. В ЦИКе возникновение трудностей объяснили пиком нагрузки сайта, позже его работу восстановили.
 
-**link:** https://novayagazeta.ru/articles/2020/06/25/86006-obnulenie-online
+**link:** [https://novayagazeta.ru/articles/2020/06/25/86006-obnulenie-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/06/25/86006-obnulenie-online)

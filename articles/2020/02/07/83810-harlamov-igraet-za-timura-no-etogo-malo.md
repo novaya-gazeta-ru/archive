@@ -51,4 +51,4 @@ tags: "конституция, медицина, лекарства, дети"
 >
 > ### Опрос **Как заставить государство обеспечивать больных детей лекарствами? Сравните версию «Новой» с версией комиссии по правкам в Конституцию**
 
-**link:** https://novayagazeta.ru/articles/2020/02/07/83809-byudzhet-ne-znaet-kuda-devat-dengi-lyudi-ne-znayut-gde-ih-vzyat
+**link:** [«Бюджет не знает, куда девать деньги, люди не знают, где их взять»](2020/02/07/83809-byudzhet-ne-znaet-kuda-devat-dengi-lyudi-ne-znayut-gde-ih-vzyat.md)

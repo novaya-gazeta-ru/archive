@@ -33,8 +33,8 @@ tags: ""
 
 Музей ГУЛАГа основал в 2001 году публицист и писатель Антон Антонов-Овсеенко, более 13 лет он провел в сталинских лагерях.
 
-> ### Аналогичный пивот ранее уже осуществили в Перми, где [посвященный Большому террору музей «Пермь-36»](https://novayagazeta.ru/articles/2021/04/18/gotovte-pulki) переделали в [музей ФСИН](https://novayagazeta.ru/articles/2020/03/16/84336-kazennyy-dom-ili-muzey-soprotivleniya), где теперь рассказывают об «особо опасных государственных преступниках и рецидивистах».
+> ### Аналогичный пивот ранее уже осуществили в Перми, где [посвященный Большому террору музей «Пермь-36»](2021/04/18/gotovte-pulki.md) переделали в [музей ФСИН](2020/03/16/84336-kazennyy-dom-ili-muzey-soprotivleniya.md), где теперь рассказывают об «особо опасных государственных преступниках и рецидивистах».
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/20/rvio-rasprostraniaet-sredi-ukrainskikh-voennoplennykh-knigi-o-banderovtsakh-i-uchebnik-medinskogo-a-potom-s-ukraintsev-sprashivaiut-etot-kontent-news
+**Читайте также:** [РВИО распространяет среди украинских военнопленных книги о «бандеровцах» и учебник Мединского, а потом с украинцев «спрашивают этот контент»](2026/06/20/rvio-rasprostraniaet-sredi-ukrainskikh-voennoplennykh-knigi-o-banderovtsakh-i-uchebnik-medinskogo-a-potom-s-ukraintsev-s.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/16/suverennyi-globus-rossii
+**Читайте также:** [Суверенный глобус России](2026/06/16/suverennyi-globus-rossii.md)

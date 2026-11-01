@@ -49,6 +49,6 @@ tags: ""
 
 Это не технические ошибки, это идеология. Прямо сейчас мы наблюдаем попытку в XXI веке выдернуть страну из глобального контекста в какую-то автохтонную «идентичность». В прошлом веке это сделал Иран, но после смены режима. Наш эксперимент продолжается.
 
-**link:** https://novayagazeta.ru/politics/66354.html
+**link:** [https://novayagazeta.ru/politics/66354.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66354.html)
 
-**link:** https://novayagazeta.ru/politics/66354.html
+**link:** [https://novayagazeta.ru/politics/66354.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/66354.html)

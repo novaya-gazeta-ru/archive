@@ -21,8 +21,8 @@ tags: "домодедово, следственный комитет, терак
 
 Подозреваемыми по уголовному делу уже стали предприниматели Тришина С.А., Данилов А.Л. и Некрасов В.А. Также дело возбуждено в отношении неустановленных фактических владельцев аэропорта «Домодедово».
 
-*[media: <p><strong><a href="http://www.novayagazeta.ru/society/50636.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2012/01/25/1327444312_766837_38.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
+*[media: <p><strong><a href="[http://www.novayagazeta.ru/society/50636.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/50636.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2012/01/25/1327444312_766837_38.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/01/25/1327444312_766837_38.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;">Читайте также:</span></strong></p>
 
-<p><a href="http://www.novayagazeta.ru/society/50636.html" target="_blank"><strong>Аэропорт «Домодедово». Спустя год мы знаем о теракте ровно столько, сколько Докку Умаров счел нужным нам сообщить</strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/society/50636.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/50636.html)" target="_blank"><strong>Аэропорт «Домодедово». Спустя год мы знаем о теракте ровно столько, сколько Докку Умаров счел нужным нам сообщить</strong></a></p>]*
 
-Взрыв в московском аэропорту [прогремел](http://www.novayagazeta.ru/society/7462.html) 24 января 2011 года. В результате террористической атаки погибли 37 человек.
+Взрыв в московском аэропорту [прогремел](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/7462.html) 24 января 2011 года. В результате террористической атаки погибли 37 человек.

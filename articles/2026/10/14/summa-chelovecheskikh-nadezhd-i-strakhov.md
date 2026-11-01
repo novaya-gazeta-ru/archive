@@ -101,4 +101,4 @@ tags: ""
 
 **Аналитический отдел**
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/10/13/o-polze-smireniia
+**Читайте также:** [О пользе смирения](2026/10/13/o-polze-smireniia.md)

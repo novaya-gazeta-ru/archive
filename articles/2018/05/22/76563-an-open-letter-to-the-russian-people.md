@@ -37,7 +37,7 @@ Even more though, this callous act has defined the people we love. Their stories
 
 We know there is a long history between Russia and Ukraine and there are different perspectives on what led to conflict erupting in 2014. No nation state is blameless, including our own. All nations have a right to flourish as best they can, without impeding or violating the rights of others. All parties must be prepared to face what part they have played in the conflict. But whatever the history and exact circumstances, that can never justify the shooting down of a passenger plane and the killing of all those on board. How do we respond to that?
 
-**link:** https://novayagazeta.ru/articles/2016/09/29/69989-chert-vozmi-da-ved-dolzhno-byt-prosto-stydno
+**link:** [«Черт возьми, да ведь должно быть просто стыдно!»](2016/09/29/69989-chert-vozmi-da-ved-dolzhno-byt-prosto-stydno.md)
 
 Questions of hate and responsibility
 
@@ -51,7 +51,7 @@ The importance of truth
 
 We have confidence in the thoroughness and impartiality of the work conducted by the Joint Investigation Team. The same cannot be said about the reporting on MH17 coming out of Russian state media channels.
 
-**link:** https://novayagazeta.ru/articles/2017/10/16/74187-zadacha-v-tom-chtoby-nepremenno-dovesti-delo-do-suda
+**link:** [«Задача в том, чтобы довести дело MH17 до суда»](2017/10/16/74187-zadacha-v-tom-chtoby-nepremenno-dovesti-delo-do-suda.md)
 
 In the first months some of us were troubled by the multiple, often contradictory stories about what happened to MH17 coming out of Russia. “MH17 was shot down by a Ukrainian jet.” “It was blown up by a missile intended for the Russian President’s plane.” “It was already full of dead bodies and deliberately crashed.” “It was shot down by a BUK missile but not one of Russia’s.” These shocking, disturbing and contradictory stories were then magnified 1000 fold in posts on different social media. All this material was distressing. Some of us had doubts. It is only later that we came to understand that this was exactly what was intended. These practices are part of a coordinated state campaign of misinformation intended to distract and confuse, to create an alternative reality in which all truth is relative and no information can be trusted. The Russian state media, as well as private media channels that cooperate with the state, are complicit in this vile and deceitful campaign. We know that all countries, including our own, bend the truth and tell lies sometimes. But do Russian people really want to live in a country where the truth has ceased to exist? Perhaps some of you reading this already think that we do not exist and that this article is made up?
 
@@ -63,7 +63,7 @@ Well, we are real, and our hope is that ultimately truth will prevail.
 
 We appeal again for the Russian government to cooperate fully with the international investigation into MH17. It will not bring our families back but the truth does matter, the truth does exist and we want those responsible for MH17 to be identified and held accountable. We teach our children when they are small that they must own up to their mistakes and take responsibility for their actions. We want our governments to do the same. We ask Russia to do the same.
 
-**link:** https://novayagazeta.ru/articles/2017/04/24/72279-serega-ty-svidetel-a-ne-vinovnyy
+**link:** [Голос «Хмурого»](2017/04/24/72279-serega-ty-svidetel-a-ne-vinovnyy.md)
 
 Shared humanity
 
@@ -71,7 +71,7 @@ In recent months world tensions have increased. In an atmosphere of hostility an
 
 In 2014 our children and families lay lifeless amidst the fields and sunflowers of Eastern Ukraine. In 2015 Russian children and families lay lifeless on the stones and sand of the Egyptian desert. In death we are not so different. Barriers of language, culture, differences in race or religion no longer matter. What remains is loss and love. Human loss and love.
 
-**link:** https://novayagazeta.ru/articles/2015/06/07/64439-171-na-nashem-pole-171-buka-187-ne-bylo-ni-sleda-8212-ni-ot-gusenits-ni-ot-velosipeda-187
+**link:** [«На нашем поле «Бука» не было. Ни следа — ни от гусениц, ни от велосипеда»](2015/06/07/64439-171-na-nashem-pole-171-buka-187-ne-bylo-ni-sleda-8212-ni-ot-gusenits-ni-ot-velosipeda-187.md)
 
 This World Cup
 

@@ -22,17 +22,17 @@ tags: ""
 *Люди добрые, простите, что тревожу ваш покой.\
  Вчера музыку убили. Как? Замучили тюрьмой.*
 
-«Новая газета» только что рассказывала, что Марии Пономаренко вновь ужесточили условия содержания в колонии — отправили на 15 суток в ШИЗО — [за отказ убрать руки за спину](https://novayagazeta.ru/articles/2025/08/02/srok-est-a-v-koloniiu-ne-berut).
+«Новая газета» только что рассказывала, что Марии Пономаренко вновь ужесточили условия содержания в колонии — отправили на 15 суток в ШИЗО — [за отказ убрать руки за спину](2025/08/02/srok-est-a-v-koloniiu-ne-berut.md).
 
 > **справка**
 >
 > ### Дело Марии Пономаренко
 >
-> Мария в колонии [не первый раз голодает](https://novayagazeta.ru/articles/2025/04/17/mariia-ponomarenko-vnov-obiavila-golodovku-iz-za-nechelovecheskikh-uslovii-soderzhaniia-v-kolonii-news) против созданных «нечеловеческих» условий. Ей не обеспечивают приватность при использовании туалета в камере, не передают письма, и нет никакой реакции на жалобы.
+> Мария в колонии [не первый раз голодает](2025/04/17/mariia-ponomarenko-vnov-obiavila-golodovku-iz-za-nechelovecheskikh-uslovii-soderzhaniia-v-kolonii-news.md) против созданных «нечеловеческих» условий. Ей не обеспечивают приватность при использовании туалета в камере, не передают письма, и нет никакой реакции на жалобы.
 >
-> Весной адвокат Пономаренко и редакция RusNews опубликовали срочное обращение к омбудсмену с просьбой вмешаться в ее судьбу, так как защитник и коллеги [опасались за жизнь журналистки](https://novayagazeta.ru/articles/2025/03/17/redaktsiia-rusnews-zaiavila-ob-opasenii-za-sostoianie-marii-ponomarenko-v-kolonii-zhurnalistka-derzhit-sukhuiu-golodovku-ee-advokat-napisal-ombudsmenu-srochnoe-pismo-news). В колонии она жаловалась на склонение к суициду.
+> Весной адвокат Пономаренко и редакция RusNews опубликовали срочное обращение к омбудсмену с просьбой вмешаться в ее судьбу, так как защитник и коллеги [опасались за жизнь журналистки](2025/03/17/redaktsiia-rusnews-zaiavila-ob-opasenii-za-sostoianie-marii-ponomarenko-v-kolonii-zhurnalistka-derzhit-sukhuiu-golodovku.md). В колонии она жаловалась на склонение к суициду.
 >
-> Мария осуждена на 6 лет из-за постов в соцсетях, а затем ей [добавили еще 1 год и 10 месяцев](https://novayagazeta.ru/articles/2025/03/27/zhurnalistke-rusnews-marii-ponomarenko-dobavili-god-i-10-mesiatsev-kolonii-iakoby-za-napadenie-na-sotrudnikov-kolonii-vo-vremia-prigovora-pristavy-zakryli-ee-spinami-news) по делу о нападении на сотрудника колонии.
+> Мария осуждена на 6 лет из-за постов в соцсетях, а затем ей [добавили еще 1 год и 10 месяцев](2025/03/27/zhurnalistke-rusnews-marii-ponomarenko-dobavili-god-i-10-mesiatsev-kolonii-iakoby-za-napadenie-na-sotrudnikov-kolonii-vo.md) по делу о нападении на сотрудника колонии.
 
 > **справка**
 >
@@ -42,4 +42,4 @@ tags: ""
 >
 > ### ▶️ Фильм о Павле Кушнире [выходил на Youtube-канале «НО. Медиа из России»](https://www.youtube.com/watch?v=VCPUglDqIlA).
 
-Об издевательствах над Марией Пономаренко и гибели Кушнира в колонии [рассказывал на заседании ООН](https://novayagazeta.ru/articles/2025/02/20/v-oon-prizvali-srochno-osvobodit-kak-minimum-120-politzekov-kotorym-ugrozhaet-opasnost-v-rossiiskoi-tiurme-news) спецдокладчик по правам человека в России Марианна Кацарова.
+Об издевательствах над Марией Пономаренко и гибели Кушнира в колонии [рассказывал на заседании ООН](2025/02/20/v-oon-prizvali-srochno-osvobodit-kak-minimum-120-politzekov-kotorym-ugrozhaet-opasnost-v-rossiiskoi-tiurme-news.md) спецдокладчик по правам человека в России Марианна Кацарова.

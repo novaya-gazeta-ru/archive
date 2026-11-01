@@ -17,8 +17,8 @@ Bloomberg должен удалить материал и на его месте
 
 Заметка [была опубликована](https://www.bloomberg.com/news/articles/2021-03-16/russia-mulls-spending-wealth-fund-billions-on-infrastructure?sref=Y0jVLcFo) 16 марта. В ней утверждалось, что власти России якобы хотят потратить средства Фонда национального благосостояния на инвестиции в инфраструктуру, а среди вероятных получателей денег указывалась компания «Восток Ойл».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/04/pozitsiia-rosnefti-zakliuchaetsia-v-tom-chto-pro-nikh-voobshche-nichego-nelzia-pisat
+**Читайте также:** [https://novayagazeta.ru/articles/2021/06/04/pozitsiia-rosnefti-zakliuchaetsia-v-tom-chto-pro-nikh-voobshche-nichego-nelzia-pisat](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/06/04/pozitsiia-rosnefti-zakliuchaetsia-v-tom-chto-pro-nikh-voobshche-nichego-nelzia-pisat)
 
-Из-за новости по этой заметке «Роснефть» подавала иски к [«Дождю»](https://tvrain.ru/news/sud_v_moskve_podtverdil_chto_dozhd_dolzhen_oprovergnut_novost_bloomberg-534387/) и [«Эху Москвы»](https://novayagazeta.ru/articles/2021/08/04/sud-udovletvoril-isk-rosnefti-k-ekhu-moskvy-iz-za-stati-o-proekte-vostok-oil-news). Арбитражный суд Москвы оба решения вынес в пользу госкомпании.
+Из-за новости по этой заметке «Роснефть» подавала иски к [«Дождю»](https://tvrain.ru/news/sud_v_moskve_podtverdil_chto_dozhd_dolzhen_oprovergnut_novost_bloomberg-534387/) и [«Эху Москвы»](2021/08/04/sud-udovletvoril-isk-rosnefti-k-ekhu-moskvy-iz-za-stati-o-proekte-vostok-oil-news.md). Арбитражный суд Москвы оба решения вынес в пользу госкомпании.
 
 #### **внесен Минюстом в реестр СМИ, выполняющих функцию «иностранного агента» *

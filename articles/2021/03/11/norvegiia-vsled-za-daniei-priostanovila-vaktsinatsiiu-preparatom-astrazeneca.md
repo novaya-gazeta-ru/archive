@@ -17,4 +17,4 @@ tags: "норвегия, дания, вакцины, astrazeneca, kn"
 >
 > 17:04 Италия также приостановила использование вакцины AstraZeneca, но это коснется только доз из партии ABV2856, [сообщает](https://www.aifa.gov.it/web/guest/-/aifa-dispone-divieto-di-utilizzo-di-un-lotto-astrazeneca-accertamenti-in-corso-in-coordinamento-con-ema) местное агентство по лекарствам 18:37 Исландия [приостановила](https://www.visir.is/g/20212083512d/stodva-timabundid-bolusetningu-med-boluefni-astrazeneca) вакцинацию препаратом AstraZeneca. При этом Европейское агентство лекарственных средств [отметило](https://www.visir.is/g/20212083512d/stodva-timabundid-bolusetningu-med-boluefni-astrazeneca), что преимущество вакцины по-прежнему превышают риски, поэтому ее можно продолжать применять, пока идет расследование.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/03/10/seichas-net-no-skoro-zavezut
+**Читайте также:** [«Сейчас нет, но скоро завезут»](2021/03/10/seichas-net-no-skoro-zavezut.md)

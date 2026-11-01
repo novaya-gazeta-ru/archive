@@ -35,9 +35,9 @@ tags: "дипломатия, европа, реакция властей, эст
 
 Вы похитили человека с нашей территории. В этой ситуации трудно договориться о его возвращении на родину, но я должен был это сделать. Для граждан Эстонии возвращение нашего гражданина — важный шаг *(президент не стал уточнять, как именно удалось договориться с Россией* — **Ред.**).
 
-**link:** https://novayagazeta.ru/politics/70095.html
+**link:** [https://novayagazeta.ru/politics/70095.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/70095.html)
 
-**link:** https://novayagazeta.ru/politics/70095.html
+**link:** [https://novayagazeta.ru/politics/70095.html](https://web.archive.org/web/*/https://novayagazeta.ru/politics/70095.html)
 
 # О мигрантском кризисе
 

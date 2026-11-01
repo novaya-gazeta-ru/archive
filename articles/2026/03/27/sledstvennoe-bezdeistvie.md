@@ -27,4 +27,4 @@ tags: ""
 
 В случае с Бонцлер этого не сделано до сих пор.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/03/25/esli-vse-ostaviat-rossiiu-kto-budet-zashchishchat-nevinovnykh
+**Читайте также:** [«Если все оставят Россию, кто будет защищать невиновных?»](2026/03/25/esli-vse-ostaviat-rossiiu-kto-budet-zashchishchat-nevinovnykh.md)

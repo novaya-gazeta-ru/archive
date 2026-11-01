@@ -57,4 +57,4 @@ tags: "приморье, ветеран сво, кипиш, теракт , кр�
 
 *Владивосток*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/21/migratsiia-na-front
+**Читайте также:** [Миграция на фронт](2025/02/21/migratsiia-na-front.md)

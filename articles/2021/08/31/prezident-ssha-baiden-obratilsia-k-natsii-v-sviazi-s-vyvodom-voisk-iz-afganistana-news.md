@@ -21,4 +21,4 @@ tags: "байден, афганистан, da"
 
 «Я не собирался продолжать эту бесконечную войну, — [заключил](https://www.theguardian.com/us-news/live/2021/aug/31/us-politics-live-biden-afghanistan-covid-latest-news) Байден. — Нет ничего более желанного для России или Китая, чем Америка, увязшая в третьем десятке войны с Афганистаном».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/08/28/khudshii-den-dzho-baidena
+**Читайте также:** [Байден Кабул!](2021/08/28/khudshii-den-dzho-baidena.md)

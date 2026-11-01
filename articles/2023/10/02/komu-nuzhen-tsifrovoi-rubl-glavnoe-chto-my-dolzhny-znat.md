@@ -15,4 +15,4 @@ tags: "марафон соучастников"
 
 - [«Стань со-участником»](https://supportnovaya.club/) — донорская платформа российской «Новой газеты», запущенная в 2018 году. Сегодня более 12 тысяч читателей поддерживают нас. Рекуррентные пожертвования помогают коллективу вести независимую редакционную политику, а нашим журналистам — продолжать честно делать свою работу, несмотря ни на что.
 
-**Марафон соучастников:** https://novayagazeta.ru/articles/2023/10/02/nas-zapreshchaiut-nam-ugrozhaiut-no-my-zdes-my-khotim-izmenit-budushchee-poetomu-prodolzhaem-rabotat-v-rossii
+**Марафон соучастников:** [«Нас запрещают, нам угрожают, но мы — здесь. Мы хотим изменить будущее, поэтому продолжаем работать в России»&nbsp;](2023/10/02/nas-zapreshchaiut-nam-ugrozhaiut-no-my-zdes-my-khotim-izmenit-budushchee-poetomu-prodolzhaem-rabotat-v-rossii.md)

@@ -73,7 +73,7 @@ tags: "яппи, топ-менеджер, конкуренция"
 
 А можно наоборот! Можно остаться с лузером. А победителю сказать: «Я свою любовь на бонусы и опционы не меняю!» Это романтично и благородно».
 
-**link:** https://novayagazeta.ru/articles/2020/01/12/83420-semya-i-shkola
+**link:** [https://novayagazeta.ru/articles/2020/01/12/83420-semya-i-shkola](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/01/12/83420-semya-i-shkola)
 
 Даша открыла свой макбук. Тут же в глаза бросилась новость:
 

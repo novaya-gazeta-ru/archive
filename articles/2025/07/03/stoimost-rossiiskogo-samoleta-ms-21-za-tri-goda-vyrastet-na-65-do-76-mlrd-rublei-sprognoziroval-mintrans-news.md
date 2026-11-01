@@ -25,4 +25,4 @@ tags: ""
 
 МС-21 разрабатывался с 2007 года с целью заместить на российском рынке зарубежные самолеты Boeing и Airbus. Пока идут сертификационные испытания самолетов с российскими системами, серийное производство должно начаться в 2026 году.
 
-В апреле МС-21 с российским двигателем [совершил свой первый полет](https://novayagazeta.ru/articles/2025/04/29/importozameshchennyi-samolet-ms-21-s-rossiiskim-dvigatelem-sovershil-pervyi-polet-news).
+В апреле МС-21 с российским двигателем [совершил свой первый полет](2025/04/29/importozameshchennyi-samolet-ms-21-s-rossiiskim-dvigatelem-sovershil-pervyi-polet-news.md).

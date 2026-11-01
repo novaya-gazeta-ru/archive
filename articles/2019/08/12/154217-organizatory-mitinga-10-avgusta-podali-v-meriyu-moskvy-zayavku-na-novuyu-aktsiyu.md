@@ -15,10 +15,10 @@ tags: "акции протеста, выборы в мосгордуму, мос
 
 По его словам, заявку на акцию подали еще в прошлую пятницу, 9 августа. Организаторы планируют провести шествие от Страстного бульвара до проспекта Сахарова 17 августа. Заявленное число участников – 30 тысяч человек.
 
-Ранее мэрия Москвы [согласовал](https://www.novayagazeta.ru/news/2019/08/06/154005-moskovskie-vlasti-soglasovali-kprf-aktsiyu-za-chestnye-vybory-v-mosgordumu-17-avgusta)[а](http://www.novayagazeta.ru/news/2019/08/06/154005-moskovskie-vlasti-soglasovali-kprf-aktsiyu-za-chestnye-vybory-v-mosgordumu-17-avgusta) на 17 августа акцию КПРФ за честные выборы в Мосгордуму на проспекте Сахарова.
+Ранее мэрия Москвы [согласовал](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/08/06/154005-moskovskie-vlasti-soglasovali-kprf-aktsiyu-za-chestnye-vybory-v-mosgordumu-17-avgusta)[а](https://web.archive.org/web/*/http://www.novayagazeta.ru/news/2019/08/06/154005-moskovskie-vlasti-soglasovali-kprf-aktsiyu-za-chestnye-vybory-v-mosgordumu-17-avgusta) на 17 августа акцию КПРФ за честные выборы в Мосгордуму на проспекте Сахарова.
 
 В столице 10 августа состоялся согласованный митинг на проспекте Сахарова с требованием допустить до выборов незарегистрированных кандидатов в Мосгордуму и закрыть уголовное дело о массовых беспорядках, возбужденное после несанкционированной акции 27 июля. По [данным](https://twitter.com/WhiteCounter/status/1160226559476871168) «Белого счетчика», в акции участвовали до 60 тысяч человек, МВД сообщало о 20 тысячах участников.
 
 После митинга рядом с метро «Китай-город» произошли задержания. В связи с протестами 10 августа в Москве задержали более 250 человек, [сообщало](https://ovdinfo.org/articles/2019/08/10/za-chestnye-vybory-i-protiv-politicheskih-repressiy-itogi-akcii-10-avgusta) «ОВД-Инфо».
 
-**link:** https://novayagazeta.ru/articles/2019/08/11/81568-kolokol-i-falanga
+**link:** [Колокол и фаланга](2019/08/11/81568-kolokol-i-falanga.md)

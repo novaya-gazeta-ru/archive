@@ -27,4 +27,4 @@ tags: ""
 
 Глава Тверской области Игорь Руденя поручил оказать всю необходимую помощь пострадавшим и их семьям, а также оперативно восстановить энергоснабжение в муниципальном образовании.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/28/mnogie-ulitsy-moskvy-zatopilo-posle-togo-kak-na-gorod-obrushilsia-obeshchannyi-superliven
+**Читайте также:** [На Москву обрушился суперливень: ВИДЕО](2021/06/28/mnogie-ulitsy-moskvy-zatopilo-posle-togo-kak-na-gorod-obrushilsia-obeshchannyi-superliven.md)

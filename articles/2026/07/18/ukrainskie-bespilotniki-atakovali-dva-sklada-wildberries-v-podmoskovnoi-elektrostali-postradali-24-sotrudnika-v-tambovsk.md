@@ -13,7 +13,7 @@ tags: ""
 
 > **Есть продолжение**
 >
-> ### [Wildberries и Ozon за несколько дней до атаки дронов по складам в Электростали и Котовске изменили порядок выплаты компенсаций продавцам, назвав удары БПЛА «форс-мажором»](https://novayagazeta.ru/articles/2026/07/18/wildberries-i-ozon-za-neskolko-dnei-do-ataki-dronov-po-skladam-v-elektrostali-i-kotovske-izmenili-poriadok-vyplaty-kompensatsii-prodavtsam-nazvav-udary-bpla-fors-mazhorom-news)
+> ### [Wildberries и Ozon за несколько дней до атаки дронов по складам в Электростали и Котовске изменили порядок выплаты компенсаций продавцам, назвав удары БПЛА «форс-мажором»](2026/07/18/wildberries-i-ozon-za-neskolko-dnei-do-ataki-dronov-po-skladam-v-elektrostali-i-kotovske-izmenili-poriadok-vyplaty-kompe.md)
 
 В ночь на 18 июля украинские беспилотники, кроме других объектов, атаковали крупные логистические склады компании Wildberries в двух регионах — Подмосковной Электростали, и тамбовском Котовске. В обоих случаях есть жертвы и пожары, со складов проводили эвакуацию персонала.
 
@@ -37,4 +37,4 @@ tags: ""
 
 Кроме складов, в ночь на 18 июля в Подмосковье под удар попала нефтебаза в Ногинске. Два человека здесь от удара пострадали. А в результате пожара над НПЗ поднялось черное облако. Власти решили эвакуировать расположенный рядом роддом и жилую многоэтажку на улице Радченко.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/17/mezhdu-trudovym-lagerem-i-khaosom-vybor-na-razvilke
+**Читайте также:** [Между трудовым лагерем и хаосом](2026/07/17/mezhdu-trudovym-lagerem-i-khaosom-vybor-na-razvilke.md)

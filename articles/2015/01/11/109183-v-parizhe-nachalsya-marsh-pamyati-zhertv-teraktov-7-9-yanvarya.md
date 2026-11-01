@@ -11,7 +11,7 @@ tags: ""
 
 # В Париже начался марш памяти жертв терактов 7-9 января
 
-[Фоторепортаж Евгения ФЕЛЬДМАНА](http://www.novayagazeta.ru/photos/66763.html)
+[Фоторепортаж Евгения ФЕЛЬДМАНА](https://web.archive.org/web/*/http://www.novayagazeta.ru/photos/66763.html)
 
 В Париже в эти минуты идет акция памяти жертв терактов 7-9 января. Как передают корреспонденты «Новой» с места событий, в акции принимают участие не менее 1 000 000 человек. Люди держат в руках плакаты с надписями «Je suis Charlie» («Я — Шарли»).
 
@@ -34,4 +34,4 @@ tags: ""
 
 *[media: <p><span style="color:#B22222;"><strong>Читайте также:</strong></span></p>
 
-<p><a href="http://www.novayagazeta.ru/topics/125.html" target="_blank"><strong><span>Французское «11 сентября». Теракт в редакции газеты Charlie Hebdo. Сюжет «Новой газеты»</span></strong></a></p>]*
+<p><a href="[http://www.novayagazeta.ru/topics/125.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/topics/125.html)" target="_blank"><strong><span>Французское «11 сентября». Теракт в редакции газеты Charlie Hebdo. Сюжет «Новой газеты»</span></strong></a></p>]*

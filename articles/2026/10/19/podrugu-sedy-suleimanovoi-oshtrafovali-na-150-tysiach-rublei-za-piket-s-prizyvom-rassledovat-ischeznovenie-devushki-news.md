@@ -25,7 +25,7 @@ tags: "Седа Сулейманова, Чечня, одиночные пике�
 
 Вскоре после этого в дом Сулеймановых приехал омбудсмен Чечни: он рассказывал, будто Седа очень рада оказаться дома и ни на что не жалуется. Сулейманова была показана в сюжете мельком, она не сказала ни слова и выглядела изможденной.
 
-> В 2024 году правозащитники заявили, что девушку [могли убить](https://novayagazeta.ru/articles/2024/02/07/pravozashchitniki-zaiavili-ob-ubiistve-26-letnei-chechenki-sedy-suleimanovoi-siloviki-vernuli-ee-v-chechniu-posle-begstva-ot-rodstvennikov-news).
+> В 2024 году правозащитники заявили, что девушку [могли убить](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/02/07/pravozashchitniki-zaiavili-ob-ubiistve-26-letnei-chechenki-sedy-suleimanovoi-siloviki-vernuli-ee-v-chechniu-posle-begstva-ot-rodstvennikov-news).
 
 Вскоре СК [возбудил](https://t.me/novaya_pishet/44638) уголовное дело по факту «безвестного исчезновения» Сулеймановой, однако никаких новостей о движении дела с тех пор не появлялось.
 

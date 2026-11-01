@@ -155,4 +155,4 @@ tags: "цифровое приморье, останвки, парковки, в
 
 **Приморье**
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/10/04/evrosoiuz-parkovku-perekryl
+**Читайте также:** [Евросоюз парковку перекрыл](2023/10/04/evrosoiuz-parkovku-perekryl.md)

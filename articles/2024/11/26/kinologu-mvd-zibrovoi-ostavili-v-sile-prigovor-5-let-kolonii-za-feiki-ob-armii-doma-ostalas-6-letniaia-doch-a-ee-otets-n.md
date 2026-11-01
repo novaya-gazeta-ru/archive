@@ -27,4 +27,4 @@ tags: ""
 
 Зиброву приговорили к 5 годам в августе. В соцсети она высказалась об ударе по украинскому Краматорску.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/29/plate-v-serdechkakh
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/29/plate-v-serdechkakh](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/29/plate-v-serdechkakh)

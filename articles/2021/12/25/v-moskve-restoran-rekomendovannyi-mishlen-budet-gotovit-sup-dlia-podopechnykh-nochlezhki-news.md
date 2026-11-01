@@ -21,6 +21,6 @@ Wine and Crab будет готовить суп для «Ночлежки» р�
 
 [«Ночной автобус»](https://moscow.homeless.ru/projects/200381/) — проект «Ночлежки», в рамках которого волонтеры ездят и раздают нуждающимся еду, одежду и средства гигиены. В столице «Ночной автобус» отправляется от Ленинградского вокзала, его маршрут заканчивается в Восточном административном округе рядом со МКАД.
 
-Wine and Crab в октябре [попал](https://guide.michelin.com/ru/ru/moscow-region/moscow/restaurant/wine-crab) в первый список столичных ресторанов, рекомендованных «Мишлен». Всего в столичном рейтинге [оказалось](https://novayagazeta.ru/articles/2021/10/14/moskovskim-restoranam-vpervye-vruchili-zvezdy-mishlen-sredi-nikh-kafe-pushkin-buro-tsum-i-severiane-news) 69 заведений.
+Wine and Crab в октябре [попал](https://guide.michelin.com/ru/ru/moscow-region/moscow/restaurant/wine-crab) в первый список столичных ресторанов, рекомендованных «Мишлен». Всего в столичном рейтинге [оказалось](2021/10/14/moskovskim-restoranam-vpervye-vruchili-zvezdy-mishlen-sredi-nikh-kafe-pushkin-buro-tsum-i-severiane-news.md) 69 заведений.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/06/17/nemytaia-rossiia-ne-mozhet-uekhat-domoi
+**Читайте также:** [Немытая Россия не может уехать домой](2021/06/17/nemytaia-rossiia-ne-mozhet-uekhat-domoi.md)

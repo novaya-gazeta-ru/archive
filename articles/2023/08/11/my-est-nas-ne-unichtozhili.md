@@ -60,7 +60,7 @@ tags: "литвинович, российское общество, политз
 
 Вот еще один из итогов: это как раз ОНК, которые мы потеряли. Чем нам всем, нашему обществу может аукнуться исчезновение такого независимого института?
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/08/04/est-geroicheskie-zhenshchiny-kotorye-smogli-vernut-svoikh-muzhchin-domoi
+**Читайте также:** [https://novayagazeta.ru/articles/2023/08/04/est-geroicheskie-zhenshchiny-kotorye-smogli-vernut-svoikh-muzhchin-domoi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/08/04/est-geroicheskie-zhenshchiny-kotorye-smogli-vernut-svoikh-muzhchin-domoi)
 
 **Марина Литвинович. **Вы знаете, в Российской империи был такой, кстати, институт общества попечения за тюрьмами. И в общем-то, это такой был аналог ОНК, хотя, конечно, там в основном занимались духовной поддержкой и материальной тоже. Но в любом случае, конечно, наша ОНК — это уникальный — действительно, вы правы — институт, и сейчас он формально до сих пор существует. А в регионах буквально можно по пальцам пересчитать, где остались еще активные деятели.
 
@@ -106,7 +106,7 @@ tags: "литвинович, российское общество, политз
 
 Пока мы видим, что побеждает репрессивное государство. Но не все так плохо, потому что я, оставаясь в России, и те, кто остается в России и занимается какими-то еще общественными делами, видят, что в целом все сохранилось более-менее. Конечно, организации уничтожены, но люди… то есть и люди взаимодействуют, и очень многие проекты делаются, очень многие вещи решаются. То есть взаимодействие гражданское осталось, и, в общем, не все еще потеряно.
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/07/14/pervym-patsifistom-byl-khristos-media
+**Читайте также:** [https://novayagazeta.ru/articles/2023/07/14/pervym-patsifistom-byl-khristos-media](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/07/14/pervym-patsifistom-byl-khristos-media)
 
 **Зоя Светова.** Марин, простите, я не могу не задать вам один такой немножко личный вопрос. Ведь известно, мне во всяком случае и многим, кто следит за вашей судьбой, что вы не всегда были в оппозиции к нынешней власти. Можете сказать, что случилось? Какая последняя капля изменила вашу судьбу? Почему вы стали критично относиться к существующей власти?
 
@@ -152,4 +152,4 @@ tags: "литвинович, российское общество, политз
 
 #### * Внесен властями РФ в реестр «иноагентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/07/22/putinu-segodnia-nastolko-nechego-teriat-chto-davit-na-nego-trudno-media
+**Читайте также:** [https://novayagazeta.ru/articles/2023/07/22/putinu-segodnia-nastolko-nechego-teriat-chto-davit-na-nego-trudno-media](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2023/07/22/putinu-segodnia-nastolko-nechego-teriat-chto-davit-na-nego-trudno-media)

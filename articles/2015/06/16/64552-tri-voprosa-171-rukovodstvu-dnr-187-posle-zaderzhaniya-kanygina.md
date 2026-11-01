@@ -13,8 +13,8 @@ tags: "днр, каныгин, минские соглашения, провок
 
 «Новая газета» является последовательным приверженцем Минских соглашений. В связи с этим у нас есть вопросы к «руководству ДНР».
 
-**link:** https://novayagazeta.ru/news/1694538.html
+**link:** [https://novayagazeta.ru/news/1694538.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1694538.html)
 
-**link:** https://novayagazeta.ru/news/1694538.html
+**link:** [https://novayagazeta.ru/news/1694538.html](https://web.archive.org/web/*/https://novayagazeta.ru/news/1694538.html)
 
 **P.S.** Просьба российским политтехнологам, которые выполняют миссию в «ДНР», не говорить о том, что они не знали о сегодняшней встрече президентов России и Финляндии.

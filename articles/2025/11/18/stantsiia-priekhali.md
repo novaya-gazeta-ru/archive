@@ -81,4 +81,4 @@ tags: "Санкт-Петербург, строительство метро, м�
 
 **Владимир Максимов**
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/05/samaia-dorogaia-iama-vozrozhdenie
+**Читайте также:** [Самая дорогая яма. Возрождение](2025/11/05/samaia-dorogaia-iama-vozrozhdenie.md)

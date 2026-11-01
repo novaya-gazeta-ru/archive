@@ -25,6 +25,6 @@ tags: "ng, казань, крестный ход"
 
 Ранее мэрия [предупреждала](https://kzn.ru/meriya/press-tsentr/novosti/v-svyazi-s-provedeniem-krestnogo-khoda-na-tsentralnykh-ulitsakh-kazani-ogranichat-dvizhenie-transpor/), что 20 и 21 июля на центральных улицах Казани будет ограничено движение и стоянка транспортных средств.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/17/stali-blizhe-k-bogu
+**Читайте также:** [Стали ближе к Богу](2021/07/17/stali-blizhe-k-bogu.md)
 
-Ранее, 17 июля, крестный ход [прошел](https://novayagazeta.ru/articles/2021/07/17/v-ekaterinburge-okolo-dvukh-tysiach-chelovek-prishli-na-krestnyi-khod-v-pamiat-o-rasstrele-tsarskoi-semi-vlasti-zapretili-ego-provodit) и в Екатеринбурге. Несмотря на ковидные ограничения, две тысячи человек вышли на мероприятие в годовщину расстрела царской семьи. Власти его запрещали.
+Ранее, 17 июля, крестный ход [прошел](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/17/v-ekaterinburge-okolo-dvukh-tysiach-chelovek-prishli-na-krestnyi-khod-v-pamiat-o-rasstrele-tsarskoi-semi-vlasti-zapretili-ego-provodit) и в Екатеринбурге. Несмотря на ковидные ограничения, две тысячи человек вышли на мероприятие в годовщину расстрела царской семьи. Власти его запрещали.

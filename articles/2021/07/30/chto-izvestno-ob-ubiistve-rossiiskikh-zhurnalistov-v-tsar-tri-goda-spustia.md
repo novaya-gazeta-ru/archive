@@ -17,7 +17,7 @@ tags: "цар, расторгуев, радченко, убийство, дже�
 
 Официальная версия — убийство бандитами с целью ограбления. Нет ни доказательств, ни результатов следствия. Зато есть два частных расследования — от РИА «ФАН» (связано со структурами Евгения Пригожина), и от центра «Досье» Михаила Ходорковского.
 
-При этом, пригожинцы утверждали, что они раскрыли дело и нашли организатора убийства, однако поймать его никак не выходит — его якобы скрывают спецслужбы. Нашему спецкору Ирине Гордиенко удалось найти этого человека и взять у него [интервью](https://novayagazeta.ru/articles/2021/07/30/besposhchadnyi-boevik).
+При этом, пригожинцы утверждали, что они раскрыли дело и нашли организатора убийства, однако поймать его никак не выходит — его якобы скрывают спецслужбы. Нашему спецкору Ирине Гордиенко удалось найти этого человека и взять у него [интервью](2021/07/30/besposhchadnyi-boevik.md).
 
 В последнем выпуске первого сезона подкаста «Что Нового?» говорим с Ириной об этой публикации, а также обо всем, что известно об убийствах на данный момент.
 
@@ -27,4 +27,4 @@ tags: "цар, расторгуев, радченко, убийство, дже�
 >
 > [Soundcloud](https://soundcloud.com/novaya_gazeta/chto-izvestno-ob-ubiystve-rossiyskikh-zhurnalistov-v-tsar-tri-goda-spustya-rasskazyvaet-irina-gordienko) | [Castbox](https://castbox.fm/episode/id2805556-id409520800?) | [ВКонтакте](https://vk.com/podcast-6726778_456239683) | [Apple Podcasts](https://podcasts.apple.com/ru/podcast/%D1%87%D1%82%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE/id1510447025?i=1000530528103) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuY2FzdGJveC5mbS9ldmVyZXN0Lzc0MGZjMTc1ZDQxZjQ3ZTlhMWJmY2ViYjc0MGU0ZjAxLnhtbA/episode/YWxidW0tNzQwZmMxNzVkNDFmNDdlOWExYmZjZWJiNzQwZTRmMDEtZjdiY2RlZWQwMjA4NDFlN2I3ODE4ZjdmZTZlMzJhZjE?sa=X&ved=0CAQQ8qgGahcKEwiQrrCtkIvyAhUAAAAAHQAAAAAQAQ) | [Яндекс.Музыка](https://music.yandex.ru/album/10572799)
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/30/besposhchadnyi-boevik
+**Читайте также:** [«Беспощадный боевик»](2021/07/30/besposhchadnyi-boevik.md)

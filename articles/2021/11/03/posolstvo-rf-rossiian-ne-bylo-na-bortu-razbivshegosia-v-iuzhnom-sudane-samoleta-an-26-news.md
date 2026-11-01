@@ -13,7 +13,7 @@ tags: "Ан-26, судан, самолет, крушение, россияне, 
 
 Посольство РФ в Уганде, курирующее отношения с Южным Суданом, [заявило](https://www.facebook.com/RusEmbUganda/posts/3855253907910720), что российских граждан не было на борту разбившегося 2 ноября в Южном Судане грузовом самолете Ан-26.
 
-Агентство Associated Press изначально[с](https://novayagazeta.ru/articles/2021/11/02/gruzovoi-an-26-razbilsia-v-iuzhnom-sudane-sredi-pogibshikh-mogut-byt-rossiiane-news)[ообщало](https://novayagazeta.ru/articles/2021/11/02/gruzovoi-an-26-razbilsia-v-iuzhnom-sudane-sredi-pogibshikh-mogut-byt-rossiiane-news), что на борту находились два россиянина. Диппредставительство опровергло эти данные.
+Агентство Associated Press изначально[с](2021/11/02/gruzovoi-an-26-razbilsia-v-iuzhnom-sudane-sredi-pogibshikh-mogut-byt-rossiiane-news.md)[ообщало](2021/11/02/gruzovoi-an-26-razbilsia-v-iuzhnom-sudane-sredi-pogibshikh-mogut-byt-rossiiane-news.md), что на борту находились два россиянина. Диппредставительство опровергло эти данные.
 
 «На борту разбившегося 2 ноября близ столицы Южного Судана Джубы грузового самолета Ан-26 <…> российских граждан не было. Публикации в западных СМИ о том, что в результате авиакатастрофы погибли граждане России, не соответствуют действительности», — отметило посольство в сообщении.
 

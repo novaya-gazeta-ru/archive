@@ -117,4 +117,4 @@ tags: "губернатор филимонов, сатанизм, чебураш
 
 #### * Движение признано в России экстремист- ским и запрещено.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/04/krokodil-inoagent-reklama-dlia-marsian-i-voina-s-tykvami
+**Читайте также:** [Крокодил-«иноагент», реклама для марсиан и война с тыквами](2025/11/04/krokodil-inoagent-reklama-dlia-marsian-i-voina-s-tykvami.md)

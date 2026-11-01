@@ -20,7 +20,7 @@ tags: "депутаты, магнитский, скандал"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right" style="">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/24/1343136533_327589_11.bmp" style="width: 300px; height: 163px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/24/1343136533_327589_11.bmp](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/24/1343136533_327589_11.bmp)" style="width: 300px; height: 163px; "><br>
 				<sup>Дмитрий Клюев и Андрей Павлов на приеме у генсека ПАСЕ Спенсера Оливера</sup></td>
 		</tr>
 	</tbody>]*
@@ -71,7 +71,7 @@ tags: "депутаты, магнитский, скандал"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right" style="">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/07/24/1343136536_831864_36.jpg" style="width: 300px; height: 452px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/07/24/1343136536_831864_36.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/07/24/1343136536_831864_36.jpg)" style="width: 300px; height: 452px; "><br>
 				<sup>Сенатор Виталий Малкин</sup></td>
 		</tr>
 	</tbody>]*

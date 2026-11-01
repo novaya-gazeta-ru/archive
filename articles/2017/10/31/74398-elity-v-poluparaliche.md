@@ -33,7 +33,7 @@ tags: "отставка, губернаторы, протесты, россия,
 
 Кынев утверждает, что этот эффект носит краткосрочный характер: «Дело в том, что когда происходит массовая замена чиновников, она ведет к тому, что степень согласованности принятия решений неизбежно снижается. Очевидно, что в этих регионах управление процессами ухудшается».
 
-**link:** https://novayagazeta.ru/articles/2017/02/07/71433-predvybornaya-likvidatsiya
+**link:** [https://novayagazeta.ru/articles/2017/02/07/71433-predvybornaya-likvidatsiya](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/02/07/71433-predvybornaya-likvidatsiya)
 
 Продолжение «репрессий» в отношении региональных элит
 

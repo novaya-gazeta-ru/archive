@@ -25,6 +25,6 @@ tags: ""
 
 В субботу суд арестовал убийцу по статье «105» с утяжеленными составами. Отец преступника работал в системе ФСИН, после задержания сына он, сообщают СМИ, уволился из службы.
 
-По тяжести состава Руслану Н. грозит до 20 лет тюрьмы. Если он не изъявит желание отправиться на СВО во второй раз — как это могут делать [и делают](https://novayagazeta.ru/articles/2025/01/14/otets-studentki-uznal-chto-ee-ubiitsy-zaverbovalis-na-svo-i-vyshli-iz-tiurmy-na-15-let-ranshe-sroka-odin-kupil-kvartiru-news), пользуясь новыми законами, осужденные или обвиняемые в убийствах.
+По тяжести состава Руслану Н. грозит до 20 лет тюрьмы. Если он не изъявит желание отправиться на СВО во второй раз — как это могут делать [и делают](2025/01/14/otets-studentki-uznal-chto-ee-ubiitsy-zaverbovalis-na-svo-i-vyshli-iz-tiurmy-na-15-let-ranshe-sroka-odin-kupil-kvartiru-.md), пользуясь новыми законами, осужденные или обвиняемые в убийствах.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/17/on-ei-gorlo-pererezal-nozh-v-grud-votknul-18
+**Читайте также:** [«Он ей горло перерезал, нож в грудь воткнул». 18+](2024/10/17/on-ei-gorlo-pererezal-nozh-v-grud-votknul-18.md)

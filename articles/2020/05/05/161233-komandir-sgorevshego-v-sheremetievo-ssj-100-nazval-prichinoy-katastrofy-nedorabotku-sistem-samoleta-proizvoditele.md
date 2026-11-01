@@ -17,12 +17,12 @@ tags: "kb, SSJ-100, шереметьево, авиакатастрофа, евд
 
 Причиной аварии и гибели людей Евдокимов назвал несоответствие нормам летной годности. «Если бы производитель вовремя доработал воздушное судно, авиационные инциденты подобного характера не повторялись бы, а значит — безопасность полетов была бы на приемлемом уровне, а риски свелись бы к минимуму», — объясняет он.
 
-**link:** https://novayagazeta.ru/articles/2019/12/03/82978-pilot-tochno-hotel-spasti-svoyu-zhizn-i-zhizni-vseh-na-bortu
+**link:** [«Пилот точно хотел спасти свою жизнь и жизни всех на борту»](2019/12/03/82978-pilot-tochno-hotel-spasti-svoyu-zhizn-i-zhizni-vseh-na-bortu.md)
 
 Пилот рассказал, что продолжать полет в Мурманск было невозможно после перехода на ручной режим управления, так как он предназначен только для полетов на малых высотах и приводит к увеличению расхода топлива, необходимых запасов которого тогда не было. Евдокимов решил совершить посадку, не вырабатывая топливо над аэропортом, исходя из опасения вовсе лишиться возможности управления судном.
 
 В интервью командир самолета также выразил соболезнования пострадавшим и тем, кто в результате катастрофы потерял близких. «Я искренне сожалею и прошу прощения, что стал участником этих событий», — сказал Евдокимов и заверил, что предпринял все возможное.
 
-SSJ-100 совершил аварийную посадку в аэропорту Шереметьево 5 мая, после чего загорелся. В результате погиб 41 человек из 78 находившихся на борту. Следственный комитет [назвал](https://novayagazeta.ru/news/2020/01/13/158237-sk-prichinoy-katastrofy-ssj-100-v-sheremetievo-stala-oshibka-komandira-samoleta) причиной катастрофы ошибку пилота и [предъявил](https://novayagazeta.ru/news/2019/12/03/157374-sk-obvinil-pilota-v-katastrofe-ssj-100-v-sheremetievo-ne-dozhidayas-vyvodov-mezhgosudarstvennogo-aviakomiteta) обвинение Евдокимову, который, в свою очередь, вину не признает.
+SSJ-100 совершил аварийную посадку в аэропорту Шереметьево 5 мая, после чего загорелся. В результате погиб 41 человек из 78 находившихся на борту. Следственный комитет [назвал](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/01/13/158237-sk-prichinoy-katastrofy-ssj-100-v-sheremetievo-stala-oshibka-komandira-samoleta) причиной катастрофы ошибку пилота и [предъявил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/12/03/157374-sk-obvinil-pilota-v-katastrofe-ssj-100-v-sheremetievo-ne-dozhidayas-vyvodov-mezhgosudarstvennogo-aviakomiteta) обвинение Евдокимову, который, в свою очередь, вину не признает.
 
-**link:** https://novayagazeta.ru/articles/2019/05/06/80450-vtoraya-krupnaya-avariya-superdzheta-stavit-pod-vopros-buduschee-laynera
+**link:** [В наш «середнячок» попала молния](2019/05/06/80450-vtoraya-krupnaya-avariya-superdzheta-stavit-pod-vopros-buduschee-laynera.md)

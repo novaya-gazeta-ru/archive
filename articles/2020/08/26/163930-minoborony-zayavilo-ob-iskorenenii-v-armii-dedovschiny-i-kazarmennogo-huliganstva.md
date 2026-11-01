@@ -15,10 +15,10 @@ tags: "дедовщина, армия, минобороны, em"
 
 Он утверждает, что в Вооруженных силах выбрано правильное направление совместных действий по наведению уставного порядка. «[Это] в свою очередь повлияло на качество призыва и желание граждан России проходить срочную службу в рядах Вооруженных сил», — приводит его слова пресс-служба форума.
 
-**link:** https://novayagazeta.ru/articles/2019/11/15/82747-v-rossiyskoy-armii-net-primerov-muzhelozhestva
+**link:** [«В российской армии нет примеров мужеложества»](2019/11/15/82747-v-rossiyskoy-armii-net-primerov-muzhelozhestva.md)
 
-Напомним, в октябре прошлого года в воинской части в Забайкалье рядовой Рамиль Шамсутдинов убил восемь человек. На допросе он [объяснил](https://novayagazeta.ru/news/2019/11/06/156687-ili-oni-by-menya-grohnuli-ili-ya-ih-rasstrelyavshiy-sosluzhivtsev-zabaykalskiy-soldat-rasskazal-o-dedovschine-v-chasti) произошедшее установившейся в части дедовщиной, частыми унижениями и вымогательством денег. Перед расстрелом сослуживцев рядовой не спал трое суток, так как был на боевом дежурстве, а офицеры, по словам рядового, обещали после караула опустить его головой в унитаз.
+Напомним, в октябре прошлого года в воинской части в Забайкалье рядовой Рамиль Шамсутдинов убил восемь человек. На допросе он [объяснил](https://web.archive.org/web/*/https://novayagazeta.ru/news/2019/11/06/156687-ili-oni-by-menya-grohnuli-ili-ya-ih-rasstrelyavshiy-sosluzhivtsev-zabaykalskiy-soldat-rasskazal-o-dedovschine-v-chasti) произошедшее установившейся в части дедовщиной, частыми унижениями и вымогательством денег. Перед расстрелом сослуживцев рядовой не спал трое суток, так как был на боевом дежурстве, а офицеры, по словам рядового, обещали после караула опустить его головой в унитаз.
 
-Впоследствии было возбуждено дело о неуставных отношениях в части. Его фигуранта Рустама Мухатова в марте [приговорили](https://novayagazeta.ru/news/2020/03/03/159490-obvinenie-zaprosilo-dva-goda-kolonii-poseleniya-dlya-obvinyaemogo-po-delu-o-dedovschine-v-zabaykalskoy-chasti-gde-ryadovoy-rasstrelyal-sosluzhivtsev) к двум годам условно и штрафу в 30 тысяч рублей.
+Впоследствии было возбуждено дело о неуставных отношениях в части. Его фигуранта Рустама Мухатова в марте [приговорили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/03/03/159490-obvinenie-zaprosilo-dva-goda-kolonii-poseleniya-dlya-obvinyaemogo-po-delu-o-dedovschine-v-zabaykalskoy-chasti-gde-ryadovoy-rasstrelyal-sosluzhivtsev) к двум годам условно и штрафу в 30 тысяч рублей.
 
-**link:** https://novayagazeta.ru/articles/2019/12/19/83219-neustavnoy-rasstrel
+**link:** [Неуставной расстрел](2019/12/19/83219-neustavnoy-rasstrel.md)

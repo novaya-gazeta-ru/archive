@@ -26,39 +26,39 @@ _Но после не остаться не у дел И, заступив за 
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/22/1371901291_022936_53.jpg" style="width: 360px; height: 504px;"><sup>Александр Михайлович Гусев</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/22/1371901291_022936_53.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/22/1371901291_022936_53.jpg)" style="width: 360px; height: 504px;"><sup>Александр Михайлович Гусев</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/22/1371901291_310063_31.jpg" style="width: 360px; height: 219px;"><sup>Февраль 1943 года. Отряды встретились у «Приюта одиннадцати».</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/22/1371901291_310063_31.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/22/1371901291_310063_31.jpg)" style="width: 360px; height: 219px;"><sup>Февраль 1943 года. Отряды встретились у «Приюта одиннадцати».</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/22/1371901291_586176_27.jpg" style="width: 360px; height: 246px;"><sup>Февраль 1943 года. Уходим к вершине.</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/22/1371901291_586176_27.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/22/1371901291_586176_27.jpg)" style="width: 360px; height: 246px;"><sup>Февраль 1943 года. Уходим к вершине.</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/22/1371901300_627069_43.jpg" style="width: 360px; height: 247px;"><sup>Февраль 1943 года. Эльбрус снова наш</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/22/1371901300_627069_43.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/22/1371901300_627069_43.jpg)" style="width: 360px; height: 247px;"><sup>Февраль 1943 года. Эльбрус снова наш</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/22/1371901300_903028_45.jpg" style="width: 360px; height: 522px;"><sup>Альпинисты Закавказского фронта</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/22/1371901300_903028_45.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/22/1371901300_903028_45.jpg)" style="width: 360px; height: 522px;"><sup>Альпинисты Закавказского фронта</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/22/1371901301_177003_9.jpg" style="width: 360px; height: 523px;"><sup>На «СП-3». Александр Гусев – крайний справа.</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/22/1371901301_177003_9.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/22/1371901301_177003_9.jpg)" style="width: 360px; height: 523px;"><sup>На «СП-3». Александр Гусев – крайний справа.</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/22/1371901308_588888_98.jpg" style="width: 360px; height: 239px;"><sup>Флагом, поднятым над первой на шестом континенте внутриматериковой станцией, было знамя пионерской дружины 661-й московской школы</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/22/1371901308_588888_98.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/22/1371901308_588888_98.jpg)" style="width: 360px; height: 239px;"><sup>Флагом, поднятым над первой на шестом континенте внутриматериковой станцией, было знамя пионерской дружины 661-й московской школы</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/22/1371901308_863873_99.jpg" style="width: 360px; height: 515px;"><sup>Первая посадка самолёта на ледяном куполе Антарктиды</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/22/1371901308_863873_99.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/22/1371901308_863873_99.jpg)" style="width: 360px; height: 515px;"><sup>Первая посадка самолёта на ледяном куполе Антарктиды</sup></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/06/22/1371901309_143992_50.jpg" style="width: 360px; height: 504px;"><sup>Ледовый флаг над Ушбой</sup></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/06/22/1371901309_143992_50.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/06/22/1371901309_143992_50.jpg)" style="width: 360px; height: 504px;"><sup>Ледовый флаг над Ушбой</sup></td>
 		</tr>
 	</tbody>]*
 

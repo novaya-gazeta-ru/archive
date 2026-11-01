@@ -17,4 +17,4 @@ tags: "книги, поклонская"
 
 Интервью Поклонской со спецкором Павлом Каныгиным почему-то решили не брать. Но его всегда можно найти здесь:
 
-**link:** https://novayagazeta.ru/articles/2016/07/19/69303-vyskazyvayte-svoi-mysli-v-sootvetstvii-s-trebovaniyami-zakona
+**link:** [«Высказывайте свои мысли в соответствии с требованиями закона!»](2016/07/19/69303-vyskazyvayte-svoi-mysli-v-sootvetstvii-s-trebovaniyami-zakona.md)

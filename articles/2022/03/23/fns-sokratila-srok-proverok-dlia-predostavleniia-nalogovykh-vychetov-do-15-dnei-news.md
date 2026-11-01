@@ -17,8 +17,8 @@ tags: "фнс, налоговый вычет, 3-НДФЛ, ep"
  \
  Ранее проверки по социальным вычетам проводились три месяца, еще месяц уходил на перечисление возврата. По имущественным вычетам на проверку отводился один месяц и 15 дней на зачисление средств.\
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/09/vziat-vse-i-raspredelit
+**Читайте также:** [Взять все и распределить](2022/03/09/vziat-vse-i-raspredelit.md)
 
-Ранее ФНС временно [перестала](https://novayagazeta.ru/articles/2022/03/17/nalogovaia-sluzhba-vremenno-razreshila-magazinam-ne-vydavat-bumazhnye-cheki-news) штрафовать магазины за невыдачу кассовых чеков.
+Ранее ФНС временно [перестала](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/17/nalogovaia-sluzhba-vremenno-razreshila-magazinam-ne-vydavat-bumazhnye-cheki-news) штрафовать магазины за невыдачу кассовых чеков.
 
 При этом магазины все равно должны выдать чек, если этого требует покупатель. В ближайшее время также планируется переход на электронные чеки, отметили в ведомстве.

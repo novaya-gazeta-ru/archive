@@ -68,8 +68,8 @@ tags: ""
 
 Тяжелый вздох. Занавес.
 
-**Другие статьи доклада:** https://novayagazeta.ru/articles/2026/07/08/predislovie
+**Другие статьи доклада:** [Почему наш доклад называется «Будущее после»](2026/07/08/predislovie.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/08/budushchee-mezhdu-mirami
+**Читайте также:** [Будущее между мирами](2026/07/08/budushchee-mezhdu-mirami.md)
 
 #### * Внесен властями РФ в реестр «иноагентов»

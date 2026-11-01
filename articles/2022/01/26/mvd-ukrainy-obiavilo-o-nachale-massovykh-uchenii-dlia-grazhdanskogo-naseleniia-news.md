@@ -19,10 +19,10 @@ tags: "украина, учения, граждане, sn"
 
 Кроме того, Монастырский поручил проверить общую систему оповещения на случай ЧС. Глава МВД Украины также обсудил во время заседания комиссии по техногенно-экологической безопасности порядок использования защитных сооружений и планы эвакуации.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/26/sergei-loznitsa-voina-vsegda-otvratitelnyi-sposob-neresheniia-nikakoi-problemy
+**Читайте также:** [Сергей Лозница: «Война — всегда отвратительный способ нерешения проблемы»](2022/01/26/sergei-loznitsa-voina-vsegda-otvratitelnyi-sposob-neresheniia-nikakoi-problemy.md)
 
-Решение о начале учений МВД Украины приняло на фоне обострившейся ситуации на границе. С осени США и страны Европы [фиксируют](https://novayagazeta.ru/articles/2021/10/31/wp-v-ssha-i-evrope-zafiksirovali-narashchivanie-rossiiskikh-voisk-u-granitsy-s-ukrainoi-news) там наращивание российской техники. В Кремле эту информацию [называли](https://www.rbc.ru/politics/02/11/2021/6180fbff9a7947c2a34bc8e6) «вбросом».
+Решение о начале учений МВД Украины приняло на фоне обострившейся ситуации на границе. С осени США и страны Европы [фиксируют](2021/10/31/wp-v-ssha-i-evrope-zafiksirovali-narashchivanie-rossiiskikh-voisk-u-granitsy-s-ukrainoi-news.md) там наращивание российской техники. В Кремле эту информацию [называли](https://www.rbc.ru/politics/02/11/2021/6180fbff9a7947c2a34bc8e6) «вбросом».
 
 Тем временем несколько дней назад Reuters [опубликовал](https://twitter.com/Reuters/status/1484175130020356100) спутниковые снимки, которые, как утверждается, подтверждают информацию о том, что Россия концентрирует войска и военную технику недалеко от границы с Украиной. На них, как пишет агентство, заметно скопление военной техники и российских военных численностью около 100 тысяч. Кроме того, на фотографиях можно увидеть грузовики, танки и другую технику.
 
-На прошлой неделе расследовательская группа Conflict Intelligence Team (CIT) [сообщила](https://novayagazeta.ru/articles/2022/01/19/rossiiskie-voiska-pribyli-na-ucheniia-v-belarus-rassledovateli-cit-zametili-ikh-lager-v-90-km-ot-kievskoi-oblasti-news), что российские войска находятся в 90 км от Киевской области — на территории Беларуси. Формально военные прибыли туда на учения.
+На прошлой неделе расследовательская группа Conflict Intelligence Team (CIT) [сообщила](2022/01/19/rossiiskie-voiska-pribyli-na-ucheniia-v-belarus-rassledovateli-cit-zametili-ikh-lager-v-90-km-ot-kievskoi-oblasti-news.md), что российские войска находятся в 90 км от Киевской области — на территории Беларуси. Формально военные прибыли туда на учения.

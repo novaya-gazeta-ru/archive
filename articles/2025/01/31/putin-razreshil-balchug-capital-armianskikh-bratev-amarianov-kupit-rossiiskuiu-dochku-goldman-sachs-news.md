@@ -21,4 +21,4 @@ tags: ""
 
 Представительство Goldman Sachs в Москве работало с 1998 году, российская «дочка» с лицензией ЦБ заработала в 2008-м. После начала военных действий в Украине Goldman Sachs первым из крупных банков Уолл-стрит решил свернуть деятельность в РФ. В 2024 году ЦБ аннулировал лицензии профессионального участника рынка ценных бумаг «Голдман Сакс Банк» — на дилерскую и брокерскую деятельность, сохранив лишь банковскую.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/16/vse-protokoly-s-moei-podpisiu-falsifikatsiia-eks-glava-karabakha-vardanian-vypustil-zaiavlenie-iz-azerbaidzhanskogo-sizo-news
+**Читайте также:** [«Все протоколы с моей подписью — фальсификация». Экс-глава Карабаха Варданян выпустил заявление из азербайджанского СИЗО](2025/01/16/vse-protokoly-s-moei-podpisiu-falsifikatsiia-eks-glava-karabakha-vardanian-vypustil-zaiavlenie-iz-azerbaidzhanskogo-sizo.md)

@@ -13,7 +13,7 @@ tags: "журналисты, одиночные пикеты, илья азар"
 
 > **<span style="color:#a52a2a">есть продолжение</span>**
 >
-> [В Петербурге начались задержания вышедших с пикетами в поддержку арестованного спецкора «Новой» Ильи Азара](https://novayagazeta.ru/news/2020/05/28/161866-v-peterburge-nachalis-zaderzhaniya-vyshedshih-s-piketami-v-podderzhku-arestovannogo-spetskora-novoy-ili-azara)
+> [В Петербурге начались задержания вышедших с пикетами в поддержку арестованного спецкора «Новой» Ильи Азара](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/05/28/161866-v-peterburge-nachalis-zaderzhaniya-vyshedshih-s-piketami-v-podderzhku-arestovannogo-spetskora-novoy-ili-azara)
 
 У здания столичного МВД на Петровке, 38 проходят пикеты журналистов в поддержку спецкора «Новой газеты» Ильи Азара, арестованного на 15 суток за одиночную акцию в поддержку основателя паблика «Омбудсмен полиции».
 
@@ -39,6 +39,6 @@ tags: "журналисты, одиночные пикеты, илья азар"
 >
 > Журналист «Дождя»&nbsp;Михаил Фишман и журналист RT Илья Васюнин&nbsp;также задержаны у здания МВД на Петровке, 38 – сразу же, как только встали в пикет.
 
-Напомним, ранее в четверг Тверской районный суд [арестовал ](https://novayagazeta.ru/news/2020/05/28/161853-spetskora-novoy-ilyu-azara-arestovali-na-15-sutok-za-odinochnyy-piket-u-moskovskogo-mvd)специального корреспондента «Новой газеты» и муниципального депутата района Хамовники Илью Азара на 15 суток. Его признали виновным по ч. 8 ст. 20.2 КоАП РФ (повторное нарушение правил проведения митинга) несмотря на то, что одиночный пикет не считается массовой акцией и не требует согласования.
+Напомним, ранее в четверг Тверской районный суд [арестовал ](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/05/28/161853-spetskora-novoy-ilyu-azara-arestovali-na-15-sutok-za-odinochnyy-piket-u-moskovskogo-mvd)специального корреспондента «Новой газеты» и муниципального депутата района Хамовники Илью Азара на 15 суток. Его признали виновным по ч. 8 ст. 20.2 КоАП РФ (повторное нарушение правил проведения митинга) несмотря на то, что одиночный пикет не считается массовой акцией и не требует согласования.
 
-Днем ранее за аналогичный пикет на Петровке в поддержку Воронцова на 15 суток был [арестован](https://novayagazeta.ru/news/2020/05/27/161835-v-moskve-aktivista-arestovali-na-15-sutok-za-piket-v-podderzhku-sozdatelya-ombudsmena-politsii-u-zdaniya-mvd) активист Виктор Немытов.
+Днем ранее за аналогичный пикет на Петровке в поддержку Воронцова на 15 суток был [арестован](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/05/27/161835-v-moskve-aktivista-arestovali-na-15-sutok-za-piket-v-podderzhku-sozdatelya-ombudsmena-politsii-u-zdaniya-mvd) активист Виктор Немытов.

@@ -19,10 +19,10 @@ tags: "митинги, свобода, telegram, телеграм, роском�
 
 Согласовано участие до пяти тысяч человек.
 
-**link:** https://novayagazeta.ru/articles/2018/04/30/76341-bunt-bumazhnyh-samoletov
+**link:** [Бунт бумажных самолетов](2018/04/30/76341-bunt-bumazhnyh-samoletov.md)
 
 Организатором акции являются партии «Парнас», «Яблоко», Пиратская партия России, «5 декабря», «Демвыбор», «Гражданская инициатива» и «Открытая Россия».
 
 Участники потребуют отменить «пакет Яровой», расформировать Роскомнадзор, прекратить уголовное преследования за посты в соцсетях, репосты и лайки.
 
-Напомним, заявка в мэрию Москвы была [подана](https://www.novayagazeta.ru/news/2018/04/28/141337-v-meriyu-moskvy-podali-zayavku-na-aktsiyu-za-svobodnyy-internet-na-fone-blokirovki-telegram) 28 апреля партией «Парнас».
+Напомним, заявка в мэрию Москвы была [подана](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/04/28/141337-v-meriyu-moskvy-podali-zayavku-na-aktsiyu-za-svobodnyy-internet-na-fone-blokirovki-telegram) 28 апреля партией «Парнас».

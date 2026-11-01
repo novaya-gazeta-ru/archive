@@ -16,7 +16,7 @@ tags: "спорт"
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2012/03/31/1333203665_113593_79.jpg" style="width: 360px; height: 240px; "><br>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/03/31/1333203665_113593_79.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/03/31/1333203665_113593_79.jpg)" style="width: 360px; height: 240px; "><br>
 				<sup>Фото: РИА «Новости»</sup></td>
 		</tr>
 	</tbody>]*

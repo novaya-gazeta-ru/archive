@@ -27,8 +27,8 @@ tags: "сачков, group-ib, сизо, арест, kn"
 
 Ранее сегодня Мосгорсуд отклонил жалобы защиты Сачкова на продление ему срока ареста. Основатель Group-IB пробудет в СИЗО до 28 февраля 2022 года.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/09/29/chelovek-pervogo-softa
+**Читайте также:** [Человек первого софта](2021/09/29/chelovek-pervogo-softa.md)
 
-Сачкова [арестовали](https://novayagazeta.ru/articles/2021/09/29/osnovatelia-group-ib-iliu-sachkova-otpravili-v-sizo-po-delu-o-gosizmene-news) в конце сентября. В штаб-квартире его компании прошли обыски. На уголовное дело в отношении IT-бизнесмена наложен гриф «Секретно».
+Сачкова [арестовали](2021/09/29/osnovatelia-group-ib-iliu-sachkova-otpravili-v-sizo-po-delu-o-gosizmene-news.md) в конце сентября. В штаб-квартире его компании прошли обыски. На уголовное дело в отношении IT-бизнесмена наложен гриф «Секретно».
 
-В ноябре Сачков [обратился](https://novayagazeta.ru/articles/2021/11/23/ia-ne-izmennik-ne-shpion-i-ne-predatel-arestovannyi-osnovatel-group-ib-ilia-sachkov-obratilsia-k-putinu-news) к президенту РФ Владимиру Путину с просьбой перевести его под домашний арест. В публичном письме он назвал свое преследоваение «новым делом Дрейфуса» и сообщил, что он «не изменник, не шпион и не предатель».
+В ноябре Сачков [обратился](2021/11/23/ia-ne-izmennik-ne-shpion-i-ne-predatel-arestovannyi-osnovatel-group-ib-ilia-sachkov-obratilsia-k-putinu-news.md) к президенту РФ Владимиру Путину с просьбой перевести его под домашний арест. В публичном письме он назвал свое преследоваение «новым делом Дрейфуса» и сообщил, что он «не изменник, не шпион и не предатель».

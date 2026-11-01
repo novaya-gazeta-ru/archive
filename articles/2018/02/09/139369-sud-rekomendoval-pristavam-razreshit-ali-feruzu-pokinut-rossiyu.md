@@ -19,10 +19,10 @@ tags: "суды, феруз"
 
 После заседание в Басманном суде Марина Кукса подтвердила, что теперь у нее нет вопросов к решению суда. В понедельник она готова принять заявление от Феруза.
 
-**link:** https://novayagazeta.ru/articles/2018/02/05/75395-rossiya-otpuskaet
+**link:** [Россия отпускает](2018/02/05/75395-rossiya-otpuskaet.md)
 
-2 февраля Мосгорсуд [изменил](https://www.novayagazeta.ru/news/2018/02/02/139152-ali) другое решение Басманного суда по первому делу (о нарушении правил пребывания иностранного гражданина на территории России) в отношении Али Феруза. Суд постановил, что Феруз может покинуть страну самостоятельно по заявлению, написанному в адрес приставов.
+2 февраля Мосгорсуд [изменил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/02/02/139152-ali) другое решение Басманного суда по первому делу (о нарушении правил пребывания иностранного гражданина на территории России) в отношении Али Феруза. Суд постановил, что Феруз может покинуть страну самостоятельно по заявлению, написанному в адрес приставов.
 
 Напомним, что Али Феруз находится в ЦВСИГ — режимном учреждении закрытого типа — уже полгода.
 
-**link:** https://novayagazeta.ru/news/2018/02/01/139121-novuyu-gazetu-oshtrafovali-na-400-tys-rubley-za-publikatsiyu-statey-ali-feruza
+**link:** [https://novayagazeta.ru/news/2018/02/01/139121-novuyu-gazetu-oshtrafovali-na-400-tys-rubley-za-publikatsiyu-statey-ali-feruza](https://web.archive.org/web/*/https://novayagazeta.ru/news/2018/02/01/139121-novuyu-gazetu-oshtrafovali-na-400-tys-rubley-za-publikatsiyu-statey-ali-feruza)

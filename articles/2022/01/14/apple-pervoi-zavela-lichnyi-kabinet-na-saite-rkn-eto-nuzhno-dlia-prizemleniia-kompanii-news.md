@@ -23,4 +23,4 @@ tags: ""
 
 Так называемый «закон о приземлении» президент России Владимир Путин подписал в июле прошлого года. В ноябре Роскомнадзор [опубликовал](https://236-fz.rkn.gov.ru/agents/list%C2%AB%20rel=%C2%BBnoopener%C2%AB%20target=%C2%BB_blank« rel=»noopener« target=»_blank) список IT-компаний, которые обязаны открыть представительства в России до 1 января 2022 года, среди них, помимо Apple, оказались в том числе Google и Meta.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/26/oborot-nad-atlantikoi
+**Читайте также:** [Оборот над Атлантикой](2021/12/26/oborot-nad-atlantikoi.md)

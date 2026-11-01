@@ -45,7 +45,7 @@ tags: "психоневрологические интернаты"
 
 И, наконец, грянуло самое важное: реформа интернатов.
 
-**novaya:** https://novayagazeta.ru/articles/2018/12/19/78983-tam-gde-ty-sel-uzhe-zhivesh
+**novaya:** [Там, где ты сел, — уже живешь](2018/12/19/78983-tam-gde-ty-sel-uzhe-zhivesh.md)
 
 # Мы в тренде?
 

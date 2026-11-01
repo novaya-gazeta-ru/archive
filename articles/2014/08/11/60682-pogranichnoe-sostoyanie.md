@@ -23,7 +23,7 @@ tags: ""
 
 Предисловие от редакции
 
-**link:** https://novayagazeta.ru/columns/64798.html
+**link:** [https://novayagazeta.ru/columns/64798.html](https://web.archive.org/web/*/https://novayagazeta.ru/columns/64798.html)
 
 **— Выходим мы как-то раз с малой на двор, слышу: минометы пошли шарашить. Малая куриц гоняла, голову подняла: «А, хохлов бьют», — и давай опять бегать. Три года человеку, прикинь?**
 

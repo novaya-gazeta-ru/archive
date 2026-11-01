@@ -27,7 +27,7 @@ tags: "омон, росгвардия, избиение, обыски, арес�
 >
 > Но самую эмоциональную реакцию вызвала серия задержаний пенсионерок: фотографии плачущих женщин с паспортами в руках у автозака разлетелись по Сети.
 
-**link:** https://novayagazeta.ru/articles/2019/07/28/81399-seychas-vse-politika
+**link:** [«Сейчас все — политика»](2019/07/28/81399-seychas-vse-politika.md)
 
 > **3.**
 >
@@ -43,7 +43,7 @@ tags: "омон, росгвардия, избиение, обыски, арес�
 >
 > Но вместо одной несогласованной акции силовики обнаруживают сразу несколько очагов сопротивления — по числу групп людей, оттесненных от здания мэрии.
 
-**link:** https://novayagazeta.ru/articles/2019/07/27/81396-27-iyulya-fotografii
+**link:** [Как полиция и Росгвардия целый день били москвичей](2019/07/27/81396-27-iyulya-fotografii.md)
 
 > **5.**
 >
@@ -73,7 +73,7 @@ tags: "омон, росгвардия, избиение, обыски, арес�
 >
 > В районе 18.30 довольно многочисленная группа протестующих, оказавшись на Цветном бульваре, двинулась в сторону Садового кольца. Полиции поблизости не было, и активисты вышли на проезжую часть, перекрыв кольцо на 4 минуты. Фотографии этого события моментально разлетаются по новостям. Несмотря на задержания части участников, акция с перекрытием кольца очень воодушевляет протестующих, о чем они сами признаются журналистам.
 
-**link:** https://novayagazeta.ru/articles/2019/07/27/81392-politsiya-obyskivaet-i-zaderzhivaet-nezavisimyh-kandidatov-v-preddverii-protestov-u-stolichnoy-merii-onlayn
+**link:** [https://novayagazeta.ru/articles/2019/07/27/81392-politsiya-obyskivaet-i-zaderzhivaet-nezavisimyh-kandidatov-v-preddverii-protestov-u-stolichnoy-merii-onlayn](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2019/07/27/81392-politsiya-obyskivaet-i-zaderzhivaet-nezavisimyh-kandidatov-v-preddverii-protestov-u-stolichnoy-merii-onlayn)
 
 > **9.**
 >

@@ -21,9 +21,9 @@ tags: "дуров, спецслужбы, безопасность, telegram"
 
 «Telegram в России находится вне закона; ежедневно блокируются сотни IP-адресов в попытках пресечь доступ к сервису. В этой связи какие-либо обращения от российских служб мы не рассматриваем, и наша политика конфиденциальности не касается ситуации в России. Поэтому продолжаем сопротивление», —подчеркнул Дуров.
 
-**link:** https://novayagazeta.ru/articles/2018/08/14/77493-osennee-nastuplenie-na-internet
+**link:** [Осеннее наступление на интернет](2018/08/14/77493-osennee-nastuplenie-na-internet.md)
 
-Ранее во вторник стало известно, что Telegram [изменил](https://www.novayagazeta.ru/news/2018/08/28/144563-telegram-izmenil-politiku-konfidentsialnosti-messendzher-smozhet-peredavat-spetssluzhbam-dannye-o-terroristah-po-resheniyu-suda) политику конфиденциальности, добавив туда пункт о возможности передавать спецслужбам информацию о людях, подозреваемых в терроризме, если на это есть соответствующее решение суда.
+Ранее во вторник стало известно, что Telegram [изменил](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/08/28/144563-telegram-izmenil-politiku-konfidentsialnosti-messendzher-smozhet-peredavat-spetssluzhbam-dannye-o-terroristah-po-resheniyu-suda) политику конфиденциальности, добавив туда пункт о возможности передавать спецслужбам информацию о людях, подозреваемых в терроризме, если на это есть соответствующее решение суда.
 
 В Telegram отмечают, что пока не получали таких просьб от спецслужб, но если такой случай вдруг произойдет, то информация об этом будет опубликована в [специальном канале Transparency](https://t.me/transparency%C2%A0), куда каждые полгода будут выкладываться  отчеты об обращениях спецслужб.
 

@@ -37,6 +37,6 @@ tags: "театр, табаков"
 
 *Фото: Юрий Рост / «Новая газета»*
 
-**link:** https://novayagazeta.ru/articles/2018/03/12/75773-epoha-epoha-epoha
+**link:** [Эпоха. Эпоха. Эпоха](2018/03/12/75773-epoha-epoha-epoha.md)
 
-**link:** https://novayagazeta.ru/articles/2018/03/12/75772-ushel-iz-zhizni-oleg-tabakov
+**link:** [Ушел из жизни Олег Табаков](2018/03/12/75772-ushel-iz-zhizni-oleg-tabakov.md)

@@ -13,7 +13,7 @@ tags: ""
 
 > **есть продолжение**
 >
-> ### [Рубио: США разочарованы отсутствием прогресса по Украине со стороны России, а Лавров представил новую идею урегулирования](https://novayagazeta.ru/articles/2025/07/10/rubio-ssha-razocharovany-otsutstviem-progressa-po-ukraine-so-storony-rossii-a-lavrov-predstavil-novuiu-ideiu-uregulirovaniia-news)
+> ### [Рубио: США разочарованы отсутствием прогресса по Украине со стороны России, а Лавров представил новую идею урегулирования](2025/07/10/rubio-ssha-razocharovany-otsutstviem-progressa-po-ukraine-so-storony-rossii-a-lavrov-predstavil-novuiu-ideiu-uregulirova.md)
 
 Содержание личной встречи пока ни одна из сторон не раскрыла и не комментировала. Но ее [анонсировал](https://www.state.gov/releases/office-of-the-spokesperson/2025/07/public-schedule-july-10-2025/) и Госдеп, и МИД РФ (в формулировке последнего такая встреча «прорабатывалась»).
 
@@ -29,4 +29,4 @@ tags: ""
 
 Тогда же Трамп пообещал «сюрприз» для России — намекая на проходящий согласование проект жестких санкций против России от лидера республиканцев в Сенате Линдси Грэма, который предложил торговые тарифы в 500% против товаров из третьих стран — торговых партнеров России.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/08/stykovka-bez-razriadki-i-kurim-to-chto-est
+**Читайте также:** [Стыковка без разрядки и курим то, что есть](2025/07/08/stykovka-bez-razriadki-i-kurim-to-chto-est.md)

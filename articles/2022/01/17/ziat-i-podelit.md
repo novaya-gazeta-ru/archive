@@ -15,7 +15,7 @@ tags: "казахстан, назарбаев, зачистка, токаев"
 
 > **обновление**
 >
-> ### [«Являюсь пенсионером, никуда не уезжал»: Нурсултан Назарбаев появился на публике впервые с начала протестов в Казахстане](https://novayagazeta.ru/articles/2022/01/18/iavliaius-pensionerom-nikuda-ne-uezzhal-nursultan-nazarbaev-poiavilsia-na-publike-vpervye-s-nachala-protestov-v-kazakhstane-news)
+> ### [«Являюсь пенсионером, никуда не уезжал»: Нурсултан Назарбаев появился на публике впервые с начала протестов в Казахстане](2022/01/18/iavliaius-pensionerom-nikuda-ne-uezzhal-nursultan-nazarbaev-poiavilsia-na-publike-vpervye-s-nachala-protestov-v-kazakhst.md)
 
 Правда, формулировки изначально он для этого выбрал максимально обтекаемые:
 
@@ -62,7 +62,7 @@ tags: "казахстан, назарбаев, зачистка, токаев"
 
 Да и другие шаги самого могущественного до 2022 года казахстанского семейства сразу становятся публичными: «Московский комсомолец» [выяснил](https://www.mk.ru/amp/politics/2022/01/16/nazarbaev-navestil-rodnoe-selo-23-yanvarya-uletel-cherez-kirgiziyu-v-oae.html), куда и как ездил Нурсултан Назарбаев в начале января, а киргизские журналисты [поохотились](https://24.kg/vlast/220298_situatsiya_vkazahstane_brat_nursultana_nazarbaeva_byil_vbishkeke_iuletel_vdubay/) на его брата, чьи самолеты через Бишкек улетели в Дубай.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/01/14/itogi-samykh-massovykh-protestov-v-kazakhstane
+**Читайте также:** [Итоги самых массовых протестов в Казахстане](2022/01/14/itogi-samykh-massovykh-protestov-v-kazakhstane.md)
 
 Несмотря на то что весь этот пресс клана Назарбаевых выглядит целенаправленным, проникнуться к ним жалостью весьма сложно. Тем не менее нарастающая скорость снятия с постов родственников елбасы не может не вызывать вопросы. Ключевых — три.
 

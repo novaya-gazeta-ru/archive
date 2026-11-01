@@ -23,4 +23,4 @@ tags: ""
 
 **Без комментариев.**
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/07/06/s-dostavkoi-na-dom
+**Читайте также:** [*** с доставкой на дом](2026/07/06/s-dostavkoi-na-dom.md)

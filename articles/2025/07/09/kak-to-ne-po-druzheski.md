@@ -85,4 +85,4 @@ tags: ""
 
 **Натаниэль Трубкин**
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/25/kesariu-bogovo
+**Читайте также:** [Кесарю — богово](2025/06/25/kesariu-bogovo.md)

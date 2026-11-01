@@ -63,7 +63,7 @@ tags: "волонтеры, добровольцы, мурманская обла
 
 Проезжаем второй очаг: к нему не подобраться, его не тушат. Кичигин говорит, когда горит тундра, вертолет не поможет. Правда, вертолет все-таки есть. Один. Да еще 10 парашютистов, направленных в Мурманск из Вологды. Накануне область официально запросила помощь у соседних регионов.
 
-**link:** https://novayagazeta.ru/articles/2018/07/10/77103-tratit-svoi-dengi-ne-hotela-no-razvlecheniy-trebovala
+**link:** [https://novayagazeta.ru/articles/2018/07/10/77103-tratit-svoi-dengi-ne-hotela-no-razvlecheniy-trebovala](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2018/07/10/77103-tratit-svoi-dengi-ne-hotela-no-razvlecheniy-trebovala)
 
 Губернатор Ковтун признала, что «потушить такие массивы своими силами не представляется возможным». К слову,
 

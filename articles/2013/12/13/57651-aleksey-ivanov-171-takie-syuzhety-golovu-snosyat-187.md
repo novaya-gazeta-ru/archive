@@ -32,7 +32,7 @@ tags: ""
 *[media: <tbody>
 		<tr>
 			<td class="g-justify-right">
-				<strong><img alt="" src="http://www.novayagazeta.ru/storage/c/2013/12/13/1386956495_570959_62.jpg" style="width: 565px; height: 377px;"></strong><br>
+				<strong><img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/12/13/1386956495_570959_62.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/12/13/1386956495_570959_62.jpg)" style="width: 565px; height: 377px;"></strong><br>
 				<sup>Алексей Иванов<em>. Фото: Елена Елисеева</em></sup></td>
 		</tr>
 	</tbody>]*

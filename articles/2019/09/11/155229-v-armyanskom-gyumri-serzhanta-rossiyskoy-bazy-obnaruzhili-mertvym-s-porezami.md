@@ -17,6 +17,6 @@ tags: "военные, гюмри, армения, va"
 
 102-я военная база Южного военного округа российских Вооруженных сил находится в Гюмри с 1995 года. В январе 2015 года там случилась громкая трагедия с участием российского солдата: срочник Валерий Пермяков убил членов семьи Аветисян, в том числе двухлетнюю девочку и шестимесячного младенца. После общественного резонанса ему дали пожизненный приговор.
 
-В декабре другого российского военнослужащего [обвинили](https://www.novayagazeta.ru/news/2018/12/14/147609-v-armenii-arestovali-rossiyskogo-voennogo-po-podozreniyu-v-ubiystve-zhenschiny) в убийстве 57-летней местной дворницы. Его арестовали и содержат под стражей на территории 102-й базы. В марте 22-летнего срочника с базы [госпитализировали](https://www.novayagazeta.ru/news/2019/03/08/149833-v-armenii-zaveli-delo-posle-gospitalizatsii-sluzhaschego-rossiyskoy-bazy-v-gyumri-s-nozhevym-raneniem) с ножевым ранением после драки в ночном клубе.
+В декабре другого российского военнослужащего [обвинили](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2018/12/14/147609-v-armenii-arestovali-rossiyskogo-voennogo-po-podozreniyu-v-ubiystve-zhenschiny) в убийстве 57-летней местной дворницы. Его арестовали и содержат под стражей на территории 102-й базы. В марте 22-летнего срочника с базы [госпитализировали](https://web.archive.org/web/*/https://www.novayagazeta.ru/news/2019/03/08/149833-v-armenii-zaveli-delo-posle-gospitalizatsii-sluzhaschego-rossiyskoy-bazy-v-gyumri-s-nozhevym-raneniem) с ножевым ранением после драки в ночном клубе.
 
-**link:** https://novayagazeta.ru/articles/2018/12/08/78872-deti-bedy
+**link:** [Дети беды](2018/12/08/78872-deti-bedy.md)

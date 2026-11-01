@@ -13,6 +13,6 @@ tags: ""
 
 *Что не вошло в публикацию*
 
-**link:** https://novayagazeta.ru/articles/2016/12/04/70762-kak-na-samom-dele-proshli-vybory-v-moskovskoy-oblasti
+**link:** [Мытищи-гейт](2016/12/04/70762-kak-na-samom-dele-proshli-vybory-v-moskovskoy-oblasti.md)
 
 Автор материала о выборах в Мытищах рассказывает, как началось ее расследование, и каким образом ей удалось собрать протоколы с участков по всему городу. Смотрите подробности, которые не вошли в публикацию.

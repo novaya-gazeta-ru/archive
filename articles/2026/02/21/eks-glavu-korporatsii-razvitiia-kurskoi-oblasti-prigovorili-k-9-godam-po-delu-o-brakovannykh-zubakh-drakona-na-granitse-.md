@@ -23,12 +23,12 @@ tags: ""
 
 Следствие настаивало, что чиновники корпорации договорились с «КТК Сервис» о строительстве опорных пунктов, но вместо реальных работ «создавали видимость» их. Ущерб оценили в 152,8 млн рублей.
 
-Нынешний губернатор Александр Хинштейн [ликвидировал](https://novayagazeta.ru/articles/2025/08/04/karmu-pochistit-nevozmozhno-khinshtein-obiavil-o-likvidatsii-korporatsii-razvitiia-kurskoi-oblasti-posle-khishchenii-na-stroitelstve-oboronnykh-sooruzhenii-news) Корпорацию развития Курской области летом 2025 года, прокомментировав это тем, что ее «карму почистить невозможно».
+Нынешний губернатор Александр Хинштейн [ликвидировал](2025/08/04/karmu-pochistit-nevozmozhno-khinshtein-obiavil-o-likvidatsii-korporatsii-razvitiia-kurskoi-oblasti-posle-khishchenii-na-.md) Корпорацию развития Курской области летом 2025 года, прокомментировав это тем, что ее «карму почистить невозможно».
 
 С делом КРКо связаны и обвинения в адрес бывшего губернатора Курской области Алексея Смирнова. На него заведено дело о получении взяток (ч. 6 ст. 290 УК РФ). По версии следователей, Смирнов получил около 30 млн рублей от бизнесменов, выполнявших контракты по строительству «зубов дракона» на границе с Украиной. Смирнов признал вину и сотрудничал со следствием.
 
 Несколько дней назад экс-губернатора Курской области Алексея Смирнова поставили в СИЗО на учет [как «склонного к суициду»](https://t.me/novaya_pishet/56234).
 
-Поэтому можно добавить, что предшественник Смирнова на посту губернатора — Роман Старовойт — летом 2025 года [застрелился](https://novayagazeta.ru/articles/2025/07/10/prostitsia-so-starovoitom-pokonchivshim-s-soboi-eks-ministrom-transporta-i-byvshim-gubernatorom-kurskoi-oblasti-priekhali-mnogie-chleny-pravitelstva-i-ministr-preemnik-news) на парковке недалеко от своего загородного дома в Подмосковье. За несколько часов до этого президент Путин отправил его в отставку с поста министра транспорта.
+Поэтому можно добавить, что предшественник Смирнова на посту губернатора — Роман Старовойт — летом 2025 года [застрелился](2025/07/10/prostitsia-so-starovoitom-pokonchivshim-s-soboi-eks-ministrom-transporta-i-byvshim-gubernatorom-kurskoi-oblasti-priekhal.md) на парковке недалеко от своего загородного дома в Подмосковье. За несколько часов до этого президент Путин отправил его в отставку с поста министра транспорта.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/10/ria-novosti-annulirovalo-soobshchenie-o-tom-chto-putin-prislal-na-proshchanie-s-eks-ministrom-starovoitom-venok-kak-vyshedshuiu-oshibochno-news
+**Читайте также:** [РИА Новости аннулировало как «вышедшее ошибочно» сообщение о том, что Путин прислал на прощание с экс-министром Старовойтом венок](2025/07/10/ria-novosti-annulirovalo-soobshchenie-o-tom-chto-putin-prislal-na-proshchanie-s-eks-ministrom-starovoitom-venok-kak-vysh.md)

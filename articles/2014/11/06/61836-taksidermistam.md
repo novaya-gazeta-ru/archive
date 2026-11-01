@@ -32,7 +32,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/11/06/1415295023_968482_32.jpg" style="width: 280px; height: 352px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/11/06/1415295023_968482_32.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/11/06/1415295023_968482_32.jpg)" style="width: 280px; height: 352px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>РИА Новости</sup></td>

@@ -31,8 +31,8 @@ ___
 
 > **слушайте другие эпизоды «Продолжения&nbsp;следует»**
 >
-> ### [Репортаж Анны Политковской о ее первой встрече с Рамзаном Кадыровым. Читает Юлия Ауг](https://novayagazeta.ru/articles/2020/10/07/87411-ya-zhdala-avtomatnuyu-ochered-v-spinu-spetsvypusk-podkasta-chto-novogo)
+> ### [Репортаж Анны Политковской о ее первой встрече с Рамзаном Кадыровым. Читает Юлия Ауг](2020/10/07/87411-ya-zhdala-avtomatnuyu-ochered-v-spinu-spetsvypusk-podkasta-chto-novogo.md)
 >
-> ### [Репортаж Политковской о ее походе на переговоры к террористам , захватившим «Норд-ост». Читает Чулпан Хаматова](https://novayagazeta.ru/articles/2020/10/23/87653-10-chasov-do-shturma-podkast)
+> ### [Репортаж Политковской о ее походе на переговоры к террористам , захватившим «Норд-ост». Читает Чулпан Хаматова](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/10/23/87653-10-chasov-do-shturma-podkast)
 >
-> ### [Расследование Елены Костюченко о массовой резне в станице Кущевская, часть первая. Читает Надежда Толоконникова](https://novayagazeta.ru/articles/2020/11/04/87829-nam-zdes-zhit-chast-1-massovaya-reznya-v-kuschevke-spetsvypusk-podkasta-novoy)
+> ### [Расследование Елены Костюченко о массовой резне в станице Кущевская, часть первая. Читает Надежда Толоконникова](2020/11/04/87829-nam-zdes-zhit-chast-1-massovaya-reznya-v-kuschevke-spetsvypusk-podkasta-novoy.md)

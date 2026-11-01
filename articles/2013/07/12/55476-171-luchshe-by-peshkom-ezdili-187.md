@@ -70,7 +70,7 @@ ___
 ___
 
 *[media: <h2>
-		<strong><span style="color: rgb(178, 34, 34);"><img alt="" class="g-image-align-right" src="http://www.novayagazeta.ru/storage/c/2013/07/11/1373547601_002811_41.jpg" style="width: 250px; height: 167px;">Игорь</span>, Украина</strong></h2>
+		<strong><span style="color: rgb(178, 34, 34);"><img alt="" class="g-image-align-right" src="[http://www.novayagazeta.ru/storage/c/2013/07/11/1373547601_002811_41.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/11/1373547601_002811_41.jpg)" style="width: 250px; height: 167px;">Игорь</span>, Украина</strong></h2>
 	<h3>
 		<strong>СТАЖ:</strong>&nbsp;<span style="color: rgb(0, 0, 0);">9 лет</span></h3>
 	<h3>
@@ -96,11 +96,11 @@ ___
 	<p>
 		Про кассу</p>
 	<p>
-		<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/11/1373547601_348529_3.jpg" style="width: 565px; height: 377px;"></p>
+		<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/11/1373547601_348529_3.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/11/1373547601_348529_3.jpg)" style="width: 565px; height: 377px;"></p>
 	<p>
-		<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/11/1373547601_729330_42.jpg" style="width: 565px; height: 377px;"></p>
+		<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/11/1373547601_729330_42.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/11/1373547601_729330_42.jpg)" style="width: 565px; height: 377px;"></p>
 	<p>
-		<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/11/1373547609_090189_64.jpg" style="width: 565px; height: 377px;"></p>
+		<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/11/1373547609_090189_64.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/11/1373547609_090189_64.jpg)" style="width: 565px; height: 377px;"></p>
 	<p>
 		&nbsp;</p>
 	<hr>
@@ -108,7 +108,7 @@ ___
 	<p>
 		&nbsp;</p>
 	<h2>
-		<strong><span style="color: rgb(178, 34, 34);"><img alt="" class="g-image-align-right" src="http://www.novayagazeta.ru/storage/c/2013/07/11/1373547801_078932_71.jpg" style="width: 250px; height: 167px;">Сергей</span>, Россия (Чебоксары)</strong></h2>
+		<strong><span style="color: rgb(178, 34, 34);"><img alt="" class="g-image-align-right" src="[http://www.novayagazeta.ru/storage/c/2013/07/11/1373547801_078932_71.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/11/1373547801_078932_71.jpg)" style="width: 250px; height: 167px;">Сергей</span>, Россия (Чебоксары)</strong></h2>
 	<h3>
 		<strong>СТАЖ:</strong>&nbsp;<span style="color: rgb(0, 0, 0);">3 года</span></h3>
 	<h3>
@@ -132,9 +132,9 @@ ___
 	<p>
 		Про кассу</p>
 	<p>
-		<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/11/1373547801_644913_86.jpg" style="width: 565px; height: 377px;"></p>
+		<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/11/1373547801_644913_86.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/11/1373547801_644913_86.jpg)" style="width: 565px; height: 377px;"></p>
 	<p>
-		<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/11/1373547801_361408_87.jpg" style="width: 565px; height: 377px;"></p>
+		<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/11/1373547801_361408_87.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/11/1373547801_361408_87.jpg)" style="width: 565px; height: 377px;"></p>
 	<p>
 		&nbsp;</p>
 	<hr>
@@ -168,7 +168,7 @@ ___
 	<p>
 		<strong>Про кассу</strong></p>
 	<p>
-		<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/11/1373546732_344257_89.jpg" style="width: 565px; height: 377px;"></p>
+		<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/11/1373546732_344257_89.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/11/1373546732_344257_89.jpg)" style="width: 565px; height: 377px;"></p>
 	<p>
 		Это баночка из-под мороженый. А эта коробочка из-под зажигалок — подставка. Бумажный деньги я в карман складываю. Я для себя все сделал, сам придумал. На этой машине всегда езжу.</p>
 	<p>
@@ -178,7 +178,7 @@ ___
 	<p>
 		&nbsp;</p>
 	<h2>
-		<strong><span style="color:#b22222;"><img alt="" class="g-image-align-right" src="http://www.novayagazeta.ru/storage/c/2013/07/11/1373547125_469996_47.jpg" style="width: 250px; height: 375px;">Евгений</span>, Белоруссия</strong></h2>
+		<strong><span style="color:#b22222;"><img alt="" class="g-image-align-right" src="[http://www.novayagazeta.ru/storage/c/2013/07/11/1373547125_469996_47.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/11/1373547125_469996_47.jpg)" style="width: 250px; height: 375px;">Евгений</span>, Белоруссия</strong></h2>
 	<h3>
 		<strong>СТАЖ</strong>: <span style="color:#000000;">3 года</span></h3>
 	<h3>
@@ -194,13 +194,13 @@ ___
 	<p>
 		<strong>Про кассу</strong></p>
 	<p>
-		<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/11/1373547125_777518_1.jpg" style="width: 565px; height: 377px;"></p>
+		<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/11/1373547125_777518_1.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/11/1373547125_777518_1.jpg)" style="width: 565px; height: 377px;"></p>
 	<hr>
 	<hr>
 	<p>
 		&nbsp;</p>
 	<h2>
-		<span style="color:#b22222;"><strong><img alt="" class="g-image-align-right" src="http://www.novayagazeta.ru/storage/c/2013/07/11/1373547194_304650_40.jpg" style="width: 250px; height: 375px;">Александр</strong></span><strong>, Россия (Тула)</strong></h2>
+		<span style="color:#b22222;"><strong><img alt="" class="g-image-align-right" src="[http://www.novayagazeta.ru/storage/c/2013/07/11/1373547194_304650_40.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/11/1373547194_304650_40.jpg)" style="width: 250px; height: 375px;">Александр</strong></span><strong>, Россия (Тула)</strong></h2>
 	<h3>
 		<strong>СТАЖ:</strong> <span style="color:#000000;">2 недели</span></h3>
 	<h3>
@@ -232,9 +232,9 @@ ___
 	<p>
 		<strong>Про кассу</strong></p>
 	<p>
-		<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/11/1373547194_880078_15.jpg" style="width: 565px; height: 377px;"></p>
+		<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/11/1373547194_880078_15.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/11/1373547194_880078_15.jpg)" style="width: 565px; height: 377px;"></p>
 	<p>
-		<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/11/1373547194_602763_84.jpg" style="width: 565px; height: 377px;"></p>
+		<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/11/1373547194_602763_84.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/11/1373547194_602763_84.jpg)" style="width: 565px; height: 377px;"></p>
 	<p>
 		&nbsp;</p>
 	<hr>
@@ -284,7 +284,7 @@ ___
 	<p>
 		&nbsp;</p>
 	<h2>
-		<strong><span style="color:#b22222;"><img alt="" class="g-image-align-right" src="http://www.novayagazeta.ru/storage/c/2013/07/11/1373547325_791958_53.jpg" style="width: 250px; height: 375px;">Сергей</span>, Белоруссия</strong></h2>
+		<strong><span style="color:#b22222;"><img alt="" class="g-image-align-right" src="[http://www.novayagazeta.ru/storage/c/2013/07/11/1373547325_791958_53.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/11/1373547325_791958_53.jpg)" style="width: 250px; height: 375px;">Сергей</span>, Белоруссия</strong></h2>
 	<h3>
 		<strong>СТАЖ: </strong><span style="color:#000000;">5 лет</span></h3>
 	<h3>
@@ -302,7 +302,7 @@ ___
 	<p>
 		Кассу вон под себя обустроил.</p>
 	<p>
-		<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/11/1373547326_068261_68.jpg" style="width: 565px; height: 377px;"></p>
+		<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/11/1373547326_068261_68.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/11/1373547326_068261_68.jpg)" style="width: 565px; height: 377px;"></p>
 	<p>
 		&nbsp;</p>
 	<hr>
@@ -322,9 +322,9 @@ ___
 	<p>
 		<strong>Про кассу</strong></p>
 	<p>
-		<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/11/1373547510_430033_37.jpg" style="width: 565px; height: 377px;"></p>
+		<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/11/1373547510_430033_37.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/11/1373547510_430033_37.jpg)" style="width: 565px; height: 377px;"></p>
 	<p>
-		<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/07/11/1373547511_002342_27.jpg" style="width: 565px; height: 377px;"></p>
+		<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/07/11/1373547511_002342_27.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/07/11/1373547511_002342_27.jpg)" style="width: 565px; height: 377px;"></p>
 	<p>
 		&nbsp;</p>
 	<p>

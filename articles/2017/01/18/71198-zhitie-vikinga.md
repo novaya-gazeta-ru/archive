@@ -101,4 +101,4 @@ tags: "история"
 
 **Сергей Баймухаметов —** ​специально для «Новой»
 
-**link:** https://novayagazeta.ru/articles/2017/01/18/71199-knyaz-vladimir-vzyal-nas-v-kleschi
+**link:** [Князь Владимир взял нас в клещи](2017/01/18/71199-knyaz-vladimir-vzyal-nas-v-kleschi.md)

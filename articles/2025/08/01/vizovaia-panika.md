@@ -59,7 +59,7 @@ tags: "виза, германия, гуманитарная виза, эмигр
 
 Потом в соцсетях появилась инициатива организовать кампанию за сохранение практики гуманитарных виз для российских и белорусских политических активистов. Инициаторы подчеркивают, что такие визы предоставлялись точечно, строго ограниченному числу лиц — преимущественно тем, кто давно занимался оппозиционной деятельностью и действительно находился под угрозой ареста. Участники кампании надеются убедить немецкие власти сохранить этот механизм в виде исключения, даже в условиях общей корректировки миграционной политики.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/07/31/byvshemu-rossiiskomu-politzeku-alekseiu-moskalevu-germaniia-polgoda-ne-daet-gumanitarnuiu-vizu-vsego-zastriali-zaiavleniia-okolo-300-rossiian-news
+**Читайте также:** [https://novayagazeta.ru/articles/2025/07/31/byvshemu-rossiiskomu-politzeku-alekseiu-moskalevu-germaniia-polgoda-ne-daet-gumanitarnuiu-vizu-vsego-zastriali-zaiavleniia-okolo-300-rossiian-news](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2025/07/31/byvshemu-rossiiskomu-politzeku-alekseiu-moskalevu-germaniia-polgoda-ne-daet-gumanitarnuiu-vizu-vsego-zastriali-zaiavleniia-okolo-300-rossiian-news)
 
 Депутат Европарламента от германской партии «Зелёные» Сергей Лагодинский, который особенно активно поддерживает российских оппозиционеров, раскритиковал решение главы немецкого МВД Добриндта: «Было бы ошибкой в нынешнее время бросить российских оппозиционеров на произвол судьбы, — заявил Лагодинский в одном из интервью по горячим следам. — Германия до сих пор вела себя образцово, и теперь ей не следует перекрывать пути убежища».
 

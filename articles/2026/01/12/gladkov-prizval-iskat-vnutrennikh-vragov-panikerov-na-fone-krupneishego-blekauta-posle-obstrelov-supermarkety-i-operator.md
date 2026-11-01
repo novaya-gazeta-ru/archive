@@ -23,4 +23,4 @@ tags: ""
 
 > **справка**
 >
-> 9 января после ракетного удара по инженерной инфраструктуры в Белгородской области без электроэнергии [остались 556 тысяч человек](https://novayagazeta.ru/articles/2026/01/09/bolee-polumilliona-belgorodtsev-ostalis-bez-sveta-i-tepla-a-200-tysiach-i-bez-vody-posle-nochnogo-raketnogo-obstrela-9-ianvaria-zhiteli-priekhali-za-toplivom-na-benzokolonki-v-muzei-puskaiut-zariadit-gadzhety-news), почти столько же — без отопления. Также почти 200 тысяч жителей остались без воды. Белгородская область часто подвергается обстрелам на фоне военных действий в Украине.
+> 9 января после ракетного удара по инженерной инфраструктуры в Белгородской области без электроэнергии [остались 556 тысяч человек](2026/01/09/bolee-polumilliona-belgorodtsev-ostalis-bez-sveta-i-tepla-a-200-tysiach-i-bez-vody-posle-nochnogo-raketnogo-obstrela-9-i.md), почти столько же — без отопления. Также почти 200 тысяч жителей остались без воды. Белгородская область часто подвергается обстрелам на фоне военных действий в Украине.

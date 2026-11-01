@@ -17,8 +17,8 @@ tags: "адвокаты, em , госизмена, ученые"
 
 Ранее источник ТАСС в правоохранительных органах сообщал, что дело против Голубкина связано с проектом Hexafly-Int (High-SpeedEXperimental FLY Vehicles), посвященном исследованиям концепции пассажирского самолета на водородном топливе, который может летать на больших скоростях. Он начался в 2014 году, а закончился — в 2019 году. О том, что дело Губанова связано с Hexafly-Int, [говорил](https://www.interfax.ru/russia/741748) и собеседник «Интерфакса».
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/20/proizvol-legko-tvorit-v-temnote-i-tishine
+**Читайте также:** [https://novayagazeta.ru/articles/2021/07/20/proizvol-legko-tvorit-v-temnote-i-tishine](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/07/20/proizvol-legko-tvorit-v-temnote-i-tishine)
 
-Голубкина суд [отправил](https://novayagazeta.ru/articles/2021/04/13/sud-v-moskve-arestoval-valeriia-golubkina-po-delu-o-gosizmene-chelovek-s-takim-imenem-professor-mfti) под арест в апреле. В МФТИ тогда заявили, что доступа к сведениям, составляющим гостайну, у ученого не было.
+Голубкина суд [отправил](2021/04/13/sud-v-moskve-arestoval-valeriia-golubkina-po-delu-o-gosizmene-chelovek-s-takim-imenem-professor-mfti.md) под арест в апреле. В МФТИ тогда заявили, что доступа к сведениям, составляющим гостайну, у ученого не было.
 
 * **Обновлено 26.08 В сообщении ТАСС утверждается, что речь идет о проекте МФТИ, однако пресс-секретарь Павлова уточнила, что это проект ЦАГИ.*

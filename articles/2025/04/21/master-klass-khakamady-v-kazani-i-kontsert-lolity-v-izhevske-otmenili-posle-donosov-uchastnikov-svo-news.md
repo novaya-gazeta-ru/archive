@@ -27,6 +27,6 @@ tags: ""
 
 Ролик появился в паблике «Русская община Ижевск». Сама Лолита отметила, что за неделю до концерта в Ижевске оставалось в продаже всего 126 билетов и извинилась перед зрителями за его отмену, саркастически указав, что два человека вряд ли могут представлять мнение города.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/04/03/my-russkie-s-nami-bastrykin
+**Читайте также:** [Мы русские, с нами Бастрыкин](2025/04/03/my-russkie-s-nami-bastrykin.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/03/03/aktrisu-kseniiu-rappoport-sniali-so-spektaklei-v-dvukh-moskovskikh-teatrakh-a-v-permi-snova-otmenili-kontsert-lolity-news
+**Читайте также:** [Актрису Ксению Раппопорт сняли со спектаклей в двух московских театрах, а в Перми снова отменили концерт Лолиты](2025/03/03/aktrisu-kseniiu-rappoport-sniali-so-spektaklei-v-dvukh-moskovskikh-teatrakh-a-v-permi-snova-otmenili-kontsert-lolity-new.md)

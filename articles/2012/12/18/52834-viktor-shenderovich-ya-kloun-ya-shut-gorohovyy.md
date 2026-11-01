@@ -15,7 +15,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/12/18/1355818705_008018_82.jpg" style="width: 360px; height: 540px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/12/18/1355818705_008018_82.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/12/18/1355818705_008018_82.jpg)" style="width: 360px; height: 540px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Фото: Анна АРТЕМЬЕВА — «Новая»</sup></td>
@@ -138,7 +138,7 @@ _Родина для еврея _— _место, где его впервые 
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2012/12/18/1355818705_297057_75.jpg" style="width: 360px; height: 540px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2012/12/18/1355818705_297057_75.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2012/12/18/1355818705_297057_75.jpg)" style="width: 360px; height: 540px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Фото: Анна АРТЕМЬЕВА — «Новая»</sup></td>

@@ -31,10 +31,10 @@ tags: "донецк, луганск, днр, лнр, донбасс, украи�
 
 «Санкции все равно будут вводить по мере укрепления суверенитета России. Только потому, что мы есть», — отметил в ходе своего обращения Путин.\
  \
- Тем временем курс доллара [превысил](https://novayagazeta.ru/articles/2022/02/21/vo-vremia-obrashcheniia-putina-po-voprosu-priznaniia-dnr-i-lnr-kurs-dollara-prevysil-80-rublei-evro-90-news) 80 рублей, евро — 90. Индекс Мосбиржи во время обращения президента России снизился на 18%, это самый сильный удар с 2008 года.
+ Тем временем курс доллара [превысил](2022/02/21/vo-vremia-obrashcheniia-putina-po-voprosu-priznaniia-dnr-i-lnr-kurs-dollara-prevysil-80-rublei-evro-90-news.md) 80 рублей, евро — 90. Индекс Мосбиржи во время обращения президента России снизился на 18%, это самый сильный удар с 2008 года.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/21/ataka-na-slavian-na-pravoslavnykh-na-vse-russkoe
+**Читайте также:** [«Атака на славян, на православных, на все русское»](2022/02/21/ataka-na-slavian-na-pravoslavnykh-na-vse-russkoe.md)
 
-Днем 21 февраля главы «ДНР» и «ЛНР» Пушилин и Пасечник [попросили](https://novayagazeta.ru/articles/2022/02/21/glavy-dnr-i-lnr-poprosili-putina-priznat-nezavisimost-samoprovozglashennykh-respublik-news) президента признать суверенитет этих территорий. Сразу после этого российское федеральное телевидение [начало трансляцию](https://novayagazeta.ru/articles/2022/02/21/glavy-dnr-i-lnr-poprosili-putina-priznat-nezavisimost-samoprovozglashennykh-respublik-news) записи открытого экстренного заседания Совбеза РФ по вопросу признания «ЛДНР». Путин выслушал мнения глав ведомств силового блока, а также обеих палат парламента и МИД РФ, и пообещал принять решение до конца дня.
+Днем 21 февраля главы «ДНР» и «ЛНР» Пушилин и Пасечник [попросили](2022/02/21/glavy-dnr-i-lnr-poprosili-putina-priznat-nezavisimost-samoprovozglashennykh-respublik-news.md) президента признать суверенитет этих территорий. Сразу после этого российское федеральное телевидение [начало трансляцию](2022/02/21/glavy-dnr-i-lnr-poprosili-putina-priznat-nezavisimost-samoprovozglashennykh-respublik-news.md) записи открытого экстренного заседания Совбеза РФ по вопросу признания «ЛДНР». Путин выслушал мнения глав ведомств силового блока, а также обеих палат парламента и МИД РФ, и пообещал принять решение до конца дня.
 
 Вечером 18 февраля власти «ДНР» и «ЛНР», опасаясь наступательной операции Украины, начали эвакуацию жителей в Россию. Киев отверг любые домыслы о возможном наступлении.

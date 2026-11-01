@@ -29,6 +29,6 @@ tags: ""
 
 Фотография была размещена еще в декабре 2024 года, но на нее обратили внимание только 13 июля. Теперь и фото, и текстовое сообщение о вручении Хижину благодарности с сайта «Военмеха» [уже удалены](https://voenmeh.ru/2024/12/28/ocherednaya-vstrecha-i-o-rektora-aleksandra-evgenevicha-shashurina-so-studencheskim-aktivom-dialog-napravlennyj-na-razvitie/), выяснило издание «Бумага».
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/01/04/zhertva-napadeniia-vagnerovtsa-vernuvshegosia-so-svo-reshila-obzhalovat-priostanovku-ego-ugolovnogo-dela-iz-za-togo-chto-on-snova-ukhodit-na-front-news
+**Читайте также:** [«Вагнеровец» вернулся со СВО, напал с ножом на женщину — и теперь снова уходит на СВО. Она решила помешать ему избежать суда](2025/01/04/zhertva-napadeniia-vagnerovtsa-vernuvshegosia-so-svo-reshila-obzhalovat-priostanovku-ego-ugolovnogo-dela-iz-za-togo-chto.md)
 
 #### * Минюст включил в реестр иноагентов.

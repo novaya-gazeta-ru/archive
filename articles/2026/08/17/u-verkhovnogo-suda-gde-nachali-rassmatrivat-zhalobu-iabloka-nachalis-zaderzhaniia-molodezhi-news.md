@@ -27,4 +27,4 @@ tags: ""
 
 В суд зрителей тоже сегодня не пустили. Не будет и трансляции заседания.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/08/17/verkhovnyi-sud-nachal-rassmatrivat-zhalobu-iabloka-na-reshenie-o-sniatii-s-federalnykh-vyborov-nakanune-glava-partii-prizval-tsik-priznat-absurdnost-sniatiia-iabloka-ili-uzh-sniat-vse-drugie-partii-news
+**Читайте также:** [Верховный суд начал рассматривать жалобу «Яблока» на решение о снятии с федеральных выборов. Накануне глава партии призвал ЦИК признать абсурдность снятия «Яблока» — или уж снять все другие партии](2026/08/17/verkhovnyi-sud-nachal-rassmatrivat-zhalobu-iabloka-na-reshenie-o-sniatii-s-federalnykh-vyborov-nakanune-glava-partii-pri.md)

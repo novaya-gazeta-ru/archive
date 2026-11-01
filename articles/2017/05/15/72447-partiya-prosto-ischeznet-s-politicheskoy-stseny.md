@@ -33,7 +33,7 @@ ___
 
 В результате произошла утрата доверия к партии со стороны наших граждан, наших избирателей. И, совершенно неслучайно, мы потерпели фиаско на региональных выборах в 2013 и 2014 гг. Ну, а полный провал, случился в сентябре 2016 г.
 
-**link:** https://novayagazeta.ru/articles/2017/01/24/71277-kogda-takie-figury-begut-u-partii-problemy
+**link:** [https://novayagazeta.ru/articles/2017/01/24/71277-kogda-takie-figury-begut-u-partii-problemy](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/01/24/71277-kogda-takie-figury-begut-u-partii-problemy)
 
 Я прекрасно понимаю, что мои слова многим не понравятся и, прежде всего тем, кто не терпит инакомыслия, основанного на профессионализме и таланте, сдерживает активность, препятствует проявлению инициативности.
 

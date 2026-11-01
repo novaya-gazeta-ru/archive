@@ -17,4 +17,4 @@ tags: "подкаст, госдума, депутаты, кандидаты, п�
 >
 > [Soundcloud](https://soundcloud.com/novaya_gazeta/parad-parovozov-otkuda-v-gosdume-sluchaynye-lyudi) || [Castbox](https://castbox.fm/episode/id2805556-id408937462?) || [Vk](https://vk.com/podcast-6726778_456239682) || [Apple Podcasts](https://podcasts.apple.com/ru/podcast/%D1%87%D1%82%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE/id1510447025?i=1000529830724) || [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuY2FzdGJveC5mbS9ldmVyZXN0Lzc0MGZjMTc1ZDQxZjQ3ZTlhMWJmY2ViYjc0MGU0ZjAxLnhtbA/episode/YWxidW0tNzQwZmMxNzVkNDFmNDdlOWExYmZjZWJiNzQwZTRmMDEtYmJhMjNkMzFkYzgwNDc2ZmFjNTAyMmU1YzRkOWVkM2M?sa=X&ved=0CAUQkfYCahcKEwio5YygpYbyAhUAAAAAHQAAAAAQCQ) || [Яндекс.Музыка](https://music.yandex.ru/album/10572799)
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/27/partiia-s-pritsepom
+**Читайте также:** [Партия с прицепом](2021/07/27/partiia-s-pritsepom.md)

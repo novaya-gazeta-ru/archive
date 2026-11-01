@@ -65,4 +65,4 @@ tags: ""
 
 #### *Минюст считает «иноагентом».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/11/20/chto-oni-tvoriat
+**Читайте также:** [Что они творят?](2023/11/20/chto-oni-tvoriat.md)

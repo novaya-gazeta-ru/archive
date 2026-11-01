@@ -23,4 +23,4 @@ tags: ""
 
 Во время общественных слушаний весной 2024 года жители [проголосовали](https://www.fontanka.ru/2024/12/11/74865362/) за строительство на участке сквера с фонтаном или восстановления старого бассейна, но территорию арендовал приход Софийского собора под благоустройство.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/13/khramostroi
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/13/khramostroi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/13/khramostroi)

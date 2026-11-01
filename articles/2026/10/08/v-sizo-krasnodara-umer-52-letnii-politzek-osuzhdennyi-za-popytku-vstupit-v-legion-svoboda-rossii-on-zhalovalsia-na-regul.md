@@ -23,6 +23,6 @@ tags: ""
 
 Правозащитники признали Яковенко политзаключенным.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/10/08/saksofonista-i-politzakliuchennogo-shabanova-otbyvaiushchego-6-letnii-srok-v-samarskoi-ik-10-dvazhdy-izbili-posle-zhalob-na-usloviia-soderzhaniia-news
+**Читайте также:** [Саксофониста и политзаключенного Шабанова, отбывающего 6-летний срок в самарской ИК-10, дважды избили после жалоб на условия содержания](2026/10/08/saksofonista-i-politzakliuchennogo-shabanova-otbyvaiushchego-6-letnii-srok-v-samarskoi-ik-10-dvazhdy-izbili-posle-zhalob.md)
 
 #### * Организация признана террористической, ее деятельность запрещена на территории РФ.

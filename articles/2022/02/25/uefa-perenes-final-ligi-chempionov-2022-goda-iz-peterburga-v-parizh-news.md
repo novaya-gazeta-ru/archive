@@ -23,7 +23,7 @@ tags: "ng, уефа, футбол"
 
 Накануне УЕФА [осудило](https://www.uefa.com/insideuefa/mediaservices/mediareleases/news/0272-14859cdcb35b-0839ba115681-1000--uefa-statement/) «спецоперацию» российских войск в Украине.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/25/putin-nachal-voinu-s-ukrainoi-den-vtoroi-onlain
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/25/putin-nachal-voinu-s-ukrainoi-den-vtoroi-onlain](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/25/putin-nachal-voinu-s-ukrainoi-den-vtoroi-onlain)
 
 25 февраля ассоциация лыжного спорта Норвегии заявила, что [не будет](https://www.skiforbundet.no/norges-skiforbund/nyheter/2022/2/ingen-norske-deltakere-i-russland/) участвовать в предстоящих этапах Кубка мира или других соревнованиях на территории России. Ранее от участия в соревнованиях на территории РФ до конца сезона 2021/22 [отказалась](https://hiihtoliitto.fi/suomi-ei-laheta-joukkueita-pohjoismaisten-lajien-maailmancupeihin-venajalle-salpausselan-kisoissa-turvallisuus-huippuluokkaa/) Финская ассоциация лыжного спорта. Норвегия также потребовала от Международной федерации лыжного спорта отменить все соревнования в России.
 

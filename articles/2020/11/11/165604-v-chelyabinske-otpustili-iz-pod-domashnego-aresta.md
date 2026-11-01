@@ -19,6 +19,6 @@ tags: "em, фсб, активисты, домашний арест, суды"
 
 Поводом для обвинений в вандализме стали рисунки и надписи на трансформаторной будке, бытовке и сарае «Наша бедность — их прибыль. Пенсионная реформа». Следователи пришли к выводу, что Сафонова и Цибуковский «нарушили порядок и чистоту зданий, пользующихся общественным вниманием, по мотивам политической ненависти и вражды».
 
-По делу о хулиганстве из-за растяжки на здании ФСБ также проходил активист Дмитрий Семенов. Его уголовное преследование [прекратили](https://novayagazeta.ru/news/2018/06/22/142723-v-chelyabinske-prekratili-ugolovnoe-delo-iz-za-bannera-fsb-glavnyy-terrorist) в июне 2018 года.
+По делу о хулиганстве из-за растяжки на здании ФСБ также проходил активист Дмитрий Семенов. Его уголовное преследование [прекратили](https://web.archive.org/web/*/https://novayagazeta.ru/news/2018/06/22/142723-v-chelyabinske-prekratili-ugolovnoe-delo-iz-za-bannera-fsb-glavnyy-terrorist) в июне 2018 года.
 
-**link:** https://novayagazeta.ru/articles/2020/10/20/87599-mest-dlinoy-v-tri-goda
+**link:** [https://novayagazeta.ru/articles/2020/10/20/87599-mest-dlinoy-v-tri-goda](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/10/20/87599-mest-dlinoy-v-tri-goda)

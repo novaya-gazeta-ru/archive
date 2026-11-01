@@ -23,6 +23,6 @@ tags: ""
 
 В феврале 2026 года в районе Ормузского пролива катера КСИР [пытались](https://t.me/milinfolive/165610) задерживать американские танкеры, но им это не удалось — в регионе присутствуют и корабли ВМФ США.
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/28/iran-povtornyi-test
+**Читайте также:** [Иран. Повторный тест](2026/02/28/iran-povtornyi-test.md)
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/02/28/mid-rossii-nazval-avantiuroi-i-agressiei-udary-po-iranu-i-potreboval-nemedlenno-vernut-situatsiiu-na-blizhnem-vostoke-v-peregovornoe-ruslo-news
+**Читайте также:** [МИД России назвал «авантюрой» и «агрессией» удары по Ирану и потребовал «немедленно» вернуть ситуацию на Ближнем Востоке в переговорное русло](2026/02/28/mid-rossii-nazval-avantiuroi-i-agressiei-udary-po-iranu-i-potreboval-nemedlenno-vernut-situatsiiu-na-blizhnem-vostoke-v-.md)

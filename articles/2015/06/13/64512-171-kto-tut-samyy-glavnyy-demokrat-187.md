@@ -60,7 +60,7 @@ tags: "выборы, демократическая коалиция, навал
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2015/06/13/1434225717_248243_96.jpg" style="width: 340px; height: 227px;"><sup>Татьяна Котляр. Фото: Евгений Фельдман / «Новая газета»</sup></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2015/06/13/1434225717_248243_96.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2015/06/13/1434225717_248243_96.jpg)" style="width: 340px; height: 227px;"><sup>Татьяна Котляр. Фото: Евгений Фельдман / «Новая газета»</sup></td>
 		</tr>
 	</tbody>]*
 

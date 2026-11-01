@@ -53,4 +53,4 @@ tags: "женовач, спектакль"
 
 Цикл не завершен. В декабре 2020 года на сцену МХТ им. Чехова выйдет следующая глава гипертекста Женовача: «Заговор чувств» Юрия Олеши (пьеса по мотивам романа «Зависть»).
 
-**link:** https://novayagazeta.ru/articles/2020/01/17/83484-zhenovach-igraet-belymi
+**link:** [https://novayagazeta.ru/articles/2020/01/17/83484-zhenovach-igraet-belymi](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/01/17/83484-zhenovach-igraet-belymi)

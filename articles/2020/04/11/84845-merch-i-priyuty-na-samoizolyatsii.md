@@ -19,4 +19,4 @@ tags: "самоизоляция, приют, животные, благотво�
 
 Заходите на сайт магазина и подписывайтесь на пожертвования частным приютам!
 
-**link:** https://novayagazeta.ru/articles/2020/04/06/84737-boris-kupriyanov-staraytes-ne-menyat-svoi-intellektualnye-privychki
+**link:** [Борис Куприянов: «Старайтесь не менять свои интеллектуальные привычки»](2020/04/06/84737-boris-kupriyanov-staraytes-ne-menyat-svoi-intellektualnye-privychki.md)

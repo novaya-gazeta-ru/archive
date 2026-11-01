@@ -15,7 +15,7 @@ tags: "актеры, репрессии, юрий дмитриев, дело д�
 
 > **МАРАФОН В ПОДДЕРЖКУ ДМИТРИЕВА ПРОДОЛЖАЕТСЯ**
 >
-> ### [Слушайте Олега Басилашвили, Анатолия Белого и Аллу Азарину](https://novayagazeta.ru/articles/2020/07/02/86121-vnutrennyaya-svoboda-samoe-glavnoe-u-cheloveka)
+> ### [Слушайте Олега Басилашвили, Анатолия Белого и Аллу Азарину](2020/07/02/86121-vnutrennyaya-svoboda-samoe-glavnoe-u-cheloveka.md)
 
 ![](_assets/a6/a6c36267c9fe99cafd005c5ba23d1f32.webp)
 

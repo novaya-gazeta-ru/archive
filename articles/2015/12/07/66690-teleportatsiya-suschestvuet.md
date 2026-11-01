@@ -15,7 +15,7 @@ tags: "наука, технологии"
 
 *Продолжаем рассказ о загадочных кубитах, контроле над микромиром и будущем квантовом суперкомпьютере*
 
-*[media: <h3><span style="color:#B22222;">В </span><a href="http://www.novayagazeta.ru/comments/70309.html" target="_blank"><span style="color:#B22222;">предыдущей серии</span></a><span style="color:#B22222;">:</span></h3>
+*[media: <h3><span style="color:#B22222;">В </span><a href="[http://www.novayagazeta.ru/comments/70309.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/comments/70309.html)" target="_blank"><span style="color:#B22222;">предыдущей серии</span></a><span style="color:#B22222;">:</span></h3>
 
 <ul>
 	<li>битва физических платформ для квантовых процессоров;</li>

@@ -19,8 +19,8 @@ tags: "первый балтийский, первый канал, латвия,
 
 Вещание должно быть прекращено 26 октября, у канала есть право оспорить это решение в суде.
 
-**Читайте также:** https://novayagazeta.ru/articles/2020/07/09/86218-simonyan-planiruem-prodolzhat-hohotat-latviya-i-litva-zapretili-veschanie-rt-na-svoey-territorii-to-zhe-samoe-mozhet-sdelat-estoniya
+**Читайте также:** [Симоньян: «Планируем продолжать хохотать»](2020/07/09/86218-simonyan-planiruem-prodolzhat-hohotat-latviya-i-litva-zapretili-veschanie-rt-na-svoey-territorii-to-zhe-samoe-mozh.md)
 
-В сентябре 2021 года ПБК [стал](https://www.bbc.com/russian/news-58989982?ocid=wsrussian.social.in-app-messaging.telegram..russiantelegram_.edit) самым популярным русскоязычным каналом в стране. В 2019 году Латвия [запретила](https://novayagazeta.ru/articles/2019/11/20/157070-v-latvii-zapretili-translirovat-devyat-rossiyskih-telekanalov-iz-za-sanktsiy-protiv-yuriya-kovalchuka) транслировать девять русскоязычных телеканалов из-за санкций против Юрия Ковальчука, который является их бенефициаром. Под запрет, в том числе, попали каналы «Дом Кино», «Дом Кино Премиум», «Музыка Первого», «Телекафе» и «Петербург-Пятый канал».
+В сентябре 2021 года ПБК [стал](https://www.bbc.com/russian/news-58989982?ocid=wsrussian.social.in-app-messaging.telegram..russiantelegram_.edit) самым популярным русскоязычным каналом в стране. В 2019 году Латвия [запретила](2019/11/20/157070-v-latvii-zapretili-translirovat-devyat-rossiyskih-telekanalov-iz-za-sanktsiy-protiv-yuriya-kovalchuka.md) транслировать девять русскоязычных телеканалов из-за санкций против Юрия Ковальчука, который является их бенефициаром. Под запрет, в том числе, попали каналы «Дом Кино», «Дом Кино Премиум», «Музыка Первого», «Телекафе» и «Петербург-Пятый канал».
 
-В июле прошлого года в Латвии [запретили](https://novayagazeta.ru/articles/2020/06/30/162690-latviya-zapretila-veschanie-telekanalov-rt-iz-za-dmitriya-kiseleva) вещание семи каналов RT. Формальной причиной совет назвал тот факт, что телеканалами владеет находящийся под санкциями Европейского союза Дмитрий Киселев.
+В июле прошлого года в Латвии [запретили](2020/06/30/162690-latviya-zapretila-veschanie-telekanalov-rt-iz-za-dmitriya-kiseleva.md) вещание семи каналов RT. Формальной причиной совет назвал тот факт, что телеканалами владеет находящийся под санкциями Европейского союза Дмитрий Киселев.

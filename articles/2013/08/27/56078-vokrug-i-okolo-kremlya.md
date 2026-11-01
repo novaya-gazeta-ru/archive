@@ -11,12 +11,12 @@ tags: "сми, смотрите кто"
 
 # Вокруг и около Кремля
 
-[](http://www.novayagazeta.ru/storage/c/2013/08/27/1377640807_857337_55.png)\
+[](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/08/27/1377640807_857337_55.png)\
 
 *[media: <tbody>
 		<tr>
 			<td>
-				<img alt="" src="http://www.novayagazeta.ru/storage/c/2013/08/27/1377605530_945454_5.jpg" style="width: 340px; height: 512px; float: right;"></td>
+				<img alt="" src="[http://www.novayagazeta.ru/storage/c/2013/08/27/1377605530_945454_5.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2013/08/27/1377605530_945454_5.jpg)" style="width: 340px; height: 512px; float: right;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right">

@@ -21,4 +21,4 @@ tags: "sn, омск, отравление, навальный"
 
 Документы на транспортировку были готовы с самого утра, [сообщает](https://twitter.com/navalnylive/status/1296835702391545856/photo/1) пресс-секретарь Навального Кира Ярмыш. Напомним, сначала омские врачи отказывались давать разрешение на транспортировку политика в Германию из-за его нестабильного состояния. Накануне Навальный впал в кому и сейчас находится на искусственной вентиляции легких.
 
-**link:** https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online
+**link:** [https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online)

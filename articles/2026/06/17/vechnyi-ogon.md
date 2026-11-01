@@ -26,4 +26,4 @@ tags: ""
 
 Смотрите новый фильм НО.Медиа из России
 
-**Читайте также:** https://novayagazeta.ru/articles/2026/06/15/eto-byl-ovoshch-kotoryi-na-vse-soglasen
+**Читайте также:** [«Это был овощ, который на все согласен»](2026/06/15/eto-byl-ovoshch-kotoryi-na-vse-soglasen.md)

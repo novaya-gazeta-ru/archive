@@ -23,4 +23,4 @@ tags: ""
 
 К месту крушения отправлены зампреды областного правительства. Причину крушения и версии пока не называют.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/09/01/ne-doletel-sovsem-nemnogo
+**Читайте также:** [https://novayagazeta.ru/articles/2024/09/01/ne-doletel-sovsem-nemnogo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/09/01/ne-doletel-sovsem-nemnogo)

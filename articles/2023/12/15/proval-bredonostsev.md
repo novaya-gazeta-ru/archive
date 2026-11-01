@@ -53,4 +53,4 @@ tags: ""
 
 #### * Внесен Минюстом РФ в реестр «иноагентов».
 
-**Читайте также:** https://novayagazeta.ru/articles/2023/10/26/lektsii-dlia-buratino
+**Читайте также:** [Лекции для Буратино](2023/10/26/lektsii-dlia-buratino.md)

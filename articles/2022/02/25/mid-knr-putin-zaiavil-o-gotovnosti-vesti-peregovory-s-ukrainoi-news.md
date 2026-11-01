@@ -25,7 +25,7 @@ tags: "ng, зеленский, путин"
 
 Также он обратился к россиянам: «Требуйте окончания войны. Это наше право. Это ваше право».
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/02/25/putin-nachal-voinu-s-ukrainoi-den-vtoroi-onlain
+**Читайте также:** [https://novayagazeta.ru/articles/2022/02/25/putin-nachal-voinu-s-ukrainoi-den-vtoroi-onlain](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/02/25/putin-nachal-voinu-s-ukrainoi-den-vtoroi-onlain)
 
 Президент России Владимир Путин утром 24 февраля начал военную «спецоперацию» против Украины с целью «денацификации и демилитаризации» страны. Российская армия сразу же вошла в Украину с нескольких направлений — из Крыма, со стороны Белгородской области и других приграничных регионов России, а также из Беларуси.
 

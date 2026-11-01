@@ -14,6 +14,6 @@ tags: ""
 *[media: <p>
 		Спецкор «Новой» Павел Каныгин передает из Донецка о «зеленых человечках», действиях городских властей и настроении местных жителей.</p>
 	<p>
-		Подробности читайте в текстах <a href="http://www.novayagazeta.ru/politics/63203.html" target="_blank">«Российской армии почти не видно»</a> («Новая» №41 от 16 апреля 2014) и <a href="http://www.novayagazeta.ru/politics/63245.html" target="_blank">«Бес, Фикс, Роман и голубоглазый»</a> («Новая» №42 от 18 апреля 2014).</p>]*
+		Подробности читайте в текстах <a href="[http://www.novayagazeta.ru/politics/63203.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/63203.html)" target="_blank">«Российской армии почти не видно»</a> («Новая» №41 от 16 апреля 2014) и <a href="[http://www.novayagazeta.ru/politics/63245.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/politics/63245.html)" target="_blank">«Бес, Фикс, Роман и голубоглазый»</a> («Новая» №42 от 18 апреля 2014).</p>]*
 
 *[media: &nbsp;]*

@@ -29,7 +29,7 @@ tags: ""
 
 «Единственный вопрос, если корзинка с колбасой образовалась 14 ноября (когда Улюкаева арестовали), почему ее уничтожили спустя полгода?» — недоумевает адвокат.
 
-**link:** https://novayagazeta.ru/articles/2017/09/18/73890-ya-ne-vyvorachival-sam-aleksey-valentinovich-dobrovolno-razvernul-karmany
+**link:** [https://novayagazeta.ru/articles/2017/09/18/73890-ya-ne-vyvorachival-sam-aleksey-valentinovich-dobrovolno-razvernul-karmany](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2017/09/18/73890-ya-ne-vyvorachival-sam-aleksey-valentinovich-dobrovolno-razvernul-karmany)
 
 В четверг прокуроры разделались с письменными материалами. Огласили протоколы осмотра помещений: исследованием квартиры, дачных участков и рабочего кабинета Улюкаева занимались несколько следственных групп в период с ноября 2016 года по июнь 2017-го.
 

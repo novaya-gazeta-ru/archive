@@ -17,6 +17,6 @@ tags: "россия, украина, прокуратура, sn"
 
 Впрочем, в прокуратуре попросили Полозова оставить свой номер мобильного телефона. «Ну, будем на связи», — подытожил адвокат.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/23/bolshaia-press-konferentsiia-putina-v-manezhe
+**Читайте также:** [https://novayagazeta.ru/articles/2021/12/23/bolshaia-press-konferentsiia-putina-v-manezhe](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/12/23/bolshaia-press-konferentsiia-putina-v-manezhe)
 
 Несколько дней назад стало известно, что Романа Цимбалюка пригласили на большую пресс-конференцию Владимира Путина. Ранее телеканал RT со ссылкой на источник в правоохранительных органах [сообщал](https://russian.rt.com/russia/news/936595-zhurnalist-cimbalyuk-dopros), что журналиста вызвали на допрос в прокуратуру Москвы по административному производству о возбуждении вражды и ненависти к россиянам (ст. 20.3.1 КоАП). В итоге на пресс-конференции Цимбалюк так и не появился.

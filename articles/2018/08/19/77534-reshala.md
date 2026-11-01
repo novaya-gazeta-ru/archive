@@ -199,7 +199,7 @@ tags: "мошенничество, сизо, москва"
 
 Следственный комитет не найдет в этой смерти признаков убийства…
 
-**link:** https://novayagazeta.ru/articles/2017/10/25/74324-chtoby-reshit-vopros-nazhmite-reshetku
+**link:** [Чтобы решить вопрос, нажмите «решетку»](2017/10/25/74324-chtoby-reshit-vopros-nazhmite-reshetku.md)
 
 **«Матросская Тишина»: война с правозащитниками**
 

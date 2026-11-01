@@ -15,10 +15,10 @@ tags: "дагестан, уголовное дело, вражда, возбуж
 
 Мужчину обвиняют в возбуждении ненависти или вражды (п. «а» ч.2 ст. 282 УК). По этой статье ему грозит до шести лет лишения свободы.
 
-Уголовное дело [возбудили](https://novayagazeta.ru/articles/2022/01/16/protiv-passazhira-avtobusa-ugrozhavshego-ot-litsa-dagestantsev-bit-russkikh-vozbudili-ugolovnoe-delo-o-razzhiganii-vrazhdy-news) после того, как в социальных сетях распространилась видеозапись, на которой мужчина агрессивно высказывается в адрес других пассажиров автобуса.
+Уголовное дело [возбудили](2022/01/16/protiv-passazhira-avtobusa-ugrozhavshego-ot-litsa-dagestantsev-bit-russkikh-vozbudili-ugolovnoe-delo-o-razzhiganii-vrazh.md) после того, как в социальных сетях распространилась видеозапись, на которой мужчина агрессивно высказывается в адрес других пассажиров автобуса.
 
 «Придет время, когда мы вас будем бить всех», — сказал молодой человек. Один из пассажиров спросил у него, кого он имеет в виду под словом «мы». «Мы — это дагестанцы», — ответил тот.
 
 Глава Дагестана Сергей Меликов [призвал](http://president.e-dag.ru/novosti/zayavleniya-obrashcheniya/sergej-melikov-otreagiroval-na-intsident-v-obshchestvennom-transporte-moskvy) устроившего конфликт мужчину извиниться. Позже ролик с извинениями Болтукаева опубликовал телеграм-канал Mash.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/12/16/my-russkii-znaem-dazhe-luchshe
+**Читайте также:** [«Мы русский знаем даже лучше»](2021/12/16/my-russkii-znaem-dazhe-luchshe.md)

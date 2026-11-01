@@ -17,8 +17,8 @@ tags: "ng, уголовное дело, задержания, реновация
 
 Максимальное наказание по [статье](http://www.consultant.ru/document/cons_doc_LAW_10699/9d692997b8cddf26782684f489987701b0daacf3/) о хулиганстве — до восьми лет лишения свободы.
 
-Накануне, 10 августа, Бабушкинский суд Москвы [отправил](https://novayagazeta.ru/articles/2021/08/10/sud-arestoval-na-6-sutok-aktivistku-protestovavshuiu-protiv-renovatsii-na-dereve-s-arbaletom-u-ee-materi-proveli-obysk-news) Кузьмину в спецприемник на 6 суток по делу об организации несогласованной акции (ч. 2 ст. 20.2 КоАП). Домой к ее матери пришли с обыском и изъяли всю технику и электронные носители информации.
+Накануне, 10 августа, Бабушкинский суд Москвы [отправил](2021/08/10/sud-arestoval-na-6-sutok-aktivistku-protestovavshuiu-protiv-renovatsii-na-dereve-s-arbaletom-u-ee-materi-proveli-obysk-n.md) Кузьмину в спецприемник на 6 суток по делу об организации несогласованной акции (ч. 2 ст. 20.2 КоАП). Домой к ее матери пришли с обыском и изъяли всю технику и электронные носители информации.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/01/18/88757-snesut-vse
+**Читайте также:** [Снесут все](2021/01/18/88757-snesut-vse.md)
 
 Утром 9 августа Ольга Кузьмина [привязала](https://ovdinfo.org/express-news/2021/08/09/v-moskve-zaderzhali-devushku-s-arbaletom-privyazavshuyu-sebya-k-derevu-ona) себя к дереву на 20-метровой высоте, требуя прекратить стройку по адресу Янтарная улица, 15. У нее при себе был арбалет, непригодный для стрельбы. Спустя 10 часов ее задержали.

@@ -13,15 +13,15 @@ tags: "ng, санитарное дело, приговор, суды"
 
 Преображенский районный суд Москвы приговорил московского муниципального депутата Люсю Штейн к одному году ограничения свободы по «санитарному делу». Об этом сообщает пресс-служба суда.
 
-Штейн признали виновной в подстрекательстве к нарушению санитарных норм (ч. 1 ст. 236 УК с применением ч. 4 ст. 33 УК). Госбвинение [просило](https://novayagazeta.ru/articles/2021/08/19/prokuratura-zaprosila-dlia-uchastnitsy-pussy-riot-liusi-shtein-dva-goda-ogranicheniia-svobody-po-sanitarnomu-delu-news) назначить девушке наказание в виде 2 лет ограничения свободы.
+Штейн признали виновной в подстрекательстве к нарушению санитарных норм (ч. 1 ст. 236 УК с применением ч. 4 ст. 33 УК). Госбвинение [просило](2021/08/19/prokuratura-zaprosila-dlia-uchastnitsy-pussy-riot-liusi-shtein-dva-goda-ogranicheniia-svobody-po-sanitarnomu-delu-news.md) назначить девушке наказание в виде 2 лет ограничения свободы.
 
 Мундепу запрещено выходить из дома ночью с 22:00 по 6:00, выезжать из Москвы, менять место жительства без уведомления госорганов, а также посещать массовые мероприятия. Он обязана отмечать в инспеции дважды в месяц.
 
-Всего по «санитарному делу» проходили сначала 10, потом (после того, как СК [прекратил](https://novayagazeta.ru/articles/2021/07/14/sud-prekratil-presledovanie-moskovskogo-mundepa-konstantina-iankauskasa-po-sanitarnomu-delu) преследование московского мундепа Константина Янкаускаса) — 9 человек. Преображенский суд приговорил пресс-секретаря Навального [Киру Ярмыш](https://novayagazeta.ru/articles/2021/08/16/sud-prigovoril-kiru-iarmysh-k-15-goda-ogranicheniia-svobody-po-sanitarnomu-delu-news) к полутора годам ограничения свободы, а брата Алексея Навального [Олега Навального](https://novayagazeta.ru/articles/2021/08/06/sud-prigovoril-olega-navalnogo-k-godu-ogranicheniia-svobody-po-sanitarnomu-delu-news) — к году условно по «санитарному делу». Соратника политика [Николая Ляскина](https://novayagazeta.ru/articles/2021/08/06/soratnika-navalnogo-nikolaia-liaskina-prigovorili-k-godu-ogranicheniia-svobody-po-sanitarnomu-delu-news) приговорили к году ограничения свободы.
+Всего по «санитарному делу» проходили сначала 10, потом (после того, как СК [прекратил](2021/07/14/sud-prekratil-presledovanie-moskovskogo-mundepa-konstantina-iankauskasa-po-sanitarnomu-delu.md) преследование московского мундепа Константина Янкаускаса) — 9 человек. Преображенский суд приговорил пресс-секретаря Навального [Киру Ярмыш](2021/08/16/sud-prigovoril-kiru-iarmysh-k-15-goda-ogranicheniia-svobody-po-sanitarnomu-delu-news.md) к полутора годам ограничения свободы, а брата Алексея Навального [Олега Навального](2021/08/06/sud-prigovoril-olega-navalnogo-k-godu-ogranicheniia-svobody-po-sanitarnomu-delu-news.md) — к году условно по «санитарному делу». Соратника политика [Николая Ляскина](2021/08/06/soratnika-navalnogo-nikolaia-liaskina-prigovorili-k-godu-ogranicheniia-svobody-po-sanitarnomu-delu-news.md) приговорили к году ограничения свободы.
 
-Юрист команды Навального [Любовь Соболь](https://novayagazeta.ru/articles/2021/08/03/liubov-sobol-prigovorili-k-15-goda-ogranicheniia-svobody-po-sanitarnomu-delu-news) получила 1,5 года ограничения свободы, но покинула Россию до вступления приговора в законную силу. Сама Соболь не сообщала, где она находится сейчас.
+Юрист команды Навального [Любовь Соболь](2021/08/03/liubov-sobol-prigovorili-k-15-goda-ogranicheniia-svobody-po-sanitarnomu-delu-news.md) получила 1,5 года ограничения свободы, но покинула Россию до вступления приговора в законную силу. Сама Соболь не сообщала, где она находится сейчас.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/07/23/svideteli-masochnogo-rezhima
+**Читайте также:** [Свидетели «масочного режима»](2021/07/23/svideteli-masochnogo-rezhima.md)
 
 Приговоры участнице Pussy Riot Марии Алехиной, главе «Альянса врачей»* Анастасии Васильевой и московскому мундепу Дмитрию Барановскому пока не огласили.
 

@@ -23,8 +23,8 @@ tags: "ng                                         , фбк"
 
 По словам Албурова, сотрудники силовых структур собираются отнять у ФБК их личную технику.
 
-**link:** https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online
+**link:** [https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online)
 
 Менеджер проектов ФБК Леонид Волков [уточняет](https://t.me/leonid_volkov/1916), что съемки проходили в Лаишевском районе республики, однако кто именно герой ролика —не говорится.
 
-Напомним, сегодня команда Алексея Навального [опубликовала ](https://novayagazeta.ru/news/2020/08/31/164024-fbk-opublikoval-rassledovanie-o-korruptsii-chlenov-edinoy-rossii-v-novosibirske)первое расследование из поездки политика по Сибири. Как [сообщается ](https://navalny.com/p/6423/)на сайте ФБК, оно посвящено коррупции членов «Единой России» — депутатов местного городского парламента. Расследование было снято еще до отравления политика, который сейчас находится в клинике «Шарите».
+Напомним, сегодня команда Алексея Навального [опубликовала ](https://web.archive.org/web/*/https://novayagazeta.ru/news/2020/08/31/164024-fbk-opublikoval-rassledovanie-o-korruptsii-chlenov-edinoy-rossii-v-novosibirske)первое расследование из поездки политика по Сибири. Как [сообщается ](https://navalny.com/p/6423/)на сайте ФБК, оно посвящено коррупции членов «Единой России» — депутатов местного городского парламента. Расследование было снято еще до отравления политика, который сейчас находится в клинике «Шарите».

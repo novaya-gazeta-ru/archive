@@ -27,4 +27,4 @@ tags: "мигранты, собянин, москва, спч, фадеев, kn"
 
 Надписи на указателях станций «Прокшино» и «Лесопарковая» [продублировали](https://www.rbc.ru/rbcfreenews/61407c149a794734d8af176c) на таджикском и узбекском языках в сентябре этого года. В пресс-службе дептранса объяснили, что это сделали для удобства передвижения мигрантов, которые едут в Сахарово.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/11/23/zhazhda-mestnykh
+**Читайте также:** [https://novayagazeta.ru/articles/2021/11/23/zhazhda-mestnykh](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/11/23/zhazhda-mestnykh)

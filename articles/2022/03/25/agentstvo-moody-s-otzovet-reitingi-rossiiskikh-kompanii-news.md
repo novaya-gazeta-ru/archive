@@ -17,6 +17,6 @@ tags: "рейтинг, россия, ai"
 
 Moody's занимается анализом рынка, вычислением рисков и присвоением кредитных рейтингов компаниям.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/24/kogda-rossiia-zaiavila-o-povorote-na-vostok-kitai-nachal-distantsirovatsia
+**Читайте также:** [«Когда Россия заявила о «повороте на Восток», Китай начал дистанцироваться»](2022/03/24/kogda-rossiia-zaiavila-o-povorote-na-vostok-kitai-nachal-distantsirovatsia.md)
 
-Накануне об аннулировании рейтингов российских компаний, попавших под санкции Евросоюза, [объявило](https://novayagazeta.ru/articles/2022/03/24/agentstvo-fitch-annuliruet-reitingi-popavshikh-pod-sanktsii-rossiiskikh-kompanii-news) и агентство Fitch Ratings. В начала марта группа компаний также приостановила коммерческую деятельность в России.
+Накануне об аннулировании рейтингов российских компаний, попавших под санкции Евросоюза, [объявило](2022/03/24/agentstvo-fitch-annuliruet-reitingi-popavshikh-pod-sanktsii-rossiiskikh-kompanii-news.md) и агентство Fitch Ratings. В начала марта группа компаний также приостановила коммерческую деятельность в России.

@@ -17,6 +17,6 @@ tags: ""
 
 **Произведено: «Новая газета»:** https://youtu.be/tvBdIRJhH3c
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/08/27/aleksei-gorinov-khronika-raspravy
+**Читайте также:** [https://novayagazeta.ru/articles/2024/08/27/aleksei-gorinov-khronika-raspravy](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/08/27/aleksei-gorinov-khronika-raspravy)
 
 #### * Минюст РФ считает «иноагентом», а мы — нет.

@@ -29,9 +29,9 @@ tags: "авиация, кризис"
 
 «Трансаэро», говорят нам, с 2007 года показывала прибыль только в 2011-м и в 2013 гг. Вот именно — она показывала прибыль до Крыма, когда рынок авиаперевозок в России рос, с 2013-го по 2014-й он вырос на 11%. Наступил Крым — и все кончилось.
 
-**link:** https://novayagazeta.ru/economy/70195.html
+**link:** [https://novayagazeta.ru/economy/70195.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/70195.html)
 
-**link:** https://novayagazeta.ru/economy/70195.html
+**link:** [https://novayagazeta.ru/economy/70195.html](https://web.archive.org/web/*/https://novayagazeta.ru/economy/70195.html)
 
 Давайте посмотрим на мировой рынок авиаперевозок. В США в 2014 году перевезли 848 миллионов. Китай перевез 390 миллионов, плюс еще 37 миллионов перевез Гонконг.
 

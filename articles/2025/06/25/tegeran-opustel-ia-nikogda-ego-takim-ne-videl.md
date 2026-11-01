@@ -125,4 +125,4 @@ tags: ""
 
 > Тегеран вообще был как-будто пустой, я никогда его таким не видел.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/06/24/grom-sredi-zvezdnogo-neba
+**Читайте также:** [Гром среди звездного неба](2025/06/24/grom-sredi-zvezdnogo-neba.md)

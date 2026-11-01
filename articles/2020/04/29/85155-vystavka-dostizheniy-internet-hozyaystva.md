@@ -141,4 +141,4 @@ Facebook запускает сервис видеосвязи Rooms. Как же
 
 **Виталий Ругайн**, Медиасеть
 
-**link:** https://novayagazeta.ru/articles/2020/04/07/84753-my-mozhem-uvidet-konets-interneta
+**link:** [Конец интернета](2020/04/07/84753-my-mozhem-uvidet-konets-interneta.md)

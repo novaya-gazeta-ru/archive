@@ -27,4 +27,4 @@ tags: "фильм, оксимирон, em , прокатное удостове�
 
 Oxxxymiron выступил против боевых действий в Украине и уехал из России. 15 марта он провел пацифистский концерт в Стамбуле, 24 марта — в Лондоне.
 
-**Читайте также:** https://novayagazeta.ru/articles/2022/03/18/pozdravliaem-vy-v-chernom-spiske
+**Читайте также:** [https://novayagazeta.ru/articles/2022/03/18/pozdravliaem-vy-v-chernom-spiske](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2022/03/18/pozdravliaem-vy-v-chernom-spiske)

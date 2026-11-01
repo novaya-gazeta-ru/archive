@@ -25,7 +25,7 @@ tags: "буянова, врач буянова, дискредитация, су
 
 Надежда Буянова ответила на вопросы «Новой» из СИЗО-6.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/06/20/delo-vracha
+**Читайте также:** [https://novayagazeta.ru/articles/2024/06/20/delo-vracha](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2024/06/20/delo-vracha)
 
 ## **О себе и любимой работе**
 
@@ -65,7 +65,7 @@ tags: "буянова, врач буянова, дискредитация, су
 
 До ареста и до событий на Украине политикой не интересовалась. Здесь новости получаю только из «Собеседника»*. Телевизор смотрю — новости урывками.
 
-**Читайте также:** https://novayagazeta.ru/articles/2024/10/02/smotriu-na-proiskhodiashchee-kak-na-fantasticheskii-film-o-sudbakh-liudei
+**Читайте также:** [«Смотрю на происходящее как на фантастический фильм»](2024/10/02/smotriu-na-proiskhodiashchee-kak-na-fantasticheskii-film-o-sudbakh-liudei.md)
 
 Письма людей очень меня поддерживают, это мое «общение». Помогают сохранять положительный настрой. Я даже не думала, что вокруг столько хороших и отзывчивых людей объявится.
 

@@ -119,4 +119,4 @@ tags: "рост цен, рост цен на продукты"
 
 *Фото: Валентин Антонов / ТАСС*
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/11/15/sama-sebe-manikiur-i-fitness
+**Читайте также:** [Сама себе маникюр и фитнесс](2025/11/15/sama-sebe-manikiur-i-fitness.md)

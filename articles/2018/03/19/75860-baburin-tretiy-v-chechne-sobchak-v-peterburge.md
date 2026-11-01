@@ -25,11 +25,11 @@ tags: "итоги, путин, россия, выборы"
 
 *За кого отдали свои голоса жители двух столиц, Крыма и одной кавказской республики*
 
-**link:** https://novayagazeta.ru/articles/2018/03/19/75855-vse-ugadali-nikto-ne-rad
+**link:** [Все угадали, никто не рад](2018/03/19/75855-vse-ugadali-nikto-ne-rad.md)
 
-**link:** https://novayagazeta.ru/articles/2018/03/19/75859-glavnyy-itog-vyborov-v-chechne-ne-postradal-ni-odin-iz-nablyudateley-navalnogo
+**link:** [Главный итог выборов в Чечне: не пострадал ни один из наблюдателей Навального](2018/03/19/75859-glavnyy-itog-vyborov-v-chechne-ne-postradal-ni-odin-iz-nablyudateley-navalnogo.md)
 
-**link:** https://novayagazeta.ru/articles/2018/03/18/75853-kto-pobedil-na-vyborah-18-marta
+**link:** [Так кто победил на выборах 18 марта?](2018/03/18/75853-kto-pobedil-na-vyborah-18-marta.md)
 
 Все угадали, никто не рад
 

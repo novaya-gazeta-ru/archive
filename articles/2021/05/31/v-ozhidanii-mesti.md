@@ -19,7 +19,7 @@ tags: "новосибирская область, полиция, убийств
 
 > **Обновлено**
 >
-> Инспектора ДПС, случайно застрелившего человека, [арестовали](https://novayagazeta.ru/articles/2021/05/31/v-novosibirske-sud-arestoval-sotrudnika-dps-kotoryi-pri-zaderzhanii-vystrelil-v-golovu-molodomu-cheloveku).
+> Инспектора ДПС, случайно застрелившего человека, [арестовали](2021/05/31/v-novosibirske-sud-arestoval-sotrudnika-dps-kotoryi-pri-zaderzhanii-vystrelil-v-golovu-molodomu-cheloveku.md).
 
 # **Что произошло**
 

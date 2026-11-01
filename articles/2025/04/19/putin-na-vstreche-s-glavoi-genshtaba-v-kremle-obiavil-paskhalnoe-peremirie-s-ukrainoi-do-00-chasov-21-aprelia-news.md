@@ -25,7 +25,7 @@ tags: ""
 
 > **есть продолжение**
 >
-> ### [Зеленский: Если Россия внезапно готова прекратить огонь, Украина будет действовать зеркально](https://novayagazeta.ru/articles/2025/04/19/zelenskii-esli-rossiia-vnezapno-gotova-prekratit-ogon-ukraina-budet-deistvovat-zerkalno-news)
+> ### [Зеленский: Если Россия внезапно готова прекратить огонь, Украина будет действовать зеркально](2025/04/19/zelenskii-esli-rossiia-vnezapno-gotova-prekratit-ogon-ukraina-budet-deistvovat-zerkalno-news.md)
 
 ![](_assets/d7/d7b246b08820bc1c1447a7ce77bed9a5.webp)
 

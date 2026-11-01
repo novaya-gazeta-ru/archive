@@ -33,4 +33,4 @@ tags: "эстония, россия, алар карис, президент, kn
 
 — У нас в воздухе повисло много практических тем для обсуждения, будь то вопрос границы или ситуация с гражданами, которые больше смотрят в сторону Москвы, чем Эстонии. [*(источник)*](https://www.err.ee/1608316988/karis-eesti-voiks-olla-harituima-rahvaga-riik)
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/01/16/88721-korruptsiya-i-natsionalizm-razvalili-pravitelstvo
+**Читайте также:** [https://novayagazeta.ru/articles/2021/01/16/88721-korruptsiya-i-natsionalizm-razvalili-pravitelstvo](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2021/01/16/88721-korruptsiya-i-natsionalizm-razvalili-pravitelstvo)

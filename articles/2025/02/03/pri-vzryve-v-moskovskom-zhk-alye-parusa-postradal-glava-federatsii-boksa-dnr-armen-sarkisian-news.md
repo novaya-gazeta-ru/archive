@@ -29,4 +29,4 @@ CМИ называют Саркисяна предпринимателем и к
 
 Возбуждено уголовное дело по ст. 30 и ч. 2 ст. 105 (убийство и покушение на убийство двух и более лиц). Однако в случае, если в преступлении будет обнаружен украинский след, уголовное дело переквалифицируют на ст. 205 (теракт) УК, [пишет](https://t.me/kommersant/78064) «Коммерсант» со ссылкой на источники.
 
-**Читайте также:** https://novayagazeta.ru/articles/2025/02/03/v-kholle-elitnogo-zhk-moskvy-alye-parusa-vzorvali-granatu-predvaritelno-odin-chelovek-pogib-eshche-chetvero-postradali-news
+**Читайте также:** [В холле элитного ЖК Москвы «Алые паруса» взорвали гранату. Предварительно один человек погиб, еще четверо пострадали](2025/02/03/v-kholle-elitnogo-zhk-moskvy-alye-parusa-vzorvali-granatu-predvaritelno-odin-chelovek-pogib-eshche-chetvero-postradali-n.md)

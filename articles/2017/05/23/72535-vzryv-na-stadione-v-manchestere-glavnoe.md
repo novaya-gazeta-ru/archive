@@ -13,7 +13,7 @@ tags: "англия, теракт , стадионы"
 
 *Всего в результате теракта пострадали более 50 человек. Подробности*
 
-**link:** https://novayagazeta.ru/news/2017/05/23/131825-politsiya-manchestera-nazvala-imya-terrorista-smertnika
+**link:** [https://novayagazeta.ru/news/2017/05/23/131825-politsiya-manchestera-nazvala-imya-terrorista-smertnika](https://web.archive.org/web/*/https://novayagazeta.ru/news/2017/05/23/131825-politsiya-manchestera-nazvala-imya-terrorista-smertnika)
 
 Взрыв
 
@@ -35,7 +35,7 @@ tags: "англия, теракт , стадионы"
 
 После инцидента Facebook активировал для Манчестера функцию Safety Check, с помощью которой пользователи могли сообщить друзьям и близким, что с ними все в порядке.
 
-**link:** https://novayagazeta.ru/articles/2017/05/23/72536-terakt-v-manchestere
+**link:** [Теракт в Манчестере. 22 человека погибли, более 50 пострадали](2017/05/23/72536-terakt-v-manchestere.md)
 
 В свою очередь, посольство России в Лондоне опубликовало на своей странице в фэйсбуке телефон доверия, который могут набрать граждане России в экстренном случае.
 

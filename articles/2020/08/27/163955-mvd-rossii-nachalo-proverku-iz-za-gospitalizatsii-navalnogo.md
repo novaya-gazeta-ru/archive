@@ -19,4 +19,4 @@ tags: "em, мвд, навальный"
 
 Напомним, политику стало плохо на борту самолета Томск-Москва, в связи с чем лайнер сообщил экстренную посадку в Омске, где Навального и госпитализировали. Сейчас Навальный находится в берлинской клинике Шарите. Омские медики отрицали, что его отравили, однако немецкие медики заявили об интоксикации веществом из группы ингибиторов холинэстеразы.
 
-**link:** https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online
+**link:** [https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online](https://web.archive.org/web/*/https://novayagazeta.ru/articles/2020/08/20/86745-aleksey-navalnyy-otravlen-i-nahoditsya-v-kome-online)

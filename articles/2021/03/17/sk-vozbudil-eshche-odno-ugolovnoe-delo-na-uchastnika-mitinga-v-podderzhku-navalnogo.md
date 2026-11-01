@@ -15,4 +15,4 @@ tags: "следственный комитет, протесты, навальн
 
 В городах России 23, 31 января и 2 февраля прошли протестные акции в поддержку Навального, после которых задержали более 10 тысяч человек, тысячи протестующих отправили под аресты.
 
-**Читайте также:** https://novayagazeta.ru/articles/2021/02/02/89008-hvatay-bolshe-kiday-dalshe-kosmonavty-mogut-zaderzhat-i-bolshe-lyudey-no-politsiya-i-sud-ne-mogut-ih-perevarit-v-takom-kolichestve
+**Читайте также:** [Хватай больше — кидай дальше](2021/02/02/89008-hvatay-bolshe-kiday-dalshe-kosmonavty-mogut-zaderzhat-i-bolshe-lyudey-no-politsiya-i-sud-ne-mogut-ih-perevarit-v-t.md)

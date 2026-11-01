@@ -22,7 +22,7 @@ tags: ""
 
 *[media: <tbody>
 		<tr>
-			<td><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/07/07/1404737274_701585_21.jpg" style="width: 340px; height: 227px; float: right;"></td>
+			<td><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/07/07/1404737274_701585_21.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/07/07/1404737274_701585_21.jpg)" style="width: 340px; height: 227px; float: right;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Фото: Владислав ДОКШИН — для «Новой»</sup></td>

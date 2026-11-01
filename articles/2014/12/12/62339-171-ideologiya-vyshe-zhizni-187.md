@@ -15,7 +15,7 @@ tags: "борн, суды"
 
 *[media: <tbody>
 		<tr>
-			<td class="g-justify-right"><img alt="" src="http://www.novayagazeta.ru/storage/c/2014/12/12/1418408627_093606_6.jpg" style="width: 340px; height: 206px;"></td>
+			<td class="g-justify-right"><img alt="" src="[http://www.novayagazeta.ru/storage/c/2014/12/12/1418408627_093606_6.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/12/12/1418408627_093606_6.jpg)" style="width: 340px; height: 206px;"></td>
 		</tr>
 		<tr>
 			<td class="g-justify-right"><sup>Максим Баклагин. Фото из материалов дела</sup></td>
@@ -37,11 +37,11 @@ tags: "борн, суды"
 
 Баклагин говорит четко и спокойно. Не сбиваясь, почти без пауз. Объясняет это тем, что «много раз прокручивал в голове все эти эпизоды». Каждый протокол его допроса дописан неровной строчкой: «…в совершенных преступлениях раскаиваюсь, сожалею». Впрочем, рассказ его не был похож на историю раскаявшегося человека или хотя бы осознавшего, что он совершил и зачем.
 
-*[media: <p><a href="http://www.novayagazeta.ru/society/66371.html" target="_blank"><img alt="" class="g-image-align-left" src="http://www.novayagazeta.ru/storage/c/2014/12/03/1417612512_714583_52.jpg" style="width: 100px; height: 75px;"></a><span style="color:#B22222;"><strong>Читайте также:</strong></span></p>
+*[media: <p><a href="[http://www.novayagazeta.ru/society/66371.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/66371.html)" target="_blank"><img alt="" class="g-image-align-left" src="[http://www.novayagazeta.ru/storage/c/2014/12/03/1417612512_714583_52.jpg](https://web.archive.org/web/*/http://www.novayagazeta.ru/storage/c/2014/12/03/1417612512_714583_52.jpg)" style="width: 100px; height: 75px;"></a><span style="color:#B22222;"><strong>Читайте также:</strong></span></p>
 
-<p><a href="http://www.novayagazeta.ru/society/66371.html" target="_blank"><strong>Убить судью</strong></a></p>
+<p><a href="[http://www.novayagazeta.ru/society/66371.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/66371.html)" target="_blank"><strong>Убить судью</strong></a></p>
 
-<p><a href="http://www.novayagazeta.ru/society/66371.html" target="_blank">В суде по делу БОРН рассмотрели убийство Эдуарда Чувашова</a></p>]*
+<p><a href="[http://www.novayagazeta.ru/society/66371.html](https://web.archive.org/web/*/http://www.novayagazeta.ru/society/66371.html)" target="_blank">В суде по делу БОРН рассмотрели убийство Эдуарда Чувашова</a></p>]*
 
 Он познакомился с Коршуновым (еще один член БОРН, непосредственный убийца Ивана Хуторского и судьи Чувашова, в 2011-м подорвался на собственной гранате) в 2005 году, в Медведкове, — Коршунов там жил, а Баклагин с Исаевым снимали квартиру. Общались на разные националистические темы, в какой-то момент поругались, и Коршунов пропал. Тогда же в 2005-м Коршунов познакомил его с Михаилом Волковым — активным на тот момент участником неонацистской банды ОБ-88.
 
