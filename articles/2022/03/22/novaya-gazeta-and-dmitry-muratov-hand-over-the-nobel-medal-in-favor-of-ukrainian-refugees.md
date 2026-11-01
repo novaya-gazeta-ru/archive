@@ -11,6 +11,8 @@ tags: ""
 
 # Novaya Gazeta and Dmitry Muratov hand over the Nobel Medal in favor of Ukrainian refugees
 
+![](_assets/a1/a1a520d3d7144482bfd8e3be7730bb15.webp)
+
 *Фото: AFP/East News*
 
 **What needs to be done right away:  **

@@ -10,6 +10,16 @@ tags: ""
 ---
 
 # Россия, вставай на колени
+![](_assets/28/2882db2b786bdc67a00f041dfac4ad45.webp)
+
+![](_assets/10/108b68559350061ac3d08ac6f5414288.webp)
+
+![](_assets/71/71feb0cfa16680890adc9c79fdb73da3.webp)
+
+![](_assets/ef/ef87bc5fdf40a1a75d05333cdb576a07.webp)
+
+![](_assets/e9/e9aa24c0a7e843a57bf4b2b39c0cdfd3.webp)
+
 
 *Мать разыскала своего погибшего на войне сына на другом конце страны, в чужой могиле*
 

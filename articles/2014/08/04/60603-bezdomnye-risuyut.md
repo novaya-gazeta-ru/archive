@@ -10,6 +10,46 @@ tags: ""
 ---
 
 # Бездомные рисуют
+![](_assets/a2/a2a41a61dcb9828d5130da62ac29ea01.webp)
+
+![](_assets/2e/2e0a8e5d3582d2b5e3500a83bb74b9d9.webp)
+
+![](_assets/9c/9c4ee2a240e5d3bad29eb24568f9c813.webp)
+
+![](_assets/1a/1a17947aeb0edd4ddfeb122a5b7d0eb5.webp)
+
+![](_assets/e7/e7322433e8249a71f9c8ac658295b6db.webp)
+
+![](_assets/07/0717ed0b47936340232a9c45fd0fb20b.webp)
+
+![](_assets/73/732b05e0731a2b8bd5a652b4f492b605.webp)
+
+![](_assets/53/53fd1434ca86360bbfeb4854fcd41276.webp)
+
+![](_assets/9d/9d98ff7f3fffc0c7af155bf6e66e545b.webp)
+
+![](_assets/30/30f32bcac81c2c83adc6c8b5b6d9c70c.webp)
+
+![](_assets/b2/b2351dfd3ed9f371c1e512b51df0e060.webp)
+
+![](_assets/ee/ee7b8524789d311bdeb99213e00f2fd7.webp)
+
+![](_assets/fc/fc1963610384fc76a5af4ec1465076a2.webp)
+
+![](_assets/f4/f4a3066c5790e50474449c1223eefe81.webp)
+
+![](_assets/e0/e025cef37182a332fa2778c876b05410.webp)
+
+![](_assets/f3/f35baa6e5bd7fc9926923a657657acd0.webp)
+
+![](_assets/cf/cfff5fc4a5a6c467e6fb91f77ac6f97e.webp)
+
+![](_assets/55/55d34cefdcb4c2fe9984f2ea8080e70c.webp)
+
+![](_assets/dc/dc8c8681cf83935f11f47e074812165f.webp)
+
+![](_assets/d4/d4a090cde3bc591340722f207d07abdd.webp)
+
 
 **Обитатели «Ночлежки» на занятиях арт-терапии рисуют — как дети, с удовольствием, не задумываясь о результате. Эти рисунки много говорят о самих художниках, о том, что им пришлось пережить, о чем мечтают и на что надеются.**
 

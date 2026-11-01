@@ -17,6 +17,8 @@ tags: "ng, юрий жданов, суды, приговор"
 
 Адвокат уточнил, что защита будет обжаловать решение суда в кассации. «Решение суда омерзительное и людоедское. Юрия Павловича продолжают держать в заложниках из-за деятельности сына — что может быть подлее», — заявил Воронин.
 
+![](_assets/4b/4b7fbd859d95efac42daede0e6cceca4.webp)
+
 *Фото: Владимир Воронин / твиттер*
 
 19 декабря 2021 года суд в Нарьян-Маре приговорил Юрия Жданова к трем годам условно по делу о мошенничестве (ч. 4 ст. 159 УК) и служебном подлоге (ст. 292 УК). Через 10 дней, 29 декабря, Жданова-старшего [задержали](https://novayagazeta.ru/articles/2021/12/29/ottsa-ivana-zhdanova-otpravili-v-sizo-za-narushenie-podpiski-o-nevyezde-nakanune-ego-prigovorili-k-3-godam-uslovno-news) за «нарушение подписки о невыезде и надлежащем поведении». Этим нарушением [сочли](https://novayagazeta.ru/articles/2022/01/12/advokat-ottsa-ivana-zhdanova-otpravili-v-sizo-iz-za-poseshcheniia-v-nizhegorodskoi-oblasti-83-letnei-teti-do-apelliatsii-news) посещение в Нижегородской области 83-летней тети.

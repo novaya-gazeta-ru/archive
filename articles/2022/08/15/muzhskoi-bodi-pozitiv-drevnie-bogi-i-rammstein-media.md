@@ -13,7 +13,7 @@ tags: "музыка, rammstein, рейтинг"
 
 *Альбомы 2021 — начала 2022. Обзор Алексея Душутина*
 
-*\*
+![](_assets/34/34721f7115bc30e50f2b84c204f389e3.webp)
 
 > **Viagra Boys**
 >
@@ -36,7 +36,7 @@ tags: "музыка, rammstein, рейтинг"
 >  — To the Country\
 >  — In Spite of Ourselves.*
 
-*\*
+![](_assets/5a/5a6c1810af748d51984607adbb577e74.webp)
 
 > **Alai Oli и Хмыров**
 >
@@ -54,7 +54,7 @@ tags: "музыка, rammstein, рейтинг"
 >  — Горы\
 >  — Бусы*
 
-*\*
+![](_assets/7f/7f56e4b10bdc287edda3667f1eec2287.webp)
 
 > **Rammstein**
 >
@@ -76,7 +76,7 @@ tags: "музыка, rammstein, рейтинг"
 >  — Zeit, Schwarz\
 >  — OK
 
-*\*
+![](_assets/de/dea50538eed61b5b697fb592c49d6428.webp)
 
 > **The Smile**
 >
@@ -96,7 +96,7 @@ tags: "музыка, rammstein, рейтинг"
 >  — Waving a White Flag\
 >  — Skirting on the Surface*
 
-*\*
+![](_assets/82/82b8e25130355e21ea1d4a278604e350.webp)
 
 > **Röyksopp**
 >
@@ -115,7 +115,7 @@ tags: "музыка, rammstein, рейтинг"
 >  *— The Ladder\
 >  — If You Want Me*
 
-*\*
+![](_assets/27/27c8e106e2cf10af3486b2ab10ec2416.webp)
 
 > **Stromae**
 >
@@ -144,7 +144,7 @@ tags: "музыка, rammstein, рейтинг"
 >  — Riez\
 >  — Fils de joie*
 
-*\*
+![](_assets/95/9594a758806da663fca99cbaac7e609a.webp)
 
 > **4 Позиции Бруно**
 >

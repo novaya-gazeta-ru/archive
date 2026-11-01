@@ -10,6 +10,14 @@ tags: "рпц, новый мир"
 ---
 
 # Андрей Василевский: «Мы — такая помеха!»
+![](_assets/7b/7b0cdb28bc3c55ed9ee3dde7729a8ae2.webp)
+
+![](_assets/bb/bb5dd399ff003f88dacd5995566de065.webp)
+
+![](_assets/4a/4a5fbbc6c7eb844f9a2915fedf297892.webp)
+
+![](_assets/ff/ff082a8940c3e99b08ce137a5f68af15.webp)
+
 
 *Свое 100-летие «Новый мир» рискует встретить бездомным*
 

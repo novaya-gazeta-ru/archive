@@ -10,6 +10,14 @@ tags: ""
 ---
 
 # Музыкальные новости
+![](_assets/34/349d74085622fd940746c186f5dd9b42.webp)
+
+![](_assets/9b/9b7b60af19e2f1e9a2cd986aedac9319.webp)
+
+![](_assets/79/799a6441768ad4922996b55a42954c64.webp)
+
+![](_assets/40/40c02a24778ddf177fc20d648b4b35f4.webp)
+
 
 The Rolling Stones начнут работу над своим новым альбомом в этом месяце
 

@@ -10,6 +10,28 @@ tags: ""
 ---
 
 # Москва: точки обзора
+![](_assets/29/29af461b6fa6f7cde80f739afe56c1b2.webp)
+
+![](_assets/df/df1c711a229e0fd8a7f0324d23f3c1b8.webp)
+
+![](_assets/1f/1f79bb5f5c3ba339de2cb1466a21e0aa.webp)
+
+![](_assets/b5/b574e65e7b3f18224fc1e2c31f767181.webp)
+
+![](_assets/c3/c30e29c8487d0099bb9d2b1eeedcab04.webp)
+
+![](_assets/8a/8a65e46bb314b95a94a6504c828188c0.webp)
+
+![](_assets/ce/ce9257dda76fd66fa25e856270b4bd18.webp)
+
+![](_assets/1b/1b2f80cdd63c37216b1d1bfae37d07c5.webp)
+
+![](_assets/0b/0b961736c03cc84cdff307eb0d652db9.webp)
+
+![](_assets/cd/cd185fd85994bd74a63e3852d4646e22.webp)
+
+![](_assets/0a/0a3de34f43284755e9f3b61e598935ee.webp)
+
 
 *Сто лет назад Эмилий Владимирович Готье-Дюфайе зафиксировал Москву, наши современники повторили его ракурсы*
 

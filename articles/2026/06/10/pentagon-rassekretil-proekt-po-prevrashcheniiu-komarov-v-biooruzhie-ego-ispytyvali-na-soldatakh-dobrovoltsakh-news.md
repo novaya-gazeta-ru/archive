@@ -11,6 +11,8 @@ tags: "боевые комары, Пентагон, доклад"
 
 # Пентагон рассекретил проект по превращению комаров в биооружие — его испытывали на солдатах-добровольцах
 
+![](_assets/ee/ee34e8217afde10894dd703625d9194f.webp)
+
 *Фото: Daily Mail*
 
 Daily Mail [нашла](https://www.dailymail.com/news/article-15874013/Swarms-killer-mosquitoes-released-innocent-Americans-reveal-secret-Pentagon-files.html) на сайте Пентагона рассекреченный 69-страничный доклад армии США: документ описывает программу Project Bellwether, в рамках которой в 1959–1960 годах военные проводили полевые испытания с комарами Aedes aegypti — переносчиками желтой лихорадки.

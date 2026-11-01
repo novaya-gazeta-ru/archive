@@ -13,19 +13,19 @@ tags: "физраствор, коронавирус"
 
 *Инфекционное дефиле от Физраствора в «Новой газете»*
 
-*\*
+![](_assets/67/675f2c849128f943291e7a7c71642145.webp)
 
-*\*
+![](_assets/d8/d87b3fd6d83f5290666eec22b3ec0c24.webp)
 
-*\*
+![](_assets/1d/1dbb4266fb965457a86b6c791d746a60.webp)
 
-*\*
+![](_assets/37/374001068519217683499f66d9ead121.webp)
 
-*\*
+![](_assets/4e/4e140a75eb5cb66c46826f5e4f5b3a1b.webp)
 
-*\*
+![](_assets/97/97a77c47ea7f74bbeca6e88bf83f0bed.webp)
 
-*\*
+![](_assets/60/60d00eea116b3a2ff4cae36720d71fcb.webp)
 
 > **ОТ РЕДАКЦИИ**
 >

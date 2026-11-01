@@ -24,6 +24,8 @@ tags: "russia; explained, kadyrov, newsletter"
 
 You may remember that [last week’s edition of Russia, Explained](https://novayagazeta.ru/articles/2022/02/01/russia-explained) featured reporting on Head of Chechnya Ramzan Kadyrov’s vendetta against the family of former judge Saidi Yangulbayev by our correspondent, Elena Milashina. Following those reports, Kadyrov made several personal threats against her, branding her a “terrorist”. A powerful Russian official has also been attacking Novaya as a whole, demanding that a criminal case be opened against us. Because of this, our editorial team made the decision to send Milashina abroad for her own safety. You can read our full statement on the decision [here](https://novayagazeta.ru/articles/2022/02/03/elena-milashina-pokidaet-rossiiskuiu-federatsiiu). Before her departure, Milashina came on our podcast “*What’s New?” *to discuss her perspective on what’s happening in Chechnya, as well as the fate of Yangulbayev’s wife, Zarema Musayeva, who was detained and forcibly returned to the republic. We highlight some of Milashina’s most powerful quotes from the episode.
 
+![](_assets/08/082c0bb6cdb37c512e0ba68abc3db1e2.webp)
+
 *Rlrnas Milashina. Photo by Anna Artemeva / Novaya Gazeta*
 
 **ON THE “WOLVES CREED” TELEGRAM CHANNEL. **Kadyrov’s hatred of the Yangulbayev family stemmed from the participation of the judge’s son — Ibragim — in the “Wolves Creed” Telegram channel which shed light on the many human rights abuses committed by the Chechen authorities. After imprisonment and torture, he has since fled Russia and now operates the channel from abroad. Of its success, Milashina says:
@@ -57,6 +59,8 @@ She adds that the Kremlin’s disregard for violations committed by the Chechen 
 # Far Eastern Hectare Scam, Explained
 
 The Russian Government launched the Far Eastern Hectare scheme with much fanfare back in 2016. At first only available to residents from the region, by 2017 every Russian citizen could receive one free hectare of land in the Far Eastern Federal District. Citizens can choose their plot of land at nadalniyvostok.rf. It is a move reminiscent of the 1862 Homestead Act in the United States which sought to attract settlers to less populous areas of the country with the promise of free land. 220 million hectares are up for grabs under the modern Russian scheme, twice the amount made available by the Homestead Act. As of February 2 this year, 100,129 people had signed up to the scheme. Oleg Kuchma, a lawyer from Vladivostok, is just one of them. He tells Novaya about his experience with the scheme, showing that it’s not all it’s cracked up to be.
+
+![](_assets/ee/ee1a9ac1596016e214d543084de6f85a.webp)
 
 *A man near the agitation paper about the free hectar state program. Photo: Yuri Smituk / TASS*
 
@@ -102,7 +106,7 @@ Aleksei Zhemchuzhnikov, a member of Irkutsk’s public chamber, shares this view
 
 ### **How has the population of Russia changed**
 
-*\*
+![](_assets/e1/e183ce4b34f78b74e62eec8e8076ddf1.webp)
 
 The shocking statistics represent the greatest decline in the country’s population since World War II. Mortality rates in central regions such as Ryazan, Novgorod, and Tula were particularly high, with 1 in every 50 people in these oblasts dying in 2021. While Russia has lost almost 670,000 lives to Covid-19, the virus is just the tip of the iceberg when it comes to population decline. The pandemic simply exacerbated the exodus of people from Central Russia due to the excessive economic centralisation introduced by President Putin. Demographer Alexei Rashka adds that — since opportunities are concentrated in Moscow and St. Petersburg — thousands of young people have left the provinces, leaving behind a disproportionately elderly population which — of course — increases the mortality rate. Russian authorities recognise the challenges posed by a shrinking population, and regularly announce measures to increase life expectancy and birth.
 

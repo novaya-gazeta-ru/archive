@@ -13,29 +13,29 @@ tags: "физраствор, новая этика, феминизм, генде
 
 *Беседа о «новой этике» между участниками Физраствора и журналисткой, феминисткой, блогеркой Анастасией Красильниковой*
 
-*\*
+![](_assets/73/7381083068dae227394f689a13a4f1a5.webp)
 
-*\*
+![](_assets/0e/0e2e15bd376afb487c9872e0b4ae9503.webp)
 
-*\*
+![](_assets/6e/6ea1d004e109b96abe9ae5d6430044e9.webp)
 
-*\*
+![](_assets/c5/c5289b59424d8946b03d660278ec8812.webp)
 
-*\*
+![](_assets/ab/ab96b0d242b5854d0b446539fcd3d00c.webp)
 
-*\*
+![](_assets/f3/f399837c01afb5dc54a16ee15d722a55.webp)
 
-*\*
+![](_assets/49/4940b4c2adad823c2bd1d7add44d1e14.webp)
 
-*\*
+![](_assets/7e/7ed9d7a20478fa6f7cd03125c8ab34c7.webp)
 
-*\*
+![](_assets/92/922da6369d951e67dbc7b0009936efe0.webp)
 
-*\*
+![](_assets/60/60657cb3874c03fc67ba08302f6bf8ad.webp)
 
-*\*
+![](_assets/8b/8b69658f1484c895fd375caf9981825f.webp)
 
-*\*
+![](_assets/45/4572d4159a26ebd1f0ea093afff76593.webp)
 
 > **ОТ РЕДАКЦИИ**
 >

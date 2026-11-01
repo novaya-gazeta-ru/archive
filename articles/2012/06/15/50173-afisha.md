@@ -10,6 +10,12 @@ tags: ""
 ---
 
 # Афиша
+![](_assets/4c/4c5014be9be4a80f1db6e959f440b2aa.webp)
+
+![](_assets/15/151c699372d91adef339ef8c29a1694f.webp)
+
+![](_assets/87/876a42ce768d1a7563b9bc600b8c91ae.webp)
+
 
 15 июня
 

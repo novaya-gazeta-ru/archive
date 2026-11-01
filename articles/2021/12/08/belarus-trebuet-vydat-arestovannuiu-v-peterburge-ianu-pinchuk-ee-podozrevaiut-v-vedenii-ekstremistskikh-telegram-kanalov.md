@@ -13,6 +13,8 @@ tags: "экстрадиция, беларусь, петербург, пинчу�
 
 Следственный комитет Беларуси сообщил о задержании в Санкт-Петербурге 24-летней девушки из Витебска по подозрению в администрировании трех белорусских телеграм-каналов, признанных экстремистскими. Об этом [сообщается](https://sk.gov.by/ru/news-usk-vitebsk-ru/view/administrator-trex-ekstremistskix-telegram-kanalov-zaderzhana-v-sankt-peterburge-10683/) на официальном сайте СК РБ.
 
+![](_assets/30/3094e5265d073b34bbc9aef758113dff.webp)
+
 *Яна Пинчук. Фото из соцсетей*
 
 Яну Пинчук [задержали](https://novayagazeta.ru/articles/2021/11/03/v-peterburge-otpravili-v-sizo-grazhdanku-belarusi-ianu-pinchuk-na-rodine-ee-obviniaiut-po-statiam-ob-ekstremizme-i-razzhiganii-vrazhdy-news) еще 1 ноября, но СК сообщил об этом только сейчас. Ее арестовали до 10 декабря, а Беларусь направила документы на экстрадицию подозреваемой.

@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *Extreme survival camp — Subway repressions — Baba Shura*
 
+![](_assets/9e/9e5709a9ad2b98cb754a2c28f1207701.webp)
+
 *Photo: Vadim Savitsky / TASS*
 
 # **Here what’s in store for you this week:** - Russia’s military spending is 4th largest in the world, but the soldiers are sent to Siberia to learn survival skills from an ultra-conservative and isolated Orthdox communities; - In another wave of political persecutions, mass firings at Moscow subway target exclusively Navalny supporters; - Plus, we tell a story of a Russian woman that encapsulates sheer government disregard of elderly in the country. **Want to get the full story? Click the links below for full-length articles in Russian.**
@@ -24,6 +26,8 @@ tags: "russia; explained"
 **AT ONE WITH THE NATURAL HABITAT.** Fundamentalist Old Believer communities understand the forests, rivers, and lakes and the various complexities of navigating life alone in the wilderness. "They are fully aware of how to behave, treading the border of life and death and how to emerge victorious every time," writes Tarasov. They refuse pensions, maternity payments, and all state benefits. Trails are barely visible, some roads are seasonal, and many only historically survived through skillfully hiding. They have learned to cope with natural hazards, such as bears, ticks, and ice floes.
 
 **'RUSSIAN SHAOLIN' LOOKS MORE LIKE AN EXPLOITATION OF A PERSECUTED MINORITY.** The defense ministry television channel, Zvezda, recently aired a new report on how the special forces have been training for survival in chest-deep snow drifts around Tuva, southern Siberia, close to the Mongolian border. Shoigu says of the Old Believers: "They are very experienced in life, resourceful. They can fell \[trees\] for a house, a banya … and travel by horse." However, the report neglected to show any of the Old Believers themselves. But Novaya's Tarasov managed to speak with them when he visited, recognizing their unwillingness to discuss any new cooperation with the ministry of defense. Here's a small excerpt from one of those conversations:
+
+![](_assets/a5/a562795b13d75382fba249918c93b026.webp)
 
 *Photo: Artem Geodakyan / TASS*
 
@@ -40,6 +44,8 @@ The Moscow Metro, the fifth-largest subway system in the world, is hit with wide
 **LAYOFFS LINKED TO POLITICAL ACTIVITY.** The 150 employees are thought to have been laid off after they (or their relatives, in some cases) registered for pro-Navalny solidarity protests. Deputy head of the union, Vasily Shelyakov, alleged that workers were given the choice of either resigning or being fired for absenteeism.
 
 **FIRED AT SPOT**. One such case was escalator attendant Evgeny Zhdanovich. On the morning of April 23, he was asked to visit the personnel department at Krasnoselskaya. "They gave him papers to sign," writes Kozlova. It did not seem too strange as he had been expecting a payroll transfer. "When Zhdanovich began to sign the documents, he realized that he had received a notice of employment contract termination as agreed by both parties. "You are free," they told him. The mutual agreement would mean that workers were not eligible for severance benefits. In informal conversations, managers told employees they were being fired because they registered their intent to attend future pro-Navalny rallies or had done so in the past. But how would the authorities know all the names in advance?
+
+![](_assets/83/83b2200d08d97c7cc5f967e1f6614620.webp)
 
 *Photo: RIA Novosti*
 
@@ -60,6 +66,8 @@ This story touched and enraged a lot of our readers last week. We profiled an 84
 **LIVING IN EXTREME POVERTY IN THE CITY BLOATED WITH ULTRA-RICH.** Born in 1937 and living through the war, Baba Shura later found work in a factory. However, one day, a beam fell on her, breaking her collarbone. It wasn’t recorded as a work injury, and in 1975 she was provided with a Moscow apartment and asked to resign, having a daughter by a man who beat her and then left. She worked in low-paying jobs, and in 2009, her daughter fell sick. 10 years later, she died. She couldn’t even afford a proper funeral. Meanwhile, her own city grew to house the 25th-largest urban population of billionaires in the world. Kovaleva’s story resonated with so many Russians because it marks growing public frustration with [widening income inequality](https://novayagazeta.ru/articles/2020/02/26/84076-russia-explained-23-by-novaya-gazeta) in the country, which worsened during the pandemic.
 
 > Baba Shura has “lost her reaction times, intelligence, and mobility. She also lost her family. She clings to her two-room apartment not as a living space, but as the last island of life that is given to her,” our reporter Nataliya Chernova writes.
+
+![](_assets/44/441412d0025a2c73bbbdff0ab0ec22e5.webp)
 
 *Alexandra Kovaleva. Photo: Svetlana Vidanova / "Novaya Gazeta"*
 

@@ -10,6 +10,64 @@ tags: "память, реакция, интернет, подборка, мем�
 ---
 
 # 212 — 282. Главные мемы уходящего года
+![](_assets/39/39d0726affac6f8f62370089a6822e31.webp)
+
+![](_assets/bb/bbd165f2cb2cccd1c69e6d7e90ea9a73.webp)
+
+![](_assets/b2/b22247575fcc7825d9b50d2baefdc940.webp)
+
+![](_assets/df/df0b235bd668f0e6e50b5cad04fe2c90.webp)
+
+![](_assets/fa/fa6b2f463c9dbb24ed2d99ffcfaf9e88.webp)
+
+![](_assets/25/2508b0b62463e1858956ba72b99f39af.webp)
+
+![](_assets/25/254aecb7da20b6f85f387f2219d55411.webp)
+
+![](_assets/16/16e3fb6b36532a29fa36ae3e2cbf8501.webp)
+
+![](_assets/49/49ed2e6930fc573e2697c7c830e3e057.webp)
+
+![](_assets/8f/8f3be10d5932dbb7697db49fe4615808.webp)
+
+![](_assets/52/524dd17015a953f2dba12ef8f0259414.webp)
+
+![](_assets/7f/7fd4f8831179d10bf7cf80a18340c831.webp)
+
+![](_assets/a3/a334403c86085a9c8132d027d694619d.webp)
+
+![](_assets/24/24d6c653f848225ff92463a5a3428ae4.webp)
+
+![](_assets/f2/f260fa80b8b919596306a300f6dc478e.webp)
+
+![](_assets/c3/c39e11015662a6a0f1f4487a170d4e6c.webp)
+
+![](_assets/19/19f55978be086bf7db0eda259940b01e.webp)
+
+![](_assets/32/32d55fe73dd7cfe6b8c6633376dfa51e.webp)
+
+![](_assets/e7/e757533c6405f51965535e67fecf213b.webp)
+
+![](_assets/4e/4ef5a0ccd9c3e2a5a78feed9dde5b071.webp)
+
+![](_assets/f2/f266f67644851edabe8c6402561af74e.webp)
+
+![](_assets/a6/a67eacb1889b666b3c517d0132695416.webp)
+
+![](_assets/4a/4aa10897e272f8c1c10d77eaf064d883.webp)
+
+![](_assets/c3/c329773a1e05852726d34800ecf5200e.webp)
+
+![](_assets/66/66675eedc04ff8c291038bcc69626ea5.webp)
+
+![](_assets/69/69132c605ab3508c651fdfd7557de8c9.webp)
+
+![](_assets/2d/2d4c23a995b24ad004f3030c1752cd44.webp)
+
+![](_assets/94/94f76d12fca385269f4f5b278bc07351.webp)
+
+![](_assets/7c/7cdeb7037eb4c59eeaf62386cf429541.webp)
+
 
 *За некоторые из них можно даже и присесть*
 
@@ -28,15 +86,21 @@ tags: "память, реакция, интернет, подборка, мем�
 
 # 213. Ремонтные работы на Лубянке
 
-*Фото: Светлана Виданова, специально для «Новой газеты»*
+![](_assets/02/02b7fe4769701f615928bfcdb2ad708f.webp)
+
+*Фото: Светлана Виданова, специально для «Новой газеты»*
 
 # 214. [Валерий Пшеничный](https://www.novayagazeta.ru/articles/2018/05/17/76499-klaus-pokazal-klass)
 
 # 215. [Овечки у «Новой газеты»](https://www.novayagazeta.ru/news/2018/10/29/146352-ovets-ostavlennyh-u-redaktsii-novoy-gazety-otpravili-v-podmoskovnyy-priyut-foto)
 
-*Фото: Виктория Одиссонова / «Новая газета»*
+![](_assets/3d/3dea7acc2a1ec3b85d93f6d1790210bb.webp)
+
+*Фото: Виктория Одиссонова / «Новая газета»*
 
 # 216. [Город мусорной славы](https://www.novayagazeta.ru/articles/2018/03/22/75905-volokolamskoe-poboische)
+
+![](_assets/17/17efc75d771dff379dbd01086231a006.webp)
 
 *Фото: РИА Новости*
 
@@ -44,9 +108,13 @@ tags: "память, реакция, интернет, подборка, мем�
 
 # 218. [30+20 суток](https://www.novayagazeta.ru/articles/2018/09/26/77958-navalnogo-snova-prigovorili-k-arestu)
 
+![](_assets/13/1374ae309aec69486198993e6853ba15.webp)
+
 *Фото: Павел Головкин / AP / ТАСС*
 
 # 219. Грудинин сбрил усы
+
+![](_assets/e3/e3fdb118c244e121abc6bcefd2a08a48.webp)
 
 *Фото: РИА Новости*
 
@@ -58,7 +126,9 @@ tags: "память, реакция, интернет, подборка, мем�
 
 # 223. [Первая леди «Новой газеты»](https://www.novayagazeta.ru/articles/2018/11/21/78661-pamyati-zoi-eroshok)
 
-*Зоя Ерошок. Фото: Анна Артемьева / «Новая»*
+![](_assets/6d/6d720781b6ebe7fbfe15d036f467dd60.webp)
+
+*Зоя Ерошок. Фото: Анна Артемьева / «Новая»*
 
 # 224. [Три билборда](https://www.novayagazeta.ru/articles/2018/03/07/75732-tri-bilborda-i-nadolby)
 
@@ -68,21 +138,29 @@ tags: "память, реакция, интернет, подборка, мем�
 
 # 227. [Адвокат Беньяш](https://www.novayagazeta.ru/articles/2018/11/28/78737-rossiya-protiv-advokatov)
 
+![](_assets/ea/ea06dfb754a3c2ac25b79dd0ced085e8.webp)
+
 *Фото: Алина Десятниченко / Специально для «Новой»*
 
 # 228. [Болельщики в кокошниках](https://www.novayagazeta.ru/articles/2018/07/03/77031-russiya-vanderful)
 
 # 229. [Шестун](https://www.novayagazeta.ru/articles/2018/07/26/77288-sudy-miniruyut-serpuhovskoy-rayon)
 
+![](_assets/37/379c45af620eee5551d12c821b7ba4f0.webp)
+
 *Глава Серпуховского района Московской области Александр Шестун. Фото: Михаил Почуев / ТАСС*
 
 # 230. [Игорь Сечин против независимых заправок](https://www.novayagazeta.ru/articles/2018/11/20/78644-pyataya-kolonka)
+
+![](_assets/7e/7e0c5c8d36d619d30300c45aaf01ee4a.webp)
 
 *Фото: РИА Новости*
 
 # 231. [«Ни о чем разговор, братан»](https://www.novayagazeta.ru/articles/2018/12/06/78834-repery-proporhali-nad-dumoy)
 
-*Фото: Сергей Киселев / Агентство «Москва»*
+![](_assets/41/4139c299f94ee7bf1eb30a62c38d7b10.webp)
+
+*Фото: Сергей Киселев / Агентство «Москва»*
 
 # 232. [Блогер Вольнов](https://www.novayagazeta.ru/articles/2018/03/29/75994-chto-izvestno-o-prankere-razygravshem-kemerovskie-morgi)
 
@@ -100,17 +178,23 @@ tags: "память, реакция, интернет, подборка, мем�
 
 # 239. Национальные языки
 
+![](_assets/46/46fa3b46adc763bc918a872be8c62f80.webp)
+
 *Фото: РИА Новости*
 
 # 240. Костин в костюме джедая
 
 # 241. [Штраф за борщевик](https://www.novayagazeta.ru/articles/2018/09/05/77709-borschevik-nastupaet-i-ne-sdaetsya)
 
+![](_assets/e5/e50ae44ad306ef28ec66216ff162c23f.webp)
+
 *Фото: РИА Новости*
 
 # 242. [Бразильский болельщик в Москве](https://www.novayagazeta.ru/articles/2018/07/17/77199-devyat-chelovek-kotoryh-potryasli-eti-dni)
 
 # 243. [Очередь за новым айфоном](https://www.novayagazeta.ru/articles/2018/09/13/77817-nostalgiya-po-apple)
+
+![](_assets/64/64512def755e9138adaa99c3133323ab.webp)
 
 *Фото: РИА Новости*
 
@@ -124,6 +208,8 @@ tags: "память, реакция, интернет, подборка, мем�
 
 # 248. «Кто такие журналисты? Это слуги»
 
+![](_assets/c3/c3999791ab6fb87c5d39badac9ed0fed.webp)
+
 *Депутат Фатих Сибагатуллин.*
 
 # 249. Полуголый Дуров
@@ -134,9 +220,13 @@ tags: "память, реакция, интернет, подборка, мем�
 
 # 252. [#ЭтоНеПоводУбить](https://www.novayagazeta.ru/articles/2018/01/25/75269-etonepovodubit)
 
+![](_assets/5d/5d553b91b7cbeaba5797441e677db256.webp)
+
 *Татьяна Страхова.*
 
 # 253. [Дедолларизация](https://www.novayagazeta.ru/articles/2018/10/11/78164-rubl-dollar-ne-zamenit)
+
+![](_assets/b2/b225c1f926ae4d6184456e5dbfea5512.webp)
 
 *Фото: Кирилл Кухмарь / ТАСС*
 
@@ -146,33 +236,47 @@ tags: "память, реакция, интернет, подборка, мем�
 
 # 256. [«Ты превзошла Анну Чапман»](https://www.novayagazeta.ru/articles/2018/12/15/78945-gotova-k-novym-zadaniyam)
 
-*Мария Бутина. Фото: [Zuma](https://www.tassphoto.com/ru/asset/link/14/30529509/page/1/value/Zuma%255CTASS/isMultivalued/1) / ТАСС*
+![](_assets/da/da4a24e70b6dbe5d851a6ef53275c244.webp)
+
+*Мария Бутина. Фото: [Zuma](https://www.tassphoto.com/ru/asset/link/14/30529509/page/1/value/Zuma%255CTASS/isMultivalued/1) / ТАСС*
 
 # 257. [Марш матерей](https://www.novayagazeta.ru/articles/2018/08/16/77509-materinskiy-kapital)
 
 # 258. «Боль и последствия»
 
+![](_assets/80/80b52ef42dafc3f63ce2ea736e361ec1.webp)
+
 *Фото: EPA*
 
 # 259. [Бутик в «расстрельном доме»](https://www.novayagazeta.ru/articles/2018/08/18/77535-foto-dnya)
 
-*Фото: Рита Рогова, специально для «Новой»*
+![](_assets/b6/b6a827123ce71adb59c008378678a6fb.webp)
+
+*Фото: Рита Рогова, специально для «Новой»*
 
 # 260. «Это голубь?»
 
 # 261. [Людмила Алексеева](https://www.novayagazeta.ru/articles/2018/12/09/78874-lyudmila-alekseeva-i-kardinal-rishelie)
 
-*Фото: Анна Артемьева / «Новая»*
+![](_assets/46/461e93f576857af7e7995c2191d96c4d.webp)
+
+*Фото: Анна Артемьева / «Новая»*
 
 # 262. [Спасение Дерипаски](https://www.novayagazeta.ru/articles/2018/12/22/79025-operatsiya-reabilitatsiya)
+
+![](_assets/9f/9f8ba91fa1fbe7e4098aaf7f5a5d2d0f.webp)
 
 *Фото: Михаил Метцель / ТАСС*
 
 # 263. Новый плацкарт от РЖД
 
+![](_assets/60/603f01e8bc86d742288361edcc1e015b.webp)
+
 *Фото: РИА Новости*
 
 # 264. [VPN](https://www.novayagazeta.ru/articles/2018/11/24/78686-tovarisch-mayor-oboydet-vpn)
+
+![](_assets/78/782a50831cf32c0104ed6a867480378b.webp)
 
 *Фото: Михаил Терещенко / ТАСС*
 
@@ -180,7 +284,9 @@ tags: "память, реакция, интернет, подборка, мем�
 
 # 266. [Улица Никольская](https://www.novayagazeta.ru/articles/2018/10/01/78016-posadite-menya-za-memy)
 
-*Фото: Виктория Одиссонова / «Новая»*
+![](_assets/f9/f9916c39a7805cf4a9ff36a7bbbe01a2.webp)
+
+*Фото: Виктория Одиссонова / «Новая»*
 
 # 267. [Кашин на «России-1»](https://www.novayagazeta.ru/articles/2018/12/17/78965-pochemu-vsyakiy-povod-kotoryy-dolzhen-nas-konsolidirovat-tolko-razobschaet)
 
@@ -192,23 +298,33 @@ tags: "память, реакция, интернет, подборка, мем�
 
 # 271. Жены футболистов
 
+![](_assets/59/5918ad8a5088f80eb8af3bda666acb97.webp)
+
 *Фото: Instagram*
 
 # 272. [«Театральное дело»](https://www.novayagazeta.ru/articles/2018/12/12/78906-o-reforme-rechi)
 
-*Фото: Виктория Одиссонова / «Новая»*
+![](_assets/d4/d40555c424a977697b619395c705d92c.webp)
+
+*Фото: Виктория Одиссонова / «Новая»*
 
 # 273. [Футболисты — ЗМС](https://www.novayagazeta.ru/articles/2018/07/31/77350-za-chto-im-perepalo)
+
+![](_assets/ae/aea4e34969e707bf4f6afaa9b696103a.webp)
 
 *Фото: РИА Новости*
 
 # 274. Собянин и Голикова
 
-*Оригинальное фото: Дмитрий Азаров / «Коммерсант»*
+![](_assets/b7/b7ad0774690a19a72c015f40c9c7b614.webp)
+
+*Оригинальное фото: Дмитрий Азаров / «Коммерсант»*
 
 # 275. [Шанинка и Юдин](https://www.novayagazeta.ru/articles/2018/12/18/78978-strana-raspavshayasya-na-atomy)
 
-*Фото: Влад Докшин / «Новая»*
+![](_assets/55/55f1b505956e0084ee336ae0717ee680.webp)
+
+*Фото: Влад Докшин / «Новая»*
 
 # 276. [Угаров и Гремина](https://www.novayagazeta.ru/articles/2018/12/23/79037-god-smertey-sudov-premier)
 
@@ -216,7 +332,9 @@ tags: "память, реакция, интернет, подборка, мем�
 
 # 278. [Анин сад](https://www.novayagazeta.ru/articles/2018/07/14/77165-zhivaya-pamyat)
 
-*Фото: Влад Докшин / «Новая»*
+![](_assets/92/9214f008920c36178cf15d0bfe3ac793.webp)
+
+*Фото: Влад Докшин / «Новая»*
 
 # 279. Путин на отдыхе / Red Dead Redemption 2
 

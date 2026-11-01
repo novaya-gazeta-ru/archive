@@ -10,6 +10,8 @@ tags: ""
 ---
 
 # Свитки из пепла
+![](_assets/57/57b0fbb667a74cfb3580ffebd9b0c370.webp)
+
 
 *Что открылось в рукописи Марселя Наджари, члена еврейской «зондеркоммандо» из Аушвица-Биркенау*
 
@@ -88,6 +90,8 @@ tags: ""
 # Марсель Наджари. Письмо Димитросу Стефанидису, Илиасу Коэну и Георгиосу Гунарису
 
 > Bitte diesen Brief senden an [dem nächsten] Griechischen Konsulat. Womöglich nächsten4 […] Bardzo prosze5 […] Konsulat Grecki6 […] ma grecque7 […] ces quelques mots8 […] mort9 […] le permettre ne plus ainsi que10 Consulat de la Grèce11 […] aux lectures12 Dimitrios A. Stefanides Rue Kroussovo No 4 Thessaloniki GRECE13
+
+![](_assets/2a/2ae2d5e5a7d353e2a6d0727e6320d1ef.webp)
 
 *Марсель Наджари*
 

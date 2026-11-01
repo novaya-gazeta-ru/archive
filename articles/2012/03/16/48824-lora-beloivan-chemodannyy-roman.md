@@ -10,6 +10,10 @@ tags: ""
 ---
 
 # Лора БЕЛОИВАН. Чемоданный роман
+![](_assets/a6/a60bbadbc88d0b22f2ff859a0f71c84d.webp)
+
+![](_assets/dc/dcb5ba58fa677180478b8b187753b71d.webp)
+
 
 *Отрывок*
 

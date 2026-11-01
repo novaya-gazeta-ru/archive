@@ -10,6 +10,16 @@ tags: "футбол"
 ---
 
 # Короли финта
+![](_assets/e1/e17008a23d692ea707de6651a1c50b86.webp)
+
+*Гарринча Фото: ASSOCIATED PRESS/FOTOLINK*
+
+![](_assets/0e/0e606fbfa8be875830c7b1f90fb595ba.webp)
+
+*Пеле Фото: ASSOCIATED PRESS / ТАСС*
+
+![](_assets/29/2942c0a2dfe06ed4b68ea3372cd32804.webp)
+
 
 *Почему современные игроки остаются всего лишь стандартными вещами для игры в футбол*
 

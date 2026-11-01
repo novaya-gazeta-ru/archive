@@ -17,7 +17,11 @@ tags: "нато, гарантии, безопасность, россия, сш�
 
 К 18:08 мск курс евро [поднялся](https://www.moex.com/ru/issue/EUR_RUB__TOM/CETS) до 87 рублей. Курс доллара [превысил](https://ru.investing.com/currencies/usd-rub) 76 рублей.
 
+![](_assets/c0/c0c4009c9db67374c243d72a34624dcf.webp)
+
 *Индекс Мосбиржи*
+
+![](_assets/7e/7e02b68ffae880e8d126a6e6bc65008a.webp)
 
 *Индекс Мосбиржи*
 

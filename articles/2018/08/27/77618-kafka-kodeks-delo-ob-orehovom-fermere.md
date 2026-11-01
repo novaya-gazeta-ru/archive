@@ -10,8 +10,34 @@ tags: "земля, россия, фермеры, судьи, суды, кафк�
 ---
 
 # «Кафка-кодекс»: Дело об ореховом фермере
+![](_assets/f3/f3b77cdeb3bbebd3ee2635ae421eae5a.webp)
+
+![](_assets/66/668e7a6720f6fc2ad5c0c23d3eb64bd7.webp)
+
+![](_assets/e5/e514cb96a2057e145e7cbf160459fcfd.webp)
+
+![](_assets/ad/ad6a267ed256cfd74d5673016fce09a7.webp)
+
+![](_assets/99/99a7061b985258e7b8f47714b97c69b3.webp)
+
+![](_assets/ce/cee5bea387cf686f774a79c0ce4bdaa8.webp)
+
+![](_assets/c8/c8a66f292a1cbd522b304a1f3f529929.webp)
+
+![](_assets/5b/5bd0bc2fcb8620e08c65ad8940593810.webp)
+
+![](_assets/e6/e6c7436c5fe3f736b2e6435e84836f45.webp)
+
+![](_assets/c1/c196a9a9b794abc86e53f8e44f8510da.webp)
+
+![](_assets/0c/0c1add0c638a7359b5935711df804b3e.webp)
+
+![](_assets/7b/7b32b21fe57f4169c744d319d6075d14.webp)
+
 
 *Реальные судебные истории — в комиксах. Новый выпуск*
+
+![](_assets/2c/2cec9d2ea852697d67eb3604a06c1b2f.webp)
 
 *Комикс: Дарья Петушок, специально для «Новой»*
 

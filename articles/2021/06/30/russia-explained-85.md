@@ -40,6 +40,8 @@ On September 19, Russia is set to vote for its Duma members — the nation's low
 
 **Read Martynov’s full breakdown of the Kremlin fixing upcoming election **[**here**](«https://novayagazeta.ru/articles/2021/06/26/vybory-zakonchilis»)**.**
 
+![](_assets/5c/5cf766ab648b833187c6b405fc51e1b6.webp)
+
 *Photo: Anna Mayorova / URA.RU / TASS*
 
 # The Decay of Russia’s Space Agency, Explained
@@ -55,6 +57,8 @@ Russia’s international isolation might be growing, but the country’s legenda
 **‘CHALLENGE’ OR SCIENCE, PR OR SPACESHIPS — TIME TO DECIDE.’ **Other prominent Russian astronauts point to Roscosmos’ increasingly erratic project management. A new ISS module will be launched to the station that gets decommissioned in a few years. Deadlines constantly change, strategic partnerships are replaced by geopolitical interests.
 
 *Russian cosmonaut Fedor Yurchikhin tells Novaya that “it is necessary to create, test and launch new ships, launch vehicles, and not explain why we are changing their names and constantly shifting the dates.”*
+
+![](_assets/02/025cc75ed1eddbc36348060ed54154af.webp)
 
 *Sergey Krikalev. Photo: Artem Geodakyan / TASS*
 

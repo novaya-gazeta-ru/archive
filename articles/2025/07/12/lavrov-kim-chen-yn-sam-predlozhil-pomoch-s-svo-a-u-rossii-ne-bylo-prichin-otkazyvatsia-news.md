@@ -11,6 +11,8 @@ tags: ""
 
 # Лавров: Ким Чен Ын сам предложил помочь с СВО, а у России «не было причин отказываться»
 
+![](_assets/7f/7fbac27c4d8c6cccc5c10474923a6022.webp)
+
 *Ким Чен Ын встречает Сергея Лаврова на северокорейском курорте Вонсан. Фото: пресс-служба МИД РФ*
 
 На обратном пути из Малайзии, где он принял участие в саммите стран ASEAN, а также лично [переговорил с госсекретарем США Рубио](https://novayagazeta.ru/articles/2025/07/11/lavrov-ne-raskryl-detalei-razgovora-s-rubio-no-soobshchil-peredal-gossekretariu-vyzhimki-iz-vyskazyvanii-rukovoditelei-ukrainy-pro-rusniu-news), глава МИД Сергей Лавров залетел в КНДР. Там, [на только что открытом курорте](https://novayagazeta.ru/articles/2025/06/26/kim-chen-yn-otkryl-na-poberezhe-kndr-turisticheskuiu-zonu-kuda-rossiianam-uzhe-prodaiut-bilety-news) Вонсон, он провел встречу с северокорейской коллегой — товарищем Цой Сон Хи, по итогам которой пообщался с журналистами.

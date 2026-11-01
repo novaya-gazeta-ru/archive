@@ -13,6 +13,8 @@ tags: "полиция, насилие, суды, уголовное дело"
 
 *80% дел о полицейском насилии не доходят до суда. Исследование «Новой»*
 
+![](_assets/75/75c4ee4167ce8b329581caea7d6c462d.webp)
+
 *Фото: Сергей Бобылев/ТАСС*
 
 4 июня в Новосибирске по личному поручению главы СК Александра Бастрыкина из-под стражи [отпустили](https://novayagazeta.ru/articles/2021/06/04/novosibirskogo-politseiskogo-kotoryi-pri-zaderzhanii-vystrelil-v-golovu-cheloveku-otpustili-iz-pod-strazhi-po-porucheniiu-glavy-sk) сотрудника ДПС, который при задержании выстрелил в голову 19-летнему Векилу Абдуллаеву. Абдуллаев умер в больнице, а на двух его попутчиков [возбудили](https://novayagazeta.ru/articles/2021/06/05/sud-v-novosibirske-otpravil-v-sizo-poputchika-vekila-abdullaeva-zastrelennogo-sotrudnikom-dps) уголовное дело и отправили в СИЗО.

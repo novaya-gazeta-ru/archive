@@ -13,7 +13,7 @@ tags: "дождь, эхо москвы, цензура, блокировка, в
 
 *Заявление редакции*
 
-*\*
+![](_assets/c6/c6ca37feaba1598e9ecfea4a52caeb59.webp)
 
 Мы считаем [глушение «Эха Москвы» и «Дождя»](https://novayagazeta.ru/articles/2022/03/01/genprokuratura-potrebovala-ogranichit-dostup-k-saitam-ekha-moskvy-i-telekanala-dozhd-news)* грубым вмешательством в деятельность средств массовой информации.
 

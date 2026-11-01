@@ -10,6 +10,10 @@ tags: ""
 ---
 
 # Дао Довлатова
+![](_assets/7a/7a1bb117da9accb02f1e27f2fe870054.webp)
+
+![](_assets/65/6549e055a1f1545adeb0bb609a786a6c.webp)
+
 
 *На карте Нью-Йорка появилась Sergei Dovlatov Way*
 

@@ -13,6 +13,8 @@ tags: "казастан, протесты в казахстане, назарб�
 
 Главнокомандующий Национальной гвардией Казахстана Руслан Жаксылыков отстранен от прежней должности и переведен на пост министра обороны Республики. Соответствующее распоряжение [опубликовано](https://akorda.kz/ru/rasporyazheniem-glavy-gosudarstva-abish-samat-satybaldyuly-osvobozhden-ot-dolzhnosti-pervogo-zamestitelya-predsedatelya-komiteta-nacionalnoy-bezopasnosti-respubliki-kazahstan-1701527) на официальном сайте президента Касым-Жомарта Токаева.
 
+![](_assets/ce/ce6bffe9d0e10eb1c5d9b259debcf91c.webp)
+
 *Руслан Жаксылыков. Скриншот YouTube*
 
 Другим [указом](https://www.akorda.kz/ru/ukazom-glavy-gosudarstva-bektanov-murat-karibaevich-osvobozhden-ot-dolzhnosti-ministra-oborony-respubliki-kazahstan-190215) президента должность министра обороны покинул Мурат Бектанов, а новой главой нацгвардии [назначен](https://www.akorda.kz/ru/rasporyazheniem-glavy-gosudarstva-botakanov-erkin-sovetbekovich-naznachen-zamestitelem-ministra-vnutrennih-del-respubliki-kazahstan-glavnokomanduyushchim-nacionalnoy-gvardiey-190443) Еркин Ботаканов. Последний до настоящего момента занимал пост первого заместителя главнокомандующего.

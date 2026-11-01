@@ -15,7 +15,9 @@ tags: ""
 
 - *Рубрика: Кожа времени. Читать все материалы*
 
-*Петр Саруханов / «Новая газета». [Перейти на сайт художника](http://www.sarukhanov.info/index.php?id=48&lang=rus)*
+![](_assets/0a/0a4309be72ba32fc3a9e47471a836bcf.webp)
+
+*Петр Саруханов / «Новая газета». [Перейти на сайт художника](http://www.sarukhanov.info/index.php?id=48&lang=rus)*
 
 # 1
 

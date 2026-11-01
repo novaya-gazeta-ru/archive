@@ -11,7 +11,7 @@ tags: "радио свобода, трамп, закрытие, суды"
 
 # Суд в США временно запретил отказ в финансировании «Радио Свобода»*
 
-*\*
+![](_assets/8c/8ca718099a88880607b1b34481f8ad0c.webp)
 
 Суд в США ввел временный запрет на отказ в финансировании «Радио Свобода», [пишет](https://www.politico.com/news/2025/03/25/judge-blocks-funding-freeze-radio-free-europe-00249483) Politico. Судья посчитал, что медиакорпорации в своих доводах удалось показать «высокий шанс на победу» в [судебном процессе](https://novayagazeta.ru/articles/2025/03/20/radio-svoboda-podalo-v-sud-na-administratsiiu-trampa-posle-ego-ukaza-nemedlenno-prekratit-finansirovanie-kholdinga-news) против Агентства по глобальным медиа (USAGM) а прекращение финансирования прямо сейчас может нанести ей «непоправимый вред».
 

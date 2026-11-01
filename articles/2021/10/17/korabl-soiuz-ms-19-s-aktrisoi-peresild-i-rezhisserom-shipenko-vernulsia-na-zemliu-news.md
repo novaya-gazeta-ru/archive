@@ -13,6 +13,8 @@ tags: "роскосмос, вызов, пересильд, шипенко, мк�
 
 Корабль «Союз МС-18» с режиссером Климом Шипенко, актрисой Юлией Пересильд и космонавтом Олегом Новицким вернулся с МКС на Землю. Об этом [сообщает](https://twitter.com/roscosmos/status/1449602383156232193?s=20) «Роскосмос».
 
+![](_assets/89/892563f4862cb6fb81d76feccda69394.webp)
+
 *Юлия Пересильд. Фото: Сергей Савостьянов / ТАСС*
 
 Корабль [отстыковался](https://www.bbc.com/russian/news-58944728?xtor=AL-73-[partner]-[bbc.news.twitter]-[headline]-[russian]-[bizdev]-[isapi]&amp;at_custom1=link&amp;at_custom3=BBC+News+Russian&amp;at_campaign=64&amp;at_medium=custom7&amp;at_custom4=F5CB9E00-2F19-11EC-8CB2-69AF4744363C&amp;at_custom2=facebook_page) от станции в 04:14 мск и в 7:35 мск приземлился в степи Казахстана в 148 километрах юго-восточнее города Жезказган. Члены «киноэкипажа» сообщили о неплохом самочувствии.

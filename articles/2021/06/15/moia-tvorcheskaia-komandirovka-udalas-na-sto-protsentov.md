@@ -10,6 +10,56 @@ tags: "тюрьма, художник, рисунки"
 ---
 
 # «Моя творческая командировка удалась на сто процентов»
+![](_assets/48/4820056aea6408a0bd9454c65ddc50a5.webp)
+
+![](_assets/eb/eb112d6567dfba8b3d33e9e928741d0b.webp)
+
+![](_assets/a7/a7fd376af69538b325672e2b0d9ee501.webp)
+
+![](_assets/87/8795f02efe1c38a5bc97b041500aea7d.webp)
+
+![](_assets/1d/1dbc2774451b28690a9a0456c13cfc96.webp)
+
+![](_assets/ed/ed5bfe769efbd1a546d9110dbf40eb33.webp)
+
+![](_assets/46/46b21c95d4aad4e94380b84034c0b2d0.webp)
+
+![](_assets/72/7259bb97a660a5ad1ca35281b8aa6876.webp)
+
+![](_assets/3a/3a9dd5f4e1101b296d792cebbc809619.webp)
+
+![](_assets/1d/1dff4b2c1c4d2ae78e73086a35f2177f.webp)
+
+![](_assets/c7/c7fb61f8f322202ff1fff49fd9d55980.webp)
+
+![](_assets/9f/9f3f4b0469e1fc7bfe2c951c84ff61f2.webp)
+
+![](_assets/85/8567a3764f5ae40479f535ed5d025213.webp)
+
+![](_assets/d4/d44ae5a8b3607a0a8e07828c8f500f32.webp)
+
+![](_assets/95/953b8dbc0f56b9f73414959f5c9140b1.webp)
+
+![](_assets/2a/2afe0c6c65c6879b9b21d88801bcaeb4.webp)
+
+![](_assets/59/59d2d5a1745073791de1d6f4b4be081b.webp)
+
+![](_assets/7e/7ed80236d29e4a90d657bc5ee7b2cfa3.webp)
+
+![](_assets/bd/bdcca739586366f1c5b7dd249643008e.webp)
+
+![](_assets/ef/ef06ae185ea3f67a92347eea8096b0e4.webp)
+
+![](_assets/db/dbbe52ddf7d76fc7db9dbca5e00aedb6.webp)
+
+![](_assets/97/9727c0128525c3a2d1773a117234308d.webp)
+
+![](_assets/d6/d692f4a1c931078b5fe5b6ab72ec4239.webp)
+
+![](_assets/80/8077a66353a1caa6646b99c7b7aa329b.webp)
+
+![](_assets/13/13ff298eea42fae9bfa1af6ecdadaed1.webp)
+
 
 *Художник Андрей Митенев превратил свой тюремный срок по «народной» статье в толстую книжку с картинками*
 

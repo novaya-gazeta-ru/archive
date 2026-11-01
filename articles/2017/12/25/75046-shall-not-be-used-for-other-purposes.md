@@ -13,9 +13,13 @@ tags: ""
 
 *Why a request of police captain from Tver was forwarded to Irish Ministry of Justice, but will be considered by the Court of New York*
 
+![](_assets/65/650626b8f723de905a3330e7466bbb2f.webp)
+
 *Illustration by Petr Sarukhanov*
 
 Russian money in Western jurisdictions is becoming а kind of a «toxic» asset. This phenomenon has a political nature and a wide range of consequences. In particular, for the litigations involving Russian citizens who chose to resolve their commercial disputes in London or New York, rather than in Moscow or Tyumen. Russia is now perceived as a source of threat. The less clemency one should expect to get for certain «legal customs», for example for instigating criminal proceedings, as an instrument in commercial dispute. Much less — for attempts to use cross-border authority of law-enforcement bodies for the benefit of one of the sides.
+
+![](_assets/4e/4eeeab221d1bc68cef052a8f57b44a2c.webp)
 
 *Leonid Lebedev. Photo: Alexander Shcherbak / Kommersant*
 
@@ -45,9 +49,13 @@ Several files were attached to the message. It appeared to be correspondence bet
 
 **link:** https://novayagazeta.ru/articles/2017/06/26/72915-produbliruyte-v-dublin
 
+![](_assets/35/355a3f17d2a124ed9280021ace5c80e3.webp)
+
 *Victor Vekselberg. Photo: Sergey Savostjanov / TASS*
 
 While working on the article, I had a meeting with Leonid Lebedev among others. He refused from commenting on the preparation for New York litigation (Andrei Shtorh, spokesman for «Renova» and press-secretary for Vekselberg and Blavatnik also refused to provide any comment). Instead, Lebedev answered the questions about the past. Among other things, about the criminal case of weapons smuggling from Ukraine to belligerent Yugoslavia, where Lebedev found himself a defendant 15 years ago. One of Ukrainian «Lords of War», prior to engaging in delivery of deadly supplies, worked in the company, where the ex-senator owned a minor stake.
+
+![](_assets/2d/2d7743a64bdcc178571f430552fc7495.webp)
 
 *Leonid Blavatnik. Photo: RIA Novosti*
 

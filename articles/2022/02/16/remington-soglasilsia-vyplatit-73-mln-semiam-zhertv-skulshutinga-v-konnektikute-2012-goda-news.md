@@ -13,6 +13,8 @@ tags: "скулшутинг, сша, колумбайн, расстрел, ре�
 
 Американская обанкротившаяся компания по производству оружия Remington, которая выпустила винтовку, использованную во время массового убийства в начальной школе Сэнди-Хук (Коннектикут, США), выплатит 73 миллиона долларов семьям погибших. Об этом [сообщает](https://edition.cnn.com/2022/02/15/us/sandy-hook-shooting-settlement-with-remington/index.html?utm_term=1644945007872afb99549eb6a&utm_source=cnn_Breaking+News&utm_medium=email&bt_ee=%2BF2vxnmyDp7E8bWvRFNzLlYFiW%2Fyez%2BWKP6aB%2BSaF%2Fw4Ur8FSVKBKe101tODBafH&bt_ts=1644945007874) CNN.
 
+![](_assets/5a/5a92209fef068a8ce29685436bc800c3.webp)
+
 *Полиция возле школы Сэнди-Хук. Фото: Creative Commons*
 
 Remington, четыре ее страховщика и семьи убитых [пришли](https://www.theguardian.com/us-news/2022/feb/15/sandy-hook-families-settlement-gun-manufacturer-remington) к мировому соглашению спустя семь лет после подачи иска. Истцы [утверждали](https://edition.cnn.com/2022/02/15/us/sandy-hook-shooting-settlement-with-remington/index.html?utm_term=1644945007872afb99549eb6a&utm_source=cnn_Breaking+News&utm_medium=email&bt_ee=%2BF2vxnmyDp7E8bWvRFNzLlYFiW%2Fyez%2BWKP6aB%2BSaF%2Fw4Ur8FSVKBKe101tODBafH&bt_ts=1644945007874), что компания должна нести ответственность за подобные трагедии из-за маркетинговой стратегии, призывающей к насилию. Это [первое](https://www.wsj.com/articles/sandy-hook-families-reach-73-million-settlement-with-remington-over-school-shooting-11644941933) подобное решение с 2005 года — тогда был принят федеральный закон, защищающий производителей оружия от ответственности за его незаконное использование.

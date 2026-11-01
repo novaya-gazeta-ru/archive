@@ -13,6 +13,6 @@ tags: "цены, рост цен, продукты, продуктовая ко�
 
 *Что сообщают наши читатели о росте цен этим летом: без комментариев*
 
-*\*
+![](_assets/e8/e8bc0c56e92ac7dc0dde1699d8443d4b.webp)
 
 [Опрос продолжается](https://docs.google.com/forms/d/e/1FAIpQLScQapVe13jst5j0baoVH67kvcH4qkEg8WouqrWf0rqLnx5i4Q/viewform).

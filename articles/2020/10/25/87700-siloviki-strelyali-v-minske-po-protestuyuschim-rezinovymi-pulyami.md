@@ -13,6 +13,8 @@ tags: "полицейский произвол, беларусь, протест
 
 *Фото дня. 18+*
 
+![](_assets/41/41578b63a72e49bea7f4334f2344d9e8.webp)
+
 *Фото: «Новая газета»*
 
 **link:** https://novayagazeta.ru/articles/2020/10/25/87691-narodnyy-ultimatum-online

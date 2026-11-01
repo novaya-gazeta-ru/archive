@@ -10,6 +10,18 @@ tags: ""
 ---
 
 # Музыкальные новости
+![](_assets/a0/a08e33dc845b27e572851f2b1bcd226e.webp)
+
+![](_assets/c4/c48552386f939d4da53a650fbe5f1753.webp)
+
+![](_assets/12/12a9d11a058709ed9b680987de4f3ec1.webp)
+
+![](_assets/82/829828f2705929c26496c74f4fc32eb2.webp)
+
+![](_assets/d0/d096a8faba5b467731a791a016bc8f2b.webp)
+
+![](_assets/6e/6ee5f9b122bf9a0fbb0550ab328b9843.webp)
+
 
 Альбом Боба Дилана станет основой для художественного фильма
 

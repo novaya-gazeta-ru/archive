@@ -27,6 +27,8 @@ tags: ""
 >
 > И все произошедшее в январе 2026 в этом контексте вряд ли может быть квалифицировано как «мелкое хулиганство».
 
+![](_assets/95/95086cac2520ac8ab496f9e6549a558d.webp)
+
 *Фото: Виктория Артемьева / «Новая газета»*
 
 Напомним, мемориальную доску Анны Политковской [разбили днем 18 января](https://novayagazeta.ru/articles/2026/01/18/redaktsiia-novoi-gazety-i-deti-anny-politkovskoi-trebuiut-nakazat-vandalov-razbivshikh-memorialnuiu-dosku-ee-imeni-na-lesnoi-ulitse-news). К вечеру активисты заменили ее на временную с тем же текстом: «В этом доме жила и была злодейски убита 7 октября 2006 года Анна Политковская». Но через несколько часов [сорвали и ее](https://novayagazeta.ru/articles/2026/01/19/vandaly-vo-vtoroi-raz-za-sutki-sbili-pamiatnuiu-dosku-anny-politkovskoi-s-doma-gde-ona-zhila-i-gde-ee-ubili-svoiu-prichastnost-k-vandalizmu-ranee-priznali-neonatsisty-news).

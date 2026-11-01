@@ -19,6 +19,8 @@ tags: "наркотики, журналисты, мвд, полиция, va"
 
 В полиции также сообщили, что после очной ставки с понятыми Голунов прошел медосвидетельствование, однако «сделать срезы ногтевых пластин он [Голунов] отказался». Адвокат журналиста при этом [жаловался](https://www.novayagazeta.ru/news/2019/06/07/152334-v-moskve-zaderzhali-korrespondenta-meduzy-ivana-golunova), что полицейские после задержания не делали смыв с рук, экспертиза по которому бы, по его мнению, показала бы отрицательный результат.
 
+![](_assets/f5/f5e21f02f0a5b7a511bd8d1c906f3a58.webp)
+
 *Обыски в съемной квартире Ивана Голунова. [Фото: пресс-служба ГУ МВД](https://77.мвд.рф/news/item/17178565)*
 
 **link:** https://novayagazeta.ru/articles/2019/06/07/80807-v-moskve-zaderzhali-korrespondenta-otdela-rassledovaniy-meduzy-ivana-golunova-po-delu-o-narkotikah-glavnoe

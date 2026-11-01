@@ -10,30 +10,58 @@ tags: "нефть, ходорковский, юкос, кафка-кодекс, 
 ---
 
 # Нефтяное проклятье
+![](_assets/2f/2f882e512b03b35594f8e308b2584283.webp)
+
+![](_assets/c0/c03947c584707813392d02455a99f9a6.webp)
+
+![](_assets/2c/2c4ebe63de609e8091b859e860d35b20.webp)
+
+![](_assets/1c/1ce0d99279046e8bc2027a555b221a73.webp)
+
+![](_assets/33/33d16e104b709939a7b60f31c2d30e02.webp)
+
+![](_assets/f0/f0c7aad108eec439c765a5d41574e341.webp)
+
+![](_assets/2b/2b485b14c55f15ab5f3306e9db6f1542.webp)
+
+![](_assets/35/358106c3bab6ff044f56c7201a8a057b.webp)
+
+![](_assets/f4/f48f63f56e8a9aaa82c2bdcd6894ee47.webp)
+
+![](_assets/4c/4c7c6710f971f202941f41846e530430.webp)
+
+![](_assets/e5/e5e832612ba212dfc73bcc31f48fd5a5.webp)
+
+![](_assets/96/963e3c0300222e6abc3e3b7baf67075d.webp)
+
+![](_assets/30/30a7e8d446f489ddf327e0fb3174acbd.webp)
+
 
 *«Кафка-Zаговор» и Михаил Ходорковский узнали, что на самом деле привело к кризису на нефтяном рынке. Комикс*
 
-*\*
+![](_assets/d2/d2aed46d55103d97151efee807ad2f05.webp)
 
-*\*
+![](_assets/e1/e107be14c1ba71747b6ed01a06b14804.webp)
 
-*\*
+![](_assets/c1/c1d19600fc4ea372e17fce4b6381c0a7.webp)
 
-*\*
+![](_assets/64/643154893105a58ebadc1e60dc7ebb3d.webp)
 
-*\*
+![](_assets/86/86934af393d8fe756179dade2396ee5f.webp)
 
-*\*
+![](_assets/74/74fde45e1a30730ff2a65cc6cb244eb7.webp)
 
-*\*
+![](_assets/87/8777d4574eef98fdced4493a72d6554a.webp)
 
-*\*
+![](_assets/42/425fba8320abe15882374457151cea74.webp)
 
-*\*
+![](_assets/b7/b73144f573539912e514069cd994cee7.webp)
 
-*\*
+![](_assets/62/624e66b065f85e16af000006ea85fcaf.webp)
 
-*\*
+![](_assets/9b/9ba9a60f1a160749f35135882873f65b.webp)
+
+![](_assets/86/863dfa9bfaf42149de0aef074e1007ea.webp)
 
 *Комикс: Александр Егоров для «Новой газеты»*
 
@@ -77,4 +105,4 @@ tags: "нефть, ходорковский, юкос, кафка-кодекс, 
 >
 > ### [Героическая оборона Мосгордумы: ЦИК и Скрепман побеждают оппозиционную нечисть](https://novayagazeta.ru/articles/2019/11/13/82699-geroicheskaya-oborona-mosgordumy)
 
-*\*
+![](_assets/71/7155253c585c04c81bb18c46b4623bdb.webp)

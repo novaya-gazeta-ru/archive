@@ -10,6 +10,22 @@ tags: ""
 ---
 
 # К барьеру!
+![](_assets/91/91f821ecb52830cf959a272c8d10d85b.webp)
+
+![](_assets/b7/b751bbf4b6dd09f6e715f8e3c9b5f1c7.webp)
+
+![](_assets/df/df2c46f80c2fea8accb5c451da556836.webp)
+
+![](_assets/cc/cca79ff2b7e85448da7b0f965e0b7761.webp)
+
+![](_assets/75/75974ff09ee757fbd9e08d192d12df86.webp)
+
+![](_assets/6c/6c56684d2d1ac84e56967638cfca1849.webp)
+
+![](_assets/29/29c44935ace124b539e40d291e72605b.webp)
+
+![](_assets/68/68b89ffa440ef19118f7ff3000856e97.webp)
+
 
 *3авершился прием подписей для регистрации на выборах в Мосгордуму*
 

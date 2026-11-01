@@ -10,6 +10,14 @@ tags: ""
 ---
 
 # «Они стреляют в нас, мы стреляем в них»
+![](_assets/8d/8ddb0f252057e9c681270131f3e8d1aa.webp)
+
+![](_assets/e2/e2aa29694f4800f86a12ed86b705476e.webp)
+
+![](_assets/38/383d2c1a0e089aeedc86de057f153082.webp)
+
+![](_assets/71/71024023dc6e30d32a631bc7bb3cd6c4.webp)
+
 
 *Урок мира в донецкой школе*
 

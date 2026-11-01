@@ -10,8 +10,30 @@ tags: ""
 ---
 
 # Кенозеро. Острова
+![](_assets/7d/7dd8334dbfd8ace1d9695ed23220999b.webp)
+
+![](_assets/a9/a92f920e8a462c17a6d966c6cd48870c.webp)
+
+![](_assets/1f/1f6b8b84b3f8a24cb9c8913e9ac039d0.webp)
+
+![](_assets/ef/effa69040c2299ef065a0c9de0bec9ed.webp)
+
+![](_assets/2a/2a8d8f6e4242ca9c792d3d814b468a58.webp)
+
+![](_assets/80/80d7428b9c32d07997090f0db17b2fdc.webp)
+
+![](_assets/d4/d46623469b2e21696f8248b029491644.webp)
+
+![](_assets/f2/f2b4ac7e2299330c6660b21a9c0d4545.webp)
+
+![](_assets/c2/c233542107fc9e3a785f08769c06861b.webp)
+
+![](_assets/08/085368e4236f4a64c7c2caf068921b9a.webp)
+
 
 *Как проводят лето люди, которые никогда не ездили в отпуск*
+
+![](_assets/e9/e9142fcefca361a380c0733f0b676a72.webp)
 
 *Слепой Женя и парализованная на одну сторону Таня из Каргопольского дома-интерната, поддерживая друг друга, заходят в Кенозеро*
 

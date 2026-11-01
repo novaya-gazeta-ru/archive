@@ -22,6 +22,8 @@ tags: "newsletter"
 
 **Want to get the full story? Click the links below for full-length articles in Russian.**
 
+![](_assets/70/70bb40754609996d4c63f929678e1564.webp)
+
 *Photo: RIA Novosti*
 
 # **De-Facto Integration of Donbas Statelets, Explained**
@@ -38,6 +40,8 @@ Upcoming parliamentary elections in Russia, scheduled for September, will mark a
 
 **TO CAST A VOTE WILL BE PROBLEMATIC. NO GUARANTEES IT WILL BE COUNTED, EITHER.** From an organizational point of view, voting in Russian elections is quite problematic for the residents of Luhansk and Donetsk statelets. Up until this point, only voted on Russian territory, and the nearest option is the border Rostov region. In ++[last year's constitutional referendum](https://novayagazeta.ru/articles/2020/07/04/86143-russia-explained-extra)++, Russian authorities would provide ++[organized bussing](https://hromadske.ua/ru/posts/kak-zhiteli-nepodkontrolnogo-donbassa-golosuyut-za-popravki-k-konstitucii-rossii)++ for locals willing to vote. Now, it seems that the Russian Federation is planning to open some polling stations in the region and ensure electronic voting is possible. Although in one way, 'DPR' and 'LPR' voters are absolutely equal with the Russian voters — their ballots will face ++[voter fraud](https://novayagazeta.ru/articles/2020/07/08/86195-russia-explained-42)++. Russia hasn't had a free or fair election since at least 2004.
 
+![](_assets/67/67837eafa1791ed87067eafad5d380fd.webp)
+
 *Photo: RIA Novosti*
 
 **BACKSTORY.** The so-called «Donetsk People's Republic» and «Luhansk People's Republic» remain home to 3,000,000 residents despite heavy fighting sporadically breaking out in the area. The breakaway territories became self-proclaimed statelets after the 2014 pro-democratic revolution in Ukraine. The separatist movement was part of the Kremlin attempt to preserve political and economic control over the country. As then-president Ukrainian president Yanukovych fled to Russia, Moscow annexed the Ukrainian region of Crimea while stoking unrest in the country's eastern regions — effectively establishing control over 7 percent of the Ukrainian territory. At the time, Russian state propaganda manufactured a false narrative of an ethnic divide in Ukraine. It has been using it as an excuse to keep meddling in Ukrainian affairs since then. Moscow has never officially acknowledged the invasion of Eastern Ukraine. Still, the presence of Russian troops on the ground ++[is well-documented](https://novayagazeta.ru/articles/2021/02/03/89031-russia-explained)++, including by Novaya. The seven-year war has left approximately 13,500 dead, 1.6 million internally displaced, and over 800,000 refugees.
@@ -48,7 +52,9 @@ Upcoming parliamentary elections in Russia, scheduled for September, will mark a
 
 The Kremlin spent over a year on an intense global campaign promoting the Russian-made COVID-19 ++[vaccine](https://novayagazeta.ru/articles/2020/12/21/88468-russia-explained)++. But back at home, there's a ++[widespread Sputnik-V skepticism](https://novayagazeta.ru/articles/2021/05/19/russia-explained)++. It is pervasive even at the Russian Orthodox Church, the most loyal to the Kremlin institution.
 
-*Photo: : PhotoXPress*
+![](_assets/0d/0d5eda40e23e92d412f971db9105c5ee.webp)
+
+*Photo:: PhotoXPress*
 
 **THE RESISTANCE WORSENS THE ++**[**ONGOING THIRD WAVE**](https://novayagazeta.ru/articles/2021/05/19/russia-explained)**++ OF THE PANDEMIC IN THE COUNTRY.** The church, which holds an outsized role in public life and maintains close, co-dependent ties to Putin and the Kremlin elites, has been skeptical of the coronavirus in general. Despite the country being the epicenter of one of the worst outbreaks in the world in 2020, Russian religious leaders would ++[openly flaunt lockdown regulations](https://novayagazeta.ru/articles/2020/04/22/85050-russia-explained-31)++ and spread conspiracy theories questioning the pandemic's nature.
 
@@ -70,6 +76,8 @@ The Kremlin spent over a year on an intense global campaign promoting the Russia
 
 Oil has been flowing through the Komi region for three weeks now following an environmental ++[disaster](https://novayagazeta.ru/articles/2021/05/19/russia-explained)++ in the region. A year ago, the largest Arctic oil spill in recent history, the so-called ++[Nornickel Spill](https://novayagazeta.ru/articles/2021/02/10/89147-russia-explained)++, coated more than 20km of rivers and waterways in greasy residue. So how are they linked, and why do they keep happening? This week Novaya's Alexey Tarasov lifts the lid for our special podcast series 'What's New.' Plus, our Arctic correspondent Tatyana Britskaya reports from the epicenter of the Komi oil spill.
 
+![](_assets/ed/ed2503c77fdc396b25fa649712fdc61c.webp)
+
 *Photo: Novaya Gazeta*
 
 **THE CULTURE OF PREDATORY PILLAGE OF RUSSIAN NATURAL RESOURCES.** Last year the northern Taimyr peninsula saw Russia's worst fuel spill ever. The official reason provided was that the spill was the corrosion of a vital fuel storage tank, releasing some 17,500 tonnes of fuel into the environment. But the deeper reasons clearly remain, both financial and systemic. «This is the standard economic practice of exploiting resources,» Tarasov notes.
@@ -83,6 +91,8 @@ Oil has been flowing through the Komi region for three weeks now following an en
 **POVERTY AND RUIN NEXT TO RUSSIAN OIL RIGS.** Britskaya wrote an open letter to Lukoil head Vagit Alekperov inviting him to see the consequences of the latest spill with his own eyes.
 
 *«The village teacher Yekaterina Dyachkova will feed you a lunch — if there is wood to light the stove. You can also enjoy her bathhouse — if it is not flooded by rains. Otherwise, you, like all the inhabitants of the village, you can experience what it is like to live with no running or clean water»*, Britskaya writes, documenting the everyday problems local residents face. *«You will see with your own eyes not only how your oil flows along the Pechora River, but also how people are struggling to survive just 4 km from your drilling rig,»* her letter says.
+
+![](_assets/ad/ad5485440b5c20a923b60733dfcdee80.webp)
 
 *Photo: Novaya Gazeta*
 

@@ -11,7 +11,7 @@ tags: "россия, танкеры, евросоюз, захват"
 
 # В ЕС готовятся к масштабному захвату танкеров с российской нефтью — Politico
 
-*\*
+![](_assets/22/22f093625b09bc327be2139e3a4a7aff.webp)
 
 Руководство Евросоюза разрабатывает юридические основания для масштабных захватов танкеров, используемых Россией для перевозки своей нефти по Балтийскому морю, [пишет](https://www.politico.eu/article/russia-shadow-fleet-finnish-bay-snow-eagle-s-december-oil-baltic-sea-europe-waves-europe-kremlin/) Politico со ссылкой на источники.
 

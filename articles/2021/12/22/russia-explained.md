@@ -28,6 +28,8 @@ In August 1990, then-President Boris Yeltsin famously told Russia's constituent 
 
 **A FINE LINE. **Tatarstan's authorities have been treading a fine line between appeasing the federal center and defying it. In 2019 the indigenous and Muslim-majority region pushed back hard against the Kremlin's rollback of indigenous language rights. At the same time, in 2020, the republic voted in favor of Putin's power-grabbing [controversial amendments](https://novayagazeta.ru/articles/2020/07/04/86143-russia-explained-extra) to the Constitution. Likewise, Tatarstan voted for the abolition of their republic's Constitutional Court — another symbol of its sovereignty. However, this wasn't enough for the Kremlin. In late 2021, two local deputies from ruling United Russia — Andrei Klishas and Pavel Krasheninnikov — introduced a bill that would prevent regional heads from calling themselves 'President.' All 82 deputies of Tatarstan's local parliament voted against it.
 
+![](_assets/ff/ff820d37352da21e8aaff282e6cef4d0.webp)
+
 *Photo: Anton Abramov*
 
 **THIS IS THE KREMLIN'S SECOND ATTEMPT TO BRING THE REPUBLICS INTO FULL SUBMISSION. **A similar bill, introduced in 2010, required all regional heads to give up the title of 'President' by 2015. 11 autonomous republics — including Chechnya — did so on time. Tatarstan did not, and the region's head, Rustam Minnikhaov, remains 'President' to this day.
@@ -50,6 +52,8 @@ Ilgiz (a young Tatar man from Bogatye Saby):
 
 > "It makes no difference to me. He [Tatarstan's President] doesn't pay me anything [...] He's not for the people - they [the authorities] just get drunk there, they don't care about the people, they only think about their own pockets."
 
+![](_assets/b5/b50e167fa2d6e2ac365de8d3c1211f59.webp)
+
 *Photo: Anton Abramov*
 
 **\
@@ -69,6 +73,8 @@ This week, The European Union imposed sanctions on the infamous Russian private 
  DMITRY UTKIN. **Utkin is the reserve lieutenant colonel from whose code name — 'Wagner' — the PMC gets its name. He is the former commander of a separate detachment from the Pskov special forces brigade. According to the document, Utkin "was personally present on the battlefield in Ukraine, coordinated and planned the activities of the Wagner group members."
 
 **DENIS KHARITONOV. **Kharitonov is a[deputy of the Duma of the Astrakhan Region](https://ideputat.er.ru/user/260518) from United Russia, a functionary of the Union of Donbas Volunteers, a Wagner veteran, one of thirty-three "soldiers of fortune" detained by Lukashenko's special services near Minsk in July 2020. It is not clear why the EU included him on the sanctions list, although Korotkov speculates that it could be because Kharitonov is the only Wagner Group member to have built a public career.
+
+![](_assets/90/90abe267aed0b13d6a46cd6c502ffb5b.webp)
 
 *Famous photo from the Day of Heroes of the Fatherland in Kremlin. From left to right: Andrei Bogatov, Andrei Troshev, Vladimir Putin, Alexander Kuznetsov, Dmitry Utkin (Wagner). Four of them are already in the EU Sanctions lists.*
 
@@ -93,6 +99,8 @@ It has been almost a century since the Soviet regime ruthlessly rewrote the bord
 
 **THE KREMLIN TRIED TO SQUASH PUBLIC UPROAR, BUT WITH LITTLE SUCCESS. **The authorities chose Essentuki for the trial (a four-hour drive from Ingushetia, a small autonomous region in the Russian Caucasus), writes Sargsyan, to remove the case from the epicenter of border drama, and therefore prevent outbursts in public support of the accused. However, despite the distance, police and army agents had to prevent gathering crowds from entering the courtroom. One relative of each defendant was allowed inside. The judge delivered the sentences in less than 30 minutes.
 
+![](_assets/fa/fabe3b6a7e3c3d1ea2cc507d0fdd3377.webp)
+
 *Barakh Chemurziev in the courtroom. Photo: Vlad Dokshin / "Novaya Gazeta"*
 
 **WHO ARE THE DEFENDANTS? **The trial featured 7 defendants. Malsag Uzhakhov (chairman of the liquidated Council of Teips of the Ingush people), Akhmed Barakhoyev (a member of the Council), Musa Malsagov (chairman of the Ingush Committee for National Unity), Barakh Chemurziev (Chairman of the businessmen association "Ingushetia's Support"), Bagaudin Khautiev (head of the Council of Youth Organizations of Ingushetia), Ismail Nalgiyev (head of the Ingushetia Choice organization), and Zarifa Sautiyeva (deputy director of the Memorial Complex to the Victims of Repression). Uzhakov and Barakhoyev are both in their late 60s, while Khautiev, Nalgiyev, and Sautiyeva represent the younger generation of Ingush civil society leaders.
@@ -109,6 +117,8 @@ It has been almost a century since the Soviet regime ruthlessly rewrote the bord
 **BACKSTORY. **In [March 2019](https://novayagazeta.ru/news/2019/03/26/150325-v-magase-nachalsya-miting-protiv-soglasheniya-o-granitsah-s-chechney-organizatory-govoryat-o-10-tysyachah-uchastnikov), thousands of Ingushetia residents took to the streets to protest against a border agreement with the neighboring Chechnya region. It was supposed to redraw the borders between the two and address some mutual grievances over how they were established during Soviet rule. However, the deal backfired and reignited long-simmering tensions. On October 30, 2018, the Constitutional Court of Ingushetia ruled that the agreement was illegal as changes to Ingushetia's territory required approval by referendum, but the Constitutional Court of Russia in Moscow overrode that decision later in the year. To tame the public unrest, the Kremlin forced Ingush head Yunus-bek Yevkurov out of the office and [cracked down](https://novayagazeta.ru/articles/2019/04/24/151163-sotrudniki-fsb-prihodili-k-organizatoru-protestov-v-ingushetii-ahmedu-pogorovu) on the protest leaders and the region's civil society.
 
 **Read Sarkisyan's report **[**here**](https://novayagazeta.ru/articles/2021/12/15/sud-proshel-v-tishine-sroki-oglushitelnye)**.**
+
+![](_assets/23/23a059f6869f80d76fde7b392bbbbc74.webp)
 
 *A rally in Magas. October 2018. Photo: Vladimir Smirnov / TASS*
 

@@ -25,7 +25,7 @@ tags: "гражданскоая оборона, егор летов, посев,
 
 Она также опубликовала лист из тетради Летова со стихотворением Strange Days 1983 года.
 
-*\*
+![](_assets/b1/b1e6a34ea35bd151f3c61002650ada63.webp)
 
 **Читайте также:** https://novayagazeta.ru/articles/2019/11/05/82617-on-zapisal-sebe-v-soratniki-vseh-ot-kiry-muratovoy-do-hrista
 

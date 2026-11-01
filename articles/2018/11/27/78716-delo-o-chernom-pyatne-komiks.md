@@ -10,8 +10,38 @@ tags: "кафка-кодекс, полиция, суды, абсурд, коми
 ---
 
 # Дело о черном пятне. Комикс
+![](_assets/ce/cec881edd64695c57aee96f300d058e8.webp)
+
+![](_assets/db/db8f02955fb6a40c2f5c7f0d7e83e9d4.webp)
+
+![](_assets/40/4062d6474e4eec4f166da07d39f16323.webp)
+
+![](_assets/e2/e268867c9c52440f693f269db2c973b1.webp)
+
+![](_assets/83/830d5a16c58c78addb071285b3918376.webp)
+
+![](_assets/70/702e6aba1a6feefaa6cbe8659f0e28ee.webp)
+
+![](_assets/64/64daf46bacf0bc8e4aa23b741874249a.webp)
+
+![](_assets/e2/e2ce1695142462682935f0993fec4317.webp)
+
+![](_assets/b6/b6dca02e9c02189e8079ed375a7653e7.webp)
+
+![](_assets/7c/7c8771077786454ac2954868f01795ae.webp)
+
+![](_assets/55/551d17ed5b644950e5fd567d54930ad1.webp)
+
+![](_assets/36/36363b189fe4c6085d5eed6caa092860.webp)
+
+![](_assets/1f/1fed292b4598b5c619afba7908a2a296.webp)
+
+![](_assets/b5/b527a6ed092e642e5d33827414bcbe35.webp)
+
 
 *Что случится, если вы попробуете наказать полицейского на Кубани*
+
+![](_assets/2a/2a58902857f3015d30d68c18a6641376.webp)
 
 *Комикс: Дарья Петушок — специально для «Новой газеты»*
 

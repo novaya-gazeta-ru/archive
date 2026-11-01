@@ -11,6 +11,8 @@ tags: "румыния, беспилотники, украина"
 
 # Дрон упал на жилой дом в Румынии — Бухарест обвинил Москву в нарушении воздушного пространства и пригрозил «соразмерным» ответом
 
+![](_assets/19/1901a6b2932985579f336a206dc25db8.webp)
+
 *Фото: Viața Liberă*
 
 В румынском Галаце беспилотник [влетел](https://www.viata-libera.ro/prima-pagina/261336-update-o-drona-a-cazut-pe-un-bloc-din-mazepa-si-a-facut-doua-victime-restrictii-de-trafic-si-trasee-deviate-pe-strada-brailei-foto) в жилую многоэтажку на улице Брэилеи. После удара прогремел взрыв, в одной из квартир начался пожар.

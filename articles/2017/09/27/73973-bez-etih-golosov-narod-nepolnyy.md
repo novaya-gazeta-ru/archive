@@ -10,6 +10,10 @@ tags: ""
 ---
 
 # Без этих голосов народ неполный
+![](_assets/f6/f684eea7b81fbe34faca6490e5589b6e.webp)
+
+![](_assets/ed/ed5a8d9d26baa23208d0709779211a8e.webp)
+
 
 *Проект Prozhito.org: Россия как хор дневников*
 

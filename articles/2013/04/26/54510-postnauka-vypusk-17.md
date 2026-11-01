@@ -10,6 +10,24 @@ tags: ""
 ---
 
 # Постнаука. Выпуск #17
+![](_assets/68/6835497bf4f8013eb7c155b674363fb8.webp)
+
+![](_assets/27/273a05debf6da7fe433d26e92fb34fba.webp)
+
+![](_assets/02/0283ecbb47e539dd7b88b6c2bcb1d8ec.webp)
+
+![](_assets/ce/ce86ed2bf6bca24971835dd69d426ae2.webp)
+
+![](_assets/f0/f0beaf3acfcfdd8bf1d84373c6f7ffaf.webp)
+
+![](_assets/f7/f7b71673da401a15301c1347114ced10.webp)
+
+![](_assets/0d/0d1eb7e7cfd6ac55ebf7f9cfc373754e.webp)
+
+![](_assets/35/358ad0ed8387a80f2d1350da596450d7.webp)
+
+![](_assets/c0/c0bc6d0386c8670142ea4dc4b2acf6be.webp)
+
 
 *Проект «Новой газеты» и сайта postnauka.ru*
 

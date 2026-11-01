@@ -15,6 +15,8 @@ tags: "новая газета, муратов, редакция новой га
 
 > 18+. НАСТОЯЩИЙ МАТЕРИАЛ (ИНФОРМАЦИЯ) ПРОИЗВЕДЕН, РАСПРОСТРАНЕН И (ИЛИ) НАПРАВЛЕН ИНОСТРАННЫМ АГЕНТОМ ИНТЕРНЕТ-ИЗДАНИЕ «НОВАЯ ГАЗЕТА» ЛИБО КАСАЕТСЯ ДЕЯТЕЛЬНОСТИ ИНОСТРАННОГО АГЕНТА ИНТЕРНЕТ-ИЗДАНИЕ «НОВАЯ ГАЗЕТА»
 
+![](_assets/b7/b765a88f4ad069925a9c2e3a55008f1a.webp)
+
 *Editorial meeting. October 2026. Moscow, 3 Potapovsky Lane. Photo: Anna Artemyeva / Novaya Gazeta*
 
 We have been killed.
@@ -49,7 +51,9 @@ For nearly five years of ***, we managed to keep working while beling completely
 
 Now it’s over. We have found ourselves in a "kill zone."
 
-*Dmitry Muratov*, co-founder of Novaya Gazeta, in his office at the newspaper’s Moscow editorial office. October 29, 2026. Photo: Anna Artemyeva / Novaya Gazeta*
+![](_assets/a2/a20f5e024babf591f75548d58d9e576b.webp)
+
+*Dmitry Muratov, co-founder of Novaya Gazeta, in his office at the newspaper’s Moscow editorial office. October 29, 2026. Photo: Anna Artemyeva/ Novaya Gazeta*
 
 This is not just our own story; it is the story of a country and a society that are being systematically crushed. This is the work of the FSB, the Ministry of Justice, the Prosecutor’s Office, and others who have usurped power. A military dictatorship has effectively been established.
 

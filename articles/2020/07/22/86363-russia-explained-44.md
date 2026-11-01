@@ -33,6 +33,8 @@ They call it 'Chechnya of the North.' This week we publish a special report from
 
 **FACADE JUSTICE.** Four people have been arrested in connection with the fuel spill so far, including one manager many residents say has been used as a scapegoat. Some 66,000 signatures are collected in support of him, with comments on the petition reading, "you're looking for the guilty in the wrong place." A criminal case has just been opened against Norilsk Mayor Rinat Akhmetchin for negligence concerning the spill. This week he resigned.
 
+![](_assets/40/406dc1156bb7664e77264e3702cf7d2d.webp)
+
 *Photo: Yuri Kozyrev / "Novaya gazeta"*
 
 **DENYING THE DAMAGE.**State environmental watchdog Rosprirodnadzor has issued Nornickel an unprecedented $2.1 billion fine for the spill. But it is 'voluntarily.' And the mining giant has already disputed it, claiming that it is based on "certain assumptions, which led to the distortion of the damage estimates."
@@ -50,6 +52,8 @@ More than three dozen activists are detained in Moscow and St. Petersburg for de
 **LEGAL IDENTITIES ERASED.**The proposed law will strip trans Russians of the right to legally change gender markers on their birth certificates. In practice, it will create a legal conflict with gender markers in their passports and seriously overburden the legal representation of a transgender identity. Activists say that those who have already changed their gender markers will be obligated to change them back.
 
 **MARRIAGE BAN.**Mismatched gender markers in birth certificates will effectively ban transgender Russians from marrying. In a comment for this newsletter, Anton Macintosh of the country's largest transgender advocacy organization T-Action, explains the legal trick: "When registering a marriage, both a passport and a birth certificate will be required, and since they will have different gender markers, any marriage of a transgender person will be considered same-sex," he says. "And under the new law, marriage is a "union between a man and a woman."
+
+![](_assets/e2/e220c7e27325a38490ddaf8af05f7f1d.webp)
 
 *Illustration by Petr Sarukhanov*
 
@@ -72,6 +76,8 @@ Russia’s Regions Struggle To Cope With Growing Pandemic
 Despite thousands of new cases still being registered daily, Russia is reopened for business. Since officials relaxed lockdown measures ahead of the constitutional vote, Russia’s regions have especially struggled with growing case numbers amid a shortage of hospital facilities.
 
 **REGIONAL RED ZONE.**Last month we reported on cases spiking in the northwestern region of Murmansk following the easing of quarantine measures in June. The region is experiencing some of the highest daily case increases in the country, with up to 180 new infections recorded each day. Yet visitors no longer have to quarantine, and supermarkets and parks are crowded.
+
+![](_assets/82/8248020876f0ec4d7575b0540ef2866d.webp)
 
 *Photo: RIA Novosti*
 
@@ -96,6 +102,8 @@ Khabarovsk, the largest city of Russia's far east, has been protesting for more 
 **KREMLIN'S MISCALCULATION.**What's happening in Khabarovsk indicates the ruling elite has made a gross miscalculation in the assessment of the post-constitutional vote situation, argues our politics editor Kirill Martynov. Instead of citizens unifying behind Putin's power grab, sympathy for the political opposition is building around the country.
 
 **PUSHBACK IS GROWING.**Earlier this month, some 30,000 people rallied in support of Furgal. Last weekend, those numbers surged, with some 50,000 joining the protests. That's a significant portion of the city's 600,000 population. Not only are protests growing in Khabarovsk, but solidarity rallies are taking place too. Over the weekend, the far eastern region of Vladivostok held a demonstration in support of its neighbors.
+
+![](_assets/3b/3b78263d2391638ef8b1cafb9285203f.webp)
 
 *Photo: AP/TASS*
 

@@ -10,6 +10,12 @@ tags: "жилье, пожары"
 ---
 
 # Крыши едут
+![](_assets/a3/a3eae9c856217a625e92fe8e4b82a4ad.webp)
+
+![](_assets/bd/bd8b6e5170f3ff008ed7e2c3b6b50e10.webp)
+
+![](_assets/9d/9d52ec3620d38c637074f270dfd312a4.webp)
+
 
 *Почему разваливались дома для погорельцев?*
 

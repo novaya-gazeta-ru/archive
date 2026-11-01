@@ -13,6 +13,8 @@ tags: "twitter, facebook, instagram, роскомнадзор, ep"
 
 Пользователи сообщают о недоступности социальной сети Twitter и проблемах при использовании Facebook и Instagram, свидетельствуют [данные](https://downdetector.ru/ne-rabotaet/instagram/) Downdetector.
 
+![](_assets/9a/9a76ecf7dc5de3d7d2891c6ba0040229.webp)
+
 *Фото: Downdetector*
 
 Ранее Генпрокуратура [признала](https://novayagazeta.ru/articles/2022/02/25/roskomnadzor-chastichno-ogranichil-dostup-k-facebook-v-rossii-news)соцсеть Facebook причастной к нарушению основополагающих прав и свобод человека, а также прав и свобод граждан России.

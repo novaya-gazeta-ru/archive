@@ -29,6 +29,8 @@ Putin approving a Russian naval base in Sudan made global headlines and marked a
 
 **WHAT’S BEHIND IT.**The Kremlin has a long history of close economic and geopolitical relations with Sudan dating back to the mid-20th century. But they got even stronger in the last 20 years. Putin backed the Sudanese military regime in the Darfur genocide and Russia would keep supplying most arms for the country (often in violation of international embargo). In return, Sudan backed the Kremlin in the invasion of Ukraine, the Syria intervention. Recent pro-democracy revolution in Sudan hasn't damaged these relations much since the local army, the Russian biggest ally in the country, remains in charge of military and foreign trade deals.
 
+![](_assets/34/3451286fcfd80f5e24ddf27ca443b889.webp)
+
 *Russian military ship «Admiral Gorshkov» in the port of Cuba (2019). Photo: EPA*
 
 **THE KREMLIN IS OBSESSED WITH COMPETING AGAINST THE U.S.**The Russian Federation does not have capable aircraft carriers, and in order to have any hope of competing against the US and its NATO allies in the Mediterranean, it needs an airbase in the region that is covered by a multi-layered modern air defense system. That was the original reason that Russia's Syrian campaign was launched, to establish a powerful naval base in Tartus, and an equally powerful air force base in Khmeimim. Now Russia is taking the next step by moving south to Sudan.
@@ -57,7 +59,9 @@ This week we track a major step back in the fight against Russian money launderi
 
 > “The Swiss decision seems strange, and goes against the law enforcement policies adopted by other states, many of which are adopting legislation that is similar to the US Magnitsky Act,” writes Andrey Zayakin, Novaya Gazeta's data journalism editor, who tracks Russian officials laundering money abroad. "What's more, the news broke on the anniversary of Sergei Magnitsky's terrible death in a Russian prison."
 
-*Sergei Magnitsky. Photo from the archive*
+![](_assets/be/be46c69829afc28908eeb8c450c35c72.webp)
+
+*Sergei Magnitsky. Photo from the archive*
 
 **‘DILUTING THE LOOT.’**Part of the reason for the failure of the Swiss investigation was a tactic employed by money launderers that allows them to dilute stolen money by mixing it with other funds, Zayakin explains.
 
@@ -78,6 +82,8 @@ Russian Nepotism, Explained
 After news broke last week about a major shakeup in Russia’s government and state-run enterprises, we began looking into the people who recently landed the country’s top jobs. It turns out that many of the children of top level officials routinely occupy senior positions in state-run companies and replace other top-level officials in government departments. This latest example of musical chairs is no exception. Russia’s elite is handing the country over to its children.
 
 **FATHERS AND SONS.**There are numerous examples of this type of nepotism, but here are a few noteworthy examples from dozens of cases we highlighted this week. The sons of former Prime Minister Mikhail Fradkov, Pyotr and Pavel, are the head of Promsvyazbank, a state-backed bank, and the deputy head of Russia’s presidential administration respectively. The son of Putin's friend and classmate, Viktor Khmarin, who is now consul general in the Seychelles, heads the state hydroelectric power company RusHydro. The son of the head of Russia’s Federal Financial Monitoring Service Rosfinmonitoring, Yuri Chikhanchin, is now the deputy head of the state-owned airline Aeroflot. And the son of the former head of the security services, Nikolai Patrushev, is now the Minister of Agriculture.
+
+![](_assets/be/bef41e1c9d43de69607e5e8f651379d2.webp)
 
 *Illustration by Petr Sarukhanov*
 

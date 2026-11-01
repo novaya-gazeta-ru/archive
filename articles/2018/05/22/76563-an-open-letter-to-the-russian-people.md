@@ -19,6 +19,8 @@ Some of us who write these words are passionate followers of football, others ar
 
 On July 17, 2014 Malaysian Airlines Flight MH17 was shot down over Ukraine. Two hundred and ninety eight people were killed. Among the bodies lying among the debris and fields of sunflowers were our children, our partners, our brothers and sisters, our parents.
 
+![](_assets/5c/5c85fa4cd06008d94d0839814336ede8.webp)
+
 *Jon and Jack O’Briens*
 
 The impact on our lives
@@ -26,6 +28,8 @@ The impact on our lives
 Despite it being nearly four years since our lives were shattered, we struggle to comprehend what happened. The people we love were killed in a war, a war in which they were not combatants, a war they had nothing to do with. We know they are not the only victims of this confrontation. More than 10, 000 people have been killed, the majority of them civilians. Their families are grieving like ours, not understanding why the people they love have been snatched from them. It is the finality of death that is so painful. We could live with a separation, even of years, if we knew it had an end.
 
 We, as families of those killed on MH17, are still breathing, but the lives we had also came to a close that day. We are not the same people we were before. The world we live in is darker and less hopeful. We have struggled to maintain faith in human goodness. It may be that some of us will find some sense of purpose and happiness again. But we will always be marked by the brutal and sudden death of those we love.
+
+![](_assets/e3/e319a2520f811c66732884d1036cdedc.webp)
 
 *Elsemiek de Borst, victim of MH17 downing. Facebook.com*
 
@@ -53,6 +57,8 @@ In the first months some of us were troubled by the multiple, often contradictor
 
 Well, we are real, and our hope is that ultimately truth will prevail.
 
+![](_assets/a2/a2acd61f20eaf92c897077029a66cb7b.webp)
+
 *Daisy Oehlers, victim of MH17 downing. Twitter.com*
 
 We appeal again for the Russian government to cooperate fully with the international investigation into MH17. It will not bring our families back but the truth does matter, the truth does exist and we want those responsible for MH17 to be identified and held accountable. We teach our children when they are small that they must own up to their mistakes and take responsibility for their actions. We want our governments to do the same. We ask Russia to do the same.
@@ -74,6 +80,8 @@ All this is in our minds and hearts as we contemplate this World Cup in Russia. 
 At its worst football can mirror the ugliness of which we are also capable. It can descend into a closed minded and aggressive nationalism, reinforcing divisions and prejudices, opening old wounds and inflicting new ones.
 
 The football World Cup can be a celebration of our shared humanity. It can be an example, however fleeting, of our capacity to live with each other in peace. If it is that, then we might be better able to lift our heads to watch.
+
+![](_assets/f6/f65284d0a8a7bcf89169ce2081d97585.webp)
 
 *Bryce Fredriksz aged 23 and Daisy Oehlers aged 20, victims of MH17 downing. pinimg.com*
 

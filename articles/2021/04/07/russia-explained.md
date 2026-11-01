@@ -10,6 +10,8 @@ tags: ""
 ---
 
 # Russia, Explained
+![](_assets/90/9038527a97a082d5ad08f164a9d0f4d2.webp)
+
 
 *Chechnya pogroms — Indigenous population halves — Abkhazian ‘crypto paradise’*
 
@@ -39,6 +41,8 @@ Last month ++[we published a series of investigative pieces](https://novayagazet
 
 > "The asylum seeker shall be granted asylum by the authorities of the country through which he arrives in the territory of the European Union. Hundreds of Chechens are being denied asylum in Europe today," Milashina explains. "Such a depersonalized approach does not account for the specifics and criticality of the reasons forcing people to escape from Chechnya and Russia."
 
+![](_assets/64/64898abccc55f4162f178a1fc321d3b3.webp)
+
 *Suleyman Gezmakhmayev*
 
 **BACKSTORY.** Chechnya's autocratic ruler Ramzan Kadyrov operates under Putin's direct patronage and has essentially been given free rein over the oil-rich province. Region's ++[massive corruption](https://novayagazeta.ru/articles/2019/12/11/83113-russia-explained-14-by-novaya-gazeta)++ fuels monstrous income inequality and the worst human rights violations in Russia. Moreover, those who escape the region and seek asylum abroad are increasingly under threat. The Chechen authorities are known for ++[ordering assassinations](https://novayagazeta.ru/articles/2019/12/11/83113-russia-explained-14-by-novaya-gazeta)++ in Europe and using ++[Interpol arrest warrants](https://www.politico.eu/article/interpol-russian-abuse-keeps-despots-dissidents-close/)++ to go after dissidents around the world. Disappearances are common in Chechnya, where suspected dissidents, sexual minorities, and even members of the ++[political elite ](https://en.hromadske.ua/posts/chechnyas-ruling-elite-targeted-in-unprecedented-purge)++who have fallen out of favor have been illegally detained, tortured, and executed. Many of our journalists ++[were attacked](https://novayagazeta.ru/articles/2020/02/12/83884-russia-explained-21-by-novaya-gazeta)++ in connection with the Chechnya coverage, and some got murdered, including ++[Anna Politkovskaya](https://novayagazeta.ru/articles/2019/10/09/82292-russia-explained-5-by-novaya-gazeta)++. Kadyrov had previously ++[made explicit threats against our investigative journalist Elena Milashina and us](https://novayagazeta.ru/articles/2020/04/22/85050-russia-explained-31)++, following the publication of her expose on the region's repressive COVID-19 ++[lockdown measures](https://novayagazeta.ru/articles/2020/04/15/84908-russia-explained-30-by-novaya-gazeta)++.
@@ -53,6 +57,8 @@ This week our special correspondents Elena Kostyuchenko and Yuri Kozyrev publish
 
 > _"There, speaking Nganasan was forbidden, and teachers punished them for every Nganasan word they used — beaten with canes, kicked out of the class," Kostyuchenko and Kozyrev cite local linguist Valentin Gusev._
 
+![](_assets/20/202636f6a48cee1bd8288be8d72ff44b.webp)
+
 *Photo: Yuri Kozyrev / "Novaya Gazeta"*
 
 **SUICIDE EPIDEMIC FULED BY ECONOMIC RUIN.** Kostyuchenko and Kozyrev visited a Nganasan settlement of Ust-Avam in the Krasnoyarsk Krai, where there are more suicides than natural deaths. "Six people die here every year. One of these deaths is the result of natural causes. Two or three freeze or die drunk. And two or three kill themselves," write Kostyuchenko and Kozyrev. Devastating effects of global warming, human-made environmental degradation, and severe poverty fuel depression here. Out of 359 residents, just 54 have jobs.
@@ -62,6 +68,8 @@ This week our special correspondents Elena Kostyuchenko and Yuri Kozyrev publish
 **DESTRUCTION OF LOCAL FOOD SUPPLY.** The catastrophic impact of climate change in the Russian Arctic limits the Nganasan's fishing opportunities — their primary food source. The government keeps restricting their hunting, too. This is a widespread ++[source of tension](https://novayagazeta.ru/articles/2019/12/11/83113-russia-explained-14-by-novaya-gazeta)++ between the Kremlin and indigenous communities elsewhere across Russia. With a de facto ban on hunting, the Nganasans stopped following the routes of wild herds, which weakened the entire population and led to reindeer husbandry's disappearance. Local lakes dry up, and reindeer herds thin out.
 
 **AGGRESSIVE RUSSIAN ARCTIC DEVELOPMENT EXACERBATES CRISIS.** Our reporting on the Nganasan nation takes root in ++[last year's coverage of the Norilsk Nickel spill](https://novayagazeta.ru/articles/2020/07/14/88974-rust)++, the largest human-made fuel spill in Arctic history. Back then, the Russian government ++[colluded](https://novayagazeta.ru/articles/2020/07/22/86363-russia-explained-44)++ with the country's largest nickel producer to whitewash the disaster. The spill affected the environment that provided the Nganasan with basic food supplies. "They catch fish; they hunt deer. But there are no fish this year. And the deer left for other lands three years ago," write Kostyuchenko and Kozyrev. Last year, northern indigenous tribes signed an ++[open letter](https://novayagazeta.ru/articles/2020/08/10/86600-kak-tebe-potanin-ilon-mask)++ to US business magnate Elon Musk and Tesla asking him not to purchase any nickel, copper, and other materials from Nornickel in the wake of the disaster.
+
+![](_assets/0d/0d3e087e4bd2a562ffdcde2637dadd07.webp)
 
 *Photo: Yuri Kozyrev / "Novaya Gazeta"*
 
@@ -75,6 +83,8 @@ Kremlin's support for separatist statelets in the Russian near-abroad fuels biza
 
 **BOOM AND BUST.** Since 2016 Abkhazia has been one of the world's largest 'grey' hotspots for cryptofarming. Even local farmers and the elderly are very familiar with the term. Local officials estimate that hundreds of new cryptofarms have been established here. "Of those who do this, only about 10 percent are real professionals," one 'farmer' called "Sergey" told Tumakova (he requested that he be referred to by a pseudonym). "Some of us don't even know how to read, let alone understand the principle of blockchain," another local told Tumakova. Last year local officials abandoned futile attempts to fight it and ++[legalized the activity](https://jam-news.net/abkhazia-mining-prohibition-energy-crisis/)++. But the effort to rein in cryptofarming was a failure. The newly fueled boom caused severe ++[rolling blackouts](https://jam-news.net/rolling-blackouts-return-to-abkhazia-due-to-cryptocurrency-miners/)++. It forced the statelet to import ++[the electricity](https://jam-news.net/georgia-abkhazia-rehabilitation-of-inguri-hpp/)++ for the first time. Authorities shut the mill down once again.
 
+![](_assets/b7/b73dc30d0a763a52a3f48bc88753fef5.webp)
+
 *Illustration by Petr Sarukhamov*
 
 **CHEAP ENERGY PRICES FUELED CRYPTOCURRENCY BOOM.** The region of around 250,000 people pays a tenth of the price for its energy compared to neighboring Georgia. Everyone spotted the window of opportunity at all levels. "Abkhazia may become the first country in the world to issue a national cryptocurrency," Minister for Economy Adgur Ardzinba suggested as early as 2018. After people hedged their bets on crypto, Abkhazia saw a surge in energy consumption. The new, welcoming attitudes towards mining crypto, combined with poor regulation, resulted in an unsustainable surge that benefited locals in the know but created a massive inconvenience for others, including the rolling blackouts.
@@ -86,6 +96,8 @@ Kremlin's support for separatist statelets in the Russian near-abroad fuels biza
 **BLACKOUT.** Authorities imposed a second ban after the energy crisis started to rear its head. In November, Abkhaz energy company Chernomorenergo instituted a rolling blackout. It started determining the excessively consuming areas — and sending police to shut down cryptomining operations. Officials reimposed the ban. Now all those who invested in the 'cryptoparadise,' and its required devices, locations, and workforce don't know where to turn, leaving a trail of unused tech equipment in their wake.
 
 **CRYPTOFARMS IN ABANDONED SANATORIUMS.** The ban means that police have been raiding former cryptofarms in abandoned factories, former Soviet sanatoriums, or dilapidated residential buildings. Abkhazia has ++[no shortage of abandoned buildings](https://novayagazeta.ru/articles/2021/03/29/strana-zabroshka)++. Flour mills, candy and tea factories, as well as the old Soviet sanatoriums that once granted the region the moniker "Soviet Cote d'Azur" are crumbling into the landscape. This is a long legacy of both the Soviet collapse and the Russia-Georgia war in 2008. At the beginning of March, over the space of just a week, police discovered some 230 farms. After the mining ban, some former cryptominers were at a loss about what to do. "I paid money to a guard so that he would supervise my farm," said one. "When mining was banned, he started asking me to take everything out. He feared it would be his demise."
+
+![](_assets/7b/7bbb3ee3df1e78b5ac34b8d50288b6ab.webp)
 
 *Sukhumi, city center. Photo: Irina Tumakova / "Novaya Gazeta"*
 

@@ -10,6 +10,26 @@ tags: ""
 ---
 
 # Магнитскому есть что сказать
+![](_assets/a5/a55463dee65472b2882103673247beab.webp)
+
+![](_assets/91/91b02ee22dd4720539c392df7a7e227a.webp)
+
+![](_assets/46/4673ba00e2c68404c3e6e9f708f09035.webp)
+
+![](_assets/4b/4bcf1e64d192d375d66d00bac52b4d3d.webp)
+
+![](_assets/07/07c288de9e20e01114882600d2081c0c.webp)
+
+![](_assets/bd/bda83602442406d8f19d21c156fd1c84.webp)
+
+![](_assets/56/56005b84527ee59742d790019607e02c.webp)
+
+![](_assets/d0/d030d4fc26465acf11fb21c23b81a72a.webp)
+
+![](_assets/f0/f075c7ad5c7a7f206d203005989eccc9.webp)
+
+![](_assets/ed/ed713d9e7d7e009f3cf698c36a669d6e.webp)
+
 
 *В Тверском суде продолжается процесс над пустой скамьей подсудимых. «Новая газета» начинает публичную защиту погибшего юриста*
 

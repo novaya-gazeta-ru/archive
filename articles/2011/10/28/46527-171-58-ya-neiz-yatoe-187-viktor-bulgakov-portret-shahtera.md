@@ -10,6 +10,18 @@ tags: ""
 ---
 
 # «58-я. Неизъятое» Виктор Булгаков. Портрет шахтера
+![](_assets/94/942ab426e5d165f35bb01c31ca9738bd.webp)
+
+![](_assets/65/65c0f4f0daf061a968ac6e03d77ca29a.webp)
+
+![](_assets/9f/9f079935a69423705494c192fe931505.webp)
+
+![](_assets/4b/4bb56bb5e389e9af4ef92999c0f3ac00.webp)
+
+![](_assets/ff/ffb559dc4f2323fbea696e4b27b970bb.webp)
+
+![](_assets/6e/6e295a0e3f1ba8a1d4a32f9c3e450e4a.webp)
+
 
 *Лица, вещи и опыт эпохи ГУЛАГа*
 

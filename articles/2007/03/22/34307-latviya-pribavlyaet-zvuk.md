@@ -10,6 +10,16 @@ tags: ""
 ---
 
 # Латвия прибавляет звук
+![](_assets/43/4314ba34fe10934bdb69ebbb879471df.webp)
+
+![](_assets/dd/ddcf3bb3288d60d9ae344f664e785d3e.webp)
+
+![](_assets/04/04574393a1ea3995e7d6931155ff3e4a.webp)
+
+![](_assets/42/42c545019bcad51731932f721e5d42d1.webp)
+
+![](_assets/d5/d5804b737b54495333eaf1feb3ee855e.webp)
+
 
 *СССР: продукт после распада*
 

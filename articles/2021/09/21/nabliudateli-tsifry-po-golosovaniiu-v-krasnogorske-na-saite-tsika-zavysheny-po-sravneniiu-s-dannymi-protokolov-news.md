@@ -17,11 +17,11 @@ tags: "выборы, единая россия, красногорск, цик, 
 
 В голосовании по одномандатному избирательному округу в Госдуму кандидат от партии «Единая Россия» Сергей Колунов получил 112 голосов, а на [сайте](http://www.moscow-reg.vybory.izbirkom.ru/region/region/moscow-reg?action=show&tvd=100100225883576&vrn=100100225883172&region=50&global=null&sub_region=50&prver=0&pronetvd=null&vibid=25020003107339&type=464) ЦИКа говорится, что его поддержали 412 человек. То же самое произошло с кандидатом от «ЕР» Романом Володиным: по одномандатному избирательному округу в Мособлдуму он набрал 129 голосов, но по [данным](http://www.moscow-reg.vybory.izbirkom.ru/region/region/moscow-reg?action=show&root=502000026&tvd=25020003103128&vrn=25020003103095&region=50&global=null&sub_region=50&prver=0&pronetvd=null&vibid=25020003103128&type=424) ЦИКа, — 429.
 
-*\*
+![](_assets/22/221a5e179aea37741de0927b59598c0e.webp)
 
 Аналогичная ситуация сложилась на **УИК № 1223**: в голосовании в Госдуму «Единая Россия» получила 130 подписей, но ГАС «Выборы» утверждает, [что 430](http://www.moscow-reg.vybory.izbirkom.ru/region/region/moscow-reg?action=show&tvd=100100225883576&vrn=100100225883172&region=50&global=null&sub_region=50&prver=0&pronetvd=null&vibid=25020003107339&type=233). В Мособлдуме, согласно протоколу, за «ЕР» проголосовали 117 человек, но на сайте ЦИКа [отмечено](http://www.moscow-reg.vybory.izbirkom.ru/region/region/moscow-reg?action=show&root=502000026&tvd=25020003103128&vrn=25020003103095&region=50&global=null&sub_region=50&prver=0&pronetvd=null&vibid=25020003103128&type=379), что партия получила 417 голосов. У Колунова, по данным протокола, 97 подписей, однако [на сайте](http://www.moscow-reg.vybory.izbirkom.ru/region/region/moscow-reg?action=show&tvd=100100225883576&vrn=100100225883172&region=50&global=null&sub_region=50&prver=0&pronetvd=null&vibid=25020003107339&type=464) — 397. Володин получил 108 голосов, но на сайте указаны [408](http://www.moscow-reg.vybory.izbirkom.ru/region/region/moscow-reg?action=show&root=502000026&tvd=25020003103128&vrn=25020003103095&region=50&global=null&sub_region=50&prver=0&pronetvd=null&vibid=25020003103128&type=424).
 
-*\*
+![](_assets/a1/a164cb926bf272d7ff0777b9af6a7d56.webp)
 
 Кроме того, наблюдатели Сергей Гарнов и Евгений Гончаренко заметили несоответствия в отчетности протоколов и на сайте. Например, в протоколе указано, что по одномандатному избирательному округу в Госдуму комиссия выдала в помещении в день голосования 489 бюллетеней, а на сайте говорится, что 789.
 

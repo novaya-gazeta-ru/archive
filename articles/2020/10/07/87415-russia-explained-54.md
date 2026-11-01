@@ -27,6 +27,8 @@ From the EU to leading human rights and press freedom watchdogs, there’s growi
 
 **THE DAY BEFORE SHE DIED, SECURITY FORCES SEARCHED SLAVINA’S APARTMENT** in connection with a criminal case involving an “undesirable organization” — the legally-binding term used by Russian officials to suppress and harass civil society and journalism organizations. The search was linked to Open Russia, a leading pro-democracy organization created by the exiled Kremlin critic and former political prisoner Mikhail Khodorkovsky. Slavina covered the events related to the organization as a journalist.
 
+![](_assets/43/43dac5095717fe7a13280be4295dc1ee.webp)
+
 *Irina Slavina. Photo: Dmitriy Mitrokhin*
 
 **12 OFFICIALS FORCED THEIR WAY INTO SLAVINA’S APARTMENT USING A CROWBAR.** The journalistdocumented the break-in on Facebook. Police confiscated notebooks and laptops and other electronic devices. They took Slavina away for further interrogation. She wasn’t allowed to call her lawyer. It’s unclear what happened after that, but the very next day, she set herself on fire.
@@ -48,6 +50,8 @@ This is How State-Sponsored Homophobia Ruins Russian Families
 Maxim Lapunov was one of the few victims of recent queer pogroms in Russia who dared to speak out without hiding his identity. Novaya broke the story back in 2017 and offered Lapunov a platform to share his harrowing account. After Russia refused to protect him or his family, the Lapunovs fled abroad and now live as refugees. This week our special correspondents Elena Kostyuchenko and Victoria Odissonova, checked in with them for a mini-doc. It tells the story of the Lapunovs that got lost behind the internationally covered account of the violence perpetrated against Maxim.
 
 **RECLAIMING THE STORY.**Our Kostyuchenko and Odissonova tell the story of a Russian family that was almost destroyed by state-sponsored homophobia but survived. The story of a queer family that escaped the worst, but now faces the harsh reality of life as a refugee. Maxim had to run abroad to save his life. So did his family: his mother Nadezhda, a sister Maria with her own two children, his brother Sergey, and his partner of 13 years, Bogdan. Maria died of cancer after Novaya recorded these interviews.
+
+![](_assets/5f/5fb889047613979f6daa168b7f6d5a34.webp)
 
 *The Lapunov family. Photo: Victoria Odissonova / "Novaya Gаzeta"*
 
@@ -81,6 +85,8 @@ During the second half of September, the number of confirmed cases of Covid-19 i
 
 **SUSPICIOUS NUMBERS.** We’ve already reported that the official number of confirmed cases over the summer seems odd. For a sustained period, the number of daily confirmed cases was around 700, a fact that experts pointed out was statistically impossible. Now, despite the reported spike in the number of cases in September, up to 2,000 new daily infections, that month’s numbers also look suspicious.
 
+![](_assets/c9/c9353cd942548aae3aa1f51f044187ea.webp)
+
 *Photo: Petr Sarukhanov / "Novaya Gazeta"*
 
 **THE OFFICIAL DATA LOOKS COOKED. AGAIN.** In just one example of many, for around ten days in September, the number of officially confirmed cases in Moscow was always a multiple of 5, ending in 0 or 5 without variation. We asked local healthcare authorities about this and didn’t receive a response. But the very next day, the numbers stopped appearing as a multiple of 5.
@@ -100,6 +106,8 @@ ___
 Other Top-Stories Russia Has Been Reading
 
 - **RUSSIA PREPARES FOR OIL PRICE COLLAPSE:**One of our most-read stories this week is about the future of Russian oil. Last week, the Kremlin pushed through the parliament a bill forcing companies that export oil to pay duties even if the pl price is below $15 per barrel (a previous loophole allowed exporters to eschew this fee). Economists say that Russian officials are preparing for oil to stay below $15 per barrel for the next several years, at least. None of this bodes well for ordinary Russians. The collapse of the commodity economy will result in a sharp reduction in wages, and social spending will likely be cut, too.
+
+![](_assets/d0/d050ea15338acbfccd29a6cc16880b02.webp)
 
 *Photo: Hasan Kirmizitas / Zuma / TASS*
 

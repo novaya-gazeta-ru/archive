@@ -10,6 +10,24 @@ tags: "фестивали, литература, книги"
 ---
 
 # Люди, книги, мысли
+![](_assets/c6/c651ad0c8b66b763609f39f5905da886.webp)
+
+![](_assets/af/afad3fb9ef94805404b9a0a0277f0ca3.webp)
+
+![](_assets/a2/a273721a097fa6c4aa941452742b731a.webp)
+
+![](_assets/4d/4d85a8da5699cd710c567325f73b4437.webp)
+
+![](_assets/84/843c7d0d17b95a5109469645841c4147.webp)
+
+![](_assets/aa/aa89d4bd9ef697f6c2fb507347eea10e.webp)
+
+![](_assets/bd/bd4372a1e789b826df40ee6a3d56c793.webp)
+
+![](_assets/c8/c83bbb786221f3bfb5a459f88cd8ad5f.webp)
+
+![](_assets/83/83e2c1c584cd61538c142a22b44d2b8b.webp)
+
 
 *Главные события книжного фестиваля «Красная площадь». Выбор «Новой»*
 

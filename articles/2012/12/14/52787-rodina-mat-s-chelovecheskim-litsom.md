@@ -10,6 +10,10 @@ tags: ""
 ---
 
 # Родина-мать с человеческим лицом
+![](_assets/b9/b9c4a88bad36430580ffe489a51dd2a4.webp)
+
+![](_assets/f3/f33782a6761aa12fecf8de42e1a3ca29.webp)
+
 
 *В Берлине прошел фестиваль RusImport*
 

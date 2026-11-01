@@ -10,6 +10,16 @@ tags: ""
 ---
 
 # Музыкальные новости
+![](_assets/98/98c973391e0608f394ef5a0239bb5719.webp)
+
+![](_assets/06/06e85dff5207daab0037f29b2529bd69.webp)
+
+![](_assets/49/493b56bd5a63adc4aad450cd421d41dc.webp)
+
+![](_assets/e3/e353a5b7d1efde21d5177dcbebb4bf0c.webp)
+
+![](_assets/79/79578a65208994e99feb2286efc4b76b.webp)
+
 
 Black Sabbath начнут свое мировое турне концертом в Москве
 

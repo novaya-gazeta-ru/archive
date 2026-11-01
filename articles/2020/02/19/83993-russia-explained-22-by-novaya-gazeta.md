@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *State-linked forced labor — Messy Syrian campaign — HIV+ migrants deported*
 
+![](_assets/8c/8c9f7adbb3faccd89ee176014cdbd135.webp)
+
 *Construction of a residental complex in Perm Krai. Photo from the official site*
 
 This Week’s Highlights
@@ -31,6 +33,8 @@ On February 20, 2019, a judge in the Perm Krai – on the eastern edge of Europe
 
 **Government-funded forced labor.** A Russian-Korean man known only by his last name, Tsoi, was allegedly responsible for bringing the undocumented North Korean workers to the construction site. One of the workers told Novaya Gazeta that he and the other laborers lived on-site, in the very apartments they were building. “We even cooked for ourselves there. The workday was 15 to 16 hours. We slept on the floor, there was no bedding, only old mattresses,” he recalled. “Tsoi took our passports. They were only returned after the trials, ahead of the deportation.” Over the course of about two months, the five North Koreans worked as finishers and sometimes did hard labor like mixing cement. In the end, they were paid about $236 – as a group.
 
+![](_assets/c4/c43342c00b99987310be25821fe264e4.webp)
+
 *Photo: RIA Novosti*
 
 **A long-running scheme.**According to migrant rights lawyer Boris Ponosov, the chance of a proper investigation to determine who exactly employed the illegal North Korean workers is slim – the one-year statute of limitations for the case expires on February 20. He also suspects that this is likely a long-running scheme: dishonest employers profit off of the work of undocumented migrants – whose labor is so cheap it’s essentially forced – and then deport them from the country at the government’s expense. Meanwhile, illegal labor practices are covered up with the help of the police, the Federal Migration Service and the courts.
@@ -45,6 +49,8 @@ As Russia approaches the seventy-fifth anniversary of the victory in World War I
 
 **Fast track to popular support.** “The Kremlin is going through a ‘transitional state,’ they’re rushing to expand their powers [while] trying to show citizens a modest [amount of] care and attention,” explains our politics editor, Kirill Martynov. And given the current situation, the cheapest way for the Federal government to gain popular support is to carry out a hunt for unpopular, mid-level officials.
 
+![](_assets/8b/8b0530969dbea494841cb05229276c39.webp)
+
 *Illustration by Petr Sarukhanov*
 
 **Pretend you are fighting “rude bureaucrats.”**For example, just last month, the head of the Chuvashia Republic (a region west of the Volga river in the center of European Russia) lost his post after forcing a firefighter to jump for the keys to a new fire truck during an official ceremony. The way Martynov sees it, the fallout from this incident in Chuvashia speaks to the fact that in 2020, the “greatest sin” a public official can commit is rudeness. The government’s image has become so important that bad public relations have now superseded issues like corruption when it comes to reasons why mid-level Russian bureaucrats might lose their positions.
@@ -58,6 +64,8 @@ ___
 Moscow’s Messy Involvement in Syria, Explained
 
 Last week, the situation in Syria’s northwestern province of Idlib grew even more hostile as Turkey sent 12 thousand troops into the region and shut down its airspace. This came as a push back against Syria’s violation of the demilitarized zone, established through an agreement between Russia and Turkey in 2018. According to our source in southern Turkey, the Turkish side has also deployed two tank brigades with a total of 200 vehicles to the city of Antakya – near the border with Syria. In a special report for Novaya Gazeta, our award-winning war correspondent Wadih El Hayek breaks down what these developments mean for Russia’s ongoing intervention in Syria.
+
+![](_assets/7f/7f4315a2651ea167e81282ce93db581a.webp)
 
 *Two brothers – General Maher Assad and Syrian President Bashar Assad. Photo: Reuters*
 
@@ -77,6 +85,8 @@ While Russia’s two confirmed coronavirus patients are now officially cured, th
 
 **“Shut up first” – act later.** The fact that these disease control task forces refuse to talk to the press is worrying, says science journalist Irina Yakutenko. “We do not know what they are analyzing, there is no official information. This is also a violation of the [World Health Organization’s] rules. They’re supposed to tell society everything, but they aren’t telling us what’s actually happening,” she underscores. Instead, Russian officials are choosing to “shut up first and take urgent action later” – something Yakutenko says is customary.
 
+![](_assets/9f/9ff6cfd622368a1be94084fa9841f8a3.webp)
+
 *Laboratory testing of the 2019-nCoV coronavirus in Wuhan, China. Photo: AP / TASS*
 
 **New law targets sick migrants.**Earlier this month, Prime Minister Mikhail Mishustin signed an action plan to fight coronavirus – including a clause allowing for the deportation of sick foreign citizens. In addition to the coronavirus, the list includes 15 other infections, such as tuberculosis and HIV – and Russian officials didn’t wait long to use it.
@@ -90,6 +100,8 @@ ___
 Other Top-Stories Russia Has Been Reading
 
 - Among this week’s top articles was the story of Nikita Rukosuev – a father in the Siberian city of Krasnoyarsk who held a solo-picket following the death of his son. Two-year-old Zakhar died in intensive care because the local administration’s budget was unable to cover the cost of gene therapy medication, leaving doctors unable to treat him for spinal muscular atrophy. While this rare disease is treatable in very young children, a single injection costs about $2.5 million – a price tag ordinary Russian families simply can’t afford. What’s more, spinal muscular atrophy is not included in the Ministry of Health’s list of illnesses it covers with free treatment for children, despite the fact that it affects about 3,000 patients in Russia – 500 of whom are children under the age of two. Novaya Gazeta has been raising money to help other families whose children suffer from this disease and has launched a petition demanding that the new Constitution guarantee the right of children with rare diseases to receive assistance purchasing medicines.
+
+![](_assets/39/3983efc20cb4d2e9933d27896fb58c65.webp)
 
 *Zakhar, Dobrynya and Evelina. Photo from the family archive*
 

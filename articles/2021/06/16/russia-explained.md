@@ -25,6 +25,8 @@ Russian officials labeling Alexei Navalny's Anti-Corruption Foundation (FBK) and
 
 **AMONG THE FRESH LEGISLATION IS A BAN ON PEOPLE PARTICIPATING IN ELECTIONS IF THEY ARE INVOLVED IN 'EXTREMIST' ORGANIZATIONS.** There is also a new fine that can be imposed against people, even displaying support for such "extremist" organizations on social media. Cooperating with "undesirable organizations" is also set to be deemed a crime, with "cooperation" including attending press conferences or seminars, as well as making financial donations.
 
+![](_assets/51/51b545b7af6138a8ee7d4e57053dacdf.webp)
+
 *Photo: Vlad Dokshin / "Novaya Gazeta"*
 
 **WHAT DOES IT MEAN IN PRACTICE?** Russian officials [already use exceptionally wide and vague definitions of 'extremist'](https://novayagazeta.ru/articles/2021/02/17/89264-russia-explained) to target dissent or government criticism. This makes their job even easier.
@@ -53,6 +55,8 @@ On June 11, Russian police stormed a "safe house" for queer women in Makhachkala
 
 > _'Everyone who lived in this apartment was tied up, dragged out into the street, and Halima, and I ran to the balcony. And when her father came in, we threatened to jump. My friend was ready for this because it is better for her to jump than to return to Chechnya. This was the worst thing for her,'_ Manylova recollects.
 
+![](_assets/a4/a4241b6e04a15a1ac6dda2e35b4807ce.webp)
+
 *Photo: Eelizaveta Antonova / "Novaya Gazeta"*
 
 **BACK IN FEBRUARY, WE REPORTED ON A SIMILAR RAID OF A 'SAFE HOUSE' FOR QUEER MEN.** Authorities also [kidnapped two gay Chechen men](https://novayagazeta.ru/articles/2021/02/10/89147-russia-explained) and shipped them back to their torturers in southern Russia. It has become another grim illustration of [the worsening crackdown on LGBTQ+ Russian citizens](https://novayagazeta.ru/articles/2020/10/07/87415-russia-explained-54). But the latest case stands as a stark reminder of how the government crackdown on civil society groups, including [activists fighting domestic violence](https://novayagazeta.ru/articles/2021/04/28/russia-explained), worsens the security situation for Russian minorities.
@@ -68,6 +72,8 @@ Another police brutality case captured the country’s attention. A police offic
 **IMPOSSIBLE TO HOLD A SECURITY OFFICIAL ACCOUNTABLE FOR ILLEGAL USE OF FORCE.** Both American and Russian police forces take roots in formations called to protect the assets of ruling classes and enforce colonial domination. But that’s where the similarity ends. While in the US it seems more commonplace for police officers to shoot and kill suspected criminals (with systematic racial bias against African Americans), in Russia, it is much more typical for suspects to be beaten and tortured while in detention (to be fair, racial profiling by Russian police is widespread, too.) In most cases, it is an instrument to force a confession from the suspect. Most Russian police officers involved in these offenses are never held to account, and victims have no idea to whom they should turn for help.
 
 **THE MURDER OF VEKHIL ABDULAEV EXPOSES UNCHECKED BRUTALITY AND RACIAL PROFILING BY RUSSIAN POLICE.** Abdullaev was a young Russian Azeri man living in the country’s fourth-largest city of Yekaterinburg. Men like him, of darker skin color and those that ‘do not pass’ for a white ethnically Russian stereotype, face systematic police harassment. They are often sidelined and searched by Russian law enforcement. Usually, things stop at that. But Abdullaev was murdered during one of these checks. 38-year-old policeman Alexander Gusev shot him on the spot. However, the Investigative Committee did not find any signs of a crime committed by the security forces. A local court has also rejected a lawsuit by Abdullaev’s parents.
+
+![](_assets/a1/a19c624f0e27594c93a685d950cc7fe8.webp)
 
 *Screenshot from the video*
 

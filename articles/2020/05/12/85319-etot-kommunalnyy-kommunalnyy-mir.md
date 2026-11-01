@@ -13,27 +13,29 @@ tags: "абсурд, коммунальная квартира, коронави
 
 *Лидеры России, США, Великобритании, Китая, Германии и Беларуси изолировались в одной квартире. Комикс*
 
-*\*
+![](_assets/8b/8be641b021774b2db3956640a0063f50.webp)
 
-*\*
+![](_assets/2b/2be177aa8ffb0a769a06a97174e60bf7.webp)
 
-*\*
+![](_assets/e9/e97c77697dd25691fa99ecf0bd308757.webp)
 
-*\*
+![](_assets/27/2700381fc40d29d9dd22c92cb189a843.webp)
 
-*\*
+![](_assets/29/295790f525d663d7a3a7dc5273c34301.webp)
 
-*\*
+![](_assets/b6/b632772970a1531c71448109f23a9c3e.webp)
 
-*\*
+![](_assets/b6/b636b688b457eeb279b615ea065a7f49.webp)
 
-*\*
+![](_assets/85/85dd6020b112de1764a9278ce0ab351f.webp)
 
-*\*
+![](_assets/2d/2db1d91c032e74fe6a824629a59ead29.webp)
 
-*\*
+![](_assets/b7/b75307f80ca8a4ed8c6bb1d8d832bd8a.webp)
 
-*\*
+![](_assets/90/90ae3787b81752bdceaea5d51228c45d.webp)
+
+![](_assets/76/767cb9028992e87c77651384cd3bab0b.webp)
 
 *Комикс: Дмитрий Пахомов*
 
@@ -93,26 +95,26 @@ tags: "абсурд, коммунальная квартира, коронави
 >
 > ### [Героическая оборона Мосгордумы: ЦИК и Скрепман побеждают оппозиционную нечисть](https://novayagazeta.ru/articles/2019/11/13/82699-geroicheskaya-oborona-mosgordumy)
 
-*\*
+![](_assets/d7/d7b03f28131cdada335b35b2a52e38d5.webp)
 
-*\*
+![](_assets/51/51e1a03b6f0819bb472e7588f9cbbff8.webp)
 
-*\*
+![](_assets/f8/f89506321aa1ab177ae97d76f388ed60.webp)
 
-*\*
+![](_assets/4c/4c13b9324e9064def56805e5ead2b4f7.webp)
 
-*\*
+![](_assets/71/7155253c585c04c81bb18c46b4623bdb.webp)
 
-*\*
+![](_assets/2b/2b485b14c55f15ab5f3306e9db6f1542.webp)
 
-*\*
+![](_assets/35/358106c3bab6ff044f56c7201a8a057b.webp)
 
-*\*
+![](_assets/f4/f48f63f56e8a9aaa82c2bdcd6894ee47.webp)
 
-*\*
+![](_assets/4c/4c7c6710f971f202941f41846e530430.webp)
 
-*\*
+![](_assets/e5/e5e832612ba212dfc73bcc31f48fd5a5.webp)
 
-*\*
+![](_assets/96/963e3c0300222e6abc3e3b7baf67075d.webp)
 
-*\*
+![](_assets/30/30a7e8d446f489ddf327e0fb3174acbd.webp)

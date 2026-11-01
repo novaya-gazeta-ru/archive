@@ -10,6 +10,18 @@ tags: "агитация, выборы, единая россия, парнас, 
 ---
 
 # Гении политтехнологии
+![](_assets/70/70947885f908a433f2a8ff71912583ad.webp)
+
+![](_assets/49/494ee74f122d75e10e5ea15032adba1f.webp)
+
+![](_assets/0a/0abb978d8b5acd4d1eda2946b2e6808d.webp)
+
+![](_assets/09/0994b4f109570f9d03ecbe090bf176b4.webp)
+
+![](_assets/eb/eba484999cfcb5940a1ba3ee9419fffe.webp)
+
+![](_assets/0a/0a36e277d078220c8bd48ba3c7742e40.webp)
+
 
 *5 самых вызывающих предвыборных плакатов. И один — вне конкурса*
 

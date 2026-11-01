@@ -13,29 +13,55 @@ tags: "землетрясение, трагедия, турция, сирия, �
 
 *Землетрясения в Турции и Сирии: больше 5000 погибших, несколько тысяч разрушенных зданий. Фотографии*
 
+![](_assets/f5/f562448b4c07a3bd4f62399c9011c401.webp)
+
 *Джандарис, Сирия. Фото: RAMI AL SAYED / AFP / East News*
+
+![](_assets/57/572a3a7127d372a896bafde1a294ac6a.webp)
 
 *Диярбакыр, Турция. Фото: AA / ABACA / Abaca / East News*
 
+![](_assets/dd/dd3f45668bdc10fda9420e7e65b670e5.webp)
+
 *Мечеть Йени в Малатье, Турция. Фото: AA / ABACA/Abaca / East News*
+
+![](_assets/14/14713b07d2868b3a17f10d5c8a0f0783.webp)
 
 *Адана, Турция. Фото: AP/TASS*
 
+![](_assets/2c/2cc049e27012bd71f61614db174902bf.webp)
+
 *Азмарин, Сирия. Фото: AP / TASS*
+
+![](_assets/80/806214d28145a7deaf738bacc75aa15f.webp)
 
 *Алеппо, Сирия. Фото: AFP / East News*
 
-*Диярбакыр, Турция. Фото: AP / TASS*
+![](_assets/18/1884b7bae873632d29512d2261f63a2e.webp)
 
-*Диярбакыр, Турция. Фото: AP / TASS*
+*Диярбакыр, Турция. Фото: AP / TASS*
+
+![](_assets/c4/c4641858dad0a551761c482537610a9a.webp)
+
+*Диярбакыр, Турция. Фото: AP / TASS*
+
+![](_assets/49/49c37683dd3e63d1549c799158b1defc.webp)
 
 *Малатья, Турция. Фото: AA / ABACA / Abaca / East News*
 
+![](_assets/cd/cdf85b9345d3c593b27fb0f82d44254c.webp)
+
 *Адана, Турция. Фото: AP / TASS*
+
+![](_assets/42/42d8949b7d4b274d61925baa9832b0aa.webp)
 
 *Адана, Турция. Фото: AA / ABACA / Abaca / East News*
 
+![](_assets/72/72e8b7748c405784dc7f3a737a625268.webp)
+
 *Хатай, Турция. Фото: Zuma / TASS*
+
+![](_assets/f1/f1bffb303265b9deb4f35c3bf726404b.webp)
 
 *Адана, Турция. Фото: AA / ABACA / Abaca / East News*
 

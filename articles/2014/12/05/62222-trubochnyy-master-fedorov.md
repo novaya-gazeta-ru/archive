@@ -10,6 +10,14 @@ tags: ""
 ---
 
 # Трубочный мастер Федоров
+![](_assets/8e/8ee03c9a075f6e71cbce7f5de15b681f.webp)
+
+![](_assets/5d/5d64352a8a341bf8b1b5fadbffd833c0.webp)
+
+![](_assets/43/43769ea4bb5bbc5792a0f8eb07ab360f.webp)
+
+![](_assets/3f/3f96a7362ed6226f1497b306f0a4d164.webp)
+
 
 *А также  как были арестованы и освобождены старинные русские романсы*
 

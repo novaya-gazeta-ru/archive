@@ -10,6 +10,16 @@ tags: ""
 ---
 
 # В бараний рок
+![](_assets/f6/f6cdf9bfe9795786858ac14fefd536fb.webp)
+
+![](_assets/9f/9fd919ef8670d81fcaa92a3bf3eb0fe3.webp)
+
+![](_assets/4c/4c67b79f2b2acb28d4116b184c3cb6fd.webp)
+
+![](_assets/2f/2fb571be119a646a6f126aca79554b54.webp)
+
+![](_assets/de/deff973a92fd95e783cd3bec4fe54aa8.webp)
+
 
 *СССР возродился в головах  цензуру творческих коллективов осуществляют инициативные «товарищи на местах»*
 

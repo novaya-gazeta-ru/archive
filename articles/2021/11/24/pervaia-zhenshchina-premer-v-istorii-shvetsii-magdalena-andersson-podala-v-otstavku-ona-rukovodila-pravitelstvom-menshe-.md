@@ -15,6 +15,8 @@ tags: "швеция, премьер, отставка, андерссон, бю�
 
 Парламент Швеции (Риксдаг) [избрал](https://novayagazeta.ru/articles/2021/11/24/premerom-shvetsii-izbrali-lidera-sotsial-demokratov-magdalenu-andersson-eto-pervaia-v-istorii-strany-zhenshchina-na-postu-premera-news) ее новой главой правительства утром 24 ноября после отставки ее коллеги по партии Стефана Лёвена.
 
+![](_assets/a2/a205dc72065c59d487b484dde202394c.webp)
+
 *Магдалена Андерссон. Фото: Мартин Хёрнер Клоо*
 
 Андерссон возглавляла коалиционное правительство из Социал-демократической рабочей партии и «Зеленых».

@@ -13,6 +13,8 @@ tags: "обложка дня, лукашенко, протасевич"
 
 *Совершив акт международного террора, Лукашенко превратился в военного диктатора. И не оставил себе никаких шансов*
 
+![](_assets/3f/3f20ab7a485d85c3d006c5a5429200e2.webp)
+
 *Таким будет выпуск «Новой газеты» 26 мая 2021 года. Рисунок Петра Саруханова / «Новая газета». Ищите в киосках городов или заказывайте в нашем отделе распространения [по подписке](https://novayagazeta.ru/subscription).*
 
 — Европа [разрывает с Беларусью отношения](https://novayagazeta.ru/articles/2021/05/25/ni-deneg-ni-samoletov). — [Даже боевики ХАМАС](https://novayagazeta.ru/articles/2021/05/25/nekie-sily-reshili-nas-obolgat) не хотят ассоциировать себя с Лукашенко. — Россия пока [поддерживает, но стиснув зубы](https://novayagazeta.ru/articles/2021/05/25/diktatora-na-passazhira-ne-meniaem). — [Стенограмма переговоров](https://novayagazeta.ru/articles/2021/05/25/otkuda-prishla-rekomendatsiia-perenapravit-nas-v-minsk) рейса Ryanair с минскими диспетчерами перед разворотом на Минск.

@@ -13,13 +13,13 @@ tags: "физраствор"
 
 *Святое от Физраствора в «Новой газете»*
 
-*\*
+![](_assets/f6/f6316eaf24ca55f589f67ec616e05bf0.webp)
 
-*\*
+![](_assets/eb/eb391ab98e54c507ffbbb1d13565b2dd.webp)
 
-*\*
+![](_assets/cc/ccec375c372f0ea6a01a5d59f66f0a91.webp)
 
-*\*
+![](_assets/12/123a3d1cd8d9bb10455b315e445c1c74.webp)
 
 > **ОТ РЕДАКЦИИ**
 >

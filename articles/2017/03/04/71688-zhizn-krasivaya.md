@@ -10,8 +10,28 @@ tags: "медицина, хосписы, волонтеры, паллиатив�
 ---
 
 # Жизнь — красивая
+![](_assets/5c/5c48aa9fbf2cd8fa2eaeb7907cca9d4f.webp)
+
+![](_assets/ea/ea67889f610df072b64b2755bd918433.webp)
+
+![](_assets/e0/e047e9691c9bab67b7b481afb02cb068.webp)
+
+![](_assets/e2/e227d82737aa440bc1dade99a1132bcb.webp)
+
+![](_assets/7a/7a4323e878cf9dde10ae2c3e0450456a.webp)
+
+![](_assets/03/03c61d3315cf099d8c9c9d6c8952165c.webp)
+
+![](_assets/5c/5ce988de89192a697c18f16002f9840a.webp)
+
+![](_assets/e1/e178b6ff33e412e410067bd351c1a744.webp)
+
+![](_assets/15/15a68863b95ac1a87a1dd288eca348cc.webp)
+
 
 *9 портретов людей с необратимыми диагнозами*
+
+![](_assets/6c/6c46a4d047699f4b1bd6360c48f21c45.webp)
 
 *День красоты в Центре паллиативной медицины. Фото: Анна Артемьева / «Новая газета»*
 

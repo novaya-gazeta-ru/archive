@@ -10,6 +10,16 @@ tags: "выставки, репрессии"
 ---
 
 # Нам надо найти фото автора
+![](_assets/d3/d30c0033e9f9b0d1dce942ec8741b1bf.webp)
+
+![](_assets/10/10643e50e743fe6148794290685cca49.webp)
+
+![](_assets/3a/3a5befd70e1e3b3f6f936c350bb8d0bf.webp)
+
+![](_assets/ed/ed6a8e05f590f869576b4a032c47f726.webp)
+
+![](_assets/08/08545675e0c7df66614d99266b53cb68.webp)
+
 
 *Выставка одного экспоната*
 

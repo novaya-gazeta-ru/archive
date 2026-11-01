@@ -10,8 +10,38 @@ tags: "как устроено, карелия, нравы, сепаратизм
 ---
 
 # Сепаратист Заваркин
+![](_assets/a0/a08ba3a9f7aac187129efcc78d5310e2.webp)
+
+![](_assets/7c/7cd3422aafc81098c25c34aa2b7fde30.webp)
+
+![](_assets/8d/8de03abc5d67a728bc9708c8db7543df.webp)
+
+![](_assets/a2/a2f96fff4e1a1ec2fc1be701eea8a67e.webp)
+
+![](_assets/19/19f4c63509bc8b063d666cb754ec9527.webp)
+
+![](_assets/21/21a2951151353c919c7e069194f98399.webp)
+
+![](_assets/01/01ddbc8d2af83f61895c056b7c597086.webp)
+
+![](_assets/59/598f48e255c1be0d213f8ae959d79c71.webp)
+
+![](_assets/d0/d0f8c1e8a801bc9e06c982a498000565.webp)
+
+![](_assets/5e/5ebb3ed247cf21d152339f00e2a20007.webp)
+
+![](_assets/7b/7b0228fdf6091fc944973cd3068b7bf5.webp)
+
+![](_assets/41/41ce631a1cde201a6962a68f7550f29b.webp)
+
+![](_assets/29/298413aaddeba8929acef78c96616074.webp)
+
+![](_assets/b2/b29d6340c64548c6f9dcfe35a830ef47.webp)
+
 
 *Репортаж из приграничного городка Суоярви, где живет и работает самый известный российский «сепаратист»*
+
+![](_assets/dd/ddd4b85822be2bd5fc9a5250b70d3158.webp)
 
 *Заваркин. Фото: Анна Артемьева / «Новая газета»*
 

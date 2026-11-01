@@ -10,6 +10,16 @@ tags: ""
 ---
 
 # «Почему я такой взрослый, что все понимаю?»
+![](_assets/2d/2dd469b1ed355f0cfca6c0f656dbceb8.webp)
+
+![](_assets/17/17b5e6ab587b5d1c66b4c30bf66d0c9f.webp)
+
+![](_assets/a1/a1ac1d2236f979e73fb90d072943bd61.webp)
+
+![](_assets/34/344ce39fd70b39eb00adf8604b57fbce.webp)
+
+![](_assets/e6/e6883bc108ad63c63366a5050d34e030.webp)
+
 
 *Говорят дети, живущие в донецких бомбоубежищах*
 

@@ -10,6 +10,20 @@ tags: ""
 ---
 
 # Валентина МЕЛЬНИКОВА:  «Я спрашиваю, где уголовные дела по погибшим? Нет этих дел»
+![](_assets/f0/f0242edfa170eb9326f191055e46b0eb.webp)
+
+![](_assets/72/72e4c081e07bdf629e461b0b5b2f7562.webp)
+
+![](_assets/9f/9fca1c8746b961a677cddc4cbbb92609.webp)
+
+![](_assets/1f/1fe8e211c00115cfe84d6adb3727d734.webp)
+
+![](_assets/c0/c0dfe54480ad8eaa874353bc19972ca7.webp)
+
+![](_assets/f3/f337165a1dbf62835a7da02d0fe3ccd0.webp)
+
+![](_assets/1f/1fd07b673dc245eb188285309554d4cc.webp)
+
 
 Фото: Анна Артемьева/«Новая газета»
 

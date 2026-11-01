@@ -10,8 +10,28 @@ tags: "протесты, чиков, росгвардия, комикс, абс�
 ---
 
 # Буря в бумажном стаканчике
+![](_assets/ea/ea7d8e20e730bcbd6d16805a422f0a40.webp)
+
+![](_assets/3b/3bc379b4b8c10b430fdcc92b58ab8877.webp)
+
+![](_assets/33/331d82a969564994122b9ea0462b38ea.webp)
+
+![](_assets/46/465530beb42ae4f33ad2dc9000fbf63a.webp)
+
+![](_assets/65/654f9db6b2e14f7c92e2c5d304a11556.webp)
+
+![](_assets/5b/5bc71a082d7ceae654162de6408bf3ef.webp)
+
+![](_assets/b3/b3a1f443b29a84819b45cf97887e1227.webp)
+
+![](_assets/95/95eb786c448ef1f30e40c9bf2b4abdf0.webp)
+
+![](_assets/6c/6c846a6d644c6f66f71f63d2bb156bee.webp)
+
 
 *Росгвардия против Аллена Даллеса на московских митингах. Комикс*
+
+![](_assets/6f/6fa961105be6860a84875310b23ec433.webp)
 
 *Комикс: Евгений Киямов — специально для «Новой газеты»*
 

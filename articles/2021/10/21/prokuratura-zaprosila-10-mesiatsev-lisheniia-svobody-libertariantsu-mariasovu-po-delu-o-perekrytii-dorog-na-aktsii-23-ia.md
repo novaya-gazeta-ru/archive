@@ -15,6 +15,8 @@ tags: "ng, дорожное дело, марьясов"
 
 Марьясов стал первым фигурантом уголовного дела по ст. 267 УК в Москве. [«Мосгортранс»](https://novayagazeta.ru/articles/2021/09/10/mosgortrans-vsled-za-metro-moskvy-podal-isk-k-aktivistu-mariasovu-iz-za-mitinga-23-ianvaria-vsego-ot-nego-trebuiut-27-mln-rublei-news) и [метро Москвы](https://novayagazeta.ru/articles/2021/09/09/metro-moskvy-potrebovalo-15-mln-rublei-ot-aktivista-mariasova-ego-obviniaiut-v-perekrytii-dorog-na-protestakh-23-ianvaria-news) ранее предъявили ему иски с требованием компенсировать простой транспорта во время митинга 23 января (1 165 852 рублей и на 1 541 148 рублей соответственно).
 
+![](_assets/61/61bb23e867143dda5d9aa27162b2bf2d.webp)
+
 *На акции 23 января. Фото: Светлана Виданова / «Новая газета»*
 
 Активиста [задержали](https://novayagazeta.ru/news/2021/02/22/168067-v-moskve-chlena-libertarianskoy-partii-maryasova-dostavili-na-dopros-po-delu-o-perekrytii-dorog-ego-zaderzhali-na-vyhode-iz-spetspriemnika) 22 февраля на выходе из спецприемника, где он отбывал 30 суток ареста за повторное нарушение правил проведений акций (ч. 8 ст. 20.2 КоАП) и неповиновение требованию сотрудника полиции (ст. 19.3 КоАП). Ему впоследствии назначили запрет определенных действий.

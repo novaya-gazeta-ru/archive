@@ -11,7 +11,7 @@ tags: "зеленский, трамп, ссора, военная помощь �
 
 # Трамп приостановил всю военную помощь Украине. В Белом доме ждут, что Киев покажет «стремление к миру»
 
-*\*
+![](_assets/da/da020235ef6e4c60a9f7abe223810ed1.webp)
 
 Президент США подписал указ, приостанавливающий поставки Киеву оружия и боеприпасов, в том числе и тех, которые уже были заказаны или находились в пути. Об этом пишут [CNN](https://edition.cnn.com/2025/03/03/politics/trump-administration-ukraine-aid/index.html), [Bloomberg](https://www.bloomberg.com/news/articles/2025-03-03/trump-pauses-military-aid-to-ukraine-after-clash-with-zelenskiy?srnd=homepage-europe&embedded-checkout=true) и другие мировые информагентства. Речь идет о вооружении на сумму более миллиарда долларов, отмечают они, но точные объемы неизвестны.
 

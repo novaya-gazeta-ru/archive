@@ -27,6 +27,8 @@ Russia’s official coronavirus count has surpassed 21,000 patients. Thousands o
 
 **QR Quarantine.** For residents of Moscow, leaving the house is more complicated than ever. Beginning on April 13, the authorities introduced a system of digital passes, which requires Muscovites to send an online request for a QR code in order to go to work or run errands. The police can ask you to present your digital code at any time and a seperate app has been launched to control the movement of COVID-19 patients. Given the onset of warmer spring weather and the approach of the Orthodox Easter holiday, these measures are clearly designed to discourage people from going outside.
 
+![](_assets/06/06f45cec38e9403bd06a8c324f6d0661.webp)
+
 *Photo: Svetlana Vidanova / Novaya Gazeta*
 
 **Third time's a charm.** On April 2 , President Vladimir Putin made his third address to the nation in recent weeks and announced that the nationwide “week off”would be extended until the end of the month. Once again, Putin did not introduce a state of emergency but rather listed the government’s latest measures to support individuals and businesses.
@@ -51,6 +53,8 @@ For the time being, Putin is offering anyone who has been unemployed since March
 
 > “I don’t have a medical education, but I don’t care, I’ll go to the hospital. We need money! We have nothing to eat,” she says.
 
+![](_assets/f2/f2f44bc01ca2a3bc5e71294792654fdb.webp)
+
 *Photo: RIA Novosti*
 
 **Experts weigh in.** If self-isolation lasts for a year, over 15 million people in Russia could lose their jobs, warn experts from the Moscow-based Center for Macroeconomic Analysis and Short-term Forecasting (CMASF). According to our own research, there’s already been an uptick in Russians looking for work via online job sites. And the president of the online portal SuperJob, Alexei Zakharov, says that the unemployment situation could be even worse.
@@ -67,6 +71,8 @@ Chechnya’s Inhumane COVID-19 Crackdown, Explained
 
 During a video address on April 13, the head of Russia’s most repressive region of Chechnya, Ramzan Kadyrov, made a direct threat to our journalist Elena Milashina. She was attacked in the region back in February. The threat came in response to her reporting on the severe lockdown measures in Chechnya, which are forcing local residents to hide their illnesses for fear of retribution. As a result, they are dying in their own homes.
 
+![](_assets/2e/2ea5185648e162642310c4f1e1c20035.webp)
+
 *Ramzan Kadyrov. Photo: RIA Novosti*
 
 **A direct threat.** Kadyrov called on Gazprom, the security services and Putin to stop Novaya Gazeta’s alleged “anti-Chechen harassment.” He then appealed to them “keep Chechens from turning into killers”; asking them not to force him to “take a sin upon his soul” for “stopping the work of Novaya Gazeta.” Kadyrov also refers to the February attack on Milashina specifically and describes her saying “the woman, if she can be called a woman.”
@@ -76,6 +82,8 @@ During a video address on April 13, the head of Russia’s most repressive regio
 **The “Chinese Model.”** In an alleged attempt to stop the spread of COVID-19, Kadyrov has introduced harsh measures, which he refers to as the “Chinese model.” He even told residents of the region to “imagine that you are in prison, but with comfortable conditions.” Kadyrov has also compared coronavirus patients to terrorists, and threatened them with beatings, imprisonment or even death for falling ill.
 
 **High-profile deaths.** On April 7, Ahmad Garayev passed away in the village of Novye Atagi in Chechnya. He was over 80 years old and a high-profile figure; he knew Ramzan Kadyrov’s father, his predecessor, Akhmad Kadryov, well. His funeral was held the next day and a huge number of people attended. Later that evening, nine of his relatives were diagnosed with COVID-19.
+
+![](_assets/63/63ad56af9f0771d127eabcbf66549464.webp)
 
 *A Chechen policeman carrying a polypropylene stick. Screenshot*
 
@@ -92,6 +100,8 @@ Ufa’s Quarantined Hospital, Explained
 Since April 6, the Republican Clinical Hospital in Ufa (the capital of Russia’s Republic of Bashkortostan), has been under emergency quarantine due to an alarming outbreak of the coronavirus. According to unofficial reports, 600 patients and 400 doctors are on lockdown inside the building, and there are at least 170 people among them with symptoms of COVID-19. During a briefing on April 10, however, the Minister of Health claimed that there were only 40 confirmed coronavirus cases in the republic.
 
 **Surprise lockdown.** Doctors at the Republican Clinical Hospital came to work as per usual on the morning of April 6, but near the end of the day shift, around 4 p.m., they discovered that the doors had been locked. All medical staff and patients inside the building were forced to stay there without any of their things since no one had warned them about the emergency quarantine.
+
+![](_assets/b4/b47eeefe8798a90be22a16002d7b6470.webp)
 
 *Medical staff in the quarantined hospital in Ufa. Photo sent by Timur Urazmetov*
 
@@ -110,6 +120,8 @@ ___
 Other Top-Stories Russia Has Been Reading
 
 - **Prison riots in Irkutsk.** Our most-read story this week was about a prison riot that broke out at a penitentiary in the Siberian city of Irkutsk. According to official reports, inmates attacked a staff member, who was later hospitalized for his injuries. Based on our sources, however, the incident was far more complicated. Prison guards reportedly beat a notorious authority figure from the criminal underworld, to which 17 inmates responded by slashing their wrists. This allegedly escalated into a full-blown riot when guards responded with force– the inmates even set fire to the prison’s woodshop.
+
+![](_assets/b1/b14d8d5a938ec10c58f73151fc6cf8e5.webp)
 
 *Irkutsk prison burning down. Photo: Siberia Without Torture / TASS*
 

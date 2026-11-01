@@ -23,7 +23,7 @@ tags: ""
 - Placebo
 - Jack White
 
-*\*
+![](_assets/02/025cb5829cb869bc6c2b1c287e33dc51.webp)
 
 > **Самое Большое Простое Число**
 >
@@ -40,7 +40,7 @@ tags: ""
 >
 > \
 
-*\*
+![](_assets/de/de2437b3d804a9e86789d42a718ac82b.webp)
 
 > **Legendary Pink Dots**
 >
@@ -57,7 +57,7 @@ tags: ""
 > *— This is The Museum\
 >  — Nightingale, A Stretch Beyond*
 
-*\*
+![](_assets/a9/a9a3db5b561ddf3159f5aa600385e9b6.webp)
 
 > **Tequilajazzz**
 >
@@ -79,7 +79,7 @@ tags: ""
 > — *«Никого не останется»\
 >  *— *«Не до мечей»*
 
-*\*
+![](_assets/2c/2cfac63b1d60ecf80e66b51cad5d6324.webp)
 
 > **IDLES**
 >
@@ -96,7 +96,7 @@ tags: ""
 >
 > \
 
-*\*
+![](_assets/d4/d47197eddc8471cdeb17ebd959a93564.webp)
 
 > **Колибри**
 >
@@ -114,7 +114,7 @@ tags: ""
 > — *«Орбитальная станция»\
 >  *— *«Что-то о небе», «Лиза»*
 
-*\*
+![](_assets/c0/c01641411ae5a96fdd9328a44904f4d7.webp)
 
 > **Placebo**
 >
@@ -132,7 +132,7 @@ tags: ""
 >
 > \
 
-*\*
+![](_assets/db/db313ea2989524049cda69ba84821760.webp)
 
 > **Jack White**
 >

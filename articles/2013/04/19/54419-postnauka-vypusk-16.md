@@ -10,6 +10,28 @@ tags: "наука"
 ---
 
 # Постнаука. Выпуск #16
+![](_assets/68/6835497bf4f8013eb7c155b674363fb8.webp)
+
+![](_assets/27/272f9f8211c19c9a012c5dfa8b2c219c.webp)
+
+![](_assets/64/643d8d20270ef640a07d6ef57709fefa.webp)
+
+![](_assets/10/1014d50c93dbbbd7c721f86843281df1.webp)
+
+![](_assets/a5/a50327fff2aba1310522e9d808b762da.webp)
+
+![](_assets/2f/2f546d52d613a43babf870598d0b07e7.webp)
+
+![](_assets/00/0096ddb494a9e63e07f53fb16155088d.webp)
+
+![](_assets/b4/b4d12435bef5151a272c7171eb72edf4.webp)
+
+![](_assets/4b/4b56e2ee8f9e60282a0a4659dcda714c.webp)
+
+![](_assets/c3/c3113ca6329840b6fb71094d2b3ba6fe.webp)
+
+![](_assets/61/61f41eb4cf2922dd425bc5493805d543.webp)
+
 
 *Проект «Новой газеты» и сайта postnauka.ru*
 

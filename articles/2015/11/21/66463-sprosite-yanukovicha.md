@@ -27,7 +27,11 @@ tags: "оружие, сирия, украина, янукович"
 
 В феврале 2013 года был сбит вертолет правительственных войск на севере провинции Алеппо. Вскоре боевики распространили видео о том, как и из какого оружия он был сбит. Эксперты опознали на видео китайский ПЗРК FN-6 Manpads.
 
+![](_assets/fc/fc660e6c696655f0dc9cdee90654ba13.webp)
+
 *В руках у боевиков китайский ПЗРК. Скриншот с видео, опубликованный в феврале 2013г. Ищется по [ссылке](https://www.google.ru/search?q=First+Sightings+Of+Foreign+MANPADS+In+Syria&oq=First+Sightings+Of+Foreign+MANPADS+In+Syria&aqs=chrome..69i57j69i60l2&sourceid=chrome&es_sm=122&ie=UTF-8).*
+
+![](_assets/f1/f12bb9fd75ef556060aca0f2658fc50b.webp)
 
 *Тот же ПЗРК на буклете китайской армии. Фото широко [распространено](https://www.google.ru/search?q=FN-6+Manpads&newwindow=1&safe=off&biw=1920&bih=955&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjK1NSL3aHJAhUHECwKHV3RB0EQ_AUIBigB) в сети*
 

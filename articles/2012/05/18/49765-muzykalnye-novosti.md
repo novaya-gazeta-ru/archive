@@ -10,6 +10,20 @@ tags: ""
 ---
 
 # Музыкальные новости
+![](_assets/b6/b648dcb0a57e803a6aab37e65a5b8bfc.webp)
+
+![](_assets/f2/f22ed01e93008a903890f00e26f42e31.webp)
+
+![](_assets/8d/8d69bd2874fde5fe56a1315c6a5459cf.webp)
+
+![](_assets/71/7192c44ffe4ad16981dda79f310c889d.webp)
+
+![](_assets/eb/eb4625a8af2b78fe16c21f75c2172b00.webp)
+
+![](_assets/4c/4c6461ec169953347da7618a356e733c.webp)
+
+![](_assets/5f/5ffc0975385eaa5df40039541e4d776e.webp)
+
 
 О жизни и творчестве Джимми Хендрикса снимут художественный фильм
 

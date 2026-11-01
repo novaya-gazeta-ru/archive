@@ -13,7 +13,7 @@ tags: "музыка, рок"
 
 *Альбомы-2022: Kula Shaker, Shortparis, Iamamiwhoami, Alanis Morissette, Fontaines D.C.*
 
-*\*
+![](_assets/15/1534f7cd0ce8b7c761778b0602c02c0b.webp)
 
 > **Kula Shaker**
 >
@@ -34,7 +34,7 @@ tags: "музыка, рок"
 >  — Farewell Beautiful Dreamer,\
 >  — The Once and Future King.*
 
-*\*
+![](_assets/cf/cf72243599053a53c10828d04caecf91.webp)
 
 > **Shortparis**
 >
@@ -59,7 +59,7 @@ tags: "музыка, рок"
 > *— «Гетто в озере»,\
 >  — «Охота на волков».*
 
-*\*
+![](_assets/6b/6b8de54d696d34213ab30fe1cb333bbc.webp)
 
 > **Iamamiwhoami**
 >
@@ -81,7 +81,7 @@ tags: "музыка, рок"
 >  — i tenacious,\
 >  — call my name.*
 
-*\*
+![](_assets/ba/baaceab668cb0006db848296b2de191c.webp)
 
 > **Alanis Morissette**
 >
@@ -103,7 +103,7 @@ tags: "музыка, рок"
 > - **Стиль:** эмбиент.
 > - **Обратить внимание на: **альбом целиком.
 
-*\*
+![](_assets/2c/2c41a0e0cb87c382d5e0e09d1dee8de7.webp)
 
 > **Fontaines D.C**
 >

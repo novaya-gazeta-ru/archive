@@ -10,6 +10,12 @@ tags: "карта памяти"
 ---
 
 # Чубчик
+![](_assets/a3/a39da2613ab9ec1730c28d593a3fbcac.webp)
+
+![](_assets/f2/f28fdcad1a1333d79256e27bedbea300.webp)
+
+![](_assets/b9/b94319074af8a8ff64027799a7decfaf.webp)
+
 
 *Тенгиз Мирзашвили наше правительство любил. Рисовать*
 

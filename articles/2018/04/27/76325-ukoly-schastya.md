@@ -13,7 +13,9 @@ tags: ""
 
 *Как остановить мгновение*
 
-*Петр Саруханов / «Новая газета». [Перейти на сайт художника](http://www.sarukhanov.info/index.php?id=48&lang=rus)*
+![](_assets/88/88435ef8f85f8c4b9f72109725508c5f.webp)
+
+*Петр Саруханов / «Новая газета». [Перейти на сайт художника](http://www.sarukhanov.info/index.php?id=48&lang=rus)*
 
 # Et in Arcadia ego
 

@@ -10,6 +10,18 @@ tags: ""
 ---
 
 # Оружие было с двух сторон
+![](_assets/cb/cbfae0aa608950631fb98c851d20e415.webp)
+
+![](_assets/24/24679f17b3c53e0c58688ff5affba77a.webp)
+
+![](_assets/97/9716aa2d4cbf6ab20284ffb1b1abdb38.webp)
+
+![](_assets/b7/b7a98b03d032754252afaedffeed2ea3.webp)
+
+![](_assets/fb/fb61b50b3b8f5a5de73e506d0e7a8e57.webp)
+
+![](_assets/3a/3a45dc8a03db824ef54108d99a93dbed.webp)
+
 
 *Специальный репортаж и свидетельства очевидцев о том, что происходило в Одессе 2 и 4 мая*
 

@@ -10,6 +10,26 @@ tags: "сериалы"
 ---
 
 # От морга и тюрьмы — до кабинета в Белом доме
+![](_assets/88/883140ca39ccc177534aea907725741a.webp)
+
+![](_assets/d2/d230eae7db88015a9b0881d774e4c352.webp)
+
+![](_assets/a2/a26d8048ad288d3046b044c9e83b2465.webp)
+
+![](_assets/60/60785da7c32ff6e05e3916cf1456f4db.webp)
+
+![](_assets/9b/9b466bae5465d0114f9ae4557f215552.webp)
+
+![](_assets/d5/d5148d4e27e59365764b339fcc4fd530.webp)
+
+![](_assets/4a/4af0e762811948e2d619d94027dc6325.webp)
+
+![](_assets/2f/2fef8dd10ca4b1414105cd043fc927b2.webp)
+
+![](_assets/bb/bbe53b770a19dd67b723f9fac59980c5.webp)
+
+![](_assets/99/99ecba791cf0a6d92c0e5e25815ce7fb.webp)
+
 
 *10 актрис, которые в XXI веке стали звездами благодаря телесериалам*
 

@@ -10,6 +10,14 @@ tags: ""
 ---
 
 # Репортаж из космоса
+![](_assets/fd/fda80aea9338a75981da99faab1b1b47.webp)
+
+![](_assets/69/6931e73d5dd6a1a89a3cad01fdbc3585.webp)
+
+![](_assets/32/32937dca015ea47b572b258ecf74709d.webp)
+
+![](_assets/a6/a6b226e9bb1f1fceaa317539ced32713.webp)
+
 
 *СССР: Продукт после распада*
 

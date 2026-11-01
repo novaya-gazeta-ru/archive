@@ -13,6 +13,8 @@ tags: "музыка, импровизация, песни"
 
 *Песня года – 2021*
 
+![](_assets/c3/c32a09202e1e61e165cc4f4bf85c8154.webp)
+
 *Фото: РИА Новости*
 
 2021-й начался массовыми выходами на улицу, а заканчивается массовыми проверками СК и отъездами из страны. И все это под музыку. Музыканты так часто присутствовали в новостях, как будто все мы участвуем в съемках их клипа. В сущности, так и было. Весь год прошел под саундтрек, составленный из песен [Оксимирона](https://novayagazeta.ru/articles/2021/12/02/bg-dlia-zumerov-ili-staia-odinokikh-volkov), [Максима Покровского](https://novayagazeta.ru/articles/2021/05/13/on-dolzhen-prosit-proshcheniia-no-ne-budet), [Нойза](https://novayagazeta.ru/articles/2021/11/19/oksimiron-zdorovogo-cheloveka), [Шевчука](https://novayagazeta.ru/articles/2021/11/02/iurii-iulianych-i-pustota), [Моргенштерна](https://novayagazeta.ru/articles/2021/11/27/uekhal-chtoby-ostatsia), [Обломова](https://novayagazeta.ru/articles/2021/10/22/oni-schitaiut-chto-vse-v-strane-ikh) и других артистов, о которых писала «Новая».

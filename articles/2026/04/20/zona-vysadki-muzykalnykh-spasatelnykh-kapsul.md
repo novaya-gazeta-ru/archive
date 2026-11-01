@@ -13,7 +13,7 @@ tags: ""
 
 *Обзор новой музыки, чтобы справиться с тревожностью*
 
-*\*
+![](_assets/fb/fb511b073bd5840d035d962fb22c0fb2.webp)
 
 > **TOMORA — COME CLOSER / 2026**
 >
@@ -27,7 +27,7 @@ tags: ""
 >
 > - **Слушать: **[**Apple.Music**](https://music.apple.com/gb/album/come-closer/1871184398)[**Telegram**](https://t.me/zerowave/2660)
 
-*\*
+![](_assets/d7/d7e2b54688076f63aa739ab741ec3a53.webp)
 
 > **Jarboe — Sightings / 2025**
 >
@@ -41,7 +41,7 @@ tags: ""
 >
 > - **Слушать: **[**Apple.Music**](https://music.apple.com/ru/album/sightings/1890356169)
 
-*\*
+![](_assets/c2/c277d50999a13e248344110a823665bf.webp)
 
 > **Nine Inch Nails feat. Boys Noize — Nine Inch Noize / 2026**
 >
@@ -51,7 +51,7 @@ tags: ""
 >
 > - **Слушать: **[**Apple.Music**](https://music.apple.com/ua/album/nine-inch-noize/1893171321)[**Telegram**](https://t.me/zerowave/2659)
 
-*\*
+![](_assets/ef/ef6807757b30cc6259e91f1efcb4e5c4.webp)
 
 > **Gem Club — Emerald Press / 2026**
 >
@@ -61,7 +61,7 @@ tags: ""
 >
 > - **Слушать: **[**Apple.Music**](https://music.apple.com/ar/album/emerald-press/1874317625)
 
-*\*
+![](_assets/2f/2faf8b8686de9108a5c866d748063e5c.webp)
 
 > **Mclusky — i sure am getting sick of this bowling alley / 2026**
 >

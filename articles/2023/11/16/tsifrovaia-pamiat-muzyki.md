@@ -19,7 +19,7 @@ tags: "shortparis, чувства анны, василий шумов, васи�
 - **Galya Bisengalieva**
 - **Центр**
 
-*\*
+![](_assets/e7/e740d508011118742bb21cb058ab24e2.webp)
 
 > ### **Oneohtrix Point Never **
 >
@@ -33,7 +33,7 @@ tags: "shortparis, чувства анны, василий шумов, васи�
 > - **Стиль: **электронный глитч
 > - **Обратить внимание на:** Krumville, Nightmare Paint, A Barely Lit Path
 
-*\*
+![](_assets/f6/f66b74bddc075b66befd85c9e44058c2.webp)
 
 > ### **DJ Shadow **
 >
@@ -49,7 +49,7 @@ tags: "shortparis, чувства анны, василий шумов, васи�
 > - **Стиль:** электронная сэмплоделика
 > - **Обратить внимание на:** Ozone Scraper, Witches Vs. Warlocks, Forever Changed
 
-*\*
+![](_assets/8f/8f5b677a983cfd51dd92e89d02ad2173.webp)
 
 > ### **Shortparis **
 >
@@ -61,7 +61,7 @@ tags: "shortparis, чувства анны, василий шумов, васи�
 >
 > - **Слушать на**[Яндекс.Музыка](https://music.yandex.ru/album/27925800)
 
-*\*
+![](_assets/b1/b1d4ca4a7ef6bda1c408e5c51605c9f0.webp)
 
 > ### **Galya Bisengalieva**
 >
@@ -79,7 +79,7 @@ tags: "shortparis, чувства анны, василий шумов, васи�
 > - **Стиль:** contemporary electronic
 > - **Обратить внимание на: **Polygon, Balapan, Degelen
 
-*\*
+![](_assets/48/4875abfb09815ab6346fbc0d515315db.webp)
 
 > ### **Центр**
 >

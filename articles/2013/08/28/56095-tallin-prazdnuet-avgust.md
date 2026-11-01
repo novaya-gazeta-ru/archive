@@ -10,6 +10,8 @@ tags: ""
 ---
 
 # Таллин празднует август
+![](_assets/64/64fff84c2cb4e12ecc756abdbe72ed41.webp)
+
 
 *SUUR AITAH Ельцину и Довлатову*
 

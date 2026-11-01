@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *Anti-crisis stimulus — Struggle for tests — Downplaying the outbreak*
 
+![](_assets/a7/a70ee073ce0914e352c63d10a2b39259.webp)
+
 *Red Square in Moscow. Photo: EPA-EFE*
 
 This Week’s Highlights
@@ -30,6 +32,8 @@ Putin’s Anti-Coronavirus Economic Plan, Explained
 According to official data, Russia surpassed 2,700 confirmed cases of COVID-19 as of April 1 and reported 24 deaths. On March 25, President Vladimir Putin gave an emergency address to the nation regarding the pandemic, which mainly consisted of listing the economic measures that the government is taking to mitigate the crisis.
 
 **COVID-19 has other plans.** “Pandemic era Putin is in sharp contrast with the president that Russians are used to seeing,” writes our politics editor Kirill Martynov. As he points out, the COVID-19 outbreak has interfered with the Kremlin’s plans to hold a nationwide vote on constitutional amendments on 22 April. And now it looks like the virus, rather than the authorities, will be calling the shots.
+
+![](_assets/c7/c72686dace64c9f177a02f38a2f20eaf.webp)
 
 *Vladimir Putin visiting a hospital for patients with suspected coronavirus. Photo: RIA Novosti*
 
@@ -67,6 +71,8 @@ Trade relations between Russia and China have grown rapidly in recent years, rea
 
 **Russia’s exports are up.** “As a matter of fact, only passenger flow has completely stopped,” Kuznetsov explains. “The flow of goods is moving and this has led to a unique situation: in the first two months of 2020 trade turnover between Russia and China grew 5.6%, to $17.6 billion.” According to Kuznetsov, Chinese imports to Russia decreased, but Russia’s exports to China went up by nearly 22%.
 
+![](_assets/ff/ff013c1f2cdd3cc550268ef62e8a9b04.webp)
+
 *Illustration: Petr Sarukhanov / Novaya Gazeta*
 
 **China’s exports are down.**Meanwhile China’s trade with the rest of the world has fallen off and the country’s position has changed. “For the first time in a long time, China became a net importer in its trade with other countries, with a negative foreign trade balance of [over] $7 billion,” Kuznetsov says. Meanwhile, Russia’s numbers are still looking good. “Russia exports oil and China exports masks,” Kuznetsov says, putting it simply. “Volumes will grow.”
@@ -83,7 +89,9 @@ On March 28, reports emerged that Russia’s biggest oil company, Rosneft, was p
 
 **All in the family.**Now, the Kremlin is set to acquire these holdings in full. In exchange for the Venezuela package, the Russian government – which currently owns the controlling stake in Rosneft through its holding company, Rosneftgaz – is set to hand over a 9.6% stake of its shares. This is valued at an estimated 300 billion rubles (over $3.8 billion). The Venezuelan package itself will go to Rosneftgaz, or one of its subsidiaries.
 
-*Rosneft CEO Igor Sechin and Venezuela's President Nicolas Maduro during the opening ceremony of Hugo Chavez Street in Moscow. Photo: RIA Novosti*
+![](_assets/b3/b334d814587901212f6d75fb8363e6c8.webp)
+
+*Rosneft CEO Igor Sechin and Venezuela's President Nicolas Maduro during the opening ceremony of Hugo Chavez Street in Moscow. Photo: RIA Novosti*
 
 **Sechin in the spotlight again.**“The details of the transaction are classified. But everything we know about Rosneft’s activities in Venezuela leaves no doubt about their negative value,” Khachaturov says. The way he sees it, the main beneficiary of the deal will be Rosneft CEO Igor Sechin, who has grabbed headlines in recent weeks for spurring Russia’s exit from OPEC+, triggering the global collapse of oil prices.
 
@@ -98,6 +106,8 @@ ___
 Other Top-Stories Russia Has Been Reading
 
 - **Oil sanctions?**Aside from our COVID-19 coverage, the most-read article this week was about US President Donald Trump and the ongoing “oil war.” While Trump usually claims that low oil prices are “good for gas stations,” this time he criticized Russia for its “destructive” decision to leave OPEC+ and promised to “intervene.” These claims have fueled speculation that the US is preparing to introduce oil sanctions against Russia.
+
+![](_assets/21/21458c279ae230d8c69c3c87ab415f2a.webp)
 
 *Photo: Reuters*
 

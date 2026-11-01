@@ -27,6 +27,8 @@ Developers are planning to mine for platinum deposits in the Arctic on land that
 
 **KREMLIN EYES PLATINUM BURIED IN SACRED INDIGENOUS LANDS.**This June, the Russian government ordered the state mining agencies to hurry up and provide a license to mine the Fedorov Tundra. The area is 80 kilometers (almost 50 miles) from the town of Apatity, in Russia's far northern region of Murmansk, and has one of the largest platinum deposits globally. The Russian economy is almost entirely dependent on the export of natural resources, hence the rush to develop new money-making mining sites amid a worsening economic crisis. But the future mining area is also a sacred space where the indigenous Kola Sámi population worships.
 
+![](_assets/0f/0f1a676a3e3614e2cbe2d9d07d5f5649.webp)
+
 *Sami cemetery. Photo from the archive*
 
 **MOSCOW IS DETERMINED TO GET THAT PLATINUM, EVEN IF IT MEANS VIOLATING INTERNATIONAL LAW.**Russia is a signatory to the United Nations Declaration on the Rights of Indigenous People, which means the Kremlin has to honor international protections for indigenous nations' rights. Specifically, Moscow cannot start mining without negotiations with the local Sámi nation. But so far, no one has come to consult with the Sámi, who have lived in the region for hundreds of years and are responsible for taking care of their ancestral land. The local governor, however, has already announced that development will begin by 2027.
@@ -34,6 +36,8 @@ Developers are planning to mine for platinum deposits in the Arctic on land that
 **"FOR THE SAKE OF INDUSTRY, INDIGENOUS PEOPLES ARE BEING DEPRIVED OF THEIR LANDS**and their traditions. They are dying off. And all of this is being done without observing international norms and laws. I hope that the companies will start conscientiously consulting before developing the land," Sámi activist Andrei Danilov said to Novaya Gazeta. He is one of the folks leading an indigenous pushback against the mining project. We already profiled him last year when the government accused Danilov of 'separatism and terrorism' for defending his ancestral land rights.
 
 **THE PILLAGE OF INDIGENOUS LANDS FINANCED BY OFFSHORE 'INVESTORS.'** The mines will be developed by an industrial consortium called Rostec and a private investor named Fedorovo Resources. The region's governor has promised that the consortium will invest 60 billion rubles (roughly $775 million) in the development project. According to documents viewed by Novaya Gazeta, a network of offshore companies in Cyprus owns Fedorovo Resources, and the company has only one employee, a general director.
+
+![](_assets/3c/3ce424f35c5abd7ee2170f2aca272bed.webp)
 
 *Deers on the run. Photo from the archive*
 
@@ -53,6 +57,8 @@ The news about the first two Covid-19 vaccines edging closer to mass deployment 
 
 **RUSSIAN VACCINE TRIALS ARE SMALLER IN SIZE AND STILL UNFINISHED.**The Russian government has recently released preliminary results of the third phase of clinical trials for the Sputnik V vaccine. They suggest it is 92 percent effective. The data is not available for foreign scientists to cross-check, and the results are based on trials with around 16,000 participants. That is much less than during Pfizer's and Moderna's trials (the first two Covid-19 vaccines clearing the final testing hurdle). The Russian government promises to publish final trial results at the end of November. Still, it has already started vaccinating selected groups of people across the country.
 
+![](_assets/d4/d4b922833fa208f46109e695a57a899c.webp)
+
 *Illustration by Petr Sarukhanov*
 
 **REPORTS OF POST-VACCINATION INFECTIONS.**Local news outlets have discovered a cluster of at least three doctors in Siberia's Altai Republic who contracted the coronavirus after getting vaccinated with Sputnik V. They were among the first people who got the vaccine outside of the trials. This is also not an isolated incident — the deputy head of the ruling faction in the Russian parliament also tested positive after receiving the vaccination.
@@ -60,6 +66,8 @@ The news about the first two Covid-19 vaccines edging closer to mass deployment 
 **THE COUNTRY'S HEALTH MINISTRY PUTS THE BLAME ON THE VACCINATED.** and suggests they weren't careful enough. The vaccine is supposed to generate antibodies after two shots three weeks apart. So, according to the Russian government, it will take at least six weeks to develop immunity with Sputnik V. What happens if you got infected in between is unclear.
 
 **GEOPOLITICS DURING A PANDEMIC.**The Kremlin has already used the Sputnik V vaccine as a tool to reach its geopolitical aims, promising to fast-track access for autocratic friends in countries like Hungary and Belarus. Officials in Hungary recently announced that their country would be the first in the European Union to try the Russian vaccine. In both Moldova and Ukraine, pro-Russian political actors used these promises to gain political capital in recent elections.
+
+![](_assets/33/33527a1b78f652a05fc6a161dc8ac935.webp)
 
 *Patients waiting for a doctor's appointment at the city polyclinic. Photo: EPA-EFE*
 
@@ -76,6 +84,8 @@ Russia’s denials about the poisoning of opposition leader Alexei Navalny have 
 **BUT BEHIND THIS BIZARRE CONSPIRACY IS AN IMPORTANT ADMISSION:**for the first time ever, the Russian authorities no longer doubt that Navalny was poisoned. Moreover, the Kremlin has finally acknowledged that he was poisoned with a prohibited chemical weapon. This is at odds with statements from the country’s Investigative Committee, which still claims that it does not have sufficient evidence to initiate a criminal investigation into Navalny’s poisoning.
 
 > ‘The problem is that in the absence of an official investigation and a public trial, no one will believe Russia’s version of events,’ writes our political editor Kiril Martynov.
+
+![](_assets/cc/cc84d3ab50a8a44b2e55076a98a88785.webp)
 
 *Illustration by Petr Sarukhanov*
 

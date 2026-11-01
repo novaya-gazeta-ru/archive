@@ -10,6 +10,20 @@ tags: "фальсификация, москва, опрос, активный г
 ---
 
 # Продам свой голос за свитшот
+![](_assets/5b/5be45b38ab3598af3287847b0fed77b9.webp)
+
+![](_assets/af/afc5bd3d7964189eef00bdb09f88745f.webp)
+
+![](_assets/2d/2d70b81d18f65c7e19ce3c212da7672a.webp)
+
+![](_assets/be/be8a28921d241ef995b649e1e556fd12.webp)
+
+![](_assets/32/32d36fc216996357d155bbaf1443fc22.webp)
+
+![](_assets/56/56e2ca3ec14effe01919e3da8fb0d455.webp)
+
+![](_assets/31/318cd2acefe8edeec57497c20f7c284c.webp)
+
 
 *Почему «Активный гражданин» нельзя считать сервисом настоящей электронной демократии*
 

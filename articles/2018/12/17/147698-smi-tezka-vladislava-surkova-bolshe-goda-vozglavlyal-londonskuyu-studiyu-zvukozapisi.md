@@ -11,6 +11,8 @@ tags: "санкции, рэп, сурков, расследование, va"
 
 # «MC Vlad»: тезка и ровесник Владислава Суркова больше года возглавлял студию звукозаписи в Лондоне
 
+![](_assets/b7/b70b1d6f188d288e7dc190b54ae79e6d.webp)
+
 *Владислав Сурков. Фото: РИА Новости*
 
 Тезка помощника президента России Владислава Суркова больше года возглавлял лондонскую студии звукозаписи Johnny Boy Records, следует из [данных](https://beta.companieshouse.gov.uk/officers/k-6eftFIqxhnQFyjIEMOH068yNU/appointments) британского реестра юрлиц Companies House, на которые [обратило внимание](https://openmedia.io/exclusive/tezka-surkova-vozglavlyal-zvukozapisyvayushhuyu-kompaniyu-v-londone/) издание «Открытые медиа».

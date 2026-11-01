@@ -10,6 +10,18 @@ tags: "путевые заметки, фоторепортаж"
 ---
 
 # Под парусами  на другую планету
+![](_assets/50/508c52b4b918e4c365b1c784ffe3afc4.webp)
+
+![](_assets/d4/d4ec3e56d3fa065e727f8db588c125f3.webp)
+
+![](_assets/fb/fb617440db6e794251e7a03ee62c6457.webp)
+
+![](_assets/48/48fd370c9c2b1115ded235db2bf6ec66.webp)
+
+![](_assets/82/825521e497add76aef585eb621bc1162.webp)
+
+![](_assets/45/45c40bc098f71e056814ba4c88f2b41e.webp)
+
 
 *Отчет об антарктической экспедиции*
 

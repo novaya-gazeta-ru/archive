@@ -10,8 +10,30 @@ tags: "полиция, система, государство, угон, бар�
 ---
 
 # «Доказухи ноль, алиби есть». Комикс
+![](_assets/b8/b8d8a52a4401f6c203fc1b1d28dab2df.webp)
+
+![](_assets/3c/3c2ce533b76c410648bda0556f86d996.webp)
+
+![](_assets/df/dfa92d4fec5342fcfa293b684722aec1.webp)
+
+![](_assets/73/73d0e70c659fbab1d21d61a992d05870.webp)
+
+![](_assets/44/444bdf0e9ef92be344b46af9470c59fe.webp)
+
+![](_assets/71/7166fcfdf7dd62561e1112405e47b51e.webp)
+
+![](_assets/58/5856e6de6d44141a4eedac6de073d1c8.webp)
+
+![](_assets/58/580d52c4c9afce8a4b1129d79303a0bd.webp)
+
+![](_assets/4f/4fafa7fc1f9419f202f380b087480eb4.webp)
+
+![](_assets/24/24967b2f20fc05d56ad1d50d937e161b.webp)
+
 
 *О чем болтают следователи в WhatsApp и чем это оборачивается для обвиняемых. Основано на реальных событиях*
+
+![](_assets/f8/f8723b7fa50cfe002f0860a50f46a949.webp)
 
 *Комикс: Алексей Иорш / специально для «Новой»*
 

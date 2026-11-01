@@ -10,6 +10,24 @@ tags: "афганистан, ссср"
 ---
 
 # Навсегда в плену (фотогалерея)
+![](_assets/07/0787bde640eccabea3a26d5ebfa6e803.webp)
+
+![](_assets/96/96099638b2e4899714a26c807225d8c5.webp)
+
+![](_assets/09/09c366dccf73cd2e4d0c5adccde43642.webp)
+
+![](_assets/17/17d3d1d026a775dcf4890759c391371b.webp)
+
+![](_assets/67/67e3ad3602d237734d09edfe091ec918.webp)
+
+![](_assets/ba/ba462583d172911e066a7e388e9b97b6.webp)
+
+![](_assets/17/17409fd1047bb1dd9f57cd5049ee727e.webp)
+
+![](_assets/98/983f344a22d6cd15e6f5ff8a2d0eaffa.webp)
+
+![](_assets/d1/d1d5d6c9e40dce93e2297437594d7dab.webp)
+
 
 *Фотограф Алексей Николаев нашел бывших воинов-афганцев, которые попали в плен, приняли ислам и не захотели возвращаться в СССР*
 

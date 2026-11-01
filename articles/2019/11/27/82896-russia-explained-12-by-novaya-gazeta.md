@@ -13,7 +13,9 @@ tags: "russia; explained"
 
 *War crimes in Syria — Tech giant bends to Kremlin — Hunt for dissidents abroad*
 
-*Illustration by Maria Tolstova*
+![](_assets/5f/5fc5f643b975df580fbe666d2581a13d.webp)
+
+*Illustration by Maria Tolstova*
 
 This Week’s Highlights
 
@@ -41,7 +43,9 @@ Russia’s Authorities Call Domestic Violence Problem “Exaggerated”
 
 The majority of women in Russia convicted of murder were protecting themselves from domestic violence, says a new investigation from Novaya Gazeta and its partner outlet Mediazona. Meanwhile, the Russian authorities are convinced that the country’s domestic violence problem is “significantly exaggerated” – or so says the Deputy Minister of Justice Mikhail Galperin.
 
-*Illustration by Maria Tolstova*
+![](_assets/87/8791103c69cb1785dc14c5dc14e1a207.webp)
+
+*Illustration by Maria Tolstova*
 
 **Investigation.**Novaya Gazeta’s analysis of court decisions passed against women for murder demonstrates the enormous scale of the domestic violence problem in Russia, where the courts and law enforcement agencies tend to side with the agressor. Meanwhile, Mediazona’s team found that the majority of the women convicted of premeditated murder were actually defending themselves. Nevertheless, they were given harsh sentences of up to 15 years imprisonment under the criminal code. Women convicted of homicide caused by actions in excess of self-defence were given a lighter sentence – up to two years in prison. But in this case these women often go to jail simply because they cannot fight back with their bare hands and 91 percent of women convicted for “exceeding self-defense” were defending themselves from their partners or other male relatives.
 
@@ -54,6 +58,8 @@ ___
 Yandex’s Compromise, Explained
 
 The board of directors of Russia’s largest Internet services provider, Yandex, has approved changes to the company’s management structure. Now, it will include a new state-connected Public Interest Fund based in the Russian offshore zone of Kaliningrad, which will have veto power and the final say on deals regarding individual shares larger than 10 percent of the company. Its members will also nominate two of the twelve directors on the Yandex board. The decision to restructure comes after a long negotiation process with the Russian government, which has been trying to take control of the Internet giant ahead of the 2021 State Duma elections.
+
+![](_assets/64/64c9e52878f9f8185279c5456957b50b.webp)
 
 *Yandex Headquarters In Moscow. Photo: TASS*
 
@@ -82,6 +88,8 @@ Russia’s New Massive Money Laundering Exposé, Explained
 A joint investigation from Novaya Gazeta and its international partners has uncovered an internal report from the Estonian branch of Sweden’s largest bank (Swedbank) that reveals an offshore network belonging to Russian businessman and former minister Mikhail Abyzov – who is currently under arrest. The network includes 70 companies from Belize, Singapore, Cyprus and the British Virgin Islands, that received $860 million between 2011 and 2016. The bank manager who was supposed to ensure the “cleanliness” of these transactions allegedly helped transfer money between the offshore companies. These new details may complicate the already difficult situation facing the Estonian branch of Swedbank, which is at the center of scandal due to allegations of Russian clients laundering money and facing ongoing investigations in Estonia and Sweden.
 
 **Key Findings.**The joint investigation found that at least 38 of the 70 offshore companies listed in the Swedbank report previously owned or continue to own large assets in the Russian electric power industry, bridge and machine building, coal mining and agro-business. What’s more, part of the sale of these Russian assets took place when Mikhail Abyzov was a government minister and did not have the right to engage in entrepreneurial activity. Nevertheless, from 2012 to 2018, Abyzov’s offshore companies participated in complex transactions in Russia, including the purchase of shares in the country’s largest machine building company, ELSIB.
+
+![](_assets/35/350f68d198524d07849457d05f49e902.webp)
 
 *Photo: EPA*
 

@@ -19,32 +19,60 @@ tags: "якутия, ростов-на-дону, петербург, влади�
 
 Материал будет дополняться.
 
-*Акция на Пушкинской площади. Фото: Виктория Одиссонова / «Новая газета»*
+![](_assets/6f/6fab6233f4cd11d64b631951d7d5dc1a.webp)
 
-*Гражданская акция на Пушкинской площади в Москве. Фото: Татьяна Васильчук / «Новая газета»*
+*Акция на Пушкинской площади. Фото: Виктория Одиссонова / «Новая газета»*
+
+![](_assets/55/55512407d4e699cf11b6d1572482b088.webp)
+
+*Гражданская акция на Пушкинской площади в Москве. Фото: Татьяна Васильчук / «Новая газета»*
+
+![](_assets/ec/ec928f6a0c4f20ba3505e07134691dd1.webp)
 
 *Акция на Манежной площади, инициируемая мэрией Москвы. Фото: Надежда Мироненко / «Новая газета»*
 
-*Стихийный митинг в Кемерово. Фото: Александр Кряжев / РИА Новости*
+![](_assets/13/1331c08a46b891f288ee6a1828fd1575.webp)
 
-*Стихийный митинг в Кемерово. Люди показывают на пальцах сколько родственников у них погибло при пожаре. Фото: Александр Кряжев / РИА Новости*
+*Стихийный митинг в Кемерово. Фото: Александр Кряжев / РИА Новости*
 
-*Симферополь. Фото: Алексей Мальгавко / РИА Новости*
+![](_assets/52/525196dfd5f3bee7dbeee0cf96a08c62.webp)
+
+*Стихийный митинг в Кемерово. Люди показывают на пальцах сколько родственников у них погибло при пожаре. Фото: Александр Кряжев / РИА Новости*
+
+![](_assets/49/496a05cf975180f245ee8ec6b1ab0368.webp)
+
+*Симферополь. Фото: Алексей Мальгавко / РИА Новости*
 
 **link:** https://novayagazeta.ru/articles/2018/03/27/75951-govoril-s-nimi-po-telefonu-do-poslednego
 
-*Санкт-Петербург. Фото: [riveralanis](https://www.instagram.com/p/Bg0r_F1HiMf/?taken-at=160324)*
+![](_assets/61/61b7b72f23ad647d3d29c6bda55de843.webp)
 
-*Жители Ростова-на-Дону несут цветы к памятнику матери. Фото: [rostgmu_life](https://www.instagram.com/p/Bg0pCbdnA0Y/?taken-by=rostgmu_life)*
+*Санкт-Петербург. Фото: [riveralanis](https://www.instagram.com/p/Bg0r_F1HiMf/?taken-at=160324)*
 
-*Екатеринбург. Фото: [zukovalysi](https://www.instagram.com/p/Bg0r7golJRF/?taken-at=221661431)*
+![](_assets/65/65bae06689480f470531f3f94cdee646.webp)
 
-*На здании Ельцин-центра появилась проекция свечи. Фото: [dmitrynichenko](https://www.instagram.com/p/Bgyx7_dFLdA/?taken-by=dmitrynichenko)*
+*Жители Ростова-на-Дону несут цветы к памятнику матери. Фото: [rostgmu_life](https://www.instagram.com/p/Bg0pCbdnA0Y/?taken-by=rostgmu_life)*
 
-*Чита. Фото: [classic75](https://www.instagram.com/p/Bg1FroOnFA3/?tagged=%D1%87%D0%B8%D1%82%D0%B0)*
+![](_assets/c3/c321f7d5823e26fadbafad53df3074f8.webp)
 
-*Югра. Фото: [jenya_rakurs](https://www.instagram.com/p/Bg0lrBhgsBu/?taken-at=225133413)*
+*Екатеринбург. Фото: [zukovalysi](https://www.instagram.com/p/Bg0r7golJRF/?taken-at=221661431)*
 
-*Якутск. Фото: [yktlife](https://www.instagram.com/p/Bg0qGDJA3ri/?taken-at=412796258)*
+![](_assets/91/915f539fc84214d374c99659541b9f20.webp)
 
-*Мемориал у стелы «Город воинской славы» на центральной площади во Владивостоке. Фото: Виталий Аньков / РИА Новости*
+*На здании Ельцин-центра появилась проекция свечи. Фото: [dmitrynichenko](https://www.instagram.com/p/Bgyx7_dFLdA/?taken-by=dmitrynichenko)*
+
+![](_assets/3a/3a62e083ae12c8c71b76eb7cb7368e7f.webp)
+
+*Чита. Фото: [classic75](https://www.instagram.com/p/Bg1FroOnFA3/?tagged=%D1%87%D0%B8%D1%82%D0%B0)*
+
+![](_assets/76/76204ad07fc3b1dc988bb77135268f69.webp)
+
+*Югра. Фото: [jenya_rakurs](https://www.instagram.com/p/Bg0lrBhgsBu/?taken-at=225133413)*
+
+![](_assets/09/097279e812bd3820bafd625d29b20d08.webp)
+
+*Якутск. Фото: [yktlife](https://www.instagram.com/p/Bg0qGDJA3ri/?taken-at=412796258)*
+
+![](_assets/c2/c26930f5e2f92a05e713cea61751f689.webp)
+
+*Мемориал у стелы «Город воинской славы» на центральной площади во Владивостоке. Фото: Виталий Аньков / РИА Новости*

@@ -10,6 +10,18 @@ tags: ""
 ---
 
 # «В СИЗО делал книги из хлебного мякиша»
+![](_assets/65/6536501f207d3add0ad0cecef2663c3a.webp)
+
+![](_assets/32/32c39548316b9351f98400841efb1772.webp)
+
+![](_assets/2c/2c5787e2a193c262d94a7d0e5982ede4.webp)
+
+![](_assets/c9/c9769cb56fa43d909f72f66bc1c0e8a8.webp)
+
+![](_assets/24/24d6659eae406b147b941fd07b26acd6.webp)
+
+![](_assets/be/be61ff5ef3eb632cc53d636c8afe1911.webp)
+
 
 *Сегодня в магазин «Москва» на Воздвиженке мы идем с Ильей Фарбером*
 

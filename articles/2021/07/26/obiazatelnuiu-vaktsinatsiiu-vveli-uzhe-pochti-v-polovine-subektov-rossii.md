@@ -13,6 +13,8 @@ tags: "обязательная вакцинация, covid-19, регионы, 
 
 *Инфографика*
 
+![](_assets/4d/4dbc6510881f0256cb841a46c1d45340.webp)
+
 *Инфографика: Анна Жаворонкова / «Новая газета»*
 
 **Читайте также:** https://novayagazeta.ru/articles/2021/07/15/deistvitelno-li-voz-khochet-ukolot-rossiiu

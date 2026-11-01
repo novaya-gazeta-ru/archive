@@ -19,6 +19,8 @@ tags: ""
 
 Заявление председателя ЕС прозвучало в момент [экстренной встречи](https://novayagazeta.ru/articles/2025/02/17/na-konu-budushchee-ukrainy-i-evropy-v-parizhe-nachalas-ekstrennaia-vstrecha-evropeiskikh-liderov-do-ee-nachala-makron-govoril-s-trampom-po-telefonu-news) глав европейских стран в Париже по украинскому вопросу.
 
+![](_assets/ee/ee6f6aedbc81dff2243ff4232f8cf8f6.webp)
+
 *Антониу Кошта и Эмманюэль Макрон. Перед экстренной встречей в Париже по вопросу украинского урегулирования. Фото: Юрий Сафронов / «Новая газета»*
 
 18 февраля в Саудовской Аравии состоится [встреча представителей России и США](https://novayagazeta.ru/articles/2025/02/17/v-kremle-podtverdili-chto-predstaviteli-rossii-i-ssha-vstretiatsia-18-fevralia-v-saudovskoi-aravii-news). На ней, в том числе, будет обсуждаться «подготовка возможных переговоров по украинскому урегулированию», заявил спикер Кремля Дмитрий Песков. По данным NBC, планирует провести сначала двустороннюю встречу с Россией, затем двустороннюю встречу с Украиной и только после этого — совместные переговоры.

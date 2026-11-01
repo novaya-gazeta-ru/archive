@@ -10,8 +10,34 @@ tags: "оправдание терроризма, журналисты, абсу
 ---
 
 # Новогодний штурм Ледяного кремля
+![](_assets/0b/0ba79b9c4e6091e150e1cdbb1fca2707.webp)
+
+![](_assets/3b/3bb79976b316309f184899d1266021b6.webp)
+
+![](_assets/c1/c188a27f5f726206b1e24e94ac467c66.webp)
+
+![](_assets/7e/7e07108680d1287466a6b4ac44fd14f1.webp)
+
+![](_assets/a5/a52909060ac89d871d9510f36cdbcc02.webp)
+
+![](_assets/65/65401312622c6a6d8ac14215b740d6d0.webp)
+
+![](_assets/b3/b37aaf9572fc120635665a300290b569.webp)
+
+![](_assets/be/bebb2757d6868a0763b2eef345e4b23e.webp)
+
+![](_assets/61/61fe12bbdf9c97ea8aa65eff55172dbb.webp)
+
+![](_assets/e5/e5e832612ba212dfc73bcc31f48fd5a5.webp)
+
+![](_assets/96/963e3c0300222e6abc3e3b7baf67075d.webp)
+
+![](_assets/30/30a7e8d446f489ddf327e0fb3174acbd.webp)
+
 
 *Снежная Королева и три сосули власти против свободы слова. Комикс*
+
+![](_assets/89/89bfb51050300654a3edb1b0bf67bf02.webp)
 
 *Комикс: Капыч — специально для «Новой газеты»*
 

@@ -10,6 +10,12 @@ tags: ""
 ---
 
 # Его Крым
+![](_assets/ff/fff54c55966c7c0a945e18c2f23fb89f.webp)
+
+![](_assets/bc/bcca34b929077bf87c05cb9f784a9b0a.webp)
+
+![](_assets/0b/0ba9e55d8278929024b4f3aad6b5ec03.webp)
+
 
 *Как депутата Мосгордумы Иванова обязали вернуть долг*
 

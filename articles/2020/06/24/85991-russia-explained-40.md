@@ -29,6 +29,8 @@ We've been reporting on the Russian military presence in Libya for years. It is 
 
 **DIGITAL FOOTPRINTS.** News of Skopinov's death spread through social networks in January, allegedly after his Donbas and Syrian comrades made the announcement. Russian officials deny the presence of their soldiers abroad. Since Wagner fighters have a history of leaving their digital footprints in Ukraine and Syria, Moscow has doubled down on digital security, stripping the group of their smartphones and forcing them to clean up their social media. Now, it's become more challenging to obtain digital trails from Africa.
 
+![](_assets/fa/fa3adbd723608e670ddff9148a1f373a.webp)
+
 *Illustration by Petr Sarukhanov*
 
 **RUSSIA'S GOALS IN LIBYA.** Lucrative oil, gas, infrastructure, and arms contracts. It is a geopolitical flexing for Moscow, too. It positions itself as a mediator between the internationally recognized Government of National Accord (GNA) and the rebel forces of General Khalifa Haftar. Although the Kremlin has been pouring vast resources into Haftar's offensive, its approach in Libya lacks loyalty. Attitude to each party is determined not only by their business deals with Russia but also by Haftar's hints of plans to build a full-fledged Russian military base on the coast — right on the southern flank of NATO.
@@ -51,6 +53,8 @@ Russia is still among global leaders in Covid-19 cases. But that hasn’t put a 
 
 > “There will definitely be a [growth in coronavirus cases after the constitutional vote],” Oryol region (close to the Ukrainian border - ed.) chief freelance infectious disease specialist Victoria Adonyeva told a local news outlet. “We don’t have anywhere to put people. I have 20 beds left, and I’ll be closing the hospital today. Whoever wants to vote can vote, but there are no more beds in the city.”
 
+![](_assets/d2/d2cd07db8ae77d8089628d1664f8e53f.webp)
+
 *Photo: RIA Novosti*
 
 **THE STATE KEEPS COOKING THE STATS.** We’ve highlighted underreported Covid-19 deaths before. Nothing changes. Take Dagestan in Southern Russia, one of the pandemic’s epicenters. It saw a 60% decline in death rate in April (with 583 deaths registered). Even though in mid-May, the republic’s health minister announced that more than 600 residents died from community-acquired pneumonia.
@@ -60,6 +64,8 @@ Russia is still among global leaders in Covid-19 cases. But that hasn’t put a 
 **DEATH RATE TO SURGE.** We managed to get the mortality data for May from 29 regions, six of which show significant increases compared to April. In Moscow, statistics show the deaths have spiked by 57% in Ingushetia by 47% and St. Petersburg by 23%. According to our calculations, in certain places, officials may be undercounting Covid-19 deaths by as much as 20 times.
 
 **EXPOSING HYPOCRISY.**The public is kept in the dark about the extent of the pandemic. Want to know how bad the situation is? Watch Putin, advises our columnist Yulia Latynina. He gave the military parade the go-ahead but backed down as a host to the Shanghai Cooperation Organisation summit, scrapped plans for personal meetings at OPEC (although the oil crisis is a major problem for the Kremlin) and works remotely. Russia may not have reliable statistics, but it certainly has one reliable indicator of the situation, Latynina thinks.
+
+![](_assets/d2/d211a16181a724e9cd4561478c8556b0.webp)
 
 *Illustration by Petr Sarukhanov*
 
@@ -75,6 +81,8 @@ In another sign of rising tensions between the Russian government and indigenous
 
 **THE ATTACK, EXPLAINED.**Last month local authorities utilized social media and government-controlled media to spread the false narrative. It claims that Sámi language learning programs aim to change Russian citizens' identity and stir up separatism for western sponsorship money. "Foreign agent" laws introduced several years ago penalize local organizations and individuals accepting foreign funding, which has crippled some NGOs' work.
 
+![](_assets/20/2020269b9f09cd7f87d27400069fff8e.webp)
+
 *Photo: Lev Fedoseev / TASS*
 
 **WHO'S BEHIND THE ATTACK?**The disinformation campaign appeared simultaneously on media outlets and social media groups controlled by local businessman Andronik Musakyan. He has a strong corruption record and is quite likely is executing someone else's paid target campaign. Interestingly, identical separatist accusations surfaced in local media controlled by Yevgeny Prigozhin, a Russian tycoon with close ties to Putin.
@@ -84,6 +92,8 @@ In another sign of rising tensions between the Russian government and indigenous
 **MORE REPRESSIONS.**In November, the Center for Assistance to Indigenous Minorities of the North, the largest organization dealing with the Russian Arctic people, was liquidated by the Ministry of Justice. Two years earlier, Pavel Sulyandzig, an advocate for the rights of indigenous peoples of the Far East, was forced to seek asylum in the United States.
 
 **BACKSTORY.**There has been a recent spike in tensions between federal authorities and indigenous communities. In a case that sent waves across Russia, a Sámi activist sued the government for extortion last year. The country keeps following the months-long standoff between authorities and indigenous spiritual leader Aleksandr Gabyshev on a walk to oust Putin from power. Discontent has been brewingfor some time now among indigenous people, who want to have more governing control over their lands.
+
+![](_assets/3a/3a240de097764031c3a28d60e2a17a57.webp)
 
 *Photo: Lev Fedoseev / TASS*
 

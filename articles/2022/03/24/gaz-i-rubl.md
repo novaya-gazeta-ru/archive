@@ -13,6 +13,8 @@ tags: "газ , рубли, Мосбиржа"
 
 *Что изменит переход к торговле голубым топливом за российскую валюту*
 
+![](_assets/1a/1ac3026d1b6a00e9ccf82848674a0230.webp)
+
 *Фото: Konstantinos Tsakalidis/Bloomberg via Getty Images*
 
 # **Объемы и покупатели**

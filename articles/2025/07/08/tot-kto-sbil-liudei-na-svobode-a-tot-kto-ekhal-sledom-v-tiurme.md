@@ -13,6 +13,8 @@ tags: "фонарь, белгород, дтп, инвалид, дтп в бел�
 
 *Белгородец на инвалидной коляске провел собственное расследование, чтобы доказать, что его брата несправедливо посадили на шесть лет*
 
+![](_assets/19/1904824fac4492affbc0b3a085656fe2.webp)
+
 *Игорь и Сергей Ярковы. Кадр из видео*
 
 > Этот материал подготовлен совместно с [fonar.tv](https://fonar.tv/article/2025/06/30/belgorodec-na-invalidnoy-kolyaske-provel-sobstvennoe-rassledovanie-chtoby-dokazat-chto-ego-brata-nespravedlivo-posadili-na-shest-let)

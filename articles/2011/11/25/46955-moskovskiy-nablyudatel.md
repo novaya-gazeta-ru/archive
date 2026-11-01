@@ -10,6 +10,16 @@ tags: "выборы"
 ---
 
 # Московский наблюдатель
+![](_assets/a6/a6ece749e723caf5b9b04805ccebc030.webp)
+
+![](_assets/f8/f8c7703148c08d18cfbd57aabf3d2eff.webp)
+
+![](_assets/6f/6f1842d1fbbb13790c6fa236ba5ff8d9.webp)
+
+![](_assets/be/be313c01e419f8ea4e4fe781d76ef1b4.webp)
+
+![](_assets/a8/a8ec823e0c89d4d6a49a33d17db74fa0.webp)
+
 
 *4 декабря сотни москвичей придут на избирательные участки, чтобы проконтролировать соблюдение закона*
 

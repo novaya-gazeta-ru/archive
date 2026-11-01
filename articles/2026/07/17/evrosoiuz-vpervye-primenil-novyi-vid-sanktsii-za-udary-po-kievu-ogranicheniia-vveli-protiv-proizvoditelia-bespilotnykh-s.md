@@ -11,6 +11,8 @@ tags: "АБС Электро, санкции, Харисова"
 
 # Евросоюз впервые применил новый вид санкций — «за удары по Киеву». Ограничения ввели против производителя беспилотных систем
 
+![](_assets/e0/e077599662e440117275bb2c9fa00bf4.webp)
+
 *Ирина Харисова. Фото: cfo-russia.ru*
 
 В официальном журнале Евросоюза [появился](https://www.consilium.europa.eu/en/press/press-releases/2026/07/17/russian-military-industrial-complex-eu-agrees-six-listings-related-to-deadly-strikes-on-kyiv/) пресс-релиз о введении санкционных мер за удары по украинской столице 1 и 5 июля.

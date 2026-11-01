@@ -10,6 +10,10 @@ tags: ""
 ---
 
 # Афиша
+![](_assets/14/14e4d356baf70138fab8eeb6131377d4.webp)
+
+![](_assets/ee/eece7e0f1d76f6dc90d6aadcfe29f550.webp)
+
 
 *Культурные события следующей недели*
 

@@ -39,7 +39,9 @@ tags: "трамп, скрипаль, российские дипломаты, д
 
 **link:** https://novayagazeta.ru/articles/2018/03/27/75960-stabilno-prohladno
 
-*Петр Саруханов / «Новая газета». [Перейти на сайт художника](http://www.sarukhanov.info/index.php?id=48&lang=rus)*
+![](_assets/fa/fadd26a08d3638dfe7861b8a08ab8db1.webp)
+
+*Петр Саруханов / «Новая газета». [Перейти на сайт художника](http://www.sarukhanov.info/index.php?id=48&lang=rus)*
 
 По совокупности
 

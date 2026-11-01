@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *Failed Sputnik vaccination  — Poisoning Siberia —Unchecked VIP poaching*
 
+![](_assets/15/157ea6ee2e8d79e7fea690d6bdc130cd.webp)
+
 *Photo: Arden Arkman / "Novaya Gazeta"*
 
 **Here what’s in store for you this week:**
@@ -32,6 +34,8 @@ Russia hasn't seen Covid wards so badly overrun [since last fall](https://novaya
 
 **NEARLY 20,000 NEW CASES A DAY.** Meanwhile, a third Covid wave is sweeping Russia. According to [much-contested official figures](https://novayagazeta.ru/articles/2021/01/20/88790-russia-explained-66), almost 17,400 new Covid cases and 440 new Covid deaths were reported on Monday alone. This is the worst spike since October last year. This is not the worst situation compared to Russian neighbors, but it clearly defies the trend as new cases have been falling in surrounding countries. Russian President Vladimir Putin acknowledged that the situation in Russia's regions has been deteriorating, and a new revaccination drive may be on the cards. "In many regions, the situation has even got worse," Putin told Russia's lower house.
 
+![](_assets/32/32aec5f7f4d2daf880a4f51ee035890d.webp)
+
 *Photo: Vladimir Gerdo / TASS*
 
 **THE WORST IS STILL TO COME. **Our [newest data analysis](https://novayagazeta.ru/articles/2021/06/15/rastem-nad-soboi) warns that the ongoing third wave might easily top the previous one in size in the coming weeks. "Looking at this data, I can say that it is growing more rapidly than the two previous ones. This may be due to the arrival of more contagious Covid-19 variants, almost complete abandonment of pandemic restrictions by the officials, and total disregard by Russians to sanitary measures and vaccinations,' an independent analyst Alexei Kupriyanov told us after examining our data analysis results.
@@ -48,6 +52,8 @@ Our reporting crew has just returned from the epicenter of what locals call ‘a
 
 **IF YOU WANT TO LIVE LONGER, DON’T EAT THE FISH OR DRINK THE WATER. **“Previously, the catches here were excellent. I had never seen so many fish anywhere, ever,” say local residents Andrey and Konstantin. “In just 30 minutes, you could catch some 15 grayling and minnow; it was delicious. We made sprats, cutlets. Now, these fish have disappeared from the rivers and the ones you can find, you can’t eat — they are toxic,” local men tell us. A strange haze envelops the plants and animals in the region, and when temperatures get warmer in the town, the mercury starts to evaporate.
 
+![](_assets/5b/5b7c6b828f0c3e2b95ae8e6101ada314.webp)
+
 *Photo: Arden Arkman / "Novaya Gazeta"*
 
 **AFTER MOVING TO THE AREA, RESIDENTS NOTED THEIR HEALTH GOT WORSE. **Once Andrey and Konstantin conducted an experiment. “We bought eight piglets, four were given drinking water, and the other half — water from the Angara [river]. The ones who drank clean water grew up and even today live in a pigsty. But those who drank river water were ‘immediately welcomed’ [to the afterlife],” they told Novaya euphemistically.
@@ -55,6 +61,8 @@ Our reporting crew has just returned from the epicenter of what locals call ‘a
 **HOPES FOR NEW LIFE TURNED INTO AN ECOLOGICAL NIGHTMARE. **The environmental horror of Usolye-Sibirskoye started as a Soviet development fantasy — all too familiar for many industrial cities across the former empire. Once a colonial outpost, the town became one of the key locations for the Soviet Gulag in the mid 20th century. The slave labor of political prisoners helped launch one of the largest salt mining operations globally. After the Soviet Union’s collapse, local factories started falling apart and poisoning the surrounding environment with mercury and chlorine, among others.
 
 **ENVIRONMENTAL NEGLIGENCE DATING BACK DECADES.** Locals have been living surrounded by deadly rates of chemical waste for almost three decades now. But the government rolled out a state of emergency only three years ago. Local salt factories dumped more than 1,000 tons of heavy metal pollution into the environment. The concentration of mercury in the air here is 367 times above the safe maximum. Activists and journalists found traces of mercury in the bodies of locals as far back as 2002, but the government closed local salt factories only in 2017.
+
+![](_assets/9c/9ce03f8d4886a9d592132db9042f5ceb.webp)
 
 *Photo: Arden Arkman / "Novaya Gazeta"*
 
@@ -71,6 +79,8 @@ Russian [monstrous income inequality](https://novayagazeta.ru/articles/2020/02/2
 **150 WATERFOWL KILLED AND PHOTOGRAPHED AS TROPHIES.** Some weeks ago, we obtained a haunting picture of a man with a rifle posing with dozens of slaughtered animals. Dead geese, ducks, and cranes, morbidly spell out the phrase “Chukotka 2021”, suggesting the mass murder happened in the easternmost Russian region bordering Alaska. The sheer size of the pictured hunt meant severe violations of environmental regulations. The photo was already making viral turns on social media. We made a public call to help us to identify the poacher.
 
 **THE PUBLIC HELPED US TO ESTABLISH THE POACHER’S IDENTITY.** It is Aleksandr Kramarenko, a vice-speaker of the Magadan City Council in the region’s capital. He is also a key figure within the regional ranks of Putin’s ruling United Russia party. Following the public fury, the Kremlin banned local officials from releasing any information or statements surrounding the event. Officially local police have also refused us to verify the poacher’s full name. Apart from being an influential official, Kramarenko is also rich — [as it often happens](https://novayagazeta.ru/articles/2021/02/24/89359-russia-explained) within the Kremlin ruling elites. He is the owner of four apartments, a plot of land, 15 non-residential properties, two Lexus, and one Land Rover.”
+
+![](_assets/72/725efc84f5a064ea071b746f371d64d2.webp)
 
 *A pyramid of killed birds. Another photo with Aleksandr Kramarenko*
 

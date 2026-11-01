@@ -10,6 +10,30 @@ tags: "новая этика, физраствор, феминизм"
 ---
 
 # Новые скрижали
+![](_assets/eb/eb7fea2ee39283e9c2272531f8e58189.webp)
+
+![](_assets/47/47aff939df00e303dc940b7e862ea090.webp)
+
+![](_assets/11/11b28a5e1e897078e23223301819a704.webp)
+
+![](_assets/e3/e338dd108eb7bcfc2626ca7383175e90.webp)
+
+![](_assets/bd/bd380de0743f958c501be22e012034b1.webp)
+
+![](_assets/41/415ee9c149ece48bee948faa64839817.webp)
+
+![](_assets/04/040ca119d2d8e049ced1bcbcb957d076.webp)
+
+![](_assets/75/7509d51c6b8823a4a475cb06a0d5528e.webp)
+
+![](_assets/73/73d3c0374dd3a3f21b0df9b2cc3f7e3f.webp)
+
+![](_assets/7d/7df48e4f3336428bbe8a75a43606d36f.webp)
+
+![](_assets/7f/7f0da8124c85ac83b9c3a868e715eb69.webp)
+
+![](_assets/ae/aebefc129a767650599b867bf19e8bf8.webp)
+
 
 *Физраствор в «Новой газете»*
 

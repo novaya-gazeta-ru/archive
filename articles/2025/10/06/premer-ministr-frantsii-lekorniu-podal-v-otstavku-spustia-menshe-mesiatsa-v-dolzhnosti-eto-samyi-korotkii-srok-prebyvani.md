@@ -13,6 +13,8 @@ tags: "франция, себастьян лекорню, отставка"
 
 > ### [Во Франции правительство переночевало и умерло. Как такое могло произойти и что теперь ждет страну. Объясняет Юрий Сафронов](https://novayagazeta.ru/articles/2025/10/06/vo-frantsii-pravitelstvo-perenochevalo-i-umerlo)
 
+![](_assets/b8/b8b9f596be3c38ea2235d4338aa6af57.webp)
+
 *Себастьян Лекорню покидает Елисейский дворец. Фото: Юрий Сафронов / «Новая газета»*
 
 Премьер-министр Франции Себастьян Лекорню подал президенту Эмманюэлю Макрону прошение об отставке, [пишет](https://www.lefigaro.fr/politique/en-direct-gouvernement-lecornu-crise-fronde-des-republicains-menace-de-demission-de-retailleau-critiques-conseil-des-ministres-implosion-20251006) Le Figaro со ссылкой на заявление Елисейского дворца. Президент Франции его принял.

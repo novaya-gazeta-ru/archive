@@ -10,6 +10,10 @@ tags: ""
 ---
 
 # Следствие «двойного назначения»
+![](_assets/cb/cbfc3661bb1aee8599ab2cfbe5dc5ede.webp)
+
+![](_assets/21/21c79af01c32d49c4ead0a1851551fa6.webp)
+
 
 *В деле экипажа Arctic Sunrise могут появиться новые обвинения*
 

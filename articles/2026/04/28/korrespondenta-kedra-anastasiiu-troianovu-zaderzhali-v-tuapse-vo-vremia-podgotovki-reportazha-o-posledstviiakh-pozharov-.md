@@ -15,6 +15,8 @@ tags: ""
 >
 > ### [«Схвативший меня мужчина оказался инициативным местным жителем». Журналистку «Кедра»* отпустили из полиции Туапсе после 5-часового задержания](https://novayagazeta.ru/articles/2026/04/28/skhvativshii-menia-muzhchina-okazalsia-initsiativnym-mestnym-zhitelem-zhurnalistku-kedra-otpustili-iz-politsii-tuapse-posle-5-chasovogo-zaderzhaniia-news)
 
+![](_assets/b3/b3e25cd8925b828451228686b948687a.webp)
+
 *Анастасия Троянова. Фото из личного архива*
 
 В Туапсе Анастасия Троянова готовила репортаж об экологических последствиях пожаров на НПЗ. Телефон журналистки сейчас выключен, сообщает «Кедр».

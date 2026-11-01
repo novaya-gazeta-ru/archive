@@ -10,6 +10,24 @@ tags: ""
 ---
 
 # Были даны размытые обещания...
+![](_assets/4a/4a5c1713c002091e3c2e86fa8d7af976.webp)
+
+![](_assets/c6/c66ef49356e4d2ee4d3f71aeae73b8c3.webp)
+
+![](_assets/1a/1a30643cb6eb74c6c7be782c473cb0c9.webp)
+
+![](_assets/fc/fcac54188587e917f2894b2a73826269.webp)
+
+![](_assets/1e/1e4676b311b20307e387ae0d0040af87.webp)
+
+![](_assets/50/501ec47e9b802115251d72b792f8b2a6.webp)
+
+![](_assets/b4/b492eb96d4eb34f494466f3132238175.webp)
+
+![](_assets/51/517f1288913c3a50424731ef2f2075ab.webp)
+
+![](_assets/32/320efed68465cf4653c35fc8f13b224c.webp)
+
 
 *Спустя год после наводнения в Краснодарском крае его жители все еще не могут получить компенсации за свое жилье*
 

@@ -15,6 +15,8 @@ tags: ""
 >
 > Въехавший в толпу на ярмарке в Магдебурге уроженец Саудовской Аравии, убивший четверых, оказался сторонником немецких ультраправых — Bild. Вот, что известно о [Талебе аль-Абдулмохсене](https://novayagazeta.ru/articles/2024/12/21/vekhavshii-v-tolpu-na-iarmarke-v-magdeburge-urozhenets-saudovskoi-aravii-ubivshii-chetverykh-okazalsia-storonnikom-nemetskikh-ultrapravykh-bild-news).
 
+![](_assets/61/61b6cebbac5bdff8eea99a4dc0e7f3e1.webp)
+
 *Центр Магдебурга, место происшествия. Фото: dpa*
 
 Полиция не исключает, что наезд автомобиля на толпу во время вечерней рождественской ярмарки, был терактом. По неподтвержденным данным, автомобиль был темным BMW. Водитель задержан на месте происшествия, его имя неизвестно.

@@ -10,6 +10,14 @@ tags: ""
 ---
 
 # Творящая часть
+![](_assets/c0/c0af1fd0935075e654c44cf99a61822a.webp)
+
+![](_assets/e7/e7bb258268e75cc915155594664ede7b.webp)
+
+![](_assets/43/43d59f11f7743a6c5b281953e073c35b.webp)
+
+![](_assets/0f/0f07de3e1c8102fec425cbc3abde9bc8.webp)
+
 
 *28 января  день смерти Бродского*
 

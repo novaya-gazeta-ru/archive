@@ -10,6 +10,28 @@ tags: ""
 ---
 
 # Ад со всех сторон
+![](_assets/c3/c39ed377d586951882cf3ef45c61a238.webp)
+
+![](_assets/e6/e61c958a770c56dd56de096b9044cfba.webp)
+
+![](_assets/a7/a79db6a453e8b6dca5a5f6ab64f9f3ef.webp)
+
+![](_assets/71/7164183f904c6ebb97abbbd34b6eefad.webp)
+
+![](_assets/f4/f45afd0d9dbf4fc27178a9170fad6333.webp)
+
+![](_assets/66/669f68e8a4971cf132ff00b4a3c8599b.webp)
+
+![](_assets/f4/f40b3d9cfe1956e8ff3c45ecda7417f5.webp)
+
+![](_assets/00/0077a6f2c9566cd0380b1e5d856a45d3.webp)
+
+![](_assets/78/78510620491af900fee73b822da2c064.webp)
+
+![](_assets/78/78ed82228795d96cd39c3851222004fb.webp)
+
+![](_assets/17/17c7c60390adff94d3212c610785fd4f.webp)
+
 
 *Новосветловка находится в 7 километрах на юго-восток от Луганска. С 13 по 28 августа село жило под перекрестным огнем*
 

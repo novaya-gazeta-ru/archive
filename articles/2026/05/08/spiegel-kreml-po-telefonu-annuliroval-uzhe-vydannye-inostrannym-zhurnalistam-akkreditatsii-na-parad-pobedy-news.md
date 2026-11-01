@@ -13,6 +13,8 @@ tags: ""
 
 > ### [Кремль: новость Spiegel об отзыве аккредитаций на парад 9 мая в Москве у зарубежных СМИ — «ложь», но «состав журналистов был ограничен»](https://novayagazeta.ru/articles/2026/05/08/kreml-novost-spiegel-ob-otzyve-akkreditatsii-na-parad-9-maia-v-moskve-u-zarubezhnykh-smi-lozh-no-sostav-zhurnalistov-byl-ogranichen-news)
 
+![](_assets/37/37f98c93820ee40685103f214d43e0d5.webp)
+
 *Фото: Даниил Черяпкин, специально для «Новой газеты»*
 
 Немецкое издание Spiegel [сообщило](https://www.spiegel.de/ausland/russland-kreml-laedt-auslaendische-journalisten-von-militaerparade-aus-a-e7891572-646b-4003-bc28-2c0b8aa817f9): уже выданные аккредитации, позволяющие иностранным журналистам присутствовать на параде Победы на Красной площади, были аннулированы — впервые за новейшую историю. Причем процедура осуществилась «по телефону».

@@ -13,27 +13,29 @@ tags: "коронавирус, пандемия, фейки, абсурд, ка�
 
 *Экскурсия Лже-Пушкина по музею фейков о коронавирусе. Комикс*
 
-*\*
+![](_assets/67/67ca2b5587d634c6754e343598394958.webp)
 
-*\*
+![](_assets/46/46a8baa6d7559593ead36c2d8ac337d0.webp)
 
-*\*
+![](_assets/8c/8c6e6e6148c9e7922021b9edbdac7975.webp)
 
-*\*
+![](_assets/de/dee19f2dfa7840e54ed079e9c4fe2bd8.webp)
 
-*\*
+![](_assets/db/db13a3f84bc3b6e20f643015911d2125.webp)
 
-*\*
+![](_assets/23/2333f5ef14cccf9e1b2583a23dad3ca8.webp)
 
-*\*
+![](_assets/ea/eadd97aae20a9f3d313d8ff86caaa131.webp)
 
-*\*
+![](_assets/05/057d0b061b97733cae9bac0db4c9ac6f.webp)
 
-*\*
+![](_assets/7d/7d72027d12f69f50e4833f58443ab169.webp)
 
-*\*
+![](_assets/12/122b1ce95c10ee7955185ab4d6394571.webp)
 
-*\*
+![](_assets/f8/f8200492adb898156d24ce1cc41bf3d1.webp)
+
+![](_assets/31/316dcac7bdfb9dc87e1ec847d48145bb.webp)
 
 *Комикс: Александр Егоров для «Новой»*
 
@@ -113,38 +115,38 @@ tags: "коронавирус, пандемия, фейки, абсурд, ка�
 >
 > ### [Героическая оборона Мосгордумы: ЦИК и Скрепман побеждают оппозиционную нечисть](https://novayagazeta.ru/articles/2019/11/13/82699-geroicheskaya-oborona-mosgordumy)
 
-*\*
+![](_assets/34/348982f2cccc193d88955db2c1225cfa.webp)
 
-*\*
+![](_assets/38/380c4ae7a3f6463cb6577f9bc4bf7fc2.webp)
 
-*\*
+![](_assets/73/73a7fc9e16ee794ffa331a27973525e4.webp)
 
-*\*
+![](_assets/d8/d8c0a2942506cacccba4a9c167b39b69.webp)
 
-*\*
+![](_assets/00/00f776030cf7f8ad328e92743a89c535.webp)
 
-*\*
+![](_assets/4e/4e15dcfa52cd5987aa8f90898dff04e1.webp)
 
-*\*
+![](_assets/d7/d7b03f28131cdada335b35b2a52e38d5.webp)
 
-*\*
+![](_assets/51/51e1a03b6f0819bb472e7588f9cbbff8.webp)
 
-*\*
+![](_assets/f8/f89506321aa1ab177ae97d76f388ed60.webp)
 
-*\*
+![](_assets/4c/4c13b9324e9064def56805e5ead2b4f7.webp)
 
-*\*
+![](_assets/71/7155253c585c04c81bb18c46b4623bdb.webp)
 
-*\*
+![](_assets/2b/2b485b14c55f15ab5f3306e9db6f1542.webp)
 
-*\*
+![](_assets/35/358106c3bab6ff044f56c7201a8a057b.webp)
 
-*\*
+![](_assets/f4/f48f63f56e8a9aaa82c2bdcd6894ee47.webp)
 
-*\*
+![](_assets/4c/4c7c6710f971f202941f41846e530430.webp)
 
-*\*
+![](_assets/e5/e5e832612ba212dfc73bcc31f48fd5a5.webp)
 
-*\*
+![](_assets/96/963e3c0300222e6abc3e3b7baf67075d.webp)
 
-*\*
+![](_assets/30/30a7e8d446f489ddf327e0fb3174acbd.webp)

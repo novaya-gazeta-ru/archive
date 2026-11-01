@@ -10,6 +10,16 @@ tags: ""
 ---
 
 # С высоты Голой Пристани
+![](_assets/66/66c6cf4e2b165fc66fcd65c73edc4eb2.webp)
+
+![](_assets/b9/b9b5595d66e9168d5445414f2d3eada7.webp)
+
+![](_assets/36/36f8bb65663c494177c22f3717d49964.webp)
+
+![](_assets/c2/c237ffcd6ee9c83d20807966740e14c2.webp)
+
+![](_assets/ae/ae481f0cbf38b2fb9d68b99df4cc22c7.webp)
+
 
 *Городок на юге Украины сжался от предчувствий: до Майданов близко, до перемен далеко*
 

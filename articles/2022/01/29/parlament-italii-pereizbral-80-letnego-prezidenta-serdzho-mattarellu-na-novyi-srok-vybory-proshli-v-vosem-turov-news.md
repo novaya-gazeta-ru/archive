@@ -13,6 +13,8 @@ tags: "италия, выборы, президент, маттарелла, kn"
 
 Парламент Италии переизбрал 80-летнего Серджо Маттареллу на новый президентский срок большинством голосов. Об этом [сообщает](https://www.corriere.it/politica/elezioni-presidente-repubblica-2022/notizie/presidente-repubblica-diretta-quirinale-settima-votazione-57fd8db6-80cf-11ec-97ae-7cc35437dc27.shtml) Corriere della Sera.
 
+![](_assets/f7/f7c269f2f6503f4ea10f87c328b07211.webp)
+
 *Серджо Маттарелла. Фото: Creative commons*
 
 К вечеру 29 января Маттарелла набрал 759 голосов. Это был восьмой тур выборов, в предыдущих раундах никто из кандидатов не набирал большинства.

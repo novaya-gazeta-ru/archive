@@ -15,25 +15,25 @@ tags: "физраствор, птицы, патриотизм"
 
 Популярный определитель птиц, нежелательных на территории Российской Федерации в политическом сезоне 2021-2022 г.г.
 
-*\*
+![](_assets/b8/b8236d662bffd7d94c8853611bbaf37f.webp)
 
-*\*
+![](_assets/25/25851c218323aff5e3b402f53c791bcc.webp)
 
-*\*
+![](_assets/50/5086b32027a57d70981d4002749a76fa.webp)
 
-*\*
+![](_assets/98/988db595f5d5ed55def5d54ed6fba946.webp)
 
-*\*
+![](_assets/5c/5cae36e4dc8ee6b675c992b43d535f8c.webp)
 
-*\*
+![](_assets/e8/e8c875fca4d2405d65a0ab753b006c04.webp)
 
-*\*
+![](_assets/c7/c7eae472a183ffa9f7c5a29f10acb7c9.webp)
 
-*\*
+![](_assets/dc/dceb0a5e1d44fa1c20fd944d12057d52.webp)
 
-*\*
+![](_assets/74/7442371c6e8c78a510c4bbc778e257f9.webp)
 
-*\*
+![](_assets/99/99e316f418da37ddea60d74642726732.webp)
 
 > **от редакции**
 >

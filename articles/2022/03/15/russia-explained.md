@@ -10,8 +10,10 @@ tags: "russia; explained"
 ---
 
 # Russia, Explained
+![](_assets/fd/fd9dfdef7023d514326720e260731c2e.webp)
 
-*Russians flee to Kyrgyzstan —  Ban on Buying Dollars — Repression of Russians against the “Special Operation”*
+
+*Russians flee to Kyrgyzstan — Ban on Buying Dollars — Repression of Russians against the “Special Operation”*
 
 # **Here what’s in store for you this week:**
 
@@ -23,6 +25,8 @@ tags: "russia; explained"
 # **A Note From Our Newsroom**
 
 On March 4, the State Duma introduced military censorship. Media outlets are prohibited from publishing “knowingly false” information about the actions of the Russian military in Ukraine. We are also banned from using certain terms to describe what is happening in our brother country, so must instead refer to it as the “special operation”. Journalists face up to 15 years in a penal colony if they violate these laws.
+
+![](_assets/bf/bf053e69dc25b616929b72f730f53123.webp)
 
 *Illustration by Peter Sarukhanov / Novaya Gazeta*
 
@@ -100,6 +104,8 @@ The hotels, hostels, and restaurants of Kyrgyzstan are now packed with Russians 
 
 On March 9, Russia’s Central Bank instituted a six- month ban on buying US dollars. The move came in response to Western sanctions, allegedly to prevent a run on the dollars and to shore up the country’s hard currency reserves. Our economics editor Dmitry Prokofiev breaks down the decision.
 
+![](_assets/8e/8e3c6e0a6debad4e82c0a8579f8c41f9.webp)
+
 *Photo by Arden Arkman / Novaya Gazeta*
 
 **WHEN IN DOUBT, PROCRASTINATE. **In this uncertain time, writes Prokofiev, the Russian government and the Central Bank understand that “any mistake can be fatal”. Their decision is, therefore, to make no decision. “We forbid people from buying foreign currency and kill several birds with one stone” — Prokofiev imagines their thought process — “We will reduce the demand for dollars, we will actually close trips abroad, we will bring down inflationary pressure, we will direct savings to the domestic market […]”.
@@ -117,6 +123,8 @@ On March 9, Russia’s Central Bank instituted a six- month ban on buying US dol
 # **Police Beat Russians Protesting Against “What Cannot Be Named” **
 
 On Sunday, March 6, protests were held in 65 cities of Russia against “what cannot be named”. According [to](https://ovd.news/news/2022/03/06/spiski-zaderzhannyh-v-svyazi-s-akciyami-protiv-voyny-s-ukrainoy-6-marta-2022-goda) OVD-Info, more than 5,000 people were detained. Some of the young women — both protesters and passers-by — who were detained and beaten in Moscow’s Brateyevo police department — shared their testimonies with Natalia Glukhova and Alexandra Novikova. Brateyevo became infamous after 26-year-old Muscovite [Alexandra Kaluzhskikh](https://novayagazeta.ru/articles/2022/03/07/putin-na-nashei-storone-18) published a full recording of her interrogation there.
+
+![](_assets/34/34ec50cd6f83565ec62c31ca5f622692.webp)
 
 *Brateyevo police department*
 

@@ -15,6 +15,8 @@ tags: "ng, музыканты, суды, экстремизм"
 
 Апелляционная жалоба адвокатов удовлетворена и решение Дзержинского районного суда Волгограда отменено. Дело направили на новое рассмотрение в суд первой инстанции.
 
+![](_assets/59/59bf1fb98982c1205dc00af903fd4d6a.webp)
+
 *Фото: «Сетевые свободы»*
 
 Трек «Нищих убивай!», выпущенный еще в 2016 году, — кавер песни Kill the Poors от Dead Kennedys. Композиция[была внесена](https://novayagazeta.ru/articles/2021/11/23/v-spisok-ekstremistskikh-materialov-vnesli-pesniu-pornofilmov-nishchikh-ubivai-i-dnevniki-marty-khillers-ob-iznasilovaniiakh-v-voennom-berline-news) в список экстремистских материалов в ноябре 2021 года. Дзержинский районный суд Волгограда признал ее экстремистской 23 сентября прошлого года.

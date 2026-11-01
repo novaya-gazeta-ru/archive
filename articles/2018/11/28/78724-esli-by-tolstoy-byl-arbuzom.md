@@ -10,6 +10,22 @@ tags: "литература, книги"
 ---
 
 # Если бы Толстой был арбузом
+![](_assets/55/55e49d9eb99808c8d6e6e4956b387537.webp)
+
+![](_assets/ca/caa56e8d9e04c75a8d1dc73104780e47.webp)
+
+![](_assets/41/4137bc90b1de71873661b06f3411a25c.webp)
+
+![](_assets/a3/a3389747f02167eb5477b50c33ba55fe.webp)
+
+![](_assets/c1/c19e4f2dd8882233905bc5892d12c6ad.webp)
+
+![](_assets/50/50461e0290d8af5930c4a1da309d7e09.webp)
+
+![](_assets/19/197d5cf7f3a26ba0c0d0b81420e7fdc1.webp)
+
+![](_assets/32/32a0d3b038683f7dd2a7c8c621796f51.webp)
+
 
 *10 событий книжной ярмарки «Нон-фикшн-2018». Выбор «Новой»*
 

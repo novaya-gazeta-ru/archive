@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *Our Journalist Attacked*
 
+![](_assets/82/824321b5827644670b594d18c0d9b83b.webp)
+
 *Elena Milashina. Photo: facebook.com*
 
 This Week’s Highlights
@@ -43,6 +45,8 @@ In the aftermath of Putin’s political shakeup in January, Russia is now prepar
 
 **The Nyet! Campaign.**Opposition politicians are already trying to hold a pseudo-referendum, called the Nyet! (“No,” in Russian) Campaign to protest the extension of President Vladimir Putin’s powers. And while our politics editor Kirill Martynov doubts that the campaign will have a decisive effect, he still thinks the opposition can pursue specific and realistic goals. “Firstly, failed voting in major Russian cities (Moscow, St. Petersburg, Yekaterinburg) may demonstrate the weakness of the Kremlin’s policies at the federal level,” Martynov says. “Secondly, preserving the existing Constitution may become a shared opposition agenda and a second point of consolidation – along with the fight against political repression.”
 
+![](_assets/4f/4f63f813cccde25c18ad8d7a7da21f34.webp)
+
 *Illustration by Peter Sarukhanov / Novaya Gazeta*
 
 **Key Navalny’s role.**The way Martynov sees it, much of the success of the Nyet! Campaign will depend on opposition leader Alexei Navalny, who has been unusually silent on the topic of the constitutional changes. While he initially came out in support of the current ‘super-presidential’ Constitution, he has yet to speak on the issue in detail.
@@ -57,6 +61,8 @@ The outbreak of the coronavirus has led Russia’s far-eastern Amur region to cl
 
 **A vibrant border no more.**Blagoveshchensk is the closest Russian city to China – located just across the Amur River from the Chinese province of Heilongjiang. Until recently, ferries connected the two countries, running every 30 minutes to take buses filled with tourists and shuttle traders over the border. Now it’s been shut down.
 
+![](_assets/34/34e2b8e6fbae55d76e49b5406ac8be55.webp)
+
 *City of Blagoveshchensk. Photo: Ivan Belozerov / Novaya Gazeta*
 
 **Ignore the virus away.**At first glance, everything in Blagoveshchensk seems normal. It’s almost like the city has been trying to ignore the virus – and it seems to be working. Playgrounds are filled with children, pensioners are out for walks, young people meet in cafes and the city’s yellow buses are filled with passengers. And no one is wearing medical masks, despite the fact that the local authorities introduced a “mask regime” at the end of January.
@@ -64,6 +70,8 @@ The outbreak of the coronavirus has led Russia’s far-eastern Amur region to cl
 **Economic fallout mounts.**Meanwhile, most of the salespeople are worried about the border closures causing sales to drop. “Everything is focused on China! People come from Heihe constantly – they love our gold. And now look, everything is empty,” says a jewelry saleswoman named Galina, working at one of the 10 jewelry stores on one particular street. The border closure has hit local travel agencies, too — 40% of their trips on offer are to China.
 
 **Impending food shortages.**Meanwhile, Blagoveshchensk is already running out of some vegetables, since so much produce was brought in from China. “Yes, the vegetables have run out,” says the manager at a local supermarket, Tatyana, showing our correspondent trays of apples, carrots, and onions. “Before the tomatoes and cucumbers were here, instead of the apples. The onions haven’t run out yet, but the price has risen by two and a half roubles per kilogram. We have a local greenhouse but it can’t cope, there’s no time to grow vegetables.”
+
+![](_assets/79/79cac1a3f537e638660c19b00a92e592.webp)
 
 *View of the chinese city of Heihe from Blagoveshchensk. Photo: Ivan Belozerov / Novaya Gazeta*
 
@@ -76,6 +84,8 @@ ___
 Other Top-Stories Russia Has Been Reading
 
 - Our top read story this week was an investigation into the deaths of officers from Russia’s Federal Security Service (FSB) who were shot and killed in Syria. According to the official version, the four men were killed in the crossfire during a shootout, ahead of planned suicide bombing in Aleppo. But this is far from the truth. According to our sources, the officers were ambushed near Latakia – a relatively peaceful region completely controlled by pro-Assad forces – and they were shot at point blank range.
+
+![](_assets/40/40d307d94fcab86d0e31612929d5f105.webp)
 
 *Russian military police in Syria. Photo: Reuters*
 

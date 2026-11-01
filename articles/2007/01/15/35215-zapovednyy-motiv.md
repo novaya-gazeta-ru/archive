@@ -10,6 +10,16 @@ tags: ""
 ---
 
 # Заповедный мотив
+![](_assets/03/0332cf9bac36023dc6d233c87f1f4582.webp)
+
+![](_assets/c6/c64841b14dbb2caab2cb2a534bb0f951.webp)
+
+![](_assets/b4/b47870e2c19005b8744e56df3779fb27.webp)
+
+![](_assets/c8/c8654644d3c02f56dde54c593798595a.webp)
+
+![](_assets/7c/7c9c238f5468f7b88024dab1e0cea24a.webp)
+
 
 *СССР: Продукт после распада*
 

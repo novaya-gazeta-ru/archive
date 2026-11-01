@@ -10,6 +10,20 @@ tags: ""
 ---
 
 # Музыкальные новости
+![](_assets/d4/d46d66635d4933fb09a5ee267a5ce99d.webp)
+
+![](_assets/cb/cb221ffd5bbe795942f2d9d36c182cb2.webp)
+
+![](_assets/a0/a04d803a76e93cb0168e65668dcdf1f1.webp)
+
+![](_assets/dd/dda79058bbc42b9042b602ec56031186.webp)
+
+![](_assets/42/42be0ac5896fe4682103cd2ceff1a41c.webp)
+
+![](_assets/44/44b148ede49a4de621834621eaf6a665.webp)
+
+![](_assets/85/8578980da79f08904bf98153931a33d9.webp)
+
 
 Джеймс Маккартни хочет основать группу, состоящую из детей участников The Beatles
 

@@ -10,6 +10,10 @@ tags: "Foo Fighters, смерть, Тейлор Хокинс, музыканты
 ---
 
 # Умер барабанщик группы Foo Fighters Тейлор Хокинс
+![](_assets/fa/fa63279cf4bf2171e7ae6e501f35dbde.webp)
+
+*Скрин: Live At New Orleans Voodoo Fest / видео YouTube*
+
 
 Барабанщик американской рок-группы Foo Fighters Тейлор Хокинс умер в возрасте 50 лет. Об это [сообщила](https://twitter.com/foofighters/status/1507552958988255234) сама группа в твиттере.
 

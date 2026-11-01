@@ -11,6 +11,8 @@ tags: "китай, потоп, наводнение, хэнань, kn"
 
 # Число погибших в результате наводнения в китайской провинции Хэнань выросло до 58
 
+![](_assets/5b/5b4b905039d83def03e6b9c7db566a1e.webp)
+
 *Наводнение в провинции Хэнань. Фото: Reuters*
 
 В результате наводнения в центральной провинции Китая Хэнань погибли 58 человек, [сообщает](https://www.scmp.com/news/china/politics/article/3142360/china-floods-more-75-million-people-henan-now-affected) South China Morning Post.

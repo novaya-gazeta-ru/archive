@@ -10,6 +10,16 @@ tags: ""
 ---
 
 # С кем пьет Илья Лагутенко?
+![](_assets/be/be8307deaa8cea9db851ab39cae8b242.webp)
+
+![](_assets/0c/0cd11cf211f5cad72c20a689b00c4d51.webp)
+
+![](_assets/5f/5f5978512657bae563f888757c7929b7.webp)
+
+![](_assets/80/80ffe437c4eaeabd44efefa1a13e8c30.webp)
+
+![](_assets/ce/ce6570a39e324c56f51504b27cdc4573.webp)
+
 
 *5 историй про Чака Берри, Гребенщикова, Макаревича и Внутреннюю Монголию*
 

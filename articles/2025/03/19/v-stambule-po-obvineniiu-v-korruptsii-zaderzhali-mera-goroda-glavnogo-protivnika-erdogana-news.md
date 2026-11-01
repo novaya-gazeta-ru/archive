@@ -11,7 +11,7 @@ tags: "стамбул, мэр, задержание, эрдоган, имамо�
 
 # В Стамбуле по обвинению в коррупции задержали мэра города — главного противника Эрдогана
 
-*\*
+![](_assets/af/afcda6bff5ebe7b73938956cf5614e24.webp)
 
 Полиция [Турции](https://www.gazeta.ru/tags/geo/turtsiya.shtml) утром 19 марта задержала мэра [Стамбула](https://www.gazeta.ru/tags/geo/stambul.shtml) Экрема Имамоглу в рамках антикоррупционного разбирательства, [сообщает](https://www.ntv.com.tr/turkiye/ekrem-imamoglu-gozaltina-alindi-chp-olaganustu-toplandi-ozel-istanbula-geciyor,fw5O5bJd0Ee_IlV2Y3QDOw) телеканал NTV. Вместе с ним задержаны его соратники — в общей сложности по делу Имамоглу проходят 105 человек, включая журналистов и бизнесменов.
 

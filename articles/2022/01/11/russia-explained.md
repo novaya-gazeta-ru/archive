@@ -13,6 +13,8 @@ tags: "newsletter, russia; explained"
 
 *Memorial — Russian troops in Kazakhstan — Wagner Mali*
 
+![](_assets/b4/b4239e697a9cc3485b28ec65c27c99fe.webp)
+
 *Badges with the symbols of the Memorial Societyю Photo: RIA Novosti*
 
 # **Here what’s in store for you this week:**
@@ -29,6 +31,8 @@ This week we unpack the government attack on the country’s most important huma
 
 **THE MALINOVSKY CONNECTION.** The day after Memorial’s liquidation, notes Tarasov, the Supreme Court rehabilitated the double agent Roman Malinovsky. Born in 1876, Malinovsky worked both for the Tsarist secret police and for the Bolshevik Party. He was a close associate of Lenin. After a series of close calls, he was condemned as a Tsarist spy by the revolutionary government and was executed in 1918. So what does this century-old case have to do with Memorial? To answer this question, Tarasov highlights how Malinovsky was constantly changing sides and ideologies, while Memorial has steadfastly adhered to “clear and simple” principles.  Tarasov’s damning verdict is as follows: “The decision to rehabilitate him [Malinovsky] against the backdrop of what took place the day before seems to be an assertion of betrayal as the norm.”
 
+![](_assets/dd/dd05276f84b98ed8cc591dc1cf3f147d.webp)
+
 *Roman Malinovsky in prison*
 
 **WHO’S TO BLAME? **The Supreme Court is not the sole antagonist, writes Tarasov, but rather represents broader social trends. “The Supreme Court does not mark the road for us”, he says, “it follows us and indicates who we are and where we are.” Implying that individuals in today’s society are more like Malinovsky than Memorial, Tarasov asks: “Where are people with a firm civic and moral core today? So that yes is yes, no is no?”
@@ -44,6 +48,8 @@ This week we unpack the government attack on the country’s most important huma
 # **Russia Sending Troops to Kazakhstan, Explained**
 
 In the first week of 2022, mass pro-democracy protests erupted across the Central Asian nation of Kazakhstan. Sparked by a sharp rise in energy prices, the protests have a clear political dimension with citizens calling for an end to cronyism, inequality and authoritarianism in the country. In a shock move, President Tokayev requested support from the Moscow-controlled Collective Security Treaty Organization (CSTO) in quelling the unrest. Belarus, Tajikistan, and Armenia contributed to the contingent of approximately 2,500 troops but Russian soldiers constituted the overwhelming majority. Our special correspondent Vladyslav Polovinko highlights how Moscow is exploiting the crisis to expand its colonial influence in the country, as well as explaining the implications of the Russian military presence.
+
+![](_assets/65/653dce0190d5335a139c198fee47018e.webp)
 
 *Photo: Фото: Mariya Gordeyeva / REUTERS*
 
@@ -81,6 +87,8 @@ State Duma deputy from Dagestan Biisultan Khamzayev dropped any pretence of resp
 # **Wagner Group’s Role in Mali, Explained**
 
 Kremlin’s ‘shadow army’ continues to haunt the African continent. Our columnist Yuri Safronov breaks down French reports of the presence of the Wagner Group — Russian private military company — in the west African country of Mali.
+
+![](_assets/64/64a162362c66b26bb568ecc29df1357b.webp)
 
 *Photo: Getty Images*
 

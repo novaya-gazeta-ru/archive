@@ -10,6 +10,12 @@ tags: "криминал, убийство"
 ---
 
 # Полиция против милиции
+![](_assets/8e/8e5170d4d5b09169ff01bdbe20ab10a1.webp)
+
+![](_assets/ff/ff9ef115afe17d0b99f35294b19fefc8.webp)
+
+![](_assets/be/be5e791c3b4496aba43bb2e58001608c.webp)
+
 
 *Дело «ангарского маньяка»*
 

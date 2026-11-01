@@ -13,6 +13,8 @@ tags: "russia; explained, newsletter"
 
 *QR codes — Webcam-sex — Northern landfill battle*
 
+![](_assets/7b/7bdd35d88a3b295da193a9d0b935b8d5.webp)
+
 *The dispute between bailiffs and opponents of the introduction of QR codes. Photo: Isolda Drobina / Novaya Gazeta*
 
 \
@@ -29,6 +31,8 @@ tags: "russia; explained, newsletter"
 # **Russians vs. QR Codes, Explained**
 
 Covid-19 has turned QR codes from something we scan in a grocery store to a major point of political contention — and Russia is on the frontlines of the controversy. This week, our correspondent Irina Drobina spotlights the anti-QR outcry in the country’s fourth-largest city Yekaterinburg. Plus, our columnist Kirill Martynov analyzes why a simple code is so hotly debated, as well as situating the controversy within Russia’s broader political context.
+
+![](_assets/5a/5ae5291ebf79a80a4364282a688ca90b.webp)
 
 *A rally in Kazan (Republic of Tatarstan, Russia) against the introduction of a QR code system. Photo: Artem Dergunov / for Novaya Gazeta*
 
@@ -56,6 +60,8 @@ Covid-19 has turned QR codes from something we scan in a grocery store to a majo
 
 It was a scene straight out of a farce. In mid-July, the Nizhny Novgorod police busted down the door of an office where, a passerby had claimed, there had been sounds of torture. Instead of a chamber of horrors, they found a webcam-sex studio. The groans and screams? All part of the act.  Millions of people are stuck at home, and have [lost their jobs](https://novayagazeta.ru/articles/2020/11/11/87916-russia-explained), because of the Covid-19 pandemic. Unsurprisingly, the webcam-sex industry has boomed. This week, our reporters Tatiana Kuranova, Ivan Zhilin, and Vladimir Prokushev explain how the industry operates, interview some of the men and women who are part of it.
 
+![](_assets/77/7712ba73bacb08967553426ec1474b81.webp)
+
 *Detention of a webcam model in the studio. Screenshot by police department*
 
 **OUR INVESTIGATION DISPELS A FEW COMMON MISCONCEPTIONS.** Firstly, not all webcam workers are young. Secondly, not all webcam work is for sex. Studio owners told our reporters that the pandemic saw an uptick in people between the ages of 30-40 joining the industry. They also said that webcam interactions are not always about sex, emphasising that many clients simply want to talk. Thirdly, not all webcam workers are women, although they are the majority.
@@ -76,6 +82,8 @@ It was a scene straight out of a farce. In mid-July, the Nizhny Novgorod police 
 
 Russia's environmental record is notoriously poor, with the government’s exploitation of the country’s natural resources in the Far North and Far East regularly [making the headlines](https://novayagazeta.ru/articles/2020/10/14/87517-russia-explained-55). A less high-level, but no less dangerous, environmental problem — however — is illegal dumping. This week, Novaya’s Lina Zernova investigates the crisis of unauthorized landfills in Russia’s northern capital.
 
+![](_assets/48/48794d2ce012d5538c8700d1a0210131.webp)
+
 *Landfill near St. Petersburg. Photo by Pavel Lisitsyn / RIA NOVOSTI*
 
 **THE SCALE OF THE PROBLEM. **In 2020, authorities recorded 339 illegal landfills in St. Petersburg, the country’s second largest city. It spends more than one billion roubles (approximately $13.5 million) per year on eliminating them. Municipal deputy Ylia Lebedeva told Zernova: “in the Krasnoselsky district, in three years — from 2018 to 2020 — the regional administration spent about 300 million rubles on the elimination of landfills […] For 300 million, 14 small landfills on the outskirts were cleared. Fighting large ones is much more expensive."
@@ -95,6 +103,8 @@ Russia's environmental record is notoriously poor, with the government’s explo
 # **KUZBASS COVER-UP.**
 
 On November 25, tragedy shook the small town of Belovo in Russian Siberia. An excess of methane gas led to an explosion in the local mine — Listvyazhnaya — claiming the lives of 51 people and injuring dozens more. Our special correspondent Elizaveta Kirpanova reports on the [aftermath of the Listvyazhnaya mine disaster](https://novayagazeta.ru/articles/2021/12/02/glubinnyi-narod), and highlights how the local authorities have sought to cover up the negligence that led to the explosion. The biggest revelations?
+
+![](_assets/a3/a3d069a427b0d080e34580cb14582a6a.webp)
 
 *People at the memorial on the Miners' Walk of Fame. Photo: Svetlana Vidanova / Novaya Gazeta*
 

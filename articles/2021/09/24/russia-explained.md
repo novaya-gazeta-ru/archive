@@ -30,6 +30,8 @@ The 2021 parliamentary election in Russia [might have been rigged](https://novay
 
 **3. Destroying the opposition election monitoring system is a sign of strengthening authoritarian tech. **The SmartVoting debacle demonstrated increased tech capabilities of the state to censoring unwanted information on the internet. In doing so, Russian officials are no longer constrained by formalities of procedures or laws and act in a de facto designated state of emergency. The election marked the emergence of a [successful Russian 'sovereign internet'](https://novayagazeta.ru/articles/2021/09/15/russia-explained) — analogs to the Chinese Great Internet Firewall. The new digital order symbolizes the new status of Russian authoritarianism, where refusal of political loyalty to the government in any form is considered an offense. While it is common to laugh derisively at Roskomnadzor's various blocks, they can be effective — an ordinary user may simply not figure out how to use multiple parts of the internet to circumvent official obstacles. Over the past ten years, American IT giants have remained the leading institution of freedom of speech in Russia but now publishing information pertaining to Russia on foreign digital platforms amounts to "foreign interference in the elections.
 
+![](_assets/df/dfb6033e7a5f7912aeb4e7ebf784c051.webp)
+
 *Photo: Elena Lukyanova / Novaya Gazeta*
 
 **4. The election became a model of the Kremlin's political mobilization.** On September 17, the electorate dependent on the government financially was pushed to the polling stations viewing what was happening as a test of loyalty. Despite it being a working day, queues of voters lined up to separate precincts, contrary to the official version of the CEC that multi-day voting is necessary to ensure social distance during the pandemic.
@@ -56,6 +58,8 @@ While smashing the structures of opposition politician Alexei Navalny, Russian a
 
 **ON THE OTHER HAND **“at the grassroots level” KPRF candidates appeared no less liberal than candidates from e.g. opposition Yabloko. They demand the release of political prisoners, advocate freedom of speech, solve environmental problems and support young people.
 
+![](_assets/5c/5c1ce9d6b05182be4de270b164a4796b.webp)
+
 *Photo: Elena Lukyanova / Novaya Gazeta*
 
 **WAR ON COMMUNISTS? **Political analyst Alexander Kynev tells Novay that authorities appear to be “actively fighting” the communists at present through a combination of pressure and negative PR. The party itself feels the pressure, which has ramped up since 2018 — that year an extremely unpopular pension reform was carried out in Russia which increased the retirement age. The communists were then in the forefront of the protest. “We have been working under such pressure since 1996,” said the secretary of the Central Committee of the Communist Party of the Russian Federation, Alexander Yushchenko. “Now the pressure is stronger. Support for the ruling party is falling, and they need to repeat the constitutional majority. Our minimum task is to destroy this majority.”
@@ -71,6 +75,8 @@ For the fifth consecutive month, the Russian Far East has been burning. Destroyi
 **“FULL EXTENT OF DAMAGE HAS NOT YET BEEN CALCULATED … **but no statistics can capture the lives lost and the horrors people have experienced,” they write, describing the scene from within. “The noise of the blades of the helicopter. The wind raises dust into the air and strives to knock you down …  From above, the flames look like golden threads gleaming between the trees.” After landing at their encampment they noticed the difficulties of simply pitching a tent, as well as the swarms of midges filling their mouths and noses.
 
 **FIREFIGHTERS KNOW LITTLE OF THE EXTENT. **Some of the firefighters are former army, or paratroopers, while others are part of the famed volunteer units fighting the fires out of the goodness of their hearts. “The temperature inside is similar to that of a volcano,” one firefighter, Vladimir, tells our reporters. “The taiga is like a massive city, only there is nobody around from whom you can ask for directions,” said another firefighter. “We do not know how many small fires we will encounter that could still flare up,” said another. “Security guards saw the patrolling aircraft four times, but they must fly out at least twice a day and guide us. Nobody tells us the real area.” They mention colleagues who have disappeared as they have fought. Forty-three-year-old Elbagi Igityan, for example, who disappeared on August 9.
+
+![](_assets/8a/8a9c43e586978ae15333617a6d43c807.webp)
 
 *Photo: Arden Arkman / Novaya Gazeta*
 

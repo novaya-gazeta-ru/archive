@@ -10,6 +10,14 @@ tags: ""
 ---
 
 # Франсиско Гойя и Кологрив
+![](_assets/2e/2e1d207ccc306c2d33747dff508ed26e.webp)
+
+![](_assets/74/7442b7c5c92075a855c809ca27f3bffd.webp)
+
+![](_assets/c0/c091e5a6c187deef5451328887c5de78.webp)
+
+![](_assets/27/27f48c0fcd2257276d50b652592dae4c.webp)
+
 
 *Почти детективная история*
 

@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *E-Voting Fraud — Gazprom Price Hike — Litvinenko*
 
+![](_assets/45/45f05061254bde5d8184679dbf52ff54.webp)
+
 *Photo: RIA Novosti*
 
 **Here what’s in store for you this week:**
@@ -30,6 +32,8 @@ This week we keep focus on the fallout from [the rigged parliamentary election](
 
 **E-VOTING FRAUD. **Opposition candidates won several Moscow districts over United Russia in the State Duma elections earlier this month — that is, until the electronic votes were counted. Suddenly, United Russia-supported candidates steamed ahead. [Novaya speaks to Yandex programmer Petr Zhizhin](https://novayagazeta.ru/articles/2021/09/24/deg-shou) about how fraudulent E-voting could have been executed. "I was outraged by the situation. I decided that I needed to analyze what had happened," he tells Novaya. "If you go to observer.mos.ru, you can simply download the SQL database, unpack and see three tables: blocks, decrypted ballots, and transactions." He proceeds to tell us that he followed the decryption process and that not all the online votes had been processed. «If only 70 percent of the votes have been decrypted, then what is in the remaining 30? Maybe they are all for the opposition?» he asks.
 
+![](_assets/50/503f5a3be692bc1d9d45f2d7a906156d.webp)
+
 *Petr Zhizhin*
 
 **ZHIZHIN MANAGED TO IDENTIFY SEVERAL GAPS IN THE RUSSIAN E-VOTING SYSTEM THAT MAKES IT VULNERABLE TO VOTE-RIGGING. **First, the government used a hollow blockchain system with all nodes and decryption codes in possession of the officials. Second, the electronic voter ID database turned out to be messy and incomplete, which prevents the verification of the complete authenticity of e-votes and allows mass e-ballot stuffing by voter bots.
@@ -41,6 +45,8 @@ This week we keep focus on the fallout from [the rigged parliamentary election](
 **MANY ARE JUST TOO SKEPTICAL THEIR VOTES WILL BE COUNTED.** 'And who to vote for, girls?' asks a local woman named Valentina rhetorically.
 
 > 'They choose for us. Everything has been decided without us. Are we naive firstborns? All votes have already been counted; who needs it — they already won. Now they make the noise that our votes matter. But when they get to their parliamentary seats — will they do many things for the people? The main thing for them is to get through. We are the periphery for them. Aborigines!'
+
+![](_assets/ed/ed474e045bf9d4fc8250d729d75e61d0.webp)
 
 *Illustration by Petr Sarukhanov*
 
@@ -60,6 +66,8 @@ Gas prices have reached an all-time high of $1,000 this week. Europe believes th
 
 **BLACKMAILING EUROPE. **Recently, European Parliament MEPs signed a letter to the European Commission demanding to investigate the current activities of Gazprom. From their point of view, Gazprom is deliberately manipulating the supply process and essentially blackmailing Europe by restricting gas supplies before the launch of Nord Stream 2. They are possibly hoping for some concessions and a speedy — if not immediate — launch to the project. Gazprom has refused to guarantee additional supply volumes "despite available information that Gazprom has sufficient production capacity," according to the 42 MEP signatories.
 
+![](_assets/a8/a828a927e10e191cdc1fec7f6e93e86b.webp)
+
 *Photo: RIA Novosti*
 
 **WHILE EUROPE IS RELIANT ON RUSSIA IN SOME WAYS, RUSSIA IS ALSO PLAYING A DANGEROUS GAME.** "Any complication of relations in the gas sector with Europe is a huge risk, given the fact that Nord Stream 2 has not yet been launched," says Kapitonov. "In the next three years, Gazprom will have to extend contracts for tens of billions of cubic meters with its old clients in the West."
@@ -75,6 +83,8 @@ Gas prices have reached an all-time high of $1,000 this week. Europe believes th
 On September 21, the European Court of Human Rights (ECHR) ruled that Russia was responsible for the assassination of former Russian spy Alexander Litvinenko, who died in London after drinking a cup of tea poisoned with radioactive polonium.  This week we publish an exclusive interview with Litvinenko’s widow, Marina Litvinenko.
 
 **DAMNING COURT RULING. **“The death of Litvinenko was the result of a planned and complex operation, including the acquisition of a rare deadly poison, organizing a trip for Lugovoy and Kovtun, and numerous attempts to inject the poison”, the ruling by Europe’s top human rights court says. This leaves zero room for ambiguity or interpretation. The court established, “beyond reasonable doubt,” that the assassination had been carried out by Andrei Lugovoi and Dmitry Kovtun. “The complaint was originally filed in 2007, a year after Sasha's death,” says Marina, noting that it serendipitously fell around the same time that a third suspected GRU officer thought to have been involved in the Skripals’ case was named.
+
+![](_assets/a5/a591561c524759459844fdc2851a03f8.webp)
 
 *Marina Litvinenko. Photo: ERA*
 

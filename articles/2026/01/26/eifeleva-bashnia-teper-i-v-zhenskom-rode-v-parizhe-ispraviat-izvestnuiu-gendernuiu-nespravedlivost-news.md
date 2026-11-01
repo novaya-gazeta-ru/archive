@@ -37,7 +37,11 @@ tags: ""
 
 Женские имена появятся прямо [над мужскими](https://www.cnrs.fr/fr/actualite/bientot-des-femmes-de-sciences-sur-la-tour-eiffel), на первом ярусе башни.
 
+![](_assets/e5/e5e515404ab1faed37e3091a0f75e8ad.webp)
+
 *Модель размещения имен женщин-ученых над мужскими именами на первом ярусе башни. Agence Pierre-Antoine Gatier, 2026*
+
+![](_assets/a1/a117c9418eddb818b6b048fdbbe0a5d4.webp)
 
 *Модель размещения имен женщин-ученых над мужскими именами на первом ярусе башни. Agence Pierre-Antoine Gatier, 2026*
 

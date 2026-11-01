@@ -10,6 +10,12 @@ tags: ""
 ---
 
 # Гаянэ
+![](_assets/7d/7ddfc71c19bb88756099d832fb28bff1.webp)
+
+![](_assets/12/12d9bcd8203f7b5f1d66ee883fd5a122.webp)
+
+![](_assets/24/243fac0ed28685d9e3d423d00f11a905.webp)
+
 
 *Рассвет и закат она осуществляет сама*
 

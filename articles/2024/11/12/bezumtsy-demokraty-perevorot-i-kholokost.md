@@ -13,9 +13,9 @@ tags: ""
 
 *Подборка новых книг об исторической травме и о том, как про нее рассказывать*
 
-*\*
+![](_assets/38/3884b009303ed8c6da0a56cd42b5d378.webp)
 
-*\*
+![](_assets/01/01968c0262958676daa60a1fc26faa7a.webp)
 
 > **Джибрила Диалло Фалеме, Дамбудзо Маречеры**
 >
@@ -37,7 +37,7 @@ tags: ""
 
 **Читайте также:** https://novayagazeta.ru/articles/2024/10/26/velikaia-transformatsiia-i-obratnaia-storona-zhizni
 
-*\*
+![](_assets/49/4973963839bbf8a3267f15f7dee9bc75.webp)
 
 > **Ежи Косински**
 >

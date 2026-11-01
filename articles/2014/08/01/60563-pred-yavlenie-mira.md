@@ -10,6 +10,12 @@ tags: ""
 ---
 
 # Предъявление мира
+![](_assets/11/1100e008ad5e5ed630d12a76be82bb96.webp)
+
+![](_assets/cf/cff36b86e509eddda1689b6831b8c8a7.webp)
+
+![](_assets/75/7501855a5e5ec8b6fd1f8cbd2b28aa4b.webp)
+
 
 *Пока еще не все потеряно*
 

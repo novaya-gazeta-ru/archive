@@ -10,6 +10,20 @@ tags: "карта памяти"
 ---
 
 # Хроника хороших похорон
+![](_assets/43/4327420451b164550da6cd0ccedafd46.webp)
+
+![](_assets/ce/ce99aed0e7ea4b51d4d48fca6fdd8bfe.webp)
+
+![](_assets/7a/7ac3fab80f94d6d0ab799cbc0c424ab0.webp)
+
+![](_assets/59/59d5acc74858d5b76445f68fa4b03772.webp)
+
+![](_assets/ff/ff19686951715a3e3551a64400047450.webp)
+
+![](_assets/e0/e0e824a86489629bbd7432aa490de0ee.webp)
+
+![](_assets/0b/0bfbc0bcc5b41d2d48b3583ae6cfa2f4.webp)
+
 
 *Последнее путешествие Тонино*
 

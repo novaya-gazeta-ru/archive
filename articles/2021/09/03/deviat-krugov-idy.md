@@ -13,23 +13,43 @@ tags: "нью-йорк, ураган, фото"
 
 *Как выглядит Нью-Йорк после разрушительного тропического шторма. ФОТО*
 
+![](_assets/c1/c1e133025ba65ca702a9609dfbbe81b3.webp)
+
 *Люди выносят затопленные вещи из магазина. Мамаронек, штат Нью-Йорк. Фото: Reuters*
+
+![](_assets/d0/d043dbfdccc86f6ba3b4a36eb9d2cbff.webp)
 
 *Люди сортируют испорченные после дождя вещи. Фото: Scott Heins / Getty Images*
 
+![](_assets/49/49c03a8f541e8f62b66c29f79a1e0dfd.webp)
+
 *Фото: ЕРА*
+
+![](_assets/ed/edf99dd394abd5c5f4cba61854f0bda2.webp)
 
 *Фото: Scott Heins / Getty Images*
 
+![](_assets/6e/6e530593b63f5fb3e19ab527e103680c.webp)
+
 *Фото: Michael M. Santiago / Getty Images*
+
+![](_assets/08/082016ee6a519fd7a79bf85f2b7199e9.webp)
 
 *Фото: Spencer Platt / Getty Images*
 
+![](_assets/cc/ccb94c50e6e36c543c4dc5aadbe100ca.webp)
+
 *Фото: ЕРА*
+
+![](_assets/f2/f2b46c91d7ae42fcb24411ed2cac2331.webp)
 
 *Станция метро, перекрытая из-за затопления. Фото: Reuters*
 
+![](_assets/81/81bcb4ae0f77927e98a8c8efb4ccc9b6.webp)
+
 *Фото: ЕРА*
+
+![](_assets/6d/6de8aaafd45b22d5ab7ec9be3ffd5ae5.webp)
 
 *Фото: AP / TASS*
 

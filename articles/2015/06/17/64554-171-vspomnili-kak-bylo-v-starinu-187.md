@@ -10,6 +10,32 @@ tags: "село, школы"
 ---
 
 # «Вспомнили, как было в старину»
+![](_assets/5f/5fa207a4a38a1fe67ad87ebb2d978b7a.webp)
+
+![](_assets/a1/a12d634e098d397f6c839b7068ddecef.webp)
+
+![](_assets/7f/7f03b8505822cf169d54a86935576e25.webp)
+
+![](_assets/cf/cfefd2462d26218861c08638afa1b5ca.webp)
+
+![](_assets/42/425d65a8c121815b34ccd765217651e8.webp)
+
+![](_assets/bb/bb641efd53f63058a671fe8b199b5ae5.webp)
+
+![](_assets/51/512168b84f087c15c9f2b0f47de40e0f.webp)
+
+![](_assets/4c/4c6afb615e3ad313b154f933fe62d524.webp)
+
+![](_assets/58/5840601d03707c1575605807276eda74.webp)
+
+![](_assets/c5/c58093c8551b93f83a324c0be2d43368.webp)
+
+![](_assets/68/688309968f5abb23f67abecc01b9928a.webp)
+
+![](_assets/42/4206316b71f4aca48e5e50e3ff5d26ae.webp)
+
+![](_assets/f2/f2b67f3427893aad96f7518b7a497808.webp)
+
 
 *Учительский дом — спасение малых деревень России. Опыт Пермского края замечательно это доказывает*
 

@@ -13,7 +13,7 @@ tags: "музыка, рок, арт рок, бг, борис гребенщик�
 
 *Главные музыкальные новинки осени*
 
-*\*
+![](_assets/ac/ac82ffc47c674ae357f145e0188213b6.webp)
 
 > **The Chemical Brothers**
 >
@@ -34,7 +34,7 @@ tags: "музыка, рок, арт рок, бг, борис гребенщик�
 >  — «No Reason»\
 >  — «Skipping Like A Stone»*
 
-*\*
+![](_assets/84/846d47efaee85a2ec6b06ab7eedf91b3.webp)
 
 > **Public Image Ltd.**
 >
@@ -69,7 +69,7 @@ tags: "музыка, рок, арт рок, бг, борис гребенщик�
 
 **Читайте также:** https://novayagazeta.ru/articles/2023/07/14/rodina-vernis-domoi-media
 
-*\*
+![](_assets/f3/f3e41e13c137477fab8cb16f307f645d.webp)
 
 > **БГ+**
 >
@@ -81,7 +81,7 @@ tags: "музыка, рок, арт рок, бг, борис гребенщик�
 >
 > - **Слушать на** [bandcamp](https://bg-aquarium.bandcamp.com/album/--5?fbclid=IwAR3H5Ni0wX9Rq3Zonu01AHosrrxfphv1nT3xz9KNjJ0NV2AD0J-M6lJv6rw_aem_AbcJ_a5Nlqg0jzpZOZC9d5pfIjgE5-_oFT-PJXXssHDtR5OTbaBv6ABwhY7dyaat_9Y)
 
-*\*
+![](_assets/8d/8dee659f71df73a0c530ce64fb79f576.webp)
 
 > **Róisín Murphy**
 >
@@ -99,7 +99,7 @@ tags: "музыка, рок, арт рок, бг, борис гребенщик�
 >  *— *** *«CooCool»\
 >  — «Fader»*
 
-*\*
+![](_assets/6f/6f2fcefd5c9e8f49af9dd338bae61163.webp)
 
 > **Aphex Twin**
 >

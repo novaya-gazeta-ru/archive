@@ -10,6 +10,12 @@ tags: ""
 ---
 
 # Музыкальные новости месяца
+![](_assets/9c/9cf153d6725956bcf18cee7974b2dcc6.webp)
+
+![](_assets/18/18f03eca8743aae1db675c39fcc50fd1.webp)
+
+![](_assets/4d/4ddaacfe2008327c23a624d5ca72ee0f.webp)
+
 
 Группа Black Sabbath воссоединилась в своем оригинальном составе
 

@@ -10,6 +10,14 @@ tags: ""
 ---
 
 # The Wall да The Wall кругом
+![](_assets/4a/4a1b06d63a78a1ce511d580fb6e3bd3e.webp)
+
+![](_assets/7b/7bb22563322b12316441c71b4c8f4efc.webp)
+
+![](_assets/3b/3b84ed53c8bbca8c53a0549870b5f334.webp)
+
+![](_assets/e2/e2a63b3ca9c69b9b9e03245e43c999e0.webp)
+
 
 *В Московском планетарии показывают музыку Pink Floyd. В цвете и объеме*
 

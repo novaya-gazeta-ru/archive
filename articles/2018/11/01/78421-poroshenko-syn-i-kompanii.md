@@ -13,6 +13,8 @@ tags: "дипломатия, украина, санкции"
 
 *Как отразятся санкции России против украинских политиков и бизнеса на самой Украине. Комментарии экспертов*
 
+![](_assets/b5/b58474d60f1ff31cdc34e07717901501.webp)
+
 *Фото: EPA*
 
 **link:** https://novayagazeta.ru/articles/2018/11/01/78423-kratkiy-putevoditel-po-sanktsiyam-protiv-ukrainy

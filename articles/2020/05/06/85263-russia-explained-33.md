@@ -33,6 +33,8 @@ On February 29, Moscow City Clinical Hospital 52 became one of the first hospita
 
 **Families feel the distance.** Long hours and a high infection rate mean many medics are unable to see their families. Thirty-one year old Zinaida Yurievna is among them. She moved into a hotel specially organized for doctors at the end of February and hasn’t seen her one and half year old son for two months. “When I’ll see him, we’ll get to love each other again,” she said.
 
+![](_assets/47/477682a4a28029ecc60bd71f0b7d816b.webp)
+
 *Photo: Yury Kozyrev / "Novaya Gazeta"*
 
 **Backstory.**On Monday, Russia recorded more than 10,000 new cases for the second day in a row, the second-highest number of new infections after the US. The official number of cases now stands at more than 145,000, which makes it the seventh-largest COVID-19 outbreak in the world. But even Russian officials are conceding that the actual number is much higher than government figures show, a warningthat independent experts have been sounding for months now. On Saturday, Moscow Mayor Sergei Sobyanin said screening results suggested that 2% of the city’s 12 million residents could be infected, meaning that Moscow alone would account for some 240,000 cases.
@@ -48,6 +50,8 @@ As the country endures its second month under lockdown, Russians are being plung
 **Smaller businesses will be hit hardest.** But the official figures won’t paint the full picture of the COVID-19 induced financial hardship in Russia. “One must understand that these wages are, in fact, only official, legal wages,” explains Marcel Salikhov, a professor at Moscow State Institute of Electronics and Mathematics. It will primarily be the small and medium-sized businesses that will feel the impact of the quarantine, which is where informal labor contracts are most common.
 
 **Wages down, prices up.** While wages are falling around the country, prices for basic things like food are going up. Government-sourced figures show that the consumer price index for food went up by 2% in the first quarter, and non-food products, by 2.5%. Alexander Suslin, head of the Economic Expert Group’s fiscal policy department said this partly due to the growing exchange rate: “clearly not all goods are imported, but the depreciation of the ruble against the backdrop of falling oil prices has contributed to this situation.”
+
+![](_assets/31/314281cf108dd6c303cb6b4f0d9480b7.webp)
 
 *Photo: RIA Novosti*
 
@@ -66,6 +70,8 @@ This week our award-winning investigative reporter Elena Milashina features two 
 **The first approach is from a Southern Russian region of Dagestan.**On April 28, the head of a small village Tebekmakhi appealed for help in a video message addressed to the regional government. Half of the village’s 2150 residents were suffering from colds and viral diseases and 12 died throughout the months of March and April alone. The village usually sees 15-17 deaths per year. However, not a single villager had been tested for coronavirus at that point.
 
 **No tests, high death rates.**Tebekmakhi is a microcosm of the whole Dagestan that has the fifth-highest rate of coronavirus cases in Russia and does 34 daily tests per 100,000 people. Yet the region (population of 2.9 million) has more folks sick with pneumonia than infected by COVID-19. Because few survive before even getting tested.
+
+![](_assets/4b/4bf291aaec9ba315a4891fa7c80208e8.webp)
 
 *Photo: TASS*
 

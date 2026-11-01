@@ -10,6 +10,18 @@ tags: ""
 ---
 
 # Ах, Гоби!
+![](_assets/19/1960630fd21095ed024c55a4f8fbd098.webp)
+
+![](_assets/b9/b90882082a8efcab80526ae87e77f9e5.webp)
+
+![](_assets/a5/a5534d076c7b1b8b40f36fd43f1d449f.webp)
+
+![](_assets/86/86cb93c5a446655dd360aaf56a24e5d4.webp)
+
+![](_assets/61/61c310e48fc8ba22d021bc516a5fcb3c.webp)
+
+![](_assets/c4/c489a77f1b521259dc34d33a5b74f46f.webp)
+
 
 *Путешествие по Монголии в поисках легенды*
 

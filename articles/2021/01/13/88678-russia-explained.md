@@ -25,6 +25,8 @@ Russian civil society and independent journalists are suffering the biggest atta
 
 **THIS IS WHAT A RUSSIAN GOVERNMENT CRITIC NOW BRACES FOR.** Life hasn’t been easy for Russian organizations that voice criticism of the authorities. Now the state is expanding these same repressive measures against any individual. Those receiving funding for political activities from abroad can be labeled ‘foreign agents,’ as can folks who get foreign scholarships, grants, or compensated for attending a conference abroad. Organizing a protest or a rally is also a major red flag. Anyone working with a political NGO or with public associations will also be labeled ‘foreign agents’ if they receive any kind of support from abroad. A new set of measures prohibit foreign links and collaborations for journalists, as well.
 
+![](_assets/ca/ca511b037fbfa921094f45059c658665.webp)
+
 *Human rights activist and Foreign Agent Lev Ponomarev. Photo: Vlad Dokshin / "Novaya Gazeta"*
 
 **THE ARBITRARY NATURE OF RESTRICTIONS.** If you are a Russian citizen and are qualified to be a foreign agent, you must now register yourself with a state-run database. If you fail to do so, you will pay a hefty fine, do community service, or even go to jail for up to two years. Since the new measures are so broad and definitions are so flexible, it can be hard for someone to be 100% sure in advance if they fit the criteria. This allows the authorities to apply the measure to whoever they want arbitrarily and at any random moment.
@@ -41,6 +43,8 @@ Russian civil society and independent journalists are suffering the biggest atta
 
 **ONE OF OUR JOURNALISTS ENDED UP ON THE REPRESSIVE LIST.** Sergei Markelov is our regional journalist from Petrozavodsk. No one contacted him from the government to inform him about his new status as a ‘foreign agent.’ He learned about it from colleagues. But now, anyone who runs Markelov’s work must include this disclaimer: ‘This message was created and distributed by a Russian individual acting as a foreign media agent.’ “On December 28, I posted a photograph of my wife and me on Instagram with the caption “Kissing on Red Square.” Soon after that, I learned that I was a foreign agent. Now I wonder if the caption should be changed to “My wife is kissing a foreign agent,” Markelov says sardonically.
 
+![](_assets/dd/ddbedbc48835d6f0e71149cb50ec1dc2.webp)
+
 *Sergei Markelov. Photo: semnasem.ru*
 
 **THE KREMLIN’S MESSAGE** to Russia’s people is unambiguous, says Kirill Martynov, Novaya Gazeta’s political editor. You better not do anything against the government. Don’t get involved in volunteering or independent media. Don’t dabble in social or educational projects. We will find out, and you will get the New Year’s gift of being added to the foreign agents’ list. Dissent in any form is prohibited.
@@ -56,6 +60,8 @@ As the winter tourism season ramps up, the Murmansk region in Arctic Russia is e
 **VACATIONING LIKE THERE’S NO TOMORROW.** Russia is still experiencing [one of the world’s highest Covid-19 rates](https://novayagazeta.ru/articles/2020/11/04/87831-russia-explained-future-of-covid-female-genital-mutilation-deadly-coal-obsession). But the Russian ski resorts keep operating as if the pandemic doesn’t even exist. In Kirovsk and Apatity, ski resorts near Murmansk, absolutely everything is overbooked. The region is exploding with tourists, reports Britskaya. Not only skiing is overbooked, tours for northern lights hunters have never seen so many clients. Locals are posting photos from the "stone beach" - an inaccessible seashore dotted with round stones that look like dinosaur eggs. Usually, between 5 to 10 people go there a day. Now there are easily 150. People are hastily installing bunks in their apartments to accommodate incoming tourists.
 
 **WHAT PRECAUTIONS?** At first, the authorities announced that all tourists would be required to have a negative Covid-19 test before they arrived in the region. But then they quietly forgot all about it. Tourists can now come and go as they please without any regulation at all. As a result of this lack of public health policy, the Covid-19 outbreak in the Murmansk region is out of control. Moreover, local authorities actively contributed to the worsening situation by misguiding the tourists.
+
+![](_assets/c8/c87ae40938c1c656f5ef4deae4c89a4b.webp)
 
 *Christmas market in Murmansk. Photo: RIA Novosti*
 
@@ -77,6 +83,8 @@ There’s a common misconception that Russians spend a lot of their time taking 
 
 **BUT NO PLAY.** According to Russian recruitment experts’ estimates, more than half of mid-career Russians do not have enough time for their personal life. Work consumes all of their time. On the whole, the Russian population is highly educated. But the World Bank notes that there is very little return on investment when it comes to education in Russia. A lot of knowledge and skills do not guarantee that you’ll get a higher salary.
 
+![](_assets/aa/aa292bd6f869cef940e310ee2380e69b.webp)
+
 *Photo: Thomas Lohnes / Getty Images*
 
 **EXPLOITATION OF RUSSIANS IS THE REAL DRIVER OF THE RUSSIAN ECONOMY.** According to the World Bank, only 20% of Russia's wealth comes from natural resources, while a full 46% comes from human capital. In other words, the Russian economy is built less through natural resources than through the underpaid and overexploited labor of its citizens. But what happens when you can barely enjoy the fruits of your work? It might be best to talk to the Russian ruling elites about that. Last year we wrote about [how unevenly the economic growth benefits are experienced around the country](https://novayagazeta.ru/articles/2020/01/08/83371), where 1 percent of wealthy Russian citizens controls 60 percent of the country’s financial assets.
@@ -88,6 +96,8 @@ There’s a common misconception that Russians spend a lot of their time taking 
 **Read our columnist Dmitry Prokofiev’s analysis of Russia’s long working hours and economic woes [here](https://novayagazeta.ru/articles/2021/01/03/88602-prazdniki-dlya-krepostnyh). **
 
 ___
+
+![](_assets/54/5475126ced1c172114b7e23ac622e164.webp)
 
 *Illustration by Maria Rodigina*
 

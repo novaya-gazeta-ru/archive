@@ -15,23 +15,23 @@ tags: "физраствор"
 
 #### Карточки для изучения и понимания основ жизни в глубинной России.
 
-*\*
+![](_assets/90/904db8811f83c6c7fbe2c4ea96126240.webp)
 
-*\*
+![](_assets/cd/cded3d8445d2fe7171d2918cc3c7bb9d.webp)
 
-*\*
+![](_assets/61/61f55662d676c618baf506a68971b173.webp)
 
-*\*
+![](_assets/2b/2b4d686e7660eba3d50313f5c3b560b7.webp)
 
-*\*
+![](_assets/49/491545cde446aeacd82da70a50a37ba8.webp)
 
-*\*
+![](_assets/d1/d175bea3b24b5709ef80855f781f5e66.webp)
 
-*\*
+![](_assets/f5/f5fbdb5b3c9f2a5b7ae48b1e14f8228d.webp)
 
-*\*
+![](_assets/c2/c2b36f3ca5a3c5cbdac4b573cdea4fbd.webp)
 
-*\*
+![](_assets/0b/0b90a1bf534ef820c2973f2c7b7842c3.webp)
 
 > **От редакции**
 >

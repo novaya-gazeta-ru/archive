@@ -27,7 +27,9 @@ The Kremlin abruptly ended any further discussions with the Netherlands and Aust
 
 **CAN'T FIGHT THE MOUNTING EVIDENCE ANYMORE.**It has been six years since the downing of a Dutch passenger flight over war-torn Eastern Ukraine that killed 298 people on board. A Dutch-led investigative team gathered a substantial amount of evidence linking the missile that shot down the plane to a Russian missile launcher, which originated in Russia's army base not far from the border with Ukraine.
 
-*The suspects — Russian citizens Igor Girkin, Sergei Dubinsky, and Oleg Pulatov, and Ukrainian Leonid Kharchenko. Photo: EPA-EFE*
+![](_assets/ac/ac1407d7280b073c049e1c3efa63360e.webp)
+
+*The suspects — Russian citizens Igor Girkin, Sergei Dubinsky, and Oleg Pulatov, and Ukrainian Leonid Kharchenko. Photo: EPA-EFE*
 
 **WHAT HAS TRIGGERED THE KREMLIN.** Despite numerous denials from the Kremlin, in 2018, it agreed to start talks with the Netherlands and Australia (another country impacted by the crash) about possible compensation for the victims' families. The talks were a drag. So this summer, the Netherlands sued Russia in the European Court of Human Rights, strengthening the victims' families' case but roiling Moscow. Three months later, Russia halts the talks in response.
 
@@ -47,6 +49,8 @@ This week we learned the names of the Russian officials who the European Union s
 
 **SIX INDIVIDUALS.**The sanctions hit several high-level Kremlin officials, including Alexander Bortnikov, the Director of Russia's Federal Security Service (FSB), and Sergei Kiriyenko, the First Deputy Chief of Staff of Russia's Presidential Administration. The others are Andrei Yarin, head of the president's internal department (who the EU said was attempting to discredit Navalny), Sergei Menyailo, a presidential envoy to Siberia (where Navalny was poisoned), and Andrei Yarin and Alexei Krivoruchko, both of whom are deputy defense ministers.
 
+![](_assets/d3/d3222da0b23325a6046a6659a136fd6a.webp)
+
 *Illustration by Petr Sarukhanov*
 
 **PLUS, ONE ENTITY.**The EU also the State Scientific Research Institute for Organic Chemistry and Technology because it was supposed to have destroyed the Soviet-era chemical weapons used against Navalny. Before 1994, the institute developed and produced chemical weapons, including Novichok.
@@ -60,6 +64,8 @@ This week we learned the names of the Russian officials who the European Union s
 **EXPOSING THE HISTORY OF NOVICHOK DEATHS IN RUSSIA.**This week, we published an investigation into Russia's only criminal case related to a murder using the prohibited chemical weapon Novichok. We obtained previously unreported documents about the 1995 murder of banker Ivan Kivelidi and his secretary Zara Ismailova. Unlike Navalny's case, which was politically motivated, Kivelidi's murder was not a political assassination, and consequently, there was an investigation. President Vladimir Putin's spokesman, Dmitry Peskov, told Novaya Gazeta not to expect an investigation into Navalny's poisoning. But Kiveldi's case gives us clues about how Novichok actually works. That could provide more clarity about what happened to Navalny.
 
 > 'When toxicologists describe the sharp spikes in blood sugar that Navalny had after falling ill, they're describing a condition that Kivelidi also experienced, among other symptoms, after being poisoned with a substance in the Novichok family,' Roman Shleinovwrites in the investigation.
+
+![](_assets/4a/4a1b935d1f5dce55f75706c0e3bde89d.webp)
 
 *Ivan Kivelidi. Photo: TASS*
 
@@ -76,6 +82,8 @@ The Russian-annexed Crimea is on the edge of an environmental disaster. This wee
 **THE DISASTER IS NEARING, BUT OFFICIALS ARE SILENT.**The main reservoirs in the region are currently under 15 percent capacity. Some have entirely dried up already. But local 0fficials in Crimea are not eager to discuss the emergency and reluctant to discuss rationing the water supply. Yet, some areas are already switched to partial access to running water.
 
 **THE CLIMATE CRISIS EXACERBATED BY TERRITORIAL STANDOFF.** Persistent drought, which began in earnest over the summer, isn’t the only reason for the region’s water woes. The region has always relied on water supplies from the canals in southern Ukraine. Still, they’ve almost stopped following Russia’s annexation of Crimea in 2014. This year’s drought brings the region to the tipping point. First pipes with running water started drying up in the region’s capital Simferopol this August. Sevastopol, Crimea’s largest city, declared a water emergency this month.
+
+![](_assets/36/36a2935fc6a57e26837ef22df2671786.webp)
 
 *Photo: TASS*
 

@@ -10,6 +10,18 @@ tags: ""
 ---
 
 # Лоцман во времени
+![](_assets/c9/c9c747c67091bdc93af3e7b811c3cd50.webp)
+
+![](_assets/7d/7d16e3da39f12cd83354b96c4e172ce3.webp)
+
+![](_assets/a0/a016dcc1a69ecee8d2e76b653b63f87a.webp)
+
+![](_assets/03/03127defaac34e1f037ada8b31e8664e.webp)
+
+![](_assets/b9/b91f448781537584bce76f623e22dd8f.webp)
+
+![](_assets/32/329b96d84594ff667a459d6102500d7f.webp)
+
 
 *Альбом фотореконструкций Сергея ЛАРЕНКОВА вышел к 70-летию снятия блокады*
 

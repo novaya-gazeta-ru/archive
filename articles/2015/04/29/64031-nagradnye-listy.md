@@ -10,6 +10,14 @@ tags: ""
 ---
 
 # Наградные листы
+![](_assets/1a/1a77245af676ed9637b39389f811a0d2.webp)
+
+![](_assets/9e/9e12ae76c04703137f43d3787544b6fc.webp)
+
+![](_assets/e5/e5df923dd4a65476bbc96ee09505b050.webp)
+
+![](_assets/07/07de3df7cd0aece2d7c39f7d91cddc01.webp)
+
 
 *Орфография и пунктуация сохранены*
 

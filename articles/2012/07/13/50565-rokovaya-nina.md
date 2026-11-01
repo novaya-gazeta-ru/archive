@@ -10,6 +10,10 @@ tags: ""
 ---
 
 # Роковая Нина
+![](_assets/5c/5c4332e841a8838c557034f12d1c6294.webp)
+
+![](_assets/ad/ad01175326a1e4c5af89ff4d472fa528.webp)
+
 
 *The Cardigans приезжали в Москву*
 

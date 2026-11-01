@@ -10,6 +10,18 @@ tags: ""
 ---
 
 # Музыкальные новости
+![](_assets/33/3333e6eccc3242be8c6b4c1707ed3335.webp)
+
+![](_assets/ed/ed72402669e43de54d7cd80056c78595.webp)
+
+![](_assets/f5/f58e78536fb0806dba8773dbea4063c1.webp)
+
+![](_assets/71/7137560aa80c9ce2b1c9dc32b2701e01.webp)
+
+![](_assets/a2/a2c8b7c6a6388b98f43e318b8ad5dd5b.webp)
+
+![](_assets/c8/c872088b386bbcc95d5e0e18ff382d6e.webp)
+
 
 Документальный фильм, рассказывающий о работе над последним альбомом группы The Doors,появился на экранах кинотеатров
 

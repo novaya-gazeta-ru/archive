@@ -10,6 +10,18 @@ tags: "пенсии, прожиточный минимум, минимальна
 ---
 
 # Арифметика бедности
+![](_assets/3b/3be8a279510588b76642e82002b87fce.webp)
+
+![](_assets/ab/ab9db8946f6ecd9c8f3cf5df77dafd0a.webp)
+
+![](_assets/02/0211247d23ccb45e9f43a426e01208d7.webp)
+
+![](_assets/be/be84cf8578d418fe198a9bbeebdc20a9.webp)
+
+![](_assets/6a/6a3db63664d9707fd1fb4c466ba90cd3.webp)
+
+![](_assets/03/03c1a7e8a4a07f437e7ca59f8c399d95.webp)
+
 
 *Чем закончилась попытка правительства считать прожиточный минимум по образцу развитых стран*
 

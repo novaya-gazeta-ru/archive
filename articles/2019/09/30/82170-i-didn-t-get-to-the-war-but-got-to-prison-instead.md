@@ -33,6 +33,8 @@ In fact, I had no choice as in addition to asking me not to contact anyone they 
 
 > “I felt nothing. For nine days at Lefortovo, I was not nervous, I slept calmly. I was absolutely calm until I got out of the plane and saw my daughter.”
 
+![](_assets/17/172922a24e33f41c9afd0cf39500124c.webp)
+
 *Director Oleg Sentsov with his daughter Alina at the plane that brought the exchanged Ukrainians to Kiev. Photo: Andrey Novikov / Gromadskoye*
 
 “**When did you felt that everything was over and you were free?**”
@@ -44,6 +46,8 @@ In fact, I had no choice as in addition to asking me not to contact anyone they 
 “From the first hours of my detention, I had a feeling that the situation was serious and I was to stay there for long. I refused to cooperate; they found nothing during the personal search, and I told them [the FSB officers], ‘Well, guys, is it all up? Can I go?’ They said, ‘No, you’ve had it, you can’t leave us that easy.’
 
 So the case was slowly growing. They caught me but didn’t find anything except a testimony against me, which was poor and vague. Then they began to supplement the testimony for the sake of the investigation. They just fabricated the case against me. Not against me, Sentsov, personally, but against the brigade. It just so happened that I headed it. It didn't matter to them if it was me or Serebrennikov... A random choice. We are all sludge for them, they would trample us and won't even notice. They worship Putin and don’t care about the rest of people.
+
+![](_assets/e6/e63cfff9c732ea65e85f550763092272.webp)
 
 *Oleg Sentsov in Kiev. Photo by Anna Artemyevа, Kiev*
 
@@ -65,7 +69,9 @@ Once, when everyone went out during the search, one police officer stayed with m
 
 Accusation
 
-*Oleg Sentsov. Photo by Anna Artemyevа, Kiev*
+![](_assets/c7/c759056bc66cf894265f05d3c54b80a8.webp)
+
+*Oleg Sentsov. Photo by Anna Artemyevа, Kiev*
 
 “**Like the investigator you**’**ve mentioned, I wonder if anything of what you are accused of has really happened?**”
 
@@ -95,6 +101,8 @@ Then they detained Afanasyev (*Gennadiy Afanasyev admitted himself guilty, coope
 
 “He killed somebody for the cause but I was a terrorist”
 
+![](_assets/f9/f9e79ca683ee87fc0790cacb83a4e14b.webp)
+
 *Passers-by stop Oleg Sentsov to shake his hand. Photo by Anna Artemyevа, Kiev*
 
 “**What was your relationship with the prisoners?**”
@@ -123,6 +131,8 @@ Regarding the militia, I met them during the transportation of prisoners. One of
 
 I asked him, ‘Remember 2014, all the battles, regular army. How could you resist?’ ‘Well, we had more stuff: more tanks, more ‘grads’, more artillery. Of course, we could not be defeated.’ Where did all this come from? He understood. Then he went to Rostov to hang out, got drunk somewhere and was taken to the police, where they found out that he was wanted. That’s how he went to prison. I didn’t hate him. Such a gosling, should I have beaten him for that or what?”
 
+![](_assets/cf/cf819e2b9275abc64010fc811b469c12.webp)
+
 *Oleg Sentsov on Independence Square in the center of Kiev. Photo by Anna Artemyevа, Kiev*
 
 “**At the first press conference, you said that you had been arrested two days before you were supposed to leave for Donbass?**”
@@ -134,6 +144,8 @@ I asked him, ‘Remember 2014, all the battles, regular army. How could you resi
 I can’t say that I took over the command, but I did all I could, and, as it then turned out, I had done a lot. And in late April – early May, it became clear that the Donbass was getting heated. Nothing could be done in Crimea, we had lost it. And I decided to go there. I had friends in volunteer battalions and planned to join them, even managed to buy a ticket to Kiev. The found it [during the arrest] and said, ‘So you’re trying to escape!’ That’s how I didn’t get to the war but got to prison instead.”
 
 “Feeling like you are gone”
+
+![](_assets/bb/bb0e9bd2e1956a8798d8b1dacd1d2eb6.webp)
 
 *Photo by Anna Artemyevа, Kiev*
 
@@ -159,7 +171,9 @@ In prison, doctors are accustomed to prisoners, they understand that we are the 
 
 “145 days of hunger is a hard challenge, even with medical nutrition. At the end of the hunger strike, I felt that I was really dying. In the mornings, my upper blood pressure value was 40 and lower pressure was absent. You get used to it physically, it was difficult physically during the first and last months. And it was morally difficult all the time, because you are feeling like you are gone. Avolition and absolute weakness, month by month. The doctors showed me my medical documents – I was already familiar with cardiograms, ultrasound cards and so on – there were problems with my heart, my kidneys which were clogged, and my liver. The doctors said, ‘That’s all, if you don’t give up now, then you won’t be able to eat any more.’ I saw from my medical documents that they were right, one of my legs was almost dead. It was a matter of days.”
 
-*Oleg Sentsov. July 2014 and September 2018*
+![](_assets/a2/a2323482d68840bd157489204e6eeb5c.webp)
+
+*Oleg Sentsov. July 2014 and September 2018*
 
 “**Did you know how people outside supported you?**”
 
@@ -169,6 +183,8 @@ In prison, doctors are accustomed to prisoners, they understand that we are the 
 
 “Well, what if there is no other way? I was preparing for a hunger strike, but then the presidential election was held, Zelensky won, negotiations on the exchange were commenced, and I realized that the stupidest thing I could do at the moment was to intervene.”
 
+![](_assets/b7/b79b16b25dd07681692577be149d6f00.webp)
+
 *Director Oleg Sentsov during a friendly meeting at McDonald's with journalist Anton Naumlyuk. Photo by Anna Artemyevа, Kiev*
 
 “**Natasha Kaplan said that you refused to meet with your relatives?**”
@@ -177,7 +193,9 @@ In prison, doctors are accustomed to prisoners, they understand that we are the 
 
 “I have no home in Crimea any more, it has been taken away by enemies.”
 
-*Strangers wish Oleg Sentsov good luck. Photo by Anna Artemyevа, Kiev*
+![](_assets/99/990b850818073f7cfc6523f1cedb71ac.webp)
+
+*Strangers wish Oleg Sentsov good luck. Photo by Anna Artemyevа, Kiev*
 
 “**Are you going to participate in the campaign for the release of political prisoners?**”
 
@@ -198,6 +216,8 @@ This split has separated my friends, my relatives. Many people from my social ci
 “The problem is not prison as such but your attitude to it. The prison hammers every second into mess. I saw how people drove themselves just to the point just for six months. Prison was not so hard challenge for me as for others. Maybe I'm not so impressionable, maybe I was better prepared. I felt ... I won’t say comfortable, but calm. It wasn’t a catastrophe. Regarding my camp experience... I’d say that any experience is good.
 
 > I had to serve and I served. I’ve lived this period of my life properly.”
+
+![](_assets/70/702cf4837748b5ef89106849dcda266e.webp)
 
 *“Sentsov” - written in tongues of prison boots thrown at the airport. Photo: Anton Naumluk, Grati, for Novaya Gazeta*
 

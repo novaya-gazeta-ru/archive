@@ -10,6 +10,14 @@ tags: "карта памяти"
 ---
 
 # Пинега. Бригада
+![](_assets/fb/fb372dfac28bb89d310cff883919a93c.webp)
+
+![](_assets/a3/a32653604bc5b71d70a70801b2e30023.webp)
+
+![](_assets/8c/8c8799967a8bcf3a7b946531fbf75591.webp)
+
+![](_assets/f1/f17acc3a38b7a57608a655a38afebb6f.webp)
+
 
 *Неужели они и сейчас так живут*
 

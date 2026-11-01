@@ -10,6 +10,18 @@ tags: ""
 ---
 
 # Голос несогласных
+![](_assets/92/92b081f9fc8c83389d93498e79598e5a.webp)
+
+![](_assets/d5/d5f8296414cf55d34c56ce86be4d3980.webp)
+
+![](_assets/cd/cd963744c6bcbe8d29e2707a5c185ca2.webp)
+
+![](_assets/ac/acf14674f6bf851b746a8cce66cfaef2.webp)
+
+![](_assets/8f/8f73a832f550275b921143fe423a3abc.webp)
+
+![](_assets/03/030f31a5f44bbfbc393e000ec51de0ee.webp)
+
 
 *Аудитория «Новой» имеет мнение, отличное от позиции большинства*
 

@@ -27,6 +27,8 @@ We've been collecting and fact-checking evidence that confirms Chechen authoriti
 
 **SOME LGBTQ+ VICTIMS ON THE LIST, TOO.** Primarily because most of the investigated murders happened around the same time as well-documented [gay pogroms in Chechnya](https://en.hromadske.ua/posts/chechnyas-lgbtq-purges-continue-amidst-international-backlash-against-russian-authorities). Authorities tortured some of the kidnapped victims so severely that they died from the injuries instead of being executed. It took months to verify the murder circumstances. We scrupulously discovered the fate of almost each of them, including the date, time, and grounds for their detention, which eventually ended in their extrajudicial execution.
 
+![](_assets/c6/c619396e841f6ecb0d8d48197d568fcb.webp)
+
 *Photo: "Novaya Gazeta"*
 
 **WE ALSO PUBLISH THE FIRST WITNESS TESTIMONY FROM THE "OTHER SIDE": AN INTERVIEW WITH A MEMBER OF THE CHECHEN SECURITY FORCES INVOLVED IN THE CRIMES.** We helped to evacuate this person and his family from the country. While the witness remained in Russia, we were unable to publish his testimony for security reasons. But over the years, we have thoroughly reviewed his history and were able to confirm what he said. The Investigative Committee of Russia has never granted a single petition for state protection, even for the direct victims of Chechen security officials. It would be very naive to hope that the Russian state will protect a witness who is 'a traitor' from the state's point of view.
@@ -66,6 +68,8 @@ The indigenous population of Karelia, a region far up in northern Russia, says t
 **A SUDDEN FOREST LEASE COMES AS A SURPRISE FOR LOCALS.** A group of Russian lumberjacks obtained a lease to log 50,000 hectares of land for 49 years. The loggers work for a major wood processing company that plans to use the wood to build furniture. The company will pay a comparatively small fee of $60,000 to local authorities each year for the right to log on the territory of this ancient forest. But the local population didn’t learn about any of this until the trees started to fall down around them. Whole areas of forest are already clear cut.
 
 **SACRAL FOREST ‘HIJACKED.’** The Vepsians are a small indigenous group that has lived in the Prionezhsky region from time immemorial. They are a Finno-Ugric people who, since at least the 9th century, have inhabited the territories between local the Ladoga and Onega lakes, as well as areas of present-day Karelia. This indigenous community is outraged that their land is being exploited without their say.
+
+![](_assets/ec/ec8a91d021f814073f4fa32af71bd31e.webp)
 
 *Photo: "Novaya Gazeta"*
 

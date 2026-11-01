@@ -29,6 +29,8 @@ As the situation in Syria continues to escalate, Putin is trying to salvage rela
 
 **A floundering bromance.**Before the most recent attacks, Putin was hesitant to organize a summit on the situation in Idlib until there was at least some progress in the bilateral talks between Moscow and Ankara. But he has now agreed to meet with President Erdogan in Moscow on March 5 or 6. Putin is hoping to prevent the conflict from escalating any further and to try and save what’s left of his geopolitical partnership with the Turkish leader — Moscow has invested too heavily in this alliance to let it fall apart just like that.
 
+![](_assets/38/38bdb920acf1a07dcfa7f9b9b8e0dc57.webp)
+
 *Vladimir Putin and Recep Erdogan. Photo: RIA Novosti*
 
 **Meanwhile, more fighting.** From the very beginning, many Russian military personnel and diplomats thought that nothing good would come of trying to gain Erdogan’s support, says our columnist Pavel Felgenhauer. And unless he and Putin announce a new ceasefire after their next meeting, the armed confrontation in Idlib is likely to get worse. “If only in order to capture more territory before the armistice, there will probably be all sorts of new provocations, ” he predicts.
@@ -42,6 +44,8 @@ Thwarted School Shooting in Saratov, Explained
 Russia appears to have a growing problem with would-be school shooters. Last week, the Federal Security Service (FSB) detained two teenagers – aged 14 and 15 years old – who were planning an attack on their school in the southwestern city of Saratov. And this is not an isolated incident, but rather part of a spreading network.
 
 **Shooter-wannabes keep in touch through online networks.**The two boys from Saratov were reportedly detained at an abandoned bomb shelter, where they were storing their weapons. According to the security officials, the students used online instructions to make petrol bombs, which they planned to use in the attack. Reports from another law enforcement agency also stated that the teenagers were involved “in various online communities” that promote “mass killings and suicide.”
+
+![](_assets/8c/8c72c0e189c0c3a6846b93924f4176a2.webp)
 
 *Teenagers detained on suspicion of preparing an armed attack in Saratov. Photo: RIA Novosti*
 
@@ -57,11 +61,15 @@ Raising Funds for Shakva’s Librarian
 
 At the end of January, Vera Savina, a librarian in the village of Shakva (located in the Perm Krai at the edge of European Russia) received a letter, saying she had until the beginning of April to pay over 42,500 roubles (about $640) in debt. Facing a potential lawsuit, the librarian – whose monthly salary is usually between $75 and $105 – took on a second job as a firefighter – where she earned an additional $100 per month. Meanwhile, the local authorities suggested that her son “help mom out” by tending cows in the summer.
 
+![](_assets/ab/ab8337426e677f327cc2ecb93ba3ca33.webp)
+
 *Vera Savina. Photo: Maksim Kimerling / Novaya Gazeta*
 
 **Ebook debt.**The debt had accumulated because the librarian had been downloading Ebooks. The local authorities installed unlimited Internet at the library in 2014 – but soon decided to cut costs and reduced their Internet access to just 100 megabytes per month. Every additional megabyte costs over two roubles and in September 2015, the regional library administration received an 80 thousand rouble bill (about $1,200). As it turns out, the Shakva branch had used over 30,000 megabytes (30 GB) and it was all because of Vera Savina. She didn’t even deny it: if readers at her library asked for a piece of literature from the Internet, she went ahead and downloaded it for them.
 
 **“I’ve been dreaming about that.”**Vera’s story came to Novaya Gazeta’s attention and our readers were shocked that this rural librarian is saddled with such overwhelming debt. Within a couple days, folks crowdfunded over $9,000 to help her out. When asked how she plans to spend the money, Vera replied: “I was thinking about the library [...] we need a new laptop and I’ve also been dreaming about buying a color printer for a long time. I asked for it, but they didn’t give it to me [...] For myself, to be honest, I’m afraid to spend it, although I do want to connect the house to running water – I have been dreaming about that for a long time too.”
+
+![](_assets/21/215be099d6b21c4da33dce0477691631.webp)
 
 *Photo: Maksim Kimerling / Novaya Gazeta*
 
@@ -72,6 +80,8 @@ ___
 Mikhail Gorbachev Turns 89
 
 On March 2, the last leader of the Soviet Union, Mikhail Gorbachev — who helped set up Novaya Gazeta in 1990 using his Nobel Peace Prize money – turned 89 years old. To mark the occasion, we invited our readers to send him birthday cards and received dozens of well-wishes. We passed them along to Gorbachev, who definitely plans on reading them. In the meantime, we’ve published some of these letters so you can read them too.
+
+![](_assets/e6/e6499bf431ad61864ba9b4798bffe23e.webp)
 
 *Photo: Novaya Gazeta*
 
@@ -84,6 +94,8 @@ Stray Animals Murdered in Anti-coronavirus Campaign
 On Sunday evening, a third case of the COVID-19 virus was confirmed in Russia. The country’s borders with China and North Korea remain closed and large-scale disease control measures are being rolled out in Moscow. So far, these include placing over 2,000 people under quarantine and slaughtering stray animals.
 
 **Science ignored.** Biologists say that stray animals are not necessarily a threat and that killing them off is unjustified. “Cats and dogs can carry coronaviruses, but not COVID-19,” explains science journalist Irina Yakutenko. “Some other [strains of the coronavirus] are very dangerous for dogs and cats, some are even fatal [...] But as of yet, there hasn’t been a single confirmed case of coronavirus transmission from cats and dogs to humans.”
+
+![](_assets/50/503f5dca06cc31d8186c99f8f07a55bc.webp)
 
 *Photo: RIA Novosti*
 

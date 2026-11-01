@@ -10,6 +10,14 @@ tags: ""
 ---
 
 # Остановленные мгновения
+![](_assets/f5/f528539cbd44f7838040f615dea32fd8.webp)
+
+![](_assets/0c/0cd65de7c6678ac05a9e2b7163e6aa43.webp)
+
+![](_assets/ef/ef44ae946706adfa6fac584204211d7d.webp)
+
+![](_assets/20/206ba4e08be69360056fab60feac61b3.webp)
+
 
 *Четыре новинки ММКЯ, которые действительно стоит читать*
 

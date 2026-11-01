@@ -19,9 +19,9 @@ tags: "россия сегодня, талибан, маркировка, da"
 
 В материалах [РИА Новости](https://ria.ru/20211108/afganistan-1758043368.html) и [Russia Today](https://russian.rt.com/world/news/925604-posolstvo-v-kabule-mid) от 8 ноября встречается маркировка в таком виде.
 
-*\*
+![](_assets/34/34866cf4b2780016a8cf35fc3cec779b.webp)
 
-*\*
+![](_assets/dd/dd384ea25d79ed371c651ca41a6976b3.webp)
 
 На пленарном заседании клуба «Валдай» 21 октября Владимир Путин [сообщил](https://novayagazeta.ru/articles/2021/10/21/putin-rossiia-rassmatrivaet-variant-iskliucheniia-talibana-iz-spiska-terroristov-news), что Россия рассматривает вариант исключения «Талибана» из списка террористических организаций. Тогда же президент поддержал решение Байдена вывести американские войска из Афганистана.
 

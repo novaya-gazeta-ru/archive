@@ -11,6 +11,8 @@ tags: "донаты фбк, соршнева, музыканты, уголовн
 
 # Скрипачку Асю Соршневу отправили под домашний арест по делу о донатах ФБK*
 
+![](_assets/38/381df195d288d0a451898d022f8f230d.webp)
+
 *Ася Соршнева. Фото из соцсетей*
 
 Силовики во Владимирской области завели уголовное дело о финансировании «экстремистской» организации на 42-летнюю москвичку, [сообщили](https://zebra-tv.ru/novosti/ekstcessi/fsb-ulichila-42-letnyuyu-zhenshchinu-v-perevode-deneg-organizatsii-priznannoy-ekstremistskoy/?utm_source=tg&utm_medium=social&utm_campaign=zebratv) в ФСБ 6 августа. Ее имя не называют, однако, как [утверждает](https://chesnok.media/2025/08/08/izvestnuju-skripachku-arestovali-za-donaty-fbk/) местное издание «Чеснок», речь идет о скрипачке Асе Соршневой — лауреате международных конкурсов и фестивалей.\

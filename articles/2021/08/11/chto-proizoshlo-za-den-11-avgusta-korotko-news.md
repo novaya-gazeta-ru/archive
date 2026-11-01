@@ -17,6 +17,8 @@ tags: "навальный , васильева, нефть, чвк вагнер�
 
 - **Ученые из РАН **[**сообщили**](https://novayagazeta.ru/articles/2021/08/11/ran-ploshchad-razliva-nefti-u-novorossiiska-okazalas-v-400-tysiach-raz-bolshe-chem-soobshchalos-news)**, что площадь разлива нефти в Черном море около Новороссийска оказалась в 400 тысяч раз больше прежних оценок. **Площадь загрязнения составилапочти 80 кв. км.
 
+![](_assets/b4/b463bcf6b9920c7c0ebaa19655ab55f8.webp)
+
 *Снимок: ИКИ РАН*
 
 - **Журналисты «Би-би-си» **[**опубликовали**](https://novayagazeta.ru/articles/2021/08/11/zhurnalisty-bi-bi-si-opublikovali-dannye-s-plansheta-boitsov-chvk-vagnera-v-livii-tam-est-svidetelstva-rasprav-nad-mirnym-naseleniem-news)** данные с планшета бойцов ЧВК «Вагнера» в Ливии. **На картах отмечены точки, где работали наемники, среди них — жилые районы, которые были заминированы российскими взрывными устройствами. Информация с планшета позволила журналистам найти связь между присутствием российской ЧВК и расстрелами мирных жителей в Ливии.

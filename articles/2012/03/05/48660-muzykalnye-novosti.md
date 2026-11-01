@@ -10,6 +10,20 @@ tags: ""
 ---
 
 # Музыкальные новости
+![](_assets/ba/bab1c858d88bc3de565f242875f57cdf.webp)
+
+![](_assets/ab/ab80725ba7b08e6023049713862b3cee.webp)
+
+![](_assets/51/5173bc8719a626b6957f5896797fb48b.webp)
+
+![](_assets/ec/ec1df458f8c2095788273de7a343959a.webp)
+
+![](_assets/8a/8ae8bdd0f7157c249af06f8e68521917.webp)
+
+![](_assets/13/139c04d0d157eabac7b0cf0ed8ef72d9.webp)
+
+![](_assets/be/be73918a495a9440091dd8c1a7add69f.webp)
+
 
 Чак Берри и Леонард Коэн стали первыми лауреатами новой литературной награды организации PEN
 

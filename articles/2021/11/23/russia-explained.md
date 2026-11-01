@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *Memorial attack — Persecuted communists — No vaccines for disabled*
 
+![](_assets/b3/b3a70785dcdc30431215d245c37a28e8.webp)
+
 *A communst party supporter. Photo by Vedomosti / TASS*
 
 # **Here what’s in store for you this week:**
@@ -29,6 +31,8 @@ tags: "russia; explained"
 Russia is about to lose the oldest and most respected human rights defender. On November 11, Russian prosecutors filed a lawsuit to liquidate the human rights organization Memorial for alleged violations of Russia's "[foreign agents](https://novayagazeta.ru/articles/2021/02/17/89264-russia-explained)" act. Established in the late 1980s, Memorial has documented political repression under the Soviet Union, building a database of the victims of Stalin's purges and the Gulag system. It became the stronghold for human rights monitoring in the [collapsing civil society field](https://novayagazeta.ru/articles/2021/07/28/russia-explained) during Putin's rule. The move to quash such a well-known NGO has elicited an outcry both within Russia and beyond.
 
 **NOBEL LAUREATES UNITE FOR MEMORIAL.** Mikhail Gorbachev — 1990's winner — and Dmitri Muratov — 2021's [winner](https://novayagazeta.ru/articles/2021/10/16/russia-explained-extra) and Novaya's Editor-in-Chief — have issued a [joint statement](https://novayagazeta.ru/articles/2021/11/18/prizyvaem-prokuraturu-otozvat-iski-protiv-memoriala)condemning the decision of State prosecutors to launch liquidation proceedings against Memorial, one of Russia's best-known human rights groups. Gorbachev — who helped set up Novaya Gazeta in 1990 using his Nobel Peace Prize money, and Muratov paid homage to the "long history of Memorial, the actions of which have always been aimed at restoring historical justice, keeping the memory of the victims of repression alive, and preventing the same crimes from happening again now or in the future."
+
+![](_assets/b6/b639f45bf735c5c8a84531b13ea1816c.webp)
 
 *Mikhail Gorbachev and Dmitri Muratov both are Nobel Prize laureats*
 
@@ -52,6 +56,8 @@ The Communist Party of the Soviet Union was ruthless in its repression of politi
 
 **WHAT DOES 'PRESSURE' MEAN EXACTLY?** Arrests, fines, arbitrary interrogations, and threats of criminal cases are just some of the measures that local authorities have taken against the CPRF. In Sakhalin, the party has not — for the past year — received authorization for a single public event. In Sverdlovsk Oblast, CPRF activists have reported receiving fines of more than 100,000 roubles (over $1,000) for violating mask protocols. In Saratov oblast, local CPRF deputies have been harassed by anti-Communist protestors, to whom police have turned a blind eye.
 
+![](_assets/1b/1b97cd1893309388dfa556c079e1e8e2.webp)
+
 *Photo: KPRF homesite*
 
 **"SOME OF [OUR ACTIVISTS] HAVE BEEN DETAINED FOR TEN DAYS, SOME FOR TWENTY [...] **Almost 600 thousand was taken from our Moscow City Duma deputy Yekaterina Engalycheva in the form of four fines. I believe that this is a financial robbery, and everything must be done to stop this outrage," says the party's leader Gennady Zyuganov. According to him, at least 106 party activists became the victims of the latest crackdown.
@@ -74,7 +80,7 @@ The Communist Party of the Soviet Union was ruthless in its repression of politi
 
 Across the world, we have seen how Covid-19 has caused immense risk to society’s most vulnerable. This week, we report on the obstacles faced by people with disabilities in Russia’s northern capital to getting vaccinated. Novaya’s Nina Petlyanova interviews Nadezhda Dormidontova — the mother of a 33-year-old Vladimir who suffers from spinal muscular atrophy — on what the failure of the city’s vaccine rollout means for her family.
 
-*\*
+![](_assets/80/80d2b1bb73f498c77536b55dd13dc7ff.webp)
 
 **“THE WHOLE FAMILY UNDERSTANDS THAT FOR VOLODYA, GETTING SICK WITH CORONAVIRUS MEANS CERTAIN DEATH.” **For his mother, Volodya’s muscular condition is the least of the family’s worries. “Now we are intimidated by another threat — Covid,” she tells Petlyanova. Despite his real and urgent need for the vaccine, it has been impossible for him to get one since his condition means that he cannot leave the house. “Since the beginning of September, I have been applying to the 37th polyclinic of the Central District of St. Petersburg”, says Nadezhda, “But they are only ready to offer the EpiVacCorona vaccine at home. And this vaccine, from what we know about it, [does not provide any protection](https://novayagazeta.ru/articles/2021/06/23/russia-explained).” Private clinics have also turned the family down, stating that providing at-home vaccination could mean the revocation of their licenses.
 
@@ -89,6 +95,8 @@ Across the world, we have seen how Covid-19 has caused immense risk to society�
 # **Bonus Round**
 
 This week, a Novaya Gazeta reader informed our editorial office of the persecution of a judge in the Chelyabinsk region. Our correspondent Isolde Drobina [interviewed](https://novayagazeta.ru/articles/2021/11/16/prokuror-oi-da-prestupleniia-ne-bylo-i-net) Dolgov, who lifts the lid on systemic pressures he has faced from the corrupt judicial system.
+
+![](_assets/2c/2ceca89091e917e855a83b5e15cea46e.webp)
 
 *Anton Dolgov. Photo by Izolda Drobina / Novaya Gazeta*
 

@@ -31,6 +31,8 @@ Khabarovsk has been protesting the arrest of critical of Moscow governor Sergei 
 
 > “When we turned to the city administration, someone put it that way,” Tamara later recalled. “They said that there is no need for resettlement, only drug addicts and drunkards live here anyway. But people who live here are normal. They’re all working people and pensioners. Working pensioners. They are just poor.”
 
+![](_assets/3f/3f6b5a8ed0ba6d6fdcd23b0ff9ebb299.webp)
+
 *Village of Vanino (Khabarovsk region). Photo: Vlad Dokshin / "Novaya Gazeta"*
 
 **KREMLIN’S REAL PRIORITIES.**When Degtyarev arrived in Khabarovsk to take office as acting governor, he was greeted by mass protests. But Degtyarev did not stay at the rally. Instead, he traveled 500 kilometers out of Khabarovsk to the village of Vanino. We found it weird and followed the newly appointed official there too.
@@ -55,6 +57,8 @@ In an ongoing crackdown against opposition voices, a Moscow court has found memb
 
 **REAL PRISON TERMS FOR A VIRTUAL GROUP.** Originally named “The Plant Lovers Club,” the group started on Telegram, discussing life, shared interests, and political views. The participants then renamed it to "New Greatness," and shifted the meetings offline after another member, Ruslan Danilov, joined the group. The arrests started in 2018, with members accused of trying to overthrow the Putin regime.
 
+![](_assets/4f/4f07c68e2db8f6a1f2c59c3cb499773a.webp)
+
 *"New Greatness" in the court. Photo: Vlad Dokshin / "Novaya Gazeta"*
 
 **THE PROSECUTION’S CASE.**The prosecution believes that the group took part in protests where they distributed anti-Putin flyers, held training camps, shot at paper targets, and threw Molotov cocktails at an abandoned factory. According to the prosecution, the young activists were going to seize power in Russia through a coup d'etat and change the constitutional order.
@@ -62,6 +66,8 @@ In an ongoing crackdown against opposition voices, a Moscow court has found memb
 **PROVOCATEUR.**The case is built on the testimony of just one witness. It is Ruslan Danilov, who defendants say was behind the organization. According to them, Danilov wrote political documents for the movement, prepared propaganda leaflets, and offered to buy weapons. The defendants are sure that he is ‘a provocateur’ working for Russia’s special services. Furthermore, at least two law enforcement officers were embedded into the group on the authorities’ instructions even before a criminal case was initiated.
 
 **INCONSISTENCIES IGNORED BY THE COURT.**The defense has no doubts that the charges brought against the group are legally absurd and untenable. The case has many discrepancies. Take the lease for their meeting space. The rent costs paid by Danilov significantly exceeded the amount collected through membership fees and came from a different name. But the court failed to address the gaps.
+
+![](_assets/70/70d979c1d7b43a9f123a49f449d8ace7.webp)
 
 *After the verdict. Photo: Vlad Dokshin / "Novaya Gazeta"*
 
@@ -84,6 +90,8 @@ Environmental degradation across Russia remains one of the key focuses for our r
 **NOW OFFICIALS ARE CUTTING THE TREES AND LYING ABOUT IT.**According to our assessment, 75% of the trees affected by the works area were alive and didn’t need sanitary felling. But that would make the opposite of the picture provided by the officials. They claim that upwards of 70 percent of trees on their logging to-list are dead or dying.
 
 **FOLLOW CHINESE BUYERS.** The buyers of the Siberian forest are Chinese companies. China banned industrial logging in wild forests, especially in mountainous areas, in 1999. But it makes up for the lack of wood through export.
+
+![](_assets/e5/e5c9ee04e4c440d33d67917e668ca339.webp)
 
 *Photo: Alexander Sakalov / TV2*
 

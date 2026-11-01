@@ -13,7 +13,9 @@ tags: "акционизм, пандемия, коронавирус, реакц�
 
 *Знаменитую статую Христа-Искупителя в Рио одели в халат — спасибо врачам, борющимся с коронавирусом во всем мире!*
 
-*Фото: Silvia Izquierdo / AP / ТАСС*
+![](_assets/e1/e1fde88bb909ec455b6ed4ad0f499b95.webp)
+
+*Фото: Silvia Izquierdo / AP / ТАСС*
 
 **link:** https://novayagazeta.ru/articles/2020/04/11/84846-klinicheskiy-karantin
 

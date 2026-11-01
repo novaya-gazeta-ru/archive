@@ -13,6 +13,8 @@ tags: "russia; explained, newsletter"
 
 *A Tsar is born. Decoding Putin’s ultimate power move*
 
+![](_assets/2c/2c397d6b031995a3515d39eb2a2ca64f.webp)
+
 *By Peter Sarukhanov / Novaya gazeta*
 
 It took Putin six months to complete his ultimate power move. On July 1st, 2020 he finally solidified the extension for his rule until 2036 by rewriting Russian Constitution and ‘nullifying’ his previous terms. It was Putin’s solution to safeguard himself from waning popularity and build-up of public frustration over the lack of reforms and declining living standards in resource-rich Russia.

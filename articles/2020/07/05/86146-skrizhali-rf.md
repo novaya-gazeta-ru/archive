@@ -10,24 +10,30 @@ tags: "поправки в конституцию, кафка-кодекс, аб
 ---
 
 # Скрижали РФ
+![](_assets/35/358106c3bab6ff044f56c7201a8a057b.webp)
+
+![](_assets/f4/f48f63f56e8a9aaa82c2bdcd6894ee47.webp)
+
 
 *Главное действующее лицо Конституции вступает в силу. Комикс*
 
-*\*
+![](_assets/6c/6cae7dba8fcb99b2c49abd97a4b1a263.webp)
 
-*\*
+![](_assets/0d/0d378b632f95b63e56cd0e310c7da873.webp)
 
-*\*
+![](_assets/03/038efe7b63f5ef921e90b8a211e6ef4c.webp)
 
-*\*
+![](_assets/4c/4c5e3d5fc3836683f7ce6bc791aec2b6.webp)
 
-*\*
+![](_assets/ee/eefbd9e1abe8d6e4e3a0b7c13b6bd321.webp)
 
-*\*
+![](_assets/eb/eb00b534a5388c790cb752b248ec0e82.webp)
 
-*\*
+![](_assets/8e/8e0d4e0088152020dab2de85d70d2ded.webp)
 
-*\*
+![](_assets/6e/6e7938341e8ad7a6eccde4fee8aca5df.webp)
+
+![](_assets/7f/7fe48af16e4747467928d115dfe8d825.webp)
 
 *Комикс: Нюся Красовицкая для «Новой»*
 
@@ -97,32 +103,32 @@ tags: "поправки в конституцию, кафка-кодекс, аб
 >
 > ### [Героическая оборона Мосгордумы: ЦИК и Скрепман побеждают оппозиционную нечисть](https://novayagazeta.ru/articles/2019/11/13/82699-geroicheskaya-oborona-mosgordumy)
 
-*\*
+![](_assets/38/380c4ae7a3f6463cb6577f9bc4bf7fc2.webp)
 
-*\*
+![](_assets/73/73a7fc9e16ee794ffa331a27973525e4.webp)
 
-*\*
+![](_assets/d8/d8c0a2942506cacccba4a9c167b39b69.webp)
 
-*\*
+![](_assets/00/00f776030cf7f8ad328e92743a89c535.webp)
 
-*\*
+![](_assets/4e/4e15dcfa52cd5987aa8f90898dff04e1.webp)
 
-*\*
+![](_assets/d7/d7b03f28131cdada335b35b2a52e38d5.webp)
 
-*\*
+![](_assets/51/51e1a03b6f0819bb472e7588f9cbbff8.webp)
 
-*\*
+![](_assets/f8/f89506321aa1ab177ae97d76f388ed60.webp)
 
-*\*
+![](_assets/4c/4c13b9324e9064def56805e5ead2b4f7.webp)
 
-*\*
+![](_assets/71/7155253c585c04c81bb18c46b4623bdb.webp)
 
-*\*
+![](_assets/2b/2b485b14c55f15ab5f3306e9db6f1542.webp)
 
-*\*
+![](_assets/4c/4c7c6710f971f202941f41846e530430.webp)
 
-*\*
+![](_assets/e5/e5e832612ba212dfc73bcc31f48fd5a5.webp)
 
-*\*
+![](_assets/96/963e3c0300222e6abc3e3b7baf67075d.webp)
 
-*\*
+![](_assets/30/30a7e8d446f489ddf327e0fb3174acbd.webp)

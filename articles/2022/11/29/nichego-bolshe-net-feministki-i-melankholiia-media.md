@@ -13,7 +13,7 @@ tags: "музыка, рок, кантри, гранж"
 
 *Музыкальные новинки ноября. Обзор*
 
-*\*
+![](_assets/96/961a7796fa83b8edf735acdfcc6e9a9b.webp)
 
 > **Mylène Farmer**
 >
@@ -31,7 +31,7 @@ tags: "музыка, рок, кантри, гранж"
 >  — Ne plus renaitre\
 >  — Rayon Vert*
 
-*\*
+![](_assets/7d/7da330ec93ec0ade0d53687a01441cef.webp)
 
 > **The Smashing Pumpkins**
 >
@@ -51,7 +51,7 @@ tags: "музыка, рок, кантри, гранж"
 >  — Steps In Time\
 >  — Hooray!*
 
-*\*
+![](_assets/2d/2dacac8f370e3f652e206806da526df5.webp)
 
 > **Самое Большое Простое Число**
 >
@@ -74,7 +74,7 @@ tags: "музыка, рок, кантри, гранж"
 >  — «Гимн неудачников»\
 >  — «Береги»*
 
-*\*
+![](_assets/ed/edb7943768ec4db273536762f4cc0d2d.webp)
 
 > **Onségen Ensemble**
 >
@@ -91,7 +91,7 @@ tags: "музыка, рок, кантри, гранж"
 > *— Naked Sky\
 >  — The Ground of Being*
 
-*\*
+![](_assets/00/00c5a702c90598147fb0e475b0db14b5.webp)
 
 > **Shortparis**
 >
@@ -113,7 +113,7 @@ tags: "музыка, рок, кантри, гранж"
 >
 > *— все четыре песни*
 
-*\*
+![](_assets/ef/ef1e425c2c6e254ae702b97652c725f8.webp)
 
 > **Those Poor Bastards**
 >

@@ -11,7 +11,7 @@ tags: "европа, газ , санкции"
 
 # Европа закупила у России рекордный объем природного газа в 2024 году&nbsp;
 
-*\*
+![](_assets/8b/8bb733d1a28cb83562a2e2de6c16d81d.webp)
 
 Об этом [пишет](https://www.theguardian.com/environment/2025/jan/09/european-imports-of-liquefied-natural-gas-from-russia-at-record-levels) The Guardian со ссылкой на аналитиков Rystad Energy.
 

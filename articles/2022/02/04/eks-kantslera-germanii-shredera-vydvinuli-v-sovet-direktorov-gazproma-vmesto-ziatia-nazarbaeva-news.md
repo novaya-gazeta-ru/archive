@@ -13,7 +13,9 @@ tags: "газпром, совет директоров, em"
 
 Бывшего канцлера Германии Герхарда Шредера выдвинули в совет директоров российской компании «Газпром» вместо Тимура Кулибаева — зятя первого президента Казахстана Нурсултана Назарбаева. Список кандидатов [опубликован](https://www.gazprom.ru/press/news/2022/february/article547484/) на сайте компании.
 
-*[\](https://www.gettyimages.com/search/photographer?family=editorial&photographer=picture+alliance)Герхард Шредер. Фото: picture alliance / Contributor / Getty Images*
+![](_assets/c6/c6148530a5f6995432920dfd25537847.webp)
+
+*[ ](https://www.gettyimages.com/search/photographer?family=editorial&photographer=picture+alliance)Герхард Шредер. Фото: picture alliance/ Contributor/ Getty Images*
 
 В общей сложности в ее совет директоров выдвинули 11 человек. Среди них — глава Минпромторга Денис Мантуров, председатель правления ПАО «Газпром» Алексей Миллер и зампредправительства Александр Новак. Все, кроме Шредера, уже состояли в совете директоров «Газпрома».
 

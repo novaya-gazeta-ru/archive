@@ -10,6 +10,14 @@ tags: ""
 ---
 
 # Хвост кита
+![](_assets/4d/4d38c61cb78f8242b977153bdf6169da.webp)
+
+![](_assets/ec/ecff15f36afac362bdd61e3e1c97972b.webp)
+
+![](_assets/c6/c677c4dcb5c3e14853b61f85d1ae0429.webp)
+
+![](_assets/79/79fb9dfeaf15c4aaad3e8dc35de1669c.webp)
+
 
 *Есть еще в океане места, где китов можно трогать руками*
 

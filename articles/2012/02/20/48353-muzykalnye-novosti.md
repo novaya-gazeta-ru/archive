@@ -10,6 +10,22 @@ tags: ""
 ---
 
 # Музыкальные новости
+![](_assets/4e/4e0f7b9b71e4cc3637d4b07b222b0498.webp)
+
+![](_assets/b4/b47e5933e54158ff8fa3fab71a2535db.webp)
+
+![](_assets/77/7790fabe095d0c54579202cee2becc2e.webp)
+
+![](_assets/21/215b8dd00d74e47399f486762511535d.webp)
+
+![](_assets/99/99afefe6cf6482fbc9732fabd1ce1159.webp)
+
+![](_assets/26/26df95b74b15570c1fff7ec367eea46b.webp)
+
+![](_assets/fb/fb473b664e32fb5f4b49c7c6e9a85531.webp)
+
+![](_assets/0d/0d62995dee40d6f6a4ba4317c9c5e376.webp)
+
 
 Уитни Хьюстон похоронена в ее родном городе
 

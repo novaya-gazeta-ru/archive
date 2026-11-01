@@ -27,7 +27,9 @@ tags: "пропаганда, россия, правда, испания, евр�
 
 В прошлом году французские власти официально [сообщили](https://www.sgdsn.gouv.fr/files/files/Publications/20240214_NP_SGDSN_VIGINUM_PORTAL-KOMBAT-NETWORK_PART2_ENG_VF.pdf), что российская сеть «Правда» создана компанией TigerWeb — агентством, основанным в 2015 году в Симферополе неким [Евгением Шевченко](https://www.list-org.com/company/12483632), бывшим сотрудником компании «Крымтехнологии». Офис компании TigerWeb [находится](https://www.list-org.com/company/12483632/map) на улице Петропавловская, 3, в комнате 408.
 
-*Фото: list-org.com*
+![](_assets/60/60f2095e4c33a1b6c0a07eecceec2c2f.webp)
+
+*Фото: list-org.com*
 
 Национальная служба при Генеральном секретариате по обороне и национальной безопасности Франции (Viginum) [считает](https://www.sgdsn.gouv.fr/files/files/Publications/20240214_NP_SGDSN_VIGINUM_PORTAL-KOMBAT-NETWORK_PART2_ENG_VF.pdf), что именно там родился созданный TigerWeb проект «Портал Комбат» — сеть из 193 цифровых «информационных порталов», которая распространяет пророссийский контент в Европе через социальные сети, телеграм-каналы (например, @crises_ponctuelles, @ActualiteInternationale, @axe_afrique_russie) и специально созданные для этого сайты, объединенные общим названием «Правда».
 

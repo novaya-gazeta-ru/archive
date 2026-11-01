@@ -13,23 +13,23 @@ tags: "физраствор, творчество, роскосмос"
 
 *Хроника научного прорыва. Физраствор в «Новой газете»*
 
-*\*
+![](_assets/07/07316a4f24910402e3e2beea9dd6244d.webp)
 
-*\*
+![](_assets/93/937f9a6dec6db4dd856573fc854db417.webp)
 
-*\*
+![](_assets/da/da3fe81708c2f732f9e0234805c41636.webp)
 
-*\*
+![](_assets/b1/b1b0dd6f7c731daff52e26a2227b84a7.webp)
 
-*\*
+![](_assets/86/86cacc11f60baa8889d6af68ca688b3c.webp)
 
-*\*
+![](_assets/1f/1f0a272d2b949ca6fdc2f96c28e7cb17.webp)
 
-*\*
+![](_assets/bc/bcdc34d9c846a0e231770a21184bafda.webp)
 
-*\*
+![](_assets/45/45dcb01250dfe574dd102c39f70b56b7.webp)
 
-*\*
+![](_assets/ef/efe77b3b6f14300af86c3adaadbfad43.webp)
 
 > **ОТ РЕДАКЦИИ**
 >

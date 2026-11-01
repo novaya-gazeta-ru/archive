@@ -43,6 +43,8 @@ Two thirds of women killed in Russia die at the hands of their loved ones, accor
 
 **81% KILLED BY A PARTNER. **Of the 12,209 women who died from domestic violence between 2011 and 2019, 81 percent (around 9,868 women) were killed by their partners. But the real number of women who died across that period is likely considerably higher. The remaining 19 percent of women still die at the hands of their relatives, we found after analyzing vast swathes of publicly opened statistics. The Russian state does not provide any real domestic violence numbers so we had to stitch the picture from various data fragments.
 
+![](_assets/2d/2dfae30c545c82c9a614fbc80b9ff8dc.webp)
+
 *Illustration: Daria Gonzo*
 
 **IGNORED BY POLICE. **Police in Russia tend not to take reports very seriously — and some are even perpetrators themselves, such as officer Sergei Gusyatnikov who stabbed his wife Elena more than 50 times after learning that she wanted a divorce. Another woman, Ekaterina Telkina was brutally murdered in mid-March 2020 in her own apartment in Moscow. Prior to her eventual death, her housemate repeatedly filed statements about the beatings. Nothing happened. On the day of the murder, neighbors called the police, hearing screams and requests for help. Police just stood by the doorway and drove away. Her body was found by her brother.
@@ -61,6 +63,8 @@ Two thirds of women killed in Russia die at the hands of their loved ones, accor
 Despite nonstop media coverage for the past couple of months, Russia is still mired in the haze of mass fires. This week, we published an exclusive interview with Grigory Kuksin, head of Greenpeace Russia’s firefighting division, who gives us an update on the situation in Yakutia and tackling the blazes amid the pandemic.
 
 **LARGEST RECORDED IN NATIONAL HISTORY. **Russia had to expand its state of emergency this week as the devastation continued to spread, covering more than 17 million hectares, beating the previous all-time-high in 2012. NASA has estimated that the fires measure 2,000 miles in diameter from their satellite monitoring — burning with a severity that the government can no longer ignore.
+
+![](_assets/8a/8a5c13c5bba2068e273f661ac8dc38ca.webp)
 
 *Forest fires in Yakutia. Photo: RIA Novosti*
 

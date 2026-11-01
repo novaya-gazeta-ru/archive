@@ -10,6 +10,26 @@ tags: "твиттер"
 ---
 
 # Микрозеркало русской реакции
+![](_assets/00/00087c2e62a82342c05ea40b72a2d471.webp)
+
+![](_assets/aa/aa5a593eeee3ecae9609367bad50496f.webp)
+
+![](_assets/0a/0a8c0f9b7c50c590c0de75d298e5dbeb.webp)
+
+![](_assets/43/4337b8e28bfdd9df081b508ae6042b3b.webp)
+
+![](_assets/6e/6eceaccee275262ef7e4a7d3db2585da.webp)
+
+![](_assets/87/879006e561bc1d78fe265969a6cbe018.webp)
+
+![](_assets/54/54f2286e9468196fcc39e389d16b5caa.webp)
+
+![](_assets/6e/6ec5d0d3705cf8a91bb06d6b207db96e.webp)
+
+![](_assets/57/57652137403fbf4f31fa9550ccf6d0b7.webp)
+
+![](_assets/cb/cb0c5abc5c8c3c53c7996e9e32c78f8f.webp)
+
 
 *Новейшая история России в 10 твитах*
 

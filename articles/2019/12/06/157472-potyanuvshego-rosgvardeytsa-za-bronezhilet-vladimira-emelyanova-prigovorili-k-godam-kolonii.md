@@ -17,7 +17,9 @@ tags: "«московское дело», протесты 27 июля, моск
 
 Государственное обвинение в лице прокурора Журавлевой, тем не менее, [запросило](https://novayagazeta.ru/news/2019/12/04/157422-prokuror-potrebovala-chetyre-goda-lisheniya-svobody-dlya-figuranta-moskovskogo-dela-vladimira-emelyanova) ему четыре года лишения свободы по обвинению в применении не опасного для здоровья насилия в отношении представителя власти (ч. 1 ст. 318 УК).
 
-*Емельянов перед оглашением приговора. Фото: Лилит Саркисян / «Новая газета»*
+![](_assets/e4/e4a305989e9a9ec71200a6d4c2f8cd49.webp)
+
+*Емельянов перед оглашением приговора. Фото: Лилит Саркисян / «Новая газета»*
 
 **link:** https://novayagazeta.ru/articles/2019/12/05/83005-prosba-o-pomoschi-vyzvala-vo-mne-obychnoe-chelovecheskoe-chuvstvo
 

@@ -10,6 +10,18 @@ tags: ""
 ---
 
 # Умные, что ли?
+![](_assets/2b/2b320106f39ab3dcfd15945c858622f3.webp)
+
+![](_assets/fe/fea23a0fc330a41de26e0e1e79a3ac26.webp)
+
+![](_assets/4b/4bba7000de9f1d4efd4a65083efc06d6.webp)
+
+![](_assets/26/2621aee2b06845e118daf6367d8ac1b2.webp)
+
+![](_assets/bf/bf28cdcb2fb2e69919f0094d165a7330.webp)
+
+![](_assets/d1/d17508f8340b5afe97146fd7ea8459c4.webp)
+
 
 *Уникальную школу «Интеллектуал» департамент образования Москвы уничтожает посредством слияния и поглощения*
 

@@ -10,6 +10,20 @@ tags: "онкобольные, здравоохранение, благотво�
 ---
 
 # 7 историй людей, борющихся с тяжелыми заболеваниями
+![](_assets/1e/1ed61f5af6849657077afb4e82172d3d.webp)
+
+![](_assets/4c/4cc2fe311d984676148cef665564d56e.webp)
+
+![](_assets/b9/b95c026bd3843d644b96e27b782da648.webp)
+
+![](_assets/8c/8c47dc22dc0ba48a149b55e1534c7c67.webp)
+
+![](_assets/92/927291bf1f7c10e225885dde1b8e445d.webp)
+
+![](_assets/12/124469eeacbca7fbb1cb6ed8f1fdec91.webp)
+
+![](_assets/b5/b5e85600d03a742f672ba97c2a584663.webp)
+
 
 *Совместный проект с «AdVita»*
 

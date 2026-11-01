@@ -17,6 +17,8 @@ tags: "ng, sims, игра"
 
 Удалять из дополнения сюжетную линию Доминики и Камиллы и какой-либо другой контент не будут.
 
+![](_assets/e6/e64f5925e8b2e189bb998fb133b00e44.webp)
+
 *Доминика и Камилла. Скрин: официальное видео на YouTube*
 
 О том, что разработчики The Sims 4 отказались выпускать в России дополнение «Свадебные истории», [стало](https://novayagazeta.ru/articles/2022/02/10/razrabotchiki-the-sims-4-otkazalis-vypuskat-v-rossii-dopolnenie-svadebnye-istorii-gde-predstavlena-lgbt-para-dvukh-simov-news) известно 10 февраля. Создатели игры заявляли, что не смогут рассказать историю ЛГБТ-пары Кэм и Дом «без существенных изменений».

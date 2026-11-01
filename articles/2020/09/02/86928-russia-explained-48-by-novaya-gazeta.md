@@ -27,6 +27,8 @@ Russian opposition figure Alexei Navalny remains in a coma in Germany after gett
 
 **THE POISON.**We reached out to high-profile experts and scientists to analyze the substance Navalny ingested. They all point out that it is similar to Novichok — the nerve agent used to poison former double agent Sergei Skripal and his daughter in Salisbury, England two years ago. Both Novichok and the poison used on Navalny are cholinesterase inhibitors, which are the main chemical components in weapons like sarin gas.
 
+![](_assets/06/0679683aee737a290933e9b8d04cab9f.webp)
+
 *Alexey Navalny with his wife Yulia. Photo: "Novaya Gazeta"*
 
 **NAVALNY'S SYMPTOMS ARE SELF-EVIDENT.** They are identical to those from exposure to cholinesterase inhibitors, Yuri Pachin, a biological sciences doctor, tells us. They include constriction of the pupils, increased nasal mucus, indigestion, watery eyes, and seizures. Some people experience anxiety and loss of vision. Then the convulsions begin, and some victims fall into a coma or suffer cardiac arrest.
@@ -36,6 +38,8 @@ Russian opposition figure Alexei Navalny remains in a coma in Germany after gett
 **WHAT'S IN THE TIMING.**Navalny's supporters believe that one of the reasons he may have been poisoned was to get him out of the way during the upcoming local elections. On September 13th, Russians will vote for heads of 13 out of 85 regions. Navalny has been promoting the "Smart Voting" strategy that deploys a coordinated protest vote to prevent the ruling United Russia Party from winning.
 
 **COVERING UP ANOTHER ELECTION FRAUD.** The upcoming election is not going to be as big as the previous vote on power-grabbing constitutional amendments. However, because the referendum was characterized by significant voter fraud, both Russians and the Kremlin are extra vigilant about these elections. Officials will try to falsify and influence the results in a less obvious fashion - since they don't want to make the already record-high public discontent with the Kremlin worse. The voters will be looking at ways to channel their protest vote since all independent candidates are excluded from the ballot.
+
+![](_assets/c6/c62584704808ce794090fea5320096da.webp)
 
 *Photo: TASS*
 
@@ -53,6 +57,8 @@ As popular pushback against rigged elections keeps growing, the dictator of Bela
 
 **AIDING WITH PROPAGANDA.** It all began when Alena Martinovskaya, director of a state-owned radio broadcaster Belteleradio, was prevented from working on August 19. She told the public that Russian propagandists had been sent to the station to replace 'unreliable locals.' However, independent journalists are still struggling to identify 'parachuted' Russians, says our Belarus correspondent Iryna Khalip.
 
+![](_assets/33/33787975ceccb1f7d0f37c0e2e879f6c.webp)
+
 *Lukashenko supporters rally. Photo: TASS*
 
 **FIRST INDIRECT EVIDENCE.**Take a change of language in the way the regime communicates. People have started wearing hoodies and t-shirts at Lukashenka's rallies using the Russian spelling of "Batka," a nickname for the former President (it roughly translates to "father," or father of the nation.) The rest of the country ridiculed the merch for its evident Russian roots: 'Belarusians have never once called Lukashenka "Batka." They called him Luka, and in recent months - by more diminutive Sasha 3% (ridiculing his actual popularity rate). For some reason, he was only ever called "Batka" in Russia and in neighboring countries,' points out Khalip.
@@ -67,6 +73,8 @@ As popular pushback against rigged elections keeps growing, the dictator of Bela
 
 **Read our full analysis of Russian meddling in Belarus here and the full account of our special correspondent becoming a torture victim of Belarusian riot police here**
 
+![](_assets/3d/3dc118d8bdc4d343ee11bf1b5c4ae376.webp)
+
 *Photo: EPA-EFE*
 
 ___
@@ -78,6 +86,8 @@ We follow an outburst of mass protests in the Ural region of Bashkortostan. Loca
 **WHAT'S THE STANDOFF IS ABOUT.** The dispute is over the company's plans to mine for limestone on a local hill named Kushtau. It is a protected natural resource and carries sacred value for Bashkirs, the region's indigenous population. Local people rose up against it, camped on the site for weeks, but eventually took a severe beating in a joint attack by the state and the plant's security forces.
 
 **PEOPLE VS A POWERFUL FOE.** All of the BSC beneficiaries are private individuals. Among them are a former government official, a dentist, and the former head of a trash collection company. So the battle over Kushtau demonstrates who pulls strings in the Republic of Bashkortostan. All officials from the head of the region, Radiy Khabirov, to the clerks running regional administrations and the local security services, were sent to protect the soda company's owners' interests. Khabirov had said that Kushtau Hill will be developed no matter what.
+
+![](_assets/ec/ecd22573ea906549e2870b845d66b18a.webp)
 
 *Bashkir Soda Company (BSC). Photo: TASS*
 

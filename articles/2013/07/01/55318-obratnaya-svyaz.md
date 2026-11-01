@@ -10,6 +10,10 @@ tags: ""
 ---
 
 # Обратная связь
+![](_assets/e9/e9f8462999c1af7fd70b154e4ff5fdf8.webp)
+
+![](_assets/cc/cc0d8b7f2ffe2143e644ebcc491f97b3.webp)
+
 
 #  Счастливая деревня
 

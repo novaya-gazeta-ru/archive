@@ -10,6 +10,18 @@ tags: ""
 ---
 
 # Постнаука. Выпуск #21
+![](_assets/68/6835497bf4f8013eb7c155b674363fb8.webp)
+
+![](_assets/b4/b44ea4fb96bf0ed739be23c63fde009f.webp)
+
+![](_assets/8e/8e1a6f344aa466b36f7e922de1d6c17a.webp)
+
+![](_assets/ed/ed776449efa613c531b02c286e15fcbf.webp)
+
+![](_assets/75/75290c19628cff9ea9ca18783e8de298.webp)
+
+![](_assets/63/639048f2bad68a2c19a8dbcabf30ed93.webp)
+
 
 *Проект «Новой газеты» и сайта postnauka.ru*
 

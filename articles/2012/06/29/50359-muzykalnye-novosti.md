@@ -10,6 +10,20 @@ tags: "музыка"
 ---
 
 # Музыкальные новости
+![](_assets/04/04a5666183133b256087b0f3b2fc05c1.webp)
+
+![](_assets/ff/ffabcf9c171153f676d50fa3603a9a40.webp)
+
+![](_assets/27/27146c9857c463d44275d94713cb7be0.webp)
+
+![](_assets/42/4227dfdb42b3d98a4277b8cf468e655b.webp)
+
+![](_assets/ad/ad83e42b9ecd78a0db4b04fca2b35a6c.webp)
+
+![](_assets/91/9103fd1f121031068b6ffc409c29d4d4.webp)
+
+![](_assets/df/df0da4e30b207ac365e30cf9619a2434.webp)
+
 
 Blur написали две новые песни специально для концерта в Гайд-парке
 

@@ -11,6 +11,8 @@ tags: ""
 
 # Путин «пока не видит смысла» встречаться с Зеленским. Вместо этого он призвал российских военных поднажать на СВО
 
+![](_assets/16/167e0ff303475c84ae25208a284091bb.webp)
+
 *Фото: пресс-служба Кремля*
 
 Отвечая на вопросы ведущей сессии ПМЭФ, Владимир Путин прокомментировал [вчерашнее письмо](https://novayagazeta.ru/articles/2026/06/04/zelenskii-predlozhil-putinu-obmen-plennymi-vsekh-na-vsekh-i-lichnuiu-vstrechu-dlia-mirnykh-peregovorov-putin-vyskazalsia-po-teme-ukrainy-i-peregovoram-pered-inostrannymi-zhurnalistami-na-pmef-news) президента Украины Владимира Зеленского, в котором тот позвал российского президента на личную встречу для выработки условий прекращения военных действий «с гарантией», а также предложил обмен пленными в формате «всех на всех».

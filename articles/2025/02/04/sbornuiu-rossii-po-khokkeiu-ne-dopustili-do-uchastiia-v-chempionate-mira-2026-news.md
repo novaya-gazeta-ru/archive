@@ -11,7 +11,7 @@ tags: "хоккей, сборная россии, санкции, чемпион
 
 # Сборную России по хоккею не допустили до участия в чемпионате мира-2026
 
-*\*
+![](_assets/25/2587158bc1d69b165e9e3a1ee157f91e.webp)
 
 Международная федерация хоккея (IIHF) приняла решение не допускать сборную России в программу чемпионатов мира под эгидой объединения в следующем году, [сообщает](https://matchtv.ru/hockey/matchtvnews_NI2164575_Sbornaja_Rossii_po_khokkeju_ne_dopushhena_k_uchastiju_v_ChM2026_u_FKhR_budet_pravo_osporit_eto_reshenije_posle_okonchanija_ChM2025) «Матч ТВ»
 

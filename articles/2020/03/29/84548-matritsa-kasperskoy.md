@@ -10,22 +10,42 @@ tags: "абсурд, поправки в конституцию, касперс�
 ---
 
 # Матрица Касперской
+![](_assets/4c/4c13b9324e9064def56805e5ead2b4f7.webp)
+
+![](_assets/71/7155253c585c04c81bb18c46b4623bdb.webp)
+
+![](_assets/2b/2b485b14c55f15ab5f3306e9db6f1542.webp)
+
+![](_assets/35/358106c3bab6ff044f56c7201a8a057b.webp)
+
+![](_assets/f4/f48f63f56e8a9aaa82c2bdcd6894ee47.webp)
+
+![](_assets/4c/4c7c6710f971f202941f41846e530430.webp)
+
+![](_assets/e5/e5e832612ba212dfc73bcc31f48fd5a5.webp)
+
+![](_assets/96/963e3c0300222e6abc3e3b7baf67075d.webp)
+
+![](_assets/30/30a7e8d446f489ddf327e0fb3174acbd.webp)
+
 
 *Как поправки в Конституцию добавят ФСБ полномочий в киберпространстве. Комикс*
 
-*\*
+![](_assets/a9/a96471f19635287f93ec53fc165e2f71.webp)
 
-*\*
+![](_assets/c1/c190114e2e9c5897cd072c084eb4d990.webp)
 
-*\*
+![](_assets/51/514e25db3adfc532e6ae7a07526bb50c.webp)
 
-*\*
+![](_assets/7c/7c4b6c9602015dacee68de6e96ce5e68.webp)
 
-*\*
+![](_assets/08/08b763942b6e962d241db6c3e5dab3c4.webp)
 
-*\*
+![](_assets/34/347701f3159bebb84e06c30aa071aa91.webp)
 
-*\*
+![](_assets/c6/c6cbd008e9c5c462a70ff62f8d61da35.webp)
+
+![](_assets/be/be5d3e0e4cf95e24dc8ddc93b12ed235.webp)
 
 *Комикс: Юлия Дробова для «Новой газеты»*
 

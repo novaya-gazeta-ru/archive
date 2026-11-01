@@ -10,6 +10,22 @@ tags: ""
 ---
 
 # Литовцы подготовились жить
+![](_assets/e6/e62b13574fa0e477ea541b335f09be2b.webp)
+
+![](_assets/7f/7f197d0c5bf7c1dc3ab4c9a5a5414b76.webp)
+
+![](_assets/53/53b5406b5c8b35de03733b690362cdc6.webp)
+
+![](_assets/c6/c62522c04ca9bc147a7455ca5381ba7a.webp)
+
+![](_assets/7f/7f1fd59ae8192ea13cd40d49882ae59a.webp)
+
+![](_assets/03/03e6f4e1c02c660012cbd67f7091703f.webp)
+
+![](_assets/fd/fdb4d8a96b6ce3b4193e6e4f7de6c923.webp)
+
+![](_assets/8e/8ef1bd8c53631eafec6e120dba192f01.webp)
+
 
 *СССР: продукт после распада*
 

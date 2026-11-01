@@ -10,6 +10,32 @@ tags: "москва, книги, Non/fiction"
 ---
 
 # Зачем Березовскому миллиард?
+![](_assets/9a/9a7899de911bc1162a64bf2de07b9265.webp)
+
+![](_assets/4c/4cac955473d162c75ab20e5245bb0ede.webp)
+
+![](_assets/28/286313dc47254bad96b4b6f8ed122914.webp)
+
+![](_assets/46/46af7dc09ab30966e1544a94f10af40c.webp)
+
+![](_assets/7c/7cf26e624e9f44beb427b2fba2db7bbf.webp)
+
+![](_assets/29/29458c8cba086d7f37dbf109e79b5b53.webp)
+
+![](_assets/62/629b9f4a1f9220adee8c2da8362971a8.webp)
+
+![](_assets/9f/9fb740c631d74ee4180f5d0a16bb4b95.webp)
+
+![](_assets/bb/bb17db3f2dc87341e0d725f36830d0f9.webp)
+
+![](_assets/dc/dc4dce6a0cd8cc2f7994707265492c3c.webp)
+
+![](_assets/51/518064099d68d0258a1799aac8b61d9f.webp)
+
+![](_assets/35/358c0d67f3c55a791139f309d30df64d.webp)
+
+![](_assets/c9/c927f3e5782de8d2ee84cd5316a30a68.webp)
+
 
 *11 событий книжной ярмарки Non/fiction. Выбор «Новой»*
 

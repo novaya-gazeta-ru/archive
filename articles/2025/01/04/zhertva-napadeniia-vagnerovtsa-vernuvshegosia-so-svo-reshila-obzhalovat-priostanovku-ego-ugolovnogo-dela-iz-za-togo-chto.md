@@ -17,6 +17,8 @@ tags: ""
 
 «Новая газета» [рассказывала](https://novayagazeta.ru/articles/2024/09/27/poluchivshii-22-goda-za-ubiistvo-semi-pensionerov-eks-vagnerovets-byl-pomilovan-na-svo-i-snova-napal-s-nozhom-na-zhenshchinu-news) об этом нападении.
 
+![](_assets/7c/7c1dc115d017c32e1062c41de8baa443.webp)
+
 *Нож Патрушева, с которым он напал на владелицу автомобиля во дворе дома, где сам снимал квартиру. Фото: сайт Черновского райсуда Читы*
 
 Было возбуждено несколько уголовных дел: «покушение на убийство», «разбой», сообщал сайт Черновского райсуда Читы.

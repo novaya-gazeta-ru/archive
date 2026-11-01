@@ -13,7 +13,7 @@ tags: ""
 
 *Топ-5 лучших музыкальных релизов начала года*
 
-*\*
+![](_assets/01/01feb5ad0d404cbda9ed9b1c68644af7.webp)
 
 > **Дмитрий Спирин***
 >
@@ -29,7 +29,7 @@ tags: ""
 >
 > - [**Ссылка **](https://band.link/ds_aliens_pr) **на альбом**
 
-*\*
+![](_assets/2e/2e8a9a3dce5e03f9937d0b1084bed93d.webp)
 
 > **«Аквариум»**
 >
@@ -45,7 +45,7 @@ tags: ""
 >
 > - [**Ccылка **](https://bg-aquarium.bandcamp.com/album/--10) **на альбом **
 
-*\*
+![](_assets/1b/1b00be4941bb2e8dee3491abbbc0033b.webp)
 
 > **Вера Полозкова и Александр Маноцков**
 >
@@ -59,7 +59,7 @@ tags: ""
 >
 > - [**Ссылка **](https://band.link/redthread) **на альбом **
 
-*\*
+![](_assets/c3/c3a71221801829833c035f2e66303636.webp)
 
 > **«Би-2»**
 >
@@ -73,7 +73,7 @@ tags: ""
 >
 > - [**Ссылка **](https://premiere.bi2.band/) **на альбом**
 
-*\*
+![](_assets/18/1821d268b5478c9e98b4ff0110188e09.webp)
 
 > **Igr Titov**
 >

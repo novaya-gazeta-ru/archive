@@ -10,6 +10,16 @@ tags: ""
 ---
 
 # Остров
+![](_assets/78/78c3055008a0ce0b89956cf08cbda0f5.webp)
+
+![](_assets/fa/fa24899233167259bcaf0dcb74cd6460.webp)
+
+![](_assets/1e/1eada09a046751dda8e23752b3a07e9b.webp)
+
+![](_assets/52/52bc4c1654a8ba5da4f1c98bc963084b.webp)
+
+![](_assets/1c/1c2030693fedcd95959d026491c990b2.webp)
+
 
 *Специальный репортаж с Соловков*
 

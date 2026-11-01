@@ -23,6 +23,8 @@ Over the next two decades, UCG, headquartered in Cyprus, flourished in the cemen
 
 Experts highlight that UCG’s production hub consisted of three plants—Bekabad Cement, Kuvasay Cement, and Kyzylkum Cement. Notably, the latter was acquired in 2022 through a privatization deal that bypassed standard tender procedures.
 
+![](_assets/8f/8f4f35c5552c9c09ff3fe8abca0cba98.webp)
+
 *Businessman Ulugbek Shadmanov was detained at his home in the UAE and deported to Uzbekistan*
 
 ## The Office: A Powerful Network
@@ -47,6 +49,8 @@ In March last year, U.S. Congressman Wesley Hunt, a Republican from Texas, broug
 
 Some analysts speculate that the congressman’s statement was prompted by Ukrainian lobbyists who alleged that UCG’s products were being used by Russia to build fortifications in the Special Military Operation (SMO) zone. Regardless, Shadmanov and The Office’s appearance on the congressman’s radar aligned with U.S. foreign policy objectives. In June 2022, the U.S. Department of Commerce included Uzbekistan in a list of countries serving as “transit points for restricted or controlled exports before reaching Russia or Belarus.”
 
+![](_assets/e3/e36c5a05a6abfa76b8139a3e7f7cb179.webp)
+
 *Ovik Mkrtchyan. Photo: public archive*
 
 One of the most striking episodes involves Armenian businessman Ovik Mkrtchyan. According to Mkrtchyan, Shadmanov, along with Stanislav Tsatskin and accomplices from Uzbekistan’s State Security Service (SSS), detained him for 85 days, subjecting him to torture to extract $70 million. Beyond monetary demands, Shadmanov and The Office reportedly pressured Mkrtchyan to leverage his international connections to advocate for U.S. sanctions against Komil Allamjonov and Dmitry Li—figures closely tied to Uzbekistan’s reform agenda.
@@ -69,6 +73,8 @@ While the special investigation team, formed under presidential orders, detained
 
 After two and a half months of investigation, the General Prosecutor’s Office announced the main results: charges were brought against seven individuals, five of whom were immediately placed in custody, while two others were extradited from Kazakhstan and South Korea. Two additional suspects—Russian citizens and Chechnya natives Bislan Rasaev and Shamil Temirkhanov—were charged in absentia with violating state borders, illegal arms trafficking, and failure to report a crime. According to journalistic investigations, they had been involved in preparing the attempt on Allamjonov’s life as early as August 2024.
 
+![](_assets/81/81bf087d6883fff4f47db824363dd82e.webp)
+
 *Komil Allamjonov. Photo: public archive / Wikimedia*
 
 Despite the absence of any high-ranking officials among the accused, the most significant outcome of the investigation was a series of presidential decrees dismissing Otabek Umarov, the deputy head of the security service, along with several senior «Office» associates:
@@ -90,6 +96,8 @@ Judging by developments, it seems that others involved in the organisation, incl
 Interestingly, the Supreme Court of Uzbekistan recently launched proceedings on a «related» case involving a complaint from seven former employees of Allamjonov, who claimed they had been unlawfully detained after the 26 October assassination attempt.
 
 The real reason for their detention remains unknown, but the formal grounds cited were drinking alcohol. Sources in Uzbek media speculate that the detentions may have been ordered by the disgraced former First Deputy Chief of the Tashkent Police Department Daniyar Tashkhodjaev, acting under instructions from the ousted ex-head of the SSS Azizov. The detainees were allegedly coerced into testifying that the assassination attempt on Allamjonov was staged.
+
+![](_assets/af/af86f61d200778892e65e72eff9b8fb3.webp)
 
 *Facade with the colors of the flag of Uzbekistan. Photo: Anatoly Zhdanov / Kommersant*
 

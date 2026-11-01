@@ -10,6 +10,20 @@ tags: "мультфильмы, рецензия, фестивали"
 ---
 
 # Игра в шахматы… с Питоном
+![](_assets/1b/1b03e56fceae61c25ede41f389bbc378.webp)
+
+![](_assets/f0/f0c8e40a34ab58bf9580a5bacdc2fc25.webp)
+
+![](_assets/59/5902361532dc2c90aa909e9f416f1327.webp)
+
+![](_assets/7c/7cf07d4790ef9c4967fc50fab55e2890.webp)
+
+![](_assets/d2/d230b964baf6a804bfce963a0f6d510e.webp)
+
+![](_assets/eb/eb9ee47d1d6382111bb2b301a04edad9.webp)
+
+![](_assets/b4/b4429904aeb770ebaf59530d8e26714b.webp)
+
 
 *21-й фестиваль анимации в Суздале собрал особый вид человечества — Homo Ludens*
 

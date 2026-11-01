@@ -13,7 +13,7 @@ tags: "песни, музыкальный альбом, премьеры, рок
 
 *От слез в латте до писем из Харькова. Пять альбомов начала лета*
 
-*\*
+![](_assets/cc/ccfe1d58879d92d177b155a47c0d80e4.webp)
 
 > **Sparks**
 >
@@ -32,7 +32,7 @@ tags: "песни, музыкальный альбом, премьеры, рок
 >  — You Were Meant For Me,\
 >  — Take Me For A Ride*
 
-*\*
+![](_assets/99/99f0a9ec73e3f86c2b428b08524d4b54.webp)
 
 > **Foo Fighters**
 >
@@ -48,7 +48,7 @@ tags: "песни, музыкальный альбом, премьеры, рок
 >  *— Under You,\
 >  — Rescued*
 
-*\*
+![](_assets/b6/b6ebde90d43fe061ce0a5cf519314e24.webp)
 
 > **SQÜRL**
 >
@@ -68,7 +68,7 @@ tags: "песни, музыкальный альбом, премьеры, рок
 >  *— Berlin '87,\
 >  — The End of the World*
 
-*\*
+![](_assets/ed/edb2ea0e133bc325c37d9d1bf6ef6c56.webp)
 
 > **Леонид Фёдоров**
 >
@@ -78,7 +78,7 @@ tags: "песни, музыкальный альбом, премьеры, рок
 >
 > - **Слушать на** [Яндекс.Музыка](https://music.yandex.ru/album/25753598)
 
-*\*
+![](_assets/54/54ddb7f290c1a2860e2a6128157f3a07.webp)
 
 > **Shirley Collins**
 >

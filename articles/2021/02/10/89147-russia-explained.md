@@ -27,6 +27,8 @@ In the aftermath of opposition leader Alexei Navalny’s trial, Russia’s secur
 
 > “The line moves slowly. By three o'clock at the checkpoint, about fifty people are milling about in the cold. All have huge bags with food, water, bedding, items for basic hygiene. Newcomers also arrive, shouting, as if they were in the doctor’s office: ‘Who is the last in line?’” describes our reporter Lilit Sargsyan.
 
+![](_assets/47/4715d3674d7382dbbf2a251baccb7ea0.webp)
+
 *Photo: Svetlana Vidanova / "Novaya Gazeta"*
 
 **OUR COLLEAGUE RECOLLECTS WHAT IT’S LIKE TO BE CAGED AT THE SAKHAROVO DETENTION CENTER.** Journalist and Novaya contributor Ali Feruz [once spent months](https://en.hromadske.ua/posts/inside-russias-migration-jail-the-diary-of-imprisoned-journalist-ali-feruz) in Sakharovo in 2017 while Russian authorities were planning [to send him back to torturers](https://en.hromadske.ua/posts/ali-feruz-uzbekistan) in his home country of Uzbekistan. It was [a politically-motivated attack](https://www.facebook.com/watch/?v=1728706753823827) on Feruz for his reporting on abuse of labor migrants by Russian officials. Following international outrage, he was deported to Germany instead.
@@ -34,6 +36,8 @@ In the aftermath of opposition leader Alexei Navalny’s trial, Russia’s secur
 **“IT IS NOT EXACTLY A PRISON; IT IS A MAX-SECURITY FACILITY.** The guards let dogs inside the fenced-in area at night. The cells are for two or four people each. On the first floor, there are large chambers that can accommodate 10 to 16 people,” writes journalist Ali Feruz, who was detained in  Sakharovo in 2017 and threatened with deportation to Uzbekistan. “In my double room, there were two windows with bars, an iron bunk bed, an iron table with a bench, an iron cabinet, a broom, a basin, a bucket, a sink, a toilet, and two video cameras in the top corner that watched us around the clock,” Feruz adds.
 
 **CRUEL TREATMENT OF DETAINEES.** There is a growing number of testimonies documenting the abuse of the caged protesters. One went viral. On the morning of February 2, the outlet OVD-Info [published a video](https://twitter.com/ovdinfo/status/1356480846451138563?s=21) with a harrowing tale. A young man reads a message in an overcrowded police van: “We were detained at a peaceful rally on January 31, and we are now asking for help and calling attention to the inhuman conditions in which we are being held. More than forty hours have passed since our arrest, and we are still being tortured. We have not yet been fed. For the last nine hours, we have been on a bus where people are forced to stand. We are unable to move. We have no water; we are not allowed to go to the toilet,” he says.
+
+![](_assets/ab/ab4f7d17ade9b33d7d42b787649b2f9b.webp)
 
 *Photo: Svetlana Vidanova / "Novaya Gazeta"*
 
@@ -56,6 +60,8 @@ Last week delivered a mixed bag for the country’s environmental movement. On t
 **UNCLEAR IF MONEY WILL EVER REACH THE DISASTER ZONE.** Russian [officials colluded with the company in a coverup of the disaster](https://novayagazeta.ru/articles/2020/07/22/86363-russia-explained-44) and offered the world’s largest producer of palladium and nickel to pay a ‘voluntarily’ fine — but only following public outrage. Still, Nornickel fought tooth and nail to avoid paying the damages. After [dumping 21 thousand tons of diesel fuel into ](https://novayagazeta.ru/articles/2020/06/17/85878-russia-explained-39)Arctic rivers near Norilsk, the company wanted to dial down the fine from two billion to just two million US dollars. It has lost. Still, the money will unlikely reach the affected areas. According to Tarasov, this story is another illustration of the driving force behind Russian colonialism in Siberia — maximizing hyper profits based on ruthless extraction of raw materials with zero care about the environmental damage.
 
 > “It is significant that all of the participants in the process —&nbsp;from both sides — flew to Krasnoyarsk from Moscow. Local communities from Norilsk and Krasnoyarsk, in fact, had nothing to do with the process. As soon as the amount Nornickel must pay became clear, the tax code was amended to ensure that the final payment would go to the federal government. It won't stay in the affected Norilsk, defying the logic,” Tarasov writes.&nbsp;
+
+![](_assets/cf/cfd1fa28cea7775d62a4903532915ae1.webp)
 
 *Photo: Yuriy Kozyrev / Novaya Gazeta*
 
@@ -80,6 +86,8 @@ The story of another two gay Chechen men kidnapped by Russian authorities and sh
 **TORTURE IN THE NAME OF GOD. ** At first, it wasn’t their sexual identity that got Salakh Magamadov and Ismail Isayev in trouble. The men authored an atheist blog. This turned out to be a de-facto illegal activity in Chechnya, ruled by a Kremlin-backed kleptocratic clique using Muslim moral signaling to crackdown on any dissent. Local authorities abducted both men and tortured them until they acknowledged ‘God’s existence.’ Milashina learned about the story some months ago after Isayev, who is gay, contacted the [Russian LGBT Network](https://lgbtnet.org/en/)’s hotline. By that time, he had already been detained twice. The first time he was tortured, he was still only 16 years old.
 
 **BLACKMAIL AND ‘RE-EDUCATION.** ’ Isayev said that he was beaten, held in an unknown place (which turned out to be the basement of a police department), and released after seven days. His mother paid over $4,000 in extortion money for his release. Russian LGTB Network claims that at least 27 people, all members of a Telegram channel for atheists, also ended up being detained and tortured. According to human rights defenders, the detainees were forced to memorize the Koran, the anthems of Russia and the Chechen Republic, and learn Akhmat Kadyrov’s biography, the late father of the Republic’s current ruler Ramzan Kadyrov.
+
+![](_assets/b5/b5ca97364f7703a8b4aa8ca7fe540865.webp)
 
 *Ismail Isaev*
 

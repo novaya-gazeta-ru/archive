@@ -10,6 +10,14 @@ tags: ""
 ---
 
 # Вышел экшн из тумана
+![](_assets/0a/0aa7af7f92d546087b0f3d41f7abee97.webp)
+
+![](_assets/40/4067f92f566447a36a5c09823eb0b45e.webp)
+
+![](_assets/47/4723c3880cce81f9a9e52c60667312cb.webp)
+
+![](_assets/9e/9e2b6668eff83bddbf6807abfe1f9de7.webp)
+
 
 *Московский кинофестиваль начался с двух шумных премьер*
 

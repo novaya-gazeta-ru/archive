@@ -10,6 +10,26 @@ tags: ""
 ---
 
 # Постнаука. Выпуск #20
+![](_assets/68/6835497bf4f8013eb7c155b674363fb8.webp)
+
+![](_assets/66/66c884e07d930f336e8b15b3f2ccb22b.webp)
+
+![](_assets/dc/dccd86104e8db62531eb4eb78633d5ef.webp)
+
+![](_assets/1a/1a9400cf12f03a17dbc8065a3c4c1d56.webp)
+
+![](_assets/23/238d5a0d03bc5dfce7f0cee54a521cc5.webp)
+
+![](_assets/2a/2acecc815132bb469e5b555084c55833.webp)
+
+![](_assets/a3/a34c781a88714d2192763c6050a9da7f.webp)
+
+![](_assets/d8/d8c336932094601c2050a613f8ca10b2.webp)
+
+![](_assets/7f/7f9f9201503269be1b8335d590161da8.webp)
+
+![](_assets/e0/e0f989b1ec4e44435406b3969ba71434.webp)
+
 
 *Проект «Новой газеты» и сайта postnauka.ru*
 

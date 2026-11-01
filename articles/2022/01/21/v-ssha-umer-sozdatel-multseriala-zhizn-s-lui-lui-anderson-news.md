@@ -13,7 +13,9 @@ tags: "em, сша, комики, смерть"
 
 В США в возрасте 68 лет умер комик, создатель мультсериала «Жизнь с Луи» Луи Андерсон. Об этом [сообщает](https://www.tmz.com/2022/01/21/louie-anderson-dead-dies-blood-cancer-battle/) TMZ.
 
-*Getty Images / [CBS Photo Archive](https://www.gettyimages.com/search/photographer?family=editorial&photographer=CBS+Photo+Archive) / Contributor*
+![](_assets/46/46f4518e9aa5a367d178581f9c7ae651.webp)
+
+*Getty Images / [CBS Photo Archive](https://www.gettyimages.com/search/photographer?family=editorial&photographer=CBS+Photo+Archive) / Contributor*
 
 Издание отмечает, что у Андерсона была лимфома. В последнее время он находился на лечении в больнице Лас-Вегаса.
 

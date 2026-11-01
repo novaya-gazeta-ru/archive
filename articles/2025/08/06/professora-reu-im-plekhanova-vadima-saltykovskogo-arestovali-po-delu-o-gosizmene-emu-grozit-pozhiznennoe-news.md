@@ -11,7 +11,7 @@ tags: "госизмена, уголовное дело, салтыковский
 
 # Профессора РЭУ им. Плеханова Вадима Салтыковского арестовали по делу о госизмене. Ему грозит пожизненное&nbsp;
 
-*\*
+![](_assets/92/92c5cbc1c2b82830c3667dc9d6bb34fd.webp)
 
 Лефортовский суд Москвы арестовал до 25 сентября профессора экономического университета им. Плеханова Вадима Салтыковского, следует из [сообщения](https://mos-gorsud.ru/rs/lefortovskij/news/lefortovskim-rajonnym-sudom-goroda-moskvy-udovletvoreno-hodatajstvo-sledovatelya-ob-izbranii-mery-presecheniya-v-vide-zaklyucheniya-pod-strazhu-v-otnoshenii-saltykovskogo-va) на сайте суда.
 

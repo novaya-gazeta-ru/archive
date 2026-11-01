@@ -10,6 +10,28 @@ tags: "9 мая, герой, память"
 ---
 
 # Наградные листы
+![](_assets/2b/2b8650ec621d098f15080ca50de604da.webp)
+
+![](_assets/b8/b85eb9d63f781f9317a4ea7bdbb22252.webp)
+
+![](_assets/f0/f0d7402503b9900a6c92c8edd5895032.webp)
+
+![](_assets/0f/0f4e88c55878bb36f9e360cdc48398d6.webp)
+
+![](_assets/c6/c694d09bec425d8c0ae7788da9d91929.webp)
+
+![](_assets/ac/aca17c548ad276229b05b692e1a556f7.webp)
+
+![](_assets/89/8997110507f36ceade9683a5ea3081bf.webp)
+
+![](_assets/15/155e674cc396618ef571c323c0a9f477.webp)
+
+![](_assets/ff/ffd9cb13d9e2a8218a641f9a80a0bd3f.webp)
+
+![](_assets/e7/e7d612d41ce425098a845252d83e553f.webp)
+
+![](_assets/46/46cadc40aebfbabfecafa36aebf69d46.webp)
+
 
 *Строки воспоминаний. Коричневые фотокарточки с потертыми углами. Пожелтевшие открытки со штампом военной цензуры. Молодые и красивые, выжившие и погибшие на войне, наши близкие с нами, пока мы их помним.*
 

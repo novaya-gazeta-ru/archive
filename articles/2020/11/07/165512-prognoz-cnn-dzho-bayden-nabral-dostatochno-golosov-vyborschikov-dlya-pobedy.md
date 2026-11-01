@@ -15,6 +15,8 @@ tags: "kn, выборы, сша, байден"
 
 Такой же прогноз делают [New York Times](https://www.nytimes.com/2020/11/07/us/politics/biden-election.html), [AP](https://apnews.com/article/Biden-Trump-US-election-2020-results-fd58df73aa677acb74fce2a69adb71f9), [NBC](https://www.nbcnews.com/politics/2020-election/biden-defeats-trump-win-white-house-nbc-news-projects-n1246912) и [Edison Research](https://www.edisonresearch.com/).
 
+![](_assets/f7/f75694786f2ab22b207dd3c27d024b6d.webp)
+
 *Скриншот: NYT*
 
 Победа в Пенсильвании дает Байдену +20 голосов выборщиков, то есть в целом по США кандидат получает 273 голоса из 270 необходимых. В этом штате демократ лидирует с отрывом 0,5%. Трамп по-прежнему набирает 214 голосов выборщиков.

@@ -19,6 +19,8 @@ tags: "depeche mode, дельфин, no tongues, василий шумов и г
 - **Василий Шумов и группа Центр**
 - **No Tongues**
 
+![](_assets/b9/b94ca70abcfa904b7912375d2a50d690.webp)
+
 *Memento Mori, 2023*
 
 > **Depeche Mode**
@@ -35,6 +37,8 @@ tags: "depeche mode, дельфин, no tongues, василий шумов и г
 >
 >  **Обратить внимание на:** «Ghosts Again», «Caroline's Monkey», «Never Let Me Go»
 
+![](_assets/99/99ea0bf6ae7211b575b006c223df520f.webp)
+
 *Прощай оружие, 2023*
 
 > **Дельфин**
@@ -50,6 +54,8 @@ tags: "depeche mode, дельфин, no tongues, василий шумов и г
 >  **Стиль:** электроклэш
 >
 >  **Обратить внимание на: **«Ты», «Прекрасно», «GN-z11»
+
+![](_assets/b9/b9a44d04608998fb0c7be7097a10cfd1.webp)
 
 *Radical Romantics, 2023*
 
@@ -69,6 +75,8 @@ tags: "depeche mode, дельфин, no tongues, василий шумов и г
 >
 >  **Обратить внимание на:** «What They Call Us», «Kandy», «Even It Out»
 
+![](_assets/d3/d3e9c741bac04a49bb71a413caa00814.webp)
+
 *Толькодинаковые, 2023*
 
 > **Василий Шумов и группа Центр**
@@ -86,6 +94,8 @@ tags: "depeche mode, дельфин, no tongues, василий шумов и г
 >  **Стиль: **дадаистская электроника, абстрагирующаяся от русского рока
 >
 >  **Обратить внимание на: **«Ты зачем туда полез?», «Все танцевали одинаково», «Белый танец аналитика»
+
+![](_assets/ee/ee5bca963607c55f12b25d23fd16cb11.webp)
 
 *Ici, 2022*
 

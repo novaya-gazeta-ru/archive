@@ -25,6 +25,8 @@ Ali was terribly worried because he couldn't visit his mother, who lives in Ongu
 
 (Later, after he was detained, she would ask: “For what? Is that because of the tattoes? Or because he smokes? He can’t even fight.”)
 
+![](_assets/b4/b4fc4f94687394b1d9f60e4bc72bc670.webp)
+
 *Ali's mother in the court. Viktoria Odissonova / Novaya Gazeta*
 
 Ali had a habit of cutting his hair short. We used to mock him, until he explained that back in Uzbekistan he people would drag him around his cell by his hair. When he talked about what he had been through, he had a light smile on his face. He didn't want to scare us. He was scared himself, and always acknowledged that, most likely, he always be will. «I rather die than go back». We thought is was a metaphor but it wasn't after all.
@@ -69,6 +71,8 @@ The situation is now monitored by the Commissioner for Human Rights in Russia, T
 
 And yet, in a day, the question was solved over the phone, and we were preparing to go to meet Ali at the gates of the Temporary Detention Center for Foreign Citizens. Then, at 10 pm, a few hours before the departure, lawyers called: Ali is not going anywhere.
 
+![](_assets/fd/fd7c3be9c4e754505a955a61343d5948.webp)
+
 *The paper signed by the Deputy Chief Bailiff of the Moscow Department of the Federal Service of Court Bailiffs M. Kuksa*
 
 They sent us the paper signed by the Deputy Chief Bailiff of the Moscow Department of the Federal Service of Court Bailiffs M. Kuksa. She said:
@@ -90,6 +94,8 @@ The police left without a protocol. They said: everything is in order. But words
 Late in the evening on November 21, Ali Feruz was taken to the Basmanny District Court, where he was convicted for illegal labor relations with Novaya Gazeta, based on the results of the inspection. He was sentenced to a fine and — again — to deportation.
 
 Therefore, departure of Ali on November 22, of course, did not take place.
+
+![](_assets/0a/0af3147ca095d08f6666bcc6d780043c.webp)
 
 *PhotoXPress*
 

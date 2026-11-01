@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *In Politkovskaya’s memory — Russia’s Arctic expansion — ‘Putin’s chef’ jet mystery*
 
+![](_assets/11/11b90665a59f9f12971965eaa7f2f733.webp)
+
 *Anna Politkovskaya. Photo: Novaya Gazeta*
 
 This Week’s Highlights

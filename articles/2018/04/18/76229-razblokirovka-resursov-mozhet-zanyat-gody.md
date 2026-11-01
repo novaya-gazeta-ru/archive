@@ -21,7 +21,11 @@ tags: "блокировка сайтов, интернет, роскомнадз
 
 **Кирилл Мартынов,**«Новая»
 
-*Петр Саруханов / «Новая газета». [Перейти на сайт художника](http://www.sarukhanov.info/index.php?id=48&lang=rus)*
+![](_assets/90/908f4def8f5161cff98920e0a97d5014.webp)
+
+*Петр Саруханов / «Новая газета». [Перейти на сайт художника](http://www.sarukhanov.info/index.php?id=48&lang=rus)*
+
+![](_assets/40/409ea62e5aad8734fff3ebd2c759510e.webp)
 
 *Дамир Гайнутдинов. Agora.legal*
 

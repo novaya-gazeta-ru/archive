@@ -43,6 +43,8 @@ tags: "как это устроено, мигранты, москва, моск�
 
 **link:** https://novayagazeta.ru/articles/2017/09/08/73751-moskvichi-rustam-tuhtarov-42-goda-tadzhikistan-spetsialnost-ozelenitel
 
+![](_assets/5e/5e5e3e6c1745932aeb166b93dbafb3cd.webp)
+
 *Дизайн: Евгений Казаков, специально для «Новой газеты»*
 
 # Помощники Москвы. Цифры

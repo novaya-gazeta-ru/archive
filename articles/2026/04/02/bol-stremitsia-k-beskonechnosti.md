@@ -13,7 +13,7 @@ tags: "что послушать, где слушать музыку, новые
 
 *Из интернет-пространства России продолжают уходить музыкальные сервисы и стриминги*
 
-*\*
+![](_assets/92/926e77d51ed4634bd2bb731e2ef180e2.webp)
 
 > ### Flea — Honora / 2026
 >
@@ -27,7 +27,7 @@ tags: "что послушать, где слушать музыку, новые
 >
 > - Слушать: [Apple.Music](https://music.apple.com/gb/album/honora/1861644307)[Telegram](https://t.me/zerowave/2572)
 
-*\*
+![](_assets/36/36b02d71cb418937b2d7a2ec1a87ebc4.webp)
 
 > ### Ladytron — Paradises / 2025
 >
@@ -37,7 +37,7 @@ tags: "что послушать, где слушать музыку, новые
 >
 > - Слушать: [Яндекс.Музыка](https://music.yandex.ru/album/38671576?utm_source=web&utm_medium=copy_link)[Telegram](https://t.me/zerowave/2565)
 
-*\*
+![](_assets/62/626fdc7e960dae1d19bf374f2efbfbb1.webp)
 
 > ### АИГЕЛ — Человек / 2025
 >
@@ -55,7 +55,7 @@ tags: "что послушать, где слушать музыку, новые
 >
 > - Слушать: [Яндекс.Музыка](https://music.yandex.ru/album/39272067?utm_source=web&utm_medium=copy_link)[Telegram](https://t.me/zerowave/2174)
 
-*\*
+![](_assets/3a/3a22059f047184f4febcf91020ead017.webp)
 
 > ### Nina Hagen — Highway To Heaven / 2026
 >
@@ -69,7 +69,7 @@ tags: "что послушать, где слушать музыку, новые
 >
 > - Слушать: [Яндекс.Музыка](https://music.yandex.ru/album/39760963?utm_source=web&utm_medium=copy_link)[Telegram](https://t.me/zerowave/2567)
 
-*\*
+![](_assets/a6/a636eab32be55541c05df24d062ebde8.webp)
 
 ### **Ты23 — Розовое Падло / 2026**
 

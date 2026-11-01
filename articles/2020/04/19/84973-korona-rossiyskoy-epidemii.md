@@ -10,16 +10,46 @@ tags: "пандемия, коронавирус, кафка-кодекс, ком
 ---
 
 # Корона российской эпидемии. Часть I
+![](_assets/04/049008075fc162507b564bf0a5ac4734.webp)
+
+![](_assets/2c/2cb57ff0986ffd2dc066415065bcfe7d.webp)
+
+![](_assets/3e/3e419c2b748793729207b8f5d769b4a8.webp)
+
+![](_assets/62/6219a6a953ad22de6013f01e51dfd750.webp)
+
+![](_assets/ed/ed587fd0b23b7a16aa615f88c8cddf60.webp)
+
+![](_assets/4c/4c13b9324e9064def56805e5ead2b4f7.webp)
+
+![](_assets/71/7155253c585c04c81bb18c46b4623bdb.webp)
+
+![](_assets/2b/2b485b14c55f15ab5f3306e9db6f1542.webp)
+
+![](_assets/35/358106c3bab6ff044f56c7201a8a057b.webp)
+
+![](_assets/f4/f48f63f56e8a9aaa82c2bdcd6894ee47.webp)
+
+![](_assets/4c/4c7c6710f971f202941f41846e530430.webp)
+
+![](_assets/e5/e5e832612ba212dfc73bcc31f48fd5a5.webp)
+
+![](_assets/96/963e3c0300222e6abc3e3b7baf67075d.webp)
+
+![](_assets/30/30a7e8d446f489ddf327e0fb3174acbd.webp)
+
 
 *Чума терпит поражение. Комикс*
 
-*\*
+![](_assets/d5/d57a0ac87d01e43cd7844b10b9285bd5.webp)
 
-*\*
+![](_assets/68/6861b4390b7e69447cc4801fc5876997.webp)
 
-*\*
+![](_assets/12/12ea62625f566d538695498802ec91a8.webp)
 
-*\*
+![](_assets/fd/fd977de72aa754954db90f66bd2f0336.webp)
+
+![](_assets/98/98af9b4c0063b5cbf93bffbb05dad924.webp)
 
 *Комикс: Аскольд Акишин, Алекей Иорш (цвет) для «Новой газеты»*
 
@@ -75,4 +105,4 @@ tags: "пандемия, коронавирус, кафка-кодекс, ком
 >
 > ### [Героическая оборона Мосгордумы: ЦИК и Скрепман побеждают оппозиционную нечисть](https://novayagazeta.ru/articles/2019/11/13/82699-geroicheskaya-oborona-mosgordumy)
 
-*\*
+![](_assets/f8/f89506321aa1ab177ae97d76f388ed60.webp)

@@ -10,18 +10,34 @@ tags: "абсурд, космодром восточный, кафка-коде�
 ---
 
 # Тайна «Роскосмоса»
+![](_assets/a2/a223e2c93819b5917ec2b4227bf8535f.webp)
+
+![](_assets/c1/c151d2549aaeede9f2389f23195c50db.webp)
+
+![](_assets/f4/f48f63f56e8a9aaa82c2bdcd6894ee47.webp)
+
+![](_assets/4c/4c7c6710f971f202941f41846e530430.webp)
+
+![](_assets/e5/e5e832612ba212dfc73bcc31f48fd5a5.webp)
+
+![](_assets/96/963e3c0300222e6abc3e3b7baf67075d.webp)
+
+![](_assets/30/30a7e8d446f489ddf327e0fb3174acbd.webp)
+
 
 *Как лунный лифт спустил правительство Медведева с неба на землю. Комикс*
 
-*\*
+![](_assets/c6/c621f14d1ebd95cb6f6e8c2e2eea0992.webp)
 
-*\*
+![](_assets/b7/b72566842864b1131b29ca9ed15f40b5.webp)
 
-*\*
+![](_assets/19/1937ec0c46d1fb67767673108d585c59.webp)
 
-*\*
+![](_assets/d5/d5d12b9211dafaddad9cbc78cbd8d3c0.webp)
 
-*\*
+![](_assets/33/332c430e5e160612e1c35de17e72a883.webp)
+
+![](_assets/c3/c3846aa2ace94c3eba9fddd04c454944.webp)
 
 *Комикс: Настя Данилова для «Новой газеты»*
 
@@ -63,4 +79,4 @@ tags: "абсурд, космодром восточный, кафка-коде�
 >
 > ### [Героическая оборона Мосгордумы: ЦИК и Скрепман побеждают оппозиционную нечисть](https://novayagazeta.ru/articles/2019/11/13/82699-geroicheskaya-oborona-mosgordumy)
 
-*\*
+![](_assets/35/358106c3bab6ff044f56c7201a8a057b.webp)

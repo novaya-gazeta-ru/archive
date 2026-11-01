@@ -13,7 +13,7 @@ tags: "рок, электронная музыка, акустика, dream pop,
 
 *Новые альбомы 2022 года. Viagra Boys, Mansur, Лиз Фрейзер, Дэнни Эльфман, Toshiya Tsunoda*
 
-*\*
+![](_assets/5e/5ef6b44b39d29d99933f0aa4e9221c0b.webp)
 
 > **Viagra Boys**
 >
@@ -34,7 +34,7 @@ tags: "рок, электронная музыка, акустика, dream pop,
 >
 > *— Ain’t No Thief*
 
-*\*
+![](_assets/65/659e89f435c220c6b3993510e3c14326.webp)
 
 > **Mansur**
 >
@@ -53,7 +53,7 @@ tags: "рок, электронная музыка, акустика, dream pop,
 >
 > *— Relics*
 
-*\*
+![](_assets/7c/7c6d6a576fd32669837815819cb6699c.webp)
 
 > **Sun's Signature**
 >
@@ -71,7 +71,7 @@ tags: "рок, электронная музыка, акустика, dream pop,
 >
 > — «Apples»
 
-*\*
+![](_assets/5d/5d4d19a7e359781c28fdd4653fd47577.webp)
 
 > **Danny Elfman**
 >
@@ -93,7 +93,7 @@ tags: "рок, электронная музыка, акустика, dream pop,
 >
 > *— Kick time*
 
-*\*
+![](_assets/7e/7eefae54c7974e8e1e378cd16ab6f606.webp)
 
 > **Toshiya Tsunoda**
 >

@@ -13,6 +13,8 @@ tags: "russia; explained, newsletter"
 
 *NATO-Russia — Putin’s broken promises to hometown — Yekaterinburg schools targeted*
 
+![](_assets/e0/e09382e13cd1ca3297de251b8f21f758.webp)
+
 *Illustration by Peter Sarukhanov / Novaya*
 
 # **Here what’s in store for you this week:**
@@ -47,11 +49,15 @@ On January 12, the Russia-NATO council met for the first time in more than two y
 
 On New Year’s Eve, President Putin signed an order ending the long-standing dream of Petersburgers to create a city park near the downtown Neva embankment. On the same day, the Office of the Presidential Affairs (UDP) signed a contract to adjust the site development project: It is now to house the Supreme Court. Tatiana Likhanova explains what’s behind this 180 degree turn and how it [highlights the growing assault on self-governing rights by the Kremlin](https://novayagazeta.ru/articles/2021/12/22/russia-explained).
 
+![](_assets/8c/8c3bfb138e9e9a0ff602276cdee1d7d2.webp)
+
 *The city park project near the downtown Neva embankment*
 
 **WHY THE SUPREME COURT?** Putin initiated the relocation of the Supreme Court from Moscow to St. Petersburg, the country’s second largest city and Putin’s hometown, in 2012.  While there was an international competition to select the designer for the site, the project was granted not to the winner — Maxim Atayants — but to Yevgeny Gerasimov. The decision was never explained but — as is so often the case with big public projects in Russia — it is likely that the lack of transparency is deliberate. The original plan was for the site to include a theater, court buildings, and housing for judges. The idea changed when, in spring 2019, authorities announced that the court buildings would now be constructed near Smolny Cathedral, and the housing for judges in the Okhta business complex. The authorities claimed that this change was a response to the desire of the city’s residents for a park.
 
 **BROKEN PROMISE.** During his election campaign in 2019, St. Petersburg Governor and Putin’s close ally Alexander Beglov ran on the promise of creating a park in this part of the city. The vision was grandiose, involving an amphitheater for outdoor performances, art galleries, concert and lectures. Beglov even presented the plan to Putin during the campaign, with the President remarking that it could be “better than Zaradye” — Moscow’s flashy new riverside park near the Kremlin. When BBC’s Russian service broke the news of the cancellation of the park project, Beglov’s office denied the claim. They insisted that the project remains “in development”, although they offered no details on the expenses, procurement processes, or timeline.
+
+![](_assets/bc/bcfa2163967843c676c84dbaebe65f50.webp)
 
 *Mr. Putin and Mr. Beglov. Photo by RIA Novosti*
 
@@ -68,6 +74,8 @@ On New Year’s Eve, President Putin signed an order ending the long-standing dr
 # **School Bombing Scare, Explained**
 
 On January 12, local authorities evacuated all but 12 of Yekaterinburg’s 163 secondary schools in response to a bomb threat. Our Urals correspondent, Isolde Drobina, reports on the disturbing events in the country’s fourth largest city, while reviewer Aleksei Tarasov questions why these events are so common given the extensive power of the Russian security forces.
+
+![](_assets/f3/f33bca4f1a534bb11eaf5b10bd75f386.webp)
 
 *The evacuation in Novgorod. Photo: Social*
 
@@ -86,6 +94,8 @@ On January 12, local authorities evacuated all but 12 of Yekaterinburg’s 163 s
 **Read Drobina’s full report **[**here**](«https://novayagazeta.ru/articles/2022/01/12/evakuatsii-nachalis-v-polovine-vosmogo-utra»)**, and Tarasov’s analysis **[**here.**](«https://novayagazeta.ru/articles/2022/01/13/e-mail-minery»)
 
 # **Bonus RoundAn **[**open letter**](https://novayagazeta.ru/articles/2022/01/11/niuta-federmesser-lozh-ochen-udobna-kogda-rech-idet-ob-umiraiushchikh)** to Moscow governor Andrei Vorobyov by NGO founder and public figure Nyuta Federmesser** has shed light on the region’s palliative care crisis. She highlights how palliative care is not funded by compulsory medical insurance, but rather through each region’s budget. “The quality of organizing assistance to people at the end of their lives (as well as any other assistance) depends on the political will of the head of the region”, she argues. The funds that the federal government dedicates to these regional ‘pots’, she writes, do not equate to real assistance for terminal patients. Hospitals, for example, often use the funds to provide extra beds for elderly people who need long term care rather than for those who are dying and are in severe pain.
+
+![](_assets/72/723394284846218d9d1c96ce3e2bc4bd.webp)
 
 *Photo by Yuri Kozyrev / Novaya Gazeta*
 

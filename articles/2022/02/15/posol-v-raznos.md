@@ -13,6 +13,8 @@ tags: "дипломатия, мид, грубость, кузькина мать
 
 *При нашей дипломатии НАТО будет расширяться и на восток, и на запах*
 
+![](_assets/14/14a54a6a31c06ad8374fbe70be69cdfc.webp)
+
 *Петр Саруханов / «Новая газета»*
 
 Не к шведскому столу будет сказано, посол России в Швеции Виктор Татаринцев, оценивая новые возможные санкции Запада, жестко заявил, что [нам на эти санкции](https://novayagazeta.ru/articles/2022/02/13/izvinite-za-iazyk-no-my-srali-na-sanktsii-zapada-posol-rf-v-shvetsii-o-vozmozhnosti-vvedeniia-novykh-ogranichenii-news)… Что [мы на эти санкции](https://novayagazeta.ru/articles/2022/02/13/izvinite-za-iazyk-no-my-srali-na-sanktsii-zapada-posol-rf-v-shvetsii-o-vozmozhnosti-vvedeniia-novykh-ogranichenii-news)…

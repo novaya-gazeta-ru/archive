@@ -10,6 +10,22 @@ tags: ""
 ---
 
 # Доставлено, прочитано.  СМС-роман
+![](_assets/19/19a161a694ecc1803b6ab79d1dc9f74e.webp)
+
+![](_assets/42/4296b39b231a745e1ec74d6ec66ae3dd.webp)
+
+![](_assets/fb/fb2b88f37c7765397030999e339a3ac5.webp)
+
+![](_assets/40/407f594aaec60290bdaa7c917e1769b6.webp)
+
+![](_assets/72/7275a21e4c3fe21c9754efc5c424043b.webp)
+
+![](_assets/d8/d89a7f63172ea27b8f03d39ac10b085a.webp)
+
+![](_assets/55/55e8b3085ee853bfcc1c0bc5ee319480.webp)
+
+![](_assets/e0/e07030f9c80d5d1e061218eff699a355.webp)
+
 
 *Всем абонентам сотовой связи посвящается*
 

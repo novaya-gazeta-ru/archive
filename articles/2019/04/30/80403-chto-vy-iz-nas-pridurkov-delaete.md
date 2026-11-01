@@ -10,6 +10,54 @@ tags: "абсурд, роскомнадзор, регионы, журналис�
 ---
 
 # «Что вы из нас придурков делаете?»
+![](_assets/ca/ca9ff554b6230577cff0b11dbaef0de8.webp)
+
+![](_assets/fa/fa1f5ada71d0c9db9d2b09070fee3dd6.webp)
+
+![](_assets/85/85bd4b050b89ae6b3a722d3729d5d7c7.webp)
+
+![](_assets/d7/d7544aaddf8484f31b7c13e7bc379a0c.webp)
+
+![](_assets/32/32851a5aebf45d772c1c4858dab4a73b.webp)
+
+![](_assets/29/290b864fe3fb5e63655342f18cece67f.webp)
+
+![](_assets/02/023224c9e81c5aea1bf8df4552f446b4.webp)
+
+![](_assets/6a/6a85704d9b5b08b2c3becaa34bb495fb.webp)
+
+![](_assets/9b/9b094f78c2bba5deecbe24b3d774a0d9.webp)
+
+![](_assets/73/73752921388431251b1db4a5e4696f3c.webp)
+
+![](_assets/3a/3ad85c3b0cf7486aa64995761603d80c.webp)
+
+![](_assets/60/607d6a19dc4838378ad12cbe3ec6df09.webp)
+
+![](_assets/8a/8a7196e379ef2f3cd6e9831b521649e2.webp)
+
+![](_assets/10/106cdb5cfc02423179ad8c2be41d1421.webp)
+
+![](_assets/4d/4db1b3a932775593998b7089c59248f9.webp)
+
+![](_assets/2c/2c326e9532b0ed91eb207351a0581ece.webp)
+
+![](_assets/cc/cc689e2cb330467a32bfd5cc88fff624.webp)
+
+![](_assets/04/0429ec9c07b8ee829ecfcd97213e5c34.webp)
+
+![](_assets/b6/b6dca02e9c02189e8079ed375a7653e7.webp)
+
+![](_assets/7c/7c8771077786454ac2954868f01795ae.webp)
+
+![](_assets/55/551d17ed5b644950e5fd567d54930ad1.webp)
+
+![](_assets/36/36363b189fe4c6085d5eed6caa092860.webp)
+
+![](_assets/1f/1fed292b4598b5c619afba7908a2a296.webp)
+
+![](_assets/b5/b527a6ed092e642e5d33827414bcbe35.webp)
+
 
 *Как журналисты отомстили Роскомнадзору. Комикс-инструкция*
 
@@ -20,6 +68,8 @@ tags: "абсурд, роскомнадзор, регионы, журналис�
 А в 2018 году прицепился Роскомнадзор. «Наша месть была ужасной», — говорит Курт-Аджиев.
 
 Тяготы региональной журналистики — в комиксе Евгения Киямова для проекта «Кафка-кодекс».
+
+![](_assets/d6/d6c6f469089027f3a4d2d8899a93dd3d.webp)
 
 *Комикс: Евгений Киямов — специально для «Новой газеты»*
 

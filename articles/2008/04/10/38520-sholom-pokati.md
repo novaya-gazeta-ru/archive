@@ -10,6 +10,14 @@ tags: ""
 ---
 
 # Шолом покати
+![](_assets/1a/1a7eb7a26afa2b002f39e8b54df9bf06.webp)
+
+![](_assets/bb/bb3fb1348b7d42b39403e3197a6bece9.webp)
+
+![](_assets/72/72db589986d25a2507b9f1e7a2db200c.webp)
+
+![](_assets/01/01e058f3ee72f90d12a0637c6a56f634.webp)
+
 
 *Безымянное пространство*
 

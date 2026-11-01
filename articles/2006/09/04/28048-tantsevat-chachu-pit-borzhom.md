@@ -10,6 +10,16 @@ tags: ""
 ---
 
 # Танцевать чачу, пить боржом
+![](_assets/8f/8f7b048dc682f5f695a8d97f0dac0f68.webp)
+
+![](_assets/db/db0934762a3ea1bf71b4669a4ebd2cc9.webp)
+
+![](_assets/ff/ffe5575ef6348688ae2fd06317bf2c42.webp)
+
+![](_assets/93/93d65a5538d30029335cf3380dedc5d3.webp)
+
+![](_assets/2b/2b1a1dfd047057834960b87fce700611.webp)
+
 
 *СССР: Продукт после распада*
 

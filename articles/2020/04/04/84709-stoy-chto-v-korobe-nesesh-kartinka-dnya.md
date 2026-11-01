@@ -13,6 +13,8 @@ tags: "карантин, доставка, курьер"
 
 *Из регионов поступают сообщения о задержаниях курьеров из-за карантина. Иллюстрация Петра Саруханова*
 
+![](_assets/b0/b06fcb9e6db8abc31ef1c9fb79702043.webp)
+
 *Петр Саруханов / «Новая газета»*
 
 **link:** https://novayagazeta.ru/news/2020/04/03/160377-onlayn-magaziny-pozhalovalis-na-zaderzhaniya-kurierov-v-regionah

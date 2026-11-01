@@ -10,6 +10,28 @@ tags: ""
 ---
 
 # Кто и зачем следит за нашим корреспондентом?
+![](_assets/07/0718cd992b3ef41f0b80be34324837b9.webp)
+
+![](_assets/c5/c58ff62851100a2254a9f60a05164bb4.webp)
+
+![](_assets/30/30d8f8b95aed1587b7938c0a04d4dbfe.webp)
+
+![](_assets/a8/a899c75af0ecf199bc9c4ad8e2e11018.webp)
+
+![](_assets/00/00d27ddc18d505c31222f3de1c62314a.webp)
+
+![](_assets/9c/9c00b82d2ee80228c90da01b637b667d.webp)
+
+![](_assets/11/11ebdc78251b890250536a5c5976ce73.webp)
+
+![](_assets/c1/c1f14c5c096433f8b93cf1741ab901e2.webp)
+
+![](_assets/ed/ed99bfb282ff566c832471e0d73fc0c3.webp)
+
+![](_assets/c1/c1d44b94a2cb4c54b537c2be01eb5280.webp)
+
+![](_assets/f6/f666cd14e509c1981b81f67984845287.webp)
+
 
 *Этот вопрос «Новая газета» письменно адресовала руководству Министерства внутренних дел России и ГУ МВД по Краснодарскому краю. Ждем ответа*
 

@@ -17,6 +17,8 @@ tags: "закон о приземлении, spotify, apple, viber, tiktok, рк
 
 Ранее соответствующий личный кабинет [зарегистрировала](https://novayagazeta.ru/articles/2022/01/14/apple-pervoi-zavela-lichnyi-kabinet-na-saite-rkn-eto-nuzhno-dlia-prizemleniia-kompanii-news) и компания Apple. Она стала первой иностранной организацией, которая выполнила данное требование российского законодательства. Позже вслед за TikTok компания Apple также создала на своем сайте страницу для [обращений](https://getsupport.apple.com/?caller=rll&PGF=PGF63003&category_id=SC0998&symptom_id=88814&solution=EML) пользователей.
 
+![](_assets/fe/feafc457bae8d771f6d87b1fe76a2d5a.webp)
+
 *скриншот страницы для обращений на сайте Apple*
 
 В рамках закона «о приземлении» компании должны открыть филиал, представительство или учредить юрлицо, а также разместить на своих ресурсах электронную форму для обращений. Согласно данным РКН, ни Viber, ни Likee этого пока не сделали.

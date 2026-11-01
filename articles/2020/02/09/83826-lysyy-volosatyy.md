@@ -10,10 +10,28 @@ tags: "конституция, абсурд, комикс, кафка-кодек
 ---
 
 # Лысый — волосатый
+![](_assets/9a/9af29caeeb5a8ed713984cb7f4c2c1d7.webp)
+
+![](_assets/ef/efe99171f8860d99a4c53fe51ff1d1ae.webp)
+
+![](_assets/b7/b79b710d082a4c610e5e59f0748b7ee0.webp)
+
+![](_assets/94/94f269c3a41e8d56f3e0c532d4942d9c.webp)
+
+![](_assets/a3/a3da858236ddd3347c9c120d06b71eb9.webp)
+
+![](_assets/7c/7ce350bb2881e115e469642f53fc526b.webp)
+
+![](_assets/ae/ae66d500d178452387f79ada9105cfc5.webp)
+
+![](_assets/fe/fe2038fd038d6635fb795b50617605ec.webp)
+
 
 *В Конституцию готовится поправка на все времена. Комикс*
 
-*\*
+![](_assets/d8/d83987906e885ebbe43d3af5564b6023.webp)
+
+![](_assets/e9/e90a993b05c3e929ae18d7e21b035891.webp)
 
 *Комикс: Алексей Иорш для «Новой газеты»*
 
@@ -63,12 +81,12 @@ tags: "конституция, абсурд, комикс, кафка-кодек
 >
 > ### [Героическая оборона Мосгордумы: ЦИК и Скрепман побеждают оппозиционную нечисть](https://novayagazeta.ru/articles/2019/11/13/82699-geroicheskaya-oborona-mosgordumy)
 
-*\*
+![](_assets/f4/f48f63f56e8a9aaa82c2bdcd6894ee47.webp)
 
-*\*
+![](_assets/4c/4c7c6710f971f202941f41846e530430.webp)
 
-*\*
+![](_assets/e5/e5e832612ba212dfc73bcc31f48fd5a5.webp)
 
-*\*
+![](_assets/96/963e3c0300222e6abc3e3b7baf67075d.webp)
 
-*\*
+![](_assets/30/30a7e8d446f489ddf327e0fb3174acbd.webp)

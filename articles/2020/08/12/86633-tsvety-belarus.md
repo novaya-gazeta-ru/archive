@@ -13,21 +13,37 @@ tags: "фото, живая цепь, солидарность, цветы, бе
 
 *Женщины по всей республике выстраиваются в живые цепи и несут букеты в знак солидарности и скорби. Фотогалерея*
 
+![](_assets/7b/7b901fee74d6dda7bd123e4cdc2ce534.webp)
+
 *Фото: AP / ТАСС*
 
-*Фото: EPA*
+![](_assets/a3/a33be8d743ceeab22fdffbf68dbb7850.webp)
 
 *Фото: EPA*
 
+![](_assets/76/76b12451af64de6fdb9c027bcfc2f61d.webp)
+
 *Фото: EPA*
+
+![](_assets/c2/c269c2656eb9e3dcc7b61a2102f78be2.webp)
+
+*Фото: EPA*
+
+![](_assets/0f/0fde4a7d6220a3bf48c0237ca4c9a0ec.webp)
 
 *Цепь солидарности врачей в Минске. Фото: «Еврорадио»*
 
 **link:** https://novayagazeta.ru/articles/2020/08/11/86611-protesty-v-belarusi-den-tretiy-online
 
+![](_assets/65/6580ccc752340455fa23163db449cb27.webp)
+
 *Фото: РИА Новости*
 
+![](_assets/9d/9de3d2fe0a07cfd73e1f051cc13db943.webp)
+
 *Фото: EPA*
+
+![](_assets/c1/c1a9b90ccc152a4b5fb3c8e3afd1f5f0.webp)
 
 *Фото: РИА Новости*
 

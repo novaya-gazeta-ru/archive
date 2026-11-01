@@ -10,6 +10,14 @@ tags: ""
 ---
 
 # Есть такая хартия!
+![](_assets/f8/f8575e3d55249dd10ff7038f230226c4.webp)
+
+![](_assets/c4/c46a3e450eeeaad7a6f6e32c65a3a437.webp)
+
+![](_assets/10/1048daf2a8cb9cb3f675f066c2120ef4.webp)
+
+![](_assets/04/04eee77e5b00c8f3b58ecdce540c280e.webp)
+
 
 *По российскому кинематографу бродит призрак интересного предложения*
 

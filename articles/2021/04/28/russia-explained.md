@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *Mass arrests examined — Yukos battle nears end — Domestic violence*
 
+![](_assets/2c/2ccbd19440c1ad7040235b97952fae47.webp)
+
 *Photo: Alexey Dushutin / "Novaya Gazeta"*
 
 **Here what’s in store for you this week:** - We take a deep dive into the mass anti-government protests in Russia, producing both a deep data-driven analysis of crackdowns from 2012 onwards, and a look at hotbeds of Russian police brutality; - The $57 billion Yukos court drama nears its end. We explain the possible fallout from the most important legal standoff the Kremlin has ever faced; - Plus, as the government cracks down on activists fighting gendered violence, we profile a civil society collective that keeps fighting for women’s rights despite being bestowed with the “foreign agent” label. **Want to get the full story? Click the links below for full-length articles in Russian.**
@@ -23,6 +25,8 @@ The fifth wave of ++[mass protests](https://novayagazeta.ru/articles/2021/01/27/
 
 **OUR DATA INVESTIGATION SUGGESTS ARRESTS WILL ONLY GROW.** A special analysis from our data department's Daria Talanova examines ++[why the arrest figures are so high for 2021](https://novayagazeta.ru/articles/2021/04/13/repressii-individualnyi-podkhod)++. They have already reached the levels of 2020 despite only being four months into the year, and there are a wealth of factors at play besides Navalny. We have studied all court decisions under Article 20.2 of the Administrative Code (on violating the procedure for organizing or holding a rally) since 2015 and spotted a pattern of growing legal ambiguity of what constitutes these "violations." Authorities often loosely interpret the various laws laid out, finding loopholes such as declaring any protest participants "organizers" who neglected to request permission to protest or charging protesters instead for obstructing or interfering with pedestrians.
 
+![](_assets/ec/ec384e5188fe6bf2ca49230d8594da07.webp)
+
 *Photo: David Frenkel / "Mediazona"*
 
 **THE END OF AN ERA FOR SINGLE-PICKET PROTESTS.** We also believe that Russian officials have figured out how to eliminate one of the most effective forms of civil disobedience in Russia in the last decade. After the Bolotnaya protests in 2012, the Kremlin ramped up restrictions on gatherings. Single-person pickets came to be one of the only forms of protest that did not require preliminary approval from authorities and could allegedly be held spontaneously. ++[However, in practice, many single-picket protesters still got detained](https://novayagazeta.ru/articles/2020/11/13/87937-po-odnomu-ne-sobiratsya)++ (such as activist Vladimir Ionov, who was ultimately forced to leave Russia in 2015). In recent years, the authorities became especially brutal with these solo protests, including rolling out ++[additional legal restrictions](https://novayagazeta.ru/articles/2021/02/10/89147-russia-explained)++. For example, pre-Bolotnaya Article 20.2 consisted of three parts; now, there are 12. Fines increased in this period, too.
@@ -30,6 +34,8 @@ The fifth wave of ++[mass protests](https://novayagazeta.ru/articles/2021/01/27/
 **ONCE THE OPPOSITION OUTPOST, ST. PETERSBURG BECOMES HOTBED OF POLICE BRUTALITY.** Around half of all people arrested across Russia last week were detained in St. Petersburg. Our local correspondent, Tatiana Likhanova, exposes the role of one 'omnipresent' regional heavyweight, Vitaly Kosarim, and his role in perpetuating police violence. A head at one of the local riot police departments, Kosarim first turned heads for unprecedented police brutality on his watch over two years ago. Local authorities have been encouraging his 'successes' (including, financially), and now he leads one of the country's most brutal crackdowns on peaceful protesters. Shock batons are one of his most favored tools.
 
 > _"There, some of the harshest detentions took place, and from time-to-time electric shocks [from stun guns] crackled. They were also used in the metro lobby, where people were thrown onto the stone floor and beaten," Likhanova quotes one of the witnesses._
+
+![](_assets/40/407c8b1dbe2c2f3f081483c8f3994d98.webp)
 
 *Vitaly Kosarim. Photo: Alexey Dushutin / "Novaya Gazeta"*
 
@@ -48,6 +54,8 @@ It took 15 years of legal battles, but the Kremlin is about to get ordered to pa
 **ABANDON ALL HOPE, KREMLIN.** An adviser to the Dutch Supreme Court has ++[recommended that Russia’s appeal in the Yukos oil company’s case be dismissed](https://novayagazeta.ru/articles/2021/04/23/delo-o-57-milliardakh-dollarov#)++. The Kremlin brushed off the conclusion as a mere recommendation, but it looks likely that Dutch judges will follow through on the move. The Supreme Court in the Netherlands is expected to announce its final decision on September 24 this year. It seems sure to uphold the decision of the Hague Court of Appeal to pay Yukos shareholders more than $50 billion for the illegal expropriation of assets. Should the September 24 ruling be in Yukos’ favor, as anticipated, Russian assets and property held abroad could be at risk of seizure.
 
 **LET’S CALL THEFT THEFT.** Dutch judges have left little room for interpretation of what they think really happened with once the largest oil company in Russia. They found the Kremlin’s tax claims against Yukos unfounded. They established that the Russian government used the claims to declare the company bankrupt and take possession of its assets. Russia rolled out the astronomical tax claims against Yukos in 2003, which ultimately resulted in its bankruptcy and liquidation in 2007.
+
+![](_assets/47/478f5a7e6b14eb40c037ea9b8613959c.webp)
 
 *Photo: Sergey Porter / ТASS*
 
@@ -70,6 +78,8 @@ This week we check on one of the country's leading initiatives against gendered 
 **EVICTED FROM AN OFFICE.** Nasiliu recently had to move out of its office in downtown Moscow. One day the landlord just arrived accompanied by oversized men in leather jackets. He asked the activists to vacate the premises. They swiftly had to find a new office.
 
 **WHEN ACTIVISTS FOUNDED NASILIU IN 2015, FEW TALKED ABOUT RUSSIAN DOMESTIC VIOLENCE.** Local media would rarely cover stories on the issue, and there were almost zero institutions available to which victims could reach out. However, the high-profile cases of Margarita Gracheva (her husband cut off her hands), the Khachaturyan sisters (tried for killing a sexually abusive father who tortured them too), and Anastasia Eschenko (murdered by a prominent historian) shifted the country's mood, Rivina says.
+
+![](_assets/e9/e9453a439e6380776a5258756c845342.webp)
 
 *Anna Rivina. Photo: Anna Artemyeva / "Novaya Gazeta"*
 

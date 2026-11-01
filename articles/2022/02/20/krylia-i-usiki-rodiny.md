@@ -15,21 +15,21 @@ tags: ""
 
 Насекомые России готовятся противостоять расширению вражеских насекомых на восток.
 
-*\*
+![](_assets/56/565f0a7e891bbf0c4758bcbc84873136.webp)
 
-*\*
+![](_assets/7f/7f0d429c2905ec30b4b5b2c54b16fc7a.webp)
 
-*\*
+![](_assets/b5/b5fe0d324c42eabd9739d9e9d83aa253.webp)
 
-*\*
+![](_assets/03/03915adee263f1f4515b953730657fd3.webp)
 
-*\*
+![](_assets/c0/c0a1d9d61b03623032d3786ba6fc768a.webp)
 
-*\*
+![](_assets/97/972720c0b78b191a203312a0731dde78.webp)
 
-*\*
+![](_assets/ff/ffacce1ab768b9b9733b845218e48597.webp)
 
-*\*
+![](_assets/aa/aa37fd97942132633d9913f919b8910c.webp)
 
 > **От редакции**
 >

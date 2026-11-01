@@ -10,6 +10,10 @@ tags: ""
 ---
 
 # Кинг говорит!
+![](_assets/53/53e232da6004ecec109729815c6bbd2a.webp)
+
+![](_assets/d6/d675c17bcbf999a997bbebef57143957.webp)
+
 
 *Мэтры фолк-панка Flogging Molly впервые выступили в России*
 

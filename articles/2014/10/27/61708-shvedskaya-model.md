@@ -10,6 +10,18 @@ tags: ""
 ---
 
 # Шведская модель
+![](_assets/17/17b2ada5b813d3ed5ab84e652591ab3b.webp)
+
+![](_assets/bf/bfae53ce8701b525fb4ab95fae75f772.webp)
+
+![](_assets/1f/1f28148ea4159ea429f402af6d0f913b.webp)
+
+![](_assets/a7/a745366371d12d06936fdf09e8bcde24.webp)
+
+![](_assets/6a/6ae25ee0f3872c210f94afec8461a248.webp)
+
+![](_assets/59/598f87ea35b9e2a298ec321f3f46e9cf.webp)
+
 
 *Анатомия модели  о Швеции и о шведах*
 

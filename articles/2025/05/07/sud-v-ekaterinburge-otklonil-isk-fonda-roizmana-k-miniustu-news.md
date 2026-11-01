@@ -11,7 +11,7 @@ tags: "ройзман, фонд, екатеринбург, минюст, спи�
 
 # Суд в Екатеринбурге отклонил иск «Фонда Ройзмана»* к Минюсту
 
-*\*
+![](_assets/0d/0d50cc8337678a62250a9b5237c3d980.webp)
 
 Арбитражный суд Свердловской области признал законность проверки Минюста, в результате которой ликвидировали благотворительный «Фонд Ройзмана», и прекратил производство по иску организации. Об этом [сообщила](https://telegram-webapp-delta.vercel.app/?hash=VTJGc2RHVmtYMStjWk5EZEloMnNQL0c0K2J3L2xVQTNuMStqOWQydFVZVDNOWk10aGY3Q3RCZ2NXdnhmaVB6cmZ4dTBhRzdGODd6d1kxd1QzYTl0NEQwL0hSY2Y3SUh0c3VNeDFSVFF1UzRQaUpkT09YNTJHU240Zk84b0UvUWdKRnBMU1dJMTRsMVNDL0NKVzg3Z3RySFRrejhVdVU3QWlLNi9MVkJ4clpNPQ%3D%3D) изданию It’s my City глава фонда Светлана Косолапова.
 

@@ -10,6 +10,58 @@ tags: "реакция, память, интернет, мемы"
 ---
 
 # 142 — 211 из 282. Главные мемы уходящего года
+![](_assets/39/3968727fb996710d3d16852668c8e50b.webp)
+
+![](_assets/ae/aedddff36620db05d1013d543e541f8d.webp)
+
+![](_assets/5e/5e0de2e7ed2faac316d92fc99a78fe2c.webp)
+
+![](_assets/ef/efc98f0d8c696f10d39865da3a507bdd.webp)
+
+![](_assets/44/44b57a6897e8ab9896b44fd300f47682.webp)
+
+![](_assets/79/79ddd7019a86a067607238b856055096.webp)
+
+![](_assets/99/99b1bf5e8ba31f56526a7a25ce5f9297.webp)
+
+![](_assets/6a/6a4eb0d2d1b9db19e1deb9c4de6f80c6.webp)
+
+![](_assets/42/42badee24b0242ac8317a85bd840d667.webp)
+
+![](_assets/96/96eff005566ad7952b43da2969dca9c0.webp)
+
+![](_assets/59/59318a98099fe877b5946630afd18744.webp)
+
+![](_assets/aa/aa9e85eedbc2d949c95e242abc69a099.webp)
+
+![](_assets/ba/ba17da1bedcbaa76b07556cf1ad6b136.webp)
+
+![](_assets/1a/1aaf508450cb27452e93be217c36114d.webp)
+
+![](_assets/9b/9bb2f146e6ceb1426d65eca6cc4c5027.webp)
+
+![](_assets/dc/dca81a08ae3c01f753bb93026cda28e5.webp)
+
+![](_assets/b3/b3c9745950fd1b9c2fdb563c4599d033.webp)
+
+![](_assets/bb/bb860b9b10de0dbf8c321e44ef5aa74a.webp)
+
+![](_assets/d2/d2adf97c0fde383165044df7c76f52d5.webp)
+
+![](_assets/88/8892ad84af8aa9ddedc2516b9fc750f8.webp)
+
+![](_assets/4d/4d1bba83d25e98232f333a62dca8ca58.webp)
+
+![](_assets/c5/c5110d208d48393b4f7fc4fa1313cbb3.webp)
+
+![](_assets/7c/7cdf48e2f0cda56ede65cc216313e6a4.webp)
+
+![](_assets/29/299033bb75d3aa1f8a721a572e343f13.webp)
+
+![](_assets/97/97619dd18d3443781b758ad4ed682bad.webp)
+
+![](_assets/81/81d1f9931e763413d82a6298ea4cebd7.webp)
+
 
 *За некоторые из них можно даже и присесть*
 
@@ -24,9 +76,13 @@ tags: "реакция, память, интернет, мемы"
 
 # 142. Пиво в алюминиевых банках
 
+![](_assets/4e/4e56c506ba1551fd88b0d58ca8c9e08b.webp)
+
 *Фото: Петр Ковалев / ТАСС*
 
 # 143. [Путин танцует с австрийским министром](https://www.novayagazeta.ru/articles/2018/11/10/78525-rossiya-teryaet-soyuznikov)
+
+![](_assets/b5/b5b2cf0f8659f725b6cb99e14d4dd80e.webp)
 
 *Фото: РИА Новости*
 
@@ -36,6 +92,8 @@ tags: "реакция, память, интернет, мемы"
 
 # 146. [Рыбка и Лесли](https://www.novayagazeta.ru/articles/2018/02/13/75499-i-tut-vynyrnula-rybka)
 
+![](_assets/1e/1e2d887b5a8d514aa4b2f855e4cc046e.webp)
+
 *Фото: AP / ТАСС*
 
 # 147. «Как мило дремлешь ты под моей подушкой»
@@ -43,6 +101,8 @@ tags: "реакция, память, интернет, мемы"
 # 148. Ингеборга Дапкунайте на столе в Ленинке
 
 # 149. [Ты просто космос, Стас!](https://www.novayagazeta.ru/articles/2018/12/04/78803-motat-na-oba-usa)
+
+![](_assets/34/346afd2f02eba965eb10e3c531d8aad9.webp)
 
 *Фото: Рамиль Ситдиков / РИА Новости*
 
@@ -64,13 +124,17 @@ tags: "реакция, память, интернет, мемы"
 
 # 158. [Бессрочный протест](https://www.novayagazeta.ru/articles/2018/10/07/78105-protestovat-eto-normalno)
 
-*Фото: Светлана Виданова / «Новая газета»*
+![](_assets/4a/4aae929a02ae42c18fec61bc1ee121e2.webp)
+
+*Фото: Светлана Виданова / «Новая газета»*
 
 # 159. Мем «Захарова и Медведь»
 
 # 160. [25 суток Пономареву](https://www.novayagazeta.ru/articles/2018/12/23/79032-my-s-alekseevoy-vazhnuyu-vesch-zamutili)
 
-*Фото: Влад Докшин / «Новая газета»*
+![](_assets/a2/a242f138893da60cb67b44ca418fb297.webp)
+
+*Фото: Влад Докшин / «Новая газета»*
 
 # 161. «ТамТам»
 
@@ -80,6 +144,8 @@ tags: "реакция, память, интернет, мемы"
 
 # 164. [22 миллиона рублей штрафа](https://www.novayagazeta.ru/articles/2018/11/13/78569-podpischiki-stali-sprashivat-a-nelzya-li-prinosit-zhurnal-v-zakrytyh-paketah)
 
+![](_assets/da/dae3f7d98cc6ed0fdc303ec34e7b425c.webp)
+
 *Главный редактор журнала The New Times Евгения Альбац. Фото: Алексей Куденко / РИА Новости*
 
 # 165. Монеточка на «Поле чудес»
@@ -87,6 +153,8 @@ tags: "реакция, память, интернет, мемы"
 # 166. «Вскрывать ватку»
 
 # 167. Бизнес-ассистентки близняшки на год
+
+![](_assets/39/39066f91f4ca9e5fc0ab0ebb5ee0db16.webp)
 
 *Фото: Twitter*
 
@@ -98,11 +166,15 @@ tags: "реакция, память, интернет, мемы"
 
 # 171. [Дырка в «Союзе»](https://www.novayagazeta.ru/articles/2018/09/13/77812-kto-to-yavno-profneprigoden)
 
+![](_assets/a1/a105198375fd5362c0b3118e61d3f6ea.webp)
+
 *Генеральный директор ГК "Роскосмос" Дмитрий Рогозин (справа) и глава NASA Джим Брайденстайн во время встречи на космодроме "Байконур" перед стартом экипажа МКС-57/58. Фото: РИА Новости*
 
 # 172. [«Врач-убийца Мимимишкин»](https://www.novayagazeta.ru/articles/2018/10/10/78142-est-fotografiya-na-kotoroy-putin-vruchaet-sashe-orden-i-zhmet-ruku)
 
 # 173. [Нога Акинфеева на купюре](https://www.novayagazeta.ru/articles/2018/10/03/78039-igor-pervyy)
+
+![](_assets/13/13489505df085cc3030747998071b0c0.webp)
 
 *Фото: РИА Новости*
 
@@ -112,7 +184,9 @@ tags: "реакция, память, интернет, мемы"
 
 # 176. [Заключенный Макаров](https://www.novayagazeta.ru/articles/2018/10/02/78035-raspyatyy-zek-svoboden)
 
-*Фото: Сергей Петров / Специально для «Новой»*
+![](_assets/06/065d01c703d4534648ce5e20dabc7b11.webp)
+
+*Фото: Сергей Петров / Специально для «Новой»*
 
 # 177. «Нужно делать, как нужно»
 
@@ -126,17 +200,23 @@ tags: "реакция, память, интернет, мемы"
 
 # 182. Британский подданый Sergey Brilev
 
+![](_assets/f6/f68f31a7e6210fdc7752ba1f9f20091f.webp)
+
 *Фото: РИА Новости*
 
 # 183. «Обычная маршрутка в Казахстане»
 
 # 184. [«Североамериканский тупик»](https://www.novayagazeta.ru/articles/2018/01/11/75111-nemtsov-plaza-vmesto-nemtsova-mosta)
 
+![](_assets/06/06d5660e1468e678a57a1c030807b2a8.webp)
+
 *Посольство США в Москве. Фото: РИА Новости*
 
 # 185. [Кокорин и Мамаев](https://www.novayagazeta.ru/articles/2018/10/19/78263-ostalis-sidet-na-skamie)
 
 # 186. [Колумбайн](https://www.novayagazeta.ru/articles/2018/10/20/78277-paren-prosto-ne-znal-chto-delat-po-zhizni)
+
+![](_assets/0f/0fabb15aeb6240e914793c48893676ef.webp)
 
 *Фото: Екатерина Кейзо / ТАСС*
 
@@ -146,11 +226,15 @@ tags: "реакция, память, интернет, мемы"
 
 # 189. [Дело врача Мисюриной](https://www.novayagazeta.ru/articles/2018/02/06/75408-zaranee-otblagodarit)
 
+![](_assets/9f/9f1ccfc01b0b9d3f3eab0a682c05646c.webp)
+
 *Елена Мисюрина. Фото: РИА Новости*
 
 # [190. «В головы твоих детей будут заворачивать шурупы»](https://www.novayagazeta.ru/articles/2018/10/13/78188-cherez-genprokurora-budem-s-toboy-razbiratsya)
 
-*Фото: Влад Докшин / «Новая газета»*
+![](_assets/a0/a02e96540d9b743bf41416e372281c2f.webp)
+
+*Фото: Влад Докшин / «Новая газета»*
 
 # 191. [Ракеты летят на Флориду](https://www.novayagazeta.ru/articles/2018/03/02/75679-nas-nikto-ne-slushal-poslushayte-teper)
 
@@ -160,9 +244,13 @@ tags: "реакция, память, интернет, мемы"
 
 # 194. [Док утонул](https://www.novayagazeta.ru/articles/2018/12/06/78835-zaleg-na-dno)
 
+![](_assets/fe/fe29da782c94223c104cc98d071d02f4.webp)
+
 *Фото: Инна Краева / РИА Новости*
 
 # 195. [«Декриминализация домашнего насилия — ошибка»](https://www.novayagazeta.ru/articles/2017/02/03/71397-otets-bil-menya-dnem-nochyu-doma-na-lestnichnoy-kletke)
+
+![](_assets/54/54d96eb57ca491d6c572cab8accd60e1.webp)
 
 *Маргарита Грачева после операции. Фото из личного архива / ВКонтакте*
 
@@ -173,6 +261,8 @@ tags: "реакция, память, интернет, мемы"
 # 198. Скажи на своем языке
 
 # 199. [Егор Крид не поехал в Дагестан](https://www.novayagazeta.ru/articles/2018/09/11/77789-gran-perecherknuta-slov-nazad-ne-vernut-vse-budet-tak-kak-budet)
+
+![](_assets/18/18a747a59cd9284bcfb432b9dad488a2.webp)
 
 *Фото: РИА Новости*
 
@@ -188,9 +278,13 @@ tags: "реакция, память, интернет, мемы"
 
 # 205. «Непонятно, куда исчезло слово «разведывательное»
 
+![](_assets/2d/2d313b1547d74234725467f70318dd80.webp)
+
 *Фото: РИА Новости*
 
 # 206. [Кафе «Сепар»](https://www.novayagazeta.ru/articles/2018/09/02/77684-nenasytnye)
+
+![](_assets/21/21faae2b12a434e0de9041f0b629e780.webp)
 
 *Фото: РИА Новости*
 
@@ -198,17 +292,23 @@ tags: "реакция, память, интернет, мемы"
 
 # 208. «Мне не нравится эта агрессия»
 
+![](_assets/29/293fc0562382c84e1df03dba228337fa.webp)
+
 *Фото: РИА Новости*
 
 # 209. Розовая футболка Толоконниковой
 
 # 210. Мытищинские бобры
 
-*Фото: Светлана Виданова, специально для «Новой»*
+![](_assets/19/19d8a7293ef13fc2c91500dc7ee9ab4f.webp)
+
+*Фото: Светлана Виданова, специально для «Новой»*
 
 # 211. [Дело «Сети»](https://www.novayagazeta.ru/articles/2018/12/19/78980-tok-v-dele-seti-zamknulo-na-fsb)
 
-*Фото: Павел Волков, специально для «Новой»*
+![](_assets/e5/e562c0f8cce5066b16cd3a1cdb70adaf.webp)
+
+*Фото: Павел Волков, специально для «Новой»*
 
 Авторы-составители:**Вячеслав Половинко, Елизавета Кирпанова, Алексей Комаров, Юлия Красникова, Анна Жаворонкова**
 

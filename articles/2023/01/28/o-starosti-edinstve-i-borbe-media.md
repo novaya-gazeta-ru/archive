@@ -13,7 +13,7 @@ tags: "музыка, новая музыка, iggy pop, belle and sebastian, nin
 
 *Представляем новые музыкальные альбомы 2023 года*
 
-*\*
+![](_assets/f9/f948b6302b1eb51c93486fe746ba5f45.webp)
 
 > **Iggy Pop**
 >
@@ -31,7 +31,7 @@ tags: "музыка, новая музыка, iggy pop, belle and sebastian, nin
 
 **Читайте также:** https://novaya.media/articles/2023/01/10/neizvestnyi-genii-skott-uoker
 
-*\*
+![](_assets/17/17fa6f2d25da32a60ab0b10851af4877.webp)
 
 > **НОМ**
 >
@@ -53,7 +53,7 @@ tags: "музыка, новая музыка, iggy pop, belle and sebastian, nin
 >  — «Эмигрант сонг»\
 >  — «2700»*
 
-*\*
+![](_assets/ff/ffe3500f62834e85905d7d4cb9c4858a.webp)
 
 > **Belle And Sebastian**
 >
@@ -73,7 +73,7 @@ tags: "музыка, новая музыка, iggy pop, belle and sebastian, nin
 
 **Читайте также:** https://novaya.media/articles/2022/11/29/nichego-bolshe-net-feministki-i-melankholiia
 
-*\*
+![](_assets/e3/e397d989bc9a3b91ec3efd64b9952c46.webp)
 
 > **Nina Hagen**
 >
@@ -91,7 +91,7 @@ tags: "музыка, новая музыка, iggy pop, belle and sebastian, nin
 >  — 16 Tons\
 >  — Die Antwort weiss ganz allein der Wind*
 
-*\*
+![](_assets/9b/9bfb71ab0854c912df43100a3ec536c4.webp)
 
 > **Ladytron**
 >
@@ -107,7 +107,7 @@ tags: "музыка, новая музыка, iggy pop, belle and sebastian, nin
 >  — Faces\
 >  — The Dreamers*
 
-*\*
+![](_assets/be/bee1e9677459fad9132e4e229b8ee6d5.webp)
 
 > **Ryuichi Sakamoto**
 >

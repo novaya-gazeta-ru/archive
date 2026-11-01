@@ -10,6 +10,20 @@ tags: "наука"
 ---
 
 # Постнаука. Выпуск #4
+![](_assets/af/af93980cf7527be67b1edd4fa07de09d.webp)
+
+![](_assets/2f/2f9e69bc309a888f179ac0a438d1b5f3.webp)
+
+![](_assets/5b/5bea4711f9db43e5e223bb8a00b5635c.webp)
+
+![](_assets/34/34c0c5f9e87743eddec8fc700d0504e1.webp)
+
+![](_assets/2b/2b1f677e349ebc089e9126dd45396a6a.webp)
+
+![](_assets/f3/f3e7b802fe8f150460df8d88e4418069.webp)
+
+![](_assets/9a/9a21c5db97945b2d56d94e79fc27225c.webp)
+
 
 *[media: <h2>
 		<span style="color:#b22222;">Нобелевская премия-2012: кому и за что. Медицина, физика, химия</span></h2>]*

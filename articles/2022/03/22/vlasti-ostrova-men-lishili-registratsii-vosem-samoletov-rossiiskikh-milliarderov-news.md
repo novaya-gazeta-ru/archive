@@ -13,6 +13,8 @@ tags: "мэн, санкции, олигархи, самолеты, kn"
 
 Власти острова Мэн сняли с учета восемь самолетов и вертолетов, предположительно принадлежащих российским миллиардерам, после начала боевых действий на территории Украины. Об этом [сообщает](https://www.forbes.ru/milliardery/459431-vlasti-ostrova-men-snali-s-uceta-vosem-samoletov-rossijskih-milliarderov?utm_source=telegram&utm_medium=social&utm_campaign=samolety-po-menshej-) Forbes.
 
+![](_assets/03/03951783b1c130628d9093071416eb60.webp)
+
 *Airbus A340 «Бурхан» Алишера Усманова. Фото: Creative Commons*
 
 За неделю с 3 по 10 марта, согласно [данным](https://ardis.iomaircraftregistry.com/) авиационного реестра острова Мэн, с учета были сняты самолеты миллиардеров, попавших под санкции, — Алишера Усманова (Airbus A340), Алексея Мордашова (Bombardier BD-700 Global Express), Аркадия и Бориса Ротенбергов (два самолета Bombardier BD-700 Global Express) и Дмитрия Мазепина (Gulfstream G650).

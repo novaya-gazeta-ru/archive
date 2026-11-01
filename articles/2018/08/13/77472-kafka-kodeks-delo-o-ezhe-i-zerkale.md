@@ -10,10 +10,28 @@ tags: "комикс"
 ---
 
 # «Кафка-кодекс»: Дело о Еже и Зеркале
+![](_assets/b3/b36c523108a7587ca98f460e4a6e5b83.webp)
+
+![](_assets/63/63ed5f85a2c5acf8bd63922accfa4546.webp)
+
+![](_assets/65/654d3bba6f6dea90e23cf45f583f3798.webp)
+
+![](_assets/36/3652f43518d733c2a2044c8cbb8be4e9.webp)
+
+![](_assets/5a/5a1b62635509a5a02f00ed9f5d9c3b98.webp)
+
+![](_assets/29/294b2623ecf7a9a87435d06a6696c27c.webp)
+
+![](_assets/8d/8d6bb08484cb7ae559fbf2aeb8636af7.webp)
+
+![](_assets/5e/5e9271ce90aecdccf1a2fed077689f09.webp)
+
 
 *Реальные судебные истории — в комиксах. Премьера рубрики*
 
 **link:** https://novayagazeta.ru/articles/2018/08/13/77482-chto-takoe-kafka-kodeks
+
+![](_assets/77/7738098d95176932f8b45245d8c02828.webp)
 
 *Комикс: Алексей Иорш, специально для «Новой газеты»*
 

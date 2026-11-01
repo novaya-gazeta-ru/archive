@@ -10,6 +10,8 @@ tags: "russia; explained"
 ---
 
 # Russia, Explained #43
+![](_assets/db/db3daa0d67d9ed2f183dac37c6af89f0.webp)
+
 
 *Journalist charged — Far east uprising — Kremlin’s secret in Libya*
 
@@ -27,6 +29,8 @@ Independent journalism has always faced barriers in Russia. But the detention of
 
 **WHO’S SAFRONOV.**Formerly a correspondent for the country’s leading dailies Kommersant and Vedomosti, Safronov covered the military beat. He tackled sensitive issues, his stories, including the deaths of Russian officers in Syria and a contract to deliver a Russian fighter craft to Egypt. After the latter article, the US threatened Egypt with sanctions, and authorities opened a case against Safronov. Investigators are now claiming that he transferred secret information to the Czech special services.
 
+![](_assets/6e/6e1fb2ba2a7f77872f716de09f704267.webp)
+
 *Ivan Safronov. Photo: Facebook*
 
 **HIDING BEHIND ‘CLASSIFIED’ LABEL.** The Kremlin insists that Safronov’s detention is not related to his journalistic activities. But authorities refuse to share any further details. It is a calculated move, thinks our columnist Yulia Latynina. Apparently, Safronov provided secret information via a secret method to a secret person in a secret place - none of which can be discussed. Latynina argues that in this way, society will have nothing to object to.
@@ -34,6 +38,8 @@ Independent journalism has always faced barriers in Russia. But the detention of
 **WHY NOW?**Following a ‘dirty’ vote on prolonging Putin’s rule, the authorities feel encouraged to ramp up repression against any opposition forces while further empowering the security-military establishment surrounding Putin. Experts believe this incident is part of the Kremlin’s intensifying crackdown on journalists and media organizations.
 
 **NOT ISOLATED CASE.**The home of Pyotr Verzilov, the publisher of independent outlet Mediazona (founded by punk rock activist group Pussy Riot), has been searched several times in recent months, with the journalist arrested last week. Last month he was also sentenced to 15 days in jail on “hooliganism” charges. This month, journalist Svetlana Prokopyeva was fined some $7000 after being convicted on “bogus terrorism charges.”
+
+![](_assets/38/386b2a4e35b1f303d3127137df57ba0b.webp)
 
 *Illustration by Petr Sarukhanov*
 
@@ -51,6 +57,8 @@ Khabarovsk is the largest city of Russia's far east, and it hasn't seen protests
 
 **THORN IN THE KREMLIN'S SIDE.**In 2018, Frugal of the Liberal Democratic Party (a semi-opposition party tolerated by the Kremlin) managed to overcome the Kremlin's tight control over local elections and secured a landslide victory in the gubernatorial election with some 70% of the vote against ruling United Russia's candidate. Since then, he's cut unnecessary expenses for officials, reduced his own salary, and earned himself the nickname of the "people's governor" from Khabarovsk residents.
 
+![](_assets/11/1158bde6b37073c36c7900a086672634.webp)
+
 *Sergey Furgal. Photo: RIA Novosti*
 
 **FREE FURGAL.**Locals believe Furgal is innocent. A petition in support of the governor gained more than 50,000 signatories. An estimated 30,000 locals took part in the biggest rally of the city's recent history over the weekend, calling on authorities to free Furgal.
@@ -60,6 +68,8 @@ Khabarovsk is the largest city of Russia's far east, and it hasn't seen protests
 **THIS IS A STANDOUT CASE.**Most cases of prosecuted regional leaders revolve around abuse of authority, budget misappropriation, bribery, forgery, and other kinds of misconduct. Murder accusations are rare. Over the past 20 years, such charges have only been brought against only one other mayor. The charges might be politically motivated.
 
 > *"They tried to dig up dirt on him from the moment he was elected - during this time, several searches were conducted, and friends and business partners were detained. It seems they didn't find anything, so they tried to tie him to events from 16 years ago,"* said political scientist Aleksandr Kynev.
+
+![](_assets/e7/e745425482b030602c7d86f5f24fe94f.webp)
 
 *Illustration by Petr Sarukhanov*
 
@@ -76,6 +86,8 @@ Russia’s Expansion in Libya, Continued
 A recent shift in the power dynamic of Libya'sproxy warsaw the Kremlin-backed general Khalifa Haftar pull back forces from the frontline. It reportedly included hundreds of Russian mercenaries. Despite the recent blow, Russia has continued pouring resources into Haftar's offensive against the UN and Turkey-backed Government of National Accord. This week we examine Russia's overlooked equipment in the oil-rich country.
 
 **MORE RUSSIAN MACHINERY FOUND IN LIBYA.**While observers abroad were preoccupied with anti-aircraft machinery, more modest military equipment has also been making its way into Libya, writes our investigative correspondent Denis Korotkov. This observation comes amid recently published photographs of anti-mine armored trucks in Turkish media, which we learned are Russian-made.
+
+![](_assets/60/601e92d40b18c37ee81e3c9224fd3e03.webp)
 
 *Russian "Ural" in the city of Bani Khalid*
 
@@ -98,6 +110,8 @@ Before a pro-democracy uprising ousted Viktor Yanukovych in 2014, Ukraine's pres
 **TRACKING CORRUPT BONDS.**According to the Financial Times, before the bond purchase, members of Yanukovych's government, first Vice-Premier Serhiy Arbuzov and Finance Minister Yuriy Kolobov visited San Mateo in California, the investment group's headquarters. Lebedev believes that the officials could have discussed laundering stolen money to purchase the bonds on the cheap.
 
 **RACKET IS ALIVE AND WELL.**If Lebedev is right, Ukraine keeps repaying a $7 billion debt in the Yanukovych's money-laundering scheme. The assumption was recently echoed by Ukrainian ex-prosecutor Konstantin Kulik, who stated that Ukraine was currently using IMF money to pay out Yanukovych's circle.
+
+![](_assets/84/84da20a6319242270d3b400f31ec40bb.webp)
 
 *Viktor Yanukovych. Photo: EPA-EFE*
 

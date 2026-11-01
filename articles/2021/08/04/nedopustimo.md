@@ -13,11 +13,11 @@ tags: "кандидаты, выборы, муниципальные депута
 
 *За месяц до выборов в России сняли по надуманным причинам более 30 кандидатов в депутаты. Инфографика*
 
-*\*
+![](_assets/4e/4e93120d1a753410f6d37fe61c88230e.webp)
 
-*\*
+![](_assets/2d/2dbfa9fe2341c4e9193fdb4ecf0fdb77.webp)
 
-*\*
+![](_assets/10/10bed6ac5f59cb95707713440bc5752c.webp)
 
 **Читайте также:** https://novayagazeta.ru/articles/2021/08/06/nepravilnye-stepler-i-parlament
 

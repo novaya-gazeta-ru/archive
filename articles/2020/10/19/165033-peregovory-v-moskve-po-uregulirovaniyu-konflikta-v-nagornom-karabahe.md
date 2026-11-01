@@ -17,6 +17,8 @@ tags: "em, переговоры, нагорный карабах, азербай
 
 Алиев в свою очередь тоже [сообщил](https://tass.ru/interviews/9755773) агентству, что готов к переговорам по урегулированию конфликта. «Мы всегда готовы встретиться и в Москве, и в любом другом месте, для того чтобы положить конец противостоянию и найти пути урегулирования. Мы тоже хотим мира, но в отличие от Армении мы также хотим территорий, которые по праву нам принадлежат», — заявил он.
 
+![](_assets/ba/bae290c6fccfca5127dafb04a4dd9df4.webp)
+
 *Карта: «Новая газета»*
 
 Переговоры в Москве между главами МИД Армении и Азербайджана прошли 10 октября. После них, с 12:00 по местному времени 11 октября (11:00 мск), [было объявлено](https://novayagazeta.ru/news/2020/10/10/164789-karabah) перемирие, однако стороны [обвиняли](https://novayagazeta.ru/news/2020/10/10/164833-armeniya-i-azerbaydzhan-obvinili-drug-druga-v-narushenii-rezhima-prekrascheniya-ognya-v-nagornom-karabahe-on-vstupil-v-silu-chas-nazad) друг друга в его нарушении. Второе перемирие [вступило в силу](https://novayagazeta.ru/news/2020/10/17/164997-armeniya-i-azerbaydzhan-dogovorilis-o-gumanitarnom-peremirii-v-nagornom-karabahe) с 00:00 18 октября (23:00 17 октября мск), однако стороны после этого тоже [обвинили](https://novayagazeta.ru/news/2020/10/18/164998-armeniya-i-azerbaydzhan-obvinili-drug-druga-v-narushenii-novogo-peremiriya-v-nagornom-karabahe) друг друга в обстрелах.

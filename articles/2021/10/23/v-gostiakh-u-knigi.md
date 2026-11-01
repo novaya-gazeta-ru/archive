@@ -15,31 +15,31 @@ tags: "физраствор, литература, книги"
 
 Краткий путеводитель по русской литературе для тех, кто нуждается в скрепах в период нестабильности и самоизоляции. Вся классика в нескольких иллюстрациях.
 
-*\*
+![](_assets/91/912f3cb63f514738b8721325a1cf8ee2.webp)
 
-*\*
+![](_assets/e3/e3c7e521257960b610aa369c79f643ce.webp)
 
-*\*
+![](_assets/b8/b89e1832823cfe5531c09aa9290bbdbe.webp)
 
-*\*
+![](_assets/7f/7f6b05b7b167a5e3494df845ac5ec4d4.webp)
 
-*\*
+![](_assets/38/387295b7b9c066a2f749aff4f1d28c25.webp)
 
-*\*
+![](_assets/4c/4cd7cdbc831727a7dbf82c308272d0c3.webp)
 
-*\*
+![](_assets/31/319b2b02724ff4ad0df14e264b69525d.webp)
 
-*\*
+![](_assets/93/932b97058adb0656d493a265bf44e2ad.webp)
 
-*\*
+![](_assets/39/3986e947ec35d4428b610175bbc35f95.webp)
 
-*\*
+![](_assets/62/62c8388629c7ccc1a3ac1623f62c3529.webp)
 
-*\*
+![](_assets/d0/d088ab1568611483e563ecb5777cd2ee.webp)
 
-*\*
+![](_assets/7d/7d07e45f98a7ddcc3061f61f003a5c27.webp)
 
-*\*
+![](_assets/6d/6d1ae9f34a0ce511898f34d1d26a9f28.webp)
 
 > **от редакции**
 >

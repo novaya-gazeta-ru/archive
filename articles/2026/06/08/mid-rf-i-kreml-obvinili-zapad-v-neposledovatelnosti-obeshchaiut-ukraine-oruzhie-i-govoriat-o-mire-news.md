@@ -25,6 +25,8 @@ tags: ""
 
 Отдельно Зеленский добавил, что Украина разрабатывает свою баллистику.
 
+![](_assets/ab/ab0dcbc10638907d52a6e540b829f425.webp)
+
 *Встреча стран-лидеров «Коалиции желающих» и Владимира Зеленского в Лондоне. Фото: Елисейский дворец*
 
 Ранее в своем открытом письме Путину Зеленский [предложил Путину личную встречу](https://novayagazeta.ru/articles/2026/06/04/zelenskii-predlozhil-putinu-obmen-plennymi-vsekh-na-vsekh-i-lichnuiu-vstrechu-dlia-mirnykh-peregovorov-putin-vyskazalsia-po-teme-ukrainy-i-peregovoram-pered-inostrannymi-zhurnalistami-na-pmef-news) и обмен пленными «всех на всех», а также режим прекращение огня как лучшие условия для обсуждения прекращения боевых действий.

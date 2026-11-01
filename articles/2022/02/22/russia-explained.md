@@ -38,6 +38,8 @@ We keep following closely the developments both in Russia and in Donbas as Russi
 
 On February 15, Moscow’s Lefortovo Court of Moscow tried Alexei Navalny for allegedly embezzling donations from his Anti-Corruption Foundation. The 100 journalists allowed to cover the trial were given the choice between two less than great options: Either follow the proceedings from a separate building via a video broadcast with poor sound, or go to the main courtroom — without phones or equipment. Our correspondent Alina Danilina chose the latter option. In an unprecedented move, the trial was held in the same penal colony in the Vladimir region where he is serving his sentence for the Yves Rocher case. He faces up to 10 additional years in prison if found guilty.
 
+![](_assets/da/da92821b97657b279851a7d25143fc5c.webp)
+
 *Alexey Navalny during the trial*
 
 **SETTING THE SCENE. **The “courtroom” was actually the recreational hall in the colony where prisoners are taken to watch movies. The trial began 45 minutes late. At the start, only Navalny’s wife Yulia was present, but several journalists arrived later. The sound system was poor and they struggled to hear what was said. Navalny’s defence lawyers appealed to the judge to allow the journalists to use recording equipment given the large volume of evidence that would be presented. Unsurprisingly, the request was denied.
@@ -74,6 +76,8 @@ Svetlana Ushmodina transcribed Navalny’s opening speech. We share his most pow
 
 “Brigade K” is a division of the FSB’s economic security arm. Four men — Kirill Cherkalin, Andrei Vasiliyev, Dmitry Frolov, and another who cannot be named for legal reasons — were dismissed from “K” between 2013-2019 and later arrested on corruption charges. Special correspondent Irek Murtazin untangles their shady dealings and shows the connection of the three men to the [unjust arrest of journalist Ivan Golunov](https://novayagazeta.ru/articles/2020/01/08/83371-russia-explained-16-by-novaya-gazeta) in June 2019.
 
+![](_assets/73/73b8c8cca5faa7cf0e59e3af2254437a.webp)
+
 *Left to right: Kirill Cherkalin, pixeled person, Dmitry Frolov and Andrew Vasiliev*
 
 **THE CRIME.** Cherkalin, Vasiliyev, and Frolov were charged with misleading businessman Sergei Glyadelkin and his cousin Igor Tkach, then a senior Moscow City Hall official. They were alleged to have taken over the property of Ecostok LLC — the company owned by Glyadelkin and Tkach — thus causing the brothers to lose more than $4 million. The opportunity arose in 2011 when Glyadelkin was a key witness in a criminal case against Moscow Vice Mayor Alexander Ryabinin, who he accused of extortion. After Glyadelkin claimed that he feared for his life, the FSB put him under constant guard until summer 2012. The three named officers managed to meet with the businessman without their colleague’s knowledge, eventually persuading Glyadelkin and his brother to make an extremely unprofitable deal.
@@ -95,6 +99,8 @@ Svetlana Ushmodina transcribed Navalny’s opening speech. We share his most pow
 # Medinsky’s Quest to Rewrite History, Explained
 
 In 2012, President Putin signed a decree establishing the Russian Military Historical Society (RVIO). The half public, half State-owned organisation was the brainchild of Culture Minister Vladimir Medinsky. Less than two years earlier, he had defended a PhD thesis arguing for just such an organisation. The RVIO’s propagandistic mission is not its only questionable element, as Olesya Pavlenko’s investigation into the organisation’s finances reveals.
+
+![](_assets/89/89fc0e026a5038053d5f81e5da67a102.webp)
 
 *Vladimir Medinsky. Photo by Vyacheslav Prokofjev / TASS*
 

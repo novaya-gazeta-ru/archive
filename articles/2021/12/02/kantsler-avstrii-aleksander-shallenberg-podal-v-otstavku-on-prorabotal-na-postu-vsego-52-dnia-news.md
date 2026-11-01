@@ -13,6 +13,8 @@ tags: "австрия, канцлер, шалленберг, отставка, k
 
 Федеральный канлцер Австрии Александер Шалленберг подал в отставку спустя 52 дня после того, как он сменил на этом посту Себастьяна Курца. Об этом [сообщает](https://kurier.at/politik/inland/live-ticker-sebastian-kurz-ruecktritt-nehammer-bluemel/401827084) Kurier.
 
+![](_assets/e8/e84d172a618c9655d86da1a2c3a70b8b.webp)
+
 *Александер Шалленберг. Фото: Creative commons*
 
 Однопартиец Шалленберга по Австрийской народной партии (АНП) Курц[ушел](https://novayagazeta.ru/articles/2021/10/09/kantsler-avstrii-sebastian-kurts-ushel-v-otstavku-na-fone-korruptsionnogo-skandala-novym-kantslerom-stanet-glava-mid-shallenberg-news) в отставку 9 октября после коррупционного скандала, связанного с манипулированием общественным мнением.

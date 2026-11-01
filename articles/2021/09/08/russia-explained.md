@@ -33,6 +33,8 @@ Late last week, Novaya Gazeta procured a secret recording from a meeting in Koro
 
 **OFFICIAL RESPONSE. **On September 2, the recording and the official request of the editorial staff were sent to the Central Election Commission. We received a response on September 3. The Central Election Commission (CEC) announced that it sent a rapid response team to study the audio recording with "briefing" on election fraud in Korolev outside Moscow after the publication of Novaya Gazeta . This was reported in the commission's telegram channel.
 
+![](_assets/bc/bc34dfefac48db5c1172d392de34167d.webp)
+
 *Petr Sarukhanov / "Novaya Gazeta"*
 
 > “We believe that if the information is confirmed, then the inevitability of punishment of those guilty, including criminal liability, should be ensured, especially if it is qualified as a group conspiracy,” they said.
@@ -50,6 +52,8 @@ Late last week, Novaya Gazeta procured a secret recording from a meeting in Koro
 Novaya’s data investigations team has sifted through two thousand OSCE reports from war-torn eastern Ukraine over the past seven years. The region has since been through twenty failed ceasefires. Our data suggests that flare-ups have changed in nature depending on the stage of the conflict. Violent eruptions seem to closely correspond with Kremlin campaigns to exert political pressure on Ukraine, and indicate a direct correlation between ceasefire violations and Russian political and information warfare.
 
 **SPRING 2021 — BIGGEST FLARE UP FOR YEARS. **In the spring of 2021, another flare-up took place in Donbas. Interest in the conflict also grew to the highest it’s been in four years, according to Google Trends. The OSCE recorded about 200 violations weekly, and since the beginning of 2021, more than a thousand. However, the number of violations in the spring did not even come close to January-February 2017 levels, when active battles were fought in Donbas for the last time.
+
+![](_assets/94/9474a26c435d997f5905ee4ad3117433.webp)
 
 *Photo: EPA*
 
@@ -72,6 +76,8 @@ Russian schools have little or no understanding of how to deal with the children
 **LEARNING IN NON-NATIVE LANGUAGE.** “In schools in the Moscow region, for example, there are classes that are almost fully populated with children for whom Russian is not their native tongue,” Lukyanova notes. “If the language of instruction is not native for most of the students in the classroom, they learn poorly and adapt badly to school and society.” Sometimes these children have an incredibly diverse variety of socioeconomic and cultural backgrounds.
 
 > “Refugees from Afghanistan, to British expats, or Russian citizens from Chechnya and Dagestan to North Korean embassy employees. What they have in common is that the language of instruction is not native — and that our education system does not really know what to do with them.”
+
+![](_assets/73/73788d6d350bc6643bd7acecf20c9a63.webp)
 
 *Photo: Victoria Odissonova / "Novaya Gazeta"*
 
@@ -102,6 +108,8 @@ The latest outfit to fall victim to new legislation is the TV channel ‘Dozhd�
 3. The Ministry of Justice must determine in whose interests the media “foreign agent” is operating, to prove … “political activity”, as well as the connection between the availability of foreign funding and “political activity” in the interests of a particular government or organization.
 
 The move to chip away at Dozhd resulted in an outcry from several international organizations, including Amnesty International which said, “these latest designations further prove that the Kremlin is unleashing its repressive ‘foreign agents’ law against independent media and decimating unbiased reporting and investigative journalism in the country.” Read all about it, [here](https://novayagazeta.ru/articles/2021/09/01/12-popravok-v-zakony-ob-inoagentakh).
+
+![](_assets/8f/8fa3d29d39f4e5f3fb794e0bf18abde7.webp)
 
 *Photo: Reuters*
 

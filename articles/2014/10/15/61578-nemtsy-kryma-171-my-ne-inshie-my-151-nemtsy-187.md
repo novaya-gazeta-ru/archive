@@ -10,8 +10,38 @@ tags: ""
 ---
 
 # Немцы Крыма: «Мы не иншие*, мы  немцы!»
+![](_assets/99/99d709241e00631a6aa26a681ec09c29.webp)
 
-**Укр. — «другие»*
+![](_assets/26/269b2eb51410343e6e3b7864eafbbe1e.webp)
+
+![](_assets/f9/f9da52733485239710e8610a6338fa35.webp)
+
+![](_assets/17/1703afd3e7ec0b088f5d451641599b87.webp)
+
+![](_assets/66/66b6553ac6e5dfb1aa95fd8cf892a468.webp)
+
+![](_assets/e9/e90c4026bee8f7f75fdfa515d194fb33.webp)
+
+![](_assets/84/84d843307fac57163707cb686fd44988.webp)
+
+![](_assets/85/8545a07c077cb1b78615cff81afb9fed.webp)
+
+![](_assets/e4/e4a9c97a2fe09dd33cf285684543d68f.webp)
+
+![](_assets/c9/c9930587e9d5297eddeaba553f75774f.webp)
+
+![](_assets/b5/b540b7167638b48ffdbabfa3f597d579.webp)
+
+![](_assets/7a/7a209daf758ad12e0950135d74f525ea.webp)
+
+![](_assets/90/90ee3f59cb1291193849133e2e9ec2ff.webp)
+
+![](_assets/e3/e3c5adc0e917976964fc2c5a753e655a.webp)
+
+![](_assets/e7/e7bedf17c2766209d4d0bd90824b67c0.webp)
+
+
+*Укр. — «другие»*
 
 # Из стенограммы встречи президента с Советом по развитию гражданского общества и правам человека 14 октября 2014 года
 

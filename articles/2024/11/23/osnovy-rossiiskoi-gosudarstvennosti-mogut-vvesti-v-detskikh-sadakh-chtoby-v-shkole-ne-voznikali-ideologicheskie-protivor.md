@@ -11,6 +11,8 @@ tags: ""
 
 # «Основы российской государственности» могут ввести в детских садах, чтобы в школе не возникали «идеологические противоречия»
 
+![](_assets/2b/2bc6abcc4b6fac89a6125486cde7f144.webp)
+
 *Занятие в детском саду. Фото из открытых источников*
 
 Об этом [пишет](https://www.pnp.ru/social/osnovy-rossiyskoy-gosudarstvennosti-planiruyut-izuchat-s-detskogo-sada.html) «Парламентская газета».

@@ -10,6 +10,26 @@ tags: "россия, книги"
 ---
 
 # Год русской истории
+![](_assets/51/518064099d68d0258a1799aac8b61d9f.webp)
+
+![](_assets/c4/c45304628e75fc68ca9c50eda5fbb845.webp)
+
+![](_assets/a1/a1cd24a8c32197f93f08ed29440a9eab.webp)
+
+![](_assets/84/84de2ed737293ca2f73ce3b73e6154b7.webp)
+
+![](_assets/16/16177797c33850e7857313dd6b216dcc.webp)
+
+![](_assets/97/97327db0b01ef5b9dd7202fc4a10e7c2.webp)
+
+![](_assets/9c/9cdca14b9b3bb4ec3191ee845255da24.webp)
+
+![](_assets/54/5418811619103209d89f8b46bdbd036b.webp)
+
+![](_assets/69/69ea8e2bf02d4ca8ee32ad3f68d145e2.webp)
+
+![](_assets/3b/3ba18967b072ccc4e81d5104e78f9f7d.webp)
+
 
 *Десять нон-фикшн книг-2017: выбор Кирилла Мартынова*
 

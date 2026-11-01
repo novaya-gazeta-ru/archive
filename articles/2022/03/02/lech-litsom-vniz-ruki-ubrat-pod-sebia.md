@@ -13,13 +13,13 @@ tags: ""
 
 *Памятка о том, как вести себя гражданскому населению в случае ядерного конфликта. Выдержки*
 
-*\*
+![](_assets/ff/ff5e76272452ad423cb3c2d8e88325cb.webp)
 
-*\*
+![](_assets/ac/acae43cdb398443de789f66ae203b9f0.webp)
 
-*\*
+![](_assets/b2/b26f120d139745103f1acc1cd44d92b7.webp)
 
-*\*
+![](_assets/79/790a4b9a6003fa2e5416f6fb358b4607.webp)
 
 **Читайте также:** https://novayagazeta.ru/articles/2022/02/27/stavki-prodolzhaiut-povyshatsia
 

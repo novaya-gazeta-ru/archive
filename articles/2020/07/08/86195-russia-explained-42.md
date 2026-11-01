@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *Exposing voter fraud — Femicide — Jailed journalist*
 
+![](_assets/99/999aadeee3616297fe1feba658979ea4.webp)
+
 *Poster from the exhibition “Bread. War. Victory". Photo: RIA Novosti*
 
 This Week’s Highlights
@@ -33,7 +35,9 @@ Russia has just had a historic vote that allows Putin to prolong his rule until 
 
 **GOOD-OLD BALLOT STUFFING.**Our analyst Sergey Shpilkin thinks that the second group resembles a familiar in Russia pattern — it’s what election results look like when additional votes are thrown in for the ‘right’ candidate, boosting turnout and the desired result. Shpilkin concludes that the first group shows us the referendum results closer to reality.
 
-*Ella Pamfilova, the chair of the Central Election Commission of Russia. Photo: RIA Novosti*
+![](_assets/43/43e1d79fbf67a6748502ca0940e85752.webp)
+
+*Ella Pamfilova, the chair of the Central Election Commission of Russia. Photo: RIA Novosti*
 
 **EARLY VOTE ABUSE.**Both indicators speak to the changing attitude of Russian officials towards vote-rigging, argues our columnist Kirill Rogov. If before the most falsifications were done on a single election day by ballot stuffing, now the officials utilize new and expanded early voting procedures for the same purpose.
 
@@ -50,6 +54,8 @@ The Killing of Madina Umaeva, Explained
 The suspicious death of 23-year-old Madina Umaeva in the Southern Russian region of Chechnya sparked anger and calls for justice both at home and abroad. Human rights groupssay the case is the latest example of domestic violence going unpunished in Russia. Our correspondent Elena Milashina dug deep into the story.
 
 **MADINA ENDURED YEARS OF VIOLENCE.** Madina was married to Viskhadzhi Khamidov at the age of 16 and suffered violent beatings during their seven-year marriage. In the latest incident in June, Madina’s in-laws say the woman fell down the stairs after an epileptic seizure and died. But there is no record of the woman having epilepsy. Furthermore, neighbors said they heard screaming coming from the house on that day.
+
+![](_assets/2d/2d2a76030df72bc7f98f9b9d82ffee63.webp)
 
 *Madina Umaeva*
 
@@ -72,6 +78,8 @@ Russia’s Regional Covid-19 Woes Continue
 Russia still has one of the largest Covid-19 outbreaks in the world, with nearly 700,000 cases. Authorities have been easing restrictions for weeks in the lead-up to the constitutional vote, and cases are officially on the decline, with some 6600 new infections recorded daily. Yet regions are reporting outbreaks and bed shortages.
 
 **CASES ON THE RISE.**In the Arctic region of Murmansk, the number of cases is growing steadily. It is the third-highest per 100,000 people in the country. Amid a growing caseload, health care workers are also dealing with a shortage of beds. But regional authorities are in denial. Last month, a regional governor announced that Murmansk was among the regions putting up ‘the best fight against coronavirus.’
+
+![](_assets/bf/bf01ce6b1246c356fa908acd146ed224.webp)
 
 *New hospital in Murmansk*
 
@@ -106,6 +114,8 @@ ___
 Other Top-Stories Russia Has Been Reading
 
 - **JOURNALIST CONVICTED ON “BOGUS TERRORISM CHARGES”.** Svetlana Prokopyeva is fined around $7000 amid outcry over fabricated case. Authorities started targeting Prokopyeva last year for her critical stance on the government and its security services. Last July, she was placed on a list of “terrorists and extremists.” This was the first high-profile case in Russia when prosecution demanded a real prison term for a journalist doing their job. “Repression develops gradually,” Prokopyeva stated just before her sentencing. “It is impossible to predict when the restriction of rights and the prosecution of dissent will turn into concentration camps and executions. That is why freedom of speech is needed - to sound the alarm in time. Independent media, journalists, opposition politicians and activists are needed to promptly say to the ruling majority: Hey, take a look around! You’re on a slippery slope! That is why the state has always been and will be the main object of criticism for the media - a power system with a coercive apparatus that can become an instrument of mass repression. I am not afraid to criticize the state. This is not a crime.”
+
+![](_assets/dd/dd9e4fce80cade0d0089bbabcaa3357d.webp)
 
 *Svetlana Prokopyeva. Photo: George Markov*
 

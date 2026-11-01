@@ -13,6 +13,8 @@ tags: "врачи, британия, бэнкси"
 
 *Новая работа Бэнкси о героях-медработниках*
 
+![](_assets/73/73a0207708763aefeb8e726083208a07.webp)
+
 *instagram / @banksy*
 
 **link:** https://novayagazeta.ru/articles/2020/03/31/84614-soblyudayte-distantsiyu-chtoby-byt-blizhe

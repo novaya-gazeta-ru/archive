@@ -13,6 +13,8 @@ tags: "ng, смерть"
 
 Актер Майкл Уильямс, сыгравший в сериалах «Прослушка» и «Подпольная империя», найден мертвым в своей квартире в районе Бруклин в Нью-Йорке. Об этом [сообщает](https://www.reuters.com/world/us/the-wire-actor-michael-k-williams-found-dead-apartment-ny-post-2021-09-06/) Reuters со ссылкой на представителя полиции Нью-Йорка Джона Гримпела.
 
+![](_assets/d0/d0b4372cadf4572dffdc5b2b43ba72b3.webp)
+
 *Фото:[Instagram / Michael Kenneth Williams](https://www.instagram.com/p/BoNw_5BHxKS/)*
 
 Как [сообщает](https://nypost.com/2021/09/06/actor-michael-k-williams-found-dead-in-nyc-apartment/) New York Post, тело 54-летнего Уильямса обнаружил племянник. Официально причина смерти еще не установлена, однако [New York Post](https://nypost.com/2021/09/06/actor-michael-k-williams-found-dead-in-nyc-apartment/) и [NBC 4 New York](https://www.nbcnewyork.com/news/local/the-wire-actor-michael-k-williams-found-dead-in-brooklyn-sources/3258166/) со ссылкой на источники утверждают, что актер мог скончаться в результате передозировки наркотиков.

@@ -10,6 +10,16 @@ tags: ""
 ---
 
 # «Жалко кота и собаку»
+![](_assets/40/402772b38216692cc25410a015cd7fcc.webp)
+
+![](_assets/a6/a6379f40360b32180539e9fada14f370.webp)
+
+![](_assets/f2/f2fc1652e3c03abb0c08e346705e15be.webp)
+
+![](_assets/a1/a17c5d3c26ea8f5250af3c4b2fd7471d.webp)
+
+![](_assets/11/11688d79b7732bd0d47aaeff632f6de1.webp)
+
 
 *Говорят украинские дети, вывезенные в Россию из-под мин и бомб*
 

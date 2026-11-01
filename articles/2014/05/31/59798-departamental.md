@@ -10,6 +10,8 @@ tags: ""
 ---
 
 # Departamental
+![](_assets/94/9484a20e9fa41bee186a8e5eaefe7016.webp)
+
 
 *Не из лирики этой весны*
 

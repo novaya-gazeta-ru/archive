@@ -10,6 +10,12 @@ tags: ""
 ---
 
 # Между новым щеглом и старым слоном
+![](_assets/bb/bb288a850421d5a14865d5e1d336ee84.webp)
+
+![](_assets/01/01e508f94fcbb6bbcb523be45aa72f1a.webp)
+
+![](_assets/52/52f8fb01b314e084b1fc54998d1d28ba.webp)
+
 
 *Non/fiction 2014: что вышло в свет?*
 

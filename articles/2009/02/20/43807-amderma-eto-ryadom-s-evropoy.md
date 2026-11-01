@@ -10,6 +10,30 @@ tags: ""
 ---
 
 # Амдерма. Это рядом с Европой
+![](_assets/e9/e98b3e5eb197c9c0c946eb0054a74c1e.webp)
+
+![](_assets/e4/e4a46f8401922c4da36a03d981d98098.webp)
+
+![](_assets/e9/e9b6732690f4a53e77e69ade5932f03c.webp)
+
+![](_assets/d2/d2a5f0e37876ab8feec74d2ba32e2b6e.webp)
+
+![](_assets/d2/d204dcf7e1110b18c55405bf2cd6c8c7.webp)
+
+![](_assets/4d/4de594ebc9ca1586d2db9f77dde653e5.webp)
+
+![](_assets/39/3929807b31da9f8928e915456240f175.webp)
+
+![](_assets/2f/2f84cca8f91f813e3d52355f51c3dfc7.webp)
+
+![](_assets/0d/0d0c922b6431644f4e0860d802b1acef.webp)
+
+![](_assets/1b/1b73d3b58c5c17e4fd3a7a2e6b16630f.webp)
+
+![](_assets/da/da845e5aacd9ab94fe834bd40c71feba.webp)
+
+![](_assets/79/793c5d904298730e7e6e2da992e1b743.webp)
+
 
 *Безымянное пространство*
 

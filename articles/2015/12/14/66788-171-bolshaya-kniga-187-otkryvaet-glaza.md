@@ -10,6 +10,16 @@ tags: "литература, премия"
 ---
 
 # «Большая книга» открывает глаза
+![](_assets/c5/c5cdd7b092cf1247796006ac68a2169c.webp)
+
+![](_assets/05/0532dc3dda651d60dd2103efde35c59b.webp)
+
+![](_assets/fd/fd9df56bf538f90ba5c8cb29206a07b1.webp)
+
+![](_assets/2b/2b3ad68bab2eaaf0c81d160411adf0d9.webp)
+
+![](_assets/6e/6ee2c9249fa7356d9df65bac5ecb0afe.webp)
+
 
 *Почему Литературная академия «Большой книги» назвала их лучшими?*
 

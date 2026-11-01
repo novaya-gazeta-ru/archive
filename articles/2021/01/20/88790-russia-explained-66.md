@@ -21,6 +21,8 @@ The tumultuous return of opposition leader Alexei Navalny to Russia takes over g
 
 #Russians React to Navalny’s Return
 
+![](_assets/4b/4be5e667b4a4186dc65c6614e3a5234a.webp)
+
 *Yulia and Alexey Navalny. Photo by EPA*
 
 After being poisoned in August and evacuated to Germany for medical care, opposition leader Alexei Navalny boarded a flight to Russia on Sunday. He was immediately arrested upon landing at the airport.
@@ -45,6 +47,8 @@ _“There are others across Russia who, like Navalny, are willing to express the
 
 **Read Kirill Martynov’s analysis of Navalny’s decision to return to Russia** [here](https://novayagazeta.ru/articles/2021/01/13/88690-navalnyy-peresek-granitsu) **, and Yulia Latynina’s column** [here](https://novayagazeta.ru/articles/2021/01/18/88756-passazhir-berlinskogo-reysa) **.**
 
+![](_assets/2b/2b2d1ba9b1891b1af418398dd3f22a00.webp)
+
 *Marketing expert Alexander Dragan*
 
 #Inflated Vaccination Data, Exposed
@@ -66,6 +70,8 @@ _“In most regions, it is very difficult to get access to the vaccine. Most peo
 ___
 
 #Russians with ‘Golden Passports’ in the EU, Revealed
+
+![](_assets/04/043981eed573b0415b06c072bc912f67.webp)
 
 *Peter Sarukhanov / Novaya Gazeta*
 

@@ -10,8 +10,18 @@ tags: "лукашенко, комикс"
 ---
 
 # Крутится, вертится…
+![](_assets/87/8738449425c69377dd1dc8d20d86a3b2.webp)
+
+![](_assets/55/5582ed9b186f035c7d9ac085d3f80067.webp)
+
+![](_assets/b7/b75ccdbb903f5eb42bc42168e40a0da1.webp)
+
+![](_assets/21/21d7b02fc2e29cfc63688e66f2895023.webp)
+
 
 *Комикс о белорусском глобусе*
+
+![](_assets/f0/f0d6c5e20ca611535aa5cfd8c442740b.webp)
 
 *Иллюстрации: Fizzz*
 

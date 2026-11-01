@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *Living next to Putin’s palace — Trapped in the Arctic — Jail time for a tweet*
 
+![](_assets/c6/c69ee1bb8259d44c9048a31d39a5295f.webp)
+
 *Photo: Victoria Odissonova / "Novaya Gazeta"*
 
 **Here what’s in the store for you this week:**
@@ -27,6 +29,8 @@ Putin’s opulent palace is almost certainly the most talked-about piece of real
 
 **BEFORE PUTIN’S DACHA.** Until the early 2000s, Praskoveevka was a quiet farming village. Residents engaged primarily in agricultural activities. They raised cattle, hunted, fished, made wine, and relaxed near the sea. Several hundred people live on the farmland that is now the site of Putin’s sprawling palace. According to the 2010 census, just 315 inhabitants are officially registered here. Most of the local social life concentrates on Morskaya Street in the village’s center and on a small square near the Baptist Church.
 
+![](_assets/9d/9d783b8198f136d178bd5aae8022bab9.webp)
+
 *Praskoveevka. Photo: Alina Desyatnichenko*
 
 **WHAT DO YOU THINK OF THE PALACE?** Our reporter asked the villagers.
@@ -36,6 +40,8 @@ Putin’s opulent palace is almost certainly the most talked-about piece of real
 > “The best hunting place was in Dark Slit. You could chase the beast, and he has nowhere to go. We have always hunted. That was our food. But now, we cannot go out into the forest at all. When we do, a huntsman immediately appears and says that this is private property,” another resident of Praskoveevka says with annoyance.
 
 **SOME OF THE LOCALS MANAGED TO GET EMPLOYED AT THE PALACE. ** There are an estimated 1,500 people working inside it. An average salary is reportedly around $500 a month — just within the region’s average salary rates. But it is still a handsome compensation [for the country with rising poverty and stagnating incomes](https://en.hromadske.ua/posts/as-putin-gives-speech-on-combating-poverty-in-russia-pensioners-starve). Yet, it comes with a caveat.
+
+![](_assets/f0/f021ea0e206573b3030f1adf50c35975.webp)
 
 *Photo: Alina Desyatnichenko*
 
@@ -55,6 +61,8 @@ This week we bring you an epic multimedia dispatch from Russian Arctic. In Vorku
 
 **FROM GULAG TO CITY.** In 1931, the first batch of 43 political prisoners arrived at what is now Vorkuta — to build a coal mine. A year and a half later, in the dead of winter, 3,700 more came. Of these, only 54 people survived until the spring. In just 25 years of the Soviet terror after that, more than 2 million people went through local Gulag camps, about 200,000 people died.  The prisoners built the mining town, where people from all over the Soviet Union came to work. It quickly became a thriving industrial hotspot. Now, 90 years later, Vorkuta is the city with Russia’s fastest collapsing population rate.
 
+![](_assets/1f/1f7185063b2d3b83aebdd7352117983b.webp)
+
 *Photo: Victoria Odissonova / "Novaya Gazeta"*
 
 **FROM INDUSTRIAL HOTSPOT TO A DEATH TRAP.** Years after the Soviet Union’s collapse, many local coal mines ended up bankrupt. Those that remain are plagued by deadly incidents, and the lack of care for the safety of miners becomes endemic. In 1998, a methane explosion killed 27 people. The bodies of at least 17 miners remain 900 meters down. In 2016, another powerful methane explosion, accompanied by fire, killed 36 people, and 26 of those miners will remain forever under the rubble.
@@ -68,6 +76,8 @@ This week we bring you an epic multimedia dispatch from Russian Arctic. In Vorku
 **ABANDONED AND ISOLATED.** Valentina, a local, describes life in the village:
 
 > “My grandparents arrived here as political prisoners. My parents were born here, and so was I. We have lived in the village all our lives. The salary is small, about 20 thousand rubles, sometimes less. It's cold in our apartments. We are always warmly dressed, in socks and slippers. Lighting in the village is irregular. Often, the light goes out and we walk along the street with flashlights,” she tells us.&nbsp;
+
+![](_assets/17/17301a21753abf2e751ce484b9715ebf.webp)
 
 *Photo: Victoria Odissonova / "Novaya Gazeta"*
 
@@ -96,6 +106,8 @@ The lift of an independent journalist in Russia [has never been easy](https://no
 **ON HOW HIS PROFILE MIGHT HAVE SAVED HIM FROM ABUSE.** “Everyone knew that I could always tell someone what was going on and it would gain traction. If I talked to someone and told them about something disturbing that was happening, everyone understood that in two or three hours people would be talking about it on the Echo of Moscow (the country’s leading news radio - ed.) It was a kind of insurance against unpleasant things happening to us.”
 
 **ON JAIL GUARDS NOT EVEN PRETENDING THEY ARE POLITICAL PRISONERS.** ‘When they addressed us, they called us “the politicals.” “ Hey Political, getting ready for a walk!’
+
+![](_assets/5f/5fe52a38fce2dea78eae8cdab0289b3f.webp)
 
 *Sergei Smirnov. Photo: Victoria Odissonova / "Novaya Gazeta"*
 

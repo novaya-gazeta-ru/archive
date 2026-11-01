@@ -27,6 +27,8 @@ As the global hunt for a Covid-19 vaccine is still nowhere close to the finish l
 
 **TOO EXPENSIVE.**Russia already has three separate state-approved drugs that allegedly treat coronavirus: Coronavir, Avifavir, and Areplivir. The companies behind them are the pharmaceutical groups R-Pharm, Khimrar, and Promomed. They produce drugs in old Soviet factories and sell at exorbitant prices. Areplivir’s pack of 40 tablets costs over $150. Despite the hefty price, the pills flew off the country’s shelves that still battles a severe outbreak.
 
+![](_assets/fc/fce57a37f06fc52fb06e8a62b94b9d9c.webp)
+
 *Illustration by Petr Sarukhanov*
 
 **DANGEROUS AND LIKELY INEFFECTIVE.**The active ingredient in all of these drugs is favipiravir, an antiviral medication produced in the United States and used in Japan to treat severe flu cases. It is a modified version of an older drug once used to treat tuberculosis and has never been registered in the US because some studies claimed it to be both ineffective and dangerous. However, the drug’s exclusivity license expired last year, which means that absolutely anyone can now produce favipiravir. Favipiravir is especially hazardous for pregnant women. One Russian doctor studying the drug also found that 2 out of every 40 patients who took favipiravir died.
@@ -55,7 +57,9 @@ An instructor at the famous Soviet-era summer camp for kids in annexed Crimea ha
 
 **SIX MONTHS IN, RUSSIAN OFFICIALS STILL IGNORE PANDEMIC THREATS.** Lazareva kept posting Instagram videos that document inadequate living conditions of the teachers at the camp. Most of them keep sharing residential space with infected colleagues. “The last time I came into contact with a patient infected with Covid-19 was on September 18,” Lazareva clarified in a subsequent video. “This happened in one of the guest buildings, not in the school.”
 
-*Summer camp Artek. Photo: RIA Novosti*
+![](_assets/73/7340d969cf12d734f3956d23cedd8008.webp)
+
+*Summer camp Artek. Photo: RIA Novosti*
 
 **MORE WHISTLEBLOWERS COME FORWARD.**A math teacher at the camp corroborated Lazareva’s story in an interview with us. According to him, the staff at the camp started to contract the virus at the end of August. Many kept showing up for classes even while awaiting their Covid test results: "We had two big meetings in a closed and stuffy room with poor ventilation, the last of which was on August 28. In one of these meetings everyone gathered in a crowd,” he told us.
 
@@ -70,6 +74,8 @@ Yanukovych Cronies in Crimea
 When President Viktor Yanukovych fled Ukraine to neighboring Russia in 2014, he brought with him not only stolen riches, but his racket buddies, too. Now the “Yanukovych family,” a network of Yanukovych’s cronies, is expanding their operations in Russia. This week our special correspondent Irek Murtazin looks into the recent raid attempted by Ukraine’s disgraced president in Russian-annexed Crimea.
 
 **OLD TRICKS, NEW PLACE.** Corporate raiding was one of the 'specialties' of Yanukovych's regime in Ukraine. He continues practicing it in Russia, too. Take Crimea. At the moment his mafia clan eyes a number of Crimean hotels and tries to bankroll them by claiming around $6.2 million in debt repayment. The story is linked to a court battle between Russian oligarch Alexander Lebedev (he is also Novaya's shareholder) and the Yanukovych clan. More importantly, it is a sign that Yanukovych might be trying to set up a safe haven for himself in the region.
+
+![](_assets/48/4876208b812b93b858e7938ae9a1eacc.webp)
 
 *Viktor Yanukovych. Photo: RIA Novosti*
 
@@ -90,6 +96,8 @@ ___
 Other Top-Stories Russia Has Been Reading
 
 - **HOW TO BE A MILLIONAIRE:**One of the top stories that our audience has been reading this week looks into the salaries of some of the country’s most prominent television propagandists. The figures are truly extraordinary compared to the incomes of ordinary Russians. They range from $55,000 to $1,200,000 per year. Compare this to an average annual income of $5500 across the country to spot the gap. You can literally get rich from spreading Russian state propaganda on television across the country. And more wealth is coming — the Russian government has increased the amount of support it’s giving to stations like Channel 1 and Russia Today this year. RT will get around $360 million in the annual funding. By comparison, the country’s only independent channel TV Rain, which relies on individual subscriptions, has an annual budget of $3.6 million.
+
+![](_assets/40/406a78b76f5ba94beace6cbbd2f62c09.webp)
 
 *Illustration by Petr Sarukhanov*
 

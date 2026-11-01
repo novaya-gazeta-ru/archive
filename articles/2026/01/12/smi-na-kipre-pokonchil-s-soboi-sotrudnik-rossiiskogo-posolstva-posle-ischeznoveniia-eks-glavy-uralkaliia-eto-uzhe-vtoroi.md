@@ -11,6 +11,8 @@ tags: "Кипр, самоубийство, посольство, баумгер�
 
 # СМИ: на Кипре покончил с собой сотрудник российского посольства
 
+![](_assets/5d/5dfb7a35e43f45d7217dbc0cd63fbfa1.webp)
+
 *Фото: Cyprus Mail*
 
 Посольство России в Республике Кипр [сообщило](https://www.rbc.ru/rbcfreenews/6964dc649a7947830445cd8a?from=short_news?utm_source=telegram&utm_medium=messenger&utm_campaign=rbc_news&utm_content=6911b3669a79476edca32bb5), что 8 января умер один из его сотрудников — А.В.Панов.

@@ -13,6 +13,8 @@ tags: "russia; explained, newsletter"
 
 *Putin’s lobbying army in the West — Corruption pandemic — Crackdown on ‘illegal’ symbols*
 
+![](_assets/a2/a2143043f2b307855446adf26683d125.webp)
+
 *Gerhard Schroder and Vladimir Putin. Photo by Alexey Druzhinin / TASS*
 
 # Here what’s in store for you this week:
@@ -25,6 +27,8 @@ tags: "russia; explained, newsletter"
 # Corrupt Land Grabs in Southern Russia, Illustrated
 
 Despite its reputation as a sunny resort city, the lives of Sochi residents are anything but bright. Local authorities are seizing thousands of hectares of land from ordinary people, and are doing nothing to stop profit-hungry developers from selling new homes that they know to be on landslide-prone territory. This practice is pervasive across the country. It also found its way to annexed Crimea, where l[and wars](https://novayagazeta.ru/articles/2020/05/13/85357-russia-explained-34) and[mass evictions](https://en.hromadske.ua/posts/mass-evictions-in-russia-occupied-crimea) often aggravate the region’s environmental degradation. Nadezhda Isayeva and Svetlana Vidanovatalk to some of the families in Sochi who share heartbreaking stories revealing the human cost of official lies and negligence.
+
+![](_assets/89/89cabbdf646758948414dbf6a403cb5e.webp)
 
 *Photo by Svetlana Vidanova / Novaya Gazeta*
 
@@ -56,6 +60,8 @@ Sanatorium staff warn that the residents could soon be evicted, while local auth
 
 Whatever you do or say can be used against you by the Russian State. Now the same goes for whatever symbols you might use as a sign of silent dissent. Disguised as the fight against ‘Nazi symbols,’ Russian authorties use confusingly-worded laws to crack down on public signs of dissent. Even the usage of an exclamation point in wrong set up can now be labeled as ‘extremism.’ The past week has seen a spate of arrests based on Article 20.3 of Russia’s Code of Administrative Offences, which bans the display of prohibited symbols. Our Daria Kozlova reports.
 
+![](_assets/39/39e7eec22f7890a5676ef1d89b4946aa.webp)
+
 *Photo by RIA Novosti*
 
 **THE “SWASTIKA ARTICLE”. **While thosands of symbols are banned by Article 20.3, it is regularly referred to as the “Swastika” article because of multiple high profile cases against individuals who shared archival photographs from World War II featuring the Nazi swastika, even though they did not endorse the latter’s ideology. In 2020, after an appeal from the European Court of Human Rights, an amendment was introduced that requires police to take the context of the post into account. Needless to say, the authorities have no problem ignoring this stipulation.
@@ -75,6 +81,8 @@ Whatever you do or say can be used against you by the Russian State. Now the sam
 # **Bonus RoundFOR EUROPEAN POLITICIANS, “MONEY DOESN’T SMELL”**. Europe’s ties with the Kremlin are far from spotless. Our [data investigation department](https://novayagazeta.ru/articles/2022/02/10/vneshnee-upravlenie-rossiei) combed the lists of affiliates of 45 largest Russian public joint stock companies and found the names of 14 foreign politicians. Among them are former Austrian federal chancellor Wolfgang Schlussel, former French Prime Minister Francois Villon, and British Conservative peer, Gregory Baker. Higher School of Economics Professor Alexei Karkin argues that, while gifting lucrative roles in State companies may have initially been the Kremlin’s attempt to buy political influence abroad, the imposition of extensive Western sanctions shows that this bid has not been particularly successful.
 
 Russia has [a long track record of courting international individuals](https://novayagazeta.ru/articles/2021/05/12/russia-explained), which it believes could help bolster the regime’s legitimacy and further its cause both domestically and abroad. It often likes to describe people sharing their political sympathies as ‘experts’ despite a frequent lack of qualifications beyond a shared political vantage point. However, some genuine political figures are involved in these projects, specifically Eurosceptic politicians on both far-right and far-left sides of the political spectrum. Most notably, French and Italian far-right leaders Marine Le Pen and Matteo Salvini and German far-right party AfD (Alternative for Germany.) Election ‘observers’ from Russian-controlled statelets (such as Abkhazia or Donbas) or friendly authoritarian regimes (Belarus, Venezuela, or Tajikistan) are also most welcomed by the Kremlin.
+
+![](_assets/ad/ad441bf25febdda07b8c0310f8ee4d13.webp)
 
 *Photo by Pavel Pavlov / Anadolu Agency via Getty Images*
 

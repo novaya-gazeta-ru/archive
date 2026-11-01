@@ -19,9 +19,13 @@ tags: "ng, COVID-19, коронавирус"
 
 За сутки вследствие COVID-19, по данным оперштаба, скончались еще 779 человек, из них 61 — в Москве, 55 — в Петербурге, 10 — в Подмосковье. Всего с начала пандемии умерли 204 679 пациентов с COVID-19.
 
+![](_assets/80/806b8608da8e00370ef32bce59bbcc7c.webp)
+
 *Скрин: Our World in Data*
 
 По [данным](https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=latest&facet=none&pickerSort=desc&pickerMetric=new_deaths_smoothed&hideControls=true&Metric=Confirmed+deaths&Interval=New+per+day&Relative+to+Population=false&Align+outbreaks=false&country=RUS~IND~MEX~USA~IRN~MYS~BRA~TUR~VNM~THA) Our World in Data, Россия в последние дни вышла на первое место по числу смертей от коронавируса за сутки (в абсолютных цифрах). Следом за ней идут Мексика, США, Малайзия, Иран, Индия, Бразилия, Турция, Вьетнам и Таиланд.
+
+![](_assets/3f/3fea3b777b6f0ef02d241637ad89807d.webp)
 
 *Скрин: [Our World in Data](https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=latest&facet=none&pickerSort=desc&pickerMetric=new_deaths_smoothed&hideControls=true&Metric=Confirmed+deaths&Interval=New+per+day&Relative+to+Population=false&Align+outbreaks=false&country=RUS~IND~MEX~USA~IRN~MYS~BRA~TUR~VNM~THA). Данные за 26 сентября*
 

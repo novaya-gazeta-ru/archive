@@ -10,6 +10,16 @@ tags: ""
 ---
 
 # Ох, что я видел!
+![](_assets/db/db57b1f69ab386d6c5b5a55855d81b4d.webp)
+
+![](_assets/8a/8a991beb8e94d6092d948b9c0393a606.webp)
+
+![](_assets/a0/a0685507f15f65c0e2db8069b75abccb.webp)
+
+![](_assets/50/503bde3850600cc7c274d356a568c860.webp)
+
+![](_assets/88/885ae0a3c7e59202c1b9dda3c6441637.webp)
+
 
 *Олимпиада глазами Юрия Роста*
 

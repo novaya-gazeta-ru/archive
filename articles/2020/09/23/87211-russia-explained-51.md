@@ -27,6 +27,8 @@ Russia is keeping its borders tightly shut due to a still mostly unmanageable Co
 
 **'WE HAVE PREGNANT WOMEN HERE. DO YOU EXPECT THEM TO DELIVER JUST LAYING ON THE GROUND?'**We visited a makeshift camp for labor migrants three kilometers from the city of Kinel in Russia's Samara region, next to the border with Western Kazakhstan. Officials set it up months ago, and thousands of Uzbek citizens live here in squalor, waiting for their turn to go home. Just recently, special transfer trains and airplanes started shipping migrants back home. Yet every day, hundreds of new migrants arrive. The living conditions are terrible.
 
+![](_assets/c5/c534e8d9638cdb4e37c26483ce513f49.webp)
+
 *Photo: Olga Putilova / "Novaya Gazeta"*
 
 **THOUSANDS, INCLUDING KIDS, ELDERLY AND SICK, LIVE IN MAKESHIFT TENTS.**Migrants cook their food over fires when it's not raining. They've set up a shower and toilets for the camp themselves. Officials supply drinking water, but it's unclear who is in charge of delivering essential goods and sets the prices. There's no electricity. Folks use portable generators to charge their phones, but they are not free. Garbage is everywhere, and nobody's sure if it ever gets picked up. Masks are nowhere to be found.
@@ -40,6 +42,8 @@ Russia is keeping its borders tightly shut due to a still mostly unmanageable Co
 **CRAMPED CONDITIONS.**While we were in the camp, a man pointed us to a tent with a woman and a small child. "How many of you live here?" we asked. "There are 10 of us. My grandmother lives here with us; she is 68 years old," the man replied. The grandmother, Raisa, starts to thank us. "Thank you, thank you, just write that we have to leave," she says to Novaya Gazeta.
 
 **NOT AN ISOLATED CASE.**Camps similar to the one we visited in Samara are spread out across the region, in Eastern Europe, the Caucasus, and in Central Asia, as migrants wait for an opportunity to return home amidst the pandemic. For example, in the Russian Republic of Dagestan, Azerbaijani migrants are similarly living in tents as they wait to go home.
+
+![](_assets/92/922f6cdbdfc5a9b37f9279a08c31a368.webp)
 
 *Photo: Olga Putilova / "Novaya Gazeta"*
 
@@ -56,6 +60,8 @@ Covid-19 hit Russia harder than almost any country in the world. Six months into
 **NAVIGATING IN THE DARK.** Bashkortostan's authorities shut down five districts and two cities, allegedly anticipating a second wave of the coronavirus pandemic. Anyone driving through these districts who don't live in the areas is obligated to pass without stopping. Around 570,000 people are living in the area. Officials introduced extra harsh measures, although the region has significantly fewer new infections than in neighboring areas. So why is that?
 
 **ОFFICIALLY, IT IS 'BECAUSE OF MIGRANTS.'** The measures are officially linked to hundreds of labor migrants camping in the region and awaiting a chance to travel back home. As in the Samara story covered earlier in this edition, they are housed in tent camps. Still, it's unclear what role these migrants play in the spread of Covid-19, especially since there have been no confirmed infections among them.
+
+![](_assets/0e/0e61bdce726c14f791538eee9a15cabb.webp)
 
 *Illustration by Petr Sarukhanov*
 
@@ -76,6 +82,8 @@ We keep covering the fallout from the Russian annexation of the Ukrainian region
 **'PHANTOM' PENSIONS.**Over the past 6 years, local courts have heard around 1,500 cases brought by people who did not receive their pension. It happened because the country's Pension Fund can't confirm how many years they worked when Crimea was a Ukrainian region. After analyzing publicly available court documents, we found that Russia's Pension Fund often rejects the official workbooks (a document that records an individual's work history) issued by the Ukrainian authorities. The reasoning is often obscure or based on mere technicalities — smudged writing in the documents or the individual's work experience wasn't 'properly recorded.'
 
 **HOSTAGES IN A CONFLICT.**After rejecting a pension claim, Russian authorities often ask Crimean claimants to obtain additional Ukrainian government confirmations. The latter stopped responding to such requests years ago, despite that technically they come from Ukrainian citizens. The Russian bureaucracy also refuses to be flexible. It is bureaucratic limbo that leaves many without their legally-earned pensions.
+
+![](_assets/14/14dc9d885d4aa8f658a8652c2b225633.webp)
 
 *Photo: RIA Novosti*
 

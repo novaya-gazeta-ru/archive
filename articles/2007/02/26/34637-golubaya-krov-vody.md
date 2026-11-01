@@ -10,6 +10,10 @@ tags: ""
 ---
 
 # Голубая кровь воды
+![](_assets/d1/d1b347c24b76e2d51ba64b4fcff5b882.webp)
+
+![](_assets/c7/c7b2f8e0a384e3108ef0151b8cae772d.webp)
+
 
 *Специальный репортаж*
 

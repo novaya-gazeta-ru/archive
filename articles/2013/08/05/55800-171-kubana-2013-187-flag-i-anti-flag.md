@@ -10,6 +10,8 @@ tags: ""
 ---
 
 # «Кубана-2013»: флаг и Аnti-Flag
+![](_assets/48/4804f7f8adaa7f826f71f80c08a66561.webp)
+
 
 *Джастин Сэйн: «Часто берем с собой в тур Amnesty International»*
 

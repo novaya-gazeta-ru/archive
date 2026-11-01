@@ -10,6 +10,10 @@ tags: ""
 ---
 
 # Мирозлобие победило
+![](_assets/6e/6ea88db20484a7300c1d24acd84afaba.webp)
+
+![](_assets/2c/2cbbd6e8be4af01fc06f0eda7b2aecee.webp)
+
 
 *Об итогах конкурса «Слова года»*
 

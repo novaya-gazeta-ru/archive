@@ -10,6 +10,20 @@ tags: "кафка-кодекс, комикс"
 ---
 
 # Комикс про любовь
+![](_assets/0d/0dd278904fae2d6b9abedc4a5f805218.webp)
+
+![](_assets/68/68e2ee34774aeb2c3a6b539e446abb68.webp)
+
+![](_assets/a1/a1dfdaa6a99fafa31834a7a91d25fcf1.webp)
+
+![](_assets/43/4370c9374025222c3d666b56b596c37b.webp)
+
+![](_assets/1f/1fc9470b8e0e3027e5b28483bd5ce6d4.webp)
+
+![](_assets/99/994f45e7ce3874cc04e4d9a9f1e9ba33.webp)
+
+![](_assets/70/70f1fa465d4503f85b223e9a4b57ee5b.webp)
+
 
 *Как гендерные войны в интернете обернулись уголовными делами, разделив мужчин и женщин на две преступные группы*
 

@@ -13,6 +13,8 @@ tags: "сбой, вконтакте, ростелеком, мтс, em"
 
 Пользователи сообщили о сбое в работе [«ВКонтакте»](https://downdetector.ru/ne-rabotaet/vkontakte/), [МТС](https://downdetector.ru/ne-rabotaet/mts/) и [«Ростелекома»](https://downdetector.ru/ne-rabotaet/rostelekom/). Об этом свидетельствуют данные DownDetector.
 
+![](_assets/c9/c904904f53ecbe278df1e7b424d6c542.webp)
+
 *Карта сбоев «ВКонтакте» / DownDetector*
 
 Среди сообщений о сбоях на 19:35 мск:

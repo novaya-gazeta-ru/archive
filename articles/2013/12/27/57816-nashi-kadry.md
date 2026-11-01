@@ -10,6 +10,12 @@ tags: ""
 ---
 
 # Наши кадры
+![](_assets/69/6939a28cbb2dc97ee8972e544900c717.webp)
+
+![](_assets/3b/3b1e613faad2999ce229dd27e4e8b993.webp)
+
+![](_assets/cd/cddaa625c0271ff03f722b583cea791e.webp)
+
 
 *2013 год глазами фотографов «Новой»*
 

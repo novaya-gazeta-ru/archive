@@ -31,6 +31,8 @@ tags: ""
 
 Состав дела предполагал не только штраф, но и возможный арест — но до него не дошло.
 
+![](_assets/3b/3bc83479626f090206b8e7bd353d368a.webp)
+
 *Борис Надеждин в суде с тонометром показывает давление. Фото: Борис Надеждин*
 
 «Экстремистскую символику» [полиция](https://novayagazeta.ru/articles/2026/07/13/nadezhdina-zaderzhali-za-demonstratsiiu-ekstremistskoi-simvoliki-po-etoi-state-izvestnykh-chlenov-iabloka-lishili-vozmozhnosti-uchastvovat-v-vyborakh-news) увидела в фотографии Алексея Навального — что само по себе нонсенс. Приговор по этому делу запрещает на год россиянам избираться. И до вступления его в силу после обжалования остается чуть больше 10 дней.

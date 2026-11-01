@@ -10,6 +10,12 @@ tags: ""
 ---
 
 # Гришка-Рейхстаг
+![](_assets/35/35c2d4bb4d4e0c64aa73de31ca48edc4.webp)
+
+![](_assets/f4/f4e686c9bf8f4a73d3ebfb64ecde6dd8.webp)
+
+![](_assets/ad/adbab691eecca1813b48f9521367bb06.webp)
+
 
 *Знаменосца Булатова не может найти награда*
 

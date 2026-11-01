@@ -10,8 +10,28 @@ tags: "москва, комикс, коррупция, полиция"
 ---
 
 # Как члены семьи экс-главы ГУВД Москвы стали долларовыми миллионерами
+![](_assets/d8/d83ba1866d4968697911cbecda280c79.webp)
+
+![](_assets/59/59aeec43d8a786d81824dbf6b2ecd547.webp)
+
+![](_assets/f8/f82a27b18152a36c1bc105dacbdf20d2.webp)
+
+![](_assets/a2/a22b3d7bf4f7da2c77699320b390a395.webp)
+
+![](_assets/ec/ec9cc0c6c74f88413e793a13abe0d1f0.webp)
+
+![](_assets/ce/ce6b61bbc89f20c909d74e98843f0b84.webp)
+
+![](_assets/d5/d56d64c3b38677ae8f68d05c238c9c33.webp)
+
+![](_assets/68/6876a819b7fb1bcefef70698fa217eb1.webp)
+
+![](_assets/0c/0c7283e1027b46e890716deb1d36ce4f.webp)
+
 
 *Комикс*
+
+![](_assets/94/9412256173164f6c07687b626895d636.webp)
 
 *Продюсер: Анна Игнатенко, «Новая». Иллюстрации: Мария Снеткова, специально для «Новой газеты»*
 

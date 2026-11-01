@@ -11,7 +11,7 @@ tags: "ротенберг, ска, отставка"
 
 # Роман Ротенберг уйдет с поста главного тренера СКА, но продолжит управлять российским хоккеем — СМИ
 
-*\*
+![](_assets/2e/2ef2cb320e0b2f7730f911e96722cd36.webp)
 
 По решению нового совета директоров петербургского хоккейного клуба СКА, Роман Ротенберг покинет пост главного тренера команды, [сообщает](https://www.championat.com/hockey/news-6035856-roman-rotenberg-po-resheniyu-novogo-soveta-direktorov-pokinet-dolzhnost-glavnogo-trenera-ska.html) «Чемпионат».
 

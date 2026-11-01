@@ -10,6 +10,20 @@ tags: ""
 ---
 
 # Музыкальные новости
+![](_assets/bf/bfef13b9ac65c6e49152999c6943f698.webp)
+
+![](_assets/38/3821230324361cb19073ada1b7c67ff0.webp)
+
+![](_assets/8f/8f26cbe6f5dfbef4f1c2c1b4622a772c.webp)
+
+![](_assets/44/44bb61ba92e52ee634b45b147eb548b7.webp)
+
+![](_assets/b8/b804e22283627f160c58e81aa9b2f9cf.webp)
+
+![](_assets/f6/f60fa5c6d59cef4fecb9941f9158951a.webp)
+
+![](_assets/c7/c7196c2de9e4ecc612820a3acd2376ab.webp)
+
 
 Пол Веллер, Крис Корнелл и Файона Эппл поздравили Пола Маккартни с днем рождения
 

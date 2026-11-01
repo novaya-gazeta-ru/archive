@@ -10,6 +10,10 @@ tags: ""
 ---
 
 # Десять лучших nonfiction-книг 2014 года
+![](_assets/08/08217bc7b79f92a6d7ae90cd5b9cce14.webp)
+
+![](_assets/ff/ff0581179e46cdab5c05d46945b96821.webp)
+
 
 *по версии Кирилла МАРТЫНОВА*
 

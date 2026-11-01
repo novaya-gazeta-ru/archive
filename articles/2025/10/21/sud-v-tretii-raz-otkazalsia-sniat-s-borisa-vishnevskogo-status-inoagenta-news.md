@@ -11,7 +11,7 @@ tags: "вишневский, суды, иноагенты"
 
 # Суд в третий раз отказался снять с Бориса Вишневского* статус «иноагента»&nbsp;
 
-*\*
+![](_assets/9b/9baf9be562ab2f9c78d008273b6a3f94.webp)
 
 Василеостровский районный суд 21 октября оставил без удовлетворения иск экс-депутата ЗакСа и обозревателя «Новой» Бориса Вишневского к Минюсту, [пишет](https://mr-7.ru/articles/2025/10/21/sud-ne-udovletvoril-isk-eks-deputata-borisa-vishnevskogo-po-osparivaniiu-statusa-inoagenta-news) MR7.
 

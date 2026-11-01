@@ -19,6 +19,8 @@ tags: "силовики, москва, жуков егор, «московско
 
 Пришедшие показали постановление суда об обыске.
 
+![](_assets/39/397a10eb758498fd926a79591bbd6ec5.webp)
+
 *Постановление Басманного суда, разрешающее обыск в квартире Егора Жукова*
 
 **link:** https://novayagazeta.ru/articles/2019/08/30/81778-davayte-zakonchim-zagovor-spetssluzhb-protiv-nashego-buduschego-video

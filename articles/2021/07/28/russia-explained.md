@@ -27,6 +27,8 @@ Since the Kremlin substantially expanded [repressive laws](https://novayagazeta.
 
 **'FOREIGN AGENT' WITCH HUNT.** Alexander Ionov and Vitaly Borodin work every day to ensure that Russia no longer has independent media or political opposition. Both have openly and blatantly been writing letters to both the Ministry of Justice and the Prosecutor General's Office triggering formal procedures that will allow authorities to recognize our colleagues and us as "[foreign agents](https://novayagazeta.ru/articles/2021/02/17/89264-russia-explained)." Ionov is a former member of the Public Monitoring Commission (ONK), and Borodin is the organizer of the so-called Federal Project on Security and the Fight against Corruption (FPBBK), a state-backed clone of Alexei Navalny's [now-banned](https://novayagazeta.ru/articles/2021/06/16/russia-explained) anti-corruption organization.
 
+![](_assets/a2/a236fd16ac020f5236cab7f6f7020b63.webp)
+
 *Vitaly Borodin and Alexander Ionov*
 
 **PROFESSIONAL INFORMERS ARE THRIVING AMID KREMLIN MULTIPLYING CRACKDOWNS.** As social stratification in Russia becomes[increasingly pronounced](https://novayagazeta.ru/articles/2021/06/23/russia-explained), especially since [the COVID-19 pandemic](https://novayagazeta.ru/articles/2021/07/07/russia-explained), people have started seeking new sources of income. So, it remains unclear whether we're dealing with "professional informers" — that is, those recruited long ago by state security structures and who have since been regularly reporting to their employers — or simply chancers making the best of Russia's increasingly authoritarian situation. People who recognize this [inequality as the normal state of affairs](https://en.hromadske.ua/posts/as-putin-gives-speech-on-combating-poverty-in-russia-pensioners-starve) can often seek means by which they can "integrate into the system" and "become successful" — perhaps by prematurely displaying Kremlin loyalty.
@@ -49,6 +51,8 @@ He says Ionov and Borodin "swim in the murky waters of modern Russian life," dre
 
 Over the past month, Siberia and the Russian Arctic have experienced vast, devastating forest fires provoked by changing climate patterns. The worst hell-breaking-loose situation is in Yakutia, where 1.5 million hectares of forests are now gone after several weeks of fires. Around 120 large ones are currently burning across the country. There are simply too many burning sites to cover at once. So this week, we had to concentrate our limited resources on a few locations that bring light to a complex web of increasingly extreme weather conditions, climate change denialism by the Kremlin, corruption, and environmental degradation — an explosive mix that fuels the monstrous fire. The pan intended.
 
+![](_assets/7c/7c3e3533b73a20841cd060f2b61a925f.webp)
+
 *Photo: AP / TASS*
 
 **FIREFIGHTING IS SO UNDERFUNDED THAT AVERAGE FOLKS VOLUNTEER TO SAVE THEIR LANDS FROM FIRE. **Yakutia residents have been choking from the forest fire smoke for more than a month. Meanwhile, local authorities were caught lying about the scale of the catastrophe amid a severe deficit of resources to fight it. Despite the large-scale forest fires becoming regular here, the emergency funds are scarce — either because of corruption, incompetence, or Kremlin neglect, or all at once. The situation is so dire that local authorities even [reportedly used the help of schoolkids](https://novayagazeta.ru/articles/2021/07/13/kamlat-protiv-ognia) in putting out the fires. Meanwhile, locals are forced to fight the fire on their own. We talked to Aiyl D’ulurkha, a firefighter volunteer from Yakutia, who spent weeks in the burning Siberian forests.
@@ -58,6 +62,8 @@ Over the past month, Siberia and the Russian Arctic have experienced vast, devas
 The government underfunding looks incredibly reckless considering that Yakutia has become the ground central for most severe forest fires in Russia over the last years.
 
 **MASSIVE FIRE EXPOSES SEVERE UNDERFUNDING CRISIS. **We saw the same situation playing out 2000 km away in the burning Russian Arctic. Our Irina Vorobyova reports from a national park consisting of 650 small islands on Lake Ladoga in Karelia. Here volunteer firefighters are also forced to sail out to fight the fires, plugging the gap left by the state. Locals need resources, manpower, and money. And, as usual, there are few. The peat and forest fires are beginning to happen on an almost annual basis, and so it is up to the local community to quell the heat over the space of some 200 square kilometers. They all face significant health hazards.
+
+![](_assets/36/36d22a26517689af032d36944484e4d8.webp)
 
 *Photo: AP / TASS*
 
@@ -82,6 +88,8 @@ Three pieces of news from the stars dropped to Russian earth last week, the good
 **THE BAD. **Unfortunately, these spacesuits with a fly have a much shorter lifespan, meaning that the guaranteed number of safe spacewalks that can be undertaken wearing them is lower. [Controversial Roscosmos director](https://novayagazeta.ru/articles/2021/06/30/russia-explained-85)Dmitry Rogozin has responded to complaints in a classic fashion: by declaring that he will set up his own spacesuit business, of course. Andrey Ionin, from the Russian Academy of Sciences, told Novaya that Rogozin's idea of a new space equipment manufacturing business follows the pattern of aggressive expansion of the Russian ruling elites inside state monopolies.
 
 > "Roscosmos today is one of the largest state monopolies," Ionin explains. "It almost completely absorbs the state budget for 'space' exploration. It doesn't even matter who is in charge. It always strives to take all money under articles where the word 'space' is even mentioned."
+
+![](_assets/5f/5f172bcd9de9a45e8136df448d79aa44.webp)
 
 *Illustration: Petr Sarukhanov / "Novaya Gazeta"*
 

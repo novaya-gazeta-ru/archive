@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *Moscow protesters crackdown and elections scandals — Big Russia/Ukraine prisoners exchange — Mikhail Khodorkovsky on "Citizen K"*
 
+![](_assets/17/172922a24e33f41c9afd0cf39500124c.webp)
+
 *Oleg Sentsov with his daughter. Photo: Andrew Novikov / Hromadske*
 
 **The new English language newsletter from Novaya Gazeta. Our newsletter brings you a weekly overview of our finest journalism covering and explaining key news events across Russia. This includes a rundown of Novaya Gazeta’s high-stakes investigative reporting, as well as analysis aimed at answering your questions about the latest developments. In short, we bring you everything you need to know about Russia, courtesy of a legacy newspaper in the country.**

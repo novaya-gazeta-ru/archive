@@ -10,6 +10,8 @@ tags: ""
 ---
 
 # Наша взяла!
+![](_assets/28/2872bdfc9c52cfff3d67d3f96128c65d.webp)
+
 
 *Журналистка «Новой газеты» удостоена премии European Press Prize*
 

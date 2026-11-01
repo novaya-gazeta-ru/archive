@@ -13,21 +13,39 @@ tags: "белоруссия, акции протеста, минск"
 
 *Фотогалерея*
 
-*Фото: РИА Новости*
+![](_assets/21/211694ea8fbf3f65bd772ccbdc68f686.webp)
 
 *Фото: РИА Новости*
 
-*Фото: EPA*
+![](_assets/a7/a78452ac2fee66bf4d9cd1d5f1cda593.webp)
 
-*Алексей Мальцев, специально для «Новой»*
+*Фото: РИА Новости*
 
-*Алексей Мальцев, специально для «Новой»*
-
-*Фото: Reuters*
+![](_assets/39/39b8adaff780690d6cdec080802c81e5.webp)
 
 *Фото: EPA*
 
+![](_assets/96/965f6e6f6c0acd15f479f8b92db96bb3.webp)
+
+*Алексей Мальцев, специально для «Новой»*
+
+![](_assets/43/430aee13e9f15e989c3879674cecbd72.webp)
+
+*Алексей Мальцев, специально для «Новой»*
+
+![](_assets/1d/1d1ebbb49e16b8800f0dfb933c236bb8.webp)
+
 *Фото: Reuters*
+
+![](_assets/7f/7f9fd08f11e4a482ddda7afca2250dbf.webp)
+
+*Фото: EPA*
+
+![](_assets/4a/4adc755a2b6eeb0e69e1054111e187f0.webp)
+
+*Фото: Reuters*
+
+![](_assets/90/901ccd6e247f92d4709c4ced1ad68d66.webp)
 
 *Фото: Reuters*
 

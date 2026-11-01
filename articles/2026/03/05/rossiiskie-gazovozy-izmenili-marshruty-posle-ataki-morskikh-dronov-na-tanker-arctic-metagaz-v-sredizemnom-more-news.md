@@ -11,6 +11,8 @@ tags: ""
 
 # Российские газовозы изменили маршруты после атаки морских дронов на танкер Arctic Metagaz в Средиземном море
 
+![](_assets/a3/a3b4c762cdbb7d0e29f6570bee1e7a9f.webp)
+
 *Критические повреждения Arctic Metagaz. Фото: Marine Trafic*
 
 Экипаж российского СПГ-танкера «Буран» после атаки на газовоз Arctic Metagaz решил не заходить в Средиземное море и пойдет «длинным путем» вокруг Африки, [сообщил](https://www.reuters.com/business/energy/russian-lng-tanker-switches-route-after-similar-vessel-attacked-off-libya-2026-03-05/) Reuters. А еще один танкер, Arctic Pioneer, [встал в простой](https://www.bloomberg.com/news/articles/2026-03-05/russia-lng-tanker-halts-in-mediterranean-after-another-attacked) у берегов Египта возвращаясь порожняком из Китая, сообщает Bloomberg со ссылкой на портал отслеживания движения судов Marine Traffic.

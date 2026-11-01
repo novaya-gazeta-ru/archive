@@ -15,21 +15,21 @@ tags: "физраствор, квн, орден"
 
 Как поддержать Россию весельем и находчивостью, получить Орден, не остаться без штанов и не сесть в тюрьму. Полная инструкция.
 
-*\*
+![](_assets/b9/b98bd66c0cd09825bce9eef8199cb50c.webp)
 
-*\*
+![](_assets/83/832d4f64f866360a65719512787dc6d4.webp)
 
-*\*
+![](_assets/7b/7b5d8043769e9eafcf1dc51c482f0c9b.webp)
 
-*\*
+![](_assets/1d/1deba35d5f99ba97ab325f42f77924c1.webp)
 
-*\*
+![](_assets/43/436627c600bd5855c4bf99b707d9dc8d.webp)
 
-*\*
+![](_assets/1a/1a6629c1a99ec4fee4d12eb32943e085.webp)
 
-*\*
+![](_assets/80/8034db04a04fe405c9ba12df9a5e972a.webp)
 
-*\*
+![](_assets/ba/ba7cddd044d257c7b20b32b57a1c8bdb.webp)
 
 > **от редакции**
 >

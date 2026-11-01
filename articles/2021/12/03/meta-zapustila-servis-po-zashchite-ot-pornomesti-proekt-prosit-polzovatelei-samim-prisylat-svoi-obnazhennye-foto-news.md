@@ -13,6 +13,8 @@ tags: "порноместь, facebook, instagram, meta, kn"
 
 Компания Meta, владеющая Facebook и Instagram, [объявила](https://about.fb.com/news/2021/12/strengthening-efforts-against-spread-of-non-consensual-intimate-images/) о создании сервиса StopNCII.org, который поможет остановить распространение интимных изображений без согласия их владельца.
 
+![](_assets/1a/1ade1e01d04023104a2e76d8ff48e12b.webp)
+
 *Страница серсвиса StopNCII*
 
 Meta разработала проект совместно с горячей линией Revenge Porn, его также поддержали 50 некоммерческих организаций. Он, как заявляют разработчики, сможет защитить пользователей от так называемой порномести.

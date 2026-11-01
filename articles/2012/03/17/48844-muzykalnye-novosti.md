@@ -10,6 +10,22 @@ tags: ""
 ---
 
 # Музыкальные новости
+![](_assets/9f/9f6074135a2346c06977cfca8c92718e.webp)
+
+![](_assets/ea/ea3d44fcc0068a763163f67217d356a6.webp)
+
+![](_assets/91/91aba23525d2d03294ac968dd7d0b8e5.webp)
+
+![](_assets/08/08363703f94a52fcc28c9a2359996ae9.webp)
+
+![](_assets/c6/c6e137f7d3d7b6a8b31c41ba0529c7ed.webp)
+
+![](_assets/0a/0ae854b971505dd71007f4a264b3a57a.webp)
+
+![](_assets/04/04bc811a2ae75198336c30079db3bbda.webp)
+
+![](_assets/96/96af6b594e4d310bca8a3ebabb0b158f.webp)
+
 
 The Rolling Stones отказались от планов отметить свое пятидесятилетие мировым турне
 

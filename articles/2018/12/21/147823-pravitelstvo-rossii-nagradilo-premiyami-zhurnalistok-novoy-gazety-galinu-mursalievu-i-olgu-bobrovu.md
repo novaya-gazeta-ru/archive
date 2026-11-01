@@ -15,11 +15,15 @@ tags: "боброва, мурсалиева, новая газета, госна
 
 Их обеих наградили «за серию журналистских расследований по проблемам безопасности детей в информационно-телекоммуникационной сети Интернет».
 
-*Галина Мурсалиева. Фото: [Artyom Geodakyan](https://www.tassphoto.com/en/asset/fullTextSearch/search/%D0%BC%D1%83%D1%80%D1%81%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0/page/en/asset/link/14/17999177/page/1/value/Artyom%2520Geodakyan/isMultivalued/1)/[TASS](https://www.tassphoto.com/en/asset/fullTextSearch/search/%D0%BC%D1%83%D1%80%D1%81%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0/page/en/asset/link/14/17999177/page/1/value/TASS/isMultivalued/1)*
+![](_assets/a7/a73be816056ab9a0e7d1cff7ec438a78.webp)
+
+*Галина Мурсалиева. Фото: [Artyom Geodakyan](https://www.tassphoto.com/en/asset/fullTextSearch/search/%D0%BC%D1%83%D1%80%D1%81%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0/page/en/asset/link/14/17999177/page/1/value/Artyom%2520Geodakyan/isMultivalued/1)/[TASS](https://www.tassphoto.com/en/asset/fullTextSearch/search/%D0%BC%D1%83%D1%80%D1%81%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0/page/en/asset/link/14/17999177/page/1/value/TASS/isMultivalued/1)*
 
 Галина Мурсалиева — автор резонансного материала «Группы смерти» о том, как в социальных сетях планомерно и систематически склоняют детей и подростков к суициду.
 
 **link:** https://novayagazeta.ru/articles/2017/06/30/72962-gruppy-smerti-god-spustya
+
+![](_assets/5b/5bf7e7457651bd5c4dc682967df75009.webp)
 
 *Ольга Боброва*
 

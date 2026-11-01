@@ -10,6 +10,24 @@ tags: "реакция, голосование, чиновники, депута�
 ---
 
 # Чья дурь круче?
+![](_assets/c0/c0f9b369412e91112fe1015d97d01ba4.webp)
+
+![](_assets/f3/f39d94fbc49450a580b79ffa5c031e2a.webp)
+
+![](_assets/1c/1c7ba8ef9786137a5881231ce5f057d0.webp)
+
+![](_assets/5c/5cd5b0a9214bc1fa668c8da5303c7c0a.webp)
+
+![](_assets/02/02750cd39858c99760f52feebc77e77a.webp)
+
+![](_assets/ca/ca2fe071e0e72af09d463a7b24af031e.webp)
+
+![](_assets/82/823eaab047805222252f0e8bff03a82b.webp)
+
+![](_assets/f6/f693b91a031cca680aa15355ddc572e4.webp)
+
+![](_assets/36/36aabff85f28b901f2b5806a5e4dd16f.webp)
+
 
 *Чиновники и депутаты все чаще бросаются на людей. Выбираем самые дикие высказывания*
 

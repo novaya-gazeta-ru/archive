@@ -10,6 +10,34 @@ tags: "болотное дело"
 ---
 
 # 27 минус один
+![](_assets/00/008b89a16828fcb01021667ea7dcf997.webp)
+
+![](_assets/47/47f03ea12e8e45340d66e01b19e3469f.webp)
+
+![](_assets/f1/f1d9dcd8ce603158927a22623178e740.webp)
+
+![](_assets/fd/fd9e4b3fb2ebc645c15dd51dc50d7f6c.webp)
+
+![](_assets/20/207c0e3c2aec6d6ee9325550b2bffcf2.webp)
+
+![](_assets/eb/eb98ff95f5f3972c72806c10e2e148e0.webp)
+
+![](_assets/37/37ef0e12d4b0511266e3babc8297d097.webp)
+
+![](_assets/0d/0de9362c459697eb47fb936eee5866af.webp)
+
+![](_assets/56/567351e5f3e7f3c49f264803d185ea0f.webp)
+
+![](_assets/d4/d44769c9b87eca22930d5a7c20d1f7e3.webp)
+
+![](_assets/1b/1b021fda6d23d2d03d5bd2dbe76810f8.webp)
+
+![](_assets/00/00397483b13328dbeb9b0171a01e667b.webp)
+
+![](_assets/67/67a175dd583344844aedd394d933cfc3.webp)
+
+![](_assets/62/625aef06fb57276e343c27a72ef0d29e.webp)
+
 
 *«Узники Болотной», кто они? Это двадцать шесть человек, преимущественно молодых москвичей, оказавшихся 6 мая 2012 года на Болотной площади или рядом с ней. В список не входит Константин Лебедев, который пошел на сотрудничество со следствием*
 

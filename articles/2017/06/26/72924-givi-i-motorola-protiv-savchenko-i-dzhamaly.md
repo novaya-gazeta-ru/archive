@@ -10,6 +10,18 @@ tags: "днр, украина"
 ---
 
 # «Гиви» и «Моторола» против Савченко и Джамалы
+![](_assets/4e/4e31d1aefe1fd2370b6fdfb6cdee7260.webp)
+
+![](_assets/d6/d6f5ece1c4e105561be16622683ef792.webp)
+
+![](_assets/17/17ee5243412b672f74fc55e9545541ac.webp)
+
+![](_assets/bc/bcd1f195b553943d45de4d2e7b82c6e4.webp)
+
+![](_assets/54/54e2769b3e53f863f4e3c0d145dace70.webp)
+
+![](_assets/c3/c380b00957b8ffa90acdb305304c20a6.webp)
+
 
 *Как события на востоке Украины отобразились в филателии воюющих сторон*
 

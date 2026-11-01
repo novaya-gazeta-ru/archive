@@ -10,6 +10,16 @@ tags: ""
 ---
 
 # Музыкальные новости
+![](_assets/30/303ad13ee7c53e50778ae042765b676d.webp)
+
+![](_assets/2a/2a7cfafaa51f5ab969a8ff0ed85ac1ea.webp)
+
+![](_assets/55/55eaaa435ef6525c5e9110ea447d0e54.webp)
+
+![](_assets/3d/3d0c54bb25df93897638d23b6e3c5255.webp)
+
+![](_assets/7a/7a9e455039fd5fbcb964541befaa5b24.webp)
+
 
 Для группы Muse настало время больших перемен
 

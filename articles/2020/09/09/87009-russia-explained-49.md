@@ -31,6 +31,8 @@ Russian state media keeps amplifying Leonid Rink, one of the alleged creators of
 
 > "Pancreatic enzymes increase when you have pancreatitis, but no one mentioned an increase in the blood tests in Navalny's case. This has nothing to do with pancreatitis. That's complete nonsense," Navalny’s doctor Yaroslav Ashikhmin told us.
 
+![](_assets/d2/d25482a9e5035f923de037147e674a25.webp)
+
 *Leonid Rink. Photo: RIA Novosti*
 
 **NOVICHOK OR NOT NOVICHOK.**Meanwhile, traces of Novichok can vanish in just a few days. German doctors say that they found traces of Novichok's effects while examining Navalny. Russian doctors, however, said that they did not discover a toxic substance. But those two statements are not necessarily contradictory. Traces of the substance may have disappeared, but the effects linger on.
@@ -45,6 +47,8 @@ Transgender Russians Are Under Attack
 
 Transgender Russians could see their lives radically altered if the anti-LGTB “Traditional Values” bill passes the Duma this fall. The bill would effectively eliminate the legal recognition of transgender people in Russia and make life infinitely more difficult for them. In a special project this week, our Svetlana Vidanova profiles families of transgender Russians who could see their marriages annulled, and banned and their legal identities erased.
 
+![](_assets/1a/1a445702545b10be17a4255f255f8b61.webp)
+
 *Misha and Polina. Photo: Svetlana Vidanova / "Novaya Gazeta"*
 
 **MISHA AND POLINA.** 'We met at work. When I saw Misha for the first time, he looked like a boy, and I didn't know that he was a trans boy. I looked at a person, and I just saw a person,' says Polina. 'Six months later, Misha proposed. We've been together for a year and a half, but it feels like we've known each other our whole lives.'
@@ -56,6 +60,8 @@ Transgender Russians could see their lives radically altered if the anti-LGTB �
 **HERMANN AND ULYANA.**They met the way many young couples meet today: through an app. ‘I saw a picture of Ulyana, and I thought she’s pretty. So I put a heart on her photo, and I quickly closed down the app. Literally, three minutes later, she wrote to me first. You’re cute, she said.’ That was six years ago. Around two years ago, Hermann began his transition. The beginning of the process was difficult — people kept misgendering him. Ulyana stepped in to help and went to buy all of the things you need to show an ID to buy, like cigarettes and alcohol. Now, however, everything feels easier. The couple can walk, hold hands, and kiss in public.
 
 > ‘We haven’t had a chance to get married yet, and if they take that opportunity away from us, we will survive. But they’ll be taking an important part of life away,’ Hermann explains.
+
+![](_assets/e2/e2e78137ab4d3c50d6a4da309b7eb6a7.webp)
 
 *Hermann and Ulyana. Photo: Svetlana Vidanova / "Novaya Gazeta"*
 
@@ -72,6 +78,8 @@ Queer Russians Are Blocked From Seeking Refuge
 Being queer has never been easy in Russia. Still, due to government policies, things have escalated badly in the recent decade. A flow of LGBT+ refugees from the country would keep rising, especially after recent pogroms in the Southern Russian region of Chechnya. But the pandemic robbed the Russian queer refugees of their ultimate escape option. In a mini-doc by our Victoria Oddissonova, this week, we feature the untold stories of LGBT+ folks who got blocked by closed borders from seeking refuge abroad.
 
 **MEET NIKA.**'I am 34 years old. I want to live, at last. I am so tired of just surviving, says Nika as she stares into space. A few years ago, Nika started to lose her vision. Doctors said that it was probably hereditary, but Nika believes that she began to lose her sight after being severely beaten in 2017. 'I was outside smoking and waiting for my boyfriend, Nika explains. Three men approached me and asked me for a cigarette. Then they wanted to know my name. Then one of them said, "Oh, you're not a girl, you're a ft." Then she was beaten so severely that she still has scars on her forehead.
+
+![](_assets/69/690f64883aaafdef0eb05567290e14e1.webp)
 
 *Photo: Victoria Odissonova / "Novaya Gazeta"*
 
@@ -92,6 +100,8 @@ ___
 Other Top-Stories Russia Has Been Reading
 
 - **PUTIN’S BODYGUARD WAS POISONED:**This week our most-read piece looked into long Russian history with high-profile poisonings. The case of Russian defector Alexander Litvinenko is perhaps the most well-known, and the death from the poisoning of Novaya Gazeta journalist Yuri Shchekochikhin still hasn’t been investigated. But one poisoning that has received renewed attention recently is the case of Roman Tsepov, Putin’s bodyguard. Tsepov was initially involved with a security firm in St. Petersburg that provided protection to then-Deputy Mayor Putin and the family of St. Petersburg’s late Mayor Anatoly Sobchak. He also provided security to casinos and crime bosses in the city. He was well-connected in the criminal underworld. In 2004, he died suddenly from an overdose of a Leukemia drug. We still don’t know who was behind the poisoning.
+
+![](_assets/31/31f2b547322311e67179d6a3604b20aa.webp)
 
 *Roman Tsepov's funeral. Photo: Zamir Usmanov, TASS*
 

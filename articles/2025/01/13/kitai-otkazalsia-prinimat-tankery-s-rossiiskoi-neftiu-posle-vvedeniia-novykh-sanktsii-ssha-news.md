@@ -11,7 +11,7 @@ tags: "сша, санкции, теневой флот, китай"
 
 # Китай отказался принимать танкеры с российской нефтью после введения новых санкций США
 
-*\*
+![](_assets/38/380dea28b3e17e3a5b36614491c3a9c5.webp)
 
 Три танкера с 2 млн баррелей нефти из России застряли около восточного берега Китая — сейчас они находятся на подходе к портам в провинции Шаньдун, [передает](https://www.bloomberg.com/news/articles/2025-01-13/sanctioned-tankers-carrying-russia-oil-now-idling-off-china) Bloomberg. Ранее управляющая корпорация Shandong Port Group [запретила](https://www.reuters.com/business/energy/chinas-shandong-port-group-blacklists-us-sanctioned-oil-vessels-say-traders-2025-01-07/) кораблям, находящимся под санкциям США, швартоваться в своих портах.
 

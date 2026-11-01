@@ -17,6 +17,10 @@ tags: "солидарность, дело 212, администрация пре
 
 Запущенная Палем петиция в поддержку Устинова также за сутки [успела собрать](https://www.novayagazeta.ru/news/2019/09/18/155434-vrachi-programmisty-i-predstaviteli-knizhnogo-biznesa-opublikovali-otkrytye-pisma-v-podderzhku-figurantov-dela-212) уже более 130 тысяч подписей, после чего Генпрокуратура [потребовала отпустить](https://www.novayagazeta.ru/news/2019/09/19/155440-prokuratura-podala-hodataystvo-ob-izmenenii-mery-presecheniya-osuzhdennomu-pavlu-ustinovu) его из СИЗО на время до обжалования приговора 23 сентября.
 
-*Варвара Шмыкова. Фото: Глеб Лиманский / «Новая газета»*
+![](_assets/93/93b01046dffd0f773539b84845b08a01.webp)
 
-*Очередь к пикетам. Фото: Глеб Лиманский / «Новая газета»*
+*Варвара Шмыкова. Фото: Глеб Лиманский / «Новая газета»*
+
+![](_assets/21/2157e1091529330fade3aa770d8d7dbc.webp)
+
+*Очередь к пикетам. Фото: Глеб Лиманский / «Новая газета»*

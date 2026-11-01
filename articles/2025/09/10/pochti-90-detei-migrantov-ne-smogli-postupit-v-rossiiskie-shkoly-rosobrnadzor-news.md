@@ -11,6 +11,8 @@ tags: "мигранты, рособрнадзор, школы"
 
 # Почти 90% детей мигрантов не смогли поступить в российские школы — Рособрнадзор
 
+![](_assets/d6/d6c0c8a0b543adbc8840f75e63624d16.webp)
+
 *Фото: Алексей Душутин / «Новая газета»*
 
 Российские школы отказались зачислить 87% детей мигрантов — преимущественно из-за проблем с документами для допуска к тесту по русскому языку, [сообщил](https://obrnadzor.gov.ru/news/bolee-87-nesovershennoletnih-inostrannyh-grazhdan-pretenduyushhih-na-obuchenie-v-rossijskih-shkolah-ne-mogut-byt-zachisleny/) Рособрнадзор.

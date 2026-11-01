@@ -13,7 +13,9 @@ tags: "детектив, литература"
 
 *За что мы любим детективы*
 
-*Петр Саруханов / «Новая газета». [Перейти на сайт художника](http://www.sarukhanov.info/index.php?id=48&lang=rus)*
+![](_assets/0e/0ef4f6d65e426dec8b498fd76a1f6b65.webp)
+
+*Петр Саруханов / «Новая газета». [Перейти на сайт художника](http://www.sarukhanov.info/index.php?id=48&lang=rus)*
 
 # 1
 

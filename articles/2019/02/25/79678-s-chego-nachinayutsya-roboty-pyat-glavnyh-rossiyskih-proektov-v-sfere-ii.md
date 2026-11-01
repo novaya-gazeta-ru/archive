@@ -10,6 +10,16 @@ tags: "ии, искусственный интеллект, инновации, 
 ---
 
 # С чего начинаются роботы: пять главных российских проектов в сфере ИИ
+![](_assets/bc/bccd7cd54f7636a21e65e2d458c6d9ed.webp)
+
+![](_assets/28/282fec1b629f9773ab5e2270a74a644b.webp)
+
+![](_assets/ac/ac81a8c1b38b685cc9f5e8904a4cf6a2.webp)
+
+![](_assets/af/af1b8fc03b4797c5222e95b50ba6f2c0.webp)
+
+![](_assets/d6/d604850a094dd5834fe9890062b37445.webp)
+
 
 > **<strong>NtechLab</strong>**
 >

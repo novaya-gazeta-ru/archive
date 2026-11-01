@@ -11,7 +11,7 @@ tags: "бпла, осло, копенгаген"
 
 # Аэропорты Осло и Копенгагена ночью приостанавливали работу из-за неизвестных дронов
 
-*\*
+![](_assets/3f/3fc7d48282e04e2ef11b296af384f683.webp)
 
 Аэропорты Копенгагена и Осло вечером и ночью прекращали работу на несколько часов из-за того, что над ними были замечены беспилотники, [пишет](https://www.reuters.com/business/aerospace-defense/copenhagen-airport-halts-traffic-due-drone-sightings-police-says-2025-09-22/) Reuters.
 

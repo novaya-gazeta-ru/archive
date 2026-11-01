@@ -10,6 +10,10 @@ tags: ""
 ---
 
 # Карта памяти
+![](_assets/e1/e15f443f072c35f716fbcd5acca828be.webp)
+
+![](_assets/22/22c2f1dbc6754d96684e1ef2ea25aa04.webp)
+
 
 #  Мартирос Сарьян
 

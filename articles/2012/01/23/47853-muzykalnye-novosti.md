@@ -10,6 +10,16 @@ tags: ""
 ---
 
 # Музыкальные новости
+![](_assets/9c/9cb8b37a8e64c4c60e9e82cacd2ae940.webp)
+
+![](_assets/63/631667a3f27ebecd3bc43e25e09c63c7.webp)
+
+![](_assets/e2/e24123bba1de9fdc38b95f526381b0c5.webp)
+
+![](_assets/83/83f145ce2e1013346d64282147374bff.webp)
+
+![](_assets/12/12ceb1274bb5a16f47f84a28f421ab5f.webp)
+
 
 Брюс Спрингстин закончил работу над новым альбомом
 

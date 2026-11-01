@@ -19,6 +19,8 @@ Summarizing my general impression, it seemed to me that the Deputy Prime Ministe
 
 There is still no escape from them if the country is about to be left without the Olympics, a country that can barely imagine not only sport without the Olympics but its life as well?!
 
+![](_assets/d4/d4e856290e2c7a17782577d4acc667b4.webp)
+
 *Photo: Vladimir Gerdo / TASS*
 
 **link:** https://novayagazeta.ru/articles/2017/12/03/74780-vitaliy-mutko-priznat-lozhnuyu-vinu-znachit-predat-nashih-rebyat
@@ -55,6 +57,8 @@ The degree of our guilt is mainly that we should have pursued a tougher policy w
 
 — The question is whether the state could see this or not? Of course, it could not! We can not enter the laboratory, can not double-check the tests. Only the WADA experts, who are «on a white horse» now, can see this. They accredited the laboratory. They have control standards. They pay 50 thousand dollars to informers. We put our heart into preparing for the Olympics, worked really hard. And it looks like they prepared for something totally different.
 
+![](_assets/30/30613c1aa3d755cf910a0360254ab677.webp)
+
 *Photo: Reuters*
 
 We adopted a number of necessary laws that regulate anti-doping policy in Russia. We gave authority to the laboratory and the Russian Anti-Doping Agency (RUSADA), made them independent, introduced administrative responsibility. We spent tens of millions of dollars on dues to WADA, contributions to various foundations, on creating new methods for determining prohibited substances.
@@ -89,7 +93,9 @@ All of our Sochi Olympic winners were in the international testing pool. Why do 
 
 They are saying that Rodchenkov should be trusted because if he tells lies, he will be expelled from America. And what if it is the opposite: if he tells the truth, then they will really expel him? His diaries are being made to fit the known facts. Well, invite those people who Rodchenkov mentions to the hearings — no, nobody wants to listen. I came to a session of an IOC commission and said, «Here I am in front of you, and I will answer whatever questions you may have. But can I see those who are accusing me? Can I ask them questions? » No answer.
 
-*Photo: EastNews*
+![](_assets/b8/b872a8c4a1353f23f9bc98f548b614df.webp)
+
+*Photo: EastNews*
 
 **—But you have retrospectively admitted that some of the claims were correct by firing your deputy Nagornykh, and an advisor on anti-doping issues Natalia Zhelanova?**
 

@@ -10,6 +10,18 @@ tags: ""
 ---
 
 # Спецтуристы
+![](_assets/28/283a4cf375a26a433ece8c539abc965c.webp)
+
+![](_assets/1d/1dab7cee291fbcceea603d756f315f43.webp)
+
+![](_assets/c8/c8439526dc6d1b9a657b969f5f53d92f.webp)
+
+![](_assets/67/6778d2831c84d076799d2086143fe0a5.webp)
+
+![](_assets/a6/a6428035500ed27cf853c799eb3d1f4f.webp)
+
+![](_assets/19/19abb10691eaee07b95a8b0e0afa7d5e.webp)
+
 
 *Продолжаем изучать список секретных героев, награжденных тайным указом за крымскую операцию*
 

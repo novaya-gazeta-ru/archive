@@ -25,6 +25,8 @@ For the [second week in a row](https://novayagazeta.ru/articles/2021/01/27/88902
 
 **AN ATTACK ON FREE SPEECH.** Since the start of the protests a little over a week ago, Russian independent journalists have been covering the minutiae of the demonstrations, including all of the criminal cases brought against protesters — thousands of them. The last time pro-democracy protests got so big, during the Bolotnaya Uprising of 2011-2012, it was risky to participate in street actions but still pretty safe to discuss them. Now, even that has suddenly become dangerous. Journalists from across the country are receiving anonymous threats just for reporting on the rallies.
 
+![](_assets/19/19f1bd17e7e89761352deca8ec2d69e5.webp)
+
 *Alexey Navalny. Photo: "Novaya Gazeta"*
 
 **PART OF A NATIONWIDE CAMPAIGN OF INTIMIDATION.** “A few people started calling me in a row. Judging from their voices, they were adult men in their 50s. First, they insulted me. Then they told me that I should watch my back when I’m walking around town. Later I received messages from anonymous people saying that they were going to cut off my head, or asking me if I was ready to die,” describes an independent journalist Nikita Kiforu from the Siberian city of Tyumen. He started getting threats right after the publication of his first reports on the local pro-Navalny protests.
@@ -38,6 +40,8 @@ For the [second week in a row](https://novayagazeta.ru/articles/2021/01/27/88902
 **RISING POLICE BRUTALITY IS SHOCKING EVEN BY RUSSIAN STANDARDS.** Throughout the demonstrations, peaceful protesters have been subjected to brute force. In the last week, we published many accounts of Russians who got attacked and assaulted by Russian police.  Margarita Yudina, a 54-year-old woman who was kicked in the stomach by a policeman in St. Petersburg, is one of them. Yudina flew backward, fell on her back, and hit her head after receiving a sharp kick to the stomach with a policeman’s heavy boot. We spoke to her about the violence and her experience in the hospital. She says she plans to file a criminal case against her aggressor.
 
 > “I didn’t do anything illegal,” Yudina told us. “According to our constitution, we have the right to free assembly and the right to express our opinions.”
+
+![](_assets/f6/f6df7ac353608f17d3052f8f4b305027.webp)
 
 *Margarita Yudina. Photo: "Novaya Gazeta"*
 
@@ -54,6 +58,8 @@ Putin set out to make Russia a global superpower once again, and he’s been wil
 **A WHOPPING $609 BILLION:** that’s what we estimate the Kremlin has spent on its foreign excursions. In Russian prices, this would fund the construction of 15,000 new hospitals or make a $5,000 rainy day fund for every adult citizen of Russia. But instead, the oil money flowed abroad. What’s more, Russia’s foreign policy further harmed ordinary citizens by provoking international sanctions and deepening Russia’s economic and geopolitical isolation.
 
 **TAX DOLLARS FOR FRIENDSHIP.** Our analysis found that the largest expenditure ($271 billion) was spent on support for political regimes loyal to the Kremlin. For example, during the [over 20-year alliance with a dictatorship in Belarus](https://novayagazeta.ru/articles/2020/12/09/88294-russia-explained), assistance to the country cost Russian taxpayers more than $109 billion.  Fuel discounts for Minsk alone account for around $100 billion. The government spent another $9 billion on loans to the dictatorship — ones that have little chance of getting repaid. Recently, embattled Belarusian dictator Aliaksandr Lukashenka called President Putin ‘his only friend.’ In reality, Putin is paying more than $5 billion a year for that friendship.
+
+![](_assets/cd/cddad50821a7209bccc1f3197f8c28f9.webp)
 
 *Illustration by Petr Sarukhanov / "Novaya Gazeta"*
 
@@ -76,6 +82,8 @@ Russia’s state gas monopoly Gazprom is saying the controversial pipeline may n
 **BUT THE INTERNATIONAL PRESSURE TO HALT THE PROJECT HAS GAINED MOMENTUM AND ESCALATED IN RECENT WEEKS.** Right from the start, the project faced a lot of opposition from the U.S. American sanctions only got stronger in the last year and turned into a constant hindrance. Despite the project being implemented in Europe, now any participating company collaborating on the construction may end up blacklisted in the U.S. Germany has remained a strong supporter of the project throughout the year, but following Navalny’s poisoning, the domestic opposition for Nord Stream 2 has also escalated. All this provoked a mass exodus of European companies from the project.
 
 > “The lack of adequate insurance is a problem. The Swiss company that previously insured the project has left. There is also a lack of technical and environmental certification. A very influential Norwegian company handled that previously, but they also left,” Mikhail Krutikhin, an oil and gas analyst, told Novaya Gazeta. “The question of whether the Danes will allow them to continue their work is also up in the air,” he added.&nbsp;&nbsp;
+
+![](_assets/28/280cb5b7b469718630e0f7b6a557f65b.webp)
 
 *Photo: EPA-EFE*
 

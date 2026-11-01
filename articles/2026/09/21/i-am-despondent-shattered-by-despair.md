@@ -43,6 +43,8 @@ Now things couldn't be any worse. I am still alive, and I want to live. I want t
 
 Help us!»
 
-*Dmitry Muratov* showed a photo of political prisoner Andrey Shabanov on CNN, calling on Western diplomats and politicians to seek the release of Russian political prisoners*
+![](_assets/cc/cc8bb7500b735301343c55913f4fee83.webp)
+
+*Dmitry Muratov showed a photo of political prisoner Andrey Shabanov on CNN, calling on Western diplomats and politicians to seek the release of Russian political prisoners*
 
 #### * Минюст РФ включил в реестр иноагентов.

@@ -10,6 +10,28 @@ tags: ""
 ---
 
 # «Президента оставляем на бруствере...»
+![](_assets/18/183fda35f7150c6ec6832b05a682ea89.webp)
+
+![](_assets/68/68b2e9987d42c31aadc33c4345d31c7f.webp)
+
+![](_assets/d6/d6a2c4c60c57ab6f1d0432339f2fe623.webp)
+
+![](_assets/74/744b1000e944b0f17ea73164701d01c8.webp)
+
+![](_assets/80/80ceb83ecb9da1ad9f200264b31eb008.webp)
+
+![](_assets/6c/6c239bfb366c06f280ba57a29e8b7593.webp)
+
+![](_assets/07/07839bb945bf84b86a247b7cb2dca168.webp)
+
+![](_assets/98/98037d7f764dfae6175a83d73a4564d6.webp)
+
+![](_assets/6a/6a478193558bfc687e5119ab1652bbbd.webp)
+
+![](_assets/fa/fa45478e72e5cfbe2b26bae1195ece71.webp)
+
+![](_assets/17/17fb1ed32bf9be3b21ed350033b91afb.webp)
+
 
 *Как присоединяли к России футбол полуострова Крым*
 

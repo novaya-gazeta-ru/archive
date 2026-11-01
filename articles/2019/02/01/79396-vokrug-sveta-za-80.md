@@ -10,6 +10,34 @@ tags: "юбилей, рост"
 ---
 
 # Вокруг света за 80
+![](_assets/07/079e40421cb28815a3a4ce01f62006f6.webp)
+
+![](_assets/e4/e4ec4c1898b3bb7aa77a71a2edefcc73.webp)
+
+![](_assets/73/738d8becbdfd808d0c193dede6d73aef.webp)
+
+![](_assets/0a/0ae2135f83d4accc8825a5e3db9a8467.webp)
+
+![](_assets/4c/4c622aee0c8ef6583a768ab72599e87e.webp)
+
+![](_assets/1b/1b7a7da8e8d6e6bcc92698369d07b3d9.webp)
+
+![](_assets/6d/6d4fdbc912d12bd3f368442f8146a438.webp)
+
+![](_assets/13/139c58b897871f3f04790571451720d7.webp)
+
+![](_assets/a0/a0aa84d8931e22c9e95fa1ac93c1a538.webp)
+
+![](_assets/7c/7ca10f45a76a52fd25513747cbc10426.webp)
+
+![](_assets/ce/ce0d85a7e5fcb57369580c41c805b691.webp)
+
+![](_assets/09/09586b5abbca38d189e62cb4456102c1.webp)
+
+![](_assets/48/48f1426192ab1e842ee969c17db4d814.webp)
+
+![](_assets/c0/c05586d6b03164c2c946d30074858464.webp)
+
 
 *Главная тема — юбилей Юрия Роста*
 
@@ -37,6 +65,8 @@ tags: "юбилей, рост"
 
 **Дмитрий Муратов,** \
  «Новая»
+
+![](_assets/0a/0a9d3534c269d212a2250c8e9391c40f.webp)
 
 *Фото: Анна Артемьева / «Новая»*
 

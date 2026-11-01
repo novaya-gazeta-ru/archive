@@ -17,6 +17,8 @@ tags: "эмиграция, древарх, шиес, архангельская 
 
 Христофорову в конце августа [предъявили обвинение](https://www.novayagazeta.ru/news/2019/08/23/154597-arhangelskogo-ekoaktivista-drevarha-prosvetlennogo-vyzvali-na-dopros-po-ugolovnomu-delu) в нападении на полицейского на Шиесе. Сам активист, инвалид 2 группы, настаивает, что это полиция избила его при задержании в конце июня и в том числе применяла электрошокер. Из-за этого активиста госпитализировали, пострадал и сотрудник органов. Проверка в отношении полицейских не проводилась.
 
+![](_assets/3d/3dec3dbd45ec836aa0fe4a40c463224c.webp)
+
 *Фото из соцсетей*
 
 **link:** https://novayagazeta.ru/articles/2019/08/24/81714-kogda-rubische-nadevaesh-ponimaesh-chto-ty-odin

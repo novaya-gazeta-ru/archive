@@ -17,6 +17,8 @@ tags: "Swiss, magnitsky, russia, магнитский, швейцария, ра�
 >
 > **This story is also published in Russian (see original)**
 
+![](_assets/76/764765a768fdb6804f817ac5ef329989.webp)
+
 *Illustrated by Peter Sarukhanov, Novaya Gazeta*
 
 In the Swiss media, the “expert on Russia” of the Swiss Federal Prosecutor’s Office appears under the code name “Victor K.” due to requirements of the Swiss law. In the media of other countries, his real name, according to our information, was not called either.
@@ -26,6 +28,8 @@ In the Swiss media, the “expert on Russia” of the Swiss Federal Prosecutor�
 The Swiss are trying to find out whether Lauber’s subordinate really traveled to Russia in order to prepare for an aggressive interrogation of Andreas Gross appointed by the Council of Europe as rapporteur on the case of the deceased Russian lawyer Sergey Magnitsky, who revealed the mechanics of embezzlement from the Russian budget. And if the gathering of “counterarguments” in Russia, which in essence represented the position of Magnitsky’s tormentors, was a job assignment or someone’s personal initiative. And at the same time the Swiss try to understand why the criminal cases of former minister Yelena Skrynnik, the son of the former Prosecutor General Chaika and a set of criminal cases related to possible bribes in FIFA collapsed in Switzerland.
 
 However, the Swiss do not know yet that Lauber’s subordinate continued to travel to Russia even after he was kicked out of the law enforcement. *Novaya Gazeta* has exclusive information on the movements of the former Swiss prosecutor’s office expert.
+
+![](_assets/2a/2a84a0c733ec68866f111b75be86bdb8.webp)
 
 *Novaya Gazeta is the first media to publish Schnell’s photo without retouching and his real name*
 
@@ -59,6 +63,8 @@ Meanwhile, high-profile cases involving the laundering of Russian money were not
 
 As part of the prosecutors delegations, Schnell often travelled to Russia. In 2014 he, his immediate supervisor, Patrick Lamon, and the head of the Swiss federal prosecutor’s office, the Prosecutor of the Confederation Michael Lauber, attended the prosecutors conference in Irkutsk, the birthplace of then general prosecutor Yury Chaika. The welcoming hosts invited Swiss prosecutors to take a boat trip around Baikal.
 
+![](_assets/78/78639992148da5450413d210243aa881.webp)
+
 *On his knees – the head of the Swiss prosecutor’s office Michael Lauber, the boss of Schnell Patrick Lamon (in a jacket with number 87) and the head of the department of the Prosecutor General’s Office of the Russian Federation Saak Karapetyan (third from right) while relaxing on lake Baikal.*
 
 The trip led to a scandal in the Swiss media: a photo was published where the listed Swiss law enforcement officers were photographed with the head of the Main Directorate for International Legal Cooperation of the Prosecutor General’s Office Saak Karapetyan (the one who would later die in a plane crash during an illegal hunt). The Prosecutor of the Confederation was unlucky enough to kneel to fit into the frame, and
@@ -77,6 +83,8 @@ According to Schnell’s testimony in the courts, he asked his boss Lamon for pe
 
 > Schnell did not particularly hide his adventures from the colleagues and told them about these trips in Switzerland, in particular, during Monday’s brief meetings and in the criminal investigation department.
 
+![](_assets/d3/d35750dbaa795d2c68d1699b9f63f909.webp)
+
 *Sahak Karapetyan. Photo: RIA Novosti*
 
 Lamon did not clarify to the court what explanation he delivered about the absence of one of the members of the delegation when he returned to Switzerland.
@@ -90,6 +98,8 @@ The Swiss court estimated the market value of the trip to Kamchatka when the bea
 Later in court, Schnell will say that he went to Russia on a hunt and not for a holiday. According to him, he went to collect information that would help him attack the parliamentary representative Andreas Gross who made a report on the death of Magnitsky on the instructions of the Council of Europe in 2013.
 
 In November 2016, Gross was summoned for questioning by the Swiss prosecutor. Schnell interrogated him all day long. At that the former deputy Gross, as he explained to the press, tried to convey to Schnell that some employees of the Russian General Prosecutor's Office were part of organized crime. Schnell explained to the court that the criminal case against the people involved in the Magnitsky murder had to be dismissed quite a while ago, but for this it was necessary to “strip the credibility” of Gross’s report and “tear off his masks”.
+
+![](_assets/07/0715f04fb5a1aa7fe84f7ba117091fbe.webp)
 
 *Andreas Gross in the conference room of the Swiss Parliament on September 23, 2015. Photo: Lukas Lehmann / Keystone*
 

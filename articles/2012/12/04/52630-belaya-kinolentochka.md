@@ -10,6 +10,20 @@ tags: ""
 ---
 
 # Белая киноленточка
+![](_assets/ae/ae1d674e897f693475b7000c60dbe4ba.webp)
+
+![](_assets/45/45bb93ef1b42493d6c5deeb0b268e4b6.webp)
+
+![](_assets/c4/c4c7526d000f9c2b7208c1e99ca2fa94.webp)
+
+![](_assets/15/15de157b93315852c7b4897a41dd339e.webp)
+
+![](_assets/d1/d1b3fe002c65a8a62a5547f204ff4e10.webp)
+
+![](_assets/4c/4c6d7b7c8a3584f6879413fad8f0e5af.webp)
+
+![](_assets/8b/8b0e4e7797d621c91715dfe09c6ba86c.webp)
+
 
 *7 декабря в кинотеатре «Художественный» откроется шестой фестиваль настоящего документального кино «Артдокфест»*
 

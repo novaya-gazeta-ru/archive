@@ -17,7 +17,11 @@ tags: "em, дело 212, администрация президента, оди
 
 Пикеты на Старой площади начались [начались](https://www.novayagazeta.ru/news/2019/09/18/155410-v-moskve-u-administratsii-prezidenta-nachalis-pikety-v-podderzhku-aktera-pavla-ustinova) 18 сентября как акция в поддержку актера Павла Устинова, осужденного на 3,5 года колонии за «вывих плеча» росгвардейца на митинге 3 августа. Накануне артиста отпустили до обжалования под подписку о невыезде. Участники акции [выступили](https://www.novayagazeta.ru/news/2019/09/19/155445-u-administratsii-prezidenta-prodolzhilis-pikety-s-trebovaniem-otpustit-figurantov-dela-212) также в поддержку других фигурантов «дела 212».
 
+![](_assets/33/33dc814f48e9a8be898b0a6b5ce9438f.webp)
+
 *Фото: Глеб Лиманский / «Новая газета»*
+
+![](_assets/13/13d2b0b6cce7afee9e674ce6c7432517.webp)
 
 *Фото: Глеб Лиманский / «Новая газета»*
 

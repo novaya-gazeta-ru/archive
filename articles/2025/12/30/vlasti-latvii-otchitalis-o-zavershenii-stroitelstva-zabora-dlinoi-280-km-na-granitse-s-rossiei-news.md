@@ -11,7 +11,7 @@ tags: "латвия, забор, граница"
 
 # Власти Латвии отчитались о завершении строительства забора длиной 280 км на границе с Россией
 
-*\*
+![](_assets/58/588dc4818f8415a7e3a912b6970e8ee0.webp)
 
 Латвия достроила забор на границе с Россией, [сообщает](https://www.vni.lv/aktualitates/vni-pilniba-pabeigta-latvijaskrievijas-robezas-zoga-izbuve-ekspluatacija-daleji-nodoti-ari-igate-izbuvetie-posmi) ответственная за объект госорганизация Valsts Nekustamie Ipasumi (VNI). Стоимость проекта ранее оценивали в 146 млн евро.
 

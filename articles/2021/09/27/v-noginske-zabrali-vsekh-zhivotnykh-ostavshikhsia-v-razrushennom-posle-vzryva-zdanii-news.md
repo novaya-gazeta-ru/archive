@@ -19,7 +19,11 @@ tags: "ногинск, взрыв газа, домашние животные, �
 
 — уточнил волонтер Дмитрий Качарава.
 
+![](_assets/62/62f24380ff9c7a25cc782e6e2751705e.webp)
+
 *nellykarevskaya / Instagram*
+
+![](_assets/25/2535c71b60cc20754172e9fe82a27ada.webp)
 
 *takumi_auto_club / Instagram*
 

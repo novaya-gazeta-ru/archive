@@ -13,7 +13,7 @@ tags: "музыка, рок музыка, рок, поп, инди поп, пр�
 
 *В новых альбомах лета услышим тех, кого совсем не ожидали*
 
-*\*
+![](_assets/d0/d0e51f34970d43ff8dccd415209c84dd.webp)
 
 > **Sigur Rós**
 >
@@ -36,7 +36,7 @@ tags: "музыка, рок музыка, рок, поп, инди поп, пр�
 >  — «Klettur»,\
 >  — «Mór»*
 
-*\*
+![](_assets/ea/eac17632e420e3dd04ecb8b9d186e986.webp)
 
 > **Nothing But Thieves**
 >
@@ -49,7 +49,7 @@ tags: "музыка, рок музыка, рок, поп, инди поп, пр�
 > - **Слушать на** [Music.Apple](https://music.apple.com/us/album/dead-club-city/1676331059)
 > - **Стиль:** инди-рок
 
-*\*
+![](_assets/34/34e2ecc0a1a289a7636ed304059012d1.webp)
 
 > **Барто**
 >
@@ -65,7 +65,7 @@ tags: "музыка, рок музыка, рок, поп, инди поп, пр�
 >  *— «Лето-пламя»,\
 >  — «Не начинали»*
 
-*\*
+![](_assets/cd/cdbfcd30ee6e8422f0563aa30b9a473f.webp)
 
 > **Swans**
 >
@@ -82,7 +82,7 @@ tags: "музыка, рок музыка, рок, поп, инди поп, пр�
 > - **Слушать на** [Apple.Music](https://music.apple.com/us/album/the-beggar/1675976842)
 > - **Стиль:** Swans — вне всяких стилей
 
-*\*
+![](_assets/24/24fb1962333f18cd342a7c3f68557532.webp)
 
 > **Jay-Jay Johanson**
 >
@@ -99,7 +99,7 @@ tags: "музыка, рок музыка, рок, поп, инди поп, пр�
 >  — «Labyrinth»,\
 >  — «Summer Night of Love»*
 
-*\*
+![](_assets/ad/adaf3fde02d2c3e5fff9e05508c190a1.webp)
 
 > **aja monet**
 >

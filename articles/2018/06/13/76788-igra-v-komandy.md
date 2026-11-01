@@ -10,6 +10,34 @@ tags: "футбол, чм-2018"
 ---
 
 # Игра в команды
+![](_assets/a0/a00238d6a4b8dd14565f205670956ba3.webp)
+
+![](_assets/ee/ee2d80152d54e30dc3523193e7388f9c.webp)
+
+![](_assets/b9/b9b09484177b116aa664706d41148c66.webp)
+
+![](_assets/cc/cc043746db36164bc3484a133b076359.webp)
+
+![](_assets/1b/1b45c1099b677eb290e7cab18bc4ace3.webp)
+
+![](_assets/cc/ccf421498eb9274463b3fde46c5e1bf9.webp)
+
+![](_assets/01/01c5a8ccdfe308724e1eb757724e1d5f.webp)
+
+![](_assets/6b/6be070a6b2b07375fb68c8eb80fda89e.webp)
+
+![](_assets/85/85029609f497e621c66a8e7a844f6109.webp)
+
+![](_assets/52/52a283ab9714c89cfbca4a33eee11748.webp)
+
+![](_assets/ce/ce7ad859c96478fc73c2471762d40fe9.webp)
+
+![](_assets/4d/4d3c99a978a75d271b8cde18c2d1fa83.webp)
+
+![](_assets/b2/b27f300e38b8fef15e484b1ecbbc711a.webp)
+
+![](_assets/fe/fea8614b6a31a66c49789a130c2e4960.webp)
+
 
 *Начинается чемпионат мира по футболу. Путеводитель по сборным*
 

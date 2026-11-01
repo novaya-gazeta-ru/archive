@@ -10,6 +10,20 @@ tags: ""
 ---
 
 # Музыкальные новости
+![](_assets/6d/6da9e33372358a39deaa60bd08444b5a.webp)
+
+![](_assets/1a/1a0ff5727b1552550061448825186ede.webp)
+
+![](_assets/cb/cb6f5c4b7c0c5e902e8429d7e6bf59a0.webp)
+
+![](_assets/9b/9bf041f52fd24a0dfeebbf265ceb228a.webp)
+
+![](_assets/a4/a47dac26df2955be865bd10650b5d27a.webp)
+
+![](_assets/f5/f586ef5c7421059763634e5f334e4920.webp)
+
+![](_assets/ff/ff50e5b2f1814bf9fee0c4d0c2d468b4.webp)
+
 
 Новый альбом Пола Маккартни выйдет в феврале
 

@@ -10,6 +10,26 @@ tags: "активисты, россия, протесты"
 ---
 
 # «Супер, что мы молоды, и пока нам нечего терять»
+![](_assets/8d/8d96e31075176fb180b7d591d3c50914.webp)
+
+![](_assets/bc/bcd31d44308fafcbc2fb37aa3987a9e5.webp)
+
+![](_assets/91/919953924577a9b44ba54c20d32dab26.webp)
+
+![](_assets/63/6350a61dba39325980a86fde463e558a.webp)
+
+![](_assets/ca/ca7ae7413352c6896df5952fc988e32e.webp)
+
+![](_assets/6f/6f4dbb7789643abbd3ffe0eaf74f610b.webp)
+
+![](_assets/28/28aa1a147f085f1ec8330fd3f0e05d41.webp)
+
+![](_assets/5f/5fb2763fac2835e042bb4e9a981310b2.webp)
+
+![](_assets/42/420ac1aebd7bfeb0f6961b876048664e.webp)
+
+![](_assets/a2/a26ddd811ee4aa8355d596277bb5a89b.webp)
+
 
 *Фотопроект «Против» Сергея Назарова*
 

@@ -15,13 +15,21 @@ tags: "ng, космос, полеты, илон маск, безос, брэнс
 
 В космос вместе с Безосом полетел его [брат Марк](https://novayagazeta.ru/articles/2021/06/07/osnovatel-amazon-dzheff-bezos-obiavil-o-planakh-otpravitsia-v-kosmos-na-sozdannom-ego-kompaniei-korable), 82-летняя [бывшая летчица Уолли Фанк](https://novayagazeta.ru/articles/2021/07/01/osnovatel-amazon-dzheff-bezos-soobshchil-chto-v-suborbitalnyi-polet-vmeste-s-nim-otpravitsia-82-letniaia-uolli-fank), а также 18-летний [выпускник школы из Нидерландов Оливер Деймен](https://www.blueorigin.com/news-archive/first-customer-on-new-shepard).
 
+![](_assets/9c/9c508204f147c93292d8a2208ad86985.webp)
+
 *Скрин: трансляция Blue Origin*
 
 Основатель Amazon 57-летний Джефф Безос отправился в космос на созданном его компанией Blue Origin корабле. Ракета New Shepard взлетела с космодрома в Техасе. Полет продолжался примерно 10 минут, корабль достиг высоты в 100 км — нижней границы космоса. Капсула совершила посадку с помощью парашютов. Ракета также благополучно приземлилась на космодроме. В невесомости участникам путешествия удалось побыть считанные минуты.
 
+![](_assets/24/240dcfed3790b4f9135c28957b091768.webp)
+
 *Космических путешественников встречают на земле. Скрин: трансляция Blue Origin*
 
+![](_assets/c0/c0b6b193ce2281c61b478c7d57ac38a9.webp)
+
 *План полета. Скрин: трансляция Blue Origin*
+
+![](_assets/c0/c09c6e1a96491c834beb1d1edd2f8203.webp)
 
 *Слева направо: Оливер Деймен, Уолли Фанк, Джефф и Марк Безосы. Скрин: трансляция Today*
 

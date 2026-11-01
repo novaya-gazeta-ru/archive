@@ -10,8 +10,28 @@ tags: "вторая мировая война, парад победы"
 ---
 
 # Оставлены и забыты
+![](_assets/6f/6f272f1e65330812ad2f11a86ea33d72.webp)
+
+![](_assets/b6/b6ce4dcdae62f11f8bf7a29ffcf2cdae.webp)
+
+![](_assets/f4/f4d997404e3397f1044545ce9bb190b9.webp)
+
+![](_assets/fc/fc497458113461e9d9f5759c62ffb9d1.webp)
+
+![](_assets/58/58a25cdfa27ae69196bd8952f6e591d8.webp)
+
+![](_assets/59/595ec0b18a6177efcec54ae5c2d8401b.webp)
+
+![](_assets/1e/1e33e01dadd6a4ecc11c5820193e46b7.webp)
+
+![](_assets/59/592a29a957556aeeabb27d07dea58a01.webp)
+
+![](_assets/ea/ea7042c81391c58b4aaeeebea925019a.webp)
+
 
 *Девять лиц, проплывшие по Тверской, и вслед за тем оставленные под мостом, молча глядели с портретов и ждали каких-то слов*
+
+![](_assets/ce/ce29f1190d86efe2b860a940cc4d5948.webp)
 
 *Фото: Анна Артемьева/«Новая»*
 

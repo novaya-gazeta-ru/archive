@@ -10,6 +10,16 @@ tags: "краснодарский край, суды, сачков"
 ---
 
 # Судья Холошин, браво!
+![](_assets/95/95fdf395afcb89e90cfa09ae09b93d5e.webp)
+
+![](_assets/6c/6c3c71b019b999ebe5d3dfb43c9c1435.webp)
+
+![](_assets/5b/5b1b98f80c282d4c1feeb8e3190f3dd4.webp)
+
+![](_assets/9f/9f6e04194e6f436ff094ae8b3ceb7a8f.webp)
+
+![](_assets/1d/1d5dcadc7fc8104035b2040d9e8cedb8.webp)
+
 
 *Суд полностью оправдал детдомовца Антона Сачкова*
 

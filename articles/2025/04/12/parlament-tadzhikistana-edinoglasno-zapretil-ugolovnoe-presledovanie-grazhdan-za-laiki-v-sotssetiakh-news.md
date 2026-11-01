@@ -11,6 +11,8 @@ tags: ""
 
 # Парламент Таджикистана единогласно запретил уголовное преследование граждан за лайки в соцсетях
 
+![](_assets/cf/cf60ceb13c18a715e10dc0c82e891565.webp)
+
 *Умед Каримзода выступает в парламенте Таджикистана. Фото: «Садом мардум»*
 
 Законодатели Маджлиси намояндагон (нижняя палата парламента) Таджикистана единогласно приняли поправки в республиканский УК, запрещающие уголовное преследование за лайки в соцсетях, [сообщает](https://www.asiaplustj.info/ru/news/tajikistan/power/20250412/tadzhikskie-zakonodateli-odobrili-zakonoproekt-otmenyayutshii-ugolovnoe-nakazanie-za-laiki-videorolikov-i-soobtshenii-v-sotssetyah) Asia+.

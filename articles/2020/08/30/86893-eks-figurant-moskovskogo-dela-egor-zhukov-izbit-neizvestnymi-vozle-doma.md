@@ -13,6 +13,8 @@ tags: "нападение, егор жуков"
 
 *Фото*
 
+![](_assets/8c/8cb4fff3cef0e1eca091c7212199a71d.webp)
+
 *Фото: «Команда Жукова»*
 
 **link:** https://novayagazeta.ru/articles/2020/02/14/83909-obychnyy-den

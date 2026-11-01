@@ -25,6 +25,8 @@ What Are Russian ‘Wagner’ Mercenaries Doing In Belarus?
 
 First spotted in Eastern Ukraine, Syria, Libya, and across Africa, now they are ‘parachuted’ to the epicenter of a massive Eastern European pro-democracy uprising. Belarus detains 33 men believed to be part of Russia’s infamous private military Wagner group. Belarusian officials claim the fighters came to ‘destabilize the situation’ in the country in the lead up to the August 9 presidential election. But since the local authoritarian regime battles the unprecedented protest wave against the 25-year tyrannical rule of Alexander Lukashenko, there’s broad skepticism about the official version of events. It is messy, shady, but we’ve got you covered.
 
+![](_assets/73/7335cccb5986aa012b4ce73bc863bb2c.webp)
+
 *Detention of fighters shown on Belarusian TV*
 
 **WHO ARE THE DETAINEES?**Open-source evidence shows that the men are indeed part of the Putin-linked Wagner paramilitary group, with combat experience in Donbas and Syria. Most are Russian citizens, but 9 are Ukrainian citizens, and one Belarusian.
@@ -34,6 +36,8 @@ First spotted in Eastern Ukraine, Syria, Libya, and across Africa, now they are 
 **‘IN-TRANSIT’ LOOKS MORE LIKELY.**Referring to sources in the Russian special service, a prominent Russian military correspondent Semyon Pegov claims that it is common for Wagner to use Belarus as a transit route during the pandemic. Russia closed its borders and stopped most of its international flights as it went into lockdown. Still, Belarus has kept its borders open, which means it might be easier to organize trips through Minsk. This wouldn’t be the first time “soldiers of fortune” have used Belarus as a transit route.
 
 **RUSSIA’S RESPONSE.** Russia denies the existence of the officially unregistered private military company. It has said the detainees are employees of some other private security company. Russian consul Kiril Pletnev noted that the men were going to Latin America via Minsk and Istanbul.
+
+![](_assets/a1/a136c68560d05187ba5a1a6e5e366b31.webp)
 
 *Alexander Lukashenko inspects military units. Photo: EPA-EFE / BELTA POOL*
 
@@ -53,7 +57,9 @@ Russia has one of the largest Covid-19 outbreaks globally, with thousands of new
 
 **MOSCOW SEES JUMP IN NEW CASES.** Covid-19 cases are on the rise again in Moscow, formerly the epicenter of the epidemic. In the last two weeks of July, case numbers have grown by more than 30%, jumping to 694 on July 27. Analysts have noted the worsening situation but say it’s too early to call it a second wave.
 
-*Photo: Valeriy Sharifulin / TASS*
+![](_assets/8c/8c9aeb836918dfb45703e939be43d20f.webp)
+
+*Photo: Valeriy Sharifulin / TASS*
 
 **THE VIRUS SPREADS UNEVENLY ACROSS RUSSIA.**Russian officials deploy the ‘more testing means more cases’ excuse — similar to that fancied by other governments failing at containing the outbreak. But virologist Pavel Volchkov believes the increase in the number of cases is due to people returning to Moscow from other regions where the epidemic has not yet subsided. Around a third of Russia’s regions are seeing case numbers climbing too. But most are still in the midst of the first wave.
 
@@ -81,6 +87,8 @@ The death of three-year-old Musa Suleymanov devastated the Crimean community. Th
 
 **REPRESSION TACTIC**. Human rights groups say Russia has portrayed as terrorists politically active Crimean Tatars and Muslims, who continue their peaceful resistance to the annexation. Persecuting Crimean Tatars and Muslims as part of Hizb ut-Tahrir became a popular tool for authorities to suppress the dissent. They use numerous tactics to silence and intimidate Crimean Muslims, including arrests, home raids, and enforced disappearances.
 
+![](_assets/24/24d375c315563c1ed196739a3e0e1a75.webp)
+
 *Funeral of Musa Suleymanov. Photo: "Crimean Solidarity"*
 
 **UPPING THE PUNISHMENT.**Russian authorities have been increasing the punishment for Hizb ut-Tahrir cases over the years. Some of the first Crimean Muslims arrested in 2015 have already serviced their sentence. They have been allowed to return home under administrative supervision. Some of the more recent sentences have been upward of 12 years. Suleymanov is facing up to life imprisonment.
@@ -95,9 +103,13 @@ Other Top-Stories Russia Has Been Reading
 
 - **HUNGER STRIKE OVER LACK OF STATE AID** Western Siberian man Evgeny Konygin has been on a hunger strike for more than a month to draw attention to the lack of government support in his pandemic-stricken region of Khanty-Mansi Autonomous Okrug. Konygin was forced to close his store in late March along with hundreds of other retail outlets on the orders of authorities. His district has the 6th highest rate of Covid-19 infection. But despite the hardship, Konygin hasn’t received a cent of state support. The father of three says he has nothing to feed his family. Konygin said his business has been destroyed over the past few months and his savings have been used up. “I want the governor to pay real attention to the problems, and not only mine … we have hundreds and thousands of people in this situation. Many people call me and tell me: mortgages, there is nothing to pay loans with, businesses are being sold, cars are being sold,” he says.
 
+![](_assets/2e/2ed971ce98c0a51fd8ff91189d9eb363.webp)
+
 *Boat parking on the Irtysh river. Photo: RIA Novosti*
 
 - **NEW US SANCTIONS AGAINST NORD STREAM 2** The US is preparingnew sanctions against European companies involved in constructing the Nord Stream 2 gas pipeline linking Russian gas to European buyers via Germany. The sanctions still need approval from the US Senate and President Donald Trump. If adopted, almost all companies involved with the project will be at risk of being affected, including direct contractors and companies that provide legal or insurance services to the developer. It may affect European government agencies that certify and issue permits for the operation of the gas pipeline. The main argument coming from the US revolves around the need to protect Europe from excessive gas dependence on Russia. "That supply is only the means to the end. Putin's end game is his assured stranglehold over the European energy market," said Senator Ted Cruz. He is among the authors of the new sanctions. While some EU countries back the US positions on Nord Stream 2, there are also those against the stance. Germany, the chief lobbyist for Nord Stream 2 in Europe, refuses to recognize the sanctions and calls them a violation of European sovereignty. Several large German companies are involved in the project. After its completion, Germany will increase its weight as a gas hub in Europe. - **INDIGENOUS ANTI-PUTIN CRUSADER ENDS THE FIGHT AFTER FORCED INTO MENTAL ASYLUM** Last year, an indigenous spiritual leader Aleksandr Gabyshev gained global fame after attempting to trek more than 8000 kilometres from the Siberian city of Yakutsk to Moscow to expel Putin from power. In doing so, he became both a target for the authorities and a symbol of anti-government resistance amid growing discontent over the state’s centralization of powers. He managed to gather a following before being detained three times. Earlier this year, after making a third attempt to cross the country and rid Putin of power, he was thrown into a mental asylum. We spoke to Gabyshevafter he was released last month. It appears he has undergone a drastic change during the time he spent in the asylum. Gabyshev now says he will be making no further attempts to hike to Moscow and has described his previous ambitions as “hallucinations” and “fantasies.”
+
+![](_assets/18/18045b00c34046dc88190341368d6ee4.webp)
 
 *Aleksandr Gabyshev. Photo: Andrey Zatyrko / Radio Free Europe*
 

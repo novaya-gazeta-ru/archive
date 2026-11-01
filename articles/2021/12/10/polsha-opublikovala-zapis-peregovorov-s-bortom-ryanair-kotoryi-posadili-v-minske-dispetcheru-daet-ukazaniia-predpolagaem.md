@@ -13,6 +13,8 @@ tags: "польша, беларусь, протасевич, сапега, ryana
 
 Пресс-секретарь министра спецслужб Польши Станислав Жарин [опубликовал](https://www.facebook.com/Rzecznik-Ministra-Koordynatora-S%C5%82u%C5%BCb-Specjalnych-101673058965850/) запись, на которой предполагаемый сотрудник КГБ подсказывает авиадиспетчеру во время разговора с пилотом Ryanair с Романом Протасевичем и Софией Сапегой на борту.
 
+![](_assets/f3/f3016ed6f4290dc1df593d31e0df05f7.webp)
+
 *Скриншот: [Rzecznik Ministra Koordynatora Służb Specjalnych](https://www.facebook.com/Rzecznik-Ministra-Koordynatora-S%C5%82u%C5%BCb-Specjalnych-101673058965850/?__cft__[0]=AZUVwuYP8GlCVc6l32SRRD-YW1t_XhqgDymCs-ldGictUXwko27ix17MDHd6v9zjeizNnwCzLnha893jVsq5_wwMpTkRfmtDMy2zMsNK1cDEa-2FhqAcxbOmqLgmT9lEjuc3b8Pfcnrc_BEjUUIA_z_USf7kzLxR3ZgAfqGXLqNlWg&__tn__=-UC-R)*
 
 В разговор с диспетчером предполагаемый силовик вступает трижды. На русском языке первый раз он говорит «продолжай, продолжай», когда диспетчер озвучивает предположение о минировании самолета. Затем подсказывает, что «это наша рекомендация», в ответ на вопрос пилота Ryanair о том, от кого исходит рекомендация посадить самолет в минском аэропорту.

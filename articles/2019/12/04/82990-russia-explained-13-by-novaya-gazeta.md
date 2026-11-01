@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *‘Putin’s Chef’ and his latest attack on us — Another environmental crisis in the far-north*
 
+![](_assets/1c/1ce93c7e9183f18acc491ebdc7b56d43.webp)
+
 *Yevgeny Prigozhin*
 
 # This Week’s Highlights

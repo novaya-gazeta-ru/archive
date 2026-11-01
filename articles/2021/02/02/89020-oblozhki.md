@@ -10,6 +10,26 @@ tags: "навальный, реакция мира, обложка дня"
 ---
 
 # Посадка, за которой следил весь мир
+![](_assets/fb/fb437a6f3969a7c94f38573b180cb8c8.webp)
+
+![](_assets/6f/6f3905e3641c078b3e9b3ecaa27cd5a3.webp)
+
+![](_assets/dc/dcedb0e58591e35542e88d1f0fde7abd.webp)
+
+![](_assets/34/3421acb705240c3e50cddb6a3007c057.webp)
+
+![](_assets/48/488c3a249e7e6046ac2f58c4e7ee6a12.webp)
+
+![](_assets/0e/0ea442a885b109ab8b5817788846d9f7.webp)
+
+![](_assets/14/14189d263c0362122040d90fea79c61b.webp)
+
+![](_assets/b7/b77ef7c20b4c8aca2058b38b3933a837.webp)
+
+![](_assets/8d/8dfe11dfe2a15c1dc733f0731ebb97de.webp)
+
+![](_assets/e6/e622fcecd92cb81848c9d7539a1d8b23.webp)
+
 
 *Иностранные СМИ — о решении суда отправить Алексея Навального в колонию: ОБЛОЖКИ*
 

@@ -31,6 +31,8 @@ Over the last decade, the Kremlin has created one of the world's most hostile en
 
 > "If the bills pass in their current form, Russian society will move to a qualitatively new level of repression," writes expert Sergei Lukashevsky, the head of the country's leading human rights watchdog the 'Sakharov Center.' "A political regime that has embarked on this path of absorbing everything free and independent can no longer stop. The process of grinding down civil society will continue. And if you are against these laws, then you are most likely a 'foreign agent.' Even if you have not received foreign money, that doesn't mean you couldn't potentially seek it out."
 
+![](_assets/8f/8fb20f4e30f2ae87114ac5f1cb722153.webp)
+
 *A sign on the headquarters of the international broadcasting organization Radio Free Europe, recognized as a foreign agent. Photo: RIA Novosti*
 
 **WHAT'S NEXT.**The Kremlin-controlled majority in the parliament has been working on the draft bills since the summer of 2019. But the process got fast-tracked after Putin solidified his latest power grab earlier this year. The package will get the first reading in mid-December, with final approval expected early next year.
@@ -50,6 +52,8 @@ Russia has been the epicenter of one of the world’s worst coronavirus outbreak
 **FIRST, BECAUSE THE KREMLIN’S PRIORITIES ARE MISPLACED.**Not even a public health catastrophe can distract the Kremlin from its obsession with ‘competing with the West.’ Although the Russian vaccine got fast-track approval back in August, only the U.K. rollout got Putin riled up enough to demand that Russian officials do the same.
 
 **SECOND, THE SCALE OF THE VACCINATION EFFORT IS TOO LARGE** for Russia’s limited pharma capacities and impoverished, corrupt healthcare system. The state has to deliver the vaccine to around 140 million people and get the vaccination campaign on track. For starters, Russia needs at least 2 million doses produced in the next few days. Deputy Prime Minister Tatyana Golikova says that the state has only 58,000 doses for now, enough to vaccinate just 29,000 people. At the current production speed, it will take years for Russia to vaccinate the population against Covid-19.
+
+![](_assets/d6/d628aeb0dd1c5c5845ef6822296fe98a.webp)
 
 *Russia's COVID-19 vaccine "Sputnik V". Photo: AP Photo / Pavel Golovkin / TASS*
 
@@ -74,6 +78,8 @@ Russia's Foreign Minister Sergei Lavrov traveled to Minsk last week, where he pl
 **THE WRONG SIDE TO BACK.** First, the Kremlin's move is a betrayal of the thousands of Belarussians who have risked beatings, imprisonment, and death to take to the streets and protest in recent months after the Lukashenka regime stole the country's August 9 elections. After over 120 days of non-stop public resistance, the fall of the Belarusian dictatorship is not a question of 'if,' but 'when,' Lipsky warns.
 
 > "Every day in Belarus brings the self-proclaimed President Lukashenka closer to condemnation. Not a symbolic condemnation, nor a political one like what has already taken place. Instead, a quite tangible one with bars on the windows and a standard prison uniform in place of a suit. It is clear that this is only a matter of time. That's it. The curtain has fallen, the point of no return has passed," Lipsky continued.
+
+![](_assets/9a/9a66f0515d027fe5f4dbeb72e43d4af7.webp)
 
 *Sergey Lavrov and Alexander Lukashenko. Photo: Valery Sharifulin / TASS*
 

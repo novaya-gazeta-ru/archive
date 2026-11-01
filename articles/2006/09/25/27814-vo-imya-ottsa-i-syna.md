@@ -10,6 +10,16 @@ tags: ""
 ---
 
 # Во имя отца и сына...
+![](_assets/8f/8f6d487a69cf13cf82353f86227b1f31.webp)
+
+![](_assets/cf/cf692c68eb6d11ac385bbee99c477785.webp)
+
+![](_assets/79/792e63ea547b973c13967c436d88c373.webp)
+
+![](_assets/21/21e85562f6eaacba219624f3b8b0e4d8.webp)
+
+![](_assets/b2/b20603b3dd44860281f2f7816f1bdf07.webp)
+
 
 *СССР: Продукт после распада*
 

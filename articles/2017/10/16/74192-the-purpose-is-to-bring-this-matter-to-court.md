@@ -13,6 +13,8 @@ tags: "mh17, boeing"
 
 *Fred Westerbeke, Chief Prosecutor with the Dutch National Prosecutors Office, in an exclusive interview to Pavel Kanygin, a special correspondent of the Novaya Gazeta.*
 
+![](_assets/e4/e43979d8c5b56b5fe24e7de923e90730.webp)
+
 *Chief Prosecutor Fred Westerbeke*
 
 Chief Prosecutor Fred Westerbeke is the head of the joint investigation team (JIT) that is looking into the Malaysian Boeing downing on 17 July 2014 over the Donbass. The MH17 Amsterdam – Kuala Lumpur liner carried 298 civilians — 283 passengers, and the crew of 15. They all died. In addition to the Netherlands, the investigation group is represented by Malaysia, Belgium, Australia and Ukraine.
@@ -22,6 +24,8 @@ In September 2016, **JIT** presented its findings, evidencing that the passenger
 **link:** https://novayagazeta.ru/articles/2017/10/16/74187-zadacha-v-tom-chtoby-nepremenno-dovesti-delo-do-suda
 
 The *Novaya Gazeta* ran its own investigation early in 2017 and identified “Khmuriy” who happened to be one Sergey Dubinskiy. Presented in the photo Dubinskiy usually wears a uniform of a Major General of the Russian army. It is unclear yet whether Dubinskiy was in military service on July 2014. Dubinskiy-Khmuriy was identified by his fellow officer Sergey Tiunov, an Afghan war veteran. In an exclusive interview with the *Novaya Gazeta*, Tiunov said that he and Dubinskiy discussed the consequences of the MH17 tragedy, and he offered legal help to Khmuriy. By request of the newspaper, experts of the International Association of Criminalistic Phonetics and Acoustics (IAFPA) carried out the analysis of the voices of Khmuriy and Dubinskiy and concluded that they belong to one and the same person.
+
+![](_assets/58/587513f41bdccdc4b87729a2915cce0f.webp)
 
 *Sergey Dubinskiy is on the left holding a gun*
 
@@ -60,6 +64,8 @@ In our conversation, Fred Westerbeke explained how the official investigation is
 — All I can say is that we have made several official requests to Moscow and I have talked with my Russian colleagues. If you are asking whether they are willing to cooperate, I would say they had given us some information. Are they willing to cooperate in honest? Well, a lot of people in the Netherlands find it hard to understand why it took the Russians grand total of two years after the plane crash to provide the original data from their radar in Rostov Oblast? And why did they time it exactly two days prior to our MH17 report? Anyway, they have given us these details. And I can say, there is a cooperation of sorts. Nothing goes smoothly there, as it is common to every international investigation, but there *is* the cooperation. Next year will show, if we are going in the right direction. So far, I have no reason whatsoever to doubt it.
 
 **— What do you think about the alternative report made by the Russian government-owned *Almaz-Antey* company?**
+
+![](_assets/06/06b2110864268ca517456074667ed5fb.webp)
 
 *Almaz-Antey presentation / EPA*
 

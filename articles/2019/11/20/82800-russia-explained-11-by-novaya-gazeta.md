@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *South Russia uprising — Fascists vs eco-activists — Exploited miners*
 
+![](_assets/08/0891ccad80228a376140d083e6924dcc.webp)
+
 *Photo: Alina Desyatnichenko*
 
 This Week’s Highlights
@@ -28,6 +30,8 @@ Protests in Kalmykia, Explained
 Before the war in Eastern Ukraine began, Dmitry Trapeznikov worked for the local football club in Donetsk. He later rose to become First Deputy Prime Minister of the self-proclaimed Donetsk People’s Republic; a region in Ukraine’s East under the control of Russian-backed separatists. Now, the Kremlin has ‘awarded’ him the job of heading Elista — the capital of Russia’s sparsely populated and traditionally autonomous southern region of Kalmykia; the only majority buddhist region in Europe. In response, protests have been going on there for a month, without coverage from Russian state media.
 
 **Big Plans.**Protestors are demanding that Trapeznikov step down from his post, on the grounds that that he has nothing to do with Kalmykia and has never worked in Russia before (he didn’t even hold a Russian passport until April 12, 2019). Locals also object to his reputation as a former official in the so-called Donetsk People’s Republic. Trapeznikov himself says that “the rallies cannot be banned — the people should express their opinion!” He also has big plans for Elista, including figuring out public housing and developing municipal transport.
+
+![](_assets/f7/f795d096a5441c95cbcdf8d51e16cef3.webp)
 
 *Photo: Alina Desyatnichenko*
 
@@ -47,6 +51,8 @@ Far-right demonstrators appeared at ground zero of the Russian environmental pro
 
 **Fascists For Hire.** Bringing in nationalist agitators to disrupt peaceful demonstration is a well-known tactic in Russia. The deployment of the far-right groups to Shiyes was likely the brainchild of political strategist Pavel Maruschak from the neighboring Komi Republic. According to Novaya Gazeta’s sources, he has recently become an advisor to the head of the company building the landfill at the Shiyes station, Tekhnopark LLC.
 
+![](_assets/a4/a407240d9e404f80a539a7c657fdb980.webp)
+
 *Photo: Anna Shulyatieva*
 
 **Infiltrating Eco-protests.**The activists in Shiyes are part of a larger environmental movement growing in Russia, over severe environmental degradation in the provinces. The anti-landfill protests in Shiyes have always united people of various political convictions and activists there are not professional revolutionaries with their own security protocols. As a result, nationalists have been able to take advantage of the fact that calling yourself an environmentalist is enough to get you a “pass.” For the authorities, introducing the far-right to the movement kills two birds with one stone: alienating other protestors who object to their nationalist ideology and giving the police an excuse to clear the encampment.
@@ -60,6 +66,8 @@ Worsening Exploitation of Russian Miners, Explained
 Three people were killed in an accident at the Taimyr underground mine in the Krasnoyarsk region of central Russia on October 22, 2019. The company that owns the mine, Russian mining giant Nornickel (previously known as Norilsk Nickel), has long been the object of a feud between its majority shareholder, tycoon Vladimir Potanin, and the U.S.-sanctioned billionaire oligarch, Oleg Deripaska. Nornickel immediately launched an internal investigation, which determined that the miners died due to a lack of oxygen. However, the accident comes as no surprise to many of the company’s employees, given declining labour standards at Nornickel’s Siberian plants and the company’s history of violating industrial safety regulations.
 
 **Gross Violations.**The accident at the Taimyr mine raises a number of questions about the labour standards in Russia’s mining industry. During the summer of 2019, the local department of Russia’s technological supervisory body, Rostekhnadzor, suspended operations in some sections of the mine due to gross safety violations. The Norilsk Prosecutor’s Office then accused the company of covering up an accident that occurred during a rock collapse in the underground section of the mine on September 8, 2019, leaving one miner with a severe spinal injury.
+
+![](_assets/60/60ac7f7fe6e29d8ddfd7263f86bdd790.webp)
 
 *Photo: RIA*
 

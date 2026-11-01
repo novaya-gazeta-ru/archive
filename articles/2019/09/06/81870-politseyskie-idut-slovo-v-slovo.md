@@ -10,6 +10,30 @@ tags: "нарушения, списывание, ильдар дадин, сил
 ---
 
 # Полицейские идут слово в слово
+![](_assets/1c/1cf5a1ae54456ab2e2bce54f618efd65.webp)
+
+![](_assets/c8/c8c1fe9b91eac267d7ebe23a9c452336.webp)
+
+![](_assets/eb/eb51ce9a8954cd6f9ede71edb49b3d7c.webp)
+
+![](_assets/2a/2a194c0962e8bf764028a4c4735347e6.webp)
+
+![](_assets/5a/5a594d19c2ca686fb9b275c7449603a8.webp)
+
+![](_assets/7e/7e412cde1098125ecb175be8bee889b9.webp)
+
+![](_assets/a2/a2c08843d5ab1e10be986782b8878fd5.webp)
+
+![](_assets/ab/ab6a0cbd125eba603d0f08526c847652.webp)
+
+![](_assets/9b/9b297f3492f124999c7b0445ad174f0f.webp)
+
+![](_assets/64/64484a3e29851e4ec099b3174f6a0d99.webp)
+
+![](_assets/ae/ae06a7021eb3de1264e0e37b6822cd79.webp)
+
+![](_assets/ad/ad0fa130653e4026d6957829022ff355.webp)
+
 
 *В уголовном деле Константина Котова о нарушении на митингах силовики слишком близко сошлись в показаниях*
 

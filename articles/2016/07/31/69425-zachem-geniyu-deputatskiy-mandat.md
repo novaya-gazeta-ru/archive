@@ -10,6 +10,24 @@ tags: "выборы, госдума, депутаты, режиссеры, пи�
 ---
 
 # Зачем гению депутатский мандат?
+![](_assets/50/505126120a2966ea41004e989c15f71e.webp)
+
+![](_assets/51/51b286e3f6d8d0edf3ae38985ad4d506.webp)
+
+![](_assets/53/53ed46c79cdff2c36615dfebedc1d84c.webp)
+
+![](_assets/03/03397f4e52eb50e4fa7fb3701c7c9b51.webp)
+
+![](_assets/d6/d6ff0934574cccf1a1fd1c2d9f7f43f3.webp)
+
+![](_assets/ff/ffec056f0fa84a43c952943a5ad580b8.webp)
+
+![](_assets/ec/ec1e7b020749848a0be111d1c0786869.webp)
+
+![](_assets/34/34672b2fbc9999aa918f51dba55c34fe.webp)
+
+![](_assets/25/25e12a595cd98d9554d03e6ab88e5f4d.webp)
+
 
 # Четыре писателя по дороге в Госдуму
 

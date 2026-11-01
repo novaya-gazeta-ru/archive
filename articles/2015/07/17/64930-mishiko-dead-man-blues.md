@@ -10,6 +10,14 @@ tags: "карта памяти"
 ---
 
 # Мишико/Dead man blues
+![](_assets/e1/e124e52dc7ec3b76acad142ea8db8a0d.webp)
+
+![](_assets/f3/f3c946a91eda8c85edc16c8effba9a28.webp)
+
+![](_assets/93/931eebb4aedf4ff92aee9f2882ba5400.webp)
+
+![](_assets/e5/e59b04e7a7c1bca799476fda6c5790f1.webp)
+
 
 *Я называл его лучшим человеком. Он и был одним из них — немногих лучших людей*
 

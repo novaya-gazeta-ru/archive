@@ -41,6 +41,8 @@ He died soon after that, my father, and — strangely enough — it turned out t
 
 Maria has bare feet, even though it's cold there. She’s wrapped the baby securely, protecting him from the bad weather, but there’s not enough of the blanket to cover her legs. If it were possible to see the reverse side of this large yellowed piece of paper with noticeable marks from the folds, we would see a geographical map, and familiar names on it: Tschernoje More, Odessa, Cherson, Nikolajew… The war is moving along the map in red lines. And on the other side there is a peace. The child sleeps on Mary's hands. With a quiet smile, she inclined her face to him and closed her eyes. On the right from them there are three words: Licht (Light), Leben (Life), Liebe (Love). On the left: 1942, Christmas under siege, fortress Stalingrad.
 
+![](_assets/9b/9b399374bb2ad3ee10a9baae3f65c7fd.webp)
+
 *«The Stalingrad Madonna»*
 
 This is «The Stalingrad Madonna». Under a soft light, it hangs on a black wall in the shadows of the Kaiser Wilhelm Memorial Church in the heart of West Berlin. It was drawn by the German military physician Kurt Reuber.
@@ -85,6 +87,8 @@ And I say to Pastor Knut that it was my 86-year-old friend Vladislav Khlebovich 
 
 > My friend Khlebovich believes that Madonna teaches us to resist propaganda. «I remember very well the documentary footage of an endless column of shambling captured German soldiers, they were haggard, hungry and frozen, wearing handmade shoes stuffed with straw and covering their ears with rags. I won’t lie — back then, seening this made me happy and I gloated… And now — I do not have a portrait of my brother, who died in German captivity as a young boy. Instead, there is a portrait of his enemy Kurt Reuber on my desk. I look at him and pray for both. They merge into one…»
 
+![](_assets/9c/9cb4a87d93c91f98858d1092056c16ae.webp)
+
 *Kurt Reuber (on the left) and my grandfather (both pictures were taken before the war)*
 
 # Rendezvous
@@ -105,6 +109,8 @@ The wooden stables they lived in have been demolished a long time ago and after 
 
 Most likely my grandfather was not able to walk in last months. He was dying. When the British released him he weighed 38 kilograms. I walked through the empty town, along a canal and past small Dutch houses with stepped roofs, and everything inside of me shrank from pain at the thought of this number.
 
+![](_assets/66/6608d2d446e4610094cc297a450c9370.webp)
+
 *My grandfather seven months after liberation, December 1945, Germany*
 
 > «Why did you come here?» I asked myself. «Especially since it's so hard. Why?» And I did not have an answer to this question. I did not know it. But I remembered that I always wanted to come to this place. The place where it was so hard for my grandfather.
@@ -115,7 +121,7 @@ As if because of the suffering, experienced by him here, this place is now the c
 
 In terms of dramaturgy the weather the next day was ideal.
 
-*\*
+![](_assets/88/887878e79256ffaf328272b8e7870402.webp)
 
 The train was going towards Kiel, it was late, I guess it was hard for the train to go against the storm wind. It was blowing at a speed of 53 kilometers per hour. It was blowing and snowing. And you could not see anything around. When I entered the train car there was only one passenger in it, a German of sixty, and we immediately began to talk as if we were acquainted. We laughed as I shook the snow out from underneath my collar. We chattered. We admired the blizzard to the right and to the left of us. He was telling me about the sea shore where he works as a biologist — he watches migratory birds. We admired the white snow again. And then he asked where I was going in such weather. I said: to the cemetery of the captured soldiers.
 
@@ -130,6 +136,8 @@ Well, and then the train left. I did not even have time to ask his name. It was 
 # Wladimir and me
 
 The driver of the empty bus loudly announced the name of the cemetery and opened the door. And the next moment I found myself alone in a snowstorm somewhere in the middle of the highway. Strait rows of stalks, perhaps corn, cut off close to the snow-covered ground, stretched off from the road into the whiteness of the fog, and for some reason this picture seemed creepy to me. I could barely see the silhouette of the hill ahead, and I guessed that the honorary cemetery should be there. I was right.
+
+![](_assets/e8/e88066b43d3b62dd3a30ba03fb737b25.webp)
 
 *Cemetery of the captured soldiers. Photo: Ekaterina Glikman/«Novaya gazeta»*
 
@@ -187,7 +195,11 @@ My grandfather helped me. I handed Ute his postwar picture with his children, fr
 
 «And this is me,» Ute showed a baby girl of the same age in her photo. She's only three years old on that picture, with an apple in one hand, holding her father’s hand with the other, he is bent over and saying something to her, and her older brother and sister snuggle up to him on both sides.
 
+![](_assets/94/94bbf5eab606c881f3b203fed2f38b57.webp)
+
 *My grandfather with his kids after the war. My mom is on the left*
+
+![](_assets/30/30c48110b8e3d5a8d39de222a8b60d54.webp)
 
 *Kurt Reuber with kids. Autumn 1942. The smallest is Ute*
 
@@ -201,6 +213,8 @@ This is the only meeting with her father that she remembers. The elder sister ha
 
 > «Here are the Russian prisoners of war,» Wolf-Dietrich shows portraits of young guys — one has a side cap on his head, the other is with a bandaged hand. «He signs the drawing: «Kamerad Iwan», «Kamerad Nikolaj». But «kamerad» means even more than a friend.»
 
+![](_assets/11/11fcf48a2824b4f46e1b704135457392.webp)
+
 *The portraits of Russian prisoners of war made by Kurt Reuber*
 
 «My father wanted to build a bridge between the Russians and the Germans. He tried to do it during the war!» Ute says.
@@ -213,7 +227,9 @@ Some people say that he changed his views and beliefs during the war. Of course 
 
 Ute says that he had close connections with a group from Göttingen which was part of the Resistance. Several times before the war he went to Berlin on the affairs of this group. And when a meeting of the leaders of the church took place in his native Kassel, and they actively discussed the cooperation of the church and the state there, one priest strongly opposed this. He was shut up. Reuber stood up for him. For this, some people beat up Reuber after the meeting.
 
-*Ute Tolkmitt with her husband Wolf-Dietrich and their son Jan (March 2018). Photo: Ekaterina Glikman/«Novaya gazeta»*
+![](_assets/e9/e9c981e19b579e40fb8e0e0b7d84a55c.webp)
+
+*Ute Tolkmitt with her husband Wolf-Dietrich and their son Jan (March 2018). Photo: Ekaterina Glikman/«Novaya gazeta»*
 
 All her life Ute wanted to see the very place where her father died. Eventually it happened: in 2005 she and her husband went to Volgograd (former Stalingrad), and from there to Yelabuga where Kurt Reuber is buried. They start to talk almost in chorus. They tell me that in Volgograd a lot of military men in uniform and veterans came to the meeting with them. Ute was sitting on the stage. Suddenly a girl of around fifteen years old came up to her with a bunch of flowers and told her that her grandmother was a child in Stalingrad during the war and had fallen ill, and that Kurt Reuber had cured her. And she survived. The girl thanked Ute and gave her the bouquet.
 
@@ -249,6 +265,8 @@ The walls of the Museum of Memory of the city of Yelabuga are hung up to the cei
 
 > There is only a spoon left from the soldier Semyon Karpovich Novikov. Volunteer searchers found it two years ago in the Tver region, on one of those battlefields. There is nothing else left from Yelabuga townsman Semyon Karpovich. The spoon, lying under a glass display in the museum, is all that remains. For me this was the scariest exhibit there.
 
+![](_assets/d3/d31f13dbcc2ffb0f052662329dbd3205.webp)
+
 *Exposition of the museum in Elabuga. Photo: website of the museum*
 
 While I'm thinking about the spoon, they suddenly put an army cloak-tent on my shoulders and a helmet on my head. And they give me a machine gun. It turns out that they do this to every visitor. «You must take a picture of yourself before you leave,» they say. It is unbearable to hold a machine gun in your hands after you have seen the spoon.
@@ -265,6 +283,8 @@ In what here from 1943 to 1948 that the NKVD, whose headquarters were located in
 
 Priest Ilya, parishioner Natalya and senior researcher of the Yelabuga State Museum Ravilia Bruskova are waiting for me in the monastery where the Zone B was located. They are standing outside and basking in the spring sun. The monastery too was built before revolution on the money of Russian merchants. In the 1930s the monastery cathedral was blown up and the nuns were put into Stalin’s prison camps. «After that, street children were placed here, and then the “nemchiki” lived here,» Natalya says. The word «nemchiki» makes me feel uncomfortable. (*«Nemchiki» — a contemptuous term used to refer to Germans, especially the German soldiers in World War II* — **translator's note**).
 
+![](_assets/31/31107e96fbb650fdf168cc671e864818.webp)
+
 *German prisoners of war in Yelabuga. Photo was made by NKVD*
 
 Ravilia Bruskova says that at first 5-6 officers died every day — these were the consequences of Stalingrad battle (many Germans were suffering from dystrophy and frostbite). She tells me that the food rations of prisoners of war were better than the rations of nurses who took care of them, even the camp authorities ate food from the same pot as the Germans.
@@ -272,6 +292,8 @@ Ravilia Bruskova says that at first 5-6 officers died every day — these were t
 The monastery towers were used as camp towers. Cells of nuns were used as a place to live. Unlike the soldiers, the officers were not used as a free workforce. They only carried out work needed to make the camp self-sufficient. The Germans started a philosophy club, gave lectures on natural science, tried to learn Russian, planted flowers. They had their own theater, orchestra and newspaper…
 
 Here, in this monastery, in January 1944, Kurt Reuber died of the inflammation of the middle ear. He was 37 years old. A month before his death he painted his second Madonna. She was completely different this time. With wrinkles on her forehead, with eyes full of terror. Later she will be called The Prisoners Madonna. He drew it for the newspaper that the captives published and also wrote a «Christmas letter to a German wife and mother.»
+
+![](_assets/19/199e2d5e4487b454d88f46360892181b.webp)
 
 *The Prisoner’s Madonna. December 1943, Yelabuga*
 
@@ -333,6 +355,8 @@ The three of us — me, Ravilia Bruskova and the driver — are looking for Kurt
 
 Children of Kurt did not accidentally choose the Kaiser Wilhelm Memorial Church for the Stalingrad Madonna. Everything here was in ruins after the war. If you stand in the middle of Breitscheidplatz and look around, then out of all the buildings you see there is only one that survived from pre-war time. Well, except the church tower itself. After the war they wanted to take it down. But within a week more than three hundred thousand people wrote letters of protest to the newspapers. They wanted the tower to be preserved. So it stands, with wounds all over its body, with a steeple cut off by the bomb, with empty windows. «The hollow tooth», as the Berliners call it. Inside there is a figure of Christ without his right hand that broke away when the statue fell down. And next to it there’s an unusual cross made out of nails.
 
+![](_assets/04/04037e9500cc0a2d3a8aca85676ac09b.webp)
+
 *Kaiser Wilhelm Memorial Church*
 
 Pastor Knut Soppa told me its story. In November 1940 the British city of Coventry was destroyed during an air raid. And the central cathedral too. The next day after the bombing the abbot of this cathedral came there and saw that the roof had collapsed and the old wooden beams lay on the ground. So they took the iron nails from these beams and made a cross out of them. And they said: this is a sign of the destroyed cathedral and a sign of hope and reconciliation. They installed this cross in the ruins of the altar and wrote only two words under it: «Father, forgive.»
@@ -345,11 +369,15 @@ Pastor Knut Soppa told me its story. In November 1940 the British city of Covent
 
 It’s semi dark in the church. No noise can be heard from outside. Since morning the sun has been slowly drifting behind the church wall, reflecting in the blue glass cubes it is made from, and shining with blue sunbeams. Now, at noon, it is right behind Christ. And He, surrounded by a blue radiance, unusual, seemingly crucified, with wounds on his palms and feet but without a cross, slightly overhanging us. He is shown at the moment of ascension.
 
-*The figure of Christ above the altar in the Kaiser Wilhelm Memorial Church in Berlin. Photo: Ekaterina Glikman/«Novaya gazeta»*
+![](_assets/bb/bb7481b1b8c43d83e19163570c06095f.webp)
+
+*The figure of Christ above the altar in the Kaiser Wilhelm Memorial Church in Berlin. Photo: Ekaterina Glikman/«Novaya gazeta»*
 
 «You know, perhaps we will be grateful at the end of our present difficult path that we were forced to go through all the suffering and disappointment, and we will be granted true salvation and liberation, both of the individual and the nation as a whole» Kurt Reuber wrote in the camp for prisoners of war, «But what do most of us understand by the word «peace»? How many are there of those who aspire — in their beliefs, in military disputes — to self-realization as the main goal, while the gloomy war of today is still going. We, prisoners, hear the voice of conscience. Will we follow it? As my deceased kamerad asked me, «will we stop appreciating life?»
 
 Good questions.
+
+![](_assets/12/12489145757c992774bab3ba2d27b3ab.webp)
 
 *Kurt Reuber at war. He is drawing*
 

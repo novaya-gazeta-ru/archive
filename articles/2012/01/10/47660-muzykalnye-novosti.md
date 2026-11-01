@@ -10,6 +10,16 @@ tags: ""
 ---
 
 # Музыкальные новости
+![](_assets/4f/4fc898eb03e982bb096235a8d7a32964.webp)
+
+![](_assets/be/be73c02ec2ec75c7d532ebc714bbb94f.webp)
+
+![](_assets/03/0386096e2827c6dbba5985488665ab7c.webp)
+
+![](_assets/d7/d782eae99efb7f2e51e1a311517110f5.webp)
+
+![](_assets/5c/5ce1ca3218fcb20a625937fb97cc081d.webp)
+
 
 Metallica приступила к записи нового альбома
 

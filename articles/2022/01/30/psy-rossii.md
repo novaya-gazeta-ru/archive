@@ -15,23 +15,23 @@ tags: ""
 
 Все живые существа в России, включая вирусы, коров и грибы, созданы для того, чтобы решать государственные задачи. Сегодня познакомимся с обязанностями собак.
 
-*\*
+![](_assets/d6/d684965e7a655f8fe1f1ebe6d72a4fce.webp)
 
-*\*
+![](_assets/1e/1ea6b40cabcef6812bf5fb4f98f2e0ee.webp)
 
-*\*
+![](_assets/21/21ef652f5ba2666c1fdbeaa505f676e8.webp)
 
-*\*
+![](_assets/91/910faddf38cfdc799aff9cd00a28ab6e.webp)
 
-*\*
+![](_assets/72/72b1297416a66432ba744413e35f708c.webp)
 
-*\*
+![](_assets/e3/e32a3afeaed72db4bb3f33557646cfb0.webp)
 
-*\*
+![](_assets/ba/babeca26d1ebff8e69e237a27d83d353.webp)
 
-*\*
+![](_assets/ad/ad78d2826cc2c861f272e954b9c990cf.webp)
 
-*\*
+![](_assets/8c/8c46007a54b0647a070d9d51bfdd9368.webp)
 
 > **От редакции**
 >

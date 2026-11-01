@@ -13,7 +13,9 @@ tags: "олимпиада, выборы, вишневский, шлосберг,
 
 - **Сборная России опустилась с пятого на шестое место в олимпийском медальном зачете.** Всего у россиян 14 золотых, 21 серебряная и 18 бронзовых медалей. Сегодня российские синхронистки Светлана Колесниченко и Светлана Ромашина [завоевали](https://novayagazeta.ru/articles/2021/08/04/rossiiskie-sinkhronistki-zavoevali-zoloto-v-duete-na-olimpiade-v-tokio-sportsmenka-romashina-stala-shestikratnoi-olimpiiskoi-chempionkoi-news) золото в дуэте на Олимпиаде в Токио. Ромашина стала первой шестикратной олимпийской чемпионкой в истории Игр по синхронному плаванию.
 
-*Данные: сайт [olympics.com](https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/medal-standings.htm)*
+![](_assets/e7/e7a6b3d661425be7ab6bbfeffd6ce818.webp)
+
+*Данные: сайт [olympics.com](https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/medal-standings.htm)*
 
 - **Апелляционный суд **[**признал**](https://novayagazeta.ru/articles/2021/08/04/apelliatsionnyi-sud-priznal-zakonnym-vnesenie-fbk-v-reestr-ekstremistskikh-organizatsii-news)** законным внесение ФБК* в реестр экстремистских организаций.** Заседание прошло в закрытом режиме, адвокатов попросили сдать мобильные телефоны. Защита просила предоставить им месяц на ознакомление с необходимыми документами, но суд дал им 20 минут.
 

@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *Questionable testing — Quarantining the poor — China dumps Rosneft*
 
+![](_assets/b0/b053103e5c274f2c101b0552737b6304.webp)
+
 *Photo: RIA Novosti*
 
 This Week’s Highlights
@@ -35,6 +37,8 @@ Russia now has nearly 500 confirmed cases of the coronavirus, but only one death
 
 > “If you were to go to the clinic for testing, you wouldn’t find out if you have the virus [while you’re there],” Yakovlev explains. “But you may well bring the disease back to your elderly parents. So these [test] centers at the clinics make absolutely no sense.”
 
+![](_assets/5a/5a2160a7f63e2d6efb4e614248d273c4.webp)
+
 *Testing for coronavirus in St. Petersburg. Photo: RIA Novosti*
 
 **Migrants stuck in limbo.**Meanwhile, border closures have left nearly 400 people stranded in the departure areas of Moscow’s airports. And because of the country’s tightened visa restrictions, they can’t go anywhere else. The embassies of Kyrgyzstan and Tajikistan have promised to charter extra flights, but with so many planes grounded, these foreign nationals are likely to be camped out at the airport for a while, putting them at risk of contracting COVID-19.
@@ -54,6 +58,8 @@ Countries around the world are implementing increasingly strict measures to figh
 **Factoring in the informal economy.**“The first and main measure is quarantine. So far, we’ve seen that in China, Taiwan and South Korea isolation helped,” Mironova writes in one of this week’s most popular columns. “But who is going to isolate themselves here? People are working for ‘grey’ [informal] salaries.” As Mironova explains, most people in Russia can’t afford to take two weeks off work, even if the government is promising compensation for quarantined citizens. Many people are living off of the country’s minimum wage and although it was increased in January of this year, it still only totals about $150 per month.
 
 **The high cost of quarantine.**Moreover, it recently emerged that people who have to undergo quarantine are being forced – under threat of losing their jobs – to go on leave at their own expense. And even those with paid medical leave will likely take a pay cut, since most people only make half their wage on sick days. “So even these pennies, half of the minimum wage, are not being paid,” Mironova emphasizes. Plus there’s the fact that there’s no support for the country’s millions of people who are working in the informal economy.
+
+![](_assets/c1/c15212e0c19188658a75f0cdb7da19aa.webp)
 
 *Photo: RIA Novosti*
 
@@ -78,6 +84,8 @@ A petition demanding the renaming of Valentina Tereshkova Street in the small to
 **“We are not taking this petition seriously,”**says the city’s mayor, Konstantin Trofimov. He claims that his office was unable to identify the people behind the petition. And the way he sees it, there’s nothing wrong with honoring Tereshkova, given her past achievements: “In general, I wondered why the petition talks about Artyomovsky in particular. After all, many cities have a Tereshkova Street,” Mayor Trofimov said.
 
 **Poverty > Putin.** After spending an entire day interviewing locals in Artyomovsky, our correspondent was unable to find anyone who supported renaming the street. Instead, many were trying to decide on how to vote in the upcoming nationwide plebiscite on Putin’s package of constitutional reforms. While many remain undecided, the locals are well aware of what issues matter most to them: the town’s aging population complained about everything from crumbling roads to piddling pensions, which leave many elderly people trying to survive on as little as $150 per month.
+
+![](_assets/e6/e6029b0b7029034971d31ee6164949ff.webp)
 
 *Valentina Tereshkova Street in town of Artyomovksy. Photo: Ivan Zhilin / "Novaya Gazeta"*
 

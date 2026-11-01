@@ -10,6 +10,10 @@ tags: ""
 ---
 
 # Чабуа Амирэджиби
+![](_assets/3e/3e796ea1e8454f0e33ca2367c4654ccb.webp)
+
+![](_assets/fe/fe770ab1a821cb978e30cc43edd6f2e0.webp)
+
 
 *Карта памяти Юрия Роста*
 

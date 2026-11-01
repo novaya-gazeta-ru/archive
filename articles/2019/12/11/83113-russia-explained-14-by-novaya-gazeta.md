@@ -25,13 +25,17 @@ Special Investigation: Identifying an FSB Assassin
 
 A Novaya Gazeta investigation has confirmed that the man responsible for assassinating a former Chechen military commander in Berlin is not only linked to Russia’s Federal Security Service (the FSB) but part of the infamous FSB special forces group known as “Vympel.” The killer approached his target, Zelimkhan Khangoshvili – a Georgian national who also served as a military officer during the 2008 Russo-Georgian War – on a bicycle and shot him dead in a Berlin park on August 23, 2019.
 
+![](_assets/df/df80432e7a62e41a7af5c090d932d11e.webp)
+
 *Vadim Sokolov*
 
 **The Investigation.**When the assassin was detained, he was found carrying a Russian passport with the name Vadim Sokolov. The Berlin Prosecutor’s Offices suggested that he was linked to the Russian FSB. A joint investigation from the publications Der Spiegel, The Insider, Bellingcat and the Dossier Center later identified him as Vadim Nikolaevich Krasikov, a Russian citizen born in 1965. Novaya Gazeta was later able to establish that Krasikov was indeed connected to the FSB’s special forces.
 
 **The Assassin.**In 2007, Vadim Krasikov was identified in connection with the murder of businessman Yuri Kozlov, who was a city deputy for the town of Kostomuksha in northwestern Russia at the time. His two accomplices were identified as FSB officers from the Vympel special forces group. Novaya Gazeta has confirmation that the operation in Kostomuksha was not the only one this group carried out and that they continued working together until at least 2012. Krasikov was also wanted in connection with the June 2013 murder of Russian businessman Albert Nazranov – whose assassin approached him on a bicycle as well. In 2015, however, the search for Krasikov was called off and information on him was reportedly deleted from law enforcement databases.
 
-*Yuri Kozlov's house in Kostomuksha. Photo: Novaya Gazeta*
+![](_assets/2a/2a9596d36d4fb2f9ac4d792a8c1d0d6d.webp)
+
+*Yuri Kozlov's house in Kostomuksha. Photo: Novaya Gazeta*
 
 **The Victim.**Zelimkhan Khangoshvili had been living in Berlin with his family since 2016. They sought asylum in Germany after several attempts were made on Khangoshvili’s life in Georgia. Khangoshvili’s assassination is believed to be connected to his military involvement in Chechnya in the early 2000s, since the Chechen leadership is known for going after dissidents abroad.
 
@@ -47,6 +51,8 @@ Seven more pro-democracy protesters were sentenced in the Moscow Case on Decembe
 
 **Egor Zhukov.** In the most high-profile case, a 21-year-old video blogger named Egor Zhukov got three years probation. The authorities opened a case against him for allegedly using his popular YouTube channel to “incite extremism.” Zhukov’s courtroom speech during his hearing on December 4, 2019, made waves online and was even profiled in the New Yorker. Although his probation includes a ban on managing websites for the next two years (meaning he can no longer publish videos on his YouTube channel), Zhukov’s voice will still be heard since he has officially joined Novaya Gazeta as a political correspondent.
 
+![](_assets/14/141ed64df413ec5313f1df4a34edbd65.webp)
+
 *Egor Zhukov. Photo: Irina Vorobyeva*
 
 **Discrediting the System.**The Moscow Case trials have only served to discredit the Russian court system, argues Novaya Gazeta columnist Kirill Martinov. He writes, “The day after the sentence, I thought about how it happened that we perceive a suspended sentence for an innocent person as a victory, as the authorities – [who] are often excessive and gratuitous – easing up, as mercy. The reason, in my opinion, is that both sides know that prison is real and that home and friends are real. But a court that ignores facts and common sense, on the other hand, is not a very real thing.”
@@ -61,6 +67,8 @@ Russian Companies Testing American Sanctions, Explained
 
 Amid friendly signaling from the White House to the Kremlin, companies linked to the Russian state are testing the limits of the U.S. sanctions imposed after the annexation of Crimea and military intervention in Ukraine in 2014. Using international intermediaries, an unnamed “government-controlled” Russian company reportedly tried to acquire a $17.3 million Vectra 400 power turbine in the United States, for deep drilling in the Russian Arctic. The scam involved two Russians, two Italians, one American citizen, and three different firms.
 
+![](_assets/c3/c373d06f2439a019b2ef436354ed6c43.webp)
+
 *Photo: EPA*
 
 **Illegal Transactions.**In September 2019, U.S. authorities arrested three international businessmen who were attempting to conduct an illegal transaction in Savannah, Georgia. The South Georgia State Prosecutor’s Office accused them of violating the International Emergency Economic Powers Act (IEEPA), which prohibits practically any economic operation involving property from a “threatening” foreign government. The men in question were Russian businessman Oleg Nikitin (the owner of the St. Petersburg-based company KS-Engineering), Italian businessman Garbiele Villone (the founder of the company GVA International Oil and Gas Services) and American citizen Dali Bagrow (Executive Director of the U.S. company World Mining and Oil Supply). They now face up to 20 years in prison and fines of $1 million for violating the IEEPA.
@@ -74,6 +82,8 @@ ___
 Indigenous People vs. Russia’s Environment Ministry, Explained
 
 In a case sending waves across the country, Andrei Danilov, a member of the Sami minority indigenous group in Russia’s far-north region of Murmansk, is suing the government for denying him the right to hunt without a license. The case is reminiscent of the long and unaddressed history of the Russian state suppressing indigenous minority groups and erasing their cultural heritage.
+
+![](_assets/63/637150b85ac8cc73bf3eb58c81ef13f6.webp)
 
 *From the movie «The Kautokeino Rebellion»*
 
@@ -92,6 +102,8 @@ Law enforcement abducted a video blogger in Russia’s most repressive region, C
 **Kadyrov’s Residence.**With the help of locals in the Chechen capital, Grozny, Novaya Gazeta was able to establish the exact route that Nukhanov showed in the video. It passes through a 90-hectare property surrounded by the Sunzha River in central Grozny. This is where the Head of the Chechen Republic, Ramzan Kadyrov, has his residence — protected as a “strategic location” where unauthorized entry is prohibited. Like other streets in central Grozny where Kadyrov’s relatives and closest associates live, the property is surrounded by a perimeter of road signs, obstacles, barriers and checkpoints known as the “red zone.” As a result, a huge chunk of downtown Grozny is not just private property but essentially a restricted area.
 
 **The Official Version.**Islam Nukhanov spent the entire month of November in the basement of the Grozny Interior Ministry. He was reportedly interrogated in the presence of a lawyer on November 16, 2019, and plead guilty to arms possession charges, because his legal counsel advised him to do so. This narrative is typical of Chechen law enforcement, says Novaya Gazeta Special Projects Editor Elena Milashina. “They found ammo. They found a gun. Do you think that Islam [Nukhanov] was then detained and handled officially, in accordance with Russian law? No, this does not happen in Chechnya – it happens like this: After some time the suspect confesses of his own accord.”
+
+![](_assets/a2/a2be2a1dc625181b5e5fa2a1d1280f7d.webp)
 
 *Islam Nukhanov*
 

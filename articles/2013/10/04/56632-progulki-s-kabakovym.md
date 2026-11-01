@@ -10,6 +10,14 @@ tags: ""
 ---
 
 # Прогулки с Кабаковым
+![](_assets/8b/8b011c7f71c4a3bec62a64b34bd4006c.webp)
+
+![](_assets/10/10050a8323cd69ba838896441373858d.webp)
+
+![](_assets/11/1148156937dc821ecf4a6ac86b74c581.webp)
+
+![](_assets/cd/cdd72434e09939f0c94e10594e0f5f4e.webp)
+
 
 *Карта памяти Юрия Роста*
 

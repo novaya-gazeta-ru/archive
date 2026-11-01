@@ -10,6 +10,20 @@ tags: "великая отечественная война, история, п�
 ---
 
 # Два портрета
+![](_assets/13/13a88e0a02e42b15a4cfe3ce0e5f05bb.webp)
+
+![](_assets/3d/3d4a97aa9274d946aff96ddb556ffe1a.webp)
+
+![](_assets/6c/6c0f1ce5a3b918dbac2daea491ef7aec.webp)
+
+![](_assets/22/2240079e4b39c3343acafbc584924360.webp)
+
+![](_assets/37/3714a9c319c98e7b7d9818623fcc9b3b.webp)
+
+![](_assets/3f/3f9de2e99c8addab2412dded009da2e9.webp)
+
+![](_assets/65/65bdef1f56eca1703a518dfca6a14002.webp)
+
 
 *Истории про жизнь накануне*
 

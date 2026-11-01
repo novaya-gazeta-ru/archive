@@ -11,6 +11,8 @@ tags: ""
 
 # Путин прокомментировал итоги пасхального прекращения огня и впервые не исключил двустороннего обсуждения с Киевом его продолжения
 
+![](_assets/e8/e88d863ce80e9adae11829bf4d390d45.webp)
+
 *Владимир Путин комментирует итоги пасхального перемирия. Фото: пресс-служба Кремля*
 
 Владимир Путин сегодня во время пресс-подхода к журналистам кремлевского пула [прокомментировал](http://kremlin.ru/events/president/news/76736) итоги 30-часового пасхального перемирия, которое сначала Россия [объявила](https://novayagazeta.ru/articles/2025/04/19/putin-na-vstreche-s-glavoi-genshtaba-v-kremle-obiavil-paskhalnoe-peremirie-s-ukrainoi-do-00-chasov-21-aprelia-news) в одностороннем порядке, а потом и Киев заявил о поддержке такого шага, [предложив](https://novayagazeta.ru/articles/2025/04/19/zelenskii-esli-rossiia-vnezapno-gotova-prekratit-ogon-ukraina-budet-deistvovat-zerkalno-news) его продлить на 30 дней.

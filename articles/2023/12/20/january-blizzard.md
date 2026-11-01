@@ -25,6 +25,8 @@ An hour later, president Tokayev accepted resignation of the Nazarbayev governme
 
 Immediately after the meeting, Murat Nurtleu, the deputy head of Tokayev's administration, was transferred to the post of the first deputy chairman of the NSC, and Yerlan Karin took the post of the secretary of state — the pace of appointments of the new leader's associates, coupled with the proclamation of socio-economic reforms, looked like a sure sign of stabilization of the domestic political situation. However, further events all happening within a few hours of the announcement — the escalation of protests and the appearance on the streets of Almaty of armed groups which began to assault government institutions, including the mayor's office, as well as small arms arsenals — brought President Tokaev back to reality.
 
+![](_assets/71/71474c009a7ec0b96136d20613d24ca5.webp)
+
 *Photo: Evgeny Biyatov / POOL / TASS*
 
 > «Calls to attack the offices of civilian and military agencies are completely illegal. This is a crime that will be followed by punishment. The authorities will not fall. Yet, what we need is not a conflict, but mutual trust,» — in another address to the people, the tone of the head of state changed greatly, as he had already received information about the seizure of a number of key facilities in Almaty, including its international airport with five airplanes.
@@ -36,6 +38,8 @@ In the evening, as Kazakh Military units of the Air Assault Forces fought fierce
 > Having previously maintained his composure, he now looked nervous, and his speech became slurred and rambling.
 
 > «The attacking gangs are essentially international gangs that have undergone serious training abroad and their attack on Kazakhstan should be considered an act of aggression. In this regard, relying on the Collective Security Treaty, today I appealed to the heads of state of the CSTO to assist Kazakhstan in overcoming this terrorist threat. In fact, it is no longer a threat — it is an undermining of the integrity of the state,» the president said, already knowing that 232 people were killed as a result of the terrorists' actions, including 19 security officials.
+
+![](_assets/44/44665acac76d54a3298dd69a7b9ab995.webp)
 
 *Departure of the main forces of the Russian CSTO peacekeepers to Kazakhstan. Photo: Ministry of Defense of the Russian Federation / TASS*
 
@@ -50,6 +54,8 @@ The arrival of the peacekeepers allowed Kazakh military to move into Almaty, whe
 Just one day after president’s statement, the public was presented with exactly that in the person of the chairman of the National Security Committee Masimov, who was arrested on suspicion of high treason for attempting to stage a coup.
 
 Several dozen people, including government officials, politicians, businessmen and activists, were also taken into custody, having been accused of numerous crimes ranging from kidnapping and torture to organizing criminal networks and mass riots. In total, Kazakh investigative authorities have initiated 125 criminal cases.
+
+![](_assets/25/25f2693d10767d4e6b9dd420661ff7ad.webp)
 
 *Alma-Ata. Photo: Valery Sharifulin / TASS*
 
@@ -82,11 +88,15 @@ Especially since all the court cases dealing with January events and their impli
 - **Persons prosecuted:** former Chairman of the National Security Committee Karim Masimov, former Minister of Defense Murat Bektanov, former head of the 5th Department of the 4th Service of the National Security Committee Ruslan Iskakov, former deputy of Almaty Maslihat Kairat Kudaibergen, former world boxing champion Arman Dzhumageldiev, former deputy head of the National Security Committee Daulet Yergozhin, former head of the National Security Committee's Service «A» Anuar Sadykulov.
 - **Official version:** On January 4, 2022, protesters, extremist elements, and gangs took to the streets of Kazakh cities to seize power, prompting the political leadership to reject negotiations and harshly suppress the riots. However, according to the investigation, some security officials, including top leadership, sabotaged the order. Only the introduction of CSTO peacekeeping units forced them to act.
 
+![](_assets/da/da80a00cab317196bdb46cfe326c8917.webp)
+
 *Karim Masimov. Photo: Ekaterina Shtukina / TASS*
 
 Virtually immediately after the suppression of the protests — on January 8, 2022 — Karim Masimov, the chairman of the republican National Security Committee, was arrested on suspicion of high treason, abuse of office and attempted violent coup. Some of his subordinates were charged with high treason and attempted coup, abuse of office and bribe-taking on an especially large scale. Masimov was sentenced to 18 years of imprisonment with service in a maximum-security facility.
 
 The former head of the Ministry of Defence Murat Bektanov was charged with abuse of office ("left the republic's strategic military facilities unprotected") and sentenced to 12 years' imprisonment with service in a maximum security facility.
+
+![](_assets/ac/ac1f3d0473146f068ad62b9d94357d70.webp)
 
 *Murat Bektanov. Photo: Vadim Savitsky / press service of the Ministry of Defense of the Russian Federation / TASS*
 
@@ -105,6 +115,8 @@ According to the official account, he purportedly acted without agreement from h
 > The role of Yelbasa in the January events continues to be a missing piece in the investigation's conclusions, nearly two years later. Masimov's silence evidently implies that the country’s current political leadership has no intention of filling this historical void.
 
 The only high-ranking officer of the National Security Committee who actively defended himself during the investigation was the former head of the 5th Department, Ruslan Iskakov. During the past year, he wrote two public appeals to the president where he exposed the falsification of evidence and the inducement of the Chairman of the National Security Committee to incriminate him. Additionally, he spent six months in solitary confinement, went on two hunger strikes for 70 days in total, and once was poisoned and spent 19 hours unconscious in intensive care. In his testimony, Iskakov stated that while suppressing the riots, he followed the orders of Samat Abish, the then deputy Chairman of the National Security Committee and Nazarbayev's nephew. Abish was dismissed from his position but managed to evade prosecution.
+
+![](_assets/64/64d8c3e69e4a89da29691a83f1040b62.webp)
 
 *Protests in Kazakhstan. Photo: Orda.kz / TASS*
 

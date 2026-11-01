@@ -10,6 +10,26 @@ tags: ""
 ---
 
 # Постнаука. Выпуск #8
+![](_assets/68/6835497bf4f8013eb7c155b674363fb8.webp)
+
+![](_assets/61/616bf315af9e36d43f85e25bfbdb8320.webp)
+
+![](_assets/42/429e66b372b62d74aa7d4856b1850def.webp)
+
+![](_assets/49/4979f0811b98f65bd009b0969ef5a245.webp)
+
+![](_assets/6c/6cd56ef88f065ae90cd4a97ec90ef1af.webp)
+
+![](_assets/49/4995c173b30e631f25775ba72a2e2415.webp)
+
+![](_assets/dd/dda8f63fad8e877c47c603e69514c938.webp)
+
+![](_assets/11/11bddcaa26aec90908e6ca9666804040.webp)
+
+![](_assets/cb/cb993c6ff13515bdfe82cb38f40bfa41.webp)
+
+![](_assets/73/73b2dfb30cc42891956b3dd2f5b46a2e.webp)
+
 
 *[media: <h2>
 		<span style="color:#b22222;">Откуда есть пошел язык</span></h2>]*

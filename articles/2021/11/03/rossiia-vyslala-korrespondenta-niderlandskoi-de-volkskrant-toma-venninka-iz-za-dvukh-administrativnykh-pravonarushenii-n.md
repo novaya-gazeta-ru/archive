@@ -13,6 +13,8 @@ tags: "нидерланды, мвд, мид, высылка, kn, de volkskrant"
 
 МВД РФ запретило въезд в Россию до 2025 года корреспонденту нидерландской газеты de Volkskrant в Москве Тому Веннинку. Журналист уже вернулся в родную страну, [сообщает](https://www.volkskrant.nl/nieuws-achtergrond/rusland-zet-volkskrant-correspondent-tom-vennink-uit-wegens-oude-administratieve-overtredingen~b5ce995d/?referrer=https%3A%2F%2Ft.co%2F&utm_source=link&utm_medium=app&utm_campaign=shared%20content&utm_content=free) само издание.
 
+![](_assets/c4/c4d8827b08d35ac7f0e56d4033f0b9b9.webp)
+
 *Том Веннинк. Фото из соцсетей*
 
 Вид на жительство Веннинка отозван в связи с двумя старыми административными протоколами журналиста — в ноябре 2019 года он уплатил штраф за несообщение о смене места жительства в Москве, а в январе 2020-го также был оштрафован за посещение Чукотки без разрешения местных властей.

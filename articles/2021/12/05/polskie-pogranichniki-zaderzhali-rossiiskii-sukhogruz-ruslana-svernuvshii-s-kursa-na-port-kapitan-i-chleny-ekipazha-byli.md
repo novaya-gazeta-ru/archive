@@ -13,6 +13,8 @@ tags: "польша, пограничники, балтия, балтика, б�
 
 Польские пограничники задержали в Гданьском заливе Балтийского моря российский сухогруз «Руслана», свернувший с курса на порт. Об этом сообщают польское [радио](https://www.rmf24.pl/fakty/polska/news-grozna-sytuacja-w-zatoce-gdanskiej-pijany-kapitan-i-oficerow,nId,5686797#crp_state=1) RMF24 и информационный [портал](https://www.portalmorski.pl/zegluga/49835-rosyjski-statek-o-wlos-od-wejscia-na-mielizne-przy-plazy-wyspy-sobieszewskiej) PortalMorski.
 
+![](_assets/74/74cea83004cb1c1a16b37f70ffe0cc93.webp)
+
 *Фото: PortalMorski*
 
 По данным портала, после изменения заданного маршрута экипаж корабля перестал отвечать на попытки пограничников связаться с ними. Тогда Морская поисково-спасательная служба (SAR) направила к месту аварии спасательное судно Wind.

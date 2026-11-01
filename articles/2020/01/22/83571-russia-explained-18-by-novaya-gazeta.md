@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *Russians taking over Syrian oil — Starving pensioners — Divided opposition*
 
+![](_assets/51/51a4f4395324c9bcde36d0a6a01a6dbf.webp)
+
 *Illustration by Petr Sarukhanov*
 
 This Week’s Highlights
@@ -31,7 +33,9 @@ A new Novaya Gazeta investigation has connected Kremlin-linked fixer Yevgeny Pri
 
 **Tracking Russian money.**This just one of many firms in the Prigozhin business empire that are playing a role in Syria. The Russian company Evro Polis Ltd. – whose owners are closely connected to Prigozhin’s business entities – has taken the lead since December 2016. At the time, the company brokered a major deal with the state-owned Syria General Petroleum Company, pledging to conduct combat operations to liberate oil and gas fields, in exchange for 25 percent of subsequent oil and gas production.
 
-*Photo: Zuma \ TASS*
+![](_assets/f5/f555e8cab32a69e63a7675be3b451aed.webp)
+
+*Photo: Zuma TASS*
 
 **Counting profits and losses.** Novaya Gazeta estimates that in 2018 Prigozhin-linked companies extracted as much as $20 million in resources from Syria every month (production volume for 2019 has yet to be verified). While the Wagner Group’s losses in Syria from 2015 to 2019 are difficult to assess, the private military contractor suffered its most significant losses in February 2018; after an American airstrike near the town of Khasham reportedly killed between 60 and 200 of their operatives.
 
@@ -45,6 +49,8 @@ Orkhan Djemal, Kirill Radchenko, and Aleksandr Rastorguev, the three Russian jou
 
 1. No proof. Krasnov’s statement appears to be rehashing the press release the Investigative Committee hurriedly sent out in the immediate aftermath of the killings. In the intervening year and a half, no new developments have appeared in the case. 2. Destroyed material evidence. The Investigative Committee was not able to ensure that the most important material evidence was delivered to Moscow. Officials from the CAR burnt the clothes the journalists were wearing at the time of their deaths, making it impossible to carry out a full ballistic examination.  3. [The Prigozhin connection. Investigators have yet to clarify the role of Kirill Romanovsky, a journalist from the disinformation outlet RIA FAN, which belongs to billionaire businessman Yevgeny Prigozhin. Romanovsky was active in preparing the journalists’ trip to the CAR. The three murdered journalists were planning on filming a documentary investigation into Prigozhin’s activities in Africa, which is part of Russia’s large-scale political and economic expansion on the continent. Some believe that Prigozhin’s associates were involved in their killing. ](https://en.hromadske.ua/posts/kremlin-fixer-behind-campaign-against-pro-democracy-leaders-in-russia)
 
+![](_assets/3a/3ac9f1c50483a1e3d776327bab52f7c0.webp)
+
 *Kirill Romanovsky. Photo: facebook.com*
 
 1. Ignoring obvious. The investigation also refuses to double-check another version of the events linking the murder of the journalists to their professional activities. This version involves the direct participation of Prigozhin’s Wagner Group. The documentary the journalists planned to shoot aimed to investigate the work of the Wagner mercenaries in the CAR.
@@ -56,6 +62,8 @@ ___
 Russian Pensioners in the Provinces Starve
 
 Putin’s bombshell state of the nation address last week wasn’t just about power-grabbing constitutional changes — we’ve got you covered on those, by the way, with an extra edition of ‘Russia, Explained’ — it was also filled with populist promises aboout throwing money to the 21 million Russians living in poverty. But while Putin was giving his speech, Novaya Gazeta special correspondent Ivan Zhilin was reporting from a queue outside of a supermarket dumpster in Yekaterinburg, the country’s fourth-largest city on the edge of Siberia. The city’s poorest residents were lined up by the dumpster for hours, in the hopes of getting packages of expired food.
+
+![](_assets/dd/dd5454575833cbda00159d4b1eb25cf6.webp)
 
 *Photo: Ivan Zhilin*
 
@@ -72,6 +80,8 @@ ___
 Navalny’s Take on Constitutional Changes, Explained
 
 The Kremlin’s plans for reforming the Russian Constitution sparked controversy among the political opposition before the legislation was even drafted. Many of the participants in this past summer’s pro-democracy protestssaid that the current Constitution should be upheld. Despite its flaws, it does provide a platform for defending human rights, they argued. Opposition leader Alexei Navalny, on the other hand, said that the “1993 Consitution is disgusting” and that there’s no point in fighting for its preservation since it effectively legalized the authoritarianism seen in Russia today.
+
+![](_assets/e4/e4f137d271305989ea0fdf46d18548e0.webp)
 
 *Illustration by Petr Sarukhanov*
 

@@ -10,6 +10,14 @@ tags: ""
 ---
 
 # Шевчук и дети цветов
+![](_assets/7b/7b30ccda844129aad42194a9a41a7308.webp)
+
+![](_assets/0d/0d0aaa2fc47c36bc5586e0ecfc7dc1ae.webp)
+
+![](_assets/7e/7e94239651acca09436463d60a4a1a26.webp)
+
+![](_assets/50/50f2956a2c3b63240b3b01541db2e5b3.webp)
+
 
 *Музыканту показали, что такое счастье, прямо на концерте*
 

@@ -13,6 +13,8 @@ tags: "марченко, единая россия, kn, исключение, и
 
 Депутата Госдумы Евгения Марченко исключили из партии «Единая Россия» и рекомендовали исключить из думской фракции. Решение президиума генсовета партии [опубликовано](https://er.ru/activity/news/prezidium-gensoveta-edinoj-rossii-isklyuchil-deputata-evgeniya-marchenko-iz-partii) на сайте «ЕР».
 
+![](_assets/29/290b99c13ff680af7042f2087310fb17.webp)
+
 *Евгений Марченко. Фото: РИА Новости*
 
 Ранее исключить Марченко [рекомендовала](https://novayagazeta.ru/articles/2021/11/01/komissiia-edinoi-rossii-po-etike-rekomendovala-iskliuchit-iz-partii-deputata-marchenko-on-golosoval-protiv-priniatiia-biudzheta-news) комиссия по этике «Единой России» во главе с Валентиной Терешковой. Причина — депутат единственным из фракции проголосовал против принятия бюджета на ближайшие три года.

@@ -10,6 +10,26 @@ tags: "физраствор, омон, силовики"
 ---
 
 # Искусство особого назначения
+![](_assets/89/8948e1738c402763b1b5e41b8709f891.webp)
+
+![](_assets/8c/8cf1e4769f639aaa416fec6295d2bb85.webp)
+
+![](_assets/95/9598640186baa8a18e88d196974f309c.webp)
+
+![](_assets/1f/1f262fed4ce93b2446a727449520cc2b.webp)
+
+![](_assets/62/62103eb332f01d948cbd6390c985bf50.webp)
+
+![](_assets/15/151cadf63fd7fcdc732ff25f99e00203.webp)
+
+![](_assets/a6/a671837c276038a8270164e408332604.webp)
+
+![](_assets/13/1335dc2fbd33050c7e64b320104034bf.webp)
+
+![](_assets/fe/fedfdfab7cb0661d03e498a4c86123f6.webp)
+
+![](_assets/f3/f3b33690272c18dddf06e7a7f8e1ae4e.webp)
+
 
 *Рисунки на щитах полиции и ОМОНа*
 

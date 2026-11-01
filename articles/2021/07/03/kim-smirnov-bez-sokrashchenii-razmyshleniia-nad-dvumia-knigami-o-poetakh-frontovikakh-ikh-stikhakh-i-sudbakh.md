@@ -15,7 +15,7 @@ tags: ""
 
 > Начало материала [читайте тут](https://novayagazeta.ru/articles/2021/06/25/kim-smirnov-bez-sokrashchenii-razmyshleniia-nad-dvumia-knigami-o-poetakh-frontovikakh-ikh-stikhakh-i-sudbakh).
 
-*\*
+![](_assets/1c/1c980ac823abb27c4dbe8f37a29fa77f.webp)
 
 **22 июня 2021 г. Вторник. **Кем же был «какой-то поэт», умыкнувший дочь у генерала Жадова, мечтавшего выдать её за «героя войны»? Вот сведения, взятые из раздела книги «Хроника жизни и творчества Семена Гудзенко\ Даты и факты».
 

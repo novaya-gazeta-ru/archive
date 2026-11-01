@@ -10,6 +10,16 @@ tags: "выборы, госдума, нарушения, цик"
 ---
 
 # Гибридные выборы
+![](_assets/21/21d89d0980864a6570d2d2451953e4e0.webp)
+
+![](_assets/c1/c123841655ca9a59da2be7bb6e09cb9e.webp)
+
+![](_assets/79/79fd20a672573db395179db8330d4432.webp)
+
+![](_assets/fd/fd66ed12988b820a6873d1adfd5f652c.webp)
+
+![](_assets/aa/aa1eb8743ae8c74809ec0dd71bec92af.webp)
+
 
 *Предварительный отчет «Народного избиркома»*
 

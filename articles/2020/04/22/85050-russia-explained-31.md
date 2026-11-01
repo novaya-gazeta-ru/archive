@@ -25,6 +25,8 @@ ___
 
 Ramzan Kadyrov’s bullying of our news room has escalated. The head of Russia’s most repressive region, Chechnya, had previously made explicit threats against us and our investigative journalist Elena Milashina, following the publication of her expose on the region’s repressive COVID-19lockdown measures. On April 15, the government joined in and ordered us to take down the article in question, under the threat of blocking access to our website.
 
+![](_assets/2e/2ea5185648e162642310c4f1e1c20035.webp)
+
 *Ramzan Kadyrov — the Head of the Chechen Republic. Photo: RIA Novosti*
 
 **More folks show solidarity with us.**We are thankful to the solidarity of more than 100 Russian human rights activists, politicians, scientists and artists who have backed Milashina in a public statement. International backlash is growing too — theCommittee to Protect Journalists has called on the Russian authorities to condemn Kadyrov’s threats against Milashina and ensure her safety.
@@ -45,7 +47,9 @@ ___
 
 We are still following the rapid spread of the novel coronavirus across Russia. The number of infected has now exceeded 52,000 people and the nationwide quarantine has been extended until May 1. Yet, for a country of about 150 million, this figure is still relatively low. The official number of reported cases has previously come under scrutiny, with experts attributing the low number of cases to poor testing. As the economic devastation from the outbreak keeps worsening too, this week we are highlighting one of Russia’s hardest-hit groups — millions of labor migrants.
 
-*Migrants in Zhukovsky International Airport waiting for their flight back home. Photo: Vlad Dokshin / Novaya Gazeta*
+![](_assets/43/432841a88fc97eaf2b61122230aed8fc.webp)
+
+*Migrants in Zhukovsky International Airport waiting for their flight back home. Photo: Vlad Dokshin / Novaya Gazeta*
 
 **They cannot leave and cannot work, either.** The Russian border is now closed, for most leaving would be near impossible. Novaya Gazeta previously reported that around 400 foreigners were stuck at Moscow’s Zhukovsky Airport last month. After a week of waiting, the Kyrgyz authorities finally sent a plane to rescue their citizens. But many others who remain in Russia are stuck in limbo. Although the President announced that work permit deadlines would be extended for another six months, many foreigners continue to receive fines.
 
@@ -67,6 +71,8 @@ ___
 
 On April 19, Russia celebrated Orthodox Easter, the biggest religious holiday in the country, amid an unprecedented lockdown. Around half of the Russian regions completely forbade churches from opening up to the public or holding any mass events, but many disregarded the orders. Including the Kremlin elites.
 
+![](_assets/27/270e668c67bbeb4425c29c4dfaf47e62.webp)
+
 *Photo: ZUMA / TASS*
 
 **VIP Easter.**While millions of Orthodox Russians were forced to celebrate Easter at home in isolation, in the center of Moscow, opposite the Kremlin, VIPs gathered for a closed party, authorized by the authorities. A powerful Russian archpriest Vladimir Volgin was expected to lead the event (he is also rumored to be the confessor for the family of former Prime Minister and President Dmitry Medvedev). The guest of honor was celebrity priest Ivan Okhlobystin, whose daughter recently had the coronavirus. Some 50 guests attended in total, many of whom arrived in executive cars, covering their faces.
@@ -82,6 +88,8 @@ On April 19, Russia celebrated Orthodox Easter, the biggest religious holiday in
 **Fallout from ‘Negative’ Oil Prices for Putin’s Russia, Explained**
 
 The news of the US oil prices collapsing below zero dollars for the first time in history sent a shock wave across Russia, a country heavily dependent on oil and gas extraction. The Russian internet exploded with sardonic memes predicting a turbulent political and economic future for the Kremlin. But what does this really mean for the future of the Russian economy? Our economics editor Arnold Khachaturov shared his hot take exclusively for Russia, Explained.
+
+![](_assets/57/572afa39e637450897a0a08dbd2c70b9.webp)
 
 *Photo: Alexey Andronov / TASS*
 

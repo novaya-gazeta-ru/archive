@@ -13,6 +13,8 @@ tags: "вратарь, спорт, смерть, sn"
 
 Вратарь сборной Латвии по хоккею Матисс Эдмунд Кивлениекс скончался в возрасте 24 лет. Об этом [сообщает](https://www.facebook.com/lhf.lv/photos/a.161843517220122/5609370595800693/?type=3) Латвийская федерация хоккея.
 
+![](_assets/e6/e609b7e85f6bed2f88bd509ed0adc7a2.webp)
+
 *Фото: Латвийская федерация хоккея*
 
 По данным портала Delfi, хоккеист [пострадал](https://www.delfi.lv/sports/news/hokejs/tragiska-nelaimes-gadijuma-dzivibu-zaudejis-talantigais-hokeja-vartsargs-kivlenieks.d?id=53359005) во время салюта в честь Дня независимости США 4 июля: он получил травму головы.

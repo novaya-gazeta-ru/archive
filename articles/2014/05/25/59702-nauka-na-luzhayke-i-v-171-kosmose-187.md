@@ -10,6 +10,18 @@ tags: ""
 ---
 
 # Наука на лужайке и в «Космосе»
+![](_assets/e1/e1b19c9a10b12f3c391de2c14be9da20.webp)
+
+![](_assets/52/52e09c9bf21d0ecd57e4dd9d54ffddd2.webp)
+
+![](_assets/30/3098b6240edbf381c57d5eaa6bccc2d1.webp)
+
+![](_assets/aa/aa6b33a47f0b4e59152344056f69990a.webp)
+
+![](_assets/d6/d69c5f69e559d68dd8ec28893a29bdac.webp)
+
+![](_assets/c8/c8cd9b81f6bb0fa8af46665a384c3c79.webp)
+
 
 *На ВВЦ проходит Фестиваль науки Политехнического музея*
 

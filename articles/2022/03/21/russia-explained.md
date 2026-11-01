@@ -24,6 +24,8 @@ tags: "russia; explained, ukraine, newsletter, explainer"
 
 Western countries have introduced an unprecedented raft of sanctions on Russia in response to the “special operation” in Ukraine. While the aim is to hit the pockets of the elite who fund and facilitate the operation, ordinary Russians are also feeling their impact. Ivan Zhilin reports on our data department’s investigation into the price rises and product shortages that are being reported across the country.
 
+![](_assets/4f/4f142024dc880d7d09d9b984bd432ba8.webp)
+
 *Photo: Alexey Dushutin / Novaya*
 
 **SUGAR SCARCITY. **According to the survey conducted by our data team, sugar is the most scarce product according to 84.5% of respondents. People from Western Siberia, the Volga region, and even Moscow have reported its absence. “It’s being sold under the counter, on the internet, at inflated prices”, one respondent said. “In our city (Oryol), there isn’t a single kilogram”, added another. The Ministry of Industry and Trade insists that the shortage is artificial and that intermediaries are to blame. “We have a lot of sugar. It’s just that the organisations that transport it from the factories and deliver it […] they are keeping it in the warehouse and waiting for the price to rise by 50%”, claimed ministry representative Viktor Yevtukhov.
@@ -48,6 +50,8 @@ Mikolayiv, a major city on Ukraine’s Black Sea coast, has been on the front li
 
 **THOSE LEFT BEHIND.** Kostyuchenko spoke with some of the people who had lost their colleagues, friends and loved ones. The conversations were harrowing. Dmitry Butym lost both of his daughters, Arina and Vera, in an explosion. “Vera was warming food in the kitchen, Arina had gone out into the yard […] there was no chance. The younger one died immediately, a fragment through the heart […] Now, the main thing for me is to bury the children.” Oksana came for the body of her 77-year-old mother. “My mother lived on the fifth floor. She couldn’t go down to the bomb shelter […] She died in the morning, calmly, as far as one can say — calmly. On the bathroom floor, hiding from this horror […] My mother’s name was Svetlana Nikolayevna. She was half Russian […] our family was Russian-speaking.”
 
+![](_assets/8e/8ed5e79f31443bac5f378e78a2e2ba59.webp)
+
 *Sasha is holding a fragment of an exploded shell in his hands: it can cut a man in half — he cries. Photo by: Ekena Kostuchenko / Novaya*
 
 **SOLDIERS READY TO DEFEND THEIR HOME. **Kostyuchenko spoke with soldiers in the A0224 military unit. One man told her, “Where would we evacuate to? We are on our own land.” Another adds, “I have family in Odesa. While Mikolayiv stands, Odesa will not be touched.” Other soldiers express their determination and desire to return to a normal life: “We are forced to defend our land […] we did not want a ‘special operation’, we did not expect it”, “What was I meant to do, sit home and wait? On the first day I went immediately to the enlistment office”, “We don’t want to fight against Russia”, “We want to be left alone.”
@@ -59,6 +63,8 @@ Mikolayiv, a major city on Ukraine’s Black Sea coast, has been on the front li
 # **Osvyannikova’s One Woman Protest, Explained**
 
 On March 14, Marina Ovsvyannikova — an editor for the state-sponsored Channel One — interrupted a live news broadcast with a sign protesting the “special operation” in Ukraine. Due to military censorship laws, we cannot quote the sign in full, save for the line “Don’t believe the propaganda. They’re lying to you here.” She then released a pre-recorded message via the OVD-Info human rights group in which she expressed her shame at having worked for a channel that promotes the Kremlin line. Police detained and questioned her for 14 hours, then fined her around $280. It is unclear whether she will face other charges. Alexander Minkin analyses the implications of Osvyannikova’s act of protest.
+
+![](_assets/29/291ae46d974890fdf06da848e635e37b.webp)
 
 *Marina Ovsyannikov holds a banner interrupting the most popular news show online in prime time on the Channel One. Screenshot and pixelized by Novaya*
 
@@ -73,6 +79,8 @@ On March 14, Marina Ovsvyannikova — an editor for the state-sponsored Channel 
 *Read Minkin’s full analysis *[*here*](https://novayagazeta.ru/articles/2022/03/15/spasti-chest-strany)*.*
 
 # **Bonus Round On March 22, Alexei Navalny is due to be sentenced yet again. The prosecution is pushing for a 13-year sentence. We report on the opposition leader’s **[**powerful closing remarks**](https://novayagazeta.ru/articles/2022/03/15/my-razoblachim-eshche-bolshe-liudei-kotorye-meshaiut-zhit-nashei-strane)** to Moscow’s Lefortovo Court.**
+
+![](_assets/83/83f2c17ca3571f738c3f96cabfc18313.webp)
 
 *Alexey Navalny speaking during the court in prison. Screenshot*
 

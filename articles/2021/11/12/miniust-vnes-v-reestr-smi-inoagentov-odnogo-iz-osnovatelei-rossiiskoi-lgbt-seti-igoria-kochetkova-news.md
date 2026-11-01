@@ -13,6 +13,8 @@ tags: "иноагенты, минюст, реестр, em"
 
 Минюст включил в реестр СМИ, выполняющих функцию «иностранного агента», одного из основателей «Российской ЛГБТ-сети»* Игоря Кочеткова. Об этом [свидетельствуют](https://minjust.gov.ru/ru/documents/7755/) данные реестра.
 
+![](_assets/4b/4bf0b433094a363091d8de1e41bb8c8b.webp)
+
 *Фото: lgbtnet.org*
 
 Кочетков стал 95 в этом списке. Саму «Российскую ЛГБТ-сеть» Минюст [внес](https://novayagazeta.ru/articles/2021/11/08/miniust-vnes-v-reestr-smi-inoagentov-advokata-ivana-pavlova-i-eshche-chetyrekh-byvshikh-uchastnikov-komandy-29-news) в реестр незарегистрированных объединений-«иноагентов» в понедельник.

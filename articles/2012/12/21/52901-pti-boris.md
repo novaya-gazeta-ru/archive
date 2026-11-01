@@ -10,6 +10,10 @@ tags: ""
 ---
 
 # Пти-Борис
+![](_assets/cd/cd9d9f7d651517668a2bfae89279afe3.webp)
+
+![](_assets/ba/bab20c7085170369cf8e2b040e18ef56.webp)
+
 
 *Ретроспектива Бориса Смелова в Frolov Gallery*
 

@@ -10,6 +10,28 @@ tags: "фото"
 ---
 
 # Лучшие перья
+![](_assets/d8/d8b3f040ee0c472697720f54b4a7b843.webp)
+
+![](_assets/3a/3abe41b3265e03625696a4473bb16112.webp)
+
+![](_assets/1d/1dc830de6ebf81df516bbd69bb7d119e.webp)
+
+![](_assets/3e/3ea5353c02ac7944f54716f070167553.webp)
+
+![](_assets/d3/d3f0d3a319e3d2de08899ae5d4b3edfa.webp)
+
+![](_assets/6a/6a85aef9203176aa61750beb53c88953.webp)
+
+![](_assets/64/64d85233ec3670e417ec18db9bb19b98.webp)
+
+![](_assets/80/8011ee8184b45eee15d559b36da9989a.webp)
+
+![](_assets/02/020c13ef2efa0761904499d99b039028.webp)
+
+![](_assets/be/be75685c5f8de6306e6530f0e6419b8a.webp)
+
+![](_assets/77/77b4ca4a5aeffd8c639d80515eba04db.webp)
+
 
 *А также хвосты, морды и лапы. На фестивале «Золотая черепаха». При поддержке «Новой»*
 

@@ -11,6 +11,8 @@ tags: ""
 
 # Николая Статкевича освободили из белорусской колонии. Оппозиционер перенес инсульт и восстанавливает речь. Но он остался в Беларуси
 
+![](_assets/16/167c877c56a2420ea300aacab120bf47.webp)
+
 *Фото: Марина Адамович*
 
 Лукашенко освободил из колонии оппозиционного политика, бывшего кандидата в президенты Николая Статкевича. Это рассказала Статкевича Марина Адамович, [передает](https://t.me/nashaniva/111892) «Наша Нива». Есть и их совместное фото.
@@ -22,6 +24,8 @@ tags: ""
 Николай Статкевич [был в числе 52-х политзаключенных](https://novayagazeta.ru/articles/2025/09/11/lukashenko-otpustil-52-politzakliuchennykh-sredi-nikh-nikolai-statkevich-i-14-inostrantsev-ssha-obeshchaiut-minsku-poteplenie-v-otnosheniiakh-news), помилованных Лукашенко в сентябре 2025 года.
 
 Помилование означало немедленную депортацию в Литву. Статкевич отказался покидать страну: СМИ облетел кадр с камеры видеонаблюдения, где Статкевич [сидит на нейтральной полосе](https://novayagazeta.ru/articles/2025/09/11/vypushchennyi-segodnia-iz-tiurmy-politzakliuchennyi-nikolai-statkevich-otkazalsia-pokidat-belarus-news). А после он пешком вернулся в Беларусь, где его [снова отправили в колонию](https://novayagazeta.ru/articles/2025/09/15/belorusskogo-politzeka-statkevicha-otkazavshegosia-pokidat-stranu-vernuli-v-koloniiu-smi-news).
+
+![](_assets/0f/0f241c48a1e9cfc7b31099789670edc0.webp)
 
 *Николай Статкевич отказался покидать Беларусь после помилования летом 2025 года*
 

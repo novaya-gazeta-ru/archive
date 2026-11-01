@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *More poisoned Arctic — Forced voting — Defiant Serebrennikov*
 
+![](_assets/e7/e75dcf0f2da40eebc6f1297e3e35c76b.webp)
+
 *Polling station. Photo: facebook.com*
 
 This Week’s Highlights
@@ -57,6 +59,8 @@ The voting on controversial constitutional amendments that will allow Putin to r
 
 **MILLIONS OF MASKS SECRETLY STOCKPILED?**In the Bryansk region, local authorities purchased 1.5 million masks for voters, even though the province's population is 1.2 million. In the Saratov region, officials bought 2.5 million masks for elections. In almost all such regions, local residents and doctors complained en masse about the lack of protective gear.
 
+![](_assets/59/590726e4111b63b4fe4742822af0c56d.webp)
+
 *Illustration by Peter Sarukhanov*
 
 **NO SHORTAGE OF MASKS FOR PUTIN.**Procurement contracts showcased Russian officials' uncanny ability to mobilize public and private enterprises to manufacture enough personal protective equipment for all voters in less than a week. That means either these companies were notified of these contracts in advance and stocked their products instead of supplying them to medics, or it's possible to make millions of masks within days — when they're needed to keep Putin in power.
@@ -74,6 +78,8 @@ Last week, a Moscow court found renowned Russian director Kirill Serebrennikov g
 **WHAT HAPPENED?**For years, Serebrennikov headed the Gogol Centre, Russia's top avant-garde theater venue, where he would put on productions that mocked the government. The 50-year-old took a $1.83 million grant from the government for a project called Platforma. It ran between 2011 and 2014. But in Russia, taking money from the authorities is like making a deal with the devil. He was arrested in 2017 on what independent observers say are false and politically motivated charges.
 
 **A MIDSUMMER NIGHTMARE.**To prove the theft, investigators claimed that the production of "A Midsummer Night's Dream" was never staged and declared all the reviews from the premiere of the play fake. The case didn't resemble a fight against corruption, but rather an adaptation of a Franz Kafka film, Latynina points out.
+
+![](_assets/77/771aba0c7a476af20b3f7cd4cca28060.webp)
 
 *Kirill Serebrennikov in court. Photo: TASS*
 

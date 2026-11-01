@@ -15,6 +15,8 @@ tags: ""
 >
 > ### [Минцифры признало задачу снизить использование VPN, но штрафы за обход блокировок ведомство вводить не хочет](https://novayagazeta.ru/articles/2026/03/31/mintsifry-priznalo-zadachu-snizit-ispolzovanie-vpn-no-shtrafy-za-obkhod-blokirovok-vedomstvo-vvodit-ne-khochet-news)
 
+![](_assets/86/866ccc5a589b71967970d9a542948f75.webp)
+
 *Максут Шадаев. Кадр из правительственного видео*
 
 Глава Минцифры Максут Шадаев поручил операторам связи и цифровым платформам противодействовать тому, что россияне используют сервисы обхода блокировок, [пишет](https://www.forbes.ru/tekhnologii/558273-operatory-vvedut-platu-za-ispol-zovanie-vpn-servisov) Forbes со ссылкой на источники в телекоме и на IT-рынке.

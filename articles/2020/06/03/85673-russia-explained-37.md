@@ -29,6 +29,8 @@ Russia is experiencing one of the largest waves of mass arrests in months. It st
 
 **Why Russians are protesting.**Azar was expressing public solidarity with two arrested Russian activists Viktor Nemytov and Vladimir Vorontsov. They are behind a popular Telegram channel ‘Police Ombudsman’ exposing police brutality. The arrest of our journalist provoked solo pickets around the capital, leading to detentions of dozens. Among them was a cardboard cutout of Azar — one of many placed around the city as part of the protests.
 
+![](_assets/fc/fc7ceda47f13c8809584ebd0c3c3c376.webp)
+
 *Photo: Svetlana Vidanova, "Novaya Gazeta"*
 
 **But, why Russians are protesting, really.** The ongoing outburst of public discontent by the Russian civil society is a part of broader frustration with President Putin’s ongoing power grab. It is fueled by the worsening economic crisis, botched pandemic response, and leftover anger from the last mass wave of repressions following rigged local elections last year.
@@ -38,6 +40,8 @@ Russia is experiencing one of the largest waves of mass arrests in months. It st
 **Don’t mess with Russian independent journalists.**According to Martynov, much like last year, when law enforcement authorities accidentally provoked a surge of solidarity around Golunov and gaslighted protests over rigged local elections, it seems they unwittingly inflamed this situation, too. Azar’s arrest not only sparked solidarity pickets but garnered international attention, triggering further political discontent at a time when Putin needs a boost of public support. His trust ratings hit 25% last month — an absolute low for his two-decade rule.
 
 **Read Kirill Martynov’s full piece on how security officials are tanking Putin’s rating here.**
+
+![](_assets/1f/1fcf8fb293eb76244ddd1a9bafb99604.webp)
 
 *Illustration by Petr Sarukhanov*
 
@@ -52,6 +56,8 @@ More than 400,000 Covid-19 cases are recorded across the country as thousands of
 > “The collectors constantly called, even at night,” said Barinova, who now owns the microloan company, an unexplained sum of 147,900 rubles (around $3120). “They were interested in my health, they asked if I was alive. They said they could give me a funeral wreath.”
 
 **The situation has deteriorated amid the pandemic.** Dmitry Prokhorov, a lawyer and founder of an online group helping borrowers, says collectors would come to your home and graffiti insults and vandalize your building. In some cases, they would call up their families and colleagues, pretending to be state employees to discredit them. According to Prokhorov observations, the number of people who are unable to repay their loans has doubled.
+
+![](_assets/9f/9f4402c81cac8471469f86acba05fa61.webp)
 
 *Photo: Alexander Galperin / TASS*
 
@@ -80,6 +86,8 @@ The Great Shutdown helped to kill Russia's key deal for gas export. With Europe 
 **Covid-19 vs. Russian gas price.**Contracting economic activity and a mild winter have impacted gas demand, which has already fallen in Europe by 5% — the largest decline in the second half of the twentieth century. Some traders predict that building up oversupply could drive prices into the negative. Our economy editor Arnold Khachaturov says Gazprom has been selling gas at a loss since the start of the year. "In the first quarter, the state company has already lost over $4 billion," he says.
 
 > "Cheap liquefied natural gas is gradually depriving Gazprom of key sales markets. Poland and Turkey have already begun to abandon long-term contracts with the Russian monopolist. And Gazprom will never return the previous negotiating power, which allowed the company to dictate its prices over the last two decades," Khachaturov predicts.
+
+![](_assets/08/08f6234afe05f8d902b5a5fe70fd8fa0.webp)
 
 *Photo: EPA-EFE*
 

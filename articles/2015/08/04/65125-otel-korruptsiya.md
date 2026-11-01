@@ -10,6 +10,26 @@ tags: "коррупция, строительство"
 ---
 
 # Отель Коррупция
+![](_assets/ed/ed085cfd9011cdeb71fce36a81d07c9e.webp)
+
+![](_assets/25/2593f9e0409b292cc466d19ac7cdf3b0.webp)
+
+![](_assets/80/80b8c3fbd3cd1d45fbef61c8f5b8f6da.webp)
+
+![](_assets/f8/f8062c8f2e9c14550c1fe69a63ac3a63.webp)
+
+![](_assets/23/23622b1f50e66bb3ea44c10d82325a15.webp)
+
+![](_assets/76/76d2c6b3d69bdbd4049e3fdd2e22db93.webp)
+
+![](_assets/cc/cc2680463b645b82e50989328d0ab453.webp)
+
+![](_assets/67/674db2d71e9f919d6faabfa9da1396ea.webp)
+
+![](_assets/ac/ac19768e54deb414fd3276cfb0c74ea3.webp)
+
+![](_assets/3b/3b45027babdd6f417dc8d4d1c8d43795.webp)
+
 
 *Из городской собственности под видом аренды с целевым назначением «Тематический парк» уведен земельный участок, на котором построена гостиница*
 

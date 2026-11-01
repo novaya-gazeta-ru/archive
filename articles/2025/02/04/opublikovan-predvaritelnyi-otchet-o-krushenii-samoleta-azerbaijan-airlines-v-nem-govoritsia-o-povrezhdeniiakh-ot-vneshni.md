@@ -11,7 +11,7 @@ tags: "azal, авиакатастрофа, расследование, каза�
 
 # Опубликован предварительный отчет о крушении самолета Azerbaijan Airlines. В нем говорится о повреждениях от «внешних объектов»
 
-*\*
+![](_assets/dc/dcba124d6d99ba7bebbd07f043a5aba8.webp)
 
 Минтранс Казахстана [опубликовал](https://www.gov.kz/memleket/entities/transport/about/structure/departments/Investigation/32127/1?lang=ru) предварительный отчет по расследованию авиакатастрофы самолета Embraer-190 авиакомпании Azerbaijan Airlines, который потерпел крушение в районе Актау 25 декабря 2024 года.
 

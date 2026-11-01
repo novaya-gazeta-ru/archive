@@ -10,6 +10,12 @@ tags: "грета тунберг"
 ---
 
 # Ресницы Греты
+![](_assets/9d/9d2197c9406b532280b91964f49d51cc.webp)
+
+![](_assets/7c/7ca990748eac8c7a12cf939ec7c6d6cd.webp)
+
+![](_assets/df/dfde1468d06d99aa6d754d71aa24cded.webp)
+
 
 *Пасхальный рассказ*
 

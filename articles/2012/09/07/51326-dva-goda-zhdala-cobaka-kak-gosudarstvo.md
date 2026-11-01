@@ -10,6 +10,12 @@ tags: "карта памяти"
 ---
 
 # Два года ждала. Cобака как государство
+![](_assets/23/23adce438f91c837deae1dda4e482a0d.webp)
+
+![](_assets/b9/b9135f63962a394ec2af25991facc7be.webp)
+
+
+![](_assets/49/494f266fb8a76b1e1fcb74bd87f16a71.webp)
 
 *Фото Юрия Роста*
 

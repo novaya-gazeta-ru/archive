@@ -29,6 +29,8 @@ The Russian public is no stranger to witnessing disturbing scenes of dissenting 
 
 **UNPRECEDENTED BACKLASH.**The video sparked outrage in both Chechnya and beyond. Humiliation through sexual violence is nothing new in the region. Still, this case is notable because the authorities publicly shared the act of torture. Dmitry Piskunov, head of the Committee Against Torture's North Caucasus branch, told our partner outlet, the Caucasian Knot.
 
+![](_assets/e7/e745c9d41f803aeedbcb2ef1fe3a9fb5.webp)
+
 *Salman Tepsurkaev*
 
 > 'This publicity is a frightening innovation because it shows the extent to which the Chechen security forces have ceased to understand which boundaries shouldn't be crossed,' Piskunov said.
@@ -49,6 +51,8 @@ Attacks Targeting Navalny’s People Multiply
 
 Navalny's first social media post since getting out of a coma took the Russian internet by storm. 'My first day breathing on my own,' says Russian opposition figure under a picture of him at a Berlin hospital. While Navalny is recovering from what appears to be a poisoning with a nerve agent, his associates are getting attacked all across the country. The state raided his regional headquarters, and at least one of his associated political allies got injured. The timing is probably not coincidental — the country has just voted in another round of local elections where Navalny-linked candidates challenged the Kremlin in several key regions.
 
+![](_assets/b8/b8bc1b2b0d30e45d6f6b6059a874b547.webp)
+
 *Illustration by Petr Sarukhanov*
 
 **TRACKING RECENT ATTACKS.** On September 7, police stormed Navalny's headquarters in Kurgan, one of the regional centers in the Ural federal district. They shot at the windows and filled the headquarter's lock with glue. That same day, police also detained two observers in Navalny's headquarters in the Siberian region of Tyumen and confiscated campaign posters. Then, on September 10 in Chelyabinsk, the country's 7th-largest city in the Ural region, the coordinator of the local Navalny headquarters, Alexei Baraboshkin, was attacked by unknown assailants. Meanwhile, in Lipetsk, a key Western Russian regional center, a candidate running for the city council from Navalny's headquarters, Alexander Naumov, was also beaten.
@@ -58,6 +62,8 @@ Navalny's first social media post since getting out of a coma took the Russian i
 **OTHER OPPOSITION FIGURES TARGETED.**A prominent Russian opposition blogger Yegor Zhukov is also severely beaten in Moscow. Two unknown assailants jumped him as he left his house and hit him several times. He now has a concussion and numerous bruises.
 
 > 'I predict that the authorities will not find those responsible for political violence despite all of the noise. In fact, they won't even search for them,' writes our columnist Yulia Latynina in her this week's op-ed.
+
+![](_assets/da/da9a4bd0d495f8662344723eb1744b69.webp)
 
 *Egor Zhukov after the attack. Photo: facebook.com*
 
@@ -84,6 +90,8 @@ He continues:
 **BACKSTORY.** After taking over Belarus in 1994, Lukashenka built the economy closely integrated with Russia and accepted Moscow's geopolitical dominance, especially after his regime. But since 2014, the Belarusian autocrat tried to gravitate away from the Kremlin, and relations between them cooled. As widespread pushback against rigged elections keeps growing in Belarus, Lukashenka rushed to Putin for help. However, the Kremlin has publicly kept a cautious distance. Still, there are increasing numbers of reports about 'parachuted' Russians already on the country's ground.
 
 Read our call for solidarity with Belarus here.
+
+![](_assets/8b/8b45e4127deaa3b6f77d1cc29dbff21d.webp)
 
 *Svetlana Alexeivich. Photo: AP Photo / TUT.by*
 

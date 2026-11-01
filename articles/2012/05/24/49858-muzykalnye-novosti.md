@@ -10,6 +10,20 @@ tags: ""
 ---
 
 # Музыкальные новости
+![](_assets/e2/e28bb688ff2d99b96092f714303ecf06.webp)
+
+![](_assets/77/77ecc4c45d88f9bd8bb870fd7f4c8cc4.webp)
+
+![](_assets/7b/7bc6c31e7b68086c01b5560f695d3314.webp)
+
+![](_assets/25/2519557d35c8a0ffc144388719dc93ee.webp)
+
+![](_assets/fd/fdb9737d66fde68c40b3b3f21341578d.webp)
+
+![](_assets/d9/d97d51ae6a0a3373fc4f5bd0886c4526.webp)
+
+![](_assets/a9/a9e27002037e1b253a804ebc3f769f01.webp)
+
 
 Black Sabbath дали концерт в Бирмингеме
 

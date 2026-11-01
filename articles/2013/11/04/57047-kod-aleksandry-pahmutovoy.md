@@ -10,6 +10,12 @@ tags: ""
 ---
 
 # Код Александры Пахмутовой
+![](_assets/f2/f2cd7149641f3f30d5c5af52093aa0ad.webp)
+
+![](_assets/9d/9d473c11d4a5ab46a839ff8ad083c186.webp)
+
+![](_assets/01/016e928bf85e1b9f43e94df4e2350ead.webp)
+
 
 *Из личного дневника*
 

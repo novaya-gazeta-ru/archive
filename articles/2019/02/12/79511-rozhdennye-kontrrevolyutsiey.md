@@ -10,8 +10,38 @@ tags: "запреты, права человека, митинги, Санкт-�
 ---
 
 # Рожденные контрреволюцией. Комикс
+![](_assets/23/231d0ae5b2d1859137d66bdbcb293777.webp)
+
+![](_assets/2f/2fa8112745ed97fe75ac1b370b536924.webp)
+
+![](_assets/8c/8cea8e2d410cf7a2e9b0f169c9496e88.webp)
+
+![](_assets/10/106cdb5cfc02423179ad8c2be41d1421.webp)
+
+![](_assets/4d/4db1b3a932775593998b7089c59248f9.webp)
+
+![](_assets/2c/2c326e9532b0ed91eb207351a0581ece.webp)
+
+![](_assets/cc/cc689e2cb330467a32bfd5cc88fff624.webp)
+
+![](_assets/04/0429ec9c07b8ee829ecfcd97213e5c34.webp)
+
+![](_assets/b6/b6dca02e9c02189e8079ed375a7653e7.webp)
+
+![](_assets/7c/7c8771077786454ac2954868f01795ae.webp)
+
+![](_assets/55/551d17ed5b644950e5fd567d54930ad1.webp)
+
+![](_assets/36/36363b189fe4c6085d5eed6caa092860.webp)
+
+![](_assets/1f/1fed292b4598b5c619afba7908a2a296.webp)
+
+![](_assets/b5/b527a6ed092e642e5d33827414bcbe35.webp)
+
 
 *Как запреты шествий формируют протест в Петербурге*
+
+![](_assets/5f/5f8c512577dbb9e5d9167b34a6e6f87a.webp)
 
 *Комикс: Юлия Дробова — специально для «Новой газеты». [Сайт художницы](https://www.drobova.uz)*
 

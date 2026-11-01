@@ -10,6 +10,8 @@ tags: ""
 ---
 
 # Поздравляем и гордимся!
+![](_assets/9a/9a699ec3ee75cb7b75f72ee77431007d.webp)
+
 
 *Спецкор «Новой» Роман Анин получил престижную премию Knight International Journalism Award*
 

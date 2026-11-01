@@ -10,28 +10,36 @@ tags: "поправки в конституцию, кафка-кодекс, аб
 ---
 
 # ЦИК, который лопнул
+![](_assets/04/0491f6ff561ba52d9ec09112f7f1ae3d.webp)
+
+![](_assets/b4/b406fe1429d5499e7b36ce546503df23.webp)
+
+![](_assets/30/30a7e8d446f489ddf327e0fb3174acbd.webp)
+
 
 *Как проголосовать по поправкам к Конституции. Комикс-квест*
 
-*\*
+![](_assets/94/946d0cc8055950b9373253de7ac15b4c.webp)
 
-*\*
+![](_assets/4d/4d243a860dcd829645c75b87e0451e60.webp)
 
-*\*
+![](_assets/f4/f4e38a4e7994bb7a77c1735d70661674.webp)
 
-*\*
+![](_assets/01/01af6f00d2f7c7e6b3211ffb722c9e7a.webp)
 
-*\*
+![](_assets/e4/e483f6f99205861bcc24e0002a5e494d.webp)
 
-*\*
+![](_assets/93/9397f4b76a5ca6daf65b2209ffa6d22d.webp)
 
-*\*
+![](_assets/d3/d3fe928a65bc1a66ab15b8e7feab1623.webp)
 
-*\*
+![](_assets/54/540903ca02fda3df28f9024db9b5dd75.webp)
 
-*\*
+![](_assets/74/74ed8ad57cde725d8aede724ae1aa09d.webp)
 
-*\*
+![](_assets/21/2132adf48cf382601f7e9af3ef79aae9.webp)
+
+![](_assets/fe/fef5e3575e705bd1f84da17040f08a17.webp)
 
 *Художник: Алексей Иорш*
 
@@ -101,32 +109,32 @@ tags: "поправки в конституцию, кафка-кодекс, аб
 >
 > ### [Героическая оборона Мосгордумы: ЦИК и Скрепман побеждают оппозиционную нечисть](https://novayagazeta.ru/articles/2019/11/13/82699-geroicheskaya-oborona-mosgordumy)
 
-*\*
+![](_assets/73/73a7fc9e16ee794ffa331a27973525e4.webp)
 
-*\*
+![](_assets/d8/d8c0a2942506cacccba4a9c167b39b69.webp)
 
-*\*
+![](_assets/00/00f776030cf7f8ad328e92743a89c535.webp)
 
-*\*
+![](_assets/4e/4e15dcfa52cd5987aa8f90898dff04e1.webp)
 
-*\*
+![](_assets/d7/d7b03f28131cdada335b35b2a52e38d5.webp)
 
-*\*
+![](_assets/51/51e1a03b6f0819bb472e7588f9cbbff8.webp)
 
-*\*
+![](_assets/f8/f89506321aa1ab177ae97d76f388ed60.webp)
 
-*\*
+![](_assets/4c/4c13b9324e9064def56805e5ead2b4f7.webp)
 
-*\*
+![](_assets/71/7155253c585c04c81bb18c46b4623bdb.webp)
 
-*\*
+![](_assets/2b/2b485b14c55f15ab5f3306e9db6f1542.webp)
 
-*\*
+![](_assets/35/358106c3bab6ff044f56c7201a8a057b.webp)
 
-*\*
+![](_assets/f4/f48f63f56e8a9aaa82c2bdcd6894ee47.webp)
 
-*\*
+![](_assets/4c/4c7c6710f971f202941f41846e530430.webp)
 
-*\*
+![](_assets/e5/e5e832612ba212dfc73bcc31f48fd5a5.webp)
 
-*\*
+![](_assets/96/963e3c0300222e6abc3e3b7baf67075d.webp)

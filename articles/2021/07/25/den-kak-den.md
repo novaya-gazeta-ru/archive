@@ -15,17 +15,17 @@ tags: "физраствор"
 
 Бытие определяет сознание под дождем, в метро, в новостях и кроссовках.
 
-*\*
+![](_assets/cd/cdc1e0ec4fdd0385e6146bf728e1fcc3.webp)
 
-*\*
+![](_assets/53/537a0ca0a8c4d3d1ca9db74e6ec73d29.webp)
 
-*\*
+![](_assets/bc/bc1147036941db398ce638c782536234.webp)
 
-*\*
+![](_assets/f7/f77362ca50e634e1320aaccba8c12308.webp)
 
-*\*
+![](_assets/0d/0df3521977826c549e29d01bbd7371be.webp)
 
-*\*
+![](_assets/53/533ecf1b936bbf277a87bcba418ca70e.webp)
 
 > **ОТ РЕДАКЦИИ**
 >

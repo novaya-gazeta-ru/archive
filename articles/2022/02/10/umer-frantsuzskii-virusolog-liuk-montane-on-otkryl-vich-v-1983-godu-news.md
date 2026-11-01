@@ -13,6 +13,8 @@ tags: "ученые, смерть, вич , нобелевская премия,
 
 Во Франции умер ученый Люк Монтанье, получивший Нобелевскую премию за открытие вируса иммунодефицита человека (ВИЧ). Об этом [сообщает](https://www.liberation.fr/checknews/le-professeur-luc-montagnier-est-mort-20220210_T3AVUEDJGJHVNJLGKPYOGSRQEU/) газета Libération.
 
+![](_assets/3b/3bd494a2ddc297450ae5659e84d97720.webp)
+
 *Фото: GettyImages / Roberto Serra — Iguana Press*
 
 Монтанье было 89 лет. По информации издания, он скончался во вторник в американской больнице в Нейи-сюр-Сен (пригород Парижа).

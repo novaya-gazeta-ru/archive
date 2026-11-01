@@ -15,7 +15,9 @@ tags: "кожа времени"
 
 - *Рубрика: Кожа времени. Читать все материалы*
 
-*Петр Саруханов / «Новая газета». [Перейти на сайт художника](http://www.sarukhanov.info/index.php?id=48&lang=rus)*
+![](_assets/0d/0df3ba98bc48b6237edfb51dcba36d92.webp)
+
+*Петр Саруханов / «Новая газета». [Перейти на сайт художника](http://www.sarukhanov.info/index.php?id=48&lang=rus)*
 
 # 1
 

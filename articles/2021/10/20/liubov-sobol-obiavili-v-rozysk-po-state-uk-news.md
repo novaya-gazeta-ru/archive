@@ -13,7 +13,7 @@ tags: ""
 
 Соратницу Алексея Навального Любовь Соболь объявили в розыск «по статье УК». Об этом [сообщается](https://xn—b1aew.xn—p1ai/) на сайте МВД.
 
-*\*
+![](_assets/d5/d50047023eb405b78e346aa5d7a2320e.webp)
 
 **Читайте также:** https://novayagazeta.ru/articles/2021/10/20/vse-kak-to-razom-navalnilos
 

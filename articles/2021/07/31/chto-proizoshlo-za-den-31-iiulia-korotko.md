@@ -13,6 +13,8 @@ tags: "ng, задержание, новостройки, суды, москва,
 
 - В восьмой день Олимпийских игр в Токио российские спортсмены завоевали одну золотую, одну серебряную и одну бронзовую медали. **Российские саблистки Софья Великая, София Позднякова, Ольга Никитина и Светлана Шевелева** [победили](https://novayagazeta.ru/articles/2021/07/31/rossiiskie-sablistki-vyigrali-komandnyi-turnir-olimpiady-v-tokio) в командных соревнованиях, **россиянка Юлия Зыкова** [завоевала](https://novayagazeta.ru/articles/2021/07/31/rossiianka-iuliia-zykova-zavoevala-serebro-olimpiiskogo-turnira-po-strelbe-iz-vintovki) серебро олимпийского турнира по стрельбе из винтовки с 50 м из трех положений, другая **спортсменка из России Юлия Каримова** завоевала бронзовую медаль в этом же соревновании. **Команда Олимпийского комитета России находится на четвертом месте в медальном зачете**, всего у нее 11 золотых, 15 серебряных и 11 бронзовых наград.
 
+![](_assets/22/2227fe593e5a9e93b8adf94536406228.webp)
+
 *Данные: сайт [olympics.com](https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/medal-standings.htm)*
 
 **Читайте также:** https://novayagazeta.ru/articles/2021/07/31/zloi-roc-ili-slezy-vmesto-dopinga

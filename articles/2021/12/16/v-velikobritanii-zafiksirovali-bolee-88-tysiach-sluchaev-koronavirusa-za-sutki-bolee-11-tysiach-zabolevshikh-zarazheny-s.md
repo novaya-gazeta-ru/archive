@@ -13,6 +13,8 @@ tags: "великобритания, коронавирус, омикрон, da"
 
 В Великобритании зафиксировали 88 376 заболевших коронавирусом за сутки, это максимальное количество с начала пандемии в стране. Об этом [сообщает](https://www.standard.co.uk/news/uk/uk-covid-daily-cases-latest-record-omicron-variant-pandemic-b972434.html)британская газета Evening Standart.
 
+![](_assets/c0/c055a723fe71e7871207c86a85b025f4.webp)
+
 *Фото: Frank Augstein, AP/TASS*
 
 Более 11 тысяч заболевших заражены штаммом «омикрон», из них около 75% [проживают](https://www.standard.co.uk/news/uk/covid-latest-news-lockdown-christmas-omicron-cases-booster-vaccine-boris-johnson-chris-whitty-b972292.html) в Лондоне. Накануне в Великобритании выявили 78 610 случаев коронавируса. Из общего числа обнаруженных случаев 26% инфицированных коронавирусом проживают в Лондоне.

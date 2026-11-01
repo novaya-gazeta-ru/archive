@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *Remembering Nemtsov – ‘Black Lenin’ – Russia’s poverty problem*
 
+![](_assets/27/2754d519438ec4c949fe173e1d1c3e8c.webp)
+
 *Boris Nemtsov (1993). Photo: RIA Novosti*
 
 This Week’s Highlights
@@ -45,6 +47,8 @@ Plenty of sketchy foreign fighters have appeared as Russian-backed mercenaries i
 
 **Discrediting the environmental movement.**The anti-landfill activists are convinced that Aijo’s appearance in Shiyes was meant to undermine their protests, which have been going on for over a year and a half with widespread public support. A similar incident took place in the fall of 2019 when far-right nationalists crashed their camp. The landfill’s investor allegedly brought in the rightwing demonstrators to sabotage the encampment.
 
+![](_assets/1e/1ee418e016ff5dcf45368d359ce3d4af.webp)
+
 *Photo: vk.com/ajjobeness*
 
 **Ignoring Interpol.**Latvia has an Interpol arrest warrant out for Aijo, who has four pending criminal charges and was previously convicted for attempting to overthrow the Latvian government. Upon arriving in Russia earlier this month, he was briefly detained, until State Duma Deputy Sergei Shargunov (a former “commissioner” in eastern Ukraine’s self-proclaimed “Donetsk People’s Republic”) and left-wing writer Zakhar Prilepin stepped in and secured his release.
@@ -56,6 +60,8 @@ Plenty of sketchy foreign fighters have appeared as Russian-backed mercenaries i
 Enduring Poverty in Russia, Explained
 
 President Vladimir Putin has long been promising to increase social spending, but little has changed for the 21 million Russians still living below the poverty line. Putin came face to face with this reality during a meeting with the public last week, when he was forced to concede that living on just 10,800 roubles (about $165) – the state-defined “monthly income minimum” – is “very difficult.” A video of the exchange went viral.
+
+![](_assets/07/0709c3b80e5ecb3ef6de21c5c078fe15.webp)
 
 *Photo: Maxim Bogodvid / RIA Novosti*
 
@@ -72,6 +78,8 @@ Russia’s Oil Standoff with Neighboring Belarus, Explained
 In another sign of disintegrating relations between Putin and Belarusian President Alyaksandr Lukashenka – who was once his closest foreign ally – Russia and Belarus are continuing their bizarre tiff over oil supplies. Both sides have had a lot to say about the negotiations in the last week, but they’ve mostly created more confusion. Russia cut off most of its oil supplies to Belarus at the beginning of the year, following demands from Minsk for lower prices. Russia’s co-dependent neighbor has been energy-starved ever since.
 
 **He said, he said.**So far the two parties have been telling very different stories. After a meeting between Putin and Lukashenka on 7 February (in which Moscow refused to budge) both sides announced that Russia would be selling oil to Belarus at higher, “global prices.” The Belarusian government tried to spin the outcome as a “victory,” pretending this was exactly what they wanted in the first place. Then, on February 14, Lukashenka said that Moscow was hinting at equal energy prices for Belarus if the country agreed to unification with Russia. Meanwhile, despite Minsk seeking oil supplies from other countries, Putin expressed doubts that Belarus will buy oil from anyone other than Russia.
+
+![](_assets/3e/3e5e3bb761d11231a0fdd8c7470c5d3f.webp)
 
 *Vladimir Putin and Alyaksandr Lukashenka during the hockey match. Photo: RIA Novosti*
 

@@ -10,8 +10,24 @@ tags: "сандармох, большой террор, дмитриев"
 ---
 
 # Находка в Бесовце
+![](_assets/db/db41cda803c4a4bec98638c28d4e97db.webp)
+
+![](_assets/e6/e6b8f02d15e11bec642a02d23902db42.webp)
+
+![](_assets/c0/c0a9630f755f8da8fa883f6f206ce922.webp)
+
+![](_assets/ee/ee86b8975c6ea742d8bd0bda31392d7f.webp)
+
+![](_assets/af/af109995f195f8524b574036cc12f81d.webp)
+
+![](_assets/f3/f388d341f6bf48a65a34eabd04d77f07.webp)
+
+![](_assets/7b/7b9a468dbf77ce1d699e68936a1360a7.webp)
+
 
 *Как историк Юрий Дмитриев нашел первый расстрельный могильник: глава графического романа «Эхо Сандормоха»*
+
+![](_assets/b7/b7f28c55c0b29496f9e867a1beceb58b.webp)
 
 *Художник: Лена Ужинова*
 

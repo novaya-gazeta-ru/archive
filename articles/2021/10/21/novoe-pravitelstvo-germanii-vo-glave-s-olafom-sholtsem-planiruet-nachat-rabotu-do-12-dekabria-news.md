@@ -13,6 +13,8 @@ tags: "шольц, германия, правительство, канцлер,
 
 Социал-демократическая партия Германии (СДПГ) собирается заключить коалиционный договор с «Зелеными» и Свободной демократической партией (СвДП) до конца ноября, а также избрать Олафа Шольца канцлером ФРГ до 12 декабря. Об этом [сообщает](https://www.spiegel.de/politik/deutschland/ampelbuendnis-will-bis-ende-november-koalitionsvertrag-vorlegen-a-cc7e7df1-bb2f-418e-ae5e-5aac3ab15b9b?fromtg=1) Spiegel со ссылкой на генсека СДПГ Ларса Клингбайля.
 
+![](_assets/a5/a5d2812a12762e8c586f012b9e5e513e.webp)
+
 *Олаф Шольц. Фото: соцсети*
 
 В случае заключения коалиционного договора, в ФРГ впервые на федеральном уровне [появится](https://novayagazeta.ru/articles/2021/10/15/v-germanii-sdpg-zelenye-i-svdp-dogovorilis-pereiti-k-koalitsionnym-peregovoram-pri-takoi-konfiguratsii-sholts-stanet-kantslerom-news) коалиция «светофор». Так ее называют из-за партийных цветов входящих в нее участников: красный цвет у социал-демократов, желтый — у свободных демократов, зеленый — у партии «Зеленых».

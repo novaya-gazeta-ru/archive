@@ -10,6 +10,14 @@ tags: ""
 ---
 
 # Победа идиотов
+![](_assets/13/13fb0a236be292fd3b91a036f15a8891.webp)
+
+![](_assets/b8/b8b3bbf3a1e17cf281beb0a4a701594f.webp)
+
+![](_assets/cf/cf26e6c1b096129a3b39baf79159fb37.webp)
+
+![](_assets/b6/b6522d175db263de6ddc93ac22dec674.webp)
+
 
 *Читаем со слезами на глазах*
 

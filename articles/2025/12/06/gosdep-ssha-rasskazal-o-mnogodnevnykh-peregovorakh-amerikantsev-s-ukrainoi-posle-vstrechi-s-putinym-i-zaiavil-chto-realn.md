@@ -11,6 +11,8 @@ tags: ""
 
 # Госдеп США рассказал о многодневных переговорах американцев с Украиной после встречи с Путиным и заявил, что «реальный прогресс» на пути к миру «зависит от России»
 
+![](_assets/c4/c45be95938d5c879bd6cc2261fda92bb.webp)
+
 *Джаред Кушнер и Стив Уиткофф входят в кремлевский зал для переговоров с Путиным. Фото: пресс-служба Кремля*
 
 Госдеп США и спецпредставители Трампа отчитались о новых контактах с Киевом. [Заявления](https://www.state.gov/releases/office-of-the-spokesperson/2025/12/meeting-between-special-envoy-for-peace-steven-witkoff-jared-kushner-ukrainian-secretary-of-national-security-and-defense-council-rustem-umerov-and-chief-of-general-staff-general-andriy-hnatov/) опубликованы на ресурсах Госдепа и [в твиттере](https://x.com/SEPeaceMissions/status/1997076434498535814) американского переговорщика по урегулированию конфликта в Украине Стива Уиткоффа. Тексты идентичны.

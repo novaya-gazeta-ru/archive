@@ -13,7 +13,9 @@ tags: "похороны, кадыров, анзоров, ислам, чечня,
 
 *Anzorov Beheaded Unfamiliar Man. Crowds Came to His Funeral*
 
-*Funeral of Anzorov in Shalazhi village. Screenshot from video*
+![](_assets/a7/a75edf82de54dea11d8309dfb0f961e4.webp)
+
+*Funeral of Anzorov in Shalazhi village. Screenshot from video*
 
 On Saturday, pro-government Chechen publics on Instagram reported that the corpse of 18-year-old ethnic Chechen Abdulla Anzorov was delivered from France to Chechnya. On October 17, Anzorov stabbed to death Samuel Pati, a school history teacher, in the Parisian suburb of Conflans-Saint-Honorine. Having murdered Pati, Anzorov published a photo of the teacher's head on his Twitter account in the best tradition of the ISIS, banned in Russia. In such a wild way, the young Muslim cracked down on a man who was a complete stranger to him, because Anzorov read somewhere on the Internet that his victim had allegedly shown disrespect to Prophet Muhammad. When apprehended, Anzorov refused to obey the demands of the French police and was shot dead.
 
@@ -25,7 +27,9 @@ He was not the only one; thousands of young people from all over the world acted
 
 The Anzorov family waited for the release of the body for a month and a half. Unlike the Russian authorities with their explicit position towards the corpses of terrorists (which is supported by the Chechen authorities), the French authorities are more lenient in this regard.
 
-*The body of Abudulla Anzorov. Screenshot from @ chp.grozny.95 account on Instagram*
+![](_assets/d1/d144495aa52234841da919b5bf9bb3ab.webp)
+
+*The body of Abudulla Anzorov. Screenshot from @ chp.grozny.95 account on Instagram*
 
 Yesterday, Abudulla Anzorov was finally buried. Videos of the funeral procession participated mainly by youth have already appeared on the Internet. A lot of people attended the funeral, but there could have been even bigger crowds if the authorities had not cordoned off the village and prohibited the entry into it for three days (this is how long a memorial lasts according to the tradition) even for residents of Shalazhi.
 
@@ -41,7 +45,9 @@ But how can one denounce and at the same time endorse out-of-court massacre of p
 
 In this situation, almost no voices of those Chechnya residents were heard, who believe that anyone may not be killed at all, at least because the right to live either works for everyone, or does not work in principle. There are such people in Chechnya, but it is a republic where it is dangerous to show disagreement and, even more, criticise the position of the authorities.
 
-*Abdulla Anzorov. Photo: instagram.com*
+![](_assets/fa/fa473c7e1d3263789a2ac2a79ed563d9.webp)
+
+*Abdulla Anzorov. Photo: instagram.com*
 
 Actually, the Chechen leadership put itself in an extremely uncomfortable position with this funeral. On the one hand, the authorities treated Abdulla Anzorov as kind of a “national hero”, and on the other hand, they could not allow his funeral to turn into a spontaneous flash mob at a republic level, like it was two years ago in Chechnya, when another “national hero”, Yusup Temirkhanov, who murdered Colonel Budanov, was buried in the village of Geldagan in August 2018.
 
@@ -50,6 +56,8 @@ This is a pretty interesting historical analogy, which helps explain why in mode
 In 2011, Temirkhanov was commissioned to murder Yuriy Budanov, a former Russian army colonel, who was convicted and did a term in prison for the kidnapping and murder of 18-year-old Chechen girl Elza Kungaeva. By the way, Budanov was buried with military honours, although he was deprived of both his military rank and awards by the court sentence.
 
 Yuri Budanov not only kidnapped and murdered, but also barbarously abused the Chechen girl. And of course, it was not only Budanov who committed war crimes during the two Chechen military campaigns. But he was almost the only one whom the Russian authorities really convicted. This is why Budanov is the epitome of the Russian imperial "evil” in the sight of the Chechen people. Accordingly, his killer is treated as a “national hero”. The religious factor did not play any role in that situation. This murder was of an absolutely "secular” nature. Unlike Abdulla Anzorov, who, as he thought, sought revenge for the hurt feelings of all true believers, Temirkhanov, in the eyes of the Caucasians, avenged the insulted honour of a Chechen woman.
+
+![](_assets/aa/aac78c20b31fbfd8cb0f2ec4a6c1f7f3.webp)
 
 *Funeral of Yuri Budanov. Photo: Alexey Nilolaev / RIA*
 

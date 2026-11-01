@@ -19,6 +19,8 @@ tags: ""
 
 Заканчивается сообщение словами о том, что Лавров и Рубио вроде бы подтвердили свой настрой на нормализацию работы дипломатических миссий на территории друг друга.
 
+![](_assets/d4/d48d425ddd6a9a795b9db588cc48d83d.webp)
+
 *Посольство США в Киеве. Фото из открытых источников*
 
 МИД РФ ранее днем [анонсировал](https://novayagazeta.ru/articles/2026/05/25/mid-rossii-ot-imeni-minoborony-rf-anonsiroval-sistemnye-udary-po-tsentram-priniatiia-reshenii-v-kieve-inostrantsev-prizvali-pokinut-gorod-a-kievlian-ne-priblizhatsia-k-voennym-obektam-news) «системные» удары по «центрам принятия решений» в Киеве. Иностранцев призвали покинуть город, а киевлян — «не приближаться» к военным объектам.

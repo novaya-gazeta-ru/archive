@@ -10,6 +10,18 @@ tags: ""
 ---
 
 # Страна разбросанных камней
+![](_assets/59/59303394130c6dbb45005618a12f1667.webp)
+
+![](_assets/53/53a4218ba722ec535141c947fdf348c7.webp)
+
+![](_assets/a1/a1dbb03fc073a49746c0be7d0cb5e7f3.webp)
+
+![](_assets/1d/1dd05c3f76793dd2fe4d468b188622cf.webp)
+
+![](_assets/d9/d9aa590810430436fc04a60d6cdebc31.webp)
+
+![](_assets/d8/d8bf329f6a12ee83c53dc4e74c8d29a9.webp)
+
 
 *СССР: Продукт после распада*
 

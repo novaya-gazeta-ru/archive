@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *Putin 2036 — Ruble’s free fall — Embattled feminism*
 
+![](_assets/80/8002b4bd878c94edc3f846e5c43f6800.webp)
+
 *Vladimir Putin at a meeting of the State Duma of the Russian Federation. Photo: RIA Novosti*
 
 This Week’s Highlights
@@ -31,6 +33,8 @@ A last-minute move has set the path for extending Putin’s rule until 2036. The
 
 **Change of plans.** Putin’s original plan for the constitutional changes was a staged game with multiple steps and various moving parts, including talk of snap parliamentary elections, relaxing presidential term limits and an odd mix of conservative initiatives to distract the public. But you can scrap all of that now, says our politics editor Kirill Martynov. Amid mounting crises provoked by the global COVID-19 outbreak and financial instability, Putin is making a push for a more straightforward constitutional power-grab, insisting that this is not the time for a transition of power. The State Duma approved the amendment that same day, but it still needs to be cleared by the Constitutional Court (a mere formality).
 
+![](_assets/55/55064dc013c9fd4dc2fcc8f68cfc5248.webp)
+
 *Putin is ready to be at the head of the state, as long as he sees fit. Photo: Kremlin press service*
 
 **“At this moment the Russian Federation, as it was conceived in 1993, is ‘nullified’,” Martynov says.**“The Kremlin no longer has any Constitutional complexes; Putin is ready to stay in his post as long as he sees fit and he himself will appoint the judges to the Constitutional Court.” The way Martynov sees it, this latest move renders the entire overhaul of the Russian Constitution meaningless. “Counting presidential terms no longer makes any sense, nor does the ‘constitutional reform’ itself, which was originally thought up as a complex and elegant way to resolve the Kremlin’s 2024 problem,” he explains. “Now they decided not to complicate things [...] The President simply isn’t going anywhere.”
@@ -44,6 +48,8 @@ The Ruble’s Fall, Explained
 The global collapse of oil prices sent the ruble into a free fall this week, with the Russian currency hitting a four-year low on Monday. But coronavirus-induced financial panic is just one part of the story and many are still scratching their heads over why Moscow would choose to exacerbate economic fallout by killing a key OPEC+ deal. Have no fear – we’ve got you covered.
 
 **OPEC+ breakdown.**On March 6, the OPEC+ group (made up of states belonging to the International Organization of Petroleum Exporting Countries, plus non-member countries, like Russia) decided to reduce production in response to depreciating oil demand. Russia reacted by not only rejecting the proposal but also announcing that it will stop cooperating with OPEC as of 1 April. In a domino effect, coordination between the other member countries broke down, triggering a further plunge in global oil prices and massive devaluation of Russia’s currency.
+
+![](_assets/15/15e90008193df796a4db29ede598a8aa.webp)
 
 *Photo: RIA Novosti*
 
@@ -75,6 +81,8 @@ On March 8, the world marked International Women’s Day – which in Russia has
 
 **Hijacked IWD.** “At the beginning of the century, this holiday was invented to talk about the struggle for women’s rights,” explains feminist activist and historian Ella Rossman in an op-ed for Novaya Gazeta. “A century later, having gone through more than one conservative turn in family and gender policy [...] it has turned into a day of ‘spring, love and beauty’ in our country.” The way Rossman sees it, Russia has popularized a commercialized version of Women’s Day, which only serves to reinforce stereotypes about women.
 
+![](_assets/be/be41780d6213dd85ab5369b7b2c1bf5b.webp)
+
 *International Women's Day in Moscow. Photo: RIA Novosti*
 
 **“There really are a lot of feminist groups in Russia,” Rossman says.** “Last year, for example, feminist events took place in over 30 cities, from Kaliningrad to Komsomolsk-on-Amur.” Since 2019, Rossman has been working to compile digests of feminist events that have taken place across the country, to highlight the fact that they are widespread. “This year, the geography of the ‘feminist [month of] March’ has expanded even further. Moreover, I feel that the most interesting events are now taking place not in the capitals but in the regions.”
@@ -88,6 +96,8 @@ ___
 Other Top-Stories Russia Has Been Reading
 
 - **Cadet school controversy.**Our most-read story this week was an article about a top student who was dismissed from the Investigative Committee’s Cadet Corps, after a video surfaced showing three cadets mocking a fourth student. The student in question, a tenth grader named Varvara, was expelled without any procedure and her grandmother’s complaints were dismissed. Meanwhile, some are speculating that she was actually turned out to free up a spot at the prestigious school. A Cadet Corps education is in high demand, since it promises students social mobility, especially when it comes to future careers in law enforcement.
+
+![](_assets/ad/ada95722a0f5007a755323a31a72d608.webp)
 
 *At the Russian embassy in The Hague. Photo: EPA_EFE*
 

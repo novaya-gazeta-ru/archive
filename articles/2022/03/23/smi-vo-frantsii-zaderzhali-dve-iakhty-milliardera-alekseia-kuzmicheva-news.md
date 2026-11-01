@@ -13,6 +13,8 @@ tags: "яхты, кузьмичев, альфа-групп, альфа, фран
 
 Власти французского департамента Приморские Альпы задержали две яхты российского миллиардера Алексея Кузьмичева, попавшего в санкционный список Евросоюза в связи с военными действиями в Украине. Об этом сообщают издания [Le Figaro](https://www.lefigaro.fr/conjoncture/deux-nouveaux-yachts-d-un-oligarque-russe-geles-dans-le-sud-de-la-france-20220323) и [Liberation](https://www.liberation.fr/economie/deux-nouveaux-yachts-appartenant-a-un-oligarque-russe-immobilises-dans-les-alpes-maritimes-20220322_CGGX3MJWYBAW3DIR7IMOUX2N34/) со ссылкой на источник в правительстве.
 
+![](_assets/22/22b6b5c27332cc3dfe1dfb5f06d39bc1.webp)
+
 *Яхта Petite Ourse. Фото: yachtcharterfleet*
 
 Речь идет о судне Petite Ourse длиной 17 метров, находящемся в порту Канн, и яхте Grande Ourse длиной 26 метров, которая проходит техническое обслуживание в Антибе.

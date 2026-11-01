@@ -10,6 +10,16 @@ tags: ""
 ---
 
 # Страна рыб
+![](_assets/ef/ef84b8725cb3ae4ec0338b1524655ab4.webp)
+
+![](_assets/ef/ef84b8725cb3ae4ec0338b1524655ab4.webp)
+
+![](_assets/4c/4c6b73136efe93aa2c8ceedfc21d52dc.webp)
+
+![](_assets/b6/b61275caeef8739a9fc5cf9af76bbc22.webp)
+
+![](_assets/85/856b4ac4b636756543004eb75fb6c0df.webp)
+
 
 *СССР: продукт после распада*
 

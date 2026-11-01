@@ -11,7 +11,7 @@ tags: "франциск, папа римский, смерть"
 
 # Ватикан объявил о смерти папы римского Франциска&nbsp;
 
-*\*
+![](_assets/df/df312b2ab2afcbf8d82e1aa80b27dd56.webp)
 
 Папа римский Франциск скончался на 89-м году жизни, [сообщает](https://www.vaticannews.va/en/pope/news/2025-04/pope-francis-dies-on-easter-monday-aged-88.html) Vatican News.
 

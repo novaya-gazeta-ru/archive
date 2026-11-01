@@ -10,6 +10,24 @@ tags: ""
 ---
 
 # Мандрапапупа*. Они приходят по пятницам...
+![](_assets/25/2549d2d747197adff99b2696c2c49a39.webp)
+
+![](_assets/00/00a688ec114b3d7221d8ad92a441ffbb.webp)
+
+![](_assets/0d/0d9f138abd9caf62fb9c84ea5917b289.webp)
+
+![](_assets/0b/0bc48341e93046c9e26f40cb75786cfb.webp)
+
+![](_assets/e3/e370d2db4c4ba88adb31194161ba1ed9.webp)
+
+![](_assets/08/08150abbaa5393878305535e2025a5c5.webp)
+
+![](_assets/4c/4c717b01cf7c95a720f536e9e67336f9.webp)
+
+![](_assets/dc/dca5d16532757bbb4d74743dfe61fe2b.webp)
+
+![](_assets/c8/c86b3fb8f0d7c2a2f07da668354a1036.webp)
+
 
 *Доктор Лиза собирает в своем подвале особенных пациентов. С каждым приходит его личная трагедия*
 

@@ -10,6 +10,8 @@ tags: "музыка"
 ---
 
 # По мотивам «Битлов»
+![](_assets/4f/4fa8770aecf9b363d4f0b598b14b3be8.webp)
+
 
 *Нет одного-единственного Дня The Beatles, есть год Beatles, и годы Beatles, и люди Beatles, и любовь Beatles, и смех Beatles, а еще есть жизнь по правилам Beatles, и в этой жизни мы живем*
 

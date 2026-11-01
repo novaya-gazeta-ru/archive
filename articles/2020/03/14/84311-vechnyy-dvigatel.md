@@ -10,8 +10,18 @@ tags: "обнуление сроков, поправки в конституци
 ---
 
 # Вечный двигатель
+![](_assets/3b/3be053c37878ceeb22540a07a3e8147a.webp)
+
+![](_assets/1b/1bb633b018b38aed989cc021d07c07c4.webp)
+
+![](_assets/b5/b5ef23f8ee614f07232749d87bc2a808.webp)
+
+![](_assets/21/21d7b02fc2e29cfc63688e66f2895023.webp)
+
 
 *Комикс о скрученном счетчике*
+
+![](_assets/43/43b53601a4d3dc543bf510bccfce2c35.webp)
 
 *Иллюстратор: Fizzz*
 

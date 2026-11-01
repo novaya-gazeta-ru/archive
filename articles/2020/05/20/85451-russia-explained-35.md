@@ -27,6 +27,8 @@ With Russia now having the second-highest number of COVID-19 cases in the world 
 
 **Unrealistically low mortality rate.**Officially, Russia’s death rate is just 0.9% - significantly lower than that of other countries with similarly large Covid-19 outbreaks. According to official figures, every fourth death is registered in the country’s capital of Moscow, the epicenter of the epidemic. Data from the capital’s registry office shows a 19% spike in deaths recorded last month, meaning Moscow’s coronavirus death toll could be three times higher than officially.
 
+![](_assets/a2/a2b5aaca04173af22f99fbf65e737ed5.webp)
+
 *Photo: Svetlana Vidanova / "Novaya Gazeta"*
 
 **How did we calculate this?**We used state data from 2006 to 2019 to calculate the average monthly mortality rate and cross-checked it with a recent death rate. According to our estimates, the average number of deaths for any April is 9,991; instead, 11,846 were recorded last month.
@@ -53,6 +55,8 @@ Last month President Vladimir Putin promised all healthcare workers on the front
 
 **For some, a ‘bonus’ turned out to be a paycheck cut.**Svetlana Munirova is an otolaryngologist at a hospital in the country’s second-largest city of St Petersburg with a salary of 50,336 rubles (about $690). In April, her paycheck was slashed by more than $82. This is because her hospital was repurposed to work with coronavirus patients. She was reclassified from a surgeon to an infectious disease specialist, who receives a smaller salary.
 
+![](_assets/04/04a433626bc6f696893e87a9fb32bfbf.webp)
+
 *Photo: EPA-EFE*
 
 **Now you see a bonus, now you don’t.**Last month Munirova’s hospital was placed under quarantine after several patients were diagnosed with coronavirus. The staff locked inside were forced to work 24-hour shifts for two weeks straight. An anesthesiologist-resuscitator, who spoke to Novaya Gazeta on anonymity, said that usually, so much overtime would double his paycheck (around $700). But he got paid precisely the same. Meanwhile, his colleague, a cardiac surgeon undergoing a forced quarantine at home after coming in contact with a COVID-19 patient, received only half of his usual salary.
@@ -70,6 +74,8 @@ Remote Voting Law and Rigging Concerns, Explained
 President Putin was in the middle of extending his rule until 2036 when the pandemic hit. Now he is short of a formality — a referendum, which has been, at first, postponed to late June due to COVID-19. But now no one knows how long quarantine will last, so the Kremlin pushes for remote voting, instead.
 
 **Election fraud concerns.**The lower chamber of the Russian parliament has already approved new legislation that would allow citizens to vote via mail and online. Opposition lawmakers say that both postal and electronic voting opens up the door to electoral rigging. The parliament is in Putin's full control, so the upper chamber is expected to sign off on the bill very soon.
+
+![](_assets/6d/6d8dc9e4bea3c5cc9190e39b11324fec.webp)
 
 *Photo: RIA Novosti*
 

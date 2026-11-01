@@ -10,6 +10,26 @@ tags: "книги, наука, обзор, техника"
 ---
 
 # Десять нон-фикшн книг 2016 года
+![](_assets/8c/8ca267f1753efedbf9cbb1b6bc4cf8e8.webp)
+
+![](_assets/47/477175639058a1fe38875646ad5c532b.webp)
+
+![](_assets/bf/bfb6d61f49124868dc24ca9366a1f304.webp)
+
+![](_assets/b9/b9baa5ccc180247b3c04a371895c608c.webp)
+
+![](_assets/6c/6cef4f4268a9f57b59e0a8d910b28564.webp)
+
+![](_assets/91/91172586a38a1aab236bc0213b2044fa.webp)
+
+![](_assets/e4/e40ccda381d6776aa6ac18e897aba22d.webp)
+
+![](_assets/5a/5a1b2484098b0992885c398e56a7cc99.webp)
+
+![](_assets/b0/b0d0a604a47c14c354052f18b7a36f05.webp)
+
+![](_assets/9e/9e4245565145bafe827bd767d3004c39.webp)
+
 
 *Обзор Кирилла Мартынова*
 

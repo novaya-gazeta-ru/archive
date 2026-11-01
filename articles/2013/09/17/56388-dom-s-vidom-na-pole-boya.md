@@ -10,6 +10,26 @@ tags: ""
 ---
 
 # Дом с видом на поле боя
+![](_assets/bd/bd5834b0c97c913afd43e82b41a48350.webp)
+
+![](_assets/b0/b016992d44c9d67f6dc4ff36a19c8684.webp)
+
+![](_assets/8b/8bd1604ab2c29f764b1ba0acc3a7bb18.webp)
+
+![](_assets/e5/e5e75c0ba985bdd90061ce8b90fb7fec.webp)
+
+![](_assets/02/0210304cc8a75b0f267ae0af21765710.webp)
+
+![](_assets/cf/cf4315bacf4f7b9f2d6f5f1f91477970.webp)
+
+![](_assets/09/09d13d1c2b943319bf93fa1229fd20ea.webp)
+
+![](_assets/c2/c2b49f59379f6401f529f2848791e52e.webp)
+
+![](_assets/f8/f81893a490e163028f54bbf1fb85ccec.webp)
+
+![](_assets/73/73c894efb0e799b09a65c973227495af.webp)
+
 
 *Репортаж специального корреспондента «Новой газеты» с израильско-сирийской границы*
 

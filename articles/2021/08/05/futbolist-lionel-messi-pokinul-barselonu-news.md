@@ -10,6 +10,10 @@ tags: "футбол, месси, барселона, sn"
 ---
 
 # Футболист Лионель Месси покинул «Барселону»
+![](_assets/69/69484525af32a420b0591e21ad90bae9.webp)
+
+*Фото: ЕРА*
+
 
 Футболист Лионель Месси покинул клуб «Барселона». Об этом [сообщается](https://www.fcbarcelona.es/es/futbol/primer-equipo/noticias/2207655/leo-messi-no-seguira-ligado-al-fc-barcelona) на официальном сайте клуба.
 

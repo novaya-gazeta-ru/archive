@@ -23,6 +23,8 @@ New feature! Russia, Explained Audio Briefing. Also available on Apple Podcasts 
 
 # Dirty Campaign Against Pro-democracy Leaders, Exposed
 
+![](_assets/c0/c0b60d2c91a27d0e3f55a1505ba801c6.webp)
+
 *Illustration by Peter Sarukhanov*
 
 Kremlin-linked fixer Yevgeny Prigozhin worked to compromise pro-democracy leaders ahead of the 2019 Moscow City Duma Elections, says a new Novaya Gazeta report based on leaked documents. The documents revealed a detailed plan by Prigozhin-linked individuals to smear and sabotage independent candidate Lyubov Sobol – the most well-known face of Russia’s pro-democracy protests abroad.
@@ -41,6 +43,8 @@ ___
 
 # Genetic Mutations in Krasnoyarsk, Explained
 
+![](_assets/23/2384fafd62f2c80968726dcea3a37613.webp)
+
 *Illustration by Peter Sarukhanov*
 
 The Krasnoyarsk Aluminium Factory (KrAZ) opened in 1964 and has been poisoning the local environment ever since. Located outside of the Siberian city of Krasnoyarsk, the factory belongs to the business empire of U.S.-sanctioned billionaire oligarch, Oleg Deripaska. As part of his company RUSAL (one of the largest producers of aluminum in the world), KrAZ is a core enterprise for the city. But both the company and the government are ignoring the factory’s detrimental impact on the environment. As part of Novaya Gazeta’s ongoing reporting on environmental crimes across Russia, our journalist traveled to the region to cover the harmful effects of the factory’s industrial toxins.
@@ -57,6 +61,8 @@ ___
 
 # Russia’s ‘Unlucky’ Aircraft Carrier Bears a Striking Symbolism
 
+![](_assets/ca/ca4c11f5583c45a9eb93d5c056b2d604.webp)
+
 *Crew of the “Admiral Kuznetsov”. RIA Novosti*
 
 Russia’s only aircraft carrier, the “Admiral Kuznetsov”, caught fire in the far-northern port of Murmansk on December 13, 2019 – leaving two people dead and 12 injured.
@@ -70,6 +76,8 @@ Russia’s only aircraft carrier, the “Admiral Kuznetsov”, caught fire in th
 ___
 
 # Corporate Raiding in Russia, Explained
+
+![](_assets/f5/f5bd8ceda2df65e42d616dc00f7dd89b.webp)
 
 *Russian Bear ate Russia. Illustration by Peter Sarukhanov*
 
@@ -86,6 +94,8 @@ The Russian government is often the biggest obstacle preventing the country’s 
 ___
 
 # Top Story: 25th Anniversary of the First Chechen War
+
+![](_assets/65/65c610c517af24fdbd231b6c197efa8a.webp)
 
 *Johar Dudaev. Photo: TASS*
 

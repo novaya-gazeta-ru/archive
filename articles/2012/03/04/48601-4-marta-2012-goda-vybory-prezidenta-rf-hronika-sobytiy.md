@@ -10,6 +10,20 @@ tags: ""
 ---
 
 # 4 Марта 2012 года. Выборы президента РФ. Хроника событий
+![](_assets/9d/9db376d45c634e5eb0ea39f8d2fc4873.webp)
+
+![](_assets/9f/9f4cb452700897093efdb6d9b940b720.webp)
+
+![](_assets/85/85d41824e5bf1b22e6979be1f8e00aa5.webp)
+
+![](_assets/55/55afd95e202becffdd4188e40c1d1306.webp)
+
+![](_assets/4d/4d0b14c842c3db83920f2118dbc05955.webp)
+
+![](_assets/38/3881c53b8c2df8206067bdb9ba78fca6.webp)
+
+![](_assets/e2/e2f0f5f71b5d80899808ba2afecc1b31.webp)
+
 
 **20. 15 Уфа - последняя волна массовых удалений наблюдателей и журналистов**
 

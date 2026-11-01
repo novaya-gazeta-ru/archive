@@ -13,7 +13,7 @@ tags: "pj harvey, инди-фолк, олег каравайчук, blur, бри
 
 *Музыкальные альбомы конца лета*
 
-*\*
+![](_assets/3a/3a25a77fab47224a68761ca85866d13f.webp)
 
 > ### **PJ Harvey **
 >
@@ -31,7 +31,7 @@ tags: "pj harvey, инди-фолк, олег каравайчук, blur, бри
 >  *— «I Inside The Old Year Dying»,\
 >  — «A Child's Question, August»*
 
-*\*
+![](_assets/30/306c8e278c31d27490edddb3c7de535b.webp)
 
 > ### **Олег Каравайчук**
 >
@@ -47,7 +47,7 @@ tags: "pj harvey, инди-фолк, олег каравайчук, blur, бри
 >
 > - **Слушать** на [Яндекс.Музыка](https://music.yandex.ru/album/25676665)
 
-*\*
+![](_assets/8e/8eb8fa97b2ac26bba03cefd65b85ed00.webp)
 
 > ### **Blur **
 >
@@ -69,7 +69,7 @@ tags: "pj harvey, инди-фолк, олег каравайчук, blur, бри
 >  — «St. Charles Square»,\
 >  — «Barbaric»
 
-*\*
+![](_assets/f8/f8600f454068c4cdf8098193030e39fb.webp)
 
 > ### **Trent Reznor & Atticus Ross**
 >
@@ -86,7 +86,7 @@ tags: "pj harvey, инди-фолк, олег каравайчук, blur, бри
 > - **Слушать **на [Apple.Music](https://music.apple.com/ru/album/teenage-mutant-ninja-turtles-mutant-mayhem-original-score/1698366138)
 > - **Стиль:** саундтрек от легенд индустриального рока
 
-*\*
+![](_assets/cf/cf4d3a04834a91c54474a8db4de47b52.webp)
 
 > ### **Tinariwen**
 >

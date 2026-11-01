@@ -10,6 +10,20 @@ tags: "жкх, самара"
 ---
 
 # В такой город даже враг не сунется
+![](_assets/26/26536f8b60f65e5316e7312c85760e33.webp)
+
+![](_assets/7d/7d57ef6226e1b48fce9fd87923232828.webp)
+
+![](_assets/3c/3cc90b82a2bed95e7c9554fdca049bbb.webp)
+
+![](_assets/b4/b412ad292927766dc464e5aed674d0f1.webp)
+
+![](_assets/26/2697e8b118cf79246ad22d7f06cbea0e.webp)
+
+![](_assets/fd/fdb6af44930dd50fbb8e81f02ce6facf.webp)
+
+![](_assets/11/11ea1b7b6669013558089e3c0e1a7383.webp)
+
 
 *Никогда Самара не выглядела так плохо*
 

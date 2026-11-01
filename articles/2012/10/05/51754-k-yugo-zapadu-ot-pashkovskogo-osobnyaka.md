@@ -10,8 +10,16 @@ tags: "москва"
 ---
 
 # К юго-западу от пашковского особняка
+![](_assets/a9/a998af3962ccd88238be10440b8cf263.webp)
+
+![](_assets/dc/dc2bf0cdaa499615da9694072a2b022f.webp)
+
+![](_assets/8a/8ac618dca51ddf39490529534509b7d0.webp)
+
 
 *Территория просвещения*
+
+![](_assets/f4/f46bde9ed0afdcc291eb050b54ef4f7a.webp)
 
 *Фото Анны Артемьевой*
 

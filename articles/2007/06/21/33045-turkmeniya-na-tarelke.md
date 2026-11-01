@@ -10,6 +10,14 @@ tags: ""
 ---
 
 # Туркмения на тарелке
+![](_assets/d5/d5614538f1da21f59c8b3ce6af96085e.webp)
+
+![](_assets/c4/c4cb53e4a97a7ddd43867b0f7c5d5e08.webp)
+
+![](_assets/29/29d5512bb48485abda9fadd62ba1b57b.webp)
+
+![](_assets/c0/c057ce6a0cd1a19a08cafcf479dabdab.webp)
+
 
 *СССР: продукт после распада*
 

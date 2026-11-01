@@ -29,6 +29,8 @@ Protests in the far east city of Khabarovsk have swelled for the third week, wit
 
 **SECOND, MURDER CHARGES ARE LIKELY A SMOKESCREEN.**Specifically, we looked into an ongoing attempt of Putin-linked businesspeople to execute a hostile takeover of a plant partially-owned by the Furgal family. It might serve as a better explanation for Furgal’s arrest.
 
+![](_assets/ae/aedf8b35a7e9c163f1fc010d5b7bbd79.webp)
+
 *Protests of Khabarovsk. Photo: RIA Novosti*
 
 **THIRD, ENTER PUTIN FOLKS.**In 2016, Furgal’s wife Larisa Starodubova partnered with a Putin-linked businessman to buy out a dying metallurgy plant - the only steelmaking plant in the entire Far East. That person is Pavel Balsky, who sat on the board of directors of SMP bank, owned by Putin's friend Arkady Rotenberg. Lately, the business started making good profits. Balsky launched an aggressive consolidation of the plant’s assets.
@@ -48,6 +50,8 @@ Amid the country’s environmental degradation, the Kremlin keeps crusading agai
 **LICENSE TO FELL. T**he new laws allow authorities to rezone forest lands, bypass state environmental appraisals for any projects linked to the modernization of transport infrastructure and increase the throughput of the nearby major Baikal-Amur and Trans-Siberian railways. Simply put, they give authorities the green light to cut down as much forest as they want and make more money on often corrupt state tenders.
 
 **PUBLIC SHUT OUT.**Greenpeace Russia expert Mikhail Kreindlin denounced the bill, stating that environmental appraisals are the only form of environmental evaluation that’s enshrined into law. These appraisals ensure that authorities must inform citizens on developments planned for their territory and allow them to have a say on these decisions. New law cancels the need for public hearings.
+
+![](_assets/e9/e9819828b34df66ab6e030b059bdd096.webp)
 
 *Illustration by Petr Sarukhanov*
 
@@ -79,6 +83,8 @@ When the Black Lives Matter protests shed light on the scale of police brutality
 
 **NO JUSTICE.** It is almost impossible to initiate a case against a law enforcement officer for violence. Victims are often denied justice, and statements are passed from one department to another. If a sentence is handed down, officers usually get off with a suspended sentence or a fine. In the sample we studied, we found only three criminal cases initiated after police violence led to death - and only one of those resulted in an officer getting a real prison term.
 
+![](_assets/05/05eea822b1f9ceaed3cd5fbde29dc32b.webp)
+
 *Photo: Svetlana Vidanova / "Novaya Gazeta"*
 
 **UNPUNISHED.** Human rights organization Zona Prava presented us with 70 cases from 2015 to 2020, where their lawyers tried to bring security forces to justice for beatings or torture. 80% got rejected—some — up to 14 times in a row. Based on the data we collected from human rights groups, authorities, and other open sources, we estimate that over the past decade, tens of thousands of cases of beatings and torture by the Russian police and other security forces could have gone unpunished.
@@ -90,6 +96,8 @@ ___
 Other Top-Stories Russia Has Been Reading
 
 - **ELECTION FRAUD FEARS.** Russian lawmakers have put forward a draft bill that could see elections run for three days, with voting held in places other than traditional polling stations. That means on benches, in sheds and on the back of trucks - much like what took place during the constitutional referendum earlier this month. Our columnistBoris Vishnevsky says if these proposals become law (and there’s little doubt that they will), elections in Russia will no longer be an instrument for determining the real will of citizens. The votes submitted during the first two days will be at the disposal of people who, for years, have forged voting protocols. Vishnevsky argues that the government is hastily pushing these changes through now for no other reason than fraud. After all, that seems to be the only way the authorities can achieve the results they want.
+
+![](_assets/c5/c53821d6115d3ca05e24eb2daddc0a89.webp)
 
 *Photo: RIA Novosti*
 

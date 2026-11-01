@@ -10,6 +10,8 @@ tags: ""
 ---
 
 # Где наша не пропадала!
+![](_assets/8e/8eeedc7f78acc78ab676f70f28b35dc4.webp)
+
 
 REUTERS
 

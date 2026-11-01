@@ -10,6 +10,24 @@ tags: ""
 ---
 
 # Болото вместо революции
+![](_assets/88/88d035f061cfda330e1d5b4f1f68b90b.webp)
+
+![](_assets/1d/1deaa5da203703f8024a8da525cff3ee.webp)
+
+![](_assets/7f/7f449bebd2eed600fe588fe24ddc75a6.webp)
+
+![](_assets/c7/c7c4e19678d5d72079adeecee4eeeba4.webp)
+
+![](_assets/68/6849f52d3aa86bcd286f353be538dbf6.webp)
+
+![](_assets/bb/bbf89f4c31171eac43fe8e304c8ada10.webp)
+
+![](_assets/61/61aa0341d8fe7b1067144c7d10ae2d7f.webp)
+
+![](_assets/f3/f3ec2e574371c8b69d96b8723b59bc3e.webp)
+
+![](_assets/c0/c02fcce0454c3c2136367b07bccfa8dd.webp)
+
 
 *Итог протестной активности декабря 2011  марта 2012: оппозиция не смогла выиграть у власти по собственной вине. Пора проводить праймериз и выбирать настоящего лидера протеста  вместо тех, кто его дискредитирует*
 

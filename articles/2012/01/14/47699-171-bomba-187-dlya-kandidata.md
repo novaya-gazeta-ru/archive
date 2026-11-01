@@ -10,6 +10,8 @@ tags: ""
 ---
 
 # «Бомба» для кандидата
+![](_assets/c2/c2e7b6765ea58f9e5ea445f8870399aa.webp)
+
 
 *Кандидата Путина могут снять с выборов, а издателей фальшивого «АиФа» наказать шестью годами лишения свободы*
 
@@ -21,7 +23,9 @@ The New York Times, Guardian, The Times, Le Figaro, Le Monde, La Tribune и др
 
 ___
 
-*Слева — снимок полосы екатерибургской газеты «АиФ Урал. Дайджест». Справа — оригинал, сделанный фотографом Алексеем Юшенковым  [[[info]]](http://yustas.livejournal.com/profile)[**yustas**](http://yustas.livejournal.com/) весной 2011 года. Источник: [navalny.livejournal.com](http://navalny.livejournal.com/661833.html)*
+![](_assets/d2/d2856f34a6618223794d2df4102f4d4c.webp)
+
+*Слева — снимок полосы екатерибургской газеты «АиФ Урал. Дайджест». Справа — оригинал, сделанный фотографом Алексеем Юшенковым [[[info]]](http://yustas.livejournal.com/profile)[yustas](http://yustas.livejournal.com/) весной 2011 года. Источник: [navalny.livejournal.com](http://navalny.livejournal.com/661833.html)*
 
 ___
 

@@ -10,6 +10,14 @@ tags: ""
 ---
 
 # Щит happens
+![](_assets/40/4010e011aca2e7dc4eaab2b239baca82.webp)
+
+![](_assets/a3/a35686de8e8c497beb404013a9819f8c.webp)
+
+![](_assets/99/99816de61d80c76a6d51dc41b35df4b5.webp)
+
+![](_assets/eb/ebef1763743dfb5fa9b18bc9bf0b1edd.webp)
+
 
 *Проект Физраствора и «Новой газеты»*
 

@@ -27,6 +27,8 @@ A new wave of the pandemic brings a record number of new cases. Yet, the mortali
 
 **A MISHANDLED REFORM GOT IN THE WAY.**Many of the supply problems stem from a new labeling system. The government rolled it out this Summer to ensure drug manufacturers can’t avoid taxes or sell counterfeit stuff. Each pack of medicine now has a unique ID, a type of digital passport that tracks the journey from the warehouse to the pharmacy. But the idea turned out to be incompatible with the Russian bureaucracy.
 
+![](_assets/76/76daeab2e64346846af8c475a9946116.webp)
+
 *Photo: RIA Novosti*
 
 **LIFE-SAVING DRUGS STUCK IN WAREHOUSES.** In reality, the new system has left hundreds of thousands of packages of medicines just sitting in warehouses, our investigation discovered. The ID tracking is done centrally from Moscow, while drugs travel circuitous routes around the country. The process quickly got backlogged. Officials deny a problem and argue that 98 percent of the transactions are logged in just 10 minutes. But almost all pharmaceutical companies tell us that’s a lie.
@@ -38,6 +40,8 @@ A new wave of the pandemic brings a record number of new cases. Yet, the mortali
 **OLIGARCHS INC.**The federal information system used to tag and monitor these medical products is run by a consortium between the state and Kremlin-friendly oligarchs. Half of the system’s operator is owned by oligarch Alisher Usmanov. The other half is split between the state-owned Rostec Corporation and oligarch Alexander Galitsky. This consortium earns half a ruble for every tagged item. And Russia sells around 5 billion packages of medication each year. That means these beneficiaries are getting rich off a system that isn’t even working the way it meant to.
 
 **AT LEAST OUR INVESTIGATION FORCED THE OFFICIALS TO ACKNOWLEDGE THE CRISIS.**Following our story’s publication, Russia’s Ministry of Industry and Commerce has temporarily moved the new system to “notification mode” only. That means that the packages wouldn’t have to jump through as many administrative hoops, and the delays would be reversed. Let’s see if that actually happens.
+
+![](_assets/fa/faf3f5f07b2addc3c2cc877e64efc237.webp)
 
 *Illustration by Petr Sarukhanov*
 
@@ -58,6 +62,8 @@ Russia's real estate market currently has all of the signs of a burgeoning mortg
 **BUBBLING.**The program stimulated people to buy homes faster than developers can build them. In some regions, around 90 percent of new buildings are sold through the state-subsidized mortgage, which artificially inflates housing prices. In Moscow, reports suggest that housing prices have already skyrocketed by 10 percent in the last few months. All this despite a severe economic downturn inflicted by the Great Shutdown.
 
 **MASSIVE BURST IS AHEAD.**The rise in housing prices isn't problematic on its own. Still, it is dangerous because this bubble is based almost entirely on money borrowed by people with few resources. As real wages and disposable income continue to stagnate in Russia, real estate prices and the number of mortgage loans have simultaneously ballooned. This is the perfect storm for loan defaults.
+
+![](_assets/f6/f6d048d6b29791b8b00f77758e4e0a7b.webp)
 
 *Photo: RIA Novosti*
 

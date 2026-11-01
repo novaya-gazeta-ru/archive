@@ -28,6 +28,8 @@ This week we keep track of one of the largest scandals in the modern history of 
 
 **WHO'S ZUEV, AND WHAT HAPPENED. **Until recently, Sergei Zuev was the Moscow School for Social and Economic Sciences rector — one of the few remaining non-state and prestigious educational institutions. On November 10, he was arrested for embezzling over 21 million roubles (around $288,000) from the university. Zuev, a prominent liberal figure, faced extra-harsh pre-trial treatment, despite his frail health. At the same time, the evidence against him looks weak and has been put together haphazardly. In a stark move, the Kremlin didn't even bother to deny that the case is political. However, Pastukhov warns that this is a premeditated strategy to conceal the real reason for Zuev's arrest and 'highlights a transition to a qualitatively new level of state terror.'
 
+![](_assets/2b/2b8a5a1a98066e6e92a89008eb6ba943.webp)
+
 *Sergey Zuev. Photo from personal archive*
 
 **WHAT'S BEHIND THE CASE. **The real motive behind Zuev's arrest is linked to the infighting within the Kremlin elites over Enlightenment, one of the country's largest publishing houses. Before recent financial troubles, it accounted for approximately 30% of the country's school textbook industry. But in 2020, the government bailed out the company, and a troika of state-owned financial institutions, VEB, Sberbank, and the Russian Direct Investment Fund, took over 75% of the publishing house's shares. The acquisition fits well with the business ambitions of German Gref, the Sberbank's CEO and Putin's close ally. He is actively expanding into educational projects amid the Kremlin's [growing grip](https://novayagazeta.ru/articles/2021/07/21/russia-explained) over every aspect of education in the country. However, the move crossed the Ministry of Education that had its own plans for the company and the school education at large.
@@ -37,6 +39,8 @@ This week we keep track of one of the largest scandals in the modern history of 
 **WHERE DOES ZUEV COME INTO IT. **Sergei Zuev was implicated in Rakova's case, too. He was a perfect figure to distract the public from one of the Kremlin's infightings that got a little bit out of hand. Essentially, Zuev is collateral damage. He just happened to offer a means of concealing the personal vendetta and business rivalry within Kremlin elites.
 
 > 'The task was to divert everyone's attention from the real source of the business infighting. For that, they had to implicate Rakova in something peripheral with no link to the zone of real conflict. They also had to divert everyone's attention from her business role in the standoff. This is where Zuev's 'martyr' figure fits in, making it a perfect coverup operation,' Pastukhov explains. By attacking the rector — a symbol of liberalism — the actual beneficiaries distracted the attention from the economic reality by offering a plausible political distraction.
+
+![](_assets/3a/3aaf0232863507af10bcdf651bf5b51b.webp)
 
 *Illustration: Petr Sarukhanov / "Novaya Gazeta"*
 
@@ -57,6 +61,8 @@ While the term "indigenous activism" may, for many, first call to mind the Unite
 **ECHOES OF STALINIST TERROR.** During the Great Terror (1936-48), 125 of the 2,000-strong Sámi population in northwest Russia were arrested, most being executed by firing squad or sent to the gulag. The victims included almost all of the Sámi intelligentsia. When the Nenets people rose up for the second time against the Soviet authorities, the latter violently repressed the movement.
 
 > "It is impossible," writes Britskaya, "not to draw parallels between [the 1930s] and the present day. Simple and completely justifiable demands, requests even, from indigenous people are met with harsh responses. The State's decisions demonstrate complete ignorance of the lands and the peoples [of the Far North], illiteracy even. It is the authorities themselves who threaten the survival of these people and therefore force them to protest."
+
+![](_assets/f4/f4f2ada41040053834c1039dcd9e7269.webp)
 
 *Photo: Nelly Slupachik*
 
@@ -82,6 +88,8 @@ Governor Sergei Furgal — whose arrest led to [an unprecedented anti-Moscow out
 
 **ON WHO IS BEHIND HIS DETENTION.** I will not give names, but of course, I know who they are. The main reason for my detention is the greed and fear of those people who are used to living in a certain paradigm. They did not understand that they needed to live differently, that people also mean something […]I personally want to live in a normal country where regional leaders are not appointed to rob, but on the contrary — to protect people."
 
+![](_assets/ae/ae942281a4ca444069b0d5df4ff048d9.webp)
+
 *Sergei Furgal. Photo: RIA Novosti*
 
 **ON BEING SEPARATED FROM LOVED ONES. **"It's very personal for me. And the system is arranged in such a way that weaknesses in every detained person are found and targeted. They know how they are professionals …."
@@ -105,6 +113,8 @@ November 11 of this year marks the 200th anniversary of the esteemed Fyodor Mikh
 - On an unconscious level, a person struggles with fear not of death, but of life. Life is an endless source of risks, challenges and threats. Hence, we are doomed to a fight with the power that made us live, that doomed us to a world of suffering.
 - The main tool of psychoanalysis is confession. Psychotherapy is repentance.
 - There is a convergence of missions and functionality of the psychoanalyst / psychotherapist and the [...] priest.
+
+![](_assets/3b/3b650508b8c4fdca839dd4450bd84597.webp)
 
 *Photo: Alexander Demyanchuk / TASS*
 

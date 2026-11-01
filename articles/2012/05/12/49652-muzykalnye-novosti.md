@@ -10,6 +10,18 @@ tags: ""
 ---
 
 # Музыкальные новости
+![](_assets/01/01d05c17aebd4869bcddc448eeb9944b.webp)
+
+![](_assets/8b/8bf3f08ef4aef1989aac5a4bdd209576.webp)
+
+![](_assets/39/3980573d973082bf30061cb860c87094.webp)
+
+![](_assets/c2/c251e0bcc0d69e8ddb0b85600ec0db23.webp)
+
+![](_assets/dc/dcaecb44be28707b5aaef1d73e809c55.webp)
+
+![](_assets/ea/eaf9247cdb58ffe70820623a965773c0.webp)
+
 
 Первый концерт The Beatles в Америке появится на экранах кинотеатров
 

@@ -10,8 +10,40 @@ tags: ""
 ---
 
 # Качканарская мечта
+![](_assets/be/bed67cd944e13dd8814562d15c1a8fcb.webp)
+
+![](_assets/2a/2a53db97e7afd489d6ed760428625ed1.webp)
+
+![](_assets/e3/e305486ccd841037871f41c7df86ea8a.webp)
+
+![](_assets/7a/7ae7d740df05aef21a1b64bf6ec2a152.webp)
+
+![](_assets/10/10242b84da847df8d79159b80ca54f1a.webp)
+
+![](_assets/f5/f530004fa8d523065b0350a7a956457b.webp)
+
+![](_assets/71/71ab78dc96d071c69a62da043d8109e1.webp)
+
+![](_assets/c5/c59895af236ec8dcda7f0c5ee40a8690.webp)
+
+![](_assets/5d/5d7e90e99dc6c6aa9c6e85728f9f14ed.webp)
+
+![](_assets/55/553eaf24cf5c2d943622475842d3b567.webp)
+
+![](_assets/be/bec665ed4a6acb1285c0aef0375b372d.webp)
+
+![](_assets/3b/3b2ddcdef57a68b5dfacfe279f69567b.webp)
+
+![](_assets/df/df8f09058ef0ccb7c24f33432a2d1570.webp)
+
+![](_assets/b5/b5c4438276063304d7bbc8a9ac443973.webp)
+
+![](_assets/66/6645d735dedf0600d3576aea81a40ac0.webp)
+
 
 *Гора дает жизнь городу и смысл жизни — буддистскому монастырю. Их интересы несовместимы. Кому придется уступить?*
+
+![](_assets/82/82e2f787ef4434c7780516b980d86025.webp)
 
 *Все фото: Дмитрий Ткачук — специально для «Новой»*
 

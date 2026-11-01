@@ -10,6 +10,22 @@ tags: ""
 ---
 
 # Поселок Заводской. Эвтаназия
+![](_assets/63/6362b1c46c504fe5be290beead7f3e76.webp)
+
+![](_assets/2f/2f4634bd5117315aa300f7cf1b81520e.webp)
+
+![](_assets/d5/d54e33c30dc4d1fc91120061d3871c40.webp)
+
+![](_assets/8f/8f80a0e241c47e706f4815efa91661f9.webp)
+
+![](_assets/94/949b06623a654c83ab3c734305b09708.webp)
+
+![](_assets/08/08142e9c8488ee9d92fabcbff22b03a5.webp)
+
+![](_assets/59/59facc7959d8d5fe45ef3281eeb08897.webp)
+
+![](_assets/0f/0f31ce6c55ebdcf9aefea6a11e23e966.webp)
+
 
 *Баба Валя в ожидании весны, которая оборвет все ее связи с Россией*
 

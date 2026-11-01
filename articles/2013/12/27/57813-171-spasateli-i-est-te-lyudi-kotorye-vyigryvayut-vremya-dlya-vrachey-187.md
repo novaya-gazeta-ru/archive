@@ -10,6 +10,26 @@ tags: ""
 ---
 
 # «Спасатели и есть те люди, которые выигрывают время для врачей»
+![](_assets/b4/b4127241cbb0df767c7772dd435412c0.webp)
+
+![](_assets/e3/e3ce9f0ff6c85632b66585ad19420f96.webp)
+
+![](_assets/e4/e4b2d41266750be3b69f8d727e9b468b.webp)
+
+![](_assets/da/da24b3b69ae31b21ab7aca16defcc190.webp)
+
+![](_assets/c9/c9be515ed02d1f7421e1fea860a9aa63.webp)
+
+![](_assets/bf/bf1cbaa3fbf8785f9ea6148eee488f3d.webp)
+
+![](_assets/46/46e7f1b8b47f4c3539cf5a3369aca9bb.webp)
+
+![](_assets/74/7417f24dbf4cff09f9706a92651a4068.webp)
+
+![](_assets/4b/4bf8c6327f54c09ca41fe72ac2be38b6.webp)
+
+![](_assets/7d/7d6460b7cf32c6315f82b1045ec39ecf.webp)
+
 
 *Сутки с экипажем ППС Санкт-Петербурга*
 

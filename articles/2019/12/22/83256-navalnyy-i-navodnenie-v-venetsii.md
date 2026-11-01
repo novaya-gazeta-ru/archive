@@ -10,8 +10,42 @@ tags: "москва, протесты, абсурд, кафка-кодекс"
 ---
 
 # Навальный и наводнение в Венеции
+![](_assets/bd/bdb91b10bce05fa650f7bdb3b6a9a682.webp)
+
+![](_assets/d2/d21b948ea91c91626156d971484abd63.webp)
+
+![](_assets/c0/c0fa62fccf0e8fc7980b97b8202a2991.webp)
+
+![](_assets/84/846d92b74db05b928cbed9ff8493684b.webp)
+
+![](_assets/fe/fe463f8d9472b4408e116e334ce1a33c.webp)
+
+![](_assets/02/0256b6e2bc34c70e9ce3269e6588be0d.webp)
+
+![](_assets/1c/1ca3e93675ee8ed60f64d497b877a7df.webp)
+
+![](_assets/41/4163799b8b8848afdd7ca5a4fe76f103.webp)
+
+![](_assets/e8/e8967a8773de26326e1e750acdffc0f0.webp)
+
+![](_assets/00/0006ff67ee36b947a0d727e212a01334.webp)
+
+![](_assets/7d/7d2344cba4585f507c41d509c1bd41bb.webp)
+
+![](_assets/a2/a2614b552339f16935b0ba1594a56280.webp)
+
+![](_assets/c2/c21d3b1a70d341586183768b4f22b129.webp)
+
+![](_assets/68/6866cd70fa1392c21332c82b27a9e21a.webp)
+
+![](_assets/96/963e3c0300222e6abc3e3b7baf67075d.webp)
+
+![](_assets/30/30a7e8d446f489ddf327e0fb3174acbd.webp)
+
 
 *Как связаны иски к организаторам летних протестов в Москве с мировыми кризисами? Комикс*
+
+![](_assets/72/720041da1c09944007c06fca2252945f.webp)
 
 *Комикс: Георгий Елаев — специально для «Новой газеты»*
 

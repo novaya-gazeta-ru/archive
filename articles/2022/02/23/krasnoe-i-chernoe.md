@@ -15,17 +15,17 @@ tags: ""
 
 Черно-белые мысли о прошлом и будущем в красный день календаря 23 февраля 2022 года.
 
-*\*
+![](_assets/cb/cb192f741b7f311c097583625d59329f.webp)
 
-*\*
+![](_assets/da/daf975f5d810fbbe8398d1657a631a10.webp)
 
-*\*
+![](_assets/15/15219a80e00d02feecd2319c70022dd4.webp)
 
-*\*
+![](_assets/d1/d1af435eba077086268acd9f0226a032.webp)
 
-*\*
+![](_assets/f6/f6241aaa203f0258c3702baa3b36474b.webp)
 
-*\*
+![](_assets/ab/ab5c16ed7d0f3a962ce68ffd924b9d6c.webp)
 
 > **От редакции**
 >

@@ -10,6 +10,26 @@ tags: ""
 ---
 
 # Ловля на гольца
+![](_assets/a8/a8fd03c18b9427ef6e17077ec5561372.webp)
+
+![](_assets/7d/7ddbe7840d7d45ea24571bb757f3504a.webp)
+
+![](_assets/a9/a94fc0229d3a77a37eca94dfb6e0237c.webp)
+
+![](_assets/80/80cb510e73581976e25f0579b52cb38e.webp)
+
+![](_assets/8d/8d8932ec5beee0c572685c99a9990c70.webp)
+
+![](_assets/47/472ee68d216328bddcfb4c40943868ea.webp)
+
+![](_assets/08/08ece1b4b3faaadb5325c48e50b9c185.webp)
+
+![](_assets/32/32b7ea30ed90d0576f6f9c0ea5bc9b65.webp)
+
+![](_assets/d6/d60d27c443f9c131b79c35a9c25d728c.webp)
+
+![](_assets/5f/5fdae11a10b662413ea331240e4b9dce.webp)
+
 
 *Ямальский губернатор назвал фейком нашу публикацию о его рыбалке в заповеднике. Почему он не прав?*
 

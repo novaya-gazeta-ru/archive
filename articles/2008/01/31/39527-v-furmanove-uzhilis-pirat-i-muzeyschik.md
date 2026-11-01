@@ -10,6 +10,12 @@ tags: ""
 ---
 
 # В Фурманове ужились пират и музейщик
+![](_assets/50/507d0019d7af0bbc96c0df0f66759353.webp)
+
+![](_assets/c9/c997c5c381c1e4fff966bab2d17db10a.webp)
+
+![](_assets/3b/3b6e27114711fed1bfcfef31cd13204e.webp)
+
 
 *Безымянное пространство*
 

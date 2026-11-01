@@ -10,6 +10,8 @@ tags: "дипломатия, курилы, япония"
 ---
 
 # Курилы — «суси» для японцев. Продолжение
+![](_assets/22/22ce8e419bd29a6e967f8bcb6e94ff98.webp)
+
 
 **link:** https://novayagazeta.ru/society/69536.html
 

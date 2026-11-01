@@ -13,6 +13,8 @@ tags: "russia; explained"
 
 *Moscow overrun by Covid-19 — No bailouts for Russians — Crimea evictions*
 
+![](_assets/f6/f61b0f1fc545596640a4ed3a32402a80.webp)
+
 *Photo: Alexander Zemlyanichenko / TASS*
 
 This Week’s Highlights
@@ -33,6 +35,8 @@ Russia has this week become the epicenter of the third-largest coronavirus outbr
 
 **And then, there’s cellphone data.** There are no figures on how many people have left Moscow during quarantine. Still the data by the country’s largest mobile network operator MTS gives us a fair idea: more than 15% of their Moscow-based subscribers left the capital, 79% of them traveled to other parts of the Moscow region, and 21% went to other regions.
 
+![](_assets/ab/ab08fccceff37114c750f66106ce4810.webp)
+
 *Photo: RIA Novosti*
 
 **Conclusion: Russia faces the Italian scenario.**Russian officials claim that the country has managed to avoid the outbreak of disaster like in Italy. But given the Kremlin’s recent ban on virus-related “fake news” as a way to silence reports that don’t toe the government line, these assurances seem dubious. Russia has overtaken Italy in the number of COVID-19 cases. New data shows that the number of deaths registered in Moscow for April was 19% higher than the average for that month. It means the government's official coronavirus death toll (which sits at a low 0.9%) is likely to be severely underreported.
@@ -50,6 +54,8 @@ Although Russians have been ordered to stay home to curb the spread of infection
 **Russia can afford it.**Averbukh argues on behalf of direct stimulus transfers to Russian citizens. Paying 65 million people a minimum income wage for one month would set the government back 1.15 trillion rubles ($15.7 billion); three months — 3.45 trillion rubles ($47.2 billion). Averbukh argues that Russia can afford it — the Russian National Wealth Fund has accumulated around $176 billion from lucrative oil and gas sales over the last decade. Furthermore,
 
 **Russia can also print more money.**Something that the Central Bank is already doing to compensate for the federal budget revenue fall due to the drop in oil prices. The latest data shows that the Central Bank has already printed trillions in new money as inflation concerns remain low. Averbukh argues that instead of being obsessed with fiscal balance, the Central Bank should channel these funds to pockets of ordinary Russians.
+
+![](_assets/a4/a44f903570ad45ed589a35b18ed83b3b.webp)
 
 *Photo: Anton Novoderezkhin / TASS*
 
@@ -72,6 +78,8 @@ Following Russia’s annexation of Ukraine’s Crimean peninsula in 2014, the Kr
 > “My husband is a pensioner and a Chernobyl liquidator. I’m a pensioner too,” Elena Kozlov complains. “The children don’t have housing. If they offered to put any kind of roof over our heads, we would gladly leave.”
 
 **Some lose their roofs.**Literally. Andrei Komarov owns a home within the territory of ‘St Petersburg’ sanatorium in Yalta. After the annexation, it was resold to VSMPO-Avisma Corporation, the world's largest titanium producer and a subsidiary of Rostec, a state corporation founded by President Vladimir Putin. Since then, a number of families living on the edge of the resort started having problems and new owners encouraged them to move. Komarov refused and saw part of his roof and a garden disappear.
+
+![](_assets/61/614e7a3fceb2780fed94846c11214df9.webp)
 
 *Photo: Ekaterina Reznikova / "Novaya Gazeta"*
 

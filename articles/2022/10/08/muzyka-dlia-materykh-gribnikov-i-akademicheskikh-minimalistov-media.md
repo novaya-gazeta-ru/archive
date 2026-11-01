@@ -21,7 +21,7 @@ tags: "бьорк, музыка, обзоры"
 - **Suede**
 - **The Young Gods**
 
-*\*
+![](_assets/b2/b269d6b3820d9eb6d9cfc76a8a0d4720.webp)
 
 > **Bjork**
 >
@@ -53,7 +53,7 @@ tags: "бьорк, музыка, обзоры"
 > - **«Mycelia»**
 > - **«Ancestress»**
 
-*\*
+![](_assets/08/089821fcd265c17f5421696c94200187.webp)
 
 > **Pixies**
 >
@@ -73,7 +73,7 @@ tags: "бьорк, музыка, обзоры"
 > - **«Haunted House»**
 > - **«Pagan Man»**
 
-*\*
+![](_assets/9b/9b507c987838adbab2dd1a36ed073179.webp)
 
 > **Suede**
 >
@@ -95,7 +95,7 @@ tags: "бьорк, музыка, обзоры"
 
 **Другой плейлист:** https://novaya.media/articles/2022/09/26/drevneishaia-pesn-chelovechestva-i-bozhestvennyi-golos-vselennoi
 
-*\*
+![](_assets/99/9913724725489bc795addd650f9764ab.webp)
 
 > **The Comet Is Coming**
 >
@@ -113,7 +113,7 @@ tags: "бьорк, музыка, обзоры"
 > - **«Angel Of Darkness»**
 > - **«The Hammer»**
 
-*\*
+![](_assets/b6/b624bcb0c4d4cf60191cab905e800c99.webp)
 
 > **The Young Gods**
 >

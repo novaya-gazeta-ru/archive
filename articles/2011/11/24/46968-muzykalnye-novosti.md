@@ -10,6 +10,18 @@ tags: ""
 ---
 
 # Музыкальные новости
+![](_assets/e8/e8eaaa5adc2a1ae70e9e5bfda12193b5.webp)
+
+![](_assets/ae/ae287a10114969d66962819443975055.webp)
+
+![](_assets/08/08695beb8d87f9df0af0501e96cbf309.webp)
+
+![](_assets/05/053e34c15f476db696dd98010a5eeaf5.webp)
+
+![](_assets/54/541711613d0ea376013d96254a51299e.webp)
+
+![](_assets/4b/4befb4ec81c7cf26454e9df633583e78.webp)
+
 
 Брюс Дикинсон решил спасти авиакомпанию «Astraeus Airlines»
 

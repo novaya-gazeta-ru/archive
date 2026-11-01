@@ -13,7 +13,9 @@ tags: "ng, forbes, потанин, норникель"
 
 Впервые в истории российского списка Forbes состояние совладельца «Норильского никеля» Владимира Потанина достигло отметки в 30 млрд долларов. Об этом [свидетельствуют](https://www.forbes.com/real-time-billionaires/#2ad058b33d78) данные Forbes Real Time. Потанин стал первым россиянином в истории, обладающим таким большим состоянием, [отмечает](https://www.forbes.ru/newsroom/milliardery/421245-sostoyanie-rossiyskogo-milliardera-vpervye-v-istorii-dostiglo-30-mlrd?utm_source=telegram&utm_medium=social&utm_campaign=sostoyanie-vladimira&photo=4) издание.
 
-*Скрин: данные Forbes Real Time*
+![](_assets/85/85047b3467e74fc88e0165c15007b61c.webp)
+
+*Скрин: данные Forbes Real Time*
 
 Причина — в росте котировок акций «Норникеля». Накануне они торговались на уровне 26 290 рублей за бумагу, в то время как 1 февраля стоимость акции составила 24 866 рублей, а 30 декабря — 23 682 рубля, отмечает Forbes.
 

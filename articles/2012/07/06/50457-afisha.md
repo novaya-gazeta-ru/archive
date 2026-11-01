@@ -10,6 +10,10 @@ tags: ""
 ---
 
 # Афиша
+![](_assets/79/79ca783824d79c0e081c3cb0dde465b2.webp)
+
+![](_assets/a7/a7f33c74841f17d1b2f5ae2326ee94b6.webp)
+
 
 #  Балет нон-стоп
 

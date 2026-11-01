@@ -25,6 +25,8 @@ tags: "реклама, интернет, псковская область, пр
 
 «Новая» направила жалобу в псковское управление ФАС через онлайн-приемную.
 
+![](_assets/b2/b29c60810dfc1c877d87a315707f8464.webp)
+
 *[Скриншот новости от 16 декабря 2013 года](https://web.archive.org/web/20190404172730/www.prokuratura.pskov.ru/news.html?code=3344)*
 
 Часть ссылок вела на украинские ресуры: например, в [этой](https://web.archive.org/web/20190404173158/http://www.prokuratura.pskov.ru/news.html?code=5360) публикации говорилось, где в Украине можно купить иконы Ангела Хранителя. Еще в 13 [публикациях](https://web.archive.org/web/20190404173537/http://www.prokuratura.pskov.ru/news.html?code=3531) [говорилось](https://web.archive.org/web/20190404173514/http://www.prokuratura.pskov.ru/news.html?code=4630) об украинском [предпринимателе](https://web.archive.org/web/20190404173508/http://www.prokuratura.pskov.ru/news.html?code=4979) и филантропе [Максиме Полякове](https://window.unian.net/2213091-maks-polyakov-i-ego-podderjka-raznoobraznyih-obrazovatelnyih-tehnologicheskih-konkursov.html), создателе аэрокосмической компании [Firefly Aerospace](https://firefly.com/max-polyakov/) и фонда  [Noosphere](https://www.facebook.com/noosphere.community). Поляков не прочел сообщения в соцсетях, в пресс-службе Noosphere «Новую» заверили, что Поляков не имеет к появлению на сайте рекламы никакого отношения.

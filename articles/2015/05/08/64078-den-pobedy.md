@@ -10,6 +10,16 @@ tags: ""
 ---
 
 # День Победы
+![](_assets/48/48ae927332fc9eaf9a2b158fa9bb9a0b.webp)
+
+![](_assets/68/68354fd7818528584edb7e4a3c382383.webp)
+
+![](_assets/0c/0cb7ade0fbdf76cb86ed2a4a929f26d4.webp)
+
+![](_assets/70/70940a764524995de3150a14088304c0.webp)
+
+![](_assets/92/92f34160615005b7b939755b1b97eed4.webp)
+
 
 *Эскизы тезисов к празднику*
 

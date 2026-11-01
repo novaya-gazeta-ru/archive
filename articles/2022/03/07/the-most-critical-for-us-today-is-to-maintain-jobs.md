@@ -13,6 +13,8 @@ tags: ""
 
 *Vladimir Lisin, Chairman of the Board of Directors NLMK Group, addressed the employees of the company*
 
+![](_assets/89/8996cd0d0249505240506fabb2dae8f6.webp)
+
 *Vladinir Lisin. RIA Novosti*
 
 > Dear colleagues,
